@@ -4,12 +4,9 @@
     "quests.gregtech_energy": "Gregtech Energy",
     "quests.gregtech_energy.subtitle": "So how does all of that work?",
 
-    "quests.gregtech_energy.TEST.title": "",
-    "quests.gregtech_energy.TEST.subtitle": "",
-    "quests.gregtech_energy.TEST.desc.1": "",
-    "quests.gregtech_energy.TEST.desc.2": "",
-    "quests.gregtech_energy.TEST.desc.3": "",
-    "quests.gregtech_energy.TEST.desc.4": "",
+    "quests.gregtech_energy.start.title": "Let's do some explaining",
+    "quests.gregtech_energy.start.desc": "We know that &5GregTech&r isn’t the easiest mod to get into — especially when it comes to the &cenergy system&r. That’s why we’ll take our time in this chapter to explain as much as we can.\n\nSome things here might not make full sense until later in your progression, so &adon’t stress yourself&r. Just try to understand what you can for now, and feel free to &dcome back to this chapter&r whenever you have questions.\n\nWe’ve split this chapter into &efour categories&r, each one covering a topic related to the &6GregTech Energy System&r. We’ll provide as many examples as possible to help you understand how it all works.",
+    "quests.gregtech_energy.start.task": "Welcome aboard",
 
     "quests.gregtech_energy.TEST.title": "",
     "quests.gregtech_energy.TEST.subtitle": "",

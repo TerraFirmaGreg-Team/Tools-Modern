@@ -303,5 +303,9 @@
 
     "quests.medium_voltage.mv_ram.title": "Download more RAM",
     "quests.medium_voltage.mv_ram.subtitle": "That's from the Dark Punk you know?",
-    "quests.medium_voltage.mv_ram.desc": "&aRandom Access Memory&r is required for many Circuits."
+    "quests.medium_voltage.mv_ram.desc": "&aRandom Access Memory&r is required for many Circuits.",
+
+    "quests.medium_voltage.lsb.title": "Getting very steamy",
+    "quests.medium_voltage.lsb.subtitle": "If you have unlimited fuel, it can still be good",
+    "quests.medium_voltage.lsb.desc": "If you're &lstill&r running off the &3Large Bronze Boiler&r, you may want to upgrade to the &3Large Steel Boiler&r.\n\nIt's slightly more efficient than the &3LBB&r, and produces &d900 EU/t worth of Steam&r.\n\nWe'd recommend you try other power options at this point."
 }
