@@ -11,5 +11,8 @@
 	"material.gtceu.desh": "Desh",
 	"material.gtceu.ostrum": "Ostrum",
 	"material.gtceu.calorite": "Calorite",
-	"material.gtceu.etrium": "Etrium"
+	"material.gtceu.etrium": "Etrium",
+
+	"material.gtceu.rocket_alloy_t1": "Colored Rocket Alloy",
+	"material.gtceu.vitrified_asbestos": "Vitrified Asbestos"
 }
