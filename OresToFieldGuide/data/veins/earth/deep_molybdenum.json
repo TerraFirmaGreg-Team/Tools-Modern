@@ -21,10 +21,6 @@
 			"block_weight": 1
 		},
 		{
-			"ore": "molybdenum",
-			"weight": 15
-		},
-		{
 			"ore": "powellite",
 			"weight": 15
 		}

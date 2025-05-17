@@ -5,7 +5,7 @@
 	"config": {
 		"rarity": 250,
 		"density": 0.25,
-		"min_y": -32,
+		"min_y": 0,
 		"max_y": 50,
 		"size": 40
 	},
@@ -21,12 +21,14 @@
 		},
 		{
 			"ore": "neodymium",
-			"weight": 25
+			"weight": 5
 		}
 	],
 	"rocks": [
-		"diorite",
-		"gabbro"
+		"glacio_stone",
+		"andesite",
+		"dacite",
+		"rhyolite"
 	],
 	"indicator": {
 		"depth": 50
