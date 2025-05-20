@@ -32,11 +32,11 @@
 
     "quests.metal_age.weld_wrought_iron_ingots.title": "Welding Wrought Iron",
     "quests.metal_age.weld_wrought_iron_ingots.subtitle": "CLANG CLANG CLANG",
-    "quests.metal_age.weld_wrought_iron_ingots.desc": "Obtain at least 14 Ingots of Wrought Iron, then weld them together in a Bronze Anvil. Charcoal alone won't reach high enough temperatures to weld Wrought Iron, so check the quest above this for a solution.",
+    "quests.metal_age.weld_wrought_iron_ingots.desc": "Obtain at least 14 Ingots of Wrought Iron, then weld them together in a Bronze Anvil. Careful you don't melt your Wrought Iron, otherwise it will turn back into Cast Iron and you'll have to run it through the Bloomery again!",
 
     "quests.metal_age.bellows.title": "Bellows",
     "quests.metal_age.bellows.subtitle": "Higher temperatures can be reached, at a small price.",
-    "quests.metal_age.bellows.desc": "The Bellows is a device that can force extra air into a fire or forge in front of it, allowing the heat produced by the fuel inside to reach higher temperatures than usual, at the cost of fuel duration.\n\nThe Bellows is basically mandatory for working with Wrought Iron unless you have Coal.",
+    "quests.metal_age.bellows.desc": "The Bellows is a device that can force extra air into a fire or forge in front of it, allowing the heat produced by the fuel inside to reach higher temperatures than usual, at the cost of fuel duration.\n\nThese higher temperatures are required to fire pottery with charcoal or melt certain metals.\n\nCoal and Coke can also reach higher temperatures without it.",
 
     "quests.metal_age.wrought_iron_anvil.title": "T3 Anvil: Wrought Iron",
     "quests.metal_age.wrought_iron_anvil.subtitle": "Waterwheels, Windmills and more Greate",
