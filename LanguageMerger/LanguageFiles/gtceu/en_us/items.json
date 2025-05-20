@@ -1,15 +1,15 @@
 {
-    "item.gtceu.tiny_wood_dust": "Tiny Pile of Softwood Pulp",
-    "item.gtceu.small_wood_dust": "Small Pile of Softwood Pulp",
-    "item.gtceu.wood_dust": "Softwood Pulp",
+	"item.gtceu.tiny_wood_dust": "Tiny Pile of Softwood Pulp",
+	"item.gtceu.small_wood_dust": "Small Pile of Softwood Pulp",
+	"item.gtceu.wood_dust": "Softwood Pulp",
 
-    "item.gtceu.tiny_hardwood_dust": "Tiny Pile of Hardwood Pulp",
-    "item.gtceu.small_hardwood_dust": "Small Pile of Hardwood Pulp",
-    "item.gtceu.hardwood_dust": "Hardwood Pulp",
+	"item.gtceu.tiny_hardwood_dust": "Tiny Pile of Hardwood Pulp",
+	"item.gtceu.small_hardwood_dust": "Small Pile of Hardwood Pulp",
+	"item.gtceu.hardwood_dust": "Hardwood Pulp",
 
-    "item.gtceu.tiny_thermochemically_treated_hardwood_dust": "Tiny Pile of Thermochemically Treated Hardwood Pulp",
-    "item.gtceu.small_thermochemically_treated_hardwood_dust": "Small Pile of Thermochemically Treated Hardwood Pulp",
-    "item.gtceu.thermochemically_treated_hardwood_dust": "Thermochemicallyy Treated Hardwood Pulp",
+	"item.gtceu.tiny_thermochemically_treated_hardwood_dust": "Tiny Pile of Thermochemically Treated Hardwood Pulp",
+	"item.gtceu.small_thermochemically_treated_hardwood_dust": "Small Pile of Thermochemically Treated Hardwood Pulp",
+	"item.gtceu.thermochemically_treated_hardwood_dust": "Thermochemicallyy Treated Hardwood Pulp",
 	"item.gtceu.tool.behavior.canoe_creator": "§5Boater: §fCan Create Canoes",
 
 	"item.gtceu.deepslate_dust": "Migmatite Dust",
@@ -41,5 +41,14 @@
 	"item.gtceu.iron_octal_cable": "8x Cast Iron Cable",
 	"item.gtceu.iron_hex_cable": "16x Cast Iron Cable",
 
-	"item.gtceu.ice_bucket": "Ice Water Bucket"
+	"item.gtceu.ice_bucket": "Ice Slush Bucket",
+
+	"item.gtceu.copper_credit": "§71 Credit",
+	"item.gtceu.cupronickel_credit": "§78 Credits",
+	"item.gtceu.silver_credit": "§764 Credits",
+	"item.gtceu.gold_credit": "§7512 Credits",
+	"item.gtceu.platinum_credit": "§74,096 Credits",
+	"item.gtceu.osmium_credit": "§732,768 Credits",
+	"item.gtceu.naquadah_credit": "§7262,144 Credits",
+	"item.gtceu.neutronium_credit": "§72,097,152 Credits"
 }

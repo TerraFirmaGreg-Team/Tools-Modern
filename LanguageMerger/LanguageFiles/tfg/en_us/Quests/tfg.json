@@ -12,7 +12,7 @@
 
     "quests.tfg.capture_territory.title": "How to capture territory?",
     "quests.tfg.capture_territory.subtitle": "And how to load chunks in your territory",
-    "quests.tfg.capture_territory.desc": "If you play on a server, you might want to claim your territory so other players can't interfere. Use the Open Map key (default \"M\") to open the map, then right-click the chunk you want to claim, and select Claim Chunk. There is a limit to this, so you can't claim everything. You can right-click on a chunk again to Forceload (aka \"chunk load\") it. Claiming chunks will include your whole team, if you're using one.",
+    "quests.tfg.capture_territory.desc": "If you play on a server, you might want to claim your territory so other players can't interfere. Use the Open Claims key (default \"Ctrl+M\") to open the window, then left-click to claim a chunk and right-click to unclaim them. There is a limit to this, so you can't claim everything. You can shift-left-click on a chunk to forceload (aka \"chunk load\") it, and shift-right-click to un-forceload it. Claiming chunks will include your whole team, if you're using one.",
 
     "quests.tfg.field_guide.title": "Important information about quests!",
     "quests.tfg.field_guide.subtitle": "I need to read more?",
