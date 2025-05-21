@@ -1,0 +1,84 @@
+{
+    // Welcome to MV
+
+    "quests.development": "Таблица прогрессии",
+    "quests.development.subtitle": "Простой способ понять свой прогресс в Gregtech",
+
+    "quests.development.explanation.title": "Давайте разберёмся",
+    "quests.development.explanation.subtitle": "На самом деле всё довольно просто",
+    "quests.development.explanation.desc.1": "&lПрогрессия схем&r в GregTech может показаться пугающей, но всё не так уж и плохо.\n\nПрежде всего, нужно понять, что схемы одного уровня взаимозаменяемы. Например, чтобы скрафтить &6Миксер HV&r, можно использовать любую схему уровня &6HV&r.",
+    "quests.development.explanation.desc.2": "Теперь поговорим о &lпрогрессии&r. Как ты мог заметить, каждая схема имеет цветовую маркировку и имя. Например, все &aКвантовые Процессоры&r — &aзелёные&r и создаются в &1IV&r сборщиках схем. Чтобы скрафтить такую схему, нужно сначала скрафтить схему предыдущего уровня — именно поэтому, чтобы получить свою первую &dLuV&r &dСхему&r (Главную плату Нанопроцессора), тебе придётся сначала скрафтить Нанопроцессор и пройти через все &7этапы&r. В данном случае их три.\n\nИменно поэтому самые &6правые&r схемы в каждом ряду всегда &aдешевле в крафте&r: они требуют меньше &7этапов&r.",
+    "quests.development.explanation.desc.3": "Дополнительно мы добавили &lУниверсальные Схемы&r. Их можно &aскрафтить&r из любой &6схемы&r — будь то &1IV&r, &dLuV&r, &3UV&r или любой другой уровень — и они крайне полезны для &9автоматизации&r с AE2. Постарайся кодировать все &fпаттерны&r с &lУниверсальными Схемами&r — так при переходе на более продвинутые схемы тебе не придётся пересоздавать все &fпаттерны&r, только те, что используются для крафта Универсальной Схемы.",
+    "quests.development.explanation.task": "Ладно, я прочитал все три страницы",
+
+    "quests.development.ulv.title": "&8ULV&r Схемы",
+    "quests.development.ulv.subtitle": "",
+    "quests.development.ulv.desc": "На этой линии ты можешь увидеть эквиваленты схем уровня Пара, или &8&8ULV&r.",
+
+    "quests.development.lv.title": "&7LV&r Схемы",
+    "quests.development.lv.subtitle": "",
+    "quests.development.lv.desc": "Схемы на этой линии — уровня &7LV&r и взаимозаменяемы в рецептах.\n\n&cЭлектронные схемы&r — &oхудшие&r по затратам и сложности производства, но с чего-то же надо начинать.\n\n&eБазовые Интегральные Процессоры&r — промежуточный этап между &cЭлектронными Схемами&r и &2Микрочипами&r.\n\nВ конечном счёте &2Микрочипы&r — лучший вариант для дальнейшего прохождения.",
+
+    "quests.development.mv.title": "&bMV&r Схемы",
+    "quests.development.mv.subtitle": "",
+    "quests.development.mv.desc": "Схемы на этой линии — уровня &bMV&r и взаимозаменяемы в рецептах.\n\nШаблон остаётся тем же: самая правая схема даётся &dв больших количествах&r и её &апроще&r производить.",
+
+    "quests.development.hv.title": "&6HV&r Схемы",
+    "quests.development.hv.subtitle": "",
+    "quests.development.hv.desc": "Схемы на этой линии — уровня &6HV&r и взаимозаменяемы в рецептах.\n\nШаблон остаётся тем же: самая правая схема даётся &dв больших количествах&r и её &апроще&r производить.",
+
+    "quests.development.ev.title": "&5EV&r Схемы",
+    "quests.development.ev.subtitle": "",
+    "quests.development.ev.desc": "Схемы на этой линии — уровня &5EV&r и взаимозаменяемы в рецептах.\n\nШаблон остаётся тем же: самая правая схема даётся &dв больших количествах&r и её &апроще&r производить.",
+
+    "quests.development.iv.title": "&1IV&r Схемы",
+    "quests.development.iv.subtitle": "",
+    "quests.development.iv.desc": "Схемы на этой линии — уровня &1IV&r и взаимозаменяемы в рецептах.\n\nШаблон остаётся тем же: самая правая схема даётся &dв больших количествах&r и её &апроще&r производить.",
+
+    "quests.development.luv.title": "&dLuV&r Схемы",
+    "quests.development.luv.subtitle": "",
+    "quests.development.luv.desc": "Схемы на этой линии — уровня &dLuV&r и взаимозаменяемы в рецептах.\n\nШаблон остаётся тем же: самая правая схема даётся &dв больших количествах&r и её &апроще&r производить.\n\nОбязательно настрой &3производство мокрых плат&r как можно раньше! Они &6очень долго&r производятся.\n\nИ это &dLuV&r, а не &4LUV&r.",
+    
+    "quests.development.zpm.title": "&cZPM&r Цепи",
+    "quests.development.zpm.subtitle": "",
+    "quests.development.zpm.desc": "Цепи этой линии — &cZPM&r, взаимозаменяемы в рецептах.",
+
+    "quests.development.uv.title": "&3UV&r Цепи",
+    "quests.development.uv.subtitle": "",
+    "quests.development.uv.desc": "Цепи этой линии — &3UV&r, и взаимозаменяемы друг с другом.",
+
+    "quests.development.uhv.title": "&4UHV&r Цепи",
+    "quests.development.uhv.subtitle": "",
+    "quests.development.uhv.desc": "Поздравляем! Вы достигли конца прогрессии цепей.\n\nЕдинственная &4UHV&r цепь — &6Wetware Mainframe&r, используется для создания некоторых вещей конечной игры.",
+
+    "quests.development.hull_lv.title": "Создаются в &6Steam Age&r и &7LV&r",
+    "quests.development.hull_lv.subtitle": "Ручная работа и ремесло",
+    "quests.development.hull_lv.desc": "Цепи &7начальной игры&r создаются вручную и с помощью Create.\n\nХорошая &3Create&r установка упростит их производство, а &3Circuit Assembler&r сделает процесс гораздо эффективнее.",
+
+    "quests.development.hull_mv.title": "Создаются в &bMV&r",
+    "quests.development.hull_mv.subtitle": "Интегрированная динамика",
+    "quests.development.hull_mv.desc.1": "Линия цепей &9Integrated&r не обязательно является улучшением с точки зрения стоимости, но послужит переходным этапом к следующему уровню.\n\nПотребуются MV &3Laser Engraver&r и MV &3Cutting Machine&r.",
+    "quests.development.hull_mv.desc.2": "&l&3Лор:&r&o В Omnifactory и в предыдущем Gregicality эта линия называлась &9Refined&r и стандартизировалась, как и последующие уровни.",
+
+    "quests.development.hull_hv.title": "Создаются в &bMV&r и &6HV&r",
+    "quests.development.hull_hv.subtitle": "Они обычно маленькие",
+    "quests.development.hull_hv.desc": "Цепи &eMicro&r — это этап, где становится необходима &3Cleanroom&r для прогресса.\n\nНе забывайте про &aMainframe&r — для него нужен &3HV Circuit Assembler&r.",
+
+    "quests.development.hull_ev.title": "Создаются в &5EV&r",
+    "quests.development.hull_ev.subtitle": "Нано эпоха",
+    "quests.development.hull_ev.desc": "Это линия цепей &9Nano&r.\n\nВозможно, придётся выйти в &bкосмос&r для их создания.\n\nОтсюда прогрессия цепей будет идти по шаблону:\n\n&9-&r Процессор\n&9-&r Сборка\n&9-&r Суперкомпьютер\n&9-&r Мейнфрейм",
+
+    "quests.development.hull_iv.title": "Создаются в &1IV&r",
+    "quests.development.hull_iv.subtitle": "GregTech получает Квантовые технологии",
+    "quests.development.hull_iv.desc": "Добро пожаловать в линию цепей &9Quantum&r.\n\nСтоит вложиться в &aPBI&r, так как &dAdvanced SMDs&r значительно увеличат производство цепей.",
+
+    "quests.development.hull_luv.title": "Создаются в &dLuV&r",
+    "quests.development.hull_luv.subtitle": "Кристаллизация",
+    "quests.development.hull_luv.desc": "Это линия цепей &9Crystal&r.\n\nОна заблокирована за &3Fusion&r.",
+
+    "quests.development.hull_zpm.title": "Создаются в &cZPM&r",
+    "quests.development.hull_zpm.subtitle": "Мягкие и Wetware",
+    "quests.development.hull_zpm.desc": "Это линия цепей &9Wetware&r.\n\nЭто будет самый большой вызов в автоматизации в этом модпаке. Удачи."
+  
+
+}

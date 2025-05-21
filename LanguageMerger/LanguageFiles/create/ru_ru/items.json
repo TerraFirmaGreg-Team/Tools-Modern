@@ -1,0 +1,18 @@
+{
+    "item.create.netherite_diving_helmet.tooltip.summary": "Вместе с _Синим стальным баллоном_ это может защитить вас от _экстремальной жары_. Для эффективности _ноги и ступни_ также должны быть покрыты _синим стальным снаряжением для дайвинга_.",
+    "item.create.netherite_backtank": "Синий стальной баллон",
+    "item.create.netherite_diving_helmet": "Синий стальной шлем для дайвинга",
+    "item.create.netherite_diving_boots": "Синие стальные ботинки для дайвинга",
+  
+    "item.create.copper_sheet": "Медный лист",
+    "item.create.brass_sheet": "Латунный лист",
+    "item.create.golden_sheet": "Золотой лист",
+  
+    "item.create.crushed_raw_gold": "Очищенная золотая руда",
+    "item.create.crushed_raw_copper": "Очищенная медная руда",
+    "item.create.crushed_raw_zinc": "Очищенная цинковая руда",
+    "item.create.crushed_raw_silver": "Очищенная серебряная руда",
+    "item.create.crushed_raw_tin": "Очищенная оловянная руда",
+    "item.create.crushed_raw_lead": "Очищенная свинцовая руда"
+  }
+  

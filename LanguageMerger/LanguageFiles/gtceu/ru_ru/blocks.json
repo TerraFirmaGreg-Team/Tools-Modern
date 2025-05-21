@@ -1,0 +1,20 @@
+{
+    "block.bud_indicator": "%s Поверхностный Росток",
+  
+    "block.gtceu.nether_dome": "Незерариум",
+    "block.gtceu.end_dome": "Эндериум",
+    "block.gtceu.greenhouse": "Теплица",
+    "block.gtceu.steam_bloomery": "Паровая Цветочная Печь",
+  
+    "block.gtceu.copper_crate": "Медный Ящик",
+    "block.gtceu.copper_drum": "Медная Бочка",
+    "block.gtceu.black_bronze_crate": "Ящик из Чёрной Бронзы",
+    "block.gtceu.black_bronze_drum": "Бочка из Чёрной Бронзы",
+    "block.gtceu.bismuth_bronze_crate": "Ящик из Висмутовой Бронзы",
+    "block.gtceu.bismuth_bronze_drum": "Бочка из Висмутовой Бронзы",
+  
+    "gtceu.nether_dome": "Незерариум",
+    "gtceu.end_dome": "Эндериум",
+    "gtceu.greenhouse": "Электрическая Теплица",
+    "gtceu.steam_bloomery": "Паровая Цветочная Печь"
+}  

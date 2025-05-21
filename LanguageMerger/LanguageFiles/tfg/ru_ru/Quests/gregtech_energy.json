@@ -1,0 +1,22 @@
+{
+    // Welcome to MV
+
+    "quests.gregtech_energy": "Энергосистема Gregtech",
+    "quests.gregtech_energy.subtitle": "Так как же всё это работает?",
+
+    "quests.gregtech_energy.start.title": "Давайте разберёмся",
+    "quests.gregtech_energy.start.desc": "Мы понимаем, что &5GregTech&r — это не самый простой мод для новичков, особенно когда дело касается &cэнергетической системы&r. Поэтому в этой главе мы постараемся объяснить всё как можно подробнее.\n\nНекоторые моменты могут показаться непонятными до тех пор, пока ты не продвинешься дальше по прогрессу, так что &aне переживай&r. Просто постарайся понять то, что можешь сейчас, и не стесняйся &dвозвращаться к этой главе&r, когда появятся вопросы.\n\nМы разбили эту главу на &eчетыре категории&r, каждая из которых раскрывает отдельную тему, связанную с &6Энергосистемой GregTech&r. Мы приведём как можно больше примеров, чтобы тебе было легче разобраться, как всё устроено.",
+    "quests.gregtech_energy.start.task": "Добро пожаловать на борт",
+
+    "quests.gregtech_energy.TEST.title": "",
+    "quests.gregtech_energy.TEST.subtitle": "",
+    "quests.gregtech_energy.TEST.desc.1": "",
+    "quests.gregtech_energy.TEST.desc.2": "",
+    "quests.gregtech_energy.TEST.desc.3": "",
+    "quests.gregtech_energy.TEST.task": "",
+
+    "quests.gregtech_energy.TEST.title": "",
+    "quests.gregtech_energy.TEST.subtitle": "",
+    "quests.gregtech_energy.TEST.desc": ""
+
+}

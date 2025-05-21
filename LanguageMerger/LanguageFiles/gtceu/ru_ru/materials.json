@@ -1,0 +1,18 @@
+{
+	"material.gtceu.ice": "Ледяная Каша",
+	// Извини GT, теория большого взрыва не считается за научно-фантастическую отсылку
+	"material.gtceu.cooperite": "Куперит",
+
+	"material.gtceu.fayalite": "Фаялит",
+	"material.gtceu.diopside": "Диопсид",
+	"material.gtceu.enstatite": "Энстатит",
+	"material.gtceu.armalcolite": "Армалколит",
+
+	"material.gtceu.desh": "Деш",
+	"material.gtceu.ostrum": "Острум",
+	"material.gtceu.calorite": "Калорит",
+	"material.gtceu.etrium": "Этрий",
+
+	"material.gtceu.rocket_alloy_t1": "Цветной Ракетный Сплав",
+	"material.gtceu.vitrified_asbestos": "Спечённый Асбест"
+}
