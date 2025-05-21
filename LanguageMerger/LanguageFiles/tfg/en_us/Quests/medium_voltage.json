@@ -24,7 +24,8 @@
 
     "quests.medium_voltage.electrolyzer.title": "MV Electrolyzer",
     "quests.medium_voltage.electrolyzer.subtitle": "We made it to MV, and, well...",
-    "quests.medium_voltage.electrolyzer.desc": "This one should look familiar—you’ve already seen it before. We’re not forcing you to craft it, but know that it’s &aactually really useful&r. And if you skipped the &7LV&r version, then let’s be honest: &cyou’ll need this one&r.\n\nIt’s great for processing &cdusts&r that can’t be smelted, and it’s a solid way to get &dAluminum&r, &dbattery materials&r, and &dSilicon&r—especially if you can gather enough &dClay&r.\n\nAnd don’t forget: you can find &ltons of clay&r in &8The Beneath&r, if you’re brave enough to go digging there.",
+    "quests.medium_voltage.electrolyzer.desc.1": "&bThis one should look familiar&r—you’ve seen it before.\n&2We highly recommend crafting it as soon as possible,&r as it will unlock a wide range of new &7Aluminium&r sources.\n\nUntil now, your only method was &9electrolyzing Sapphire&r to obtain &7Aluminium Dust&r.\nBut with the &bMV&r Electrolyzer, a whole new world of resources opens up.",
+    "quests.medium_voltage.electrolyzer.desc.2": "&6Here are some key materials to look for:&r\n&9Ruby&r – Grants both &7Aluminium&r and &5Chromium&r.\n&9Pyrope&r – Often found alongside Sapphire veins.\n&9Lepidolite&r – Offers a generous selection of valuable byproducts.\n&9Sodalite&r – Comes with &3Chlorine&r and &bSilicon&r.\n&9Topaz&r – Yields both &3Fluorine&r and &7Aluminium&r in solid quantities.\n\n&2And that’s just the beginning!&r Use &aEMI&r to explore even more options—we promise, there’s a lot to discover.\n\n&cOh, and by the way:&r Electrolyzing Clay is now gated behind &6HV&r. \n&8We’re not sorry.&r",
 
     "quests.medium_voltage.mv_extruder.title": "Advanced Extruder",
     "quests.medium_voltage.mv_extruder.subtitle": "The biggest upgrade you'll make",
@@ -132,7 +133,7 @@
 
     "quests.medium_voltage.mv_naphtha.title": "Naphtha",
     "quests.medium_voltage.mv_naphtha.subtitle": "We're still confused on how this is pronounced",
-    "quests.medium_voltage.mv_naphtha.desc": "Distillating &aOil&r will give you Fuel that you will need to desulfurize.\n\n&aHydrogen Sulfide&r is perfectly &drecycled&r in an &3Electrolyzer&r.\n\nTo automate this process, simply place your &3Chemical Reactor&r and your &3Electrolyzer&r next to each other. Be sure to use your &5Screwdriver&r to &4enable input from the output side&r.\n\n&aNaphtha&r is a good &9Product&r source. Keep following the quests to the right for more details.",
+    "quests.medium_voltage.mv_naphtha.desc": "Distillating &aOil&r will give you Fuel that you will need to desulfurize.\n\n&aHydrogen Sulfide&r is perfectly &drecycled&r in an &3Electrolyzer&r.\n\nTo automate this process, simply place your &3Chemical Reactor&r and your &3Electrolyzer&r next to each other. Be sure to use your &5Screwdriver&r to &4enable input from the output side&r.\n\n&aNaphtha&r is a good &9Product&r source, surprsingly it's also a really good fuel (we heard nerf is coming). Keep following the quests to the right for more details.",
 
     "quests.medium_voltage.mv_fuel_cracking.title": "Fuel Cracking",
     "quests.medium_voltage.mv_fuel_cracking.subtitle": "Fuel and oil cracking can get complicated...",
@@ -169,7 +170,7 @@
 
     "quests.medium_voltage.mv_seawater.title": "Ocean Water",
     "quests.medium_voltage.mv_seawater.subtitle": "You can have a lot of it",
-    "quests.medium_voltage.mv_seawater.desc": "This quest is here to emphasize the presence of &9Sea Water&r in &aTerrafirmaCraft&r.\n\nThe great thing about it is that, when used with a &aHose Pulley&r, it becomes an &ainfinite water source&r right away. From there, you can &aelectrolyze it&r to get both &dChlorine&r and &dHydrogen&r.\n\nYou’ll just need a passive way to transport it to your base—and we offer you &atwo options&r:\n\n&8- &eCreate Trains&r: Requires both stations to be chunkloaded. The good news? Trains are &aalready available&r to you at this stage.\n\n&8- &eLong-Distance Pipeline&r: This one needs &dStainless Steel&r, which you'll be able to produce &aby the end of this chapter&r.",
+    "quests.medium_voltage.mv_seawater.desc": "This quest is here to emphasize the presence of &9Sea Water&r in &aTerrafirmaCraft&r.\n\nThe great thing about it is that, when used with a &aHose Pulley&r, it becomes an &ainfinite water source&r right away. From there, you can &aelectrolyze it&r to get both &dChlorine&r and &dHydrogen&r.\n\nYou’ll just need a passive way to transport it to your base—and we offer you &atwo options&r:\n\n&8- &eCreate Trains&r: Requires both stations to be chunkloaded. The good news? Trains are &aalready available&r to you at this stage.\n\n&8- &eLong-Distance Pipeline&r: This one needs &dStainless Steel&r, which you'll be able to produce &aby the end of this chapter&r.\n\n-&8- &eMake a source at home&r: This one is so lame we won't speak about it.",
 
     "quests.medium_voltage.mv_long_pipe.title": "Long-Distance Pipeline",
     "quests.medium_voltage.mv_long_pipe.subtitle": "Wondering how to move these liquids around?",

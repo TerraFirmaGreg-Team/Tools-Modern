@@ -314,7 +314,7 @@
 
 	"quests.low_voltage.aluminium_dust.title": "Aluminium Dust",
 	"quests.low_voltage.aluminium_dust.subtitle": "Time for an adventure",
-	"quests.low_voltage.aluminium_dust.desc": "Getting Aluminium in &bTFG&r is a bit different than usual Gregtech pack. Surprise there is &baluminium ore&r that you can directly mine! Have a look in your &2TFC Field Guide&r.\n\nNow all you need is an EBF! You should have started to work towards one, else now is the time.",
+	"quests.low_voltage.aluminium_dust.desc": "Getting &bAluminium&r in GregTech is one of your first real ore processing challenges. You won’t find any dedicated &bAluminium Veins&r on Earth.\n\nBy browsing &aEMI&r, you’ll quickly realize that most sources of &bAluminium&r require the &bMV&r Electrolyzer.\n\nBut there’s one exception: &9Sapphire&r can be electrolyzed into &bAluminium Dust&r at &7LV&r.\n\n&6Tip:&r Press &a‘U’&r on the &7Aluminium Dust&r to open the Ore Processing Diagram.\nIt reveals many other ores that can give you &7Aluminium&r through proper processing.\n\n&2Don’t forget:&r the &eOre Processing Chapter&r is here to guide you. Take the time to read it—it will make your life much easier.\n",
 
 	"quests.low_voltage.aluminium_ingot.title": "Your first Aluminium Ingot",
 	"quests.low_voltage.aluminium_ingot.subtitle": "We're basically in MV now, right?",
