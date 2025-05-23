@@ -7,24 +7,24 @@
 	"height": "Высота",
 	"radius": "Радиус",
 	"stone_types": "Виды камней",
-	"indicator_depth": "Индикатор Max Depth",
+	"indicator_depth": "Индикатор максимальной глубины",
 	"percentage": "Процент руды",
 	"formula": "Формула",
 
 	"hazard": "Ядовит",
-	"arsenicosis": "$(t:Requires Face Mask)Arsenicosis (Inhalation)$(/t)",
-	"asbestosis": "$(t:Requires Face Mask)Asbestosis (Inhalation)$(/t)",
-	"berylliosis": "$(t:Requires Rubber Gloves)Berylliosis (Skin Contact)$(/t)",
-	"carcinogenic": "$(t:Requires Full Protection)Carcinogenic (Any Contact)$(/t)",
-	"weak_poison": "$(t:Requires Face Mask)Weakly Poisonous (Inhalation)$(/t)",
-	"irritant": "$(t:Requires Rubber Gloves)Irritant (Skin Contact)$(/t)",
+	"arsenicosis": "$(t:Требуется защитная маска)Арсеникоз (вдыхание)$(/t)",
+	"asbestosis": "$(t:Требуется защитная маска)Асбестоз (вдыхание)$(/t)",
+	"berylliosis": "$(t:Требуются резиновые перчатки)Бериллиоз (контакт с кожей)$(/t)",
+	"carcinogenic": "$(t:Требуется полная защита)Онкогенный (любой контакт)$(/t)",
+	"weak_poison": "$(t:Требуется защитная маска)Слабоядовитое (вдыхание)$(/t)",
+	"irritant": "$(t:Требуются резиновые перчатки)Раздражающее (контакт с кожей)$(/t)",
 
 	"tfc:cluster_vein": "кластерная жила",
 	"tfc:pipe_vein": "трубчатая жила",
 	"tfc:disc_vein": "дискообразная жила",
 
-	"vein_index": "Vein Index",
-	"ore_index": "Ore Index",
-	"ore_index_format": "This is the $(thing)Ore Index$() for $(thing){0}$(). All ores are sorted alphabetically and then by richest to poorest vein type. You can click on them to learn more information about each vein.",
-	"vein_index_format": "This is the $(thing)Vein Index$() for $(thing){0}$(). Each Vein has details regarding its rarity, density, vein type, height found, sizes, what stones it spawns on, and more."
-}
+	"vein_index": "Индекс Жил",
+	"ore_index": "Индекс Руд",
+	"ore_index_format": "Это $(thing)Индекс Руд$() для $(thing){0}$(). Все руды отсортированы по алфавиту, а затем — от самых богатых жил к беднейшим. Вы можете кликнуть на них, чтобы узнать больше информации о каждой жиле.",
+	"vein_index_format": "Это $(thing)Индекс Жил$() для $(thing){0}$(). Каждая жила содержит сведения о своей редкости, плотности, типе, высотах появления, размерах, породах, в которых генерируется, и прочем."
+  }
