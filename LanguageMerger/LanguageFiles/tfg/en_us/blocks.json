@@ -142,5 +142,7 @@
 	"block.tfg.lunar_roots": "Lunar Lightblooms",
 	"block.tfg.lunar_sprouts": "Lunar Lightgrass",
 	"block.tfg.lunar_chorus_plant": "Chorus Plant",
-	"block.tfg.lunar_chorus_flower": "Chorus Flower"
+	"block.tfg.lunar_chorus_flower": "Chorus Flower",
+
+	"block.tfg.piglin_disguise_block": "Piglin Disguise"
 }
