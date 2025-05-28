@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "PakkuLockChecker": {
-      "commandName": "Project",
-      "commandLineArgs": "F:\\ProgramFiles\\PrismLauncher\\instances\\TFG-Modern_DEV\\minecraft\\pakku-lock.json"
-    }
-  }
-}

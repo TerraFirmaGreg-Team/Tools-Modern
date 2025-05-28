@@ -8,13 +8,10 @@ namespace PakkuLockChecker
     {
         static void Main(string[] args)
         {
-            if(args.Length == 0)
-            {
-                ConsoleLogHelper.WriteLine("Too few arguments! A single argument is required, which should be the path to the pakku-lock json file.", LogLevel.Error);
-                return;
-            }
+            var modpackFolder = CommonUtil.GetModpackDirectory(Directory.GetCurrentDirectory()).FullName;
 
-            var path = args[0];
+
+            var path = Path.Combine(modpackFolder, "pakku-lock.json");
             if(!File.Exists(path))
             {
                 ConsoleLogHelper.WriteLine($"Supplied path of \"{path}\" does not point to a real file.", LogLevel.Error);
