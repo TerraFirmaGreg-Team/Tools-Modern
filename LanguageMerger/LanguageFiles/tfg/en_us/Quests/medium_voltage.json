@@ -279,6 +279,7 @@
     "quests.medium_voltage.mv_cutter.title": "Advanced Cutter",
     "quests.medium_voltage.mv_cutter.subtitle": "Upgrades, people, upgrades!",
     "quests.medium_voltage.mv_cutter.desc": "The &3MV Cutter&r is required to cut &7Silicon Boules&r to prepare them for &aLaser Engraving&r.\n\nWe recommend you supply this machine with a steady stream of &dLubricant&r to cut down on the processing time.\n\nLubricant can be &3brewed&r from &eOil&r and &aTalc&r, &2Soapstone&r or &cRedstone&r.\n\n&7Note : You could use the &6Greate&r &7version, it has now a tank to fill with it fluid&r&r",
+    "quests.medium_voltage.mv_cutter.task": "Any Brewery",
 
     "quests.medium_voltage.mv_laser_engraver.title": "Laser Engraving",
     "quests.medium_voltage.mv_laser_engraver.subtitle": "This is peak technology, this is slow also",
@@ -302,8 +303,12 @@
     "quests.medium_voltage.mv_ic.desc": "Using a Ruby Lens, engrave a Silicon Wafer into an ILC Wafer.\n\nThis can be processed in a Cutter for IC Chips, which are important components that will be precious when improving upon your circuit crafting capabilities.",
 
     "quests.medium_voltage.mv_ram.title": "Download more RAM",
-    "quests.medium_voltage.mv_ram.subtitle": "That's from the Dark Punk you know?",
+    "quests.medium_voltage.mv_ram.subtitle": "That's from the Daft Punk you know?",
     "quests.medium_voltage.mv_ram.desc": "&aRandom Access Memory&r is required for many Circuits.",
+
+    "quests.medium_voltage.mv_cpu.title": "Get a better CPU",
+    "quests.medium_voltage.mv_cpu.subtitle": "Gamers usually prefer GPU",
+    "quests.medium_voltage.mv_cpu.desc": "&aThe &eCPU&r is one of the most important pieces of technology in your factory.\n\nThe &eCPU Wafer&r is a special one—it can be upgraded later through a &2Chemical Reaction&r.\n\nBut for now, you’ll need the &eCPU Chip&r to craft the best &bMV&r circuits available at this stage.\n\nMake sure to produce a few extra, as they’ll be essential for future upgrades.",
 
     "quests.medium_voltage.lsb.title": "Getting very steamy",
     "quests.medium_voltage.lsb.subtitle": "If you have unlimited fuel, it can still be good",
