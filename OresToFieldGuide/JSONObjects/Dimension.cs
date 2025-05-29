@@ -16,6 +16,9 @@ namespace OresToFieldGuide
 		[JsonPropertyName("vein_index_icon")]
 		public required string VeinIndexIcon { get; set; }
 
+		[JsonPropertyName("vein_tag")]
+		public required string VeinTag { get; set; }
+
 		[JsonPropertyName("translations")]
 		public required Dictionary<string, string> Translations { get; set; }
 	}
