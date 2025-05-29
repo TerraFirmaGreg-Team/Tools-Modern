@@ -2,12 +2,12 @@
 using System.Text.Json.Nodes;
 using Common;
 
-var modpackDir = CommonUtil.GetModpackDirectory(Directory.GetCurrentDirectory());
+var modpackDir = CommonUtil.GetModpackDirectory();
 var kjsAssetsDir = CommonUtil.GetKJSAssetsFolder(modpackDir);
 
-var input = Path.Combine(modpackDir.FullName, "config\\jei\\recipe-category-sort-order.ini");
+var input = Path.Combine(modpackDir, "config\\jei\\recipe-category-sort-order.ini");
 
-var outDir = Path.Combine(kjsAssetsDir.FullName, "emi\\category\\properties");
+var outDir = Path.Combine(kjsAssetsDir, "emi\\category\\properties");
 
 Directory.CreateDirectory(outDir);
 

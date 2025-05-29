@@ -1,6 +1,7 @@
 ﻿using System.Text;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 using Common;
-using Newtonsoft.Json;
 
 namespace PakkuLockChecker
 {
@@ -8,11 +9,11 @@ namespace PakkuLockChecker
     {
         static void Main(string[] args)
         {
-            var modpackFolder = CommonUtil.GetModpackDirectory(Directory.GetCurrentDirectory()).FullName;
+            var modpackFolder = CommonUtil.GetModpackDirectory();
 
 
             var path = Path.Combine(modpackFolder, "pakku-lock.json");
-            if(!File.Exists(path))
+            if (!File.Exists(path))
             {
                 ConsoleLogHelper.WriteLine($"Supplied path of \"{path}\" does not point to a real file.", LogLevel.Error);
                 return;
@@ -20,8 +21,8 @@ namespace PakkuLockChecker
 
             string json = File.ReadAllText(path);
 
-            var deserializedPakkuLock = JsonConvert.DeserializeObject<DeserializedPakkuLock>(json);
-            if(deserializedPakkuLock.Projects == null)
+            var deserializedPakkuLock = JsonSerializer.Deserialize<DeserializedPakkuLock>(json);
+            if (deserializedPakkuLock?.Projects == null)
             {
                 ConsoleLogHelper.WriteLine($"Supplied path of \"{path}\" is not a pakku-lock.json file", LogLevel.Error);
                 return;
@@ -33,13 +34,13 @@ namespace PakkuLockChecker
                 return;
             }
 
-            List<ProblematicMod> problematicProjects = new List<ProblematicMod>();
+            var problematicProjects = new List<ProblematicMod>();
             ConsoleLogHelper.WriteLine("PakkuLockChecker start.", LogLevel.Message);
             for (int i = 0; i < deserializedPakkuLock.Projects.Length; i++)
             {
                 PakkuProject? pakkuProject = deserializedPakkuLock.Projects[i];
 
-                if(pakkuProject == null)
+                if (pakkuProject == null)
                 {
                     ConsoleLogHelper.WriteLine($"Pakku Project of index {i} is invalid or malformed. This will not be checked.", LogLevel.Error);
                     continue;
@@ -54,13 +55,13 @@ namespace PakkuLockChecker
                 //ConsoleLogHelper.WriteLine($"Checking Pakku Project of index {i} with name {pakkuProject.GetModName}", LogLevel.Info);
 
                 var files = pakkuProject.Files;
-                if(files == null)
+                if (files == null)
                 {
                     ConsoleLogHelper.WriteLine($"Pakku Project for {pakkuProject.GetModName} has no Files! the array itself is null. This will not be checked.", LogLevel.Error);
                     continue;
                 }
 
-                if(files.Length == 0)
+                if (files.Length == 0)
                 {
                     ConsoleLogHelper.WriteLine($"Pakku Project for {pakkuProject.GetModName} has no File Entries! This will not be checked.", LogLevel.Error);
                     continue;
@@ -81,59 +82,59 @@ namespace PakkuLockChecker
                     foundModrinth |= file.Type == "modrinth";
                     foundCurseforge |= file.Type == "curseforge";
 
-                    if(foundModrinth && modrinthIndex == -1)
+                    if (foundModrinth && modrinthIndex == -1)
                     {
                         modrinthIndex = j;
                     }
 
-                    if(foundCurseforge && curseforgeIndex == -1)
+                    if (foundCurseforge && curseforgeIndex == -1)
                     {
                         curseforgeIndex = j;
                     }
                 }
 
-                if(!foundModrinth)
+                if (!foundModrinth)
                 {
                     ConsoleLogHelper.WriteLine($"Pakku Project for {pakkuProject.GetModName} does not have Modrinth listed! This may cause issues.", LogLevel.Warning);
                     problematicProjects.Add(new ProblematicMod
                     {
-                        modName = pakkuProject.GetModName,
-                        uniqueIndex = i,
-                        curseforgeInnerIndex = curseforgeIndex,
-                        modrinthInnerIndex = modrinthIndex,
+                        ModName = pakkuProject.GetModName,
+                        UniqueIndex = i,
+                        CurseforgeInnerIndex = curseforgeIndex,
+                        ModrinthInnerIndex = modrinthIndex,
                         problemType = ProblematicModType.MissingModrinth
                     });
                     continue;
                 }
 
-                if(!foundCurseforge)
+                if (!foundCurseforge)
                 {
                     ConsoleLogHelper.WriteLine($"Pakku Project for {pakkuProject.GetModName} does not have Curseforge listed! This may cause issues.", LogLevel.Warning);
                     problematicProjects.Add(new ProblematicMod
                     {
-                        modName = pakkuProject.GetModName,
-                        uniqueIndex = i,
-                        curseforgeInnerIndex = curseforgeIndex,
-                        modrinthInnerIndex = modrinthIndex,
+                        ModName = pakkuProject.GetModName,
+                        UniqueIndex = i,
+                        CurseforgeInnerIndex = curseforgeIndex,
+                        ModrinthInnerIndex = modrinthIndex,
                         problemType = ProblematicModType.MissingCurseforge
                     });
                     continue;
                 }
 
-                if(foundModrinth && foundCurseforge)
+                if (foundModrinth && foundCurseforge)
                 {
                     PakkuFile modrinthFile = files[modrinthIndex];
                     PakkuFile curseforgeFile = files[curseforgeIndex];
 
-                    if(modrinthFile.File_Name != curseforgeFile.File_Name)
+                    if (modrinthFile.FileName != curseforgeFile.FileName)
                     {
                         ConsoleLogHelper.WriteLine($"Pakku Project for {pakkuProject.GetModName} has both Modrinth and Curseforge listed, but their file names differ! this may be a versioning issue.", LogLevel.Warning);
                         problematicProjects.Add(new ProblematicMod
                         {
-                            modName = pakkuProject.GetModName,
-                            uniqueIndex = i,
-                            curseforgeInnerIndex = curseforgeIndex,
-                            modrinthInnerIndex = modrinthIndex,
+                            ModName = pakkuProject.GetModName,
+                            UniqueIndex = i,
+                            CurseforgeInnerIndex = curseforgeIndex,
+                            ModrinthInnerIndex = modrinthIndex,
                             problemType = ProblematicModType.MismatchFileNames
                         });
                     }
@@ -143,7 +144,7 @@ namespace PakkuLockChecker
 
             StringBuilder finalizer = new StringBuilder();
             finalizer.AppendLine("The following mods have been spotted with potential issues. More info above.");
-            foreach(var index in problematicProjects)
+            foreach (var index in problematicProjects)
             {
                 finalizer.AppendLine(index.ToString(deserializedPakkuLock));
             }
@@ -153,14 +154,12 @@ namespace PakkuLockChecker
             Console.ReadKey();
         }
 
-        [Serializable]
         private class DeserializedPakkuLock
         {
-            [JsonProperty("projects")]
+            [JsonPropertyName("projects")]
             public PakkuProject[]? Projects { get; set; }
         }
 
-        [Serializable]
         private class PakkuProject
         {
             public string? GetModName
@@ -170,40 +169,38 @@ namespace PakkuLockChecker
                     return Slug?.Curseforge ?? Slug?.Modrinth ?? Slug?.Github;
                 }
             }
-            [JsonProperty("slug")]
+            [JsonPropertyName("slug")]
             public Slug? Slug { get; set; }
 
-            [JsonProperty("files")]
+            [JsonPropertyName("files")]
             public PakkuFile[]? Files { get; set; }
         }
 
-        [Serializable]
         private class Slug
         {
-            [JsonProperty("curseforge")]
+            [JsonPropertyName("curseforge")]
             public string? Curseforge { get; set; }
-            [JsonProperty("modrinth")]
+            [JsonPropertyName("modrinth")]
             public string? Modrinth { get; set; }
 
-            [JsonProperty("github")]
+            [JsonPropertyName("github")]
             public string? Github { get; set; }
         }
 
-        [Serializable]
         private class PakkuFile
         {
-            [JsonProperty("type")]
+            [JsonPropertyName("type")]
             public string? Type { get; set; }
-            [JsonProperty("file_name")]
-            public string? File_Name { get; set; }
+            [JsonPropertyName("file_name")]
+            public string? FileName { get; set; }
         }
 
         private struct ProblematicMod
         {
-            public string modName;
-            public int uniqueIndex;
-            public int? curseforgeInnerIndex;
-            public int? modrinthInnerIndex;
+            public string ModName;
+            public int UniqueIndex;
+            public int? CurseforgeInnerIndex;
+            public int? ModrinthInnerIndex;
 
             public ProblematicModType problemType;
 
@@ -216,10 +213,10 @@ namespace PakkuLockChecker
             {
                 StringBuilder builder = GetBuilderForToString();
 
-                if(problemType == ProblematicModType.MismatchFileNames)
+                if (problemType == ProblematicModType.MismatchFileNames)
                 {
-                    builder.AppendLine("    * Curseforge file name: " + lockFile.Projects[uniqueIndex].Files[curseforgeInnerIndex.Value].File_Name);
-                    builder.AppendLine("    * Modrinth file name: " + lockFile.Projects[uniqueIndex].Files[modrinthInnerIndex.Value].File_Name);
+                    builder.AppendLine("    * Curseforge file name: " + lockFile.Projects![UniqueIndex].Files![CurseforgeInnerIndex!.Value].FileName);
+                    builder.AppendLine("    * Modrinth file name: " + lockFile.Projects[UniqueIndex].Files![ModrinthInnerIndex!.Value].FileName);
                 }
                 return builder.ToString();
             }
@@ -227,7 +224,7 @@ namespace PakkuLockChecker
             private StringBuilder GetBuilderForToString()
             {
                 StringBuilder builder = new StringBuilder();
-                builder.AppendLine($"# Mod Name: {modName}({uniqueIndex});");
+                builder.AppendLine($"# Mod Name: {ModName}({UniqueIndex});");
                 builder.AppendLine($"* Issue Type: {problemType}.");
                 return builder;
             }

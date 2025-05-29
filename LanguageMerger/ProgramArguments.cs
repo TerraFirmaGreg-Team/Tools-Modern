@@ -1,35 +1,25 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 
 namespace LanguageMerger
 {
     internal struct ProgramArguments
     {
-        public DirectoryInfo modpackDirectory;
+        public string ModpackDirectory;
 
-        public DirectoryInfo languageFilesFolder;
+        public DirectoryInfo LanguageFilesFolder;
 
-        public DirectoryInfo kjsAssetsFolder;
-
-        public bool shouldPrettyPrint;
-
-        public bool shouldOverwriteFiles;
+        public string KjsAssetsFolder;
 
         /// <summary>
         /// Returns the arguments in a human readable format.
         /// </summary>
         public override string ToString()
         {
-            StringBuilder stringBuilder = new StringBuilder();
+            StringBuilder stringBuilder = new();
 
-            stringBuilder.AppendLine($"Modpack-Modern Folder Path: \"{modpackDirectory.FullName}\"");
-            stringBuilder.AppendLine($"LanguageFiles Folder Path: \"{languageFilesFolder.FullName}\"");
-            stringBuilder.AppendLine($"KJSAssets Folder Path: \"{kjsAssetsFolder.FullName}\"");
-            stringBuilder.AppendLine($"shouldPrettyPrint: \"{shouldPrettyPrint}\"");
-            stringBuilder.AppendLine($"shouldOverwriteFiles: \"{shouldOverwriteFiles}\"");
+            stringBuilder.AppendLine($"Modpack-Modern Folder Path: \"{ModpackDirectory}\"");
+            stringBuilder.AppendLine($"LanguageFiles Folder Path: \"{LanguageFilesFolder.FullName}\"");
+            stringBuilder.AppendLine($"KJSAssets Folder Path: \"{KjsAssetsFolder}\"");
 
             return stringBuilder.ToString();
         }

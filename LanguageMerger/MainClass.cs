@@ -1,26 +1,14 @@
-﻿//Uncomment this to write json in a Prettified format, only really useful for debugging the output
-#define PRETTY_PRINT
-//Uncomment this to make the program overwrite all the files within .minecraf/kubejs/assets/../tfg_ores/
-#define OVERWRITE_FILES
-
-using System.Security.Cryptography.X509Certificates;
-using Common;
+﻿using Common;
 
 namespace LanguageMerger;
+
 public class MainClass
 {
-    #region Constants
-    public const string PROJECT_NAME = "LanguageMerger";
-    public const string LANGUAGE_FILES = "LanguageFiles";
-    public const string MINECRAFT = "minecraft";
-    public const string TOOLS = "tools";
-    #endregion
-
     public static void Main(string[] args)
     {
         Console.WriteLine("Generating Localization Files!");
 
-        if(!TryGetProgramArguments(out ProgramArguments programArguments))
+        if (!TryGetProgramArguments(out ProgramArguments programArguments))
         {
             ConsoleLogHelper.WriteLine("Failed to get Program's Arguments, Press any key to exit...", LogLevel.Error);
             Console.ReadKey();
@@ -45,7 +33,7 @@ public class MainClass
             result = false;
         }
 
-        if(result)
+        if (result)
         {
             ConsoleLogHelper.WriteLine("Success :D! Press any key to exit...", LogLevel.Info);
         }
@@ -62,13 +50,11 @@ public class MainClass
         programArguments = new ProgramArguments();
         try
         {
-            programArguments.modpackDirectory = CommonUtil.GetModpackDirectory(Directory.GetCurrentDirectory());
-            programArguments.kjsAssetsFolder = CommonUtil.GetKJSAssetsFolder(programArguments.modpackDirectory);
-            programArguments.languageFilesFolder = GetLanguageFilesFolder();
-            programArguments.shouldOverwriteFiles = GetShouldOverwriteFiles();
-            programArguments.shouldPrettyPrint = GetShouldPrettyPrint();
+            programArguments.ModpackDirectory = CommonUtil.GetModpackDirectory();
+            programArguments.KjsAssetsFolder = CommonUtil.GetKJSAssetsFolder(programArguments.ModpackDirectory);
+            programArguments.LanguageFilesFolder = GetLanguageFilesFolder();
         }
-        catch(Exception e)
+        catch (Exception e)
         {
             ConsoleLogHelper.WriteLine($"Exception has been thrown. {e}", LogLevel.Fatal);
             return false;
@@ -80,31 +66,14 @@ public class MainClass
     {
         var cwd = Directory.GetCurrentDirectory();
 
-        var projectFolder = cwd.Substring(0, cwd.IndexOf(PROJECT_NAME) + PROJECT_NAME.Length);
+        var projectFolder = cwd.Substring(0, cwd.IndexOf("LanguageMerger") + "LanguageMerger".Length);
 
-		string languageFilesFolder = Path.Combine(projectFolder, LANGUAGE_FILES);
-        if(!Directory.Exists(languageFilesFolder))
+        string languageFilesFolder = Path.Combine(projectFolder, "LanguageFiles");
+        if (!Directory.Exists(languageFilesFolder))
         {
-            throw new DirectoryNotFoundException($"The \"{LANGUAGE_FILES}\" folder was not found in {languageFilesFolder}");
+            throw new DirectoryNotFoundException($"The \"LanguageFiles\" folder was not found in {languageFilesFolder}");
         }
+
         return new DirectoryInfo(languageFilesFolder);
-    }
-
-    private static bool GetShouldOverwriteFiles()
-    {
-#if PRETTY_PRINT
-        return true;
-#else
-        return false;
-#endif
-    }
-
-    private static bool GetShouldPrettyPrint()
-    {
-#if OVERWRITE_FILES
-        return true;
-#else
-        return false;
-#endif
     }
 }

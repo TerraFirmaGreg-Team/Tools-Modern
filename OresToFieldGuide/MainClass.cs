@@ -1,13 +1,4 @@
-﻿//Uncomment this to enable verification of vein weights
-#define VERIFY_VEIN_WEIGHTS
-//Uncomment this to write json in a Prettified format, only really useful for debugging the output
-#define PRETTY_PRINT
-//Uncomment this to make the program overwrite all the files within .minecraf/kubejs/assets/../tfg_ores/
-#define OVERWRITE_FILES
-
-using Common;
-using System.Collections.Generic;
-using System.Text;
+﻿using Common;
 
 namespace OresToFieldGuide
 {
@@ -38,14 +29,7 @@ namespace OresToFieldGuide
 			ConsoleLogHelper.WriteLine($".minecraft Folder Path: \"{programArguments.ModpackFolder}\"", LogLevel.Info);
 			ConsoleLogHelper.WriteLine($"data Folder Path: \"{programArguments.DataFolder}\"", LogLevel.Info);
 
-			//try
-			//{
-				new OresToFieldGuideProgram(programArguments).Run();
-			//}
-			//catch (Exception e)
-			//{
-				//ConsoleLogHelper.WriteLine($"Exception has been thrown. {e}", LogLevel.Fatal);
-			//}
+			new OresToFieldGuideProgram(programArguments).Run();
 
 			ConsoleLogHelper.WriteLine("Press any key to exit...", LogLevel.Info);
 			Console.ReadKey();
@@ -56,9 +40,9 @@ namespace OresToFieldGuide
 			programArguments = new ProgramArguments();
 			try
 			{
-				programArguments.ModpackFolder = CommonUtil.GetModpackDirectory(Directory.GetCurrentDirectory()).FullName;
+				programArguments.ModpackFolder = CommonUtil.GetModpackDirectory();
 				programArguments.DataFolder = GetDataDirectory();
-				programArguments.WhitelistedPatchouliEntryFilenames = GetWhitelistedPatchoulyEntryFilenames();
+				programArguments.WhitelistedPatchouliEntryFilenames = GetWhitelistedPatchouliEntryFilenames();
 			}
 			catch (Exception e)
 			{
@@ -84,7 +68,7 @@ namespace OresToFieldGuide
 
 
 
-		private static string[] GetWhitelistedPatchoulyEntryFilenames()
+		private static string[] GetWhitelistedPatchouliEntryFilenames()
 		{
 			return
 			[
