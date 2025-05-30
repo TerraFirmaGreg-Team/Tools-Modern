@@ -1,0 +1,17 @@
+{
+    "block.bud_indicator": "%s Surface Bud",
+    "block.gtceu.nether_dome": "Незераріум",
+    "block.gtceu.end_dome": "Ендераріум",
+    "block.gtceu.greenhouse": "Теплиця",
+    "block.gtceu.steam_bloomery": "Парова Сиродутна Піч",
+    "block.gtceu.copper_crate": "Мідний Ящик",
+    "block.gtceu.copper_drum": "Мідна Бочка",
+    "block.gtceu.black_bronze_crate": "Ящик з Чорної Бронзи",
+    "block.gtceu.black_bronze_drum": "Бочка з Чорної Бронзи",
+    "block.gtceu.bismuth_bronze_crate": "Ящик з Вісмутової Бронзи",
+    "block.gtceu.bismuth_bronze_drum": "Бочка з Вісмутової Бронзи",
+    "gtceu.nether_dome": "Незераріум",
+    "gtceu.end_dome": "Ендераріум",
+    "gtceu.greenhouse": "Електрична теплиця",
+    "gtceu.steam_bloomery": "Парова Сиродутна Піч"
+}
