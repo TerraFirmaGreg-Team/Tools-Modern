@@ -1,5 +1,6 @@
 {
 	"block.tfg.piglin_disguise": "Piglin Disguise",
+	"block.tfg.piglin_disguise_block": "Piglin Disguise",
 
 	"block.tfg.decorative_vase.black": "Black Decorative Vase",
 	"block.tfg.decorative_vase.gray": "Gray Decorative Vase",
@@ -146,5 +147,8 @@
 	"block.tfg.lunar_chorus_plant": "Chorus Plant",
 	"block.tfg.lunar_chorus_flower": "Chorus Flower",
 
-	"block.tfg.piglin_disguise_block": "Piglin Disguise"
+	"block.tfg.lv_aqueous_accumulator": "Basic Aqueous Accumulator",
+	"block.tfg.mv_aqueous_accumulator": "Advanced Aqueous Accumulator",
+	"block.tfg.hv_aqueous_accumulator": "Advanced Aqueous Accumulator II",
+	"block.tfg.ev_aqueous_accumulator": "Advanced Aqueous Accumulator III"
 }
