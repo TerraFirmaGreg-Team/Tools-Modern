@@ -52,6 +52,11 @@
 	"quests.low_voltage.lv_rock_crusher.desc.2": "&l&3Lore:&r&o Obsidian requiring Redstone to generate is in reference to an ancient Minecraft bug, &7MC-4239&f. Placing Redstone where the Cobblestone would go in a cobble generator would make it generate Obsidian instead. This bug was resolved in snapshot 14w25b for Minecraft 1.8, over 9 years ago at the time of writing!",
 	"quests.low_voltage.lv_rock_crusher.task": "Any Rock Crusher will do",
 
+	"quests.low_voltage.lv_aqueous_accumulator.title": "Aqueous Accumulator",
+	"quests.low_voltage.lv_aqueous_accumulator.subtitle": "Thermal Foundation is calling",
+	"quests.low_voltage.lv_aqueous_accumulator.desc": "The &3Aqueous Accumulator&r is basically a Rock Crusher but for fluids. Simply place the machine next to two source blocks of the appropriate fluid, set the circuit, and voila! It'll keep producing more of that fluid. It effectively does the same thing as a mechanical pump, but using electricity instead of mechanical power, so you may find it easier to fit into your factory. As a bonus, the HV one will make infinite lava too!\n\nYou can safely waterlog the source blocks to prevent them freezing in winter, and the machine will continue to work.",
+	"quests.low_voltage.lv_aqueous_accumulator.task": "Any Aqueous Accumulator",
+
 	//#endregion
 
 	//#region First Machines
@@ -116,7 +121,7 @@
 	"quests.low_voltage.lv_fluid_regulator.desc": "The &aFluid Regulator&r is sort of the equivalent to a &9Robot Arm&r for Fluids.\n\nIt can transfer fluids, but has two useful modes:\n\n&9-&r &dSupply Exact&r will transfer the amount of specified Fluid per tick if available. No more, no less.\n&9-&r &dKeep Exact&r will make sure the exact amount of Fluid in the attached machine is being kept.\n\nYou won't need it much, because natively GT machines will fill only one slot with the &6Pump Cover&r",
 
 	"quests.low_voltage.cover_behaviour.title": "Cover Behaviour",
-	"quests.low_voltage.cover_behaviour.subtitle": "Extra utility without taking up bloackspace!",
+	"quests.low_voltage.cover_behaviour.subtitle": "Extra utility without taking up blockspace!",
 	"quests.low_voltage.cover_behaviour.desc.1": "Covers are placed by right-clicking with Cover in hand on a face of a machine, and removed with a &5Crowbar&r (or by mining the machine, but that's way slower).\n\nPretty much any GregTech Tile-Entity will accept Covers, even if they wouldn't provide any functionality.\n\nOpening a Cover is done by sneak-right-clicking it with an &5empty hand&r. You can also right-click with a &5Screwdriver&r, or sneak-right-click on another face using the grid.",
 	"quests.low_voltage.cover_behaviour.desc.2": "For Covers that transfer Items/Fluids, you will have a button to enable/disable other forms of transfer through the cover:\n\n&9- &rDisabled: only the cover will be allowed to transfer on this machine side.\n\n&9-&r Allow Filtered (only relevant with a filter!): other transfer will be enabled only if it matches the filter\n\n&9-&r Allow Unfiltered: any other transfer is allowed on this machine side.\n\nPlacing a cover of a lower voltage tier on a machine is &9safe&r.",
 	"quests.low_voltage.cover_behaviour.task": "I'm an expert on Covers now, don't you worry.",
@@ -247,14 +252,14 @@
 	"quests.low_voltage.lv_cutter.task": "Any cutter",
 
 	"quests.low_voltage.lv_gas_collector.title": "Basic Gas Collector",
-	"quests.low_voltage.lv_gas_collector.subtitle": "Don't stand to close to it you could finish within the machine",
+	"quests.low_voltage.lv_gas_collector.subtitle": "It'll take your breath away",
 	"quests.low_voltage.lv_gas_collector.desc": "The Gas Collector collects Air that can then be centrifuged into &aOxygen&r and &aNitrogen&r.\n\n&l&3Lore:&r&o GregTech 5 players remember when they had to use a Compressor with IC2 cells to get Compressed Air... here, cell chemistry is no more.",
 
 	"quests.low_voltage.lv_oxygen.title": "Breath of Fresh Oxygen",
 	"quests.low_voltage.lv_oxygen.subtitle": "Achtually, it's Dioxygen...",
 	"quests.low_voltage.lv_oxygen.desc.1": "You could waste &o&eprecious years of your life&r in JEI looking for the most optimal Oxygen recipe, given the many ways to obtain it. Various minerals will produce it when electrolyzed.\n\nIf only the quest book had more information!",
-	"quests.low_voltage.lv_oxygen.desc.2": "Surprise! The best source according to us (!) is &acentrifuging Air&r after making a &dGas Collector&r, which you might not be able to make just yet. This recipe also gives &aNitrogen&r, which is handy as it can speed up certain &3Electric Blast Furnace&r recipes&r.\n\nThe second best source according to us (!) is &aelectrolyzing Silicon Dioxide&r. Silicon Dioxide is obtained from various sources, such as Glass Dust, Granite Dust and Black Granite Dust. We will come back to &6this method later&r because this one is actually &6god&r.",
-	"quests.low_voltage.lv_oxygen.desc.3": "The third best source according to us (!) is &aelectrolyzing Water&r. In reality, electrolysis of water is more suitable for &aHydrogen production&r due to the higher energy cost. &4Don't use this method for Oxygen&r only for &1Hydrogen&r, once again we will help you later on to make Hydrogen.\n\nThe fourth best source according to us (!) is &ato not void&r it, EVER! Any Oxygen obtained from any source is worth something and should be stored in Tanks.\n\n&eNote:&r Submit a fluid by having it stored in &lany&r tank in your inventory. A bucket will also work.",
+	"quests.low_voltage.lv_oxygen.desc.2": "Surprise! The best source according to us (!) is &acentrifuging Air&r after making a &dGas Collector&r, which you might not be able to make just yet. This recipe also gives &aNitrogen&r, which is handy as it can speed up certain &3Electric Blast Furnace&r recipes&r.\n\nThe second best source according to us (!) is &aelectrolyzing Silicon Dioxide&r. Silicon Dioxide is obtained from various sources, such as Glass Dust and various Stone Dusts. We will come back to &6this method later&r because this one is actually &6god&r.",
+	"quests.low_voltage.lv_oxygen.desc.3": "The third best source according to us (!) is &aelectrolyzing Water&r. In reality, electrolysis of water is more suitable for &aHydrogen production&r due to the higher energy cost. &4Don't use this method as your main source of Oxygen&r, only for &1Hydrogen&r, once again we will help you later on to make Hydrogen.\n\nThe fourth best source according to us (!) is &ato not void&r it, EVER! Any Oxygen obtained from any source is worth something and should be stored in Tanks.\n\n&eNote:&r Submit a fluid by having it stored in &lany&r tank in your inventory. A bucket will also work.",
 
 	"quests.low_voltage.lv_nitrogen.title": "Nitrogen Gas",
 	"quests.low_voltage.lv_nitrogen.subtitle": "Your EBF booster",
