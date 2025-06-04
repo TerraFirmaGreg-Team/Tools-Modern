@@ -22,6 +22,10 @@
 		{
 			"ore": "lead",
 			"weight": 25
+		},
+		{
+			"ore": "olivine",
+			"weight": 5
 		}
 	],
 	"rocks": [

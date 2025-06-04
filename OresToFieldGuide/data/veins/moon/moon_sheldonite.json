@@ -21,11 +21,11 @@
 		},
 		{
 			"ore": "platinum",
-			"weight": 25
+			"weight": 15
 		},
 		{
-			"ore": "palladium",
-			"weight": 15
+			"ore": "nickel",
+			"weight": 25
 		}
 	],
 	"rocks": [

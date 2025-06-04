@@ -21,11 +21,6 @@
 			"block_weight": 1
 		},
 		{
-			"ore": "bauxite",
-			"weight": 25,
-			"block_weight": 1
-		},
-		{
 			"ore": "pollucite",
 			"weight": 15,
 			"block_weight": 1

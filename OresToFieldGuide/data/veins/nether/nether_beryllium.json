@@ -26,7 +26,11 @@
 		},
 		{
 			"ore": "thorium",
-			"weight": 15
+			"weight": 1
+		},
+		{
+			"ore": "rock_salt",
+			"weight": 1
 		}
 	],
 	"rocks": [

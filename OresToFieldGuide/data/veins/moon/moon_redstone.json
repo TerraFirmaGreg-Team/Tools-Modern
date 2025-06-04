@@ -22,6 +22,10 @@
 		{
 			"ore": "cinnabar",
 			"weight": 20
+		},
+		{
+			"ore": "olivine",
+			"weight": 5
 		}
 	],
 	"rocks": [

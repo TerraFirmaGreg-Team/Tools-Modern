@@ -26,6 +26,10 @@
 		{
 			"ore": "pollucite",
 			"weight": 15
+		},
+		{
+			"ore": "olivine",
+			"weight": 5
 		}
 	],
 	"rocks": [

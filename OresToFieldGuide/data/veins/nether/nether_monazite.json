@@ -3,7 +3,7 @@
 	"dimension": "nether",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 185,
+		"rarity": 245,
 		"density": 0.35,
 		"min_y": 24,
 		"max_y": 128,
