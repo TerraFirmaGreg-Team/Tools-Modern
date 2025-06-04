@@ -22,11 +22,6 @@
 		{
 			"ore": "barite",
 			"weight": 15
-		},
-		{
-			"ore": "nether_quartz",
-			"weight": 25,
-			"block_weight": 1
 		}
 	],
 	"rocks": [
