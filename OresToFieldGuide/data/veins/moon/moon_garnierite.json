@@ -6,18 +6,18 @@
 		"rarity": 250,
 		"density": 0.4,
 		"min_y": 5,
-		"max_y": 45,
+		"max_y": 85,
 		"size": 40
 	},
 	"ores": [
 		{
 			"ore": "garnierite",
-			"weight": 30,
+			"weight": 25,
 			"block_weight": 1
 		},
 		{
 			"ore": "nickel",
-			"weight": 10
+			"weight": 20
 		},
 		{
 			"ore": "cobaltite",

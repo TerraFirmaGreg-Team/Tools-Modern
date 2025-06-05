@@ -5,7 +5,7 @@
 	"config": {
 		"rarity": 250,
 		"density": 0.4,
-		"min_y": 50,
+		"min_y": 20,
 		"max_y": 100,
 		"size": 30
 	},
@@ -22,6 +22,10 @@
 		{
 			"ore": "cinnabar",
 			"weight": 20
+		},
+		{
+			"ore": "olivine",
+			"weight": 5
 		}
 	],
 	"rocks": [

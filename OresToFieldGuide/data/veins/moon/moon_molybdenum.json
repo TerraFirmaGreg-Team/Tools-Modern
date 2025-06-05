@@ -6,7 +6,7 @@
 		"rarity": 245,
 		"density": 0.45,
 		"min_y": 0,
-		"max_y": 30,
+		"max_y": 50,
 		"size": 26
 	},
 	"ores": [
@@ -23,6 +23,10 @@
 		{
 			"ore": "powellite",
 			"weight": 15
+		},
+		{
+			"ore": "olivine",
+			"weight": 5
 		}
 	],
 	"rocks": [

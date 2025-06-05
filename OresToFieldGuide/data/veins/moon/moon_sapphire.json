@@ -27,6 +27,10 @@
 		{
 			"ore": "green_sapphire",
 			"weight": 15
+		},
+		{
+			"ore": "olivine",
+			"weight": 2
 		}
 	],
 	"rocks": [
