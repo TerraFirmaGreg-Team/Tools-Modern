@@ -20,8 +20,7 @@
 		},
 		{
 			"ore": "chromite",
-			"weight": 5,
-			"block_weight": 2
+			"weight": 5
 		},
 		{
 			"ore": "gold",
