@@ -29,5 +29,7 @@
     "material.tfg.glacio_stone": "Phonolite",
 
     "material.gtceu.thermochemically_treated_hardwood": "Thermochemically Treated Hardwood",
-    "material.gtceu.hardwood": "Hardwood"
+    "material.gtceu.hardwood": "Hardwood",
+
+    "material.gtceu.asurine": "Asurine"
 }
