@@ -1,7 +1,7 @@
 {
 	"id": "ostrum",
 	"formula": "TODO",
-	"ore_block": "gtceu:raw_ostrum_block",
+	"ore_block": "ad_astra:raw_ostrum_block",
 	"indicator": "gtceu:ostrum_indicator",
 	"translations": [
 		{

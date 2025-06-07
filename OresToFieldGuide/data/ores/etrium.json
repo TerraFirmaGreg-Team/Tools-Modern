@@ -1,7 +1,7 @@
 {
 	"id": "etrium",
 	"formula": "TODO",
-	"ore_block": "gtceu:raw_etrium_block",
+	"ore_block": "ad_astra:raw_etrium_block",
 	"indicator": "gtceu:etrium_indicator",
 	"translations": [
 		{
