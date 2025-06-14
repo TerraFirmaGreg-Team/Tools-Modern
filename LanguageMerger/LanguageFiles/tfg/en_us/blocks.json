@@ -160,8 +160,8 @@
 	"block.tfg.mv_food_oven": "§bAdvanced Electric Oven§r",
 	"block.tfg.hv_food_oven": "§6Advanced Electric Oven II§r",
 	"block.tfg.ev_food_oven": "§5Advanced Electric Oven III§r",
-	"block.tfg.lv_refrigerator": "Basic Refrigerator",
-	"block.tfg.mv_refrigerator": "§bAdvanced Refrigerator",
-	"block.tfg.hv_refrigerator": "§6Advanced Refrigerator II§r",
-	"block.tfg.ev_refrigerator": "§5Advanced Refrigerator III§r"
+	"block.tfg.lv_food_refrigerator": "Basic Refrigerator",
+	"block.tfg.mv_food_refrigerator": "§bAdvanced Refrigerator",
+	"block.tfg.hv_food_refrigerator": "§6Advanced Refrigerator II§r",
+	"block.tfg.ev_food_refrigerator": "§5Advanced Refrigerator III§r"
 }
