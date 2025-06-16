@@ -1,5 +1,5 @@
 {
-	"id": "moon_beryllium",
+	"id": "moon_graphite",
 	"dimension": "moon",
 	"type": "tfc:pipe_vein",
 	"config": {
@@ -13,7 +13,7 @@
 		"max_slant": 4,
 		"sign": 0,
 		"height": 60,
-		"radius": 25
+		"radius": 12
 	},
 	"ores": [
 		{
@@ -23,12 +23,11 @@
 		},
 		{
 			"ore": "diamond",
-			"weight": 35,
-			"block_weight": 2
+			"weight": 35
 		},
 		{
-			"ore": "thorium",
-			"weight": 1
+			"ore": "olivine",
+			"weight": 10
 		}
 	],
 	"rocks": [
