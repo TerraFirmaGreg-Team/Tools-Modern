@@ -147,6 +147,11 @@
 	"block.tfg.lunar_chorus_plant": "Chorus Plant",
 	"block.tfg.lunar_chorus_flower": "Chorus Flower",
 
+	"block.tfg.marker.moon": "The Moon",
+	"block.tfg.marker.mars": "Mars",
+	"block.tfg.marker.venus": "Venus",
+	"block.tfg.marker.mercury": "Mercury",
+
 	"block.tfg.lv_aqueous_accumulator": "Basic Aqueous Accumulator",
 	"block.tfg.mv_aqueous_accumulator": "§bAdvanced Aqueous Accumulator§r",
 	"block.tfg.hv_aqueous_accumulator": "§6Advanced Aqueous Accumulator II§r",
