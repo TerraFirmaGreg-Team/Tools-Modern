@@ -185,7 +185,7 @@
 
 	"quests.steam_age.steam_engine.title": "Steam Engine",
 	"quests.steam_age.steam_engine.subtitle": "Time for some real steam power",
-	"quests.steam_age.steam_engine.desc": "Water wheels and windmills not cutting it any more? It wouldn't be a steam age without a proper steam engine! Each steam engine can output a whole 512 SU, giving you much more power to play with.\n\nBlaze Burners can be crafted without leaving your house, and you can use a Mechanical Arm to automatically feed them solid fuel, or liquid fuel in a bucket. Coal Gems and Coke can also be used to superheat them.",
+	"quests.steam_age.steam_engine.desc": "Water wheels and windmills not cutting it any more? It wouldn't be a steam age without a proper steam engine! Each steam engine can output a whole 256 SU, giving you much more power to play with.\n\nBlaze Burners can be crafted without leaving your house, and you can use a Mechanical Arm to automatically feed them solid fuel, or liquid fuel in a bucket (such as creosote). Coal Gems, Anthracite, and Coke can also be used to superheat them.",
 
 	"quests.steam_age.deployers.title": "Deployers",
 	"quests.steam_age.deployers.subtitle": "Primitive Assembly Line",

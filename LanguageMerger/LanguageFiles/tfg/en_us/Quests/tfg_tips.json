@@ -139,7 +139,6 @@
     "quests.tfg_tips.lava_lamp.subtitle": "Not as mesmerizing as the real deal",
     "quests.tfg_tips.lava_lamp.desc": "With the very heat resistant metal &9Blue Steel&r, you can create a &dBlue Steel Lamp.&r It can be filled with &cLava&r, giving you an indefinite source of light at the cost of being limited to a single lamp metal.\n\nCareful handling a filled lava lamp, it's very &chot...&r",
 
-    // TODO: add quest
     "quests.tfg_tips.glowstone_lamp.title": "Lamp Fuel: Glowstone",
     "quests.tfg_tips.glowstone_lamp.subtitle": "The best lamp fuel",
     "quests.tfg_tips.glowstone_lamp.desc": "You'll need access to at least &7LV&r electricity in order to liquefy &dGlowstone&r, but if you like the look of &lany&r lamp, you can use &6Liquid Glowstone&r to fuel them indefinitely. Unlike &cLave&r, this isn't hot!",
