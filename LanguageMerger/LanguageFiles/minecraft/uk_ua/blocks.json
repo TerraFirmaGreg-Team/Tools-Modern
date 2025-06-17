@@ -21,7 +21,7 @@
 	"block.minecraft.polished_deepslate_slab": "Полірована мігматитова плита",
 	"block.minecraft.polished_deepslate_stairs": "Поліровані мігматитові сходи",
 	"block.minecraft.polished_deepslate_wall": "Полірована мігматитова стіна",
-	"block.minecraft.blackstone": "Сирий піроксеніт",
+	"block.minecraft.blackstone": "Сирий Піроксеніт",
 	"block.minecraft.blackstone_slab": "Піроксенітова плита",
 	"block.minecraft.blackstone_stairs": "Піроксенітові сходи",
 	"block.minecraft.blackstone_wall": "Піроксенітова стіна",
@@ -38,6 +38,7 @@
 	"block.minecraft.polished_blackstone_slab": "Полірована піроксенітова плита",
 	"block.minecraft.polished_blackstone_stairs": "Поліровані піроксенітові сходи",
 	"block.minecraft.polished_blackstone_wall": "Полірована піроксенітова стіна",
-	"block.minecraft.dripstone_block": "Сирий травертин",
-	"block.minecraft.magma_block": "Піроксенітова магма"
+	"block.minecraft.dripstone_block": "Сирий Травертин",
+	"block.minecraft.magma_block": "Піроксенітова магма",
+	"block.minecraft.twisting_vines": "Стебло Світлоквіту"
 }

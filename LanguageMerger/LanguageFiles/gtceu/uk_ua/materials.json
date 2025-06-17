@@ -1,5 +1,5 @@
 {
-	"material.gtceu.ice": "Крижана вода",
+	"material.gtceu.ice": "Крижана каша",
 	"material.gtceu.cooperite": "Куперит",
 	"material.gtceu.fayalite": "Фаяліт",
 	"material.gtceu.diopside": "Діопсид",
@@ -8,5 +8,7 @@
 	"material.gtceu.desh": "Деш",
 	"material.gtceu.ostrum": "Острум",
 	"material.gtceu.calorite": "Калорит",
-	"material.gtceu.etrium": "Етріум"
+	"material.gtceu.etrium": "Етріум",
+	"material.gtceu.rocket_alloy_t1": "Кольоровий ракетний сплав",
+	"material.gtceu.vitrified_asbestos": "Вітрифікований азбест"
 }
