@@ -99,9 +99,9 @@
     "quests.stone_age.find_rock.subtitle": "Grug. Quebra. Pedra",
     "quests.stone_age.find_rock.desc": "Ao começar sua jornada, a primeira coisa que você notará é um mundo completamente diferente. Você não pode mais quebrar árvores com as mãos, mas não se preocupe — nenhum homem das cavernas de verdade sobrevive sem suas ferramentas de pedra!\n\nEm vez de fabricar uma picareta de madeira, você pode simplesmente pegar pedras do chão. Comece coletando pelo menos 4 pedras. Você pode coletá-las quebrando ou clicando com o botão direito em pedras com a mão vazia.",
 
-    "quests.stone_age.rock_knapping.title": "Talhando Pedras",
+    "quests.stone_age.rock_knapping.title": "Lascando Pedras",
     "quests.stone_age.rock_knapping.subtitle": "Como nos velhos tempos do Paleolítico",
-    "quests.stone_age.rock_knapping.desc": "Pedras podem ser 'talhadas', o que é o processo de moldar um material bruto em uma forma utilizável batendo uma pedra contra a outra. A talha de pedra requer pelo menos duas pedras, e ao segurá-las e clicar com o botão direito no ar, você abrirá a interface de talha. Então, você pode 'lascar' uma das pedras para criar uma cabeça de ferramenta de pedra. Todos os formatos de ferramentas estão no EMI e no Guia de Campo.\n\nAs duas ferramentas mais importantes para o início da sua jornada são a faca de pedra e o machado de pedra, então tente talhar essas cabeças de ferramentas.",
+    "quests.stone_age.rock_knapping.desc": "Pedras podem ser 'lascadas', o que é o processo de moldar um material bruto em uma forma utilizável batendo uma pedra contra a outra. A lasca de pedra requer pelo menos duas pedras, e ao segurá-las e clicar com o botão direito no ar, você abrirá a interface de lascagem. Então, você pode 'lascar' uma das pedras para criar uma cabeça de ferramenta de pedra. Todos os formatos de ferramentas estão no EMI e no Guia de Campo.\n\nAs duas ferramentas mais importantes para o início da sua jornada são a Faca de Pedra e o Machado de Pedra, então tente lascar essas cabeças de ferramentas.",
 
     "quests.stone_age.find_stick.title": "Encontre Alguns Gravetos",
     "quests.stone_age.find_stick.subtitle": "Você precisa segurar essa ferramenta de algum jeito",
@@ -109,7 +109,7 @@
 
     "quests.stone_age.first_stone_tools.title": "Suas Primeiras Ferramentas",
     "quests.stone_age.first_stone_tools.subtitle": "Agora você é um macaco esperto",
-    "quests.stone_age.first_stone_tools.desc": "Ao talhar pedras em formas utilizáveis, você pode combiná-las com um graveto para criar suas primeiras ferramentas básicas. Você oficialmente entrou na Idade da Pedra!\n\nPedras são suficientes para a sobrevivência básica, mas eventualmente você vai querer criar ferramentas de metal para ter mais velocidade, durabilidade e opções. As próximas duas missões vão te ajudar a coletar os itens necessários.",
+    "quests.stone_age.first_stone_tools.desc": "Ao lascar pedras em formas utilizáveis, você pode combiná-las com um graveto para criar suas primeiras ferramentas básicas. Você oficialmente entrou na Idade da Pedra!\n\nPedras são suficientes para a sobrevivência básica, mas eventualmente você vai querer criar ferramentas de metal para ter mais velocidade, durabilidade e opções. As próximas duas missões vão te ajudar a coletar os itens necessários.",
 
     "quests.stone_age.stone_tools.title": "Ferramentas de Pedra",
     "quests.stone_age.stone_tools.subtitle": "Aparentemente bater as pedras é útil",
@@ -130,11 +130,11 @@
 
     "quests.stone_age.find_clay.title": "Fontes de Argila",
     "quests.stone_age.find_clay.subtitle": "Você vai precisar de muita",
-    "quests.stone_age.find_clay.desc": "Argila é uma parte essencial da tecnologia da Idade da Pedra! Semelhante à talha de pedras, a argila pode ser moldada em diferentes formas e então queimada em um Forno de Cova para criar uma variedade de itens. Ferramentas de pedra e cerâmica de argila serão a base da sua sobrevivência até que você aprenda a trabalhar com metais.\n\nA argila é encontrada em blocos no solo, geralmente cobertos por grama. No entanto, certos tipos de plantas conhecidas como \"Indicadores de Argila\" crescem exclusivamente sobre argila. Consulte o Guia de Campo para saber quais indicadores crescem no seu clima.",
+    "quests.stone_age.find_clay.desc": "Argila é uma parte essencial da tecnologia da Idade da Pedra! Semelhante à lasca de pedras, a argila pode ser moldada em diferentes formas e então queimada em um Forno de Cova para criar uma variedade de itens. Ferramentas de pedra e cerâmica de argila serão a base da sua sobrevivência até que você aprenda a trabalhar com metais.\n\nA argila é encontrada em blocos no solo, geralmente cobertos por grama. No entanto, certos tipos de plantas conhecidas como \"Indicadores de Argila\" crescem exclusivamente sobre argila. Consulte o Guia de Campo para saber quais indicadores crescem no seu clima.",
 
     "quests.stone_age.clay.title": "Argila",
     "quests.stone_age.clay.subtitle": "É Argila!",
-    "quests.stone_age.clay.desc": "Recolha pelo menos 25 unidades de argila. Você precisará fazer pelo menos 5 itens diferentes para progredir (veja as próximas missões). Após moldar a argila, coloque os itens em um Forno de Cova para transformá-los em cerâmica. A moldagem funciona como a talha de pedras, mas usa 5 argilas por item e a argila não é perdida caso você clique errado.",
+    "quests.stone_age.clay.desc": "Recolha pelo menos 25 unidades de argila. Você precisará fazer pelo menos 5 itens diferentes para progredir (veja as próximas missões). Após moldar a argila, coloque os itens em um Forno de Cova para transformá-los em cerâmica. A moldagem funciona como a lasca de pedras, mas usa 5 argilas por item e a argila não é perdida caso você clique errado.",
 
     "quests.stone_age.pit_kiln.title": "Forno de Cova",
     "quests.stone_age.pit_kiln.subtitle": "Está esquentando",
@@ -190,16 +190,16 @@
   
     "quests.stone_age.leather.title": "Couro",
     "quests.stone_age.leather.subtitle": "É óbvio que é mais complicado! AQUI É O TFG!!",
-    "quests.stone_age.leather.desc": "Ao serem mortos, animais selvagens deixam Couros Brutos. A pele bruta não pode ser usada diretamente como couro e precisa ser processado primeiro.\n\nO Couro, assim como Argila e Pedra, pode ser Talhado. Talhar couro permite criar coisas como Armaduras de Couro, Frascos e muito mais.\nSe você não quiser matar animais por couro, e viver em uma região tropical, pode transformar Abacaxi em Couro de Abacaxi, que é um substituto do couro.",
+    "quests.stone_age.leather.desc": "Ao serem mortos, animais selvagens deixam Couros Brutos. A pele bruta não pode ser usada diretamente como couro e precisa ser processado primeiro.\n\nO Couro, assim como Argila e Pedra, pode ser Trabalhado manualmente. Trabalhar o couro permite criar coisas como Armaduras de Couro, Cantis e muito mais.\nSe você não quiser matar animais por couro, e viver em uma região tropical, pode transformar Abacaxi em Couro de Abacaxi, que é um substituto do couro.",
   
     "quests.stone_age.leather_armor.title": "Armadura de Couro",
     "quests.stone_age.leather_armor.subtitle": "Proteção bem básica",
-    "quests.stone_age.leather_armor.desc": "A Armadura de Couro, assim como sua contraparte do Minecraft, é usada como um conjunto de armadura bem básico. Pode não proteger muito, mas te defende um pouco contra os elementos e oferece resistência OK contra dano de Corte.",
+    "quests.stone_age.leather_armor.desc": "A Armadura de Couro, assim como sua contraparte do Minecraft, é usada como um conjunto de armadura bem básico. Pode não proteger muito, mas te defende um pouco contra os elementos e oferece resistência OK contra Dano de Corte.",
   
     "quests.stone_age.mining_prep.title": "Preparações para Mineração",
     "quests.stone_age.mining_prep.subtitle": "Espero que você tenha anotado onde encontrou os indicadores de minério!",
     "quests.stone_age.mining_prep.desc.1": "Progredir além da Idade da Pedra exigirá muito metal, e pegar minérios pequenos na superfície não será suficiente. Você terá que cavar e começar a minerar.\nAssumindo que você &oanotou&r o local onde encontrou o cobre, encontre o meio aproximado dos indicadores e comece a cavar! Pode ser bem fundo, mas eventualmente você ficará rico. A próxima página mostra os equipamentos que você deve levar na sua primeira escavação!",
-    "quests.stone_age.mining_prep.desc.2": "&lPicareta&r: Bem óbvio que é necessária para quebrar pedra e extrair minério. Martelos não funcionam!\n\n&lEscadas e Tochas&r: Você precisará de uma maneira de subir e descer do buraco, e de luz para enxergar!\n\n&lVigas de Apoio e Pranchas&r: Minerar em TFG é bem mais perigoso — monstros aparecem no subsolo, e cavar sem cuidado pode causar desabamentos! A missão acima desta explica como mitigar esses perigos.\n\nAgora vá cavar seu buraco, sua topeira!",
+    "quests.stone_age.mining_prep.desc.2": "&lPicareta&r: Bem óbvio que é necessária para quebrar pedra e extrair minério. Marretas não funcionam!\n\n&lEscadas e Tochas&r: Você precisará de uma maneira de subir e descer do buraco, e de luz para enxergar!\n\n&lVigas de Apoio e Pranchas&r: Minerar no TFG é bem mais perigoso — monstros aparecem no subsolo, e cavar sem cuidado pode causar desabamentos! A missão acima desta explica como mitigar esses perigos.\n\nAgora vá cavar seu buraco, sua topeira!",
   
     "quests.stone_age.hazards.title": "Perigos da Mineração",
     "quests.stone_age.hazards.subtitle": "Achou que a superfície era difícil? Achou errado, otário!",
@@ -212,7 +212,7 @@
   
     "quests.stone_age.get_raw_rock.title": "Rocha Bruta",
     "quests.stone_age.get_raw_rock.subtitle": "Não, não é só \"Pedra\"",
-    "quests.stone_age.get_raw_rock.desc": "Para criar sua Bigorna de Cobre, você precisará tanto de uma Bigorna de Pedra básica quanto de uma Forja de Carvão. Para fazer uma Bigorna de Pedra, será necessário um bloco de rocha Ígnea Bruta.\n\nPara obter Rocha Bruta, quebre com cuidado os blocos &lao redor&r da Rocha Bruta que deseja minerar. Quando os 6 lados da Rocha Bruta estiverem expostos ao ar, ela se soltará em forma de item. Por fim, clique com o botão direito em um bloco de rocha ígnea bruta com um martelo para transformá-lo em sua Bigorna de Pedra.",
+    "quests.stone_age.get_raw_rock.desc": "Para criar sua Bigorna de Cobre, você precisará tanto de uma Bigorna de Pedra básica quanto de uma Forja de Carvão. Para fazer uma Bigorna de Pedra, será necessário um bloco de rocha Ígnea Bruta.\n\nPara obter Rocha Bruta, quebre com cuidado os blocos &lao redor&r da Rocha Bruta que deseja minerar. Quando os 6 lados da Rocha Bruta estiverem expostos ao ar, ela se soltará em forma de item. Por fim, clique com o botão direito em um bloco de rocha ígnea bruta com uma marreta para transformá-lo em sua Bigorna de Pedra.",
   
     "quests.stone_age.create_forge.title": "A Forja",
     "quests.stone_age.create_forge.subtitle": "O Fabric nem existe, aliás.",
@@ -231,16 +231,16 @@
     "quests.stone_age.crush_ore.desc": "A Moenda é apenas o primeiro passo no processamento de minérios! O processamento adequado de minérios é um sistema grande e complexo que você aprenderá com o tempo, e que pode ser usado para extrair muito mais metal utilizável e subprodutos de cada minério minerado. Por ora, vamos transformar os minérios brutos que você minerou em Minério Esmagado usando a Moenda. Só esse primeiro passo já aumenta a quantidade de mB que o minério renderá ao fundir.",
   
     "quests.stone_age.crush_crushed_ore.title": "Processamento Inicial de Minérios - Parte 2",
-    "quests.stone_age.crush_crushed_ore.subtitle": "Esmague com um martelo",
-    "quests.stone_age.crush_crushed_ore.desc": "Combine o Minério Esmagado com um martelo em uma grade de criação para transformá-lo em Pó Impuro, aumentando ainda mais sua produção em mB.\n\nPode parecer lento e tedioso por enquanto, mas logo você desbloqueará formas mais rápidas e automáticas de fazer isso!",
+    "quests.stone_age.crush_crushed_ore.subtitle": "Esmague com uma marreta",
+    "quests.stone_age.crush_crushed_ore.desc": "Combine o Minério Esmagado com uma marreta em uma grade de criação para transformá-lo em Pó Impuro, aumentando ainda mais sua produção de mB.\n\nPode parecer lento e tedioso por enquanto, mas logo você desbloqueará formas mais rápidas e automáticas de fazer isso!",
   
     "quests.stone_age.clean_dust.title": "Processamento Inicial de Minérios - Parte 3",
     "quests.stone_age.clean_dust.subtitle": "Lave esse pó sujo",
-    "quests.stone_age.clean_dust.desc": "Por fim, jogue Pó Impuro na água e deixe-o lá por alguns segundos para lavá-lo. Isso resultará em pó limpo — a forma final do seu minério. Ele pode até valer o equivalente a um lingote inteiro!",
+    "quests.stone_age.clean_dust.desc": "Por fim, jogue o Pó Impuro na água e deixe-o lá por alguns segundos para lavá-lo. Isso resultará em pó limpo — a forma final do seu minério. Ele pode até valer o equivalente a um lingote inteiro!",
   
     "quests.stone_age.flux.title": "Pedras de Fluxo",
     "quests.stone_age.flux.subtitle": "É basicamente cola para metais",
-    "quests.stone_age.flux.desc": "Fluxo é um item usado principalmente no trabalho com metais para soldar itens, embora também tenha outros usos.\nCertos tipos de rochas, como Calcário Branco, Calcário e Mármore, podem ser triturados para virar Fluxo, assim como conchas de diversos animais marinhos.",
+    "quests.stone_age.flux.desc": "Fluxo é um item usado principalmente no trabalho com metais para soldar itens, embora também tenha outros usos.\nCertos tipos de rochas, como Giz, Calcário e Mármore, podem ser triturados para virar Fluxo, assim como conchas de diversos animais marinhos.",
   
     "quests.stone_age.weld_copper_ingots.title": "Soldando Cobre",
     "quests.stone_age.weld_copper_ingots.subtitle": "Tão perto da Bigorna de Cobre",
@@ -248,6 +248,6 @@
   
     "quests.metal_age.copper_anvil.title": "Bigorna Nível 1: Cobre",
     "quests.metal_age.copper_anvil.subtitle": "E tudo isso para chegarmos até aqui!",
-    "quests.metal_age.copper_anvil.desc": "Parabéns! Você oficialmente terminou a Idade da Pedra e entrou na Era da Metalurgia! Com sua Bigorna de Cobre, o próximo passo é subir os Níveis de Bigorna. A cada novo nível desbloqueado, novas ferramentas e possibilidades se abrirão para tornar sua vida progressivamente mais fácil. Agora vá e torne-se um mestre ferreiro!"
+    "quests.metal_age.copper_anvil.desc": "Parabéns! Você oficialmente terminou a Idade da Pedra e entrou na Idade do Metal! Com sua Bigorna de Cobre, o próximo passo é subir os Níveis de Bigorna. A cada novo nível desbloqueado, novas ferramentas e possibilidades se abrirão para tornar sua vida progressivamente mais fácil. Agora vá e torne-se um mestre ferreiro!"
   
 }
