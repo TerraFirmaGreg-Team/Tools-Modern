@@ -63,6 +63,7 @@
 	"tfg.food_recipe.brining": "Brining",
 	"tfg.food_recipe.smoking": "Smoking",
 	"tfg.food_recipe.drying": "Drying",
+	"tfg.food_recipe.freeze_drying": "Dessicate",
 	"tfg.recipe.macerator_warning": "Only outputs first slot until HV",
 
 	"tfg.grapplemod.repair": "Repair recipe, keeps your upgrades. §lNEVER combine two grapples or you'll lose ALL your upgrades!§r",

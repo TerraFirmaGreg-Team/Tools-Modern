@@ -1,6 +1,7 @@
 {
     "tfg.disabled_portal": "Portal magic seems to be blocked by an unknown force, try reaching another dimension by going down or up",
     "tfg.tooltip.food_trait.refrigerating": "§bRefrigerating",
+    "tfg.tooltip.foodtrait.freeze_dried": "Cryodesiccated",
 
     "item.treetap.tap": "Deprecated Item, Craft to Upgrade",
 
