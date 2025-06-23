@@ -37,5 +37,10 @@
     "material.tfg.compressed_heliox": "Compressed Heliox",
     "material.tfg.compressed_heliox_3": "Compressed Heliox-3",
     "material.tfg.compressed_trimix": "Compressed 50/30/20 Trimix",
-    "material.tfg.compressed_trimix_3": "Compressed 50/30/20 Trimix-3"
+    "material.tfg.compressed_trimix_3": "Compressed 50/30/20 Trimix-3",
+
+    "material.tfg.chlorodifluoromethane": "Chlorodifluoromethane",
+    "material.tfg.acetylene": "Acetylene",
+    "material.tfg.1_1_1_2_tetrafluoroethane": "1,1,1,2-Tetrafluoroethane",
+    "material.tfg.isobutane": "Isobutane"
 }
