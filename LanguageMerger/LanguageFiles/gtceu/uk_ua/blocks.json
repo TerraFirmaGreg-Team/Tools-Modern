@@ -10,8 +10,12 @@
     "block.gtceu.black_bronze_drum": "Бочка з Чорної Бронзи",
     "block.gtceu.bismuth_bronze_crate": "Ящик з Вісмутової Бронзи",
     "block.gtceu.bismuth_bronze_drum": "Бочка з Вісмутової Бронзи",
+    "block.gtceu.overworld_marker": "Земля",
+    "block.gtceu.the_nether_marker": "Безодня",
     "gtceu.nether_dome": "Незераріум",
     "gtceu.end_dome": "Ендераріум",
     "gtceu.greenhouse": "Електрична теплиця",
-    "gtceu.steam_bloomery": "Парова Сиродутна Піч"
+    "gtceu.steam_bloomery": "Парова Сиродутна Піч",
+    "gtceu.food_oven": "Духова піч",
+    "gtceu.food_processor": "Кухонний комбайн"
 }

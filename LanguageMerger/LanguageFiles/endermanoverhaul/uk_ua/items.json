@@ -1,10 +1,12 @@
 {
-	"item.endermanoverhaul.cave_enderman_spawn_egg": "Яйце Спавну Глибокопечерного Ендермена",
-	"item.endermanoverhaul.dark_oak_enderman_spawn_egg": "Яйце Спавну Попелястого Ендермена",
-	"item.endermanoverhaul.mushroom_fields_enderman_spawn_egg": "Яйце Спавну Грибного Ендермена",
-	"item.endermanoverhaul.swamp_enderman_spawn_egg": "Яйце Спавну Мохового Ендермена",
-	"item.endermanoverhaul.scarab_spawn_egg": "Яйце Спавну Жука",
-	"item.endermanoverhaul.soulsand_valley_enderman_spawn_egg": "Яйце Спавну Ендермена з Місячного Моря",
-	"item.endermanoverhaul.windswept_hills_enderman_spawn_egg": "Яйце Спавну Ендермена з Місячних Височин",
-	"item.endermanoverhaul.spirit_spawn_egg": "Яйце Спавну Комети"
+	"item.endermanoverhaul.cave_enderman_spawn_egg": "Яйце Появи Глибокопечерного Ендермена",
+	"item.endermanoverhaul.dark_oak_enderman_spawn_egg": "Яйце Появи Попелястого Ендермена",
+	"item.endermanoverhaul.mushroom_fields_enderman_spawn_egg": "Яйце Появи Грибного Ендермена",
+	"item.endermanoverhaul.swamp_enderman_spawn_egg": "Яйце Появи Мохового Ендермена",
+	"item.endermanoverhaul.scarab_spawn_egg": "Яйце Появи Жука",
+	"item.endermanoverhaul.soulsand_valley_enderman_spawn_egg": "Яйце Появи Ендермена, Торкнутого Світлобутоном",
+	"item.endermanoverhaul.windswept_hills_enderman_spawn_egg": "Яйце Появи Ендермена з Місячного Моря",
+	"item.endermanoverhaul.end_enderman_spawn_egg": "Яйце Появи Баритонового Хорового Ендермена",
+	"item.endermanoverhaul.end_islands_enderman_spawn_egg": "Яйце Появи Сопрано-Хорового Ендермена",
+	"item.endermanoverhaul.spirit_spawn_egg": "Яйце Появи Комети"
 }

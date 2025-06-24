@@ -1,6 +1,7 @@
 {
     "tfg.disabled_portal": "Магія порталу здається заблокованою невідомою силою, спробуйте дістатися до іншого виміру, спускаючись вниз або підіймаючись угору",
-    "tfg.tooltip.food_trait.refrigerating": "§9Охолодження",
+    "tfg.tooltip.food_trait.refrigerating": "§bОхолодження",
+    "tfg.tooltip.foodtrait.freeze_dried": "Кріосушений",
     "item.treetap.tap": "Застарілий предмет, створіть для оновлення",
     "item.gtceu.zinc_ingot": "Застарілий предмет, створіть для оновлення",
     "item.gtceu.brass_ingot": "Застарілий предмет, створіть для оновлення",

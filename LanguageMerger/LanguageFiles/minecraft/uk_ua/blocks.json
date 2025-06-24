@@ -40,5 +40,8 @@
 	"block.minecraft.polished_blackstone_wall": "Полірована піроксенітова стіна",
 	"block.minecraft.dripstone_block": "Сирий Травертин",
 	"block.minecraft.magma_block": "Піроксенітова магма",
-	"block.minecraft.twisting_vines": "Стебло Світлоквіту"
+	"block.minecraft.twisting_vines": "Стебло Світлоквіту",
+	"block.minecraft.pearlescent_froglight": "Перламутровий Світлобутон",
+	"block.minecraft.verdant_froglight": "Зеленіючий Світлобутон",
+	"block.minecraft.ochre_froglight": "Охристий Світлобутон"
 }

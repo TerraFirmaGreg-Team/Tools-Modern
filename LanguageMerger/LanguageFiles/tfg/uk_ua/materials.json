@@ -25,5 +25,15 @@
     "material.tfg.mercury_stone": "Коматіїт",
     "material.tfg.glacio_stone": "Фоноліт",
     "material.gtceu.thermochemically_treated_hardwood": "Термохімічно Оброблена Тверда Деревина",
-    "material.gtceu.hardwood": "Тверда деревина"
+    "material.gtceu.hardwood": "Тверда деревина",
+    "material.gtceu.asurine": "Азурин",
+    "material.tfg.compressed_nitrox": "Стиснений Найтрокс",
+    "material.tfg.compressed_heliox": "Стиснений Геліокс",
+    "material.tfg.compressed_heliox_3": "Стиснений Геліокс-3",
+    "material.tfg.compressed_trimix": "Стиснений Траймікс 50/30/20",
+    "material.tfg.compressed_trimix_3": "Стиснений Траймікс-3 50/30/20",
+    "material.tfg.chlorodifluoromethane": "Chlorodifluoromethane",
+    "material.tfg.acetylene": "Ацетилен",
+    "material.tfg.1_1_1_2_tetrafluoroethane": "1,1,1,2-Тетрафторетан",
+    "material.tfg.isobutane": "Ізобутан"
 }

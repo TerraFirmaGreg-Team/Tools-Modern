@@ -1,7 +1,8 @@
 {
-    "item.minecraft.iron_nugget": "Чавунний самородок",
-	"item.minecraft.iron_ingot": "Чавунний злиток",
-	"item.minecraft.iron_block": "Чавунний блок",
-	"item.minecraft.netherite_leggings": "Сині сталеві дайвінг-легінси",
-	"item.beneath.loose_blackstone": "Розсипчастий піроксеніт",
+    "item.minecraft.iron_nugget": "Самородок чавуну",
+    "item.minecraft.iron_ingot": "Чавунний злиток",
+    "item.minecraft.iron_block": "Чавунний блок",
+    "item.minecraft.netherite_leggings": "Сині сталеві легінси для дайвінгу",
+    "item.minecraft.string": "Шовкова нитка",
+    "item.minecraft.glow_ink_sac": "Світний барвник"
 }
