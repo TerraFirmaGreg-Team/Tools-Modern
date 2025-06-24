@@ -8,6 +8,11 @@
 			"lang": "en_us",
 			"text": "Ostrum",
 			"info": "$(thing)Source of$(): "
+		},
+		{
+			"lang": "pt_br",
+			"text": "Ostrum",
+			"info": "$(thing)Fonte de$(): "
 		}
 	]
 }

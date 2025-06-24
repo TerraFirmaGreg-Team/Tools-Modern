@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Manganese, Tantalum"
     },
     {
+      "lang": "pt_br",
+      "text": "Tantalita",
+      "info": "$(thing)Fonte de$(): Manganês, Tântalo"
+    },
+    {
       "lang": "ru_ru",
       "text": "Танталит",
       "info": "$(thing)Хромит$(): Марганец, Тантал"

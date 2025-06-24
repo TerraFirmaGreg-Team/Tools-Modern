@@ -10,6 +10,11 @@
       "info": "$(thing)Used for$(): Alabaster (dyeable) bricks"
     },
     {
+      "lang": "pt_br",
+      "text": "Gipsita",
+      "info": "$(thing)Usado para$(): Tijolos de Alabastro (tingíveis)"
+    },
+    {
       "lang": "ru_ru",
       "text": "Гипс",
       "info": "$(thing)Используется для$(): Алебастр (можно покрасить) и его кирпичи"

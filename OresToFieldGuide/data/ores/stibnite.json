@@ -10,6 +10,11 @@
       "info": "$(thing)Smelts into$(): Antimony"
     },
     {
+      "lang": "pt_br",
+      "text": "Estibnita",
+      "info": "$(thing)Derrete em$(): Antimônio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Стибнит",
       "info": "$(thing)Плавится в$(): Сурьма"

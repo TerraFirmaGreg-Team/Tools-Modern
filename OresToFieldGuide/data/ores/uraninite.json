@@ -11,6 +11,11 @@
             "info": "$(thing)Source of$(): Uranium"
         },
         {
+            "lang": "pt_br",
+            "text": "Uraninita",
+            "info": "$(thing)Fonte de$(): Urânio"
+        },
+        {
             "lang": "ru_ru",
             "text": "Уранинит",
             "info": "$(thing)Хромит$(): Уран"

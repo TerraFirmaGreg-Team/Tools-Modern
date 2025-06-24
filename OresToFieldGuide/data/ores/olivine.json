@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Magnesium, Iron"
     },
     {
+      "lang": "pt_br",
+      "text": "Olivina",
+      "info": "$(thing)Fonte de$(): Magnésio, Ferro"
+    },
+    {
       "lang": "ru_ru",
       "text": "Оливин",
       "info": "$(thing)Хромит$(): Магний, Железо"

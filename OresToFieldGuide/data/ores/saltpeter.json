@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Potassium, Nitrogen"
     },
     {
+      "lang": "pt_br",
+      "text": "Salitre",
+      "info": "$(thing)Fonte de$(): Potássio, Nitrogênio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Селитра",
       "info": "$(thing)Хромит$(): Калий, Азот"

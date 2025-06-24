@@ -10,6 +10,11 @@
             "info": "$(thing)Melts into$(): Bismuth"
         },
         {
+            "lang": "pt_br",
+            "text": "Bismuto",
+            "info": "$(thing)Derrete em$(): Bismuto"
+        },
+        {
             "lang": "ru_ru",
             "text": "Висмут",
             "info": "$(thing)Плавится в$(): Висмут"

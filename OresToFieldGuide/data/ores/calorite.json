@@ -8,6 +8,11 @@
             "lang": "en_us",
             "text": "Calorite",
             "info": "$(thing)Source of$(): "
+        },
+        {
+            "lang": "pt_br",
+            "text": "Calorita",
+            "info": "$(thing)Fonte de$(): "
         }
     ]
 }

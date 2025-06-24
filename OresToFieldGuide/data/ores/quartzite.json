@@ -10,6 +10,11 @@
       "info": "$(thing)Used for$(): LV components"
     },
     {
+      "lang": "pt_br",
+      "text": "Quartzito",
+      "info": "$(thing)Usado para$(): Componentes LV"
+    },
+    {
       "lang": "ru_ru",
       "text": "Кварцит",
       "info": "$(thing)Используется для$(): компоненты уровня LV"

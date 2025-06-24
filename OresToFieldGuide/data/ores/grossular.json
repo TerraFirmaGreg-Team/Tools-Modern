@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Calcium, Aluminium"
     },
     {
+      "lang": "pt_br",
+      "text": "Glossulária",
+      "info": "$(thing)Fonte de$(): Cálcio, Alumínio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Гроссуляр",
       "info": "$(thing)Хромит$(): Кальций, Алюминий"

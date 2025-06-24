@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Cerium, Fluorine"
     },
     {
+      "lang": "pt_br",
+      "text": "Bastnasita",
+      "info": "$(thing)Fonte de$(): Cério, Flúor"
+    },
+    {
       "lang": "ru_ru",
       "text": "Бастнезит",
       "info": "$(thing)Хромит$(): Церий, Фтор"

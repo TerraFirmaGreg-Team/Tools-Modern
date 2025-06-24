@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Molybdenum"
     },
     {
+      "lang": "pt_br",
+      "text": "Molibdenita",
+      "info": "$(thing)Fonte de$(): Molibdênio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Молибденит",
       "info": "$(thing)Хромит$(): Молибден"

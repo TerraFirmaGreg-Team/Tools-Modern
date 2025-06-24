@@ -9,6 +9,11 @@
       "info": "$(thing)Source of$(): Almandine, Andradite, Grossular, Pyrope, Spessartine, Uvarovite"
     },
     {
+      "lang": "pt_br",
+      "text": "Areia Granada",
+      "info": "$(thing)Fonte de$(): Almandina, Andradita, Glossulária, Piropo, Espessartita, Uvarovita"
+    },
+    {
       "lang": "ru_ru",
       "text": "Гранатовый песок",
       "info": "$(thing)Хромит$(): Альмандин, Андрадит, Гроссуляр, Пироп, Спасерит, Уваровит"

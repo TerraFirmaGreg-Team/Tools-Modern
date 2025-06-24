@@ -5,6 +5,7 @@
 	"vein_index_icon": "gtceu:moon_stone_certus_quartz_ore",
 	"vein_tag": "tfg:moon_veins",
 	"translations": {
-		"en_us": "The Moon"
+		"en_us": "The Moon",
+		"pt_br": "A Lua"
 	}
 }
