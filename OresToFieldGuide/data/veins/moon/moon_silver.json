@@ -5,7 +5,7 @@
 	"config": {
 		"rarity": 210,
 		"density": 0.4,
-		"min_y": -32,
+		"min_y": 20,
 		"max_y": 75,
 		"size": 30
 	},
@@ -22,11 +22,18 @@
 		{
 			"ore": "lead",
 			"weight": 25
+		},
+		{
+			"ore": "olivine",
+			"weight": 5
 		}
 	],
 	"rocks": [
 		"moon_stone",
-		"moon_deepslate"
+		"moon_deepslate",
+		"rhyolite",
+		"diorite",
+		"dacite"
 	],
 	"indicator": {
 		"depth": 50

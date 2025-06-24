@@ -1,36 +1,35 @@
 {
-	"id": "moon_enstatite",
+	"id": "moon_pyrolusite",
 	"dimension": "moon",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 250,
+		"rarity": 210,
 		"density": 0.25,
-		"min_y": -20,
-		"max_y": 90,
-		"size": 36
+		"min_y": 20,
+		"max_y": 80,
+		"size": 40
 	},
 	"ores": [
 		{
-			"ore": "enstatite",
-			"weight": 45,
+			"ore": "pyrolusite",
+			"weight": 40,
 			"block_weight": 2
 		},
 		{
-			"ore": "chromite",
-			"weight": 30,
-			"block_weight": 1
+			"ore": "cobaltite",
+			"weight": 25
 		},
 		{
-			"ore": "ilmenite",
+			"ore": "cobalt",
+			"weight": 25
+		},
+		{
+			"ore": "tantalite",
 			"weight": 15
-		},
-		{
-			"ore": "fayalite",
-			"weight": 10
 		}
 	],
 	"rocks": [
-		"diorite",
+		"andesite",
 		"basalt",
 		"gabbro",
 		"moon_stone",
@@ -42,7 +41,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Enstatite & Chromite"
+			"text": "Pyrolusite and Cobalt"
 		}
 	]
 }

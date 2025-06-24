@@ -1,10 +1,10 @@
 {
-	"id": "moon_beryllium",
+	"id": "moon_graphite",
 	"dimension": "moon",
 	"type": "tfc:pipe_vein",
 	"config": {
 		"rarity": 260,
-		"density": 0.45,
+		"density": 0.55,
 		"min_y": 0,
 		"max_y": 120,
 		"min_skew": 6,
@@ -12,37 +12,30 @@
 		"min_slant": 0,
 		"max_slant": 4,
 		"sign": 0,
-		"height": 70,
-		"radius": 10
+		"height": 60,
+		"radius": 12
 	},
 	"ores": [
 		{
-			"ore": "beryllium",
-			"weight": 35,
+			"ore": "graphite",
+			"weight": 50,
 			"block_weight": 1
 		},
 		{
-			"ore": "emerald",
-			"weight": 50,
-			"block_weight": 2
-		},
-		{
-			"ore": "thorium",
-			"weight": 1
+			"ore": "diamond",
+			"weight": 35
 		},
 		{
 			"ore": "olivine",
-			"weight": 5
-		},
-		{
-			"ore": "rock_salt",
-			"weight": 20
+			"weight": 10
 		}
 	],
 	"rocks": [
 		"basalt",
 		"moon_stone",
-		"glacio_stone"
+		"glacio_stone",
+		"gabbro",
+		"basalt"
 	],
 	"indicator": {
 		"depth": 50
@@ -50,15 +43,15 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Emerald & Beryllium"
+			"text": "Graphite & Diamond"
 		},
 		{
 			"lang": "ru_ru",
-			"text": "Изумруд и Бериллий"
+			"text": "Графит и Алмаз"
 		},
 		{
 			"lang": "uk_ua",
-			"text": "Смарагд і Берилій"
+			"text": "Графіт і Діамант"
 		}
 	]
 }

@@ -3,11 +3,11 @@
 	"dimension": "moon",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 180,
+		"rarity": 280,
 		"density": 0.3,
-		"min_y": -64,
-		"max_y": 30,
-		"size": 30
+		"min_y": 0,
+		"max_y": 90,
+		"size": 70
 	},
 	"ores": [
 		{
@@ -21,7 +21,7 @@
 		{
 			"ore": "chromite",
 			"weight": 40,
-			"block_weight": 1
+			"block_weight": 2
 		},
 		{
 			"ore": "gold",

@@ -3,10 +3,10 @@
 	"dimension": "moon",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 250,
+		"rarity": 260,
 		"density": 0.3,
-		"min_y": -64,
-		"max_y": 0,
+		"min_y": 0,
+		"max_y": 70,
 		"size": 30
 	},
 	"ores": [
@@ -21,17 +21,17 @@
 		},
 		{
 			"ore": "platinum",
-			"weight": 25
+			"weight": 15
 		},
 		{
-			"ore": "palladium",
-			"weight": 15
+			"ore": "nickel",
+			"weight": 25
 		}
 	],
 	"rocks": [
-		"moon_stone",
-		"moon_deepslate",
-		"basalt"
+		"basalt",
+		"andesite",
+		"glacio_stone"
 	],
 	"indicator": {
 		"depth": 50

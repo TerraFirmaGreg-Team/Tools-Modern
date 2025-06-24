@@ -1,0 +1,59 @@
+{
+	"id": "moon_topaz",
+	"dimension": "moon",
+	"type": "tfc:disc_vein",
+	"config": {
+		"rarity": 210,
+		"density": 0.5,
+		"min_y": 0,
+		"max_y": 120,
+		"size": 64,
+		"height": 25
+	},
+	"ores": [
+		{
+			"ore": "blue_topaz",
+			"weight": 35,
+			"block_weight": 1
+		},
+		{
+			"ore": "topaz",
+			"weight": 25,
+			"block_weight": 1
+		},
+		{
+			"ore": "chalcocite",
+			"weight": 25,
+			"block_weight": 1
+		},
+		{
+			"ore": "bornite",
+			"weight": 15
+		}
+	],
+	"rocks": [
+		"basalt",
+		"moon_deepslate",
+		"gabbro",
+		"moon_stone",
+		"diorite",
+		"glacio_stone",
+		"dacite",
+		"rhyolite",
+		"andesite"
+	],
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Topaz & Chalcocite"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Топаз и Халькозин"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Топаз і Халькоцит"
+		}
+	]
+}

@@ -13,8 +13,13 @@
     "block.gtceu.bismuth_bronze_crate": "Bismuth Bronze Crate",
     "block.gtceu.bismuth_bronze_drum": "Bismuth Bronze Drum",
 
+    "block.gtceu.overworld_marker": "Earth",
+    "block.gtceu.the_nether_marker": "The Beneath",
+
     "gtceu.nether_dome": "Netherarium",
     "gtceu.end_dome": "Enderarium",
     "gtceu.greenhouse": "Electric Greenhouse",
-    "gtceu.steam_bloomery": "Steam Bloomery"
+    "gtceu.steam_bloomery": "Steam Bloomery",
+    "gtceu.food_oven": "Food Oven",
+    "gtceu.food_processor": "Food Processor"
 }

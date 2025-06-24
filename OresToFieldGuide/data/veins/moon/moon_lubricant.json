@@ -1,0 +1,55 @@
+{
+	"id": "moon_lubricant",
+	"dimension": "moon",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 190,
+		"density": 0.25,
+		"min_y": 0,
+		"max_y": 66,
+		"size": 36
+	},
+	"ores": [
+		{
+			"ore": "soapstone",
+			"weight": 30
+		},
+		{
+			"ore": "talc",
+			"weight": 20
+		},
+		{
+			"ore": "glauconite_sand",
+			"weight": 25
+		},
+		{
+			"ore": "pentlandite",
+			"weight": 15
+		},
+		{
+			"ore": "trona",
+			"weight": 10
+		}
+	],
+	"rocks": [
+		"diorite",
+		"gabbro",
+		"moon_stone",
+		"moon_deepslate",
+		"basalt"
+	],
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Soapstone, Talc, & Trona"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Мыльный камень, Тальк и Трона"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Соапостон, Тальк і Трона"
+		}
+	]
+}

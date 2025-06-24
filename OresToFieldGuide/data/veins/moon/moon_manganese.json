@@ -1,13 +1,13 @@
 {
-	"id": "normal_manganese",
-	"dimension": "earth",
+	"id": "moon_manganese",
+	"dimension": "moon",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 195,
-		"density": 0.3,
-		"min_y": -32,
-		"max_y": 60,
-		"size": 30
+		"rarity": 215,
+		"density": 0.5,
+		"min_y": 5,
+		"max_y": 80,
+		"size": 40
 	},
 	"ores": [
 		{
@@ -28,17 +28,12 @@
 		}
 	],
 	"rocks": [
-		"rhyolite",
-		"basalt",
 		"andesite",
+		"basalt",
+		"gabbro",
 		"dacite",
-		"shale",
-		"claystone",
-		"limestone",
-		"conglomerate",
-		"dolomite",
-		"chert",
-		"chalk"
+		"basalt",
+		"moon_deepslate"
 	],
 	"translations": [
 		{

@@ -2,8 +2,14 @@
 	"metaitem.dust.tooltip.purify": "Drop in Water to get Clean Dust",
 	"metaitem.crushed.tooltip.purify": "Drop in Water to get Purified Ore",
 
-	"item.gtceu.tool.behavior.silk_ice": "Silk Harvests Packed Ice",
+	"item.gtceu.tool.behavior.silk_ice": "Silk harvests Packed Ice",
+	"item.gtceu.tool.butchery_knife.tooltip": "Butchers animals for more meat",
 
-	"block.gtceu.overworld_marker": "Earth",
-	"block.gtceu.the_nether_marker": "The Beneath"
+	"gtceu.jei.bedrock_ore.moon_asbestos": "Lunar Asbestos",
+	"gtceu.jei.bedrock_ore.moon_mica": "Lunar Mica",
+	"gtceu.jei.bedrock_ore.moon_tin": "Lunar Tin",
+	"gtceu.jei.bedrock_ore.moon_certus": "Lunar Certus Quartz",
+	"gtceu.jei.bedrock_ore.moon_magnetite": "Lunar Magnetite",
+	"gtceu.jei.bedrock_ore.moon_copper": "Lunar Chalcopyrite"
+
 }

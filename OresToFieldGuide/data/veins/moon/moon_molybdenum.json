@@ -5,9 +5,9 @@
 	"config": {
 		"rarity": 245,
 		"density": 0.45,
-		"min_y": -64,
-		"max_y": 10,
-		"size": 26
+		"min_y": 0,
+		"max_y": 50,
+		"size": 40
 	},
 	"ores": [
 		{
@@ -21,17 +21,17 @@
 			"block_weight": 1
 		},
 		{
-			"ore": "molybdenum",
+			"ore": "powellite",
 			"weight": 15
 		},
 		{
-			"ore": "powellite",
-			"weight": 15
+			"ore": "olivine",
+			"weight": 5
 		}
 	],
 	"rocks": [
 		"basalt",
-		"diorite",
+		"dacite",
 		"gabbro",
 		"moon_deepslate"
 	],

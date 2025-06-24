@@ -1,5 +1,6 @@
 {
     "tfg.disabled_portal": "A magia do portal parece estar bloqueada por uma força desconhecida, tente alcançar outra dimensão descendo ou subindo",
+    "tfg.tooltip.food_trait.refrigerating": "§9Refrigeração",
 
     "item.treetap.tap": "Item Descontinuado, Crie para Atualizar",
 
@@ -112,7 +113,7 @@
     "trim_material.tfc.salt_tfc": "Sal",
     "trim_material.tfc.sapphire_tfc": "Safira",
     "trim_material.tfc.sodalite_tfc": "Sodalita",
-    "trim_material.tfc.coke_tfc": "Coke",
+    "trim_material.tfc.coke_tfc": "Coque",
     "trim_material.tfc.spessartine_tfc": "Espessartita",
     "trim_material.tfc.topaz_tfc": "Topázio",
     "trim_material.tfc.uvarovite_tfc": "Uvarovita",

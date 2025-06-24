@@ -45,5 +45,8 @@
 
 	"block.minecraft.magma_block": "Pyroxenite Magma",
 
-	"block.minecraft.twisting_vines": "Lightbloom Stem"
+	"block.minecraft.twisting_vines": "Lightbloom Stem",
+	"block.minecraft.pearlescent_froglight": "Pearlescent Lightbloom",
+	"block.minecraft.verdant_froglight": "Verdant Lightbloom",
+	"block.minecraft.ochre_froglight": "Ochre Lightbloom"
 }

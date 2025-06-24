@@ -1,4 +1,7 @@
 {
+	"block.tfg.piglin_disguise": "Disfarce de Piglin",
+	"block.tfg.piglin_disguise_block": "Disfarce de Piglin",
+
 	"block.tfg.decorative_vase.black": "Vaso Decorativo Preto",
 	"block.tfg.decorative_vase.gray": "Vaso Decorativo Cinza",
 	"block.tfg.decorative_vase.light_gray": "Vaso Decorativo Cinza Claro",
@@ -75,8 +78,8 @@
 	"block.tfg.Dolomite_support": "Suporte de Dolomita",
 	"block.tfg.chert_support_horizontal": "Suporte Horizontal de Cherte",
 	"block.tfg.chert_support": "Suporte de Cherte",
-	"block.tfg.chalk_support_horizontal": "Suporte Horizontal de Calcário Branco",
-	"block.tfg.chalk_support": "Suporte de Calcário Branco",
+	"block.tfg.chalk_support_horizontal": "Suporte Horizontal de Giz",
+	"block.tfg.chalk_support": "Suporte de Giz",
 	"block.tfg.rhyolite_support_horizontal": "Suporte Horizontal de Riolito",
 	"block.tfg.rhyolite_support": "Suporte de Riolito",
 	"block.tfg.dacite_support_horizontal": "Suporte Horizontal de Dacito",
@@ -144,5 +147,26 @@
 	"block.tfg.lunar_chorus_plant": "Planta do Coro",
 	"block.tfg.lunar_chorus_flower": "Flor do Coro",
 
-	"block.tfg.piglin_disguise_block": "Disfarce de Piglin"
+	"block.tfg.marker.moon": "A Lua",
+	"block.tfg.marker.mars": "Marte",
+	"block.tfg.marker.venus": "Vênus",
+	"block.tfg.marker.mercury": "Mercúrio",
+
+	"block.tfg.lv_aqueous_accumulator": "Acumulador Aquoso Básico",
+	"block.tfg.mv_aqueous_accumulator": "§bAcumulador Aquoso Avançado§r",
+	"block.tfg.hv_aqueous_accumulator": "§6Acumulador Aquoso Avançado II§r",
+	"block.tfg.ev_aqueous_accumulator": "§5Acumulador Aquoso Avançado III§r",
+	"block.tfg.electric_greenhouse": "Estufa Elétrica",
+	"block.tfg.lv_food_processor": "Processador de Alimentos Básico",
+	"block.tfg.mv_food_processor": "§bProcessador de Alimentos Avançado§r",
+	"block.tfg.hv_food_processor": "§6Processador de Alimentos Avançado II§r",
+	"block.tfg.ev_food_processor": "§5Processador de Alimentos Avançado III§r",
+	"block.tfg.lv_food_oven": "Forno Elétrico Básico",
+	"block.tfg.mv_food_oven": "§bForno Elétrico Avançado§r",
+	"block.tfg.hv_food_oven": "§6Forno Elétrico Avançado II§r",
+	"block.tfg.ev_food_oven": "§5Forno Elétrico Avançado III§r",
+	"block.tfg.lv_food_refrigerator": "Geladeira Básica",
+	"block.tfg.mv_food_refrigerator": "§bGeladeira Avançada",
+	"block.tfg.hv_food_refrigerator": "§6Geladeira Avançada II§r",
+	"block.tfg.ev_food_refrigerator": "§5Geladeira Avançada III§r"
 }

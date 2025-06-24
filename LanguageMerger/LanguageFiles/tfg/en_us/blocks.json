@@ -147,8 +147,26 @@
 	"block.tfg.lunar_chorus_plant": "Chorus Plant",
 	"block.tfg.lunar_chorus_flower": "Chorus Flower",
 
+	"block.tfg.marker.moon": "The Moon",
+	"block.tfg.marker.mars": "Mars",
+	"block.tfg.marker.venus": "Venus",
+	"block.tfg.marker.mercury": "Mercury",
+
 	"block.tfg.lv_aqueous_accumulator": "Basic Aqueous Accumulator",
 	"block.tfg.mv_aqueous_accumulator": "§bAdvanced Aqueous Accumulator§r",
 	"block.tfg.hv_aqueous_accumulator": "§6Advanced Aqueous Accumulator II§r",
-	"block.tfg.ev_aqueous_accumulator": "§5Advanced Aqueous Accumulator III§r"
+	"block.tfg.ev_aqueous_accumulator": "§5Advanced Aqueous Accumulator III§r",
+	"block.tfg.electric_greenhouse": "Electric Greenhouse",
+	"block.tfg.lv_food_processor": "Basic Food Processor",
+	"block.tfg.mv_food_processor": "§bAdvanced Food Processor§r",
+	"block.tfg.hv_food_processor": "§6Advanced Food Processor II§r",
+	"block.tfg.ev_food_processor": "§5Advanced Food Processor III§r",
+	"block.tfg.lv_food_oven": "Basic Electric Oven",
+	"block.tfg.mv_food_oven": "§bAdvanced Electric Oven§r",
+	"block.tfg.hv_food_oven": "§6Advanced Electric Oven II§r",
+	"block.tfg.ev_food_oven": "§5Advanced Electric Oven III§r",
+	"block.tfg.lv_food_refrigerator": "Basic Refrigerator",
+	"block.tfg.mv_food_refrigerator": "§bAdvanced Refrigerator",
+	"block.tfg.hv_food_refrigerator": "§6Advanced Refrigerator II§r",
+	"block.tfg.ev_food_refrigerator": "§5Advanced Refrigerator III§r"
 }
