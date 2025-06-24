@@ -112,7 +112,7 @@
 
 	"quests.steam_age.steam_furnace.title": "Steam Furnace",
 	"quests.steam_age.steam_furnace.subtitle": "The Steam Furnace furnaces...",
-	"quests.steam_age.steam_furnace.desc": "Want to quickly smelt something into an ingot? The &3Steam Furnace&r does just that! It can turn many ores and dusts quickly into their ingot form, at the expense of not getting any byproducts. While it can also cook food for you, it currently has a bug where the food expiration data isn't copied over correctly, meaning some food may come out rotten. We recommend sticking to Firmalife's Oven for that instead.",
+	"quests.steam_age.steam_furnace.desc": "Want to quickly smelt something into an ingot? The &3Steam Furnace&r does just that! It can turn many ores and dusts quickly into their ingot form, at the expense of not getting any byproducts.",
 
 	"quests.steam_age.steam_oven.title": "Steam Oven",
 	"quests.steam_age.steam_oven.subtitle": "The Steam Grinder's big brother",
@@ -277,5 +277,9 @@
 	"quests.steam_age.alternator.title": "Alternators",
 	"quests.steam_age.alternator.subtitle": "Turning stress into power",
 	"quests.steam_age.alternator.desc.1": "If you've got a big steam age set up, you probably don't want to immediately scrap it all just to go back to some boilers and LV Steam Turbines. Instead, the &3Alternator&r will convert the SU from your steam engines into electricity. Each steam engine + alternator should give you 1A of LV! Unfortunately, alternators convert stress into a different electricity system than the one GregTech uses, so you'll need an Energy Converter to turn it into usable LV energy.",
-	"quests.steam_age.alternator.desc.2": "An example of a steam engine producing 8 amps of LV!\n"
+	"quests.steam_age.alternator.desc.2": "An example of a steam engine producing 8 amps of LV!\n",
+
+	"quests.steam_age.packager.title": "Create Logistics",
+	"quests.steam_age.packager.subtitle": "\"We have AE2 at home\"",
+	"quests.steam_age.packager.desc": "Is your chest monster starting to grow out of control? Now you have access to Create's Logistics system! Check out the &3Create Logistics&r chapter for how to get started."
 }
