@@ -10,6 +10,11 @@
             "info": "$(thing)Melts into$(): Zinc"
         },
         {
+            "lang": "pt_br",
+            "text": "Esfalerita",
+            "info": "$(thing)Derrete em$(): Zinco"
+        },
+        {
             "lang": "ru_ru",
             "text": "Сфалерит",
             "info": "$(thing)Плавится в$(): Цинк"

@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Caesium, Aluminium"
     },
     {
+      "lang": "pt_br",
+      "text": "Polucita",
+      "info": "$(thing)Fonte de$(): Césio, Alumínio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Поллуцит",
       "info": "$(thing)Хромит$(): Цезий, Алюминий"

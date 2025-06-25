@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Palladium"
     },
     {
+      "lang": "pt_br",
+      "text": "Paládio",
+      "info": "$(thing)Fonte de$(): Paládio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Палладий",
       "info": "$(thing)Хромит$(): Палладий"

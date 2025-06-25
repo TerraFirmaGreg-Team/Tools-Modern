@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Calcium, Phosphorus"
     },
     {
+      "lang": "pt_br",
+      "text": "Fosfato Tricálcico",
+      "info": "$(thing)Fonte de$(): Cálcio, Fósforo"
+    },
+    {
       "lang": "ru_ru",
       "text": "Трикальцийфосфат",
       "info": "$(thing)Хромит$(): Кальций, Фосфор"

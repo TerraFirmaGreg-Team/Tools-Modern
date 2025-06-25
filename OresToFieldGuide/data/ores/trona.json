@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Sodium"
     },
     {
+      "lang": "pt_br",
+      "text": "Trona",
+      "info": "$(thing)Fonte de$(): Sódio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Трона",
       "info": "$(thing)Хромит$(): Натрий"

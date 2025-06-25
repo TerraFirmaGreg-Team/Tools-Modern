@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Lithium"
     },
     {
+      "lang": "pt_br",
+      "text": "Lítio",
+      "info": "$(thing)Fonte de$(): Lítio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Литий",
       "info": "$(thing)Хромит$(): Литий"

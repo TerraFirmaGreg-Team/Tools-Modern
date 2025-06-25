@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Tungsten"
     },
     {
+      "lang": "pt_br",
+      "text": "Sheelita",
+      "info": "$(thing)Fonte de$(): Tungstênio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Шеелит",
       "info": "$(thing)Хромит$(): Вольфрам"

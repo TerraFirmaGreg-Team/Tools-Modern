@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Potassium, Chlorine"
     },
     {
+      "lang": "pt_br",
+      "text": "Sal-gema",
+      "info": "$(thing)Fonte de$(): Potássio, Cloro"
+    },
+    {
       "lang": "ru_ru",
       "text": "Каменная соль",
       "info": "$(thing)Хромит$(): Калий, Хлор"

@@ -11,6 +11,11 @@
 			"info": "$(thing)Source of$(): Magnesium, Lung cancer"
 		},
 		{
+			"lang": "pt_br",
+			"text": "Amianto",
+			"info": "$(thing)Fonte de$(): Magnésio, Câncer de pulmão"
+		},
+		{
 			"lang": "ru_ru",
 			"text": "Асбест",
 			"info": "$(thing)Хромит$(): Магний"

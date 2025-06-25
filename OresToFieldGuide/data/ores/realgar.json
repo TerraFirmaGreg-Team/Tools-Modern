@@ -11,6 +11,11 @@
 			"info": "$(thing)Source of$(): Arsenic"
 		},
 		{
+			"lang": "pt_br",
+			"text": "Realgar",
+			"info": "$(thing)Fonte de$(): Arsênico"
+		},
+		{
 			"lang": "ru_ru",
 			"text": "Реальгар",
 			"info": "$(thing)Хромит$(): Мышьяк"
