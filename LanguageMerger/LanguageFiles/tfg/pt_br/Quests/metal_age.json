@@ -71,7 +71,7 @@
   
     "quests.metal_age.kaolin_clay.title": "Argila Caolim",
     "quests.metal_age.kaolin_clay.subtitle": "Tropa Caulinita 2: O Inimigo Agora é Outro"
-    "quests.metal_age.kaolin_clay.desc": "Uma vez que você encontrar a Argila Caolim, você deveria trazer de voltar o máximo que você puder carregar! Infelizmente, só 20% de tudo o que você pegar vai ser bem sucedido na queima em Caulinita Triturada, então é recomendado queimá-las onde quer que as encontrar, com vasos em fornos de cova, pra economizar espaço de inventário.\n\nDepois de criar o Cadinho e o Alto Forno, você não vai precisar de muito mais dela, mas ainda é uma boa ideia trazer pra casa mais do que você acha que vai precisar, pra evitar repetir a viagem.\n\nP.S: Se você encontrou Lírios de Sangue mas nenhuma argila, tente cavar um pouco mais fundo! Algumas vezes ela spawna um pouco subterrânea.",
+    "quests.metal_age.kaolin_clay.desc": "Uma vez que você encontrar a Argila Caolim, você deveria trazer de voltar o máximo que você puder carregar! Infelizmente, só 20% de tudo o que você pegar vai ser bem sucedido em queimar e se tornar Caulinita Triturada, então é recomendado queimá-las onde quer que as encontrar, com vasos em fornos de cova, pra economizar espaço de inventário.\n\nDepois de criar o Cadinho e o Alto-Forno, você não vai precisar de muito mais dela, mas ainda é uma boa ideia trazer pra casa mais do que você acha que vai precisar, pra evitar repetir a viagem.\n\nP.S: Se você encontrou Lírios de Sangue mas nenhuma argila, tente cavar um pouco mais fundo! Algumas vezes ela spawna um pouco subterrânea.",
 
     "quests.metal_age.graphite.title": "Grafite",
     "quests.metal_age.graphite.subtitle": "Lápis não existem",
@@ -80,7 +80,7 @@
 
     "quests.metal_age.fire_clay.title": "Argila Refratária",
     "quests.metal_age.fire_clay.title": "Finalmente ela",
-    "quests.metal_age.fire_clay.desc": "Queime a Argila Caolim para conseguir Caulinita Triturada. Você pode usar uma forja para aqueça-las individualmente, mas queimar grandes fornadas dentro de vasos pequenos em um Forno de Cova pode ser mais rápido.\n\nQuanto ao Grafite, processe o minério como normal, e então moa o Pó de Grafite outra vez para conseguir Grafite Triturado.\n\nFinalmente, combine 4 Grafites triturados, 4 Caulinitas Trituradas e 1 Argila para criar a Argila Refratária.",
+    "quests.metal_age.fire_clay.desc": "Queime a Argila Caolim para conseguir Caulinita Triturada. Você pode usar uma forja para aquecê-las individualmente, mas queimar grandes fornadas dentro de vasos pequenos em um Forno de Cova pode ser mais rápido.\n\nQuanto ao Grafite, processe o minério normalmente, e então moa o Pó de Grafite outra vez para conseguir Grafite Triturado.\n\nFinalmente, combine 4 Grafites triturados, 4 Caulinitas Trituradas e 1 Argila para criar a Argila Refratária.",
 
     "quests.metal_age.fire_clay_products.title": "Produtos de Argila Refratária",
     "quests.metal_age.fire_clay_products.subtitle": "Argila Extremamente Termorresistente",
@@ -116,7 +116,7 @@
 
     "quests.metal_age.weak_steel.title": "Ingredientes para o Aço Fraco",
     "quests.metal_age.weak_steel.subtitle": "Espero que você goste de matemática",
-    "quests.metal_age.weak_steel.desc": "Aço Fraco é um dos metais necessários para a criação do Aço Negro. Você pode fundi-lo com 2 partes de Aço, 1 parte de Níquel e 1 parte de Bronze Negro.\n\nVocê pode checar a receita do Aço Fraco Líquido no EMI se quiser as taxas percentuais mais precisas para a fundição da liga.",
+    "quests.metal_age.weak_steel.desc": "Aço Fraco é um dos metais necessários para a criação do Aço Negro. Você pode fundi-lo com 2 partes de Aço, 1 parte de Níquel e 1 parte de Bronze Negro.\n\nVocê pode checar a receita do Aço Fraco Líquido no JEI se quiser as taxas percentuais mais precisas para a fundição da liga.",
     "quests.metal_age.weak_steel.task1": "1 Parte de Níquel",
     "quests.metal_age.weak_steel.task2": "2 Partes de Aço",
     "quests.metal_age.weak_steel.task3": "1 Parte de Bronze Negro",
