@@ -1,5 +1,6 @@
 ﻿{
 	"id": "earth",
+	"sort_order": 0,
 	"dimension_id": "minecraft:overworld",
 	"ore_index_icon": "tfc:ore/normal_native_copper",
 	"vein_index_icon": "tfc:ore/normal_native_copper/chalk",

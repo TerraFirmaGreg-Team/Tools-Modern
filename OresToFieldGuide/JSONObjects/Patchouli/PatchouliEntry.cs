@@ -37,6 +37,9 @@ namespace OresToFieldGuide
 		[JsonPropertyName("pages")]
 		public required List<PatchouliPage> Pages { get; set; }
 
+		[JsonPropertyName("sortnum")]
+		public int? SortNum { get; set; }
+
 
 		[JsonIgnore]
 		public string? FileNameWithoutExtension { get; set; }

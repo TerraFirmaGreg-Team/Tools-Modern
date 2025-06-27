@@ -7,6 +7,9 @@ namespace OresToFieldGuide
 		[JsonPropertyName("id")]
 		public required string ID { get; set; }
 
+		[JsonPropertyName("sort_order")]
+		public required int SortOrder { get; set; }
+
 		[JsonPropertyName("dimension_id")]
 		public required string DimensionID { get; set; }
 
