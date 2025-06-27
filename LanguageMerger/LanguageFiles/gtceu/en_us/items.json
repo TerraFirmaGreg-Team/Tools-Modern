@@ -50,5 +50,9 @@
 	"item.gtceu.platinum_credit": "§74,096 Credits",
 	"item.gtceu.osmium_credit": "§732,768 Credits",
 	"item.gtceu.naquadah_credit": "§7262,144 Credits",
-	"item.gtceu.neutronium_credit": "§72,097,152 Credits"
+	"item.gtceu.neutronium_credit": "§72,097,152 Credits",
+
+	"item.gtceu.treated_wood_plate": "Treated Medium Density Fiberboard",
+  	"item.gtceu.wood_plate": "Medium Density Fiberboard",
+  	"item.gtceu.treated_wood_dust": "Treated Chipboard Composite"
 }
