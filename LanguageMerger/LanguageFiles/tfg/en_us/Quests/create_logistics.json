@@ -8,7 +8,7 @@
     "quests.create_logistics.packager.title": "Packager",
     "quests.create_logistics.packager.subtitle": "Pack it up",
     "quests.create_logistics.packager.desc.1": "When provided with a &credstone signal&r, the &3Packager&r will wrap up items from the block it is attached to (you can switch the connection side with a &5wrench&r) and output a neat little cardboard package. Each cardboard package has 9 slots' worth of inventory, so it's great for moving a bunch of items around at once. To craft the Packager, you need plenty of &dWrought Iron&r and an &dElectron Tube&r, not to mention a bunch of &dCardboard&r (&dPaper&r and &dGlue&r).\n\nNote that once crafted, the packager works without any additional cardboard, so don't worry about upkeep!",
-    "quests.create_logistics.packager.desc.2": "Putting a &3Sign&r on the Packager will make it automatically label the sign's contents onto all packages as a destination address. This will be more useful once you start working with various ways to route packages around. \n\nPackagers can also unwrap any packages that get put into it, unloading their contents into the attached inventory.",
+    "quests.create_logistics.packager.desc.2": "Putting a &3Sign&r on the Packager will make it automatically label the sign's contents onto all packages as a destination address. This will be more useful once you start working with various ways to route packages around. \n\nPackagers can also unwrap any packages that get put into it, unloading their contents into the attached inventory.\n\n&c&lNote that Framed Signs do not work for this purpose&r!",
     
     "quests.create_logistics.frogport.title": "Package Frogports",
     "quests.create_logistics.frogport.subtitle": "The chain of command",
