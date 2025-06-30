@@ -10,6 +10,11 @@
             "info": "$(thing)Melts into$(): Silver"
         },
         {
+            "lang": "pt_br",
+            "text": "Prata Nativa",
+            "info": "$(thing)Derrete em$(): Prata"
+        },
+        {
             "lang": "ru_ru",
             "text": "Самородная Серебро",
             "info": "$(thing)Плавится в$(): Серебро"

@@ -10,6 +10,11 @@
       "info": "$(thing)Melts into$(): Cast Iron"
     },
     {
+      "lang": "pt_br",
+      "text": "Ferro",
+      "info": "$(thing)Derrete em$(): Ferro Fundido"
+    },
+    {
       "lang": "ru_ru",
       "text": "Железо",
       "info": "$(thing)Плавится в$(): Железо"

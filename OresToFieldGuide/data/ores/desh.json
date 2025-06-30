@@ -8,6 +8,11 @@
 			"lang": "en_us",
 			"text": "Desh",
 			"info": "$(thing)Source of$(): Iron, Titanium, Nitrogen"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Desh",
+			"info": "$(thing)Fonte de$(): Ferro, Titânio, Nitrogênio"
 		}
 	]
 }

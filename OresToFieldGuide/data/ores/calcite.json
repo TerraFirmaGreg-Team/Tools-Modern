@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Calcium"
     },
     {
+      "lang": "pt_br",
+      "text": "Calcita",
+      "info": "$(thing)Fonte de$(): Cálcio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Кальцит",
       "info": "$(thing)Хромит$(): Кальций"

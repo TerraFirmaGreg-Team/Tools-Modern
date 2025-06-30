@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Iron, Titanium"
     },
     {
+      "lang": "pt_br",
+      "text": "Ilmenita",
+      "info": "$(thing)Fonte de$(): Ferro, Titânio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Ильменит",
       "info": "$(thing)Хромит$(): Железо, Титан"

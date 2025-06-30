@@ -10,6 +10,11 @@
             "info": "$(thing)Melts into$(): Nickel"
         },
         {
+            "lang": "pt_br",
+            "text": "Garnierita",
+            "info": "$(thing)Derrete em$(): Níquel"
+        },
+        {
             "lang": "ru_ru",
             "text": "Гарниерит",
             "info": "$(thing)Плавится в$(): Никель"

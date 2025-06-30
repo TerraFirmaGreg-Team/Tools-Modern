@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Phosphorous, Rare Earth"
     },
     {
+      "lang": "pt_br",
+      "text": "Monazita",
+      "info": "$(thing)Fonte de$(): Fósforo, Terra Rara"
+    },
+    {
       "lang": "ru_ru",
       "text": "Монацит",
       "info": "$(thing)Хромит$(): Фосфор, Редкая земля"

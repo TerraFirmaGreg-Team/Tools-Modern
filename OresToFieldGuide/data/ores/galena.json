@@ -11,6 +11,11 @@
 			"info": "$(thing)Smelts into$(): Lead"
 		},
 		{
+			"lang": "pt_br",
+			"text": "Galena",
+			"info": "$(thing)Derrete em$(): Chumbo"
+		},
+		{
 			"lang": "ru_ru",
 			"text": "Галена",
 			"info": "$(thing)Плавится в$(): Свинец"

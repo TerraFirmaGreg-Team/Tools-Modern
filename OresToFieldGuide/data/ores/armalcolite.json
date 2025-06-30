@@ -8,6 +8,11 @@
 			"lang": "en_us",
 			"text": "Armalcolite",
 			"info": "$(thing)Source of$(): Magnesium, Rutile, Titanium"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Armalcolita",
+			"info": "$(thing)Fonte de$(): Magnésio, Rutilo, Titânio"
 		}
 	]
 }

@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Aluminium, Magnesium"
     },
     {
+      "lang": "pt_br",
+      "text": "Piropo",
+      "info": "$(thing)Fonte de$(): Alumínio, Magnésio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Пироп",
       "info": "$(thing)Хромит$(): Алюминий, Магний"

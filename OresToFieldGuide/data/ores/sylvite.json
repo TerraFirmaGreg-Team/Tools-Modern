@@ -9,6 +9,11 @@
             "info": "$(thing)Used for$(): Fertiliser"
         },
         {
+            "lang": "pt_br",
+            "text": "Silvita",
+            "info": "$(thing)Usado para$(): Fertilizante"
+        },
+        {
             "lang": "ru_ru",
             "text": "Сильвин",
             "info": "$(thing)Используется для$(): Удобрения"

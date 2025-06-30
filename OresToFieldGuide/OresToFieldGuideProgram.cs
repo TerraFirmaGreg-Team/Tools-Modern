@@ -17,7 +17,7 @@ namespace OresToFieldGuide
 			"en_us", // US English
 			"ru_ru", // Russian
 			"uk_ua", // Ukranian
-			//"it_it", // Italian
+			"pt_br", // Brazilian Portuguese
 		];
 
 		private readonly JsonSerializerOptions m_jsonOptions = new()
@@ -235,6 +235,7 @@ namespace OresToFieldGuide
 				Icon = dim.OreIndexIcon,
 				Name = $"{dim.Translations[locale]} {tokens["ore_index"]}",
 				ReadByDefault = true,
+				SortNum = dim.SortOrder * 2,
 				Pages = []
 			};
 
@@ -306,6 +307,7 @@ namespace OresToFieldGuide
 				Icon = dim.VeinIndexIcon,
 				Name = $"{dim.Translations[locale]} {tokens["vein_index"]}",
 				ReadByDefault = true,
+				SortNum = (dim.SortOrder * 2) + 1,
 				Pages = []
 			};
 
@@ -478,28 +480,36 @@ namespace OresToFieldGuide
 			{
 				// Clear out existing files
 				var outputDir = GetFieldGuideOutputDirectory(locale);
-				foreach (var existingPath in Directory.EnumerateFiles(outputDir))
+
+				if (Directory.Exists(outputDir))
 				{
-					if (!m_arguments.WhitelistedPatchouliEntryFilenames.Contains(Path.GetFileNameWithoutExtension(existingPath)))
+					foreach (var existingPath in Directory.EnumerateFiles(outputDir))
 					{
-						File.Delete(existingPath);
+						if (!m_arguments.WhitelistedPatchouliEntryFilenames.Contains(Path.GetFileNameWithoutExtension(existingPath)))
+						{
+							File.Delete(existingPath);
+						}
 					}
+				}
+				else
+				{
+					Directory.CreateDirectory(outputDir);
 				}
 
 				// Then write new ones
 				foreach (var dimension in m_dimensionDict.Values)
 				{
-					var veinIndex = GenerateVeinIndexForDimension(locale, dimension, m_localeToTokens[locale]);
-
-					string veinJson = JsonSerializer.Serialize(veinIndex, m_jsonOptions);
-					File.WriteAllText(Path.Combine(outputDir, veinIndex.FileNameWithoutExtension + ".json"), veinJson);
-					ConsoleLogHelper.WriteLine($"Wrote out {locale} {veinIndex.FileNameWithoutExtension}", LogLevel.Info);
-
 					var oreIndex = GenerateOreIndexForDimension(locale, dimension, m_localeToTokens[locale]);
 
 					string oreJson = JsonSerializer.Serialize(oreIndex, m_jsonOptions);
 					File.WriteAllText(Path.Combine(outputDir, oreIndex.FileNameWithoutExtension + ".json"), oreJson);
 					ConsoleLogHelper.WriteLine($"Wrote out {locale} {oreIndex.FileNameWithoutExtension}", LogLevel.Info);
+
+					var veinIndex = GenerateVeinIndexForDimension(locale, dimension, m_localeToTokens[locale]);
+
+					string veinJson = JsonSerializer.Serialize(veinIndex, m_jsonOptions);
+					File.WriteAllText(Path.Combine(outputDir, veinIndex.FileNameWithoutExtension + ".json"), veinJson);
+					ConsoleLogHelper.WriteLine($"Wrote out {locale} {veinIndex.FileNameWithoutExtension}", LogLevel.Info);
 				}
 			}
 		}

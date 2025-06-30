@@ -1,10 +1,12 @@
 {
 	"id": "moon",
+	"sort_order": 2,
 	"dimension_id": "ad_astra:moon",
 	"ore_index_icon": "ae2:certus_quartz_crystal",
 	"vein_index_icon": "gtceu:moon_stone_certus_quartz_ore",
 	"vein_tag": "tfg:moon_veins",
 	"translations": {
-		"en_us": "The Moon"
+		"en_us": "The Moon",
+		"pt_br": "A Lua"
 	}
 }

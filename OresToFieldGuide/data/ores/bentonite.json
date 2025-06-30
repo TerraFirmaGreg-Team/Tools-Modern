@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Sodium, Magnesium"
     },
     {
+      "lang": "pt_br",
+      "text": "Bentonita",
+      "info": "$(thing)Fonte de$(): Sódio, Magnésio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Бентонит",
       "info": "$(thing)Хромит$(): Натрий, Магний"

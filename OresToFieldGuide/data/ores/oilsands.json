@@ -9,6 +9,11 @@
       "info": "$(thing)Source of$(): Freedom \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
     },
     {
+      "lang": "pt_br",
+      "text": "Areias Petrolíferas",
+      "info": "$(thing)Fonte de$(): Liberdade \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
+    },
+    {
       "lang": "ru_ru",
       "text": "Нефтеносный песок",
       "info": "$(thing)Хромит$(): топливо"

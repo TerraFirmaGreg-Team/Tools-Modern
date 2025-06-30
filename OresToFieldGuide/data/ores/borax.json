@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Sodium, Boron"
     },
     {
+      "lang": "pt_br",
+      "text": "Bórax",
+      "info": "$(thing)Fonte de$(): Sódio, Boro"
+    },
+    {
       "lang": "ru_ru",
       "text": "Бура",
       "info": "$(thing)Хромит$(): Натрий, Бор"

@@ -1,0 +1,30 @@
+{
+	"rarity": "Raridade",
+	"density": "Densidade",
+	"type": "Tipo",
+	"y": "Y",
+	"size": "Tamanho",
+	"height": "Altura",
+	"radius": "Raio",
+	"stone_types": "Tipos de Pedra",
+	"indicator_depth": "Profundidade Máxima do Indicador",
+	"percentage": "Porcentagem",
+	"formula": "Fórmula",
+
+	"hazard": "Perigo",
+	"arsenicosis": "$(t:Requer Máscara Facial)Arsenicose (Inalação)$(/t)",
+	"asbestosis": "$(t:Requer Máscara Facial)Asbestose (Inalação)$(/t)",
+	"berylliosis": "$(t:Requer Luvas de Borracha)Beriliose (Contato com a Pele)$(/t)",
+	"carcinogenic": "$(t:Requer Proteção Completa)Carcinogênico (Qualquer Contato)$(/t)",
+	"weak_poison": "$(t:Requer Máscara Facial)Pouco Venenoso (Inalação)$(/t)",
+	"irritant": "$(t:Requer Luvas de Borracha)Irritante (Contato com a Pele)$(/t)",
+
+	"tfc:cluster_vein": "Veio Aglomerado",
+	"tfc:pipe_vein": "Veio Tubular",
+	"tfc:disc_vein": "Veio em Disco",
+
+	"vein_index": "Índice de Veios",
+	"ore_index": "Índice de Minérios",
+	"ore_index_format": "Este é o $(thing)Índice de Minérios$() para $(thing){0}$(). Todos os minérios estão ordenados alfabeticamente e do veio mais rico para o mais pobre. Você pode clicar neles para saber mais sobre cada veio.",
+	"vein_index_format": "Este é o $(thing)Índice de Veios$() para $(item){0}$(). Cada veio contém detalhes sobre sua raridade, densidade, tipo de veio, altura onde é encontrado, tamanhos, tipos de rocha em que aparece e mais."
+}

@@ -11,6 +11,11 @@
             "info": "$(thing)Source of$(): Uranium, Thorium, Lead"
         },
         {
+            "lang": "pt_br",
+            "text": "Pechblenda",
+            "info": "$(thing)Fonte de$(): Urânio, Tório, Chumbo"
+        },
+        {
             "lang": "ru_ru",
             "text": "Уранит",
             "info": "$(thing)Хромит$(): Уран, Торий, Свинец"
