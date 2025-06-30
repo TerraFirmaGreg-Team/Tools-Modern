@@ -1,7 +1,7 @@
 {
   "id": "certus_quartz",
   "formula": "SiO₂",
-  "ore_block": "ae2:quartz_block",
+  "ore_block": "gtceu:raw_certus_quartz_block",
   "indicator": "gtceu:certus_quartz_bud_indicator",
   "translations": [
     {
