@@ -43,5 +43,8 @@
 	"item.gtceu.platinum_credit": "§74,096 Кредитів",
 	"item.gtceu.osmium_credit": "§732,768 Кредитів",
 	"item.gtceu.naquadah_credit": "§7262,144 Кредитів",
-	"item.gtceu.neutronium_credit": "§72,097,152 Кредити"
+	"item.gtceu.neutronium_credit": "§72,097,152 Кредити",
+	"item.gtceu.treated_wood_plate": "Оброблена ДВП середньої щільності",
+	"item.gtceu.wood_plate": "ДВП середньої щільності",
+	"item.gtceu.treated_wood_dust": "Оброблений композит на основі ДСП"
 }
