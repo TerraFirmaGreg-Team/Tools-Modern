@@ -5,8 +5,16 @@
 	"ore_index_icon": "ae2:certus_quartz_crystal",
 	"vein_index_icon": "gtceu:moon_stone_certus_quartz_ore",
 	"vein_tag": "tfg:moon_veins",
-	"translations": {
+	"name_translations": {
 		"en_us": "The Moon",
 		"pt_br": "A Lua"
+	},
+	"ore_index_translations": {
+		"en_us": "Moon Ore Index",
+		"pt_br": "Índice de Minérios da Lua"
+	},
+	"vein_index_translations": {
+		"en_us": "Moon Vein Index",
+		"pt_br": "Índice de Veios da Lua"
 	}
 }

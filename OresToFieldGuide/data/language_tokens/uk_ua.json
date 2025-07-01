@@ -23,8 +23,6 @@
 	"tfc:pipe_vein": "Трубна вена",
 	"tfc:disc_vein": "Дискова вена",
 
-	"vein_index": "Vein Index",
-	"ore_index": "Ore Index",
 	"ore_index_format": "This is the $(thing)Ore Index$() for $(thing){0}$(). All ores are sorted alphabetically and then by richest to poorest vein type. You can click on them to learn more information about each vein.",
 	"vein_index_format": "This is the $(thing)Vein Index$() for $(thing){0}$(). Each Vein has details regarding its rarity, density, vein type, height found, sizes, what stones it spawns on, and more."
 }

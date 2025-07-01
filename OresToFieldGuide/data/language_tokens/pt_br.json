@@ -23,8 +23,6 @@
 	"tfc:pipe_vein": "Veio Tubular",
 	"tfc:disc_vein": "Veio em Disco",
 
-	"vein_index": "Índice de Veios",
-	"ore_index": "Índice de Minérios",
 	"ore_index_format": "Este é o $(thing)Índice de Minérios$() para $(thing){0}$(). Todos os minérios estão ordenados alfabeticamente e do veio mais rico para o mais pobre. Você pode clicar neles para saber mais sobre cada veio.",
 	"vein_index_format": "Este é o $(thing)Índice de Veios$() para $(item){0}$(). Cada veio contém detalhes sobre sua raridade, densidade, tipo de veio, altura onde é encontrado, tamanhos, tipos de rocha em que aparece e mais."
 }

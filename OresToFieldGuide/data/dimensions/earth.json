@@ -5,9 +5,17 @@
 	"ore_index_icon": "tfc:ore/normal_native_copper",
 	"vein_index_icon": "tfc:ore/normal_native_copper/chalk",
 	"vein_tag": "tfc:in_biome/veins",
-	"translations": {
+	"name_translations": {
 		"en_us": "Earth",
 		"pt_br": "Terra",
 		"uk_ua": "земля"
+	},
+	"ore_index_translations": {
+		"en_us": "Earth Ore Index",
+		"pt_br": "Índice de Minérios da Terra"
+	},
+	"vein_index_translations": {
+		"en_us": "Earth Vein Index",
+		"pt_br": "Índice de Veios da Terra"
 	}
 }
