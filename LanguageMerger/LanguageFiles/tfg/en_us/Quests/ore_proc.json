@@ -66,9 +66,8 @@
     "quests.ore_proc.refined_ore.title": "Refined Ore",
     "quests.ore_proc.refined_ore.desc": "The only thing you can really do with refined ore is crush it.",
 
-    // TODO: is this the name for it?
-    "quests.ore_proc.dirty_dust.title": "Dirty Dust",
-    "quests.ore_proc.dirty_dust.desc": "",
+    "quests.ore_proc.impure_dust.title": "Impure Dust",
+    "quests.ore_proc.impure_dust.desc": "Wash that dirty dust!",
 
     "quests.ore_proc.purified_dust.title": "Purified Dust",
     "quests.ore_proc.purified_dust.desc": "This column shows what you can do with your purified dust.",
