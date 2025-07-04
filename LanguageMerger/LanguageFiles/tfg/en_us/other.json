@@ -1,8 +1,19 @@
 {
+    "tfg.creative_tab.tfg": "TerraFirmaGreg",
     "tfg.disabled_portal": "Portal magic seems to be blocked by an unknown force, try reaching another dimension by going down or up",
     "tfg.tooltip.food_trait.refrigerating": "§bRefrigerating",
     "tfg.tooltip.foodtrait.freeze_dried": "Cryodesiccated",
     "tfg.tooltip.extraterrestrial_farming": "§4Temperature:§r An oxygenated environment provides 15°C",
+
+    "entity.tfg.moon_rabbit.male": "Moon Rabbit",
+    "entity.tfg.moon_rabbit.female": "Moon Rabbit",
+    "tfg.tooltip.moon_rabbit_variant.pink": "Pink Fur",
+    "tfg.tooltip.moon_rabbit_variant.white": "White Fur",
+    "tfg.tooltip.moon_rabbit_variant.grey": "Stony Fur",
+    "tfg.tooltip.moon_rabbit_variant.cyan": "Seafoam Fur",
+    "tfg.tooltip.moon_rabbit_variant.purple": "Lavender Fur",
+    "tfg.tooltip.moon_rabbit_variant.sofu": "Sundae Fur",
+
 
     "item.treetap.tap": "Deprecated Item, Craft to Upgrade",
 
