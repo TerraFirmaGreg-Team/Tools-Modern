@@ -1,5 +1,6 @@
 {
 	"entity.ad_astra.corrupted_lunarian": "Lunar Zombie",
 
-	"entity.ad_astra.tier_1_rocket": "R-Aluminosteel Rocket"
+	"entity.ad_astra.tier_1_rocket": "R-Aluminosteel Rocket",
+	"entity.ad_astra.tier_1_rover": "Rover"
 }
