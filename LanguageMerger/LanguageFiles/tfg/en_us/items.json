@@ -141,5 +141,26 @@
     "item.tfg.food.freeze_dried.fig": "Freeze Dried Fig",
     "item.tfg.food.freeze_dried.pineapple": "Freeze Dried Pineapple",
     "item.tfg.food.calorie_paste": "Calorie Paste",
-    "item.tfg.food.meal_bag": "Meal Bag"
+    "item.tfg.food.meal_bag": "Meal Bag",
+
+    "item.tfg.roasted_sunflower_seeds": "Roasted Sunflower Seeds",
+    "item.tfg.sunflower_seeds": "Growable Sunflower Seeds",
+    "item.tfg.sunflower_product": "Sunflower Seeds",
+    "item.tfg.rapeseed_seeds": "Growable Rapeseed Seeds",
+    "item.tfg.rapeseed_product": "Rapeseed Seeds",
+
+    "item.tfg.interplanetary_link": "Interplanetary Link",
+
+    "item.tfg.sulfur_fumes_bucket": "Sulfur Fumes Bucket",
+    "item.tfg.super_heated_slurry_bucket": "Super Heated Slurry Bucket",
+    "item.tfg.cryogenized_fluix_bucket": "Cryogenized Fluix Bucket",
+    "item.tfg.fluix_bucket": "Liquid Fluix Bucket",
+    "item.tfg.latex_bucket": "Latex Bucket",
+    "item.tfg.vulcanized_latex_bucket": "Vulcanized Latex Bucket",
+    "item.tfg.conifer_pitch_bucket": "Conifer Pitch Bucket",
+    "item.tfg.compressed_nitrox_bucket": "Nitrox Bucket",
+    "item.tfg.compressed_heliox_bucket": "Heliox Bucket",
+    "item.tfg.compressed_heliox_3_bucket": "Heliox-3 Bucket",
+    "item.tfg.compressed_trimix_bucket": "50/30/20 Trimix Bucket",
+    "item.tfg.compressed_trimix_3_bucket": "50/30/20 Trimix-3 Bucket"
 }
