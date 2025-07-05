@@ -100,7 +100,7 @@
 
     "quests.ore_proc.mercury.title": "Mercury bathing examples",
     "quests.ore_proc.mercury.subtitle": "Liquid metal bath time",
-    "quests.ore_proc.mercury.desc": "Here's some recommendations for Mercury bathing:\n\n- &6Crushed Platinium&r: &dPalladium&r\n\n- &6Crushed Cooperite&r: &dPalladium&r\n\n- &6Crushed Nickel&r: &dPlatinum&r\n\n- &6Crushed Gold&r: &dSilver&r",
+    "quests.ore_proc.mercury.desc": "Here's some recommendations for Mercury bathing:\n\n- &6Crushed Platinum&r: &dPalladium&r\n\n- &6Crushed Cooperite&r: &dPalladium&r\n\n- &6Crushed Nickel&r: &dPlatinum&r\n\n- &6Crushed Gold&r: &dSilver&r",
 
     "quests.ore_proc.indium.title": "The Indium Line",
     "quests.ore_proc.indium.subtitle": "We say line, but really it's just a two step process",
@@ -108,7 +108,7 @@
 
     "quests.ore_proc.platline.title": "The Infamous Platline",
     "quests.ore_proc.platline.subtitle": "GregTech players vs Mekanism players when they need Osmium:",
-    "quests.ore_proc.platline.desc": "The &6Platinium Line&r will be your first real challenge to process, providing you with essential platinum-group metals: &bPlatinium&r, &bPalladium&r, &bRuthenium&r, &bRhodium&r, &bIridium&r, and &bOsmium&r.\n\nWhile there's easier ways to obtain &bPlatinium&r and &bPalladium&r, this line will be &amandatory&r for accessing the others.\n\nThe Platline can be started at &6HV&r, but you won’t be able to complete it fully until you reach &dIV&r.",
+    "quests.ore_proc.platline.desc": "The &6Platinum Line&r will be your first real challenge to process, providing you with essential platinum-group metals: &bPlatinum&r, &bPalladium&r, &bRuthenium&r, &bRhodium&r, &bIridium&r, and &bOsmium&r.\n\nWhile there's easier ways to obtain &bPlatinum&r and &bPalladium&r, this line will be &amandatory&r for accessing the others.\n\nThe Platline can be started at &6HV&r, but you won’t be able to complete it fully until you reach &dIV&r.",
 
     "quests.ore_proc.electro_separator.title": "Electromagnetic Separator",
     "quests.ore_proc.electro_separator.subtitle": "Probably the least useful GregTech machine",
