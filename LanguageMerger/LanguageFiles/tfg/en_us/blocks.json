@@ -178,8 +178,10 @@
 	"block.tfg.interplanetary_item_reciever": "Interplanetary Receiver",
 	"block.tfg.railgun_item_loader_out": "Interplanetary Receiver Output Bus",
 
-	"block.tfg.wild_sunflower": "Wild Sunflower",
-	"block.tfg.wild_rapeseed": "Wild Rapeseed",
+	"block.tfg.sunflower_wild": "Wild Sunflower",
+	"block.tfg.sunflower_dead": "Dead Sunflower",
+	"block.tfg.rapeseed_wild": "Wild Rapeseed",
+	"block.tfg.rapeseed_dead": "Dead Rapeseed",
 
 	// TODO
 	//"block.tfg.corallium_arenicolus_0": "Corallium Arenicolus",
