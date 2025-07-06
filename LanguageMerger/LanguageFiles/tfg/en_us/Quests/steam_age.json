@@ -99,7 +99,6 @@
 	"quests.steam_age.fluid_drums.desc.1": "&6TFG&r can quickly get &4overwhelming&r with the plethora of fluids it introduces, so you may be looking for a way to store them.\n\nIntroducing... &aDrums&r! They have large internal buffers, and any &aDrum&r can be broken and picked up and will &dkeep the fluid&r inside. A right-click with a Screwdriver allows a Drum to drain its content into another container placed below it.",
 	"quests.steam_age.fluid_drums.desc.2": "&l&3Lore:&r&o These drums are actually ported from GregTech 6.",
 
-
 	"quests.steam_age.boilers.title": "Steam Boilers",
 	"quests.steam_age.boilers.subtitle": "Portable Steamroom",
 	"quests.steam_age.boilers.desc.1": "Steam machines need to be powered! You have three options to generate steam: the &3Solid&r boiler accepts solid fuels like coal and charcoal, the &3Liquid&r boiler accepts liquids like creosote and lava, and the &3Solar&r boiler requires no fuel but only works during the day. The choice is yours, but we recommend the liquid one if you're unsure.\n\nSteam machines all have a vent which needs to stay unblocked in order for them to work properly.",
@@ -186,6 +185,14 @@
 	"quests.steam_age.steam_engine.title": "Steam Engine",
 	"quests.steam_age.steam_engine.subtitle": "Time for some real steam power",
 	"quests.steam_age.steam_engine.desc": "Water wheels and windmills not cutting it any more? It wouldn't be a steam age without a proper steam engine! Each steam engine can output a whole 256 SU, giving you much more power to play with.\n\nBlaze Burners can be crafted without leaving your house, and you can use a Mechanical Arm to automatically feed them solid fuel, or liquid fuel in a bucket (such as creosote). Coal Gems, Anthracite, and Coke can also be used to superheat them.",
+
+	"quests.steam_age.fuel_sources.title": "More Fuel Sources",
+	"quests.steam_age.fuel_sources.subtitle": "Putting the power in steam power",
+	"quests.steam_age.fuel_sources.desc": "The steam engine can accept more liquid fuels than the High Pressure Liquid Boiler. While Creosote or Lava are the easiest to set up at this point, you might also be interested in various plant-based oils like &eSeed Oil&r from Sunflowers or Rapeseed. Creosote and Lava also don't scale very well once you get into further tiers, while Biofuel can be upgraded into Diesel and then Cetane-Boosted Diesel, so start setting up a big field for plant oils now if that sounds appealing to you!",
+
+	"quests.steam_age.straw.title": "Automatic Liquid Fuelling",
+	"quests.steam_age.straw.subtitle": "Combustible sippy cups",
+	"quests.steam_age.straw.desc": "If you right-click a Blaze Burner with a &aStraw&r, you can easily pump your fuel directly into it with any pipe! Hook it up to your Coke Oven's creosote output to keep your Steam Engines going.\n\nYou can check JEI for a full list of what fuels you can use and their efficiency.",
 
 	"quests.steam_age.deployers.title": "Deployers",
 	"quests.steam_age.deployers.subtitle": "Primitive Assembly Line",

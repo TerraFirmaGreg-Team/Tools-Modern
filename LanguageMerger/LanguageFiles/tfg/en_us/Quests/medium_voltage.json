@@ -50,8 +50,8 @@
 
     "quests.medium_voltage.mv_battery.title": "MV Battery Buffer",
     "quests.medium_voltage.mv_battery.subtitle": "Energy management",
-    "quests.medium_voltage.mv_battery.desc": "As always we highly encourage you to use &bBattery Buffer&r so even if you use more &6energy&r than what you produce, you won't run of it right away and you will be able to get the energy back while your machines aren't running.",
-    "quests.medium_voltage.mv_battery.task": "",
+    "quests.medium_voltage.mv_battery.desc": "As always, we highly encourage you to use a &bBattery Buffer&r, so even if you use more &6energy&r than you produce, you won't run out of it right away, and you will be able to get the energy back while your machines aren't running.",
+    "quests.medium_voltage.mv_battery.task": "Any MV Battery Buffer",
 
     "quests.medium_voltage.mv_batteries.title": "Better Batteries",
     "quests.medium_voltage.mv_batteries.subtitle": "Baby Got Battery",
@@ -88,7 +88,7 @@
     
     "quests.medium_voltage.mv_brewery.title": "Local Brewery selling Booze",
     "quests.medium_voltage.mv_brewery.subtitle": "*hic*... *hic*",
-    "quests.medium_voltage.mv_brewery.desc.1": "The Brewery can be used to make &aLubricant&r from &aRedstone&r and &aCreosote&r/&aOil&r. Lubricant has some niche uses, namely being used in the &3Cutter&r to significantly reduce the duration of its recipes.\n\nThe Brewery is a very, very slow machine, but it requires almost no power to run its recipes. Building &2many Breweries&r will help you obtain enough Biomass on your quest for plastic. Oh, and you can use it to brew &dPotions&r too!\n\n&9Note:&r The Brewery unlocks the Biomass path towards &9Ethylene&r. The same can be done in the &3Pyrolyse Oven&r. The other path involves Oil.&r",
+    "quests.medium_voltage.mv_brewery.desc.1": "The Brewery can be used to make &aLubricant&r from &aRedstone&r and &aCreosote&r/&aOil&r. Lubricant has some niche uses, namely being used in the &3Cutter&r to significantly reduce the duration of its recipes.\n\nThe Brewery is a very, very slow machine, but it requires almost no power to run its recipes. Building &2many Breweries&r will help you obtain enough Biomass on your quest for plastic.\n\n&9Note:&r The Brewery unlocks the Biomass path towards &9Ethylene&r. The same can be done in the &3Pyrolyse Oven&r. The other path involves Oil.&r",
     "quests.medium_voltage.mv_brewery.desc.2": "&l&3Lore:&r&o You could make your own Brewery if you want to build up a company and start selling Booze... in GregTech 6.&r",
 
     "quests.medium_voltage.mv_biomass.title": "Biomass",
@@ -126,6 +126,10 @@
     "quests.medium_voltage.mv_ethanol.title": "Ethanol",
     "quests.medium_voltage.mv_ethanol.subtitle": "Yo, wait - that's alcohol!",
     "quests.medium_voltage.mv_ethanol.desc": "Put your previously made &aBiomass&r into a &3MV Distillery&r to make &aEthanol&r.\n\nYou will need this for &dEthylene&r by reacting it with &aSulfuric Acid&r in a &3MV Chemical Reactor&r... unless you chose to go down the Oil path.\n\nOnce you have a hefty starting stock of Ethanol, consider making and distilling &9Fermented Biomass&r in a &3Distillation Tower&r (when you get there!) for extra chemicals.\n\n&cDo not try&r to use Ethanol as a Power source... it's quite possibly its worst use. If it's organic &9Power&r that you want, we suggest taking a look at &dBenzene&r instead!",
+
+    "quests.medium_voltage.mv_bio_diesel.title": "The Church of Bio Diesel",
+    "quests.medium_voltage.mv_bio_diesel.subtitle": "Flower Power",
+    "quests.medium_voltage.mv_bio_diesel.desc": "Want to try something plant-based but without a tree farm? Give &3Bio Diesel&r a shot! The best route for it is through &dSeed Oil&r from either Sunflowers or Rapeseed. Just mix it with a little Ethanol and Sodium Hydroxide (from Sea Water!) in a Chemical Reactor and you're done! As a bonus, this route also outputs Glycerol which you can turn into &dEthlene&r!",
 
     "quests.medium_voltage.mv_mutli_channel.title": "Multiple Channel Pipes",
     "quests.medium_voltage.mv_mutli_channel.subtitle": "Is it already AE2?",
@@ -168,9 +172,9 @@
     "quests.medium_voltage.mv_chlorine.subtitle": "Salty Gas",
     "quests.medium_voltage.mv_chlorine.desc": "&dChlorine&r is a core component of your chemical toolkit. You’ll need &da lot of it&r for various reactions and crafting steps—the first one being &dHydrochloric Acid&r.\n\nThere are many ways to obtain &dChlorine&r, but the main source is &dsalt&r. It’s basically everywhere, so you won’t struggle to find it.\n\nWe recommend &aelectrolyzing seawater&r as an early method, but keep in mind—it’s &eslow&r.",
 
-    "quests.medium_voltage.mv_seawater.title": "Ocean Water",
-    "quests.medium_voltage.mv_seawater.subtitle": "You can have a lot of it",
-    "quests.medium_voltage.mv_seawater.desc": "This quest is here to emphasize the presence of &9Sea Water&r in &aTerrafirmaCraft&r.\n\nThe great thing about it is that, when used with a &aHose Pulley&r, it becomes an &ainfinite water source&r right away. From there, you can &aelectrolyze it&r to get both &dChlorine&r and &dHydrogen&r.\n\nYou’ll just need a passive way to transport it to your base—and we offer you &atwo options&r:\n\n&8- &eCreate Trains&r: Requires both stations to be chunkloaded. The good news? Trains are &aalready available&r to you at this stage.\n\n&8- &eLong-Distance Pipeline&r: This one needs &dStainless Steel&r, which you'll be able to produce &aby the end of this chapter&r.\n\n-&8- &eMake a source at home&r: This one is so lame we won't speak about it.",
+    "quests.medium_voltage.mv_seawater.title": "Sea Water",
+    "quests.medium_voltage.mv_seawater.subtitle": "As wide as an ocean...",
+    "quests.medium_voltage.mv_seawater.desc": "This quest is here to emphasize the presence of &9Sea Water&r in &aTerrafirmaCraft&r.\n\nYou can easily get an &ainfinite source&r with just two source blocks and either a Mechanical Pump or an Aqueous Accumulator. From there, you can &aelectrolyze it&r to get both &dChlorine&r and &dHydrogen&r.",
 
     "quests.medium_voltage.mv_long_pipe.title": "Long-Distance Pipeline",
     "quests.medium_voltage.mv_long_pipe.subtitle": "Wondering how to move these liquids around?",
