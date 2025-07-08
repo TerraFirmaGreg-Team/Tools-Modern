@@ -507,7 +507,11 @@
 
     "quests.tfg_tips.scarlet_biplane.title": "Scarlet Biplane",
     "quests.tfg_tips.scarlet_biplane.subtitle": "What a sight to behold",
-    "quests.tfg_tips.scarlet_biplane.desc": "The &3Scarlet Biplane&r is the final upgrade for &bPlanes&r, requiring &6HV&r components.\n\nIt contains &b27 Inventory Slots&r, &a4 Upgrade Slots&r, &c2 Weapon Slots&r, and also a &4Booster Slot&r, just like the regular biplane.\n\nWhile expensive, the &3Scarlet Biplane&r makes up for it with increased durability, increased max speed, and overall swag.",
+    "quests.tfg_tips.scarlet_biplane.desc": "The &3Scarlet Biplane&r is one of the two final upgrades for &bPlanes&r, requiring &6HV&r components.\n\nIt contains &b27 Inventory Slots&r, &a4 Upgrade Slots&r, &c2 Weapon Slots&r, and also a &4Booster Slot&r, just like the regular biplane.\n\nWhile expensive, the &3Scarlet Biplane&r makes up for it with increased durability, increased max speed, and overall swag.",
+
+    "quests.tfg_tips.aluminium_hopper.title": "Aluminium Hopper",
+    "quests.tfg_tips.aluminium_hopper.subtitle": "So light it floats on water!",
+    "quests.tfg_tips.aluminium_hopper.desc": "The &3Aluminium Hopper&r is one of the two final upgrades for &bPlanes&r, requiring &6HV&r components.\n\nIt contains &b16 Inventory Slots&r, &a4 Upgrade Slots&r, &c2 Weapon Slots&r, 3 Seats, and also a &4Booster Slot&r, just like the regular biplane.\n\nWhile expensive, the &3Aluminium Hopper&r makes up for it with 3 total seats, and the ability to land on Water.",
 
     "quests.tfg_tips.firmaciv.title": "Firma: Civilization",
     "quests.tfg_tips.firmaciv.subtitle": "Sail across the seas, with style.",
