@@ -8,5 +8,8 @@
 	"gtceu.jei.bedrock_ore.moon_tin": "Місячне Олово",
 	"gtceu.jei.bedrock_ore.moon_certus": "Місячний Істинний Кварц",
 	"gtceu.jei.bedrock_ore.moon_magnetite": "Місячний Магнетит",
-	"gtceu.jei.bedrock_ore.moon_copper": "Місячний Халькопірит"
+	"gtceu.jei.bedrock_ore.moon_copper": "Місячний Халькопірит",
+	"gtceu.jei.bedrock_fluid.moon_helium": "Місячний Гелій",
+	"gtceu.jei.bedrock_fluid.moon_helium_3": "Місячний Гелій-3",
+	"gtceu.jei.bedrock_fluid.moon_argon": "Місячний Аргон"
 }
