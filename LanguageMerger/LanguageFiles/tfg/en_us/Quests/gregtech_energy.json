@@ -120,7 +120,7 @@
     "quests.gregtech_energy.large_solar.desc.2": "There are 3 tiers of power generation:\n\n- The first one is fully passive.\n\n- The second one requires a coolant, which can be perfectly looped with only the addition of Helium-3.\n\n- The third and most powerful tier will need a small amount of &dCryogenized Fluix&r to operate.",
     
     "quests.gregtech_energy.solar_panel.subtitle": "Light in the Dark",
-    "quests.gregtech_energy.solar_panel.desc": "The Solar Panel will be your first source of power on the Moon.\n\nThey produce 128 EU/t during daytime, but keep in mind they actually generate RF, so you’ll need a Converter to transform it into EU.\n\nYou can use one &bMV Converter&r for up to 2 Solar Panels or a &6HV Converter&r for up to 4 Solar Panels.",
+    "quests.gregtech_energy.solar_panel.desc": "The Solar Panel will be your first source of power on the Moon.\n\nThey produce 64 EU/t during daytime, but keep in mind they actually generate RF, so you’ll need a Converter to transform it into EU.\n\nYou can use one &bMV Converter&r for up to 2 Solar Panels or a &6HV Converter&r for up to 4 Solar Panels.",
 
     // Stocking Energy
 
