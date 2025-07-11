@@ -2,7 +2,170 @@
     // Welcome to MV
 
     "quests.high_voltage": "&6HV&r - High Voltage",
-    "quests.high_voltage.subtitle": "Upgrade your power, learn about Cleanroom, make more chemicals and get ready for Space",
+    "quests.high_voltage.subtitle": "Upgrade your power, learn about the Cleanroom, make more chemicals, and get ready for Space",
+
+    "quests.high_voltage.energium_crystals.title": "Super Batteries",
+    "quests.high_voltage.energium_crystals.subtitle": "Science-fiction batteries!",
+    "quests.high_voltage.energium_crystals.desc": "&aEnergium Crystals&r store a significant amount of &9EU&r. They're also arguably cheaper.",
+
+    "quests.high_voltage.autoclave.title": "HV Autoclave",
+    "quests.high_voltage.autoclave.subtitle": "Never underestimate this one",
+    "quests.high_voltage.autoclave.desc": "The &3HV Autoclave&r - despite being optional - is a machine you'll definitively want to grab.\n\nThis unlocks unique Batteries that are &6far superior&r to their standard counterparts.",
+
+    "quests.high_voltage.chem_bath.title": "High Voltage Bathing",
+    "quests.high_voltage.chem_bath.subtitle": "Please don't bathe with electronics...",
+    "quests.high_voltage.chem_bath.desc": "The &3HV Chemical Bath&r is used to &ddye Lenses&r using &aChemical Dye&r. This will let you engrave more types of Wafers, and cool other kinds of Hot Ingots.",
+
+    "quests.high_voltage.maintenance_hatches.title": "Advanced Maintenance",
+    "quests.high_voltage.maintenance_hatches.subtitle": "I have become maintenance, eater of tape",
+    "quests.high_voltage.maintenance_hatches.desc.1": "You now have access to two &3new Maintenance Hatches&r. Both hatches &6do not require Maintenance&r when first placed in a Multiblock.\n\nThe &3Automatic Maintenance Hatch&r is pretty simple - it eliminates the need for Maintenance, &6forever&r.\n\nThe &3Configurable Maintenance Hatch&r is more interesting. You can configure it to cut off &a10% duration&r on recipes, at the cost of making Maintenance happen three times as fast. That is &d16 real hours&r of activity.\n\n&9Reminder:&r You can put Tape in the maintenance Hatch to automatically fix problems.",
+    "{@pagebreak}" "",
+    "quests.high_voltage.maintenance_hatches.desc.2": "&l&3Lore:&r&o The Automatic Maintenance Hatch texture and mechanic comes from TecTech, an addon mod originally made for GregTech: New Horizons.\n\n&oYou'll see more from TecTech if you stick with us with the late game.",
+
+    "quests.high_voltage.hv_components.title": "High Voltage Components",
+    "quests.high_voltage.hv_components.subtitle": "We call this \"fun\"",
+    "quests.high_voltage.hv_components.desc.1": "Just like &bMV&r, you'll need to make higher-tier components.\n\nThe painful &dFlawless Gems&r have been replaced with slightly-more-painful &dVitrified Ender Pearls&r. Also notice that the &aMotors&r require &d2x Silver Cables&r.\n&aHulls&r and &aMachines&r use &dGold Cables&r.\n\nNow you can finally start using up that stockpile of Gold!",
+    "quests.high_voltage.hv_components.desc.2": "&9&lTips to make life less painful:&r\n\n- Consider using &dElectrotine decomposition&r and &dOre Processing&r for &eElectrum&r.\n- Consider using the &3Chemical Bath&r with &dMercury&r for &eGold&r and &eSilver&r from a wide variety of ores.",
+
+    "quests.high_voltage.assembler.title": "HV Assembling Machine",
+    "quests.high_voltage.assembler.desc": "The &3HV Assembler&r is the next step in progression, but also unlocks a handful of useful utilities - check around this quest for more.\\n\\nYou will need this &6HV Assembler&r to make your &dRocket&r.",
+
+    "quests.high_voltage.lenses.title": "I see the world in colour",
+    "quests.high_voltage.lenses.desc": "The &aSimple System on Chip&r will be used for the best &dULV Circuit&r recipe.\n\nWe'd also recommend going out of your way to make all the other useful colored Lenses ahead of time. They are listed here in an &eoptional&r task.",
+
+    "quests.high_voltage.ulv_circuits.title": "Best ULV circuits!",
+    "quests.high_voltage.ulv_circuits.desc": "&8ULV&r Circuits are used in some &9AE2&r recipes and &aCreate&r recipes.",
+
+    "quests.high_voltage.hv_energy_hatch.title": "Upgrade your EBF II",
+    "quests.high_voltage.hv_energy_hatch.subtitle": "Noticing a pattern here?",
+    "quests.high_voltage.hv_energy_hatch.desc": "The &aLow Power Integrated Circuit&r requires an &3HV Cutting Machine&r inside your &3Cleanroom&r.\n\n&3HV Energy Hatches&r will be nice additions so you can run your Multiblocks (mainly your Electric Blast Furnace and Large Chemical Reactor) directly off a &6HV&r line.",
+
+    "quests.high_voltage.chem_reactor.title": "High Voltage Chemistry",
+    "quests.high_voltage.chem_reactor.desc": "The &3HV Chemical Reactor&r unlocks a ton of new recipes. Ah, who doesn't love the ever-growing demand on more advanced Chemistry?\n\n&9Note:&r We've actually unlocked a ton of new content by reaching &6HV&r. However, not every processing line or item is crucial right now. It'd make the &6HV&r chapter far too dense if we included everything!\n\nYou could still check out the &5EV&r Chapter if you want to push yourself.",
+
+    "quests.high_voltage.rutile_loop.title": "Almost Titanium",
+    "quests.high_voltage.rutile_loop.subtitle": "...means it WASN'T Titanium!",
+    "quests.high_voltage.rutile_loop.desc.1": "Titanium requires a slightly more &binvolved&r process than the previous materials to process. To get started, you'll need &aRutile&r, which can be obtained by processing &aBauxite&r, &aIlmenite&r and &aAluminium&r.\n\nOnce you've gotten enough &5Rutile&r, your journey to &6Titanium&r continues in the next quest. There's no need to rush things.",
+    "quests.high_voltage.rutile_loop.desc.2": "You may have already noticed that Bauxite is also an &6excellent source of Aluminium&r.\n\nVisiting &dThe Moon&r allows you to access a richer Bauxite vein, as well as &dArmalcolite&r - an even better source of Rutile.\n\n&9Tip:&r Ore processing for &aBauxite&r is ridiculously good! Including the &3Thermal Centrifuge&r step easily &6triples&r your &aRutile&r yield.",
+
+    "quests.high_voltage.rutile_loop_2.title": "Almost Titanium²",
+    "quests.high_voltage.rutile_loop_2.subtitle": "Is it titanium yet?",
+    "quests.high_voltage.rutile_loop_2.desc.1": "To get your grubby hands on some Titanium, &aRutile&r must first be reduced to &aTitanium Tetrachloride&r in an &3HV Chemical Reactor&r, then reduced again in an &3EBF&r with &dMagnesium&r to finally arrive at Titanium.\n\nThe &dCarbon&r, &dChlorine&r, &dOxygen&r, and &dMagnesium&r used in the process can be &6perfectly recovered&r from the byproduct &dCarbon Monoxide&r and &dMagnesium Chloride&r with no loss. If you set up a system to recover them, &athe only material&r that you'll need to provide for Titanium is &dRutile&r!",
+    "quests.high_voltage.rutile_loop_2.desc.2": "&aTitanium Tetrachloride&r also acts as a catalyst in the production of plastics. A touch of &aTiCl₄&r in the polymerisation process can increase the polymer yield to &6133%&r&r. Naturally, this is completely optional.",
+
+    "quests.high_voltage.superconductors.title": "HV Superconductors",
+    "quests.high_voltage.superconductors.desc": "By this point, normal Cables have such insignificant loss that superconductors aren't a requirement. That being said, they're still useful for being able to split and combine cables on the fly, and these ones are half oxygen so they're cheap too!\n\nSuperconductors are still required to craft &aField Generators&r.",
+
+    "quests.high_voltage.nichrome_coils.title": "Nichrome Coils",
+    "quests.high_voltage.nichrome_coils.subtitle": "A long way to go before we beat the Sun",
+    "quests.high_voltage.nichrome_coils.desc.1": "&3Nichrome Heating Coils&r increase the temperature of your &3Blast Furnace&r to &d3,600K&r.\n\nDespite not being required &oyet&r, it still is a good idea to upgrade your primary &3EBF&r for those sweet, sweet &6Coil bonuses&r.",
+    "quests.high_voltage.nichrome_coils.desc.2": "&l&3Lore:&r&o In the original GregTech 5, there were only three types of coils. This was the last tier.",
+
+    "quests.high_voltage.titanium.title": "Titanium",
+    "quests.high_voltage.titanium.desc": "&aTitanium&r has the highest corrosion resistance and strength-to-density ratio of any metallic element, so it's only natural that we'll be using it as the main material in our &5EV&r machinery.\n\nConfirm that your closed loop for &aRutile&r is up to standard, and prepare to run a dedicated &3EBF&r for hours.\n\nA quick aside - now we're at &5EV&r, single block generators are about to fall out of style! You'll need to run several &3HV Generators&r to keep up - later, upgrades to Multiblock Generators will be required.\n\nWhile Multiblock generators are much more expensive, you'll find them to be much more energy efficient!",
+
+    "quests.high_voltage.vacuum_freezer.title": "Ice Cold",
+    "quests.high_voltage.vacuum_freezer.subtitle": "Did you know vacuums actually make things hotter?",
+    "quests.high_voltage.vacuum_freezer.desc": "The &3Vacuum Freezer&r is a multiblock used to cool down &eHot Ingots&r. All ingots made in the EBF with a temperature above &d1750K&r will need it.\n\nMost of the time, your &3Electric Blast Furnace&r will be the bottleneck, so you don't need to worry about overclocking your freezer.\n\nSince &eHot Ingots&r &churt you&r when held, item routing will be very useful.",
+
+    "quests.high_voltage.mv_superconductors.title": "MV Superconductors",
+    "quests.high_voltage.mv_superconductors.desc": "&a4A&r of &bMV&r energy transmission may be appealing, but you probably don't need these at this point. The option is always there if you need it.",
+
+    "quests.high_voltage.circuit_assembler.title": "HV Circuit Assembler",
+    "quests.high_voltage.circuit_assembler.desc": "The next &3Circuit Assembler&r. This tier of Circuit Assembler is only required for one type of Circuit - your first ever &aMainframe&r. You may have only one use for them, the &5EV Circuit Assembler&r.\n\nYou can put this off until &5EV&r or simply just use it for faster circuits making.",
+
+    "quests.high_voltage.microprocessor_mainframe.title": "Mainframes - first IV Circuits!",
+    "quests.high_voltage.microprocessor_mainframe.desc": "The first &1IV&r circuit. Congratulations on making it this far!\n\nThis will be used when you get to &5EV&r, or you can use it right now to craft an Advanced Nanosuit Chestplate, a big upgrade to your jetpack!.\n\n&l&3Lore:&r&o The original texture for the Mainframes was taken from an image of an IBM zEnterprise mainframe.",
+
+    "quests.high_voltage.cleanroom.title": "The Cleanroom",
+    "quests.high_voltage.cleanroom.subtitle": "They put me in a room... a clean room",
+    "quests.high_voltage.cleanroom.desc.1": "The &3Cleanroom&r is a hollow multiblock free of contaminants. Going forward, most new &acircuit-related recipes&r, as well as some unique blocks like &3Fusion Casings&r, will need to be run in machines inside a Cleanroom.\n\nCreating it will put your &aPolyethylene&r automation to the test for all the &dPlascrete&r and/or &dCleanroom Glass&r you will make.\n\nWe'll start you off with a 5x5x5 Cleanroom, but you should upgrade its size when you start feeling cramped.",
+    "quests.high_voltage.cleanroom.desc.2": "&l&3Lore:&r&o The Cleanroom comes from GregTech 5, but as is often the case, the GT5 implementation is much more punishing. The recipes would run without regard to cleanliness, but had a % chance of completion equal to the cleanliness of the Cleanroom. This caused a lot of accidental voiding.\n\n&oFurthermore, if the Cleanroom had a maintenance issue, the cleanliness would cap out at 90%, which means 10% of items would be voided.\n\n&oThe GTCEu Cleanroom will &6never void&f recipe outputs.",
+
+    "quests.high_voltage.prospector.title": "HV Prospector",
+    "quests.high_voltage.prospector.desc.1": "This prospector boasts a &6higher range&r than its &7LV&r counterpart.\n\nSneak right-clicking with the Prospector in your hand will change its mode to &6Fluid Vein Mode&r. This will instead display the base &dyield&r of Fluid veins, along with how full they are.\n\nThis will be really useful to find &9Helium-3&r and &9Bedrock Veins&r on the moon.",
+    "quests.high_voltage.prospector.desc.2": "&9Reminder:&r The yield of a &3Fluid Drilling Rig&r is directly proportional to the \"fullness\" of the vein. When low enough, the output will default to a yield that can be defined in the CEu config.\n\n&9Tip:&r When the fullness drops below 30% (alright, rough estimate), you should consider moving to another vein for the sake of power-to-yield efficiency. Aiming for the &3Advanced Fluid Drilling Rig&r in &5EV&r may interest you, as not only does it significantly boost the output, but it also reduces the rate at which it drains the vein!\n\n&cCaution:&r Due to a bug, the Prospector display may be offset by one chunk, so avoid placing your Rig in the corners of a fluid vein, or you may end up pumping the wrong fluid!",
+
+    "quests.high_voltage.fluorine.title": "Fluorine",
+    "quests.high_voltage.fluorine.subtitle": "Have you brushed your teeth today?",
+    "quests.high_voltage.fluorine.desc": "Fluorine is the rarest gas to obtain from electrolysis in this game.\n\nYou can obtain it from &aLepidolite&r, &aBastnatite&r, and &aMica&r, but the best source is from &aTopaz&r.",
+
+    "quests.high_voltage.ptfe.title": "Polytetrafluoroethylene",
+    "quests.high_voltage.ptfe.subtitle": "A.K.A - Teflon",
+    "quests.high_voltage.ptfe.desc": "&aPolytetrafluoroethylene (PTFE)&r is a &7Carbon&r-&bFluorine&r polymer. Similarly to PVC, PTFE can be used to increase the yield of Plastic Circuit Boards and other crafts. Presently, it is used to make the walls of &3Large Chemical Reactors&r.\n\n&3Chlorine&r is required in the process, which is fully recycled if you electrolyze the &aHydrochloric Acid&r waste.\n\n&bFluorine&r will also be used in the &aUranium&r and &7Naquadah&r refinement processes.\n\n&9Tip:&r From this point onwards, you should be solidifying Polymers as &dBar&r (Ingot) form, as they can easily be shaped to whichever form you will need using the &3Extruder&r.",
+
+    "quests.high_voltage.nitrobenzene.title": "Benzene Nitro",
+    "quests.high_voltage.nitrobenzene.desc": "Making &aNitrobenzene&r will boost the energy efficiency of &aBenzene&r roughly &6fourfold&r. You love to see it.\n\nThe catch here is that it takes &dDistilled Water&r, and consumes a bit of &dSulfur&r with every step.",
+
+    "quests.high_voltage.lcr.title": "Large Chemical Reactor",
+    "quests.high_voltage.lcr.desc.1": "The &3Large Chemical Reactor (LCR)&r is a multiblock &3Chemical Reactor&r with more input/output slots. Its Teflon casings allow it to process extra recipes.\n\nThe &3LCR&r can perform some exclusive reactions which allow you to combine multiple normal &3Chemical Reactor&r steps into a &6single step&r. Examples below:\n\n&9-&r &aNitrogen Dioxide&r (for Nitric Acid and Dinitrogen Tetroxide)\n&9-&r &aSulfuric Acid&r\n&9-&r &aPhenol&r\n&9-&r &aEpichlorohydrin&r (you need it for Epoxy!)\n&9-&r &aEpoxy&r",
+    "quests.high_voltage.lcr.desc.2": "There are also &3LCR&r exclusive recipes. For example, &dRadon&r can only be made in the LCR right now.\n\nAll &dOverclocks&r in the &3LCR&r are &6100% efficient&r (known as Perfect overclocks); each overclock will &5quadruple the speed&r, as opposed to doubling it.\n\nThe &3LCR&r has yet another &6advantage&r. You can use &32 Energy Hatches&r to allow it to run recipes of the &5next tier&r, similar to the &3Electric Blast Furnace&r.",
+    "quests.high_voltage.lcr.desc.3": "&9Tip:&r Given the amount of LCRs you may end up using, why not try utilising &dwallsharing&r to its full potential?\n\nYou could share one 2A (standard) &3Energy Hatch&r between 2 LCRs.\n\nYou might want to share &3Input/Output Hatches&r, but make sure each LCR is running the correct recipe.\n\nKeep in mind Maintenance hatches are not sharable.",
+
+    "quests.high_voltage.tnt.title": "TNT",
+    "quests.high_voltage.tnt.desc.1": "&cTNT&r (Trinitrotoluene) can't be prepared with the usual Gunpowder and Sand anymore. Instead, you'll have to produce &aGelled Toluene&r and react it with Sulfuric Acid to make TNT.\n\nUsing the &3HV Chemical Reactor&r recipe will double the yield of &aGelled Toluene&r at the cost of requiring additional inputs.",
+    "quests.high_voltage.tnt.desc.2": "We don't have any easy tips to give you for &aToluene&r. It's going to be tricky no matter which route you take.\n\nThat being said, don't miss out on the direct &aHeavy Fuel&r to &aToluene&r recipe in the single block &3Distillery&r.\n\n&aToluene&r can also optionally be used in &5EV&r to make &dGasoline&r.\n\n&cTNT&r is used in the &3Implosion Compressor&r to make Gems. It also blows stuff up.",
+
+    "quests.high_voltage.ender_pearls.title": "Ender Pearls",
+    "quests.high_voltage.ender_pearls.subtitle": "Sci-fi gemstones, or something",
+    "quests.high_voltage.ender_pearls.desc": "You won’t find any Endermen dropping Ender Pearls in TFG.\\nEven the ones lurking in the Beneath won’t help you there.\n\nInstead, your only option for now is to craft them yourself:\n\nCombine &2Beryllium Dust&r and &2Potassium Dust&r in a &6HV&r Mixer to create the elusive &5Ender Dust&r.\n\nOnce that’s done, throw it into an &8Implosion Compressor&r and recreate the iconic Ender Pearl — Gregtech style.",
+
+    "quests.high_voltage.boules.title": "Phosphorus Boules",
+    "quests.high_voltage.boules.subtitle": "That's dope, bro!",
+    "quests.high_voltage.boules.desc": "Doping is the process of intentionally introducing impurities into semiconductors to alter their properties.\n\n&7Silicon&r can be doped with small amounts of &ePhosphorus&r to make a better &eSilicon Boule&r.\n\nPhosphorus-doped Silicon Boules typically yield &68 times&r more wafers than their non-doped counterparts. However, they are not strictly needed until &5EV&r, where they'll be used in more complex wafers.\n\n&9Note&r: All processing of Phosphorus Boules and Wafers will require a &dCleanroom&r.",
+
+    "quests.high_voltage.implosion_compressor.title": "Implosion Compressor",
+    "quests.high_voltage.implosion_compressor.desc": "The &3Implosion Compressor&r turns the Dust form of Gems into their Gem form.\n\nIt's required to get &aEnder Pearls&r.\n\n&cTNT&r can be used for the Implosion.",
+
+    "quests.high_voltage.nitric_acid.title": "Nitric Acid",
+    "quests.high_voltage.nitric_acid.subtitle": "This won't eat your skin",
+    "quests.high_voltage.nitric_acid.desc.1": "Nitric Acid's fumes are extremely toxic! It's also a very potent oxidizer.\n\n&aNitric Acid&r is used in:\n\n&9-&r Cetane-Boosted Diesel, a better Diesel fuel that you'll get to soon.\n&9-&r Nitrobenzene, a better Gas fuel that we're not far off making.\n&9-&r The optional gem slurry chains.\n&9-&r The Platinum Group Sludge chain in &1IV&r.\n&9-&r Polybenzimidazole (try saying that ten times fast!) in &1IV&r.",
+    "quests.high_voltage.nitric_acid.desc.2": "There are two main ways to make &aNitric Acid&r - &othe &agood&f way and the &4bad&f ways!&r\n\nTherefore, we'll point you towards the best method:\n\nGet a &3Large Chemical Reactor&r and use it to make &aNitrogen Dioxide&r. From there, react it in a regular &3Chemical Reactor&r with more &dOxygen&r and &dWater&r and you got yourself some &aNitric Acid&r!\n\nThis requires a lot of &dOxygen&r. Refer to its own Quest in &7LV&r for the most efficient ways to obtain in large amount. Notice that this is Hydrogen free!",
+
+    "quests.high_voltage.cetane_diesel.title": "Cetane-boosted Diesel",
+    "quests.high_voltage.cetane_diesel.subtitle": "This is to go further beyond",
+    "quests.high_voltage.cetane_diesel.desc": "&aCetane-Boosted Diesel&r is &650% more energy dense&r than regular &aDiesel&r, and only requires 1 part &dTetranitromethane (TNM)&r for every 50 parts &aDiesel&r. What a steal, right?\n\nThe catch comes in the complexity of making &dTNM&r. In order to concoct it, you must react &aNitric Acid&r with either &dEthenone&r or &aMethyl Acetate&r, both of which have quite an involved process themselves!",
+
+    "quests.high_voltage.smd_components.title": "SMD Components",
+    "quests.high_voltage.smd_components.subtitle": "Alternate components!",
+    "quests.high_voltage.smd_components.desc": "The &eSMD&r (surface-mount device) &aComponents&r are CEu-exclusive components that are required for the next tier of circuits (&5Nano&r). They can also be used in place of their non-SMD counterparts in most Circuit recipes.\n\nOf course they're more complicated to make, this is GregTech! What did you expect?\n\nInvest in automation for these - you won't stop needing them.",
+
+    "quests.high_voltage.smd_components_2.title": "More SMD Components",
+    "quests.high_voltage.smd_components_2.desc": "&aPlatinum&r (needed for SMD Diodes) has its own dedicated Quest in the &5EV&r tab. But you could also get Platinium directly from Platinium vein or Chemical Washer processing.\n\n&l&3Lore:&r&o The SMD Inductors make an appearance in GTCEu for the first time. It's more consistent and convenient to have all Circuit components receive an SMD counterpart.",
+
+    "quests.high_voltage.hv_macerator.title": "Universal Macerator",
+    "quests.high_voltage.hv_macerator.subtitle": "Shredding your Ores with byproducts",
+    "quests.high_voltage.hv_macerator.desc.1": "The &3HV Macerator&r finally unlocks more of the slots shown in JEI. With this, the first &9three&r slots are now available. This allows you to receive the &6unique ore Byproduct&r from macerating &dThermal &dCentrifuged Ore&r.\n\nMacerating Ores costs &a32 EU/t&r with &5two overclocks&r, which makes this machine able to fit in &7LV&r lines - very, very convenient.\n\nDespite the signicant improvements this machine provides, it still isn't completely worth it to set up advanced processing for every single ore. Energy and time are still things to consider, so only process the ores that produce &6Byproducts&r you care for.",
+    "quests.high_voltage.hv_macerator.desc.2": "&l&3Lore:&r&o In GregTech 5u, the &6HV&r&o Macerator only gave two slots. Urgh... we weren't planning on using that Stone Dust, anyway...",
+
+    "quests.high_voltage.ammonia.title": "Ammonia",
+    "quests.high_voltage.ammonia.desc": "&aAmmonia&r is &doptional&r in &6HV&r.\n\nYou may use it in the production of:\n&9-&r Nitric Acid, although we don't recommend this.\n&9-&r Rocket Fuel, required to leave this planet.\n&9-&r Polybenzimidazole (now THAT'S a tongue twister!) in &1IV&r.\n\nThe \"least painful\" recipe should be the one in the &3HV Chemical Reactor&r. Make sure your &aHydrogen&r production (mostly from &aWater electrolysis&r) is enough to support the demand.\n\nYou could also obtain &aAmmonia&r as a waste product from &dPlatinum Group Sludge&r processing.",
+
+    "quests.high_voltage.hv_mixer.title": "High Voltage Mixer",
+    "quests.high_voltage.hv_mixer.subtitle": "Mixing never got so good",
+    "quests.high_voltage.hv_mixer.desc": "You will need the &6HV&r Mixer to make the &6Rocket Alloy&r, but that's not its only useful recipe.\n\nIt also unlocks:\n- &dIndium&r\n- &eCetane Boosted Diesel&r\n- The valuable &6Ultimet Alloy&r used for &9Turbine Rotors&r\n- &dFluix Crystals&r, which is absolutely essential for &dAE2&r",
+
+    "quests.high_voltage.blue_alloy.title": "Blue Alloy",
+    "quests.high_voltage.blue_alloy.subtitle": "You're blue now... that's my alloy",
+    "quests.high_voltage.blue_alloy.desc": "&aBlue Alloy&r is an excellent Cable material for &6HV&r power.\n\nNothing is preventing you from using it for &bMV&r power too! Make sure that you don't overvolt your machines, though.\n\nSuperconductors for &6HV&r are unlocked... later.\n\n&aElectrotine&r is obtained as an ore, so don't craft it in the Mixer!\n\nFurthermore, &aElectrotine&r can be separated for &dElectrum&r and &dRedstone&r.",
+
+    "quests.high_voltage.ev_circuits.title": "First EV Circuits!",
+    "quests.high_voltage.ev_circuits.subtitle": "Standing out amongst the rest",
+    "quests.high_voltage.ev_circuits.desc": "Your first &5EV&r Circuit gets a unique texture. If you still consider yourself to be in &bMV&r, &ahold off&r on making too many of these, as they won't benefit you right now. We can't stop you from making these if you &djust wanna flex&r on us, though.",
+
+    "quests.high_voltage.hv_hull.title": "Welcome to HV!",
+    "quests.high_voltage.hv_hull.subtitle": "Soon to be a minestronaut",
+    "quests.high_voltage.hv_hull.desc.1": "&2We hope you're getting the hang of &9GregTech&r, because now it's time to push your skills a bit further.\nIn this chapter, you'll unlock &eadvanced multiblocks&r, &ecomplex processes&r, and even take your first steps onto the &fMoon&r!\n\n&6For this chapter, you have two main goals :&r\n- Craft your first &5EV&r Machine Hull\n- Begin your journey to the &fMoon&r\n\nUnlocking the Moon will also grant access to &bCertus Quartz&r, paving the way for &dApplied Energistics 2&r. You’re free to tackle these objectives in any order you prefer.",
+    "quests.high_voltage.hv_hull.desc.2": "To craft the &5EV&r Machine Hull:\n- Build your first &aCleanroom&r\n- Construct a &bVacuum Freezer&r to cool hot ingots\n- Process &9Rutile&r into &7Titanium&r\n\nYou'll find plenty of &9Rutile&r on the &fMoon&r, but it can also be located in &eBauxite&r veins in the &aOverworld&r.",
+    "quests.high_voltage.hv_hull.desc.3": "To reach the Moon:\n- Craft a generous amount of &6Rocket Alloy&r\n- Create your first &eEnder Eye&r using the &3Chemical Bath&r and the &8Implosion Compressor&r\n- Prepare all the &bequipment&r you'll need to &bbreathe in space&r\n\nGetting the &bVacuum Freezer&r and &6better coils&r will speed up &6Rocket Alloy&r production, but they’re not mandatory.\n\n&dChoose your path!&r",
+
+    "quests.high_voltage.nichrome.title": "Nichrome Ingots",
+    "quests.high_voltage.nichrome.subtitle": "It doesn't have much use",
+    "quests.high_voltage.nichrome.desc": "Your third alloy is here — and it's essential for your next set of coils in the &6EBF&r.\nThis time, you’ll notice that you can’t use a &6Chemical Washer&r. Instead, you're required to use a &6Vacuum Chamber&r.\n\nGood news: it’s actually simpler and faster.\n\nYou’ll only be using &6Nichrome&r for these coils, but don’t get too comfortable — it will return later for the next set of &5RTM Coils&r.",
+
+    "quests.high_voltage.rocket_t1.title": "Your First Rocket!",
+    "quests.high_voltage.rocket_t1.subtitle": "The first of many",
+    "quests.high_voltage.rocket_t1.desc": "Wow, it's time to build your &6Rocket&r!\n\nAssemble all the parts with &d8 Dense Rocket Alloy&r. To finish the insulation, you'll need &b576mb&r of &bLiquid Silicon&r (&b4 ingots&r) and &f16 pieces of dust&r.\n\nYou have two choices:\n&e-&r &eBorosilicate Glass Dust&r — crafted in a &6Mixer&r with &dBoron&r and &fGlass Dust&r\n\n&e-&r &5Vitrified Asbestos&r — obtained through a &6Pyrolysis Oven&r\n\nGo with the one you have available!",
 
     "quests.high_voltage.vitrified_pearl.title": "Vitrified Ender Pearl",
     "quests.high_voltage.vitrified_pearl.subtitle": "An Exotic Ceramic",
