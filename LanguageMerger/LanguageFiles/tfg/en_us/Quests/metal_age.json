@@ -62,7 +62,7 @@
 
     "quests.metal_age.overworld_graphite.title": "Graphite Source: Overworld",
     "quests.metal_age.overworld_graphite.subtitle": "You mean I can't just rely on surface indicators?",
-    "quests.metal_age.overworld_graphite.desc": "Graphite spawns exclusively in flat, wide discs deep underground.\n\nYou will have to go exploring underground through the caves to try and spot some! Graphite veins can spawn in any stone type and also include Coal and Diamond, and will have all three indicators nearby. Tools such as a metal Shield, Digger Helmet, Propick, and Spyglass can also prove to be very useful!",
+    "quests.metal_age.overworld_graphite.desc": "Graphite spawns exclusively in flat, wide discs deep underground.\n\nYou will have to go exploring underground through the caves to try and spot some! Graphite veins can spawn in any stone type and also include Coal and Diamond. However, due to the depth of the veins, indicators likely will not appear on the surface. Tools such as a metal Shield, Digger Helmet, Propick, and Spyglass can also prove to be very useful!",
 
     "quests.metal_age.beneath_graphite.title": "Graphite Source: The Beneath",
     "quests.metal_age.beneath_graphite.subtitle": "To the Depths",
@@ -71,7 +71,7 @@
 
     "quests.metal_age.kaolin_clay.title": "Kaolin Clay",
     "quests.metal_age.kaolin_clay.subtitle": "Kaolin Trek: The Next Generation",
-    "quests.metal_age.kaolin_clay.desc": "Once you find Kaolin Clay, you should bring as much back as you can possibly carry! Unfortunately, only 20% of it will successfully cook into Kaolinite Powder, so it's recommended to bake it in situ with pit kilns, to save inventory space.\n\nAfter you craft the Crucible and the Blast Furnace, you won't need much more of it, but it's still a good idea to bring home more than you think you'll need, to avoid a repeat journey.\n\nP.S.: If you've found blood lilies but no clay, try digging down a little further! Sometimes it spawns a little underground.",
+    "quests.metal_age.kaolin_clay.desc": "Once you find Kaolin Clay, you should bring as much back as you can possibly carry! Unfortunately, only 20 percent of it will successfully cook into Kaolinite Powder, so it's recommended to bake it in situ with pit kilns, to save inventory space.\n\nAfter you craft the Crucible and the Blast Furnace, you won't need much more of it, but it's still a good idea to bring home more than you think you'll need, to avoid a repeat journey.\n\nP.S.: If you've found blood lilies but no clay, try digging down a little further! Sometimes it spawns a little underground.",
 
     "quests.metal_age.graphite.title": "Graphite",
     "quests.metal_age.graphite.subtitle": "Pencils do not exist",
@@ -84,7 +84,7 @@
 
     "quests.metal_age.fire_clay_products.title": "Fire Clay products",
     "quests.metal_age.fire_clay_products.subtitle": "Extremely Heat Resistant Clay",
-    "quests.metal_age.fire_clay_products.desc": "Just like regular Clay, Fire Clay can be Knapped to create things that you'll then need to fire. Most importantly, Fire Clay is used to create the Crucible and Fire Clay Bricks, both of which are required for the Blast Furnace.\n\nYou'll also be able to create a Mold Table and Casting Channels, which lets you cast your metal from the crucible into multiple molds at once.\n\nLastly, there's Fire Ingot Molds, which only have a 1% chance of breaking instead of regular clay's 10%.",
+    "quests.metal_age.fire_clay_products.desc": "Just like regular Clay, Fire Clay can be Knapped to create things that you'll then need to fire. Most importantly, Fire Clay is used to create the Crucible and Fire Clay Bricks, both of which are required for the Blast Furnace.\n\nYou'll also be able to create a Mold Table and Casting Channels, which lets you cast your metal from the crucible into multiple molds at once.\n\nLastly, there's Fire Ingot Molds, which only have a 1 percent chance of breaking instead of regular clay's 10 percent.",
 
     "quests.metal_age.crucible.title": "Crucible",
     "quests.metal_age.crucible.subtitle": "Melt metals like a pro",

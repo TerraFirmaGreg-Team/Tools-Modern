@@ -253,7 +253,7 @@
 	"quests.steam_age.rolling_mill.title": "Rolling Mill",
 	"quests.steam_age.rolling_mill.subtitle": "The other half of the LV Bender",
 	"quests.steam_age.rolling_mill.desc.1": "Of all the steam age machines you could make, the &3Rolling Mill&r is one of the best, for the simple reason that it makes single plates out of single ingots. It can also make thin sheets cheaper than by hand, as a bonus!",
-	"quests.steam_age.rolling_mill.desc.2": "&l&3Lore:&r &oThis machine existed in older versions of TFG, but it made rods instead of plates, and your best plate-making option before the LV bender had a 20% chance of failure!&r",
+	"quests.steam_age.rolling_mill.desc.2": "&l&3Lore:&r &oThis machine existed in older versions of TFG, but it made rods instead of plates, and your best plate-making option before the LV bender had a 20 percent chance of failure!&r",
 
 	"quests.steam_age.steel_mixer.title": "Steel Mechanical Mixer",
 	"quests.steam_age.steel_mixer.subtitle": "An earlier LV Mixer",
@@ -297,5 +297,5 @@
 	"quests.steam_age.steel_mech_press.title": "Steel Mechanical Press",
 	"quests.steam_age.steel_mech_press.subtitle": "Almost a Forge Hammer",
 	"quests.steam_age.steel_mech_press.desc.1": "The High Pressure Steam Forge Hammer is right around the corner and can do almost everything that this machine can do, but if you're desperate for some higher tier automatic welding recipes, this is your ticket.\n\nIf you're unfamiliar with the Forge Hammer, both it and the Steel Mechanical Press can crush ores (without byproducts), turn rock into cobble into gravel into sand, and crack bricks. However, only the Forge Hammer can provide a &3cheaper recipe for metal plates&r...",
-	"quests.steam_age.steel_mech_press.desc.2": "&l&3Lore:&r&o The Create Mechanical Press used to be a key piece of late steam age progression prior to version 0.9 of TerraFirmaGreg, because it produced plates at an even better ratio of 5 to 4. However, its implementation was actually \"20% of the time, you get nothing\", which caused many people to proclaim how much they loved gambling while using it."
+	"quests.steam_age.steel_mech_press.desc.2": "&l&3Lore:&r&o The Create Mechanical Press used to be a key piece of late steam age progression prior to version 0.9 of TerraFirmaGreg, because it produced plates at an even better ratio of 5 to 4. However, its implementation was actually \"20 percent of the time, you get nothing\", which caused many people to proclaim how much they loved gambling while using it."
 }
