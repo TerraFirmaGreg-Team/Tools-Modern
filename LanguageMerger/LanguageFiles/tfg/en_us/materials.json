@@ -45,5 +45,8 @@
     "material.tfg.chlorodifluoromethane": "Chlorodifluoromethane",
     "material.tfg.acetylene": "Acetylene",
     "material.tfg.1_1_1_2_tetrafluoroethane": "1,1,1,2-Tetrafluoroethane",
-    "material.tfg.isobutane": "Isobutane"
+    "material.tfg.isobutane": "Isobutane",
+    "material.tfg.chloryl_fluoride": "Chloryl Fluoride",
+    "material.tfg.chlorine_pentafluoride": "Chlorine Pentafluoride",
+    "material.tfg.solar_coolant": "Solar Coolant"
 }

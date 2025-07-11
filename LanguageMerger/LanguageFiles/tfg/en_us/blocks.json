@@ -179,11 +179,15 @@
 	"block.tfg.railgun_item_loader_in": "Interplanetary Railgun Input Bus",
 	"block.tfg.interplanetary_item_reciever": "Interplanetary Receiver",
 	"block.tfg.railgun_item_loader_out": "Interplanetary Receiver Output Bus",
+	"block.tfg.interplanetary_logistics_monitor": "Interplanetary Logistics Monitor",
 
 	"block.tfg.sunflower_wild": "Wild Sunflower",
 	"block.tfg.sunflower_dead": "Dead Sunflower",
 	"block.tfg.rapeseed_wild": "Wild Rapeseed",
 	"block.tfg.rapeseed_dead": "Dead Rapeseed",
+
+	"block.tfg.casings.machine_casing_iron_desh": "Desh Machine Casing",
+	"block.tfg.casings.machine_casing_red_solar_panel": "Energium Solar Panel Casing",
 
 	// TODO
 	//"block.tfg.corallium_arenicolus_0": "Corallium Arenicolus",
