@@ -1,6 +1,6 @@
 {
 	"id": "armalcolite",
-	"formula": "TODO",
+	"formula": "(Mg,Fe)Ti₂O₅",
 	"ore_block": "gtceu:raw_armalcolite_block",
 	"indicator": "gtceu:armalcolite_bud_indicator",
 	"translations": [
