@@ -3,6 +3,7 @@
 	"pattern": "gtceu:mercury_stone_{0}_ore",
 	"translations": {
 		"en_us": "Komatiite",
+		"pt_br": "Komatiíto",
 		"ru_ru": "Коматиит",
 		"uk_ua": "Коматіїт"
 	},

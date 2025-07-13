@@ -3,6 +3,7 @@
 	"pattern": "gtceu:slate_{0}_ore",
 	"translations": {
 		"en_us": "Slate",
+		"pt_br": "Ardósia",
 		"ru_ru": "Шиферный сланец",
 		"uk_ua": "Шиферний сланець"
 	},

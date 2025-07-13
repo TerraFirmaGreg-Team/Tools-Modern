@@ -3,6 +3,7 @@
 	"pattern": "gtceu:dolomite_{0}_ore",
 	"translations": {
 		"en_us": "Dolomite",
+		"pt_br": "Dolomito",
 		"ru_ru": "Доломит",
 		"uk_ua": "Доломіт"
 	},

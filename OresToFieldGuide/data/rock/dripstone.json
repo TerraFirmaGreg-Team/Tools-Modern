@@ -3,6 +3,7 @@
 	"pattern": "gtceu:dripstone_{0}_ore",
 	"translations": {
 		"en_us": "Travertine",
+		"pt_br": "Travertino",
 		"ru_ru": "Травертин",
 		"uk_ua": "Травертин"
 	},
