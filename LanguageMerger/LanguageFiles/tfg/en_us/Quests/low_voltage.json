@@ -318,9 +318,14 @@
 	"quests.low_voltage.mold_plate.subtitle": "Even cheaper rubber",
 	"quests.low_voltage.mold_plate.desc": "Stop wasting your time with your &6Alloy Smelter&r. You're gonna need a lot of &6Rubber Sheets&r, and later on you will also use it for other kinds of plastics.\n\nYou may think you can use the Extruder to make rubber sheets instead, but the &6Fluid Solidifier&r can do so much more, while the Extruder is pretty useless until &bMV&r.",
 
+	"quests.low_voltage.cupronickel_ingot.title": "Cupronickel Ingots",
+	"quests.low_voltage.cupronickel_ingot.subtitle": "It's an alloy",
+	"quests.low_voltage.cupronickel_ingot.desc": "&7A big part of progression in GregTech revolves around gaining access to new materials\nthat you'll use to upgrade your machines or unlock advanced components.&r\n\nThe first alloy you'll encounter is &bCupronickel&r — the beginning of a long journey.\nThis material is used to upgrade your &6Electric Blast Furnace&r, an essential step in your industrial growth.\n\nLuckily, this first step is fairly simple: a basic &7LV Alloy Smelter&r will get the job done.\nSo even if the recipe asks for &b128 Cupronickel&r, don't worry — it's easier than it looks!&r\n\nLater on, their counterparts will become much more complex, so enjoy the simplicity while it lasts!",
+
+
 	"quests.low_voltage.cupronickel_coil.title": "Cupronickel Coils",
 	"quests.low_voltage.cupronickel_coil.subtitle": "Baby's first heating coil",
-	"quests.low_voltage.cupronickel_coil.desc": "Prepare &a128 Cupronickel&r, &a32 Bronze&r and &a16 Tin Alloy&r to craft the Heating Coils required for your first Electric Blast Furnace.\n\nThis is still less than half (!) of the cost of the whole EBF in raw materials. You will also need about a stack each of Invar and Steel, so get mining.\n\nThe Cupronickel Coils will allow the EBF to perform recipes up to &d1,800K&r (ignoring Voltage bonuses). That's pretty hot if you ask us.\n\n&6This quest unlocks a new tutorial on Coils in the &lTips and Tricks&r&6 tab - check it out to learn more!&r",
+	"quests.low_voltage.cupronickel_coil.desc": "Prepare &a128 Cupronickel&r, &a32 Bronze&r and &a16 Tin Alloy&r to craft the Heating Coils required for your first Electric Blast Furnace.\n\nThis is still less than half (!) of the cost of the whole EBF in raw materials. You will also need about a stack each of Invar and Steel, so get mining.\n\nThe Cupronickel Coils will allow the EBF to perform recipes up to &d1,800K&r (ignoring Voltage bonuses). That's pretty hot if you ask us.\n\n&6Ttorial on Coils in the &lGregtech Energy&r&6 tab - check it out to learn more!&r",
 
 	"quests.low_voltage.lv_ebf.title": "The Electric Blast Furnace",
 	"quests.low_voltage.lv_ebf.subtitle": "One of the core machines of Gregtech. We like it big.",
@@ -329,7 +334,7 @@
 
 	"quests.low_voltage.multiblock_tech.title": "Multiblock Techniques",
 	"quests.low_voltage.multiblock_tech.subtitle": "Oh we love multiblocks right?",
-	"quests.low_voltage.multiblock_tech.desc": "This is the &6basics&r of what you need to build your first &bEBF&r, though it is highly customisable. Remember to use &6EMI&r, use &6U&r on the controller and don't hesitate to &6left click on the structure blocks&r to see what the possibilities are.\n\nAn important notice, each Energy Hatch can accept &a2A&r, which means that at &7LV&r they can each handle &a64 EU/t&r. With two of them, your &eEBF&r can run at &a128 EU/t&r.\n\n For more details about this mechanic, refer to the &eEnergy Chapter&r, specifically the &eSpending Energy&r section.\n\nMultiblocks bear a large variety of interesting mechanics that might seem daunting, but don't worry - you don't need to do anything fancy right yet. You'll learn more as you go!",
+	"quests.low_voltage.multiblock_tech.desc": "This is the &6basics&r of what you need to build your first &bEBF&r, though it is highly customisable. Remember to use &6EMI&r, use &6U&r on the controller and don't hesitate to &6left click on the structure blocks&r to see what the possibilities are.\n\nAn important notice, each Energy Hatch can accept &a2A&r, which means that at &7LV&r they can each handle &a64 EU/t&r. With two of them, your &eEBF&r can run at &a128 EU/t&r.\n\nFor more details about this mechanic, refer to the &eGregtech Energy Chapter&r, specifically the &eSpending Energy&r section.\n\nMultiblocks bear a large variety of interesting mechanics that might seem daunting, but don't worry - you don't need to do anything fancy right yet. You'll learn more as you go!",
 	"quests.low_voltage.multiblock_tech.task.1": "Input Bus",
 	"quests.low_voltage.multiblock_tech.task.2": "Output Bus",
 	"quests.low_voltage.multiblock_tech.task.3": "Input Hatch",
