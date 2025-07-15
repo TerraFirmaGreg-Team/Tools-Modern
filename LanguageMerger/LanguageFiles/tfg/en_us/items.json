@@ -184,5 +184,9 @@
     "item.tfg.compressed_trimix_3_bucket": "50/30/20 Trimix-3 Bucket",
 
     "item.tfg.harvest_basket": "Harvest Basket",
-    "item.tfg.aluminium_harvest_basket": "Aluminium Harvest Basket"
+    "item.tfg.aluminium_harvest_basket": "Aluminium Harvest Basket",
+
+    "item.tfg.wood.lumber.aeronos": "Aeronos Lumber",
+    "item.tfg.wood.lumber.strophar": "Strophar Lumber",
+    "item.tfg.wood.lumber.glacian": "Glacian Lumber"
 }

@@ -112,6 +112,12 @@
 	"block.tfg.migmatite_support": "Migmatite Support",
 	"block.tfg.travertine_support_horizontal": "Travertine Horizontal Support",
 	"block.tfg.travertine_support": "Travertine Support",
+	"block.tfg.glacian_support": "Glacian Support",
+	"block.tfg.glacian_support_horizontal": "Glacian Horizontal Support",
+	"block.tfg.strophar_support": "Strophar Support",
+	"block.tfg.strophar_support_horizontal": "Strophar Horizontal Support",
+	"block.tfg.aeronos_support": "Aeronos Support",
+	"block.tfg.aeronos_support_horizontal": "Aeronos Horizontal Support",
 
 	"block.tfg.rock.hardened_deepslate": "Hardened Migmatite",
 	"block.tfg.rock.hardened_blackstone": "Hardened Pyroxenite",
