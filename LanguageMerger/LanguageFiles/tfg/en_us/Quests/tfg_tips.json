@@ -840,6 +840,11 @@
 
     "quests.tfg_tips.tools_tips.cryodesiccation.title": "Cryodesiccation",
     "quests.tfg_tips.tools_tips.cryodesiccation.subtitle": "The factory has no time for \"flavor\".",
-    "quests.tfg_tips.tools_tips.cryodesiccation.desc": "&l&bCryodesiccation&r&r is the process of dehydrating food at very low temperatures. Food with the trait \"Cryodesiccated\" lasts considerably longer than other food preservation methods."
+    "quests.tfg_tips.tools_tips.cryodesiccation.desc": "&l&bCryodesiccation&r&r is the process of dehydrating food at very low temperatures. Food with the trait \"Cryodesiccated\" lasts considerably longer than other food preservation methods.",
+
+    "quests.tfg_tips.tools_tips.harvest_basket.title": "Harvest Baskets",
+    "quests.tfg_tips.tools_tips.harvest_basket.subtitle": "For competitive pie bakers.",
+    "quests.tfg_tips.tools_tips.harvest_basket.task": "Any #tfg:harvester",
+    "quests.tfg_tips.tools_tips.harvest_basket.desc": "&l&2Harvest Baskets&r&r are a new tool made just for &5TFG&r! These baskets can be used to harvest whole trees and bushes of fruit in one right-click! A regular &6Harvest Basket&r has a base durability of &n128&r. But an &3Aluminium Harvest Basket&r takes no damage on use."
     //#endregion
 }

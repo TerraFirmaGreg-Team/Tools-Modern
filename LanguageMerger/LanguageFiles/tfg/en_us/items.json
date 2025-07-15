@@ -181,5 +181,8 @@
     "item.tfg.compressed_heliox_bucket": "Heliox Bucket",
     "item.tfg.compressed_heliox_3_bucket": "Heliox-3 Bucket",
     "item.tfg.compressed_trimix_bucket": "50/30/20 Trimix Bucket",
-    "item.tfg.compressed_trimix_3_bucket": "50/30/20 Trimix-3 Bucket"
+    "item.tfg.compressed_trimix_3_bucket": "50/30/20 Trimix-3 Bucket",
+
+    "item.tfg.harvest_basket": "Harvest Basket",
+    "item.tfg.aluminium_harvest_basket": "Aluminium Harvest Basket"
 }
