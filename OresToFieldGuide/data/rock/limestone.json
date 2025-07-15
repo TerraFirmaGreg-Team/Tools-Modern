@@ -3,6 +3,7 @@
 	"pattern": "gtceu:limestone_{0}_ore",
 	"translations": {
 		"en_us": "Limestone",
+		"pt_br": "Calcário",
 		"ru_ru": "Известняк",
 		"uk_ua": "Вапняк"
 	},

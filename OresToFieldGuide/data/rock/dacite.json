@@ -3,6 +3,7 @@
 	"pattern": "gtceu:dacite_{0}_ore",
 	"translations": {
 		"en_us": "Dacite",
+		"pt_br": "Dacito",
 		"ru_ru": "Дацит",
 		"uk_ua": "Дацит"
 	},
