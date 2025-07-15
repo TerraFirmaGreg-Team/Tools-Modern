@@ -38,6 +38,11 @@
 			"info": "Can't find it? Granite always spawns below $(thing)Rhyolite$(), and looking in oceans can be useful too!"
 		},
 		{
+			"lang": "pt_br",
+			"text": "Redstone, Cinábrio e Rubi",
+			"info": "Não consegue encontrar? O Granito sempre aparece abaixo de $(thing)Riolito$(), e procurar nos oceanos também pode ser útil!"
+		},
+		{
 			"lang": "ru_ru",
 			"text": "Редстоун, Киноварь и Рубин",
 			"info": "Не получается найти это? На дне океана легко увидеть красное свечение!"

@@ -3,6 +3,7 @@
 	"pattern": "gtceu:shale_{0}_ore",
 	"translations": {
 		"en_us": "Shale",
+		"pt_br": "Folhelho",
 		"ru_ru": "Сланец",
 		"uk_ua": "Глинистий сланець"
 	},

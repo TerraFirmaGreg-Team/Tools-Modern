@@ -3,6 +3,7 @@
 	"pattern": "gtceu:conglomerate_{0}_ore",
 	"translations": {
 		"en_us": "Conglomerate",
+		"pt_br": "Conglomerado",
 		"ru_ru": "Конгломерат",
 		"uk_ua": "Конгломерат"
 	},
