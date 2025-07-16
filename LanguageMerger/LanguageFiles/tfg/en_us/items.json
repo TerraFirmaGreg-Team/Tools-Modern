@@ -163,6 +163,11 @@
     "item.tfg.shell_bullet_casing": "Shell Bullet Casing",
     "item.tfg.nitrocellulose": "Nitrocellulose",
 
+    "item.tfg.aes_wool": "Alkaline Earth Silicate Wool",
+    "item.tfg.aes_compressed_wool": "Compressed Alkaline Earth Silicate Wool",
+    "item.tfg.aes_insulation_sheet": "Sheet of Alkaline Earth Silicate Insulation",
+    "item.tfg.aes_insulation_roll": "Roll of Alkaline Earth Silicate Insulation",
+
     "item.tfg.marker.earth_orbit": "Earth Orbit",
     "item.tfg.marker.moon_orbit": "Moon Orbit",
     "item.tfg.marker.mars_orbit": "Mars Orbit",
