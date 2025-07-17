@@ -2,7 +2,7 @@
     // Welcome to AE2
 
     "quests.ae2": "Applied Energistics 2",
-    "quests.ae2.subtitle": "The strongest tool to help you with Gregtech, unlocked after your first trip to the moon",
+    "quests.ae2.subtitle": "The strongest tool to help you with GregTech, unlocked after your first trip to the moon",
 
     // Left Side Category
 
@@ -18,7 +18,7 @@
     "quests.ae2.hv_machines.title": "The Three Musketeers",
     "quests.ae2.hv_machines.subtitle": "Oh damn they are actually four",
     "quests.ae2.hv_machines.desc": "These two machines are mandatory to progress in &dApplied Energistics 2&r.\n\nThe &eSifter&r is used for ore processing to increase your yield of &bCertus Quartz&r, &7Quartzite&r, &fNether Quartz&r, &cRuby&r, and &dArmalcolite&r—all of which are essential for AE2. Alternatively, you can smelt the ores directly in a Furnace if you prefer mining more over processing.\n\nThe second machine, the &eMixer&r, is your only method to create &dFluix Crystals&r (more about that in the next quest). Don’t forget that you can also use the &6Greate Mixer&r as a &6HS&r-tier machine.\n\nLastly, keep in mind that an &aAutoclave&r can help you generate even more gems from dusts. Once you have the resources, crafting one will make your life significantly easier.",
-    "quests.ae2.hv_machines.task": "Greate or Gregtech?",
+    "quests.ae2.hv_machines.task": "Greate or GregTech?",
 
     "quests.ae2.fluix_crystal.subtitle": "Energistic Alloy",
     "quests.ae2.fluix_crystal.desc": "As you can see, there are multiple ways to create &dFluix Crystals&r using a &eMixer&r.\n\nThe higher the purity of your input gems, the better the yield—that’s exactly why we recommended crafting a &eSifter&r earlier.\n\nYou’ll need a massive amount of &dFluix Crystals&r, especially since the &5liquid version&r is used in most &dApplied Energistics 2&r recipes.\n\nSo prepare yourself—you’re going to need a lot!",

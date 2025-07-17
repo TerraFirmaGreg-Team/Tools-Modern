@@ -9,11 +9,11 @@
     "quests.high_voltage.energium_crystals.desc": "&aEnergium Crystals&r store a significant amount of &9EU&r. They're also arguably cheaper.",
 
     "quests.high_voltage.autoclave.title": "HV Autoclave",
-    "quests.high_voltage.autoclave.subtitle": "Never underestimate this one",
+    "quests.high_voltage.autoclave.subtitle": "Home-grown batteries",
     "quests.high_voltage.autoclave.desc": "The &3HV Autoclave&r - despite being optional - is a machine you'll definitively want to grab.\n\nThis unlocks unique Batteries that are &6far superior&r to their standard counterparts.",
 
     "quests.high_voltage.chem_bath.title": "High Voltage Bathing",
-    "quests.high_voltage.chem_bath.subtitle": "Please don't bathe with electronics...",
+    "quests.high_voltage.chem_bath.subtitle": "Please don't bathe with your toaster...",
     "quests.high_voltage.chem_bath.desc": "The &3HV Chemical Bath&r is used to &ddye Lenses&r using &aChemical Dye&r. This will let you engrave more types of Wafers, and cool other kinds of Hot Ingots.",
 
     "quests.high_voltage.maintenance_hatches.title": "Advanced Maintenance",
@@ -23,11 +23,11 @@
 
     "quests.high_voltage.hv_components.title": "High Voltage Components",
     "quests.high_voltage.hv_components.subtitle": "We call this \"fun\"",
-    "quests.high_voltage.hv_components.desc.1": "Just like &bMV&r, you'll need to make higher-tier components.\n\nThe painful &dFlawless Gems&r have been replaced with slightly-more-painful &dVitrified Ender Pearls&r. Also notice that the &aMotors&r require &d2x Silver Cables&r.\n&aHulls&r and &aMachines&r use &dGold Cables&r.\n\nNow you can finally start using up that stockpile of Gold!",
-    "quests.high_voltage.hv_components.desc.2": "&9&lTips to make life less painful:&r\n\n- Consider using &dElectrotine decomposition&r and &dOre Processing&r for &eElectrum&r.\n- Consider using the &3Chemical Bath&r with &dMercury&r for &eGold&r and &eSilver&r from a wide variety of ores.",
+    "quests.high_voltage.hv_components.desc.1": "Just like &bMV&r, you'll need to make higher-tier components.\n\nThe painful &dFlawless Gems&r have been replaced with slightly-more-painful &dVitrified Ender Pearls&r. Also notice that the &aMotors&r require &d2x Silver Cables&r.\n&aHulls&r and &aMachines&r use &dGold Cables&r.\n\nFinally, a use for that stockpile of Gold!",
+    "quests.high_voltage.hv_components.desc.2": "&9&lTips to make life less painful:&r\n\n- Use &dElectrotine decomposition&r and &dOre Processing&r for &eElectrum&r.\n- Use the &3Chemical Bath&r with &dMercury&r for &eGold&r and &eSilver&r from a wide variety of ores.",
 
     "quests.high_voltage.assembler.title": "HV Assembling Machine",
-    "quests.high_voltage.assembler.desc": "The &3HV Assembler&r is the next step in progression, but also unlocks a handful of useful utilities - check around this quest for more.\\n\\nYou will need this &6HV Assembler&r to make your &dRocket&r.",
+    "quests.high_voltage.assembler.desc": "The &3HV Assembler&r is the next step in progression, but also unlocks a handful of useful utilities - check around this quest for more.\n\nYou will need this &6HV Assembler&r to make your &dRocket&r.",
 
     "quests.high_voltage.lenses.title": "I see the world in colour",
     "quests.high_voltage.lenses.desc": "The &aSimple System on Chip&r will be used for the best &dULV Circuit&r recipe.\n\nWe'd also recommend going out of your way to make all the other useful colored Lenses ahead of time. They are listed here in an &eoptional&r task.",
@@ -101,12 +101,12 @@
     "quests.high_voltage.lcr.desc.3": "&9Tip:&r Given the amount of LCRs you may end up using, why not try utilising &dwallsharing&r to its full potential?\n\nYou could share one 2A (standard) &3Energy Hatch&r between 2 LCRs.\n\nYou might want to share &3Input/Output Hatches&r, but make sure each LCR is running the correct recipe.\n\nKeep in mind Maintenance hatches are not sharable.",
 
     "quests.high_voltage.tnt.title": "TNT",
-    "quests.high_voltage.tnt.desc.1": "&cTNT&r (Trinitrotoluene) can't be prepared with the usual Gunpowder and Sand anymore. Instead, you'll have to produce &aGelled Toluene&r and react it with Sulfuric Acid to make TNT.\n\nUsing the &3HV Chemical Reactor&r recipe will double the yield of &aGelled Toluene&r at the cost of requiring additional inputs.",
+    "quests.high_voltage.tnt.desc.1": "&cTNT&r (Trinitrotoluene) can't be prepared with the usual Gunpowder and Sand any more. Instead, you'll have to produce &aGelled Toluene&r and react it with Sulfuric Acid to make TNT.\n\nUsing the &3HV Chemical Reactor&r recipe will double the yield of &aGelled Toluene&r at the cost of requiring additional inputs.",
     "quests.high_voltage.tnt.desc.2": "We don't have any easy tips to give you for &aToluene&r. It's going to be tricky no matter which route you take.\n\nThat being said, don't miss out on the direct &aHeavy Fuel&r to &aToluene&r recipe in the single block &3Distillery&r.\n\n&aToluene&r can also optionally be used in &5EV&r to make &dGasoline&r.\n\n&cTNT&r is used in the &3Implosion Compressor&r to make Gems. It also blows stuff up.",
 
     "quests.high_voltage.ender_pearls.title": "Ender Pearls",
     "quests.high_voltage.ender_pearls.subtitle": "Sci-fi gemstones, or something",
-    "quests.high_voltage.ender_pearls.desc": "You won’t find any Endermen dropping Ender Pearls in TFG.\\nEven the ones lurking in the Beneath won’t help you there.\n\nInstead, your only option for now is to craft them yourself:\n\nCombine &2Beryllium Dust&r and &2Potassium Dust&r in a &6HV&r Mixer to create the elusive &5Ender Dust&r.\n\nOnce that’s done, throw it into an &8Implosion Compressor&r and recreate the iconic Ender Pearl — Gregtech style.",
+    "quests.high_voltage.ender_pearls.desc": "You won't find any Endermen dropping Ender Pearls in TFG.\nEven the ones lurking in the Beneath won’t help you there.\n\nInstead, your only option for now is to craft them yourself:\n\nCombine &2Beryllium Dust&r and &2Potassium Dust&r in a &6HV&r Mixer to create the elusive &5Ender Dust&r.\n\nOnce that's done, throw it into an &8Implosion Compressor&r and recreate the iconic Ender Pearl — GregTech style.",
 
     "quests.high_voltage.boules.title": "Phosphorus Boules",
     "quests.high_voltage.boules.subtitle": "That's dope, bro!",
@@ -133,7 +133,7 @@
 
     "quests.high_voltage.hv_macerator.title": "Universal Macerator",
     "quests.high_voltage.hv_macerator.subtitle": "Shredding your Ores with byproducts",
-    "quests.high_voltage.hv_macerator.desc.1": "The &3HV Macerator&r finally unlocks more of the slots shown in JEI. With this, the first &9three&r slots are now available. This allows you to receive the &6unique ore Byproduct&r from macerating &dThermal &dCentrifuged Ore&r.\n\nMacerating Ores costs &a32 EU/t&r with &5two overclocks&r, which makes this machine able to fit in &7LV&r lines - very, very convenient.\n\nDespite the signicant improvements this machine provides, it still isn't completely worth it to set up advanced processing for every single ore. Energy and time are still things to consider, so only process the ores that produce &6Byproducts&r you care for.",
+    "quests.high_voltage.hv_macerator.desc.1": "The &3HV Macerator&r finally unlocks more of the slots shown in JEI. With this, &9all&r of the slots are now available. This also allows you to receive the &6unique ore Byproduct&r from macerating &dThermal &dCentrifuged Ore&r.\n\nMacerating Ores costs &a32 EU/t&r with &5two overclocks&r, which makes this machine able to fit in &7LV&r lines - very, very convenient.\n\nDespite the signicant improvements this machine provides, it still isn't completely worth it to set up advanced processing for every single ore. Energy and time are still things to consider!",
     "quests.high_voltage.hv_macerator.desc.2": "&l&3Lore:&r&o In GregTech 5u, the &6HV&r&o Macerator only gave two slots. Urgh... we weren't planning on using that Stone Dust, anyway...",
 
     "quests.high_voltage.ammonia.title": "Ammonia",
@@ -163,7 +163,7 @@
 
     "quests.high_voltage.rocket_t1.title": "Your First Rocket!",
     "quests.high_voltage.rocket_t1.subtitle": "The first of many",
-    "quests.high_voltage.rocket_t1.desc": "Wow, it's time to build your &6Rocket&r!\n\nAssemble all the parts with &d8 Dense Rocket Alloy&r. To finish the insulation, you'll need &b2304mb&r of &bLiquid Silicon&r (&b16 ingots&r) and &f16 pieces of dust&r.\n\nYou have two choices:\n&e-&r &eBorosilicate Glass Dust&r — crafted in a &6Mixer&r with &dBoron&r and &fGlass Dust&r\n\n&e-&r &5Vitrified Asbestos&r — obtained through a &6Pyrolysis Oven&r\n\nGo with the one you have available!",
+    "quests.high_voltage.rocket_t1.desc": "Wow, it's time to build your &6Rocket&r!\n\nAssemble all the parts with &d8 Dense Rocket Alloy&r. To finish the insulation, you'll need &b2304mb&r of &bLiquid Silicon&r (&b16 ingots&r) and &f16 pieces of dust&r.\n\nYou have two choices:\n&e-&r &eBorosilicate Glass Dust&r — crafted in a &6Mixer&r with &dBoron&r and &fGlass Dust&r\n\n&e-&r &5Vitrified Asbestos&r — obtained through a &6Pyrolysis Oven&r\n\nGo with whichever's easiest for you!",
 
     "quests.high_voltage.vitrified_pearl.title": "Vitrified Ender Pearl",
     "quests.high_voltage.vitrified_pearl.subtitle": "An Exotic Ceramic",
@@ -174,50 +174,51 @@
     "quests.high_voltage.kaolinite_powder.desc": "So the bad news is you've got an upcoming reunion with an old friend. The good news is the reunion is at your own house!\n\nIf you've got any &4kaolinite&r left over from forever ago, time to dig it out of your old forge building and put it to use. And if you don't, well, now you can just make it at home!\n\nKaolinite will be used again in some upcoming recipes for industrial ceramics and heat shielding.",
 
     "quests.high_voltage.linked_quest_energy.title": "More information about energy",
-    "quests.high_voltage.linked_quest_energy.subtitle": "Gregtech Wiki",
-    "quests.high_voltage.linked_quest_energy.desc": "You are beginning to refine your fuels much better, you should be sure you had a look at the Energy Chapter.\n\nJust click here",
+    "quests.high_voltage.linked_quest_energy.subtitle": "GregTech Wiki",
+    "quests.high_voltage.linked_quest_energy.desc": "Still stuck using steam? Want to learn more about GregTech's energy system? Make sure you've look at the GregTech Energy quest chapter!",
     "quests.high_voltage.linked_quest_energy.task": "Have a look at the Energy Chapter",
 
     "quests.high_voltage.ev_machine_hull.title": "&5EV&r Machine Hull",
-    "quests.high_voltage.ev_machine_hull.subtitle": "That's half of Gregtech tiers",
-    "quests.high_voltage.ev_machine_hull.desc": "Well, that was quite the experience! Between the &9Rutile Processing&r line, the &5Vacuum Chamber&r, and the &5Cleanroom&r, you’ve uncovered a lot of new mechanics. \n\nThat’s great — because this is only the beginning.\n\nDid you walk on the &fMoon&r yet? If not, we strongly encourage you to go. You’ll encounter &dessential mechanics&r for later stages of the modpack and unlock &bAE2&r, all while gaining access to &aricher ore veins&r.\n\nIf you’ve already made your lunar journey, then we hope your infrastructure is solid — because it’s time to enter &5EV&r. This complex chapter will introduce &7even more advanced systems&r and take your factory to the next level.",
+    "quests.high_voltage.ev_machine_hull.subtitle": "That's half of the GregTech tiers done",
+    "quests.high_voltage.ev_machine_hull.desc": "Well, that was quite the experience! Between the &9Rutile Processing&r line, the &5Vacuum Chamber&r, and the &5Cleanroom&r, you’ve uncovered a lot of new mechanics. \n\nThat’s great — because this is probably only the halfway point of the modpack.\n\nDid you walk on the &fMoon&r yet? If not, we strongly encourage you to go. You’ll encounter &dessential mechanics&r for later stages of the modpack and unlock &bAE2&r, all while gaining access to &aricher ore veins&r.\n\nIf you’ve already made your lunar journey, then we hope your infrastructure is solid — because it’s time to enter &5EV&r. This complex chapter will introduce &7even more advanced systems&r and take your factory to the next level.",
 
     "quests.high_voltage.250_iq.title": "250IQ",
-    "quests.high_voltage.250_iq.subtitle": "Stop burning your darn hands!",
+    "quests.high_voltage.250_iq.subtitle": "Stop burning your hands!",
     "quests.high_voltage.250_iq.desc.1": "This is a guide on how to automatically route &lall&r your Hot Ingots to your Chemical Bath, while keeping everything automated in tip-top shape.\n\nThe cheap way would be to use filters, and manually add Hot Ingots one by one... which is so boring! Let's try the fun option.\n\nInstall an &aItem Tag Filter&r Cover on the side of your &3Chemical Bath&r, open it and set it to whitelist -&e&l*hot_ingots*&r-.\n\nFrom here, you can route with &9any logistics system&r of your choice.",
     "quests.high_voltage.250_iq.desc.2": "Connect the output of your &3EBF(s)&r to the input of your &3Chemical Bath&r and the output dump (Chest or Crate). You can also have a &dRestrictive Pipe&r in front of the output dump to ensure the Chemical Bath will be prioritized.\n\n&l&9Note:&r If you wish to know more tags for more automation setups, they will display if you press Shift when hovering over an item. For instance, an item tagged with &e&o#forge:plates/copper&r would be filtered as &e&lplates/copper&r.\n\n&9&lOther Note:&r The Item Tag Filter partially supports &dregex&r. Hover over the info icon for more information.",
 
     "quests.high_voltage.bedrock_miner.subtitle": "Unlimited ores?",
-    "quests.high_voltage.bedrock_miner.desc.1": "This may be the first time you encounter the &cBedrock Ore Miner&r, as it's rarely used in GregTech. \nIt functions similarly to the &bFluid Drilling Rig&r, except the veins it targets will &nnever deplete&r.\n\nIt doesn't consume much energy — running fine at &bMV&r or &6HV&r — and requires &ano input materials&r.\n\nSo, what's the catch? \nFinding the veins.",
-    "quests.high_voltage.bedrock_miner.desc.2": "You’ll need a &6HV&r Ore Prospector set to &oBedrock Ore Mode&r (&7Shift + Right Click&r), and a fair bit of patience. Once you find your target, you’ll also have to figure out how to bring the resources back to your outpost.\n\nOn the &fMoon&r, you can find 5 unique bedrock ore veins:\n\n&7- Copper and Tin&r: Contains &6Chalcopyrite&r, &eZeolite&r and &fCassiterite&r\n&7- Tin Vein&r: Contains mainly &fCassiterite&r and &fTin&r\n&7- Asbestos&r\n&7- Magnetite (Iron) and Gold&r: Very rare don't actively search for it\n&7- An &dextremely rare&r one with Certus Quartz and Quartzite. If you find it, you’ll be thrilled. If not, just live in peace. Don’t worry.",
+    "quests.high_voltage.bedrock_miner.desc.1": "This may be the first time you encounter the &cBedrock Ore Miner&r, as it's rarely used in GregTech. \nIt functions similarly to the &bFluid Drilling Rig&r, except the veins it targets will &nnever deplete&r.\n\nIt doesn't consume much energy — running fine at &bMV&r or &6HV&r — and requires &ano input materials&r.\n\nSo, what's the catch?\nFinding the veins.",
+    "quests.high_voltage.bedrock_miner.desc.2": "You’ll need a &6HV&r Ore Prospector set to &oBedrock Ore Mode&r (&7Shift + Right Click&r), and a fair bit of patience. Once you find your target, you’ll also have to figure out how to bring the resources back to your outpost.\n\nOn the &fMoon&r, you can find your first bedrock ore veins, allowing you to passively obtain several essential elements completely for free, forever. Check JEI to see what's available! The higher the Weight, the more common the vein is.\n\nSince these will be so spread apart, this sounds like a great excuse to build a &7moon train&r!",
 
-    "quests.high_voltage.space_alloy.title": "Space Alloy",
-    "quests.high_voltage.space_alloy.subtitle": "It's a new material",
-    "quests.high_voltage.space_alloy.desc.1": "To make the &6Rocket Alloy&r, you will need to put &7Aluminium&r, &7Stainless Steel&r and &cLiquid Red Steel&r into your new &6HV&r Mixer.\n\nThe recipe takes some time, so expect to have your mixer fully dedicated to this step.\n\nAfter that, your dust will need to be smelted in your EBF at &bMV&r. If you already have &6Nichrome Coils&r and your EBF is running at &6HV&r, you will be able to &aPerfect Overclock&r the recipe (&7check the Gregtech Energy chapter if you don't understand&r).",
-    "quests.high_voltage.space_alloy.desc.2": "You can also cool the ingots down with a &9Chemical Bath&r or, if you already have one, a &9Vacuum Freezer&r for a shorter processing time.\n\n&7144mb equals 1 ingot&r, so make sure not to extract too much &cRed Steel&r.\n\nYou will need &685 Rocket Alloy&r ingots total, which means:\n- &760 Aluminium&r\n- &720 Stainless Steel&r\n- &710 Red Steel&r\n\n&aNothing too bad!&r",
+    "quests.high_voltage.space_alloy.title": "R-Aluminosteel",
+    "quests.high_voltage.space_alloy.subtitle": "We made this one up",
+    "quests.high_voltage.space_alloy.desc.1": "To make your first &6Rocket Alloy&r, you will need to put &7Aluminium&r, &7Stainless Steel&r and &cLiquid Red Steel&r into your new &6HV&r Mixer.\n\nThe recipe takes some time, so expect to have your mixer fully dedicated to this step.\n\nAfter that, your dust will need to be smelted in your EBF at &bMV&r. If you already have &6Nichrome Coils&r and your EBF is running at &6HV&r, you will be able to &aPerfect Overclock&r the recipe! (check the GregTech Energy chapter if you don't understand)",
+    "quests.high_voltage.space_alloy.desc.2": "You can cool the ingots down with a &9Chemical Bath&r or, if you already have one, a &9Vacuum Freezer&r for a shorter processing time.\n\n&7144mb equals 1 ingot&r, so make sure not to extract too much &cRed Steel&r.\n\nYou will need &685 Rocket Alloy&r ingots total, which means:\n- &760 Aluminium&r\n- &720 Stainless Steel&r\n- &710 Red Steel&r\n\n&aNothing too bad!&r",
 
-    "quests.high_voltage.steel_engine.subtitle": "Blue Steel is back baby",
+    "quests.high_voltage.steel_engine.subtitle": "Blue Steel is back, baby",
     "quests.high_voltage.steel_engine.desc": "The &6Steel Engine&r is required so your rocket can &atravel to the Moon&r.\n\nThe recipe isn't too bad — we assume you're ready to tackle each part.\n\nTo get &91152mb of Liquid Blue Steel&r, you will need &78 ingots&r.",
 
     "quests.high_voltage.rocket_fins.subtitle": "So you reach the right destination",
-    "quests.high_voltage.rocket_fins.desc": "We made the &6Rocket Fins&r use an &bAlloy Smelter&r simply to remind you that you now have access to the &bMulti-Smelter&r — a wonderful small EBF that can be used as a &eFurnace&r or an &bAlloy Smelter&r.\n\nThe quest to craft it is in the &bMV&r Chapter. We really advise you to think about it if you haven't yet.",
+    "quests.high_voltage.rocket_fins.desc": "We made the &6Rocket Fins&r use an &bAlloy Smelter&r simply to remind you that you now have access to the &bMulti-Smelter&r — a wonderful small EBF that can be used both as a &eFurnace&r and an &bAlloy Smelter&r.\n\nThe quest to craft it is in the &bMV&r Chapter. We really advise you to think about it if you haven't yet.",
 
     "quests.high_voltage.rocket_nose_cone.subtitle": "The nose knows...",
     "quests.high_voltage.rocket_nose_cone.desc": "The &6Rocket Nose Cone&r is the hardest part of your Rocket.\nYou will need a hefty amount of &aPolyethylene&r — so we hope you already have it passively produced — and a &6HV&r Emitter.\nYou should be able to get your hands on &dChromium&r by electrolyzing &cRuby Dust&r.\n\nThe &aVitrified Ender Pearl&r is trickier and requires you to follow the quest unlocked by the &6HV Chemical Reactor&r.\nGet ready to make &cTNT&r, build an &5Implosion Compressor&r, and recreate the famous Enderman drop — since you won’t find Ender Pearls natively in &2TFG&r.",
 
-    "quests.high_voltage.launch_pad.subtitle": "Without it impossible to launch",
-    "quests.high_voltage.launch_pad.desc": "&6The Launch Pad is indispensable to launch your Rocket.&r That's the only block on which you will be able to put your Rocket.\n\n&cReally important&r but you will need &cTWO Launch Pads&r as it will stay on your launching site and you will need another one to travel back.",
+    "quests.high_voltage.launch_pad.subtitle": "Ready for launch in T-10...",
+    "quests.high_voltage.launch_pad.desc": "The Launch Pad is &6required&r to launch your Rocket — you can't just place it on any old block!\n\n&cTriple check&r that you bring a &csecond Launch Pad&r with you, as you will need another one for the return trip!",
 
-    "quests.high_voltage.rocket_fuel.title": "&dRocket &bFuel&r",
+    "quests.high_voltage.rocket_fuel.title": "Rocket Fuel",
     "quests.high_voltage.rocket_fuel.subtitle": "Easier than you think",
-    "quests.high_voltage.rocket_fuel.desc": "&6For each travel you will need Rocket Fuel&r, it seems complicated and it is quite a long process but you can make Rocket Fuel from &bChlorine&r, &bMethane&r, &bNitrogen&r, &bOxygen&r and &bWater&r. Nothing too bad, also if you already have your &5Large Chemical Reactor&r you could unlock some bypass.\n\n&7We advise you to use EMI Recipe Tree to have an easier time understanding each step. Simply click on the small icon with 4 squares on the right of the crafting recipe.&r",
+    "quests.high_voltage.rocket_fuel.desc": "For each trip in your rocket, you will need &6three buckets of Rocket Fuel&r. It may look complicated (and to be fair, it does have a lot of steps) but all you need is &bChlorine&r, &bMethane&r, &bNitrogen&r, &bOxygen&r and &bWater&r. Nothing too bad!\n\nIf you already have a &5Large Chemical Reactor&r, you could even skip some steps!\n\nIf you haven't use it yet, this is a good point to check out the &7EMI Recipe Tree&r to have an easier time. Simply click on the small icon with 4 squares on the right of the crafting recipe, then hover over the question mark at the bottom right of your screen for full instructions!",
 
     "quests.high_voltage.space_suit.title": "Space Suit",
-    "quests.high_voltage.space_suit.subtitle": "Let's be honest, this may be the hardest",
-    "quests.high_voltage.space_suit.desc": "&6Before crossing the last Earth boundary,&r you should be sure to not die when you arrive on the moon.\n\nTo do that, you're gonna need a full set of Space Suit loaded with &ba breathable gas&r — and if you're careful, even a &ebackup can&r.\n\n&cThe hardest part&r will definitely be the &dPolycaprolactam Fabric&r.\n\nYou will need an &cEBF&r and a &6HV&r &eChemical Reactor&r.\n\nFrom there, you'll be able to craft it using &aBenzene&r, &bHydrogen&r, &9Chlorine&r, &bOxygen&r and &3Ammonia&r.\n\nWe won't tell you every step, but you should be able to figure it out yourself through &aEMI&r now that you're a fierce Gregtech player.\n\nOnce everything is ready, to fill your space suit and can, simply &eRight-Click&r a drum or tank filled with &bOxygen&r.",
+    "quests.high_voltage.space_suit.subtitle": "This may be the hardest part",
+    "quests.high_voltage.space_suit.desc.1": "We know you're eager to get going, but you'll need a space suit if you want to live for more than a few seconds on the moon, loaded with a &bbreathable gas&r — and if you want to refill it without taking it off, a &eGas Tank&r.\n\nThe hardest part will definitely be the &dPolycaprolactam Fabric&r (also known as Nylon).\n\nYou will need an EBF and an &6HV&r &eChemical Reactor&r.\n\nFrom there, you'll be able to craft it using &aBenzene&r, &bHydrogen&r, &9Chlorine&r, &bOxygen&r, and &3Ammonia&r.\n\nWe won't tell you every step, but you should be able to figure it out yourself through &aEMI&r now that you're a fierce GregTech player.",
+    "quests.high_voltage.space_suit.desc.2": "Once everything is ready, simply &eRight-Click&r a drum or tank filled with a breathable gas like &bCompressed Nitrox&r to fill them up, just like a bucket. 1000mB will last you for 20 minutes. Once you've got your space suit on, you can \"drink\" from the Gas Tank to fill up your suit.\n\nYou may also find it helpful to take a peek at the Space Survival quest chapter, in case there's anything else you'd like to bring with you!",
     "quests.high_voltage.space_suit.task": "Fill it and drink it",
 
-    "quests.high_voltage.welcome_moon.title": "I'm on the &3Moon&r",
+    "quests.high_voltage.welcome_moon.title": "I'm on the &3Moon&r!",
     "quests.high_voltage.welcome_moon.subtitle": "Hope you have everything to come back",
-    "quests.high_voltage.welcome_moon.desc": "&2Congrats&r, you’ve successfully landed on the &7Moon&r!\nHere, you’ll find &bCertus Quartz&r veins, allowing you to begin unlocking &dAE2&r.\n\nBut that’s not all—some veins here have much higher density than those on Earth.\n\nFor instance, you can easily find &6Ilmenite&r, &7Bauxite&r, &7Aluminium&r, and &5Chromite&r veins on the Moon.\nEstablishing a small base here will be crucial to keep progressing.\n\nYour biggest challenge will be transporting resources, as there are no easy cross-dimensional tools like the &5Ender Chest&r or &dAE2 Quantum Link&r just yet."
+    "quests.high_voltage.welcome_moon.desc": "&2Congrats&r, you’ve successfully landed on the &7Moon&r!\nHere, you’ll find &bCertus Quartz&r veins and the meteors that allow you to begin unlocking &dAE2&r.\n\nBut that’s not all — some veins here have much higher density than those on Earth.\n\nFor instance, you can easily find &6Ilmenite&r, &7Bauxite&r, &7Aluminium&r, and &5Chromite&r veins on the Moon.\nEstablishing a small base here will be crucial to keep progressing.\n\nYour biggest challenge will be transporting resources, as there are no easy cross-dimensional tools like the &5Ender Chest&r or &dAE2 Quantum Link&r just yet.\n\nWe hope you're well prepared, unless you want to craft a second rocket and space suit just to go collect your corpse!"
 }
