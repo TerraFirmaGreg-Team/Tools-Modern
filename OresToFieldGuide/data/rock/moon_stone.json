@@ -3,6 +3,7 @@
 	"pattern": "gtceu:moon_stone_{0}_ore",
 	"translations": {
 		"en_us": "Anorthosite",
+		"pt_br": "Anortosito",
 		"ru_ru": "Анортозит",
 		"uk_ua": "Анортозит"
 	},

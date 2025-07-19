@@ -3,6 +3,7 @@
 	"pattern": "gtceu:andesite_{0}_ore",
 	"translations": {
 		"en_us": "Andesite",
+		"pt_br": "Andesito",
 		"ru_ru": "Андезит",
 		"uk_ua": "Андезит"
 	},

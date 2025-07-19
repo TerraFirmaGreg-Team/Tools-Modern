@@ -1,28 +1,34 @@
 ﻿using System.IO;
 using System.Text.Json;
+using Common;
 
 namespace MarsBiomes
 {
 	public class Program
 	{
-		const string c_inputDimsPath = "../../../unmodified_dimension.json";
-		const string c_biomeGroupsPath = "../../../biome_groups.json";
-		const string c_outputDimsPath = "../../../../../kubejs/data/ad_astra/dimension/mars.json";
-
-		// TODO: Write the noise generator file as well
-
 		public static void Main(string[] args)
 		{
+			var modpackDir = CommonUtil.GetModpackDirectory();
+
 			// Read inputs
 
-			var dim = JsonSerializer.Deserialize<DimensionFile>(File.ReadAllText(c_inputDimsPath));
-			var groups = JsonSerializer.Deserialize<BiomeGroupFile>(File.ReadAllText(c_biomeGroupsPath));
+			var cwd = Directory.GetCurrentDirectory();
+			var inputPath = cwd.Substring(0, cwd.IndexOf("MarsBiomes") + "MarsBiomes".Length);
+
+			var dim = JsonSerializer.Deserialize<DimensionFile>(File.ReadAllText(Path.Combine(inputPath, "unmodified_dimension.json")))!;
+			var groups = JsonSerializer.Deserialize<BiomeGroupFile>(File.ReadAllText(Path.Combine(inputPath, "biome_groups.json")))!;
 
 
 			// Swap vanilla biomes for tfg ones
 
-			foreach (var biome in dim.Generator.BiomeSource.Biomes)
+			foreach (var biome in dim.Generator.Generator.BiomeSource.Biomes.ToList())
 			{
+				if (biome.Parameters.Depth != 0)
+				{
+					dim.Generator.Generator.BiomeSource.Biomes.Remove(biome);
+					continue;
+				}
+
 				foreach (var group in groups.Groups)
 				{
 					if (group.VanillaBiomes.Contains(biome.Name) && group.MarsBiome != null)
@@ -39,7 +45,9 @@ namespace MarsBiomes
 				WriteIndented = true
 			};
 
-			File.WriteAllText(c_outputDimsPath, JsonSerializer.Serialize(dim, options));
+			var dataDir = CommonUtil.GetKJSDataFolder(modpackDir);
+
+			File.WriteAllText(Path.Combine(dataDir, "ad_astra/dimension/mars.json"), JsonSerializer.Serialize(dim, options));
 		}
 	}
 }
