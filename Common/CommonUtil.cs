@@ -27,5 +27,16 @@
 
 			return kjsAssetsFolder;
 		}
+
+		public static string GetKJSDataFolder(string modpackFolder)
+		{
+			string kjsDataFolder = Path.Combine(modpackFolder, "kubejs", "data");
+			if (!Directory.Exists(kjsDataFolder))
+			{
+				throw new DirectoryNotFoundException($"The \"data\" folder was not found in {kjsDataFolder}");
+			}
+
+			return kjsDataFolder;
+		}
 	}
 }

@@ -3,6 +3,7 @@
 	"pattern": "gtceu:rhyolite_{0}_ore",
 	"translations": {
 		"en_us": "Rhyolite",
+		"pt_br": "Riolito",
 		"ru_ru": "Риолит",
 		"uk_ua": "Ріоліт"
 	},

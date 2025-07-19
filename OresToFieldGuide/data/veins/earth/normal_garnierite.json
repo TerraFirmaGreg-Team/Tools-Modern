@@ -65,6 +65,11 @@
 			"info": "Can't find it? Gabbro always spawns below $(thing)Basalt$(), and Gabbro dikes in oceans can be useful too!"
 		},
 		{
+			"lang": "pt_br",
+			"text": "Garnierita e Cobaltita",
+			"info": "Não consegue encontrar? O Gabro sempre gera abaixo do $(thing)Basalto$(), e diques de Gabro nos oceanos também podem ser úteis!"
+		},
+		{
 			"lang": "ru_ru",
 			"text": "Гарниерит и Кобальтит",
 			"info": "Не получается найти это? Габбро всегда генерируется под $(thing)Базальтом$(), а на дне океана легко обнаружить столбы, ведущие к нижнему слою!"

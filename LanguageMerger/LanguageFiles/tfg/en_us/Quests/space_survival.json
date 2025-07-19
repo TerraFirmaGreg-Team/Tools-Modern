@@ -22,7 +22,7 @@
 
 	"quests.space_survival.chorus.title": "Chorus Fruit",
 	"quests.space_survival.chorus.subtitle": "Is this the End?",
-	"quests.space_survival.chorus.desc": "&5Chorus Fruit&r serves a pretty crucial role on the Moon - it will be your main source of &3Nitrogen&r. To get started, find some Chorus Plants, parkour up to the top, and break the &5Chorus Flowers&r. Breaking the plant from the bottom will not get you any of the Chorus Flowers! Next up, grow the Chorus Flowers in an Electric Greenhouse to get a renewable source of Chorus Fruit, and from there, you can process them into &aBiomass&r and &3Nitrogen&r with a Brewery and Fermenter respectively. You can also distill the Biomass into Carbon for more Rocket Fuel!",
+	"quests.space_survival.chorus.desc": "&5Chorus Fruit&r serves a pretty crucial role on the Moon - it will be your main source of Nitrogen. To get started, find some Chorus Plants, parkour up to the top, and break the &5Chorus Flowers&r. Breaking the plant from the bottom will not get you any of the Chorus Flowers! Next up, grow the Chorus Flowers in an Electric Greenhouse to get a renewable source of Chorus Fruit, and from there, you can process them into Biomass and Nitrogen with a Brewery and Fermenter respectively. You can also distill the Biomass into Carbon for more Rocket Fuel!",
 
 	"quests.space_survival.rover.title": "Space Rover",
 	"quests.space_survival.rover.subtitle": "Your getaway vehicle",
@@ -34,8 +34,8 @@
 
 	"quests.space_survival.stone_dust_centrifuging.title": "Helium-3",
 	"quests.space_survival.stone_dust_centrifuging.subtitle": "Clown gas",
-	"quests.space_survival.stone_dust_centrifuging.desc.1": "The Moon is full of &eHelium-3&r, another important resource, but it's stuck inside the stone! There's two ways to get your hands on some:\n\n1) If you haven't set up any stone dust centrifuging automation before, here's a quick introduction: A &9Rock Crusher&r can produce infinite raw stone, which a &9Macerator&r crushes into dust for a &9Centrifuge&r to process.\n\nHere on the Moon, &bAnorthosite&r, &bNorite&r, and &bPhonolite&r can thus be processed into an infinite source of &eHelium-3&r!",
-	"quests.space_survival.stone_dust_centrifuging.desc.2": "2) Pump it out of the ground with a &9Fluid Rig&r This method is simpler, but doesn't come with any useful byproducts.\n\nHelium-3 is used for several things, of which the most important is making more &cair to breathe&r via &6Heliox-3&r! You can also use it as \"fertiliser\" for Chorus Fruit in the Electric Greenhouse, and eventually as another fuel for Fusion Power.",
+	"quests.space_survival.stone_dust_centrifuging.desc.1": "The Moon is full of &eHelium-3&r, another important resource, but it's stuck inside the stone! There's two ways to get your hands on some:\n\n1) If you haven't set up any stone dust centrifuging automation before, here's a quick introduction: A Rock Crusher can produce infinite raw stone, which a Macerator crushes into dust for a Centrifuge to process.\n\nHere on the Moon, Anorthosite, Norite, and Phonolite can thus be processed into an infinite source of Helium-3!",
+	"quests.space_survival.stone_dust_centrifuging.desc.2": "2) Pump it out of the ground with a &9Fluid Rig&r This method is simpler, but doesn't come with any useful byproducts.\n\nHelium-3 is used for several things, of which the most important is making more air to breathe via &6Heliox-3&r! You can also use it as \"fertiliser\" for Chorus Fruit in the Electric Greenhouse, and eventually as another fuel for Fusion Power.",
 	"quests.space_survival.stone_dust_centrifuging.task": "Any ",
 
 	"quests.space_survival.compressed_gases.title": "Compressed Breathable Gases",
@@ -50,7 +50,7 @@
 	"quests.space_survival.air_distributor.title": "Setting up a permanent base",
 	"quests.space_survival.air_distributor.subtitle": "A holiday home",
 	"quests.space_survival.air_distributor.desc.1": "So far you may be surviving, but do you want to truly &othrive&r? If you're wanting to set up a more permanent base, look no further than the &6Air Distributor&r! Feed it one of the compressed gases from earlier and it will \"oxygenate\" a large enclosed area, letting you take your helmet off, grow crops, and place a water source without it freezing.\n\nAny solid block will work to build your base out of, but you'll want a proper airlock to ensure the gas doesn't all escape in a &cvortex&r.",
-	"quests.space_survival.air_distributor.desc.2": "The oxygenated area will be at a constant 15C for any crops you'd like to grow (though the Electric Greenhouse doesn't mind), and the water source staying liquid will also let you easily electrolyze it for a source of &bOxygen&r. You can also use a Diode block to transfer power through the walls while keeping them sealed.",
+	"quests.space_survival.air_distributor.desc.2": "The oxygenated area will be at a constant 15C for any crops you'd like to grow (though the Electric Greenhouse doesn't mind), and the water source staying liquid will also let you easily electrolyze it for a source of &bOxygen&r. You can also use a Diode block to transfer power through the walls while keeping them sealed, just like in a cleanroom.",
 
 	"quests.space_survival.oxygen_info.title": "More Moon base machines",
 	"quests.space_survival.oxygen_info.subtitle": "Home comforts",
@@ -58,7 +58,7 @@
 
 	"quests.space_survival.bedrock_mining.title": "Bedrock mining",
 	"quests.space_survival.bedrock_mining.subtitle": "You'll never run out of copper again!",
-	"quests.space_survival.bedrock_mining.desc": "If you've ever pumped oil before, &9Bedrock Veins&r are the equivalent of that but for raw ores. And if you haven't? It's like oil pumping.\n\nJokes aside, these multiblocks can provide a constant, &cinfinite&r source of some ores for the rest of your game. Wow, that sounds too good to be true, doesn't it? What's the catch? Finding the veins.\n\nThey're spread far apart and don't exist on Earth, meaning you'll want to set up some way to ship the ores back to your main base. (&aTrains&r are fantastic here!)\n\nCheck out JEI to see what ores are available on the Moon, then find the veins with your &6HV Ore Prospector&r set to &oBedrock Ore Mode&r (sneak + right-click)!",
+	"quests.space_survival.bedrock_mining.desc": "If you've ever pumped oil before, &9Bedrock Veins&r are the equivalent of that but for raw ores. And if you haven't? It's like oil pumping.\n\nJokes aside, these multiblocks can provide a constant, &cinfinite&r source of some ores for the rest of your game. Wow, that sounds too good to be true, doesn't it? What's the catch? Finding the veins.\n\nThey're spread far apart and don't exist on Earth, meaning you'll want to set up some way to ship the ores back to your main base. (&aTrains&r are fantastic here!)\n\nCheck out JEI to see what ores are available on the Moon, then find the veins with your HV Ore Prospector set to &oBedrock Ore Mode&r (sneak + right-click)!",
 
 	"quests.space_survival.railgun.title": "Interplanetary Railgun",
 	"quests.space_survival.railgun.subtitle": "Ender chest? Never heard of her!",

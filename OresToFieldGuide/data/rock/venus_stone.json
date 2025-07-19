@@ -3,6 +3,7 @@
 	"pattern": "gtceu:venus_stone_{0}_ore",
 	"translations": {
 		"en_us": "Trachyte",
+		"pt_br": "Traquito",
 		"ru_ru": "Трахит",
 		"uk_ua": "Трахіт"
 	},

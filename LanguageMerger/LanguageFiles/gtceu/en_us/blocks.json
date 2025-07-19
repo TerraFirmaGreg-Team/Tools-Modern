@@ -6,6 +6,7 @@
     "block.gtceu.greenhouse": "Greenhouse",
     "block.gtceu.steam_bloomery": "Steam Bloomery",
     "block.gtceu.large_solar_panel": "Large Solar Panel",
+    "block.gtceu.gas_pressurizer": "Gas Pressurizer",
 
     "block.gtceu.copper_crate": "Copper Crate",
     "block.gtceu.copper_drum": "Copper Drum",
@@ -23,5 +24,6 @@
     "gtceu.steam_bloomery": "Steam Bloomery",
     "gtceu.food_oven": "Food Oven",
     "gtceu.food_processor": "Food Processor",
-    "gtceu.large_solar_panel": "Large Solar Panel"
+    "gtceu.large_solar_panel": "Large Solar Panel",
+    "gtceu.gas_pressurizer": "Gas Pressurizer"
 }

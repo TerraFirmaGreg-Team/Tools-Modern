@@ -36,6 +36,9 @@
     "material.tfg.kaolinite": "Kaolinite",
     "material.tfg.vitrified_pearl": "Vitrified Ender",
 
+    "material.tfg.aes_mix": "Alkaline Earth Silicate Mixture",
+    "material.tfg.molten_aes": "Molten Alkaline Earth Silicate",
+
     "material.tfg.compressed_nitrox": "Compressed Nitrox",
     "material.tfg.compressed_heliox": "Compressed Heliox",
     "material.tfg.compressed_heliox_3": "Compressed Heliox-3",

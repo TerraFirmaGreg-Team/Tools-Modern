@@ -114,7 +114,7 @@
 
     "quests.tfg_tips.glass_blocks.title": "Glass Blocks",
     "quests.tfg_tips.glass_blocks.subtitle": "Get yourself some windows.",
-    "quests.tfg_tips.glass_blocks.desc": "Depending on the type of sand used for the &aGlass Batch&r, your final &dGlass&r will have different colors. Check out the &2Field Guide&r section on &3Glassblowing&r to learn other ways to make specific colors. Later on, you'll be able to use &3Gregtech&r chemicals to dye glass more easily.\n\n&3&lTip:&r&o If you're looking to make a lot of Glass Blocks and have access to an &bAlloy Smelter&f, it's more efficient to make &dGlass Panes&f, &bmacerating&f them, crafting into &dDust&f and then using the &aBlock Mold&f, since one batch can make up to 16 Small Dusts at a time!",
+    "quests.tfg_tips.glass_blocks.desc": "Depending on the type of sand used for the &aGlass Batch&r, your final &dGlass&r will have different colors. Check out the &2Field Guide&r section on &3Glassblowing&r to learn other ways to make specific colors. Later on, you'll be able to use &3GregTech&r chemicals to dye glass more easily.\n\n&3&lTip:&r&o If you're looking to make a lot of Glass Blocks and have access to an &bAlloy Smelter&f, it's more efficient to make &dGlass Panes&f, &bmacerating&f them, crafting into &dDust&f and then using the &aBlock Mold&f, since one batch can make up to 16 Small Dusts at a time!",
 
     "quests.tfg_tips.lamps.title": "Lamps",
     "quests.tfg_tips.lamps.subtitle": "These are pretty.",
@@ -258,7 +258,7 @@
 
     "quests.tfg_tips.grapple_motor.title": "Grappling Hook Upgrade: Motor",
     "quests.tfg_tips.grapple_motor.subtitle": "That lazy, huh?",
-    "quests.tfg_tips.grapple_motor.desc": "The &aMotor Upgrade&r enables automatic reeling in with your &dHook.&r Caution should be taken as &chigh level motors&r may cause you to take &4fall damage&r from the reeling force.\n\nMotors are tiered according to &2Gregtech&r voltage tiers. The crafting recipes tells you exactly what stats were modified and by how much.",
+    "quests.tfg_tips.grapple_motor.desc": "The &aMotor Upgrade&r enables automatic reeling in with your &dHook.&r Caution should be taken as &chigh level motors&r may cause you to take &4fall damage&r from the reeling force.\n\nMotors are tiered according to &2GregTech&r voltage tiers. The crafting recipes tells you exactly what stats were modified and by how much.",
 
     "quests.tfg_tips.grapple_smart_motor.title": "Grappling Hook Upgrade: Smart Motor",
     "quests.tfg_tips.grapple_smart_motor.subtitle": "Does anyone even know what this does?",
@@ -266,11 +266,11 @@
 
     "quests.tfg_tips.grapple_field.title": "Grappling Hook Upgrade: Repulsion Field",
     "quests.tfg_tips.grapple_field.subtitle": "Look ma! I'm levitating!",
-    "quests.tfg_tips.grapple_field.desc": "The &aRepulsion Field Upgrade&r causes you to be repelled from nearby blocks. Caution should be taken as &chigh level repulsion strength&r may cause you to take &4fall damage.&r\n\nRepulsion Fields are tiered according &2Gregtech&r voltage tiers. The crafting recipe tells you exactly what stats were modified and by how much.",
+    "quests.tfg_tips.grapple_field.desc": "The &aRepulsion Field Upgrade&r causes you to be repelled from nearby blocks. Caution should be taken as &chigh level repulsion strength&r may cause you to take &4fall damage.&r\n\nRepulsion Fields are tiered according &2GregTech&r voltage tiers. The crafting recipe tells you exactly what stats were modified and by how much.",
 
     "quests.tfg_tips.grapple_magnet.title": "Grappling Hook Upgrade: Hook Magnet",
     "quests.tfg_tips.grapple_magnet.subtitle": "Intense Attraction",
-    "quests.tfg_tips.grapple_magnet.desc": "The &aMagnet Upgrade&r causes your &dHook&r to be attracted to any nearby blocks, latching onto them.\n\nMagnet Upgrades are tiered using &2Gregtech's&r Magnetic Ingots, with the worst one being &bMagnetic Iron&r and the best being &bMagnetic Samarium.&r",
+    "quests.tfg_tips.grapple_magnet.desc": "The &aMagnet Upgrade&r causes your &dHook&r to be attracted to any nearby blocks, latching onto them.\n\nMagnet Upgrades are tiered using &2GregTech's&r Magnetic Ingots, with the worst one being &bMagnetic Iron&r and the best being &bMagnetic Samarium.&r",
     "quests.tfg_tips.grapple_magnet.task": "Any Magnetic Ingot",
 
     "quests.tfg_tips.grapple_sticky.title": "Grappling Hook Upgrade: Sticky Rope",
@@ -279,7 +279,7 @@
 
     "quests.tfg_tips.grapple_throw_speed.title": "Grappling Hook Upgrade: Throw Speed",
     "quests.tfg_tips.grapple_throw_speed.subtitle": "Yeet!",
-    "quests.tfg_tips.grapple_throw_speed.desc": "The &aThrow Speed Upgrade&r causes your &dHook&r to launch faster.\n\nThrow Speed upgrades are tiered according &2Gregtech&r voltage tiers. The crafting recipe tells you exactly what stats were modified and by how much.",
+    "quests.tfg_tips.grapple_throw_speed.desc": "The &aThrow Speed Upgrade&r causes your &dHook&r to launch faster.\n\nThrow Speed upgrades are tiered according &2GregTech&r voltage tiers. The crafting recipe tells you exactly what stats were modified and by how much.",
 
     "quests.tfg_tips.grapple_double.title": "Grappling Hook Upgrade: Double Hook",
     "quests.tfg_tips.grapple_double.subtitle": "Double the Fun!",
@@ -454,7 +454,7 @@
 
     "quests.tfg_tips.steam_upgrades.title": "Aircraft Upgrades: Steam",
     "quests.tfg_tips.steam_upgrades.subtitle": "Immersive Aircraft meets GregTech Tiering!",
-    "quests.tfg_tips.steam_upgrades.desc": "The second kind of aircraft upgrades are the &dTiered Upgrades.&r These are made to match the &3Gregtech&r tiering system, going from &8Steam&r up to &5EV.&r\n\nSteam upgrades are the easiest and earliest to craft, requiring at the very least knowledge of &bBlack Steel.&r\n\n&dSteam-powered Aircraft Engines&r are used in the creation of more sophisticated aircrafts such as the &eBiplane&r and the &cWarship.&r",
+    "quests.tfg_tips.steam_upgrades.desc": "The second kind of aircraft upgrades are the &dTiered Upgrades.&r These are made to match the &3GregTech&r tiering system, going from &8Steam&r up to &5EV.&r\n\nSteam upgrades are the easiest and earliest to craft, requiring at the very least knowledge of &bBlack Steel.&r\n\n&dSteam-powered Aircraft Engines&r are used in the creation of more sophisticated aircrafts such as the &eBiplane&r and the &cWarship.&r",
     "quests.tfg_tips.steam_upgrades.task": "Any steam tier aircraft upgrade",
 
     "quests.tfg_tips.lv_upgrades.title": "Aircraft Upgrades: LV",
@@ -784,7 +784,7 @@
 
     "quests.tfg_tips.how_to_go_beneath.title": "How to go to The Beneath",
     "quests.tfg_tips.how_to_go_beneath.subtitle": "No Obsidian Required",
-    "quests.tfg_tips.how_to_go_beneath.desc": "To reach &4The Beneath&r, you will have to stand on &bOverworld Bedrock&r for a couple of seconds, after which you will be &oteleported&r to down there.\n\n&3&lTip:&r&o Make sure to dig out a large space above the bedrock where you'll be standing, so when you get teleported back to the Overworld, the game won't send you in some random cave while it's trying to search for enough air blocks.",
+    "quests.tfg_tips.how_to_go_beneath.desc": "To reach &4The Beneath&r, you will have to stand on &bOverworld Bedrock&r for a couple of seconds, after which you will be &oteleported&r down under.\n\n&3&lTip:&r&o You'll keep exactly the same X and Z coordinates, so it may teleport you inside some rock. It'll give you a 3x3x3 space to work with though, so be sure to bring some supports for tunneling your way out!",
     "quests.tfg_tips.how_to_go_beneath.task.1": "Reach and Stand on top of Bedrock",
     "quests.tfg_tips.how_to_go_beneath.task.2": "Visit the Beneath",
 
@@ -840,6 +840,11 @@
 
     "quests.tfg_tips.tools_tips.cryodesiccation.title": "Cryodesiccation",
     "quests.tfg_tips.tools_tips.cryodesiccation.subtitle": "The factory has no time for \"flavor\".",
-    "quests.tfg_tips.tools_tips.cryodesiccation.desc": "&l&bCryodesiccation&r&r is the process of dehydrating food at very low temperatures. Food with the trait \"Cryodesiccated\" lasts considerably longer than other food preservation methods."
+    "quests.tfg_tips.tools_tips.cryodesiccation.desc": "&l&bCryodesiccation&r&r is the process of dehydrating food at very low temperatures. Food with the trait \"Cryodesiccated\" lasts considerably longer than other food preservation methods.",
+
+    "quests.tfg_tips.tools_tips.harvest_basket.title": "Harvest Baskets",
+    "quests.tfg_tips.tools_tips.harvest_basket.subtitle": "For competitive pie bakers.",
+    "quests.tfg_tips.tools_tips.harvest_basket.task": "Any #tfg:harvester",
+    "quests.tfg_tips.tools_tips.harvest_basket.desc": "&l&2Harvest Baskets&r&r are a new tool made just for &5TFG&r! These baskets can be used to harvest whole trees and bushes of fruit in one right-click! A regular &6Harvest Basket&r has a base durability of &n128&r. But an &3Aluminium Harvest Basket&r takes no damage on use."
     //#endregion
 }

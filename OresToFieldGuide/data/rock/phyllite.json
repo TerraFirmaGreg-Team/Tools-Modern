@@ -3,6 +3,7 @@
 	"pattern": "gtceu:phyllite_{0}_ore",
 	"translations": {
 		"en_us": "Phyllite",
+		"pt_br": "Filito",
 		"ru_ru": "Филлит",
 		"uk_ua": "Філіт"
 	},
