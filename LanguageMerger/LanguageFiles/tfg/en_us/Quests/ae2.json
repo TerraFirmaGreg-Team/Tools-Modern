@@ -20,7 +20,7 @@
     "quests.ae2.hv_machines.desc": "The &eSifter&r is used for ore processing to increase your yield of &bCertus Quartz&r, &7Quartzite&r, &fNether Quartz&r, &cRuby&r, and &dArmalcolite&r—all of which are essential for AE2. Alternatively, you can smelt the ores directly in a Furnace if you're in a rush, but you'll lose out on a lot of free resources by doing that.\n\nThe second machine, the &eMixer&r, is your only method to create &dFluix Crystals&r (more about that in the next quest). Don’t forget that you can also use the &6Greate Mixer&r as a &6HS&r-tier machine.\n\nThirdly, a Laser Engraver can combine lesser quality gems together into Exquisite, which will give you better Fluix yields.\n\nLastly, keep in mind that an &aAutoclave&r can help you generate even more gems from dusts. Once you have the resources, crafting one will make your life significantly easier.",
     "quests.ae2.hv_machines.task": "Greate or GregTech?",
 
-    "quests.ae2.fluix_crystal.subtitle": "Energistic Alloy",
+    "quests.ae2.fluix_crystal.subtitle": "Energetic Crystal",
     "quests.ae2.fluix_crystal.desc": "As you can see, there are multiple ways to create &dFluix Crystals&r using a &eMixer&r.\n\nThe higher the purity of your input gems, the better the yield—that’s exactly why we recommended crafting a &eSifter&r earlier.\n\nYou’ll need a massive amount of &dFluix Crystals&r, especially since the &5liquid version&r is used in most &dApplied Energistics 2&r recipes.\n\nSo prepare yourself—you’re going to need a lot!",
 
     "quests.ae2.extractor.title": "Fluid Extractor",
