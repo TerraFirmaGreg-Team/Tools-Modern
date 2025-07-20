@@ -272,5 +272,9 @@
 	"block.tfg.sandstone.slab.smooth.fluorapatite.yellow": "Smooth Yellow Fluorapatite Sandstone Slab",
 	"block.tfg.sandstone.stairs.smooth.fluorapatite.yellow": "Smooth Yellow Fluorapatite Sandstone Stairs",
 	"block.tfg.sandstone.fluorapatite.yellow": "Cut Yellow Fluorapatite Sandstone",
-	"block.tfg.sandstone.smooth.chiseled.fluorapatite.yellow": "Chiseled Yellow Fluorapatite Sandstone"
+	"block.tfg.sandstone.smooth.chiseled.fluorapatite.yellow": "Chiseled Yellow Fluorapatite Sandstone",
+
+	"block.tfg.electromagnetic_accelerator": "Electromagnetic Accelerator",
+	"block.tfg.superconductor_coil_large": "Large Superconductor Coil",
+	"block.tfg.superconductor_coil_small": "Small Superconductor Coil"
 }
