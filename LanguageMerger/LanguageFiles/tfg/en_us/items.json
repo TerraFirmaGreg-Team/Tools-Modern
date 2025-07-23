@@ -168,6 +168,10 @@
     "item.tfg.aes_insulation_sheet": "Sheet of Alkaline Earth Silicate Insulation",
     "item.tfg.aes_insulation_roll": "Roll of Alkaline Earth Silicate Insulation",
 
+    "item.tfg.rocket_cone_t2": "Improved Rocket Nose Cone",
+    "item.tfg.rocket_fin_t2": "Improved Rocket Fin",
+    "item.tfg.cryo_fluix_pearl": "Cryogenized Fluix Pearl",
+
     "item.tfg.marker.earth_orbit": "Earth Orbit",
     "item.tfg.marker.moon_orbit": "Moon Orbit",
     "item.tfg.marker.mars_orbit": "Mars Orbit",
