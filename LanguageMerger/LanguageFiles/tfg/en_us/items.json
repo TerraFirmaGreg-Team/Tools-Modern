@@ -64,6 +64,8 @@
     "item.tfg.brick.glacio_stone": "Phonolite Brick",
     "item.tfg.loose.permafrost": "Permafrost Chunk",
     "item.tfg.brick.permafrost": "Permafrost Brick",
+    "item.tfg.loose.red_granite": "Loose Red Granite",
+    "item.tfg.brick.red_granite": "Red Granite Brick",
 
     "item.tfg.terra_firma_greg": "TerraFirmaGreg",
 
@@ -177,7 +179,7 @@
     "item.tfg.marker.mars_orbit": "Mars Orbit",
     "item.tfg.marker.venus_orbit": "Venus Orbit",
     "item.tfg.marker.mercury_orbit": "Mercury Orbit",
-    "item.tfg.interplanetary_link": "Interplanetary Link",
+    "item.tfg.railgun_ammo_shell": "Railgun Ammo Shell",
 
     "item.tfg.sulfur_fumes_bucket": "Sulfur Fumes Bucket",
     "item.tfg.super_heated_slurry_bucket": "Super Heated Slurry Bucket",
@@ -197,5 +199,8 @@
 
     "item.tfg.wood.lumber.aeronos": "Aeronos Lumber",
     "item.tfg.wood.lumber.strophar": "Strophar Lumber",
-    "item.tfg.wood.lumber.glacian": "Glacian Lumber"
+    "item.tfg.wood.lumber.glacian": "Glacian Lumber",
+
+    "item.tfg.universal_compost_browns": "Brown Universal Compost",
+    "item.tfg.universal_compost_greens": "Green Universal Compost"
 }
