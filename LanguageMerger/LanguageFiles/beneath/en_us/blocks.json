@@ -11,5 +11,8 @@
 
 	"block.beneath.crackrack": "Keratophyre",
 
-	"block.beneath.soul_clay": "Muddy Clay"
+	"block.beneath.soul_clay": "Muddy Clay",
+
+	"block.beneath.wood.fallen_leaves.crimson": "Fallen Crimson Lamella",
+	"block.beneath.wood.fallen_leaves.warped": "Fallen Warped Lamella"
 }

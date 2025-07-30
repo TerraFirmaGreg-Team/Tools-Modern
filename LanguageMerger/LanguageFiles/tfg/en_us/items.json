@@ -64,6 +64,8 @@
     "item.tfg.brick.glacio_stone": "Phonolite Brick",
     "item.tfg.loose.permafrost": "Permafrost Chunk",
     "item.tfg.brick.permafrost": "Permafrost Brick",
+    "item.tfg.loose.red_granite": "Loose Red Granite",
+    "item.tfg.brick.red_granite": "Red Granite Brick",
 
     "item.tfg.terra_firma_greg": "TerraFirmaGreg",
 
@@ -168,12 +170,16 @@
     "item.tfg.aes_insulation_sheet": "Sheet of Alkaline Earth Silicate Insulation",
     "item.tfg.aes_insulation_roll": "Roll of Alkaline Earth Silicate Insulation",
 
+    "item.tfg.rocket_cone_t2": "Improved Rocket Nose Cone",
+    "item.tfg.rocket_fin_t2": "Improved Rocket Fin",
+    "item.tfg.cryo_fluix_pearl": "Cryogenized Fluix Pearl",
+
     "item.tfg.marker.earth_orbit": "Earth Orbit",
     "item.tfg.marker.moon_orbit": "Moon Orbit",
     "item.tfg.marker.mars_orbit": "Mars Orbit",
     "item.tfg.marker.venus_orbit": "Venus Orbit",
     "item.tfg.marker.mercury_orbit": "Mercury Orbit",
-    "item.tfg.interplanetary_link": "Interplanetary Link",
+    "item.tfg.railgun_ammo_shell": "Railgun Ammo Shell",
 
     "item.tfg.sulfur_fumes_bucket": "Sulfur Fumes Bucket",
     "item.tfg.super_heated_slurry_bucket": "Super Heated Slurry Bucket",
@@ -193,5 +199,10 @@
 
     "item.tfg.wood.lumber.aeronos": "Aeronos Lumber",
     "item.tfg.wood.lumber.strophar": "Strophar Lumber",
-    "item.tfg.wood.lumber.glacian": "Glacian Lumber"
+    "item.tfg.wood.lumber.glacian": "Glacian Lumber",
+
+    "item.tfg.universal_compost_browns": "Brown Universal Compost",
+    "item.tfg.universal_compost_greens": "Green Universal Compost",
+
+    "item.tfg.etching_diamond_tip": "Etching Diamond Tip"
 }

@@ -1,4 +1,8 @@
 ﻿{
 	"entity.primitive_creatures.tfc": "Каоліновий Клейз",
-	"entity.primitive_creatures.golem_2": "Графітовий Глейз"
+	"entity.primitive_creatures.golem_2": "Графітовий Глейз",
+	 "entity.primitive_creatures.iloger_4": "Засідник",
+	"entity.primitive_creatures.wiloger": "Приборковач звірів",
+	"entity.primitive_creatures.iloger_2": "Травник",
+	"entity.primitive_creatures.iloger_1": "Фуражир"
 }

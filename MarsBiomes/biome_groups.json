@@ -92,11 +92,21 @@
 		{
 			"name": "rivers",
 			"mars_biome": {
-				"name": "tfg:mars/martian_riverbed"
+				"name": "tfg:mars/martian_river"
 			},
 			"vanilla_biomes": [
 				"minecraft:river",
 				"minecraft:frozen_river"
+			]
+		},
+		{
+			"name": "swamps",
+			"mars_biome": {
+				"name": "tfg:mars/martian_riverbed"
+			},
+			"vanilla_biomes": [
+				"minecraft:mangrove_swamp",
+				"minecraft:swamp"
 			]
 		},
 		{
@@ -106,8 +116,6 @@
 			},
 			"vanilla_biomes": [
 				"minecraft:stony_shore",
-				"minecraft:mangrove_swamp",
-				"minecraft:swamp",
 				"minecraft:beach",
 				"minecraft:snowy_beach"
 			]
