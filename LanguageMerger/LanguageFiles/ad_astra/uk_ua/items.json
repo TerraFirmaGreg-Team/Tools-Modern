@@ -1,10 +1,11 @@
 {
-	"item.ad_astra.steel_cable": "Базовий RF-кабель",
-	"item.ad_astra.desh_cable": "Покращений RF-кабель",
-	"item.ad_astra.tier_1_rocket": "Р-алюміносталева ракета",
-	"item.ad_astra.oxygen_bucket": "Відро з вдиханим повітрям",
+	"item.ad_astra.steel_cable": "Базовий RF Кабель",
+	"item.ad_astra.desh_cable": "Покращений RF Кабель",
+	"item.ad_astra.tier_1_rocket": "R-Алюміносталева Ракета",
+	"item.ad_astra.tier_2_rocket": "Титанова ракета ASM 4914",
+	"item.ad_astra.oxygen_bucket": "Відро з Дихальним Повітрям",
 	"item.ad_astra.tier_1_rover": "Ровер",
-	"item.ad_astra.photovoltaic_etrium_cell": "Базова фотоелектрична капсула",
-	"item.ad_astra.photovoltaic_vesnium_cell": "Вдосконалена фотоелектрична капсула",
+	"item.ad_astra.photovoltaic_etrium_cell": "Базова Фотоелектрична Капсула",
+	"item.ad_astra.photovoltaic_vesnium_cell": "Капсула Фотоелементу Енергіюму",
 	"item.ad_astra.cheese": "Місячний сир"
 }

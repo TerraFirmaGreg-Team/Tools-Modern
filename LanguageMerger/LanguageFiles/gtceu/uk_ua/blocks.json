@@ -1,9 +1,15 @@
 {
-    "block.bud_indicator": "%s Поверхневий бутон",
+    "block.bud_indicator": "%s Поверхнева Друза",
     "block.gtceu.nether_dome": "Незераріум",
     "block.gtceu.end_dome": "Ендераріум",
     "block.gtceu.greenhouse": "Теплиця",
     "block.gtceu.steam_bloomery": "Парова Сиродутна Піч",
+    "block.gtceu.large_solar_panel": "Велика сонячна панель",
+    "block.gtceu.gas_pressurizer": "Газовий пресуризатор",
+    "block.gtceu.nuclear_fuel_factory": "Фабрика ядерного палива",
+    "block.gtceu.heat_exchanger": "Теплообмінник",
+    "block.gtceu.fission_reactor": "Реактор ядерного поділу",
+    "block.gtceu.evaporation_tower": "Випарна камера",
     "block.gtceu.copper_crate": "Мідний Ящик",
     "block.gtceu.copper_drum": "Мідна Бочка",
     "block.gtceu.black_bronze_crate": "Ящик з Чорної Бронзи",
@@ -17,5 +23,11 @@
     "gtceu.greenhouse": "Електрична теплиця",
     "gtceu.steam_bloomery": "Парова Сиродутна Піч",
     "gtceu.food_oven": "Духова піч",
-    "gtceu.food_processor": "Кухонний комбайн"
+    "gtceu.food_processor": "Кухонний комбайн",
+    "gtceu.large_solar_panel": "Велика сонячна панель",
+    "gtceu.gas_pressurizer": "Газовий пресуризатор",
+    "gtceu.nuclear_fuel_factory": "Фабрика ядерного палива",
+    "gtceu.heat_exchanger": "Теплообмінник",
+    "gtceu.fission_reactor": "Реактор ядерного поділу",
+    "gtceu.evaporation_tower": "Випарна камера"
 }
