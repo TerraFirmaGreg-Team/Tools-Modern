@@ -10,6 +10,11 @@
       "info": "$(thing)Used for$(): $(l:mechanics/fire_clay)Fire Clay$(), Graphene"
     },
     {
+      "lang": "pt_br",
+      "text": "Grafite",
+      "info": "$(thing)Usado para$(): $(l:mechanics/fire_clay)Argila Refratária$(), Grafeno"
+    },
+    {
       "lang": "ru_ru",
       "text": "Графит",
       "info": "$(thing)Используется для$(): $(l:mechanics/fire_clay)Огнеупорная глина$(), Графен"

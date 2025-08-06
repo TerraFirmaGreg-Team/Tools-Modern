@@ -1,10 +1,23 @@
 {
 	"id": "moon",
+	"sort_order": 2,
 	"dimension_id": "ad_astra:moon",
 	"ore_index_icon": "ae2:certus_quartz_crystal",
 	"vein_index_icon": "gtceu:moon_stone_certus_quartz_ore",
 	"vein_tag": "tfg:moon_veins",
-	"translations": {
-		"en_us": "Lunar"
+	"name_translations": {
+		"en_us": "The Moon",
+		"pt_br": "A Lua",
+		"uk_ua": "Місяць"
+	},
+	"ore_index_translations": {
+		"en_us": "Moon Ore Index",
+		"pt_br": "Índice de Minérios da Lua",
+		"uk_ua": "Індекс Місячних Руд"
+	},
+	"vein_index_translations": {
+		"en_us": "Moon Vein Index",
+		"pt_br": "Índice de Veios da Lua",
+		"uk_ua": "Індекс Місячних Жил"
 	}
 }

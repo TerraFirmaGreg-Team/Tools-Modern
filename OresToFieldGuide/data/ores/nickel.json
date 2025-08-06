@@ -10,6 +10,11 @@
       "info": "$(thing)Melts into$(): Nickel"
     },
     {
+      "lang": "pt_br",
+      "text": "Níquel",
+      "info": "$(thing)Derrete em$(): Níquel"
+    },
+    {
       "lang": "ru_ru",
       "text": "Никель",
       "info": "$(thing)Плавится в$(): Никель"
@@ -17,7 +22,7 @@
     {
       "lang": "uk_ua",
       "text": "Нікель",
-      "info": "$(thing)Розплавляється в$(): Нікель"
+      "info": "$(thing)Розплавляється в$(): Нікелю"
     }
   ]
 }

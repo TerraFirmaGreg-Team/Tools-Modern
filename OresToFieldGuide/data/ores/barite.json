@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Barium"
     },
     {
+      "lang": "pt_br",
+      "text": "Barita",
+      "info": "$(thing)Fonte de$(): Bário"
+    },
+    {
       "lang": "ru_ru",
       "text": "Барит",
       "info": "$(thing)Хромит$(): Барий"

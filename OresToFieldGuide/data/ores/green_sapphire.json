@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Aluminium"
     },
     {
+      "lang": "pt_br",
+      "text": "Safira Verde",
+      "info": "$(thing)Fonte de$(): Aluminium"
+    },
+    {
       "lang": "ru_ru",
       "text": "Зелёный сапфир",
       "info": "$(thing)Хромит$(): Алюминий"

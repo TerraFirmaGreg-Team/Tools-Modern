@@ -8,6 +8,16 @@
 			"lang": "en_us",
 			"text": "Enstatite",
 			"info": "$(thing)Source of$(): Magnesium"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Enstatita",
+			"info": "$(thing)Fonte de$(): Magnésio"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Енстатит",
+			"info": "$(thing)Джерело$(): Магнію"
 		}
 	]
 }

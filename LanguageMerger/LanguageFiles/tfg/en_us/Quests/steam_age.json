@@ -12,20 +12,20 @@
 
 	"quests.steam_age.basic_millstone.title": "Automatic Ore Processing",
 	"quests.steam_age.basic_millstone.subtitle": "No more querning",
-	"quests.steam_age.basic_millstone.desc": "The &3Millstone&r is an automatic version of the Quern. You can throw whatever you'd like into the top, and then right-click to take your crushed items back out. It's pretty slow if you connect it directly to your Horse Crank, but you can use gear ratios to increase its speed.\n\nYou will only receive the output in the first slot. The other slots are part of a GregTech mechanic that won't be relevant until much later (&6HV&r).",
+	"quests.steam_age.basic_millstone.desc": "The &3Millstone&r is an automatic version of the Quern. You can throw whatever you'd like into the top, and then right-click to take your crushed items back out. It's pretty slow if you connect it directly to your Animal Crank, but you can use gear ratios to increase its speed.\n\nYou will only receive the output in the first slot. The other slots are part of a GregTech mechanic that won't be relevant until much later (&6HV&r).",
 
 	"quests.steam_age.horse_crank.title": "Your First Power Source",
 	"quests.steam_age.horse_crank.subtitle": "Make your livestock pay rent",
-	"quests.steam_age.horse_crank.desc.1": "The &3Horse Crank&r is your first accessible source of mechanical power. To use it, place the crank on the center of a 7x7 cleared area and leash an animal to it. Different animals will provide different amounts of power, while the blocks underneath will increase the speed of the output power. The area of multiple cranks can overlap.\n\nYou may need to hold a second lead to attach an animal.",
+	"quests.steam_age.horse_crank.desc.1": "The &3Animal Crank&r is your first accessible source of mechanical power. To use it, place the crank on the center of a 7x7 cleared area and leash an animal to it. Different animals will provide different amounts of power, while the blocks underneath will increase the speed of the output power. The area of multiple cranks can overlap.\n\nYou may need to hold a second lead to attach an animal.",
 	"quests.steam_age.horse_crank.desc.2": "&3Small Animals (4 SU):&r\nWolf, Dog, Pig, Sheep, Goat, Alpaca\n\n&3Medium Animals (6 SU):&r\nCow, Donkey\n\n&3Large Animals (8 SU):&r\nHorse, Mule, Musk Ox, Yak",
 
 	"quests.steam_age.poor_paths.title": "Poor Paths",
 	"quests.steam_age.poor_paths.subtitle": "This is just dirt",
-	"quests.steam_age.poor_paths.desc": "This is the worst kind of road you could use. The horse crank will operate at 2 RPM.",
+	"quests.steam_age.poor_paths.desc": "This is the worst kind of road you could use. The animal crank will operate at 2 RPM.",
 
 	"quests.steam_age.normal_paths.title": "Medium Paths",
 	"quests.steam_age.normal_paths.subtitle": "Ok, you put a little effort in",
-	"quests.steam_age.normal_paths.desc": "Medium paths are a little better and will let your animals turn the crank at 4 RPM.\n\nNote: You can't have a Dirt Path block directly under the horse crank, so that one will have to be Gravel.",
+	"quests.steam_age.normal_paths.desc": "Medium paths are a little better and will let your animals turn the crank at 4 RPM.\n\nNote: You can't have a Dirt Path block directly under the animal crank, so that one will have to be Gravel.",
 
 	"quests.steam_age.good_paths.title": "Great Paths",
 	"quests.steam_age.good_paths.subtitle": "No horseshoes required!",
@@ -37,7 +37,7 @@
 
 	"quests.steam_age.water_wheel.title": "Water Wheels",
 	"quests.steam_age.water_wheel.subtitle": "Hope you set up your base near a river!",
-	"quests.steam_age.water_wheel.desc": "Water wheels provide much more power than the Horse Crank, at the expense of requiring flowing water. You don't have the ability to move water sources yet, so you'll need to find some sort of river or waterfall to power these.\n\nYou can get treated wood by soaking any planks in creosote from your Coke Oven.",
+	"quests.steam_age.water_wheel.desc": "Water wheels provide much more power than the Animal Crank, at the expense of requiring flowing water. You don't have the ability to move water sources yet, so you'll need to find some sort of river or waterfall to power these.\n\nYou can get treated wood by soaking any planks in creosote from your Coke Oven.",
 
 	"quests.steam_age.windmill.title": "Windmills",
 	"quests.steam_age.windmill.subtitle": "Pairs well with tulips",
@@ -99,7 +99,6 @@
 	"quests.steam_age.fluid_drums.desc.1": "&6TFG&r can quickly get &4overwhelming&r with the plethora of fluids it introduces, so you may be looking for a way to store them.\n\nIntroducing... &aDrums&r! They have large internal buffers, and any &aDrum&r can be broken and picked up and will &dkeep the fluid&r inside. A right-click with a Screwdriver allows a Drum to drain its content into another container placed below it.",
 	"quests.steam_age.fluid_drums.desc.2": "&l&3Lore:&r&o These drums are actually ported from GregTech 6.",
 
-
 	"quests.steam_age.boilers.title": "Steam Boilers",
 	"quests.steam_age.boilers.subtitle": "Portable Steamroom",
 	"quests.steam_age.boilers.desc.1": "Steam machines need to be powered! You have three options to generate steam: the &3Solid&r boiler accepts solid fuels like coal and charcoal, the &3Liquid&r boiler accepts liquids like creosote and lava, and the &3Solar&r boiler requires no fuel but only works during the day. The choice is yours, but we recommend the liquid one if you're unsure.\n\nSteam machines all have a vent which needs to stay unblocked in order for them to work properly.",
@@ -112,7 +111,7 @@
 
 	"quests.steam_age.steam_furnace.title": "Steam Furnace",
 	"quests.steam_age.steam_furnace.subtitle": "The Steam Furnace furnaces...",
-	"quests.steam_age.steam_furnace.desc": "Want to quickly smelt something into an ingot? The &3Steam Furnace&r does just that! It can turn many ores and dusts quickly into their ingot form, at the expense of not getting any byproducts. While it can also cook food for you, it currently has a bug where the food expiration data isn't copied over correctly, meaning some food may come out rotten. We recommend sticking to Firmalife's Oven for that instead.",
+	"quests.steam_age.steam_furnace.desc": "Want to quickly smelt something into an ingot? The &3Steam Furnace&r does just that! It can turn many ores and dusts quickly into their ingot form, at the expense of not getting any byproducts.",
 
 	"quests.steam_age.steam_oven.title": "Steam Oven",
 	"quests.steam_age.steam_oven.subtitle": "The Steam Grinder's big brother",
@@ -185,7 +184,15 @@
 
 	"quests.steam_age.steam_engine.title": "Steam Engine",
 	"quests.steam_age.steam_engine.subtitle": "Time for some real steam power",
-	"quests.steam_age.steam_engine.desc": "Water wheels and windmills not cutting it any more? It wouldn't be a steam age without a proper steam engine! Each steam engine can output a whole 512 SU, giving you much more power to play with.\n\nBlaze Burners can be crafted without leaving your house, and you can use a Mechanical Arm to automatically feed them solid fuel, or liquid fuel in a bucket. Coal Gems and Coke can also be used to superheat them.",
+	"quests.steam_age.steam_engine.desc": "Water wheels and windmills not cutting it any more? It wouldn't be a steam age without a proper steam engine! Each steam engine can output a whole 256 SU, giving you much more power to play with.\n\nBlaze Burners can be crafted without leaving your house, and you can use a Mechanical Arm to automatically feed them solid fuel, or liquid fuel in a bucket (such as creosote). Coal Gems, Anthracite, and Coke can also be used to superheat them.",
+
+	"quests.steam_age.fuel_sources.title": "More Fuel Sources",
+	"quests.steam_age.fuel_sources.subtitle": "Putting the power in steam power",
+	"quests.steam_age.fuel_sources.desc": "The steam engine can accept more liquid fuels than the High Pressure Liquid Boiler. While Creosote or Lava are the easiest to set up at this point, you might also be interested in various plant-based oils like &eSeed Oil&r from Sunflowers or Rapeseed.\n\nCreosote and Lava also don't scale very well once you get into further tiers, while Biofuel can be upgraded into Diesel and then Cetane-Boosted Diesel, so start setting up a big field for plant oils now if that sounds appealing to you!",
+
+	"quests.steam_age.straw.title": "Automatic Liquid Fuelling",
+	"quests.steam_age.straw.subtitle": "Combustible sippy cups",
+	"quests.steam_age.straw.desc": "If you right-click a Blaze Burner with a &aStraw&r, you can easily pump your fuel directly into it with any pipe! Hook it up to your Coke Oven's creosote output to keep your Steam Engines going.\n\nYou can check JEI for a full list of what fuels you can use and their efficiency.",
 
 	"quests.steam_age.deployers.title": "Deployers",
 	"quests.steam_age.deployers.subtitle": "Primitive Assembly Line",
@@ -241,12 +248,12 @@
 
 	"quests.steam_age.steel_saw.title": "Steel Mechanical Saw",
 	"quests.steam_age.steel_saw.subtitle": "A stonecutter and LV Cutter in one!",
-	"quests.steam_age.steel_saw.desc": "It's an upgrade to your Basic Mechanical Saw that can also process some metal recipes, like turning rods into four bolts, and cutting blocks into plates. These recipes will all require a fluid to work, but you can just use water for now.",
+	"quests.steam_age.steel_saw.desc": "It's an upgrade to your Basic Mechanical Saw that can also process some metal recipes, like turning rods into four bolts, and cutting blocks into plates. These recipes will all require a fluid to work, but you can just use water for now.\n\nYou can get a little Aluminium for the Cobalt Brass from ore processing byproducts! Check out that quest chapter for more information.",
 
 	"quests.steam_age.rolling_mill.title": "Rolling Mill",
 	"quests.steam_age.rolling_mill.subtitle": "The other half of the LV Bender",
 	"quests.steam_age.rolling_mill.desc.1": "Of all the steam age machines you could make, the &3Rolling Mill&r is one of the best, for the simple reason that it makes single plates out of single ingots. It can also make thin sheets cheaper than by hand, as a bonus!",
-	"quests.steam_age.rolling_mill.desc.2": "&l&3Lore:&r &oThis machine existed in older versions of TFG, but it made rods instead of plates, and your best plate-making option before the LV bender had a 20% chance of failure!&r",
+	"quests.steam_age.rolling_mill.desc.2": "&l&3Lore:&r &oThis machine existed in older versions of TFG, but it made rods instead of plates, and your best plate-making option before the LV bender had a 20 percent chance of failure!&r",
 
 	"quests.steam_age.steel_mixer.title": "Steel Mechanical Mixer",
 	"quests.steam_age.steel_mixer.subtitle": "An earlier LV Mixer",
@@ -277,5 +284,18 @@
 	"quests.steam_age.alternator.title": "Alternators",
 	"quests.steam_age.alternator.subtitle": "Turning stress into power",
 	"quests.steam_age.alternator.desc.1": "If you've got a big steam age set up, you probably don't want to immediately scrap it all just to go back to some boilers and LV Steam Turbines. Instead, the &3Alternator&r will convert the SU from your steam engines into electricity. Each steam engine + alternator should give you 1A of LV! Unfortunately, alternators convert stress into a different electricity system than the one GregTech uses, so you'll need an Energy Converter to turn it into usable LV energy.",
-	"quests.steam_age.alternator.desc.2": "An example of a steam engine producing 8 amps of LV!\n"
+	"quests.steam_age.alternator.desc.2": "An example of a steam engine producing 8 amps of LV!\n",
+
+	"quests.steam_age.packager.title": "Create Logistics",
+	"quests.steam_age.packager.subtitle": "\"We have AE2 at home\"",
+	"quests.steam_age.packager.desc": "Is your chest monster starting to grow out of control? Now you have access to Create's Logistics system! Check out the &3Create Logistics&r chapter for how to get started.",
+
+	"quests.steam_age.basic_mech_press.title": "Basic Mechanical Press",
+	"quests.steam_age.basic_mech_press.subtitle": "Automatic Welding Machine",
+	"quests.steam_age.basic_mech_press.desc": "If you hate welding things over and over, this machine can do it for you. Just place the Basin over your charcoal forge, make sure your forge's temperature is at Yellow or above, and then drop your items in the Basin. Unfortunately, that's about all that the basic one can do.",
+
+	"quests.steam_age.steel_mech_press.title": "Steel Mechanical Press",
+	"quests.steam_age.steel_mech_press.subtitle": "Almost a Forge Hammer",
+	"quests.steam_age.steel_mech_press.desc.1": "The High Pressure Steam Forge Hammer is right around the corner and can do almost everything that this machine can do, but if you're desperate for some higher tier automatic welding recipes, this is your ticket.\n\nIf you're unfamiliar with the Forge Hammer, both it and the Steel Mechanical Press can crush ores (without byproducts), turn rock into cobble into gravel into sand, and crack bricks. However, only the Forge Hammer can provide a &3cheaper recipe for metal plates&r...",
+	"quests.steam_age.steel_mech_press.desc.2": "&l&3Lore:&r&o The Create Mechanical Press used to be a key piece of late steam age progression prior to version 0.9 of TerraFirmaGreg, because it produced plates at an even better ratio of 5 to 4. However, its implementation was actually \"20 percent of the time, you get nothing\", which caused many people to proclaim how much they loved gambling while using it."
 }

@@ -3,7 +3,7 @@
 	"dimension": "earth",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 300,
+		"rarity": 320,
 		"density": 0.3,
 		"min_y": -64,
 		"size": 30
@@ -21,12 +21,8 @@
 		},
 		{
 			"ore": "platinum",
-			"weight": 25,
+			"weight": 5,
 			"block_weight": 1
-		},
-		{
-			"ore": "palladium",
-			"weight": 15
 		}
 	],
 	"rocks": [
@@ -41,6 +37,10 @@
 		{
 			"lang": "en_us",
 			"text": "Cooperite & Bornite"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Cooperita e Bornita"
 		},
 		{
 			"lang": "ru_ru",

@@ -10,6 +10,11 @@
             "info": "$(thing)Melts into$(): Tin"
         },
         {
+            "lang": "pt_br",
+            "text": "Areia Cassiterita",
+            "info": "$(thing)Derrete em$(): Estanho"
+        },
+        {
             "lang": "ru_ru",
             "text": "Касситеритовый песок",
             "info": "$(thing)Плавится в$(): Олово"

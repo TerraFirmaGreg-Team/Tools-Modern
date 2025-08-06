@@ -29,5 +29,48 @@
     "material.tfg.glacio_stone": "Phonolite",
 
     "material.gtceu.thermochemically_treated_hardwood": "Thermochemically Treated Hardwood",
-    "material.gtceu.hardwood": "Hardwood"
+    "material.gtceu.hardwood": "Hardwood",
+
+    "material.gtceu.asurine": "Asurine",
+
+    "material.tfg.kaolinite": "Kaolinite",
+    "material.tfg.vitrified_pearl": "Vitrified Ender",
+
+    "material.tfg.aes_mix": "Alkaline Earth Silicate Mixture",
+    "material.tfg.molten_aes": "Molten Alkaline Earth Silicate",
+
+    "material.tfg.compressed_nitrox": "Compressed Nitrox",
+    "material.tfg.compressed_heliox": "Compressed Heliox",
+    "material.tfg.compressed_heliox_3": "Compressed Heliox-3",
+    "material.tfg.compressed_trimix": "Compressed 50/30/20 Trimix",
+    "material.tfg.compressed_trimix_3": "Compressed 50/30/20 Trimix-3",
+
+    "material.tfg.chlorodifluoromethane": "Chlorodifluoromethane",
+    "material.tfg.acetylene": "Acetylene",
+    "material.tfg.1_1_1_2_tetrafluoroethane": "1,1,1,2-Tetrafluoroethane",
+    "material.tfg.isobutane": "Isobutane",
+    "material.tfg.chloryl_fluoride": "Chloryl Fluoride",
+    "material.tfg.chlorine_pentafluoride": "Chlorine Pentafluoride",
+    "material.tfg.solar_coolant": "Solar Coolant",
+    "material.tfg.solar_coolant_tier2": "Aerospatial Solar Coolant",
+
+    "material.tfg.sodium_hydride": "Sodium Hydride",
+    "material.tfg.boric_acid": "Boric Acid",
+    "material.tfg.trimethyl_borate": "Trimethyl Borate",
+    "material.tfg.sodium_borohydride": "Sodium Borohydride",
+    "material.tfg.sodium_methoxide": "Sodium Methoxide",
+    "material.tfg.ammonia_borane": "Ammonia Borane",
+    "material.tfg.aniline": "Aniline",
+    "material.tfg.dimethyl_carbonate": "Dimethyl Carbonate",
+    "material.tfg.methyl_phenylcarbamate": "Methyl N-Phenylcarbamate",
+    "material.tfg.methylene_diphenyl_dicarbamate": "Methylene Diphenyl-4,4'-dicarbamate",
+    "material.tfg.methylene_diphenyl_diisocyanate": "Methylene Diphenyl-4,4'-diisocyanate",
+    "material.tfg.tmos": "Tetramethoxysilane",
+    "material.tfg.silica_gel": "Silica Gel",
+    "material.tfg.soaked_silica_gel": "Acetone Soaked Silica Gel",
+
+    "material.tfg.nuclear_residue": "Nuclear Residue",
+    "material.tfg.oxidized_nuclear_residue": "Oxidized Nuclear Residue",
+    "material.tfg.refined_nuclear_residue": "Refined Nuclear Residue"
+    
 }

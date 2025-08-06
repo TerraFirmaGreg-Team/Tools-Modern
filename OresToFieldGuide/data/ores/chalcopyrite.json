@@ -10,6 +10,11 @@
       "info": "$(thing)Melts into$(): Copper"
     },
     {
+      "lang": "pt_br",
+      "text": "Calcopirita",
+      "info": "$(thing)Derrete em$(): Cobre"
+    },
+    {
       "lang": "ru_ru",
       "text": "Халькопирит",
       "info": "$(thing)Плавится в$(): Медь"

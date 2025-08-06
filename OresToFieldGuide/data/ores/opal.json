@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Silicon, Oxygen"
     },
     {
+      "lang": "pt_br",
+      "text": "Opala",
+      "info": "$(thing)Fonte de$(): Silício, Oxigênio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Опал",
       "info": "$(thing)Хромит$(): Кремний, Кислород"
@@ -17,7 +22,7 @@
     {
       "lang": "uk_ua",
       "text": "Опал",
-      "info": "$(thing)Джерело$(): Кремній, Кисню"
+      "info": "$(thing)Джерело$(): Кремнію, Кисню"
     }
   ]
 }

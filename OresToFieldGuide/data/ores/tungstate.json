@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Tungsten, Lithium"
     },
     {
+      "lang": "pt_br",
+      "text": "Tungstato",
+      "info": "$(thing)Fonte de$(): Tungstênio, Lítio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Вольфрамат",
       "info": "$(thing)Хромит$(): Вольфрам, Литий"

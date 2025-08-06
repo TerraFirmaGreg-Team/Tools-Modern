@@ -12,19 +12,17 @@
 	"formula": "Формула",
 
 	"hazard": "Небезпечний",
-	"arsenicosis": "$(t:Requires Face Mask)Arsenicosis (Inhalation)$(/t)",
-	"asbestosis": "$(t:Requires Face Mask)Asbestosis (Inhalation)$(/t)",
-	"berylliosis": "$(t:Requires Rubber Gloves)Berylliosis (Skin Contact)$(/t)",
-	"carcinogenic": "$(t:Requires Full Protection)Carcinogenic (Any Contact)$(/t)",
-	"weak_poison": "$(t:Requires Face Mask)Weakly Poisonous (Inhalation)$(/t)",
-	"irritant": "$(t:Requires Rubber Gloves)Irritant (Skin Contact)$(/t)",
+	"arsenicosis": "$(t:Потрібна захисна маска)Арсенікоз (інгаляція)$(/t)",
+	"asbestosis": "$(t:Потрібна захисна маска)Азбестоз (інгаляція)$(/t)",
+	"berylliosis": "$(t:Потрібні гумові рукавички)Бериліоз (контакт із шкірою)$(/t)",
+	"carcinogenic": "$(t:Потрібен повний захист)Канцерогенне (будь-який контакт)$(/t)",
+	"weak_poison": "$(t:Потрібна захисна маска)Слабка отруйність (інгаляція)$(/t)",
+	"irritant": "$(t:Потрібні гумові рукавички)Подразник (контакт із шкірою)$(/t)",
 
 	"tfc:cluster_vein": "Кластерна вена",
 	"tfc:pipe_vein": "Трубна вена",
 	"tfc:disc_vein": "Дискова вена",
 
-	"vein_index": "Vein Index",
-	"ore_index": "Ore Index",
-	"ore_index_format": "This is the $(thing)Ore Index$() for $(thing){0}$(). All ores are sorted alphabetically and then by richest to poorest vein type. You can click on them to learn more information about each vein.",
-	"vein_index_format": "This is the $(thing)Vein Index$() for $(thing){0}$(). Each Vein has details regarding its rarity, density, vein type, height found, sizes, what stones it spawns on, and more."
+	"ore_index_format": "Це $(thing)Індекс руд$() для $(thing){0}$(). Усі руди відсортовані в алфавітному порядку, а потім — від найбагатших до найбідніших жил. Ви можете натиснути на них, щоб дізнатися більше про кожну жилу.",
+	"vein_index_format": "Це $(thing)Індекс жил$() для $(thing){0}$(). Кожна жила містить інформацію про її рідкісність, щільність, тип, висоту залягання, розміри, породи, в яких вона з’являється, та інше."
 }

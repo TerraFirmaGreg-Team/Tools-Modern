@@ -3,11 +3,11 @@
 	"dimension": "moon",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 120,
-		"density": 0.3,
-		"min_y": -32,
-		"max_y": 70,
-		"size": 30
+		"rarity": 200,
+		"density": 0.4,
+		"min_y": 0,
+		"max_y": 80,
+		"size": 50
 	},
 	"ores": [
 		{
@@ -19,10 +19,6 @@
 			"weight": 40
 		},
 		{
-			"ore": "aluminium",
-			"weight": 25
-		},
-		{
 			"ore": "armalcolite",
 			"weight": 20
 		}
@@ -30,7 +26,10 @@
 	"rocks": [
 		"basalt",
 		"moon_stone",
-		"moon_deepslate"
+		"moon_deepslate",
+		"glacio_stone",
+		"diorite",
+		"rhyolite"
 	],
 	"indicator": {
 		"depth": 50
@@ -39,6 +38,10 @@
 		{
 			"lang": "en_us",
 			"text": "Bauxite & Ilmenite"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Bauxita e Ilmenita"
 		},
 		{
 			"lang": "ru_ru",

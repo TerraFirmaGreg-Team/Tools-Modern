@@ -49,6 +49,7 @@
 	"tfc.recipe.barrel.simplylight.barrel.dyeing.illuminant_orange_block": "Dyeing",
 	"tfc.recipe.barrel.simplylight.barrel.dyeing.illuminant_red_block": "Dyeing",
 	"tfc.recipe.barrel.simplylight.barrel.dyeing.illuminant_brown_block": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.treated_chipboard_composite": "Treating Chipboard Composite",
 
 	"tfc.recipe.barrel.tfg.barrel.soak_hardwood_strip": "Soaking Hardwood Strips",
 	"tfc.recipe.barrel.tfg.barrel.treated_wood_planks": "Treating Wood Planks",
@@ -58,8 +59,15 @@
 	"tfc.recipe.barrel.tfg.barrel.cooling_water_3": "Cooling Water",
 	"tfc.recipe.barrel.tfg.barrel.cooling_water_4": "Cooling Water",
 	"tfc.recipe.barrel.tfg.sealed_barrel.prepared_leather_gloves": "Soaking Leather Gloves",
+	"tfc.recipe.barrel.tfg.barrel.rapeseed_to_oil": "Extracting Rapeseed Oil",
+	"tfc.recipe.barrel.tfg.barrel.sunflower_to_oil": "Extracting Sunflower Oil",
 
 	"gtceu.aqueous_accumulator": "Aqueous Accumulator",
+	"tfg.food_recipe.brining": "Brining",
+	"tfg.food_recipe.smoking": "Smoking",
+	"tfg.food_recipe.drying": "Drying",
+	"tfg.food_recipe.freeze_drying": "Desiccate",
+	"tfg.recipe.macerator_warning": "Only outputs first slot until HV",
 
 	"tfg.grapplemod.repair": "Repair recipe, keeps your upgrades. §lNEVER combine two grapples or you'll lose ALL your upgrades!§r",
 	"tfg.grapplemod.upgrades.maxlen": "Increases §lMax Length§r by 20, up to 200.",

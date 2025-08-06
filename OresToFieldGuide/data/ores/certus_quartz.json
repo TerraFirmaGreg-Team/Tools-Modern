@@ -1,13 +1,18 @@
 {
   "id": "certus_quartz",
   "formula": "SiO₂",
-  "ore_block": "ae2:quartz_block",
+  "ore_block": "gtceu:raw_certus_quartz_block",
   "indicator": "gtceu:certus_quartz_bud_indicator",
   "translations": [
     {
       "lang": "en_us",
       "text": "Certus Quartz",
       "info": "$(thing)Used for$(): Applied Energistics 2"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Quartzo Certus",
+      "info": "$(thing)Usado para$(): Applied Energistics 2"
     },
     {
       "lang": "ru_ru",

@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Manganese, Aluminium"
     },
     {
+      "lang": "pt_br",
+      "text": "Espessartita",
+      "info": "$(thing)Fonte de$(): Manganês, Alumínio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Спасерит",
       "info": "$(thing)Хромит$(): Марганец, Алюминий"

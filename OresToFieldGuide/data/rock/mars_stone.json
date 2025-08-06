@@ -3,6 +3,7 @@
 	"pattern": "gtceu:mars_stone_{0}_ore",
 	"translations": {
 		"en_us": "Argillite",
+		"pt_br": "Argilita",
 		"ru_ru": "Аргиллит",
 		"uk_ua": "Аргіліт"
 	},

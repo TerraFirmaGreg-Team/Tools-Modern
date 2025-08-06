@@ -47,12 +47,16 @@
 			"text": "Bismuth (Surface)"
 		},
 		{
+			"lang": "pt_br",
+			"text": "Bismuto (Superfície)"
+		},
+		{
 			"lang": "ru_ru",
 			"text": "Висмут (Поверхностный)"
 		},
 		{
 			"lang": "uk_ua",
-			"text": "Бісмут (поверхня)"
+			"text": "Вісмут (Поверхня)"
 		}
 	]
 }

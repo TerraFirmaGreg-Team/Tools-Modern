@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Gold, Silver, Redstone"
     },
     {
+      "lang": "pt_br",
+      "text": "Eletrotina",
+      "info": "$(thing)Fonte de$(): Ouro, Prata, Redstone"
+    },
+    {
       "lang": "ru_ru",
       "text": "Электротин",
       "info": "$(thing)Хромит$(): Золото, Серебро, Редстоун"

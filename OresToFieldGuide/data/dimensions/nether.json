@@ -1,11 +1,23 @@
 {
 	"id": "nether",
+	"sort_order": 1,
 	"dimension_id": "minecraft:the_nether",
 	"ore_index_icon": "minecraft:quartz",
 	"vein_index_icon": "gtceu:pyroxenite_nether_quartz_ore",
 	"vein_tag": "tfg:nether_veins",
-	"translations": {
+	"name_translations": {
 		"en_us": "The Beneath",
-		"uk_ua": "__"
+		"pt_br": "As Profundezas",
+		"uk_ua": "Безодня"
+	},
+	"ore_index_translations": {
+		"en_us": "The Beneath Ore Index",
+		"pt_br": "Índice de Minérios das Profundezas",
+		"uk_ua": "Індекс Руд Безодні"
+	},
+	"vein_index_translations": {
+		"en_us": "The Beneath Vein Index",
+		"pt_br": "Índice de Veios das Profundezas",
+		"uk_ua": "Індекс Жил безодні"
 	}
 }

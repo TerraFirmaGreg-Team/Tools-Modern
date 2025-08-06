@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Potassium, Lithium, Aluminium, Fluorine"
     },
     {
+      "lang": "pt_br",
+      "text": "Lepidorita",
+      "info": "$(thing)Fonte de$(): Potássio, Lítio, Alumínio, Flúor"
+    },
+    {
       "lang": "ru_ru",
       "text": "Лепидолит",
       "info": "$(thing)Хромит$(): Калий, Литий, Алюминий, Фтор"

@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Neodymium"
     },
     {
+      "lang": "pt_br",
+      "text": "Neodímio",
+      "info": "$(thing)Fonte de$(): Neodímio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Неодим",
       "info": "$(thing)Хромит$(): Неодим"
@@ -17,7 +22,7 @@
     {
       "lang": "uk_ua",
       "text": "Неодим",
-      "info": "$(thing)Джерело$(): Неодим"
+      "info": "$(thing)Джерело$(): Неодиму"
     }
   ]
 }

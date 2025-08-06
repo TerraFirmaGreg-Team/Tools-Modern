@@ -21,11 +21,6 @@
 			"block_weight": 1
 		},
 		{
-			"ore": "bauxite",
-			"weight": 25,
-			"block_weight": 1
-		},
-		{
 			"ore": "pollucite",
 			"weight": 15,
 			"block_weight": 1
@@ -47,6 +42,10 @@
 		{
 			"lang": "en_us",
 			"text": "Kyanite, Mica, & Bauxite"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Cianita, Mica e Bauxita"
 		},
 		{
 			"lang": "ru_ru",

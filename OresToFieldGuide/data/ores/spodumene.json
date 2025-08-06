@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Lithium, Aluminium"
     },
     {
+      "lang": "pt_br",
+      "text": "Espodumena",
+      "info": "$(thing)Fonte de$(): Lítio, Alumínio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Сподумен",
       "info": "$(thing)Хромит$(): Литий, Алюминий"

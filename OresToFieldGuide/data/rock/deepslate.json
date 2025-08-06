@@ -3,6 +3,7 @@
 	"pattern": "gtceu:deepslate_{0}_ore",
 	"translations": {
 		"en_us": "Migmatite",
+		"pt_br": "Migmatito",
 		"ru_ru": "Мигматит",
 		"uk_ua": "Мігматит"
 	},

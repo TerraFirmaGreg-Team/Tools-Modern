@@ -1,4 +1,6 @@
 {
+	"block.ad_astra.oxygen_distributor": "Breathable Air Distributor",
+
 	"block.ad_astra.moon_sand": "Lunar Sand",
 	"block.ad_astra.moon_stone": "Raw Anorthosite",
 	"block.ad_astra.moon_cobblestone": "Anorthosite Cobble",
@@ -21,9 +23,10 @@
 
 	"block.ad_astra.sky_stone": "Meteorite",
 	"block.ad_astra.moon_deepslate": "Raw Norite",
+	"block.ad_astra.cheese_block": "Moon Cheese Block",
 	"block.ad_astra.moon_cheese_ore": "Anorthosite Cheese Ore",
 
-	"block.ad_astra.mars_sand": "Martian Sand",
+	"block.ad_astra.mars_sand": "Argillite Sand",
 	"block.ad_astra.mars_stone": "Raw Argillite",
 	"block.ad_astra.mars_cobblestone": "Argillite Cobble",
 	"block.ad_astra.mars_cobblestone_slab": "Argillite Cobble Slab",
@@ -46,7 +49,7 @@
 	"block.ad_astra.conglomerate": "Martian Conglomerate",
 	"block.ad_astra.polished_conglomerate": "Polished Martian Conglomerate",
 
-	"block.ad_astra.venus_sand": "Venusian Sand",
+	"block.ad_astra.venus_sand": "Trachyte Sand",
 	"block.ad_astra.venus_stone": "Raw Trachyte",
 	"block.ad_astra.venus_cobblestone": "Trachyte Cobble",
 	"block.ad_astra.venus_cobblestone_slab": "Trachyte Cobble Slab",
@@ -65,6 +68,12 @@
 	"block.ad_astra.polished_venus_stone": "Polished Trachyte",
 	"block.ad_astra.polished_venus_stone_slab": "Polished Trachyte Slab",
 	"block.ad_astra.polished_venus_stone_stairs": "Polished Trachyte Stairs",
+
+	"block.ad_astra.venus_sandstone": "Trachyte Sandstone",
+	"block.ad_astra.venus_sandstone_bricks": "Trachyte Sandstone Bricks",
+	"block.ad_astra.venus_sandstone_brick_slab": "Trachyte Sandstone Brick Slab",
+	"block.ad_astra.venus_sandstone_brick_stairs": "Trachyte Sandstone Brick Stairs",
+	"block.ad_astra.cracked_venus_sandstone_bricks": "Cracked Trachyte Sandstone Bricks",
 
 	"block.ad_astra.mercury_stone": "Raw Komatiite",
 	"block.ad_astra.mercury_cobblestone": "Komatiite Cobble",

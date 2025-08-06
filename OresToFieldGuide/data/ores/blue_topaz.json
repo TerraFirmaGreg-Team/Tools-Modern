@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Aluminium, Fluorine"
     },
     {
+      "lang": "pt_br",
+      "text": "Topázio Azul",
+      "info": "$(thing)Fonte de$(): Alumínio, Flúor"
+    },
+    {
       "lang": "ru_ru",
       "text": "Синий топаз",
       "info": "$(thing)Хромит$(): Алюминий, Фтор"

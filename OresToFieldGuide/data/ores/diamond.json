@@ -10,6 +10,11 @@
       "info": "$(thing)Used for$(): Macerators, AE2"
     },
     {
+      "lang": "pt_br",
+      "text": "Diamante",
+      "info": "$(thing)Usado para$(): Maceradores, AE2"
+    },
+    {
       "lang": "ru_ru",
       "text": "Алмаз",
       "info": "$(thing)Используется для$(): Измельчители, предметы из AE2"

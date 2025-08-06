@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Naquadah, Tritanium"
     },
     {
+      "lang": "pt_br",
+      "text": "Naquadah",
+      "info": "$(thing)Fonte de$(): Naquadah, Tritânio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Наквада",
       "info": "$(thing)Хромит$(): Наквада, Тританий"
@@ -17,7 +22,7 @@
     {
       "lang": "uk_ua",
       "text": "Наквадак",
-      "info": "$(thing)Джерело$(): Наквадак, Tritanium"
+      "info": "$(thing)Джерело$(): Наквадаку, Тританію"
     }
   ]
 }

@@ -41,12 +41,16 @@
 			"text": "Lapis, Lazurite, & Sodalite"
 		},
 		{
+			"lang": "pt_br",
+			"text": "Lápis-lazúri, Lazurita e Sodalita"
+		},
+		{
 			"lang": "ru_ru",
 			"text": "Лазурит, Лазурит 2 и Содалит"
 		},
 		{
 			"lang": "uk_ua",
-			"text": "Смарагд, Лазурит та Содаліт"
+			"text": "Лапіс, Лазурит та Содаліт"
 		}
 	]
 }

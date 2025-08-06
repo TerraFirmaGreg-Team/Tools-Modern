@@ -9,6 +9,11 @@
       "info": "$(thing)Source of$(): Pyrope, Almandine, Spessartine"
     },
     {
+      "lang": "pt_br",
+      "text": "Granada Vermelha",
+      "info": "$(thing)Fonte de$(): Piropo, Almandina, Espessartita"
+    },
+    {
       "lang": "ru_ru",
       "text": "Красный гранат",
       "info": "$(thing)Хромит$(): Пироп, Альмандин, Спасерит"

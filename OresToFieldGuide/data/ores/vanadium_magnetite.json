@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Iron, Vanadium"
     },
     {
+      "lang": "pt_br",
+      "text": "Magnetita de Vanádio",
+      "info": "$(thing)Fonte de$(): Ferro, Vanádio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Ванадий магнетит",
       "info": "$(thing)Хромит$(): Железо, Ванадий"

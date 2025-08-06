@@ -8,6 +8,16 @@
 			"lang": "en_us",
 			"text": "Diopside",
 			"info": "$(thing)Source of$(): Magnesium, Calcium"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Diopsídio",
+			"info": "$(thing)Fonte de$(): Magnésio, Cálcio"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Діопсид",
+			"info": "$(thing)Джерело$(): Магнію, Кальцію"
 		}
 	]
 }

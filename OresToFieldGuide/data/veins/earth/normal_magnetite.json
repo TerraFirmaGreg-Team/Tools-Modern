@@ -4,10 +4,10 @@
 	"type": "tfc:cluster_vein",
 	"config": {
 		"rarity": 200,
-		"density": 0.4,
+		"density": 0.3,
 		"min_y": -32,
 		"max_y": 75,
-		"size": 40
+		"size": 30
 	},
 	"ores": [
 		{
@@ -45,6 +45,10 @@
 		{
 			"lang": "en_us",
 			"text": "Magnetite & Vanadium"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Magnetita e Vanádio"
 		},
 		{
 			"lang": "ru_ru",

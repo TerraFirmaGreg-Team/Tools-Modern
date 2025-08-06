@@ -12,12 +12,12 @@
 	"ores": [
 		{
 			"ore": "garnierite",
-			"weight": 30,
+			"weight": 25,
 			"block_weight": 1
 		},
 		{
 			"ore": "nickel",
-			"weight": 10
+			"weight": 20
 		},
 		{
 			"ore": "cobaltite",
@@ -47,6 +47,10 @@
 		{
 			"lang": "en_us",
 			"text": "Garnierite & Cobaltite"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Garnierita e Cobaltita"
 		},
 		{
 			"lang": "ru_ru",

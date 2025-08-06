@@ -1,6 +1,6 @@
 {
 	"id": "armalcolite",
-	"formula": "TODO",
+	"formula": "(Mg,Fe)Ti₂O₅",
 	"ore_block": "gtceu:raw_armalcolite_block",
 	"indicator": "gtceu:armalcolite_bud_indicator",
 	"translations": [
@@ -8,6 +8,16 @@
 			"lang": "en_us",
 			"text": "Armalcolite",
 			"info": "$(thing)Source of$(): Magnesium, Rutile, Titanium"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Armalcolita",
+			"info": "$(thing)Fonte de$(): Magnésio, Rutilo, Titânio"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Армолколіт",
+			"info": "$(thing)Джерело$(): Магнію, Рутилу, Титану"
 		}
 	]
 }

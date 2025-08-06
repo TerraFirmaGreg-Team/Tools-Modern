@@ -1,0 +1,12 @@
+{
+    "quests.tasktype.checkmark": "Натисніть тут, щоб завершити це завдання/квест",
+    "quests.tasktype.item.any": "Будь-який тип предмету:",
+    "quests.tasktype.lookat": "Погляньте на:",
+    "quests.tasktype.travelto": "Подорожуйте до:",
+    "quests.groups.primitive": "Примітивна Епоха",
+    "quests.groups.voltaic_age": "Вольтажна Епоха",
+    "quests.groups.space_age": "Космічна Епоха",
+    "quests.groups.interstellar": "Міжзоряна Епоха",
+    "quests.groups.technological_help": "Технологічна допомога",
+    "quests.groups.tips": "Поради"
+}

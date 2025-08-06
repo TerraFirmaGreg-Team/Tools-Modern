@@ -9,13 +9,18 @@
       "info": "$(thing)Source of$(): Lazurite, Sodalite, Pyrite, Calcite"
     },
     {
+      "lang": "pt_br",
+      "text": "Lápis-lazúri",
+      "info": "$(thing)Fonte de$(): Lazurita, Sodalita, Pirita, Calcita"
+    },
+    {
       "lang": "ru_ru",
       "text": "Лазурит 2",
       "info": "$(thing)Хромит$(): Лазурит, Содалит, Пирит, Кальцит"
     },
     {
       "lang": "uk_ua",
-      "text": "Смарагд",
+      "text": "Лапіс",
       "info": "$(thing)Джерело$(): Лазуриту, Содаліту, Пириту, Кальциту"
     }
   ]

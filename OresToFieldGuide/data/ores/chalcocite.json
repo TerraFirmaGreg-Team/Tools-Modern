@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Copper"
     },
     {
+      "lang": "pt_br",
+      "text": "Calcocita",
+      "info": "$(thing)Fonte de$(): Cobre"
+    },
+    {
       "lang": "ru_ru",
       "text": "Халькозин",
       "info": "$(thing)Хромит$(): Медь"
@@ -17,7 +22,7 @@
     {
       "lang": "uk_ua",
       "text": "Халькоцит",
-      "info": "$(thing)Джерело$(): Мідь"
+      "info": "$(thing)Джерело$(): Міді"
     }
   ]
 }

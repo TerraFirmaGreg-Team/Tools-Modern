@@ -1,6 +1,6 @@
 {
     //#region Starting
-    "quests.tfg_tips": "TerraFirmaGreg Tips",
+    "quests.tfg_tips": "Tips - Survival",
     "quests.tfg_tips.subtitle": "Tips and Tricks to make your life slightly easier.",
 
     "quests.tfg_tips.beginning.title": "Tips and Tricks be here!",
@@ -114,7 +114,7 @@
 
     "quests.tfg_tips.glass_blocks.title": "Glass Blocks",
     "quests.tfg_tips.glass_blocks.subtitle": "Get yourself some windows.",
-    "quests.tfg_tips.glass_blocks.desc": "Depending on the type of sand used for the &aGlass Batch&r, your final &dGlass&r will have different colors. Check out the &2Field Guide&r section on &3Glassblowing&r to learn other ways to make specific colors. Later on, you'll be able to use &3Gregtech&r chemicals to dye glass more easily.\n\n&3&lTip:&r&o If you're looking to make a lot of Glass Blocks and have access to an &bAlloy Smelter&f, it's more efficient to make &dGlass Panes&f, &bmacerating&f them, crafting into &dDust&f and then using the &aBlock Mold&f, since one batch can make up to 16 Small Dusts at a time!",
+    "quests.tfg_tips.glass_blocks.desc": "Depending on the type of sand used for the &aGlass Batch&r, your final &dGlass&r will have different colors. Check out the &2Field Guide&r section on &3Glassblowing&r to learn other ways to make specific colors. Later on, you'll be able to use &3GregTech&r chemicals to dye glass more easily.\n\n&3&lTip:&r&o If you're looking to make a lot of Glass Blocks and have access to an &bAlloy Smelter&f, it's more efficient to make &dGlass Panes&f, &bmacerating&f them, crafting into &dDust&f and then using the &aBlock Mold&f, since one batch can make up to 16 Small Dusts at a time!",
 
     "quests.tfg_tips.lamps.title": "Lamps",
     "quests.tfg_tips.lamps.subtitle": "These are pretty.",
@@ -139,10 +139,9 @@
     "quests.tfg_tips.lava_lamp.subtitle": "Not as mesmerizing as the real deal",
     "quests.tfg_tips.lava_lamp.desc": "With the very heat resistant metal &9Blue Steel&r, you can create a &dBlue Steel Lamp.&r It can be filled with &cLava&r, giving you an indefinite source of light at the cost of being limited to a single lamp metal.\n\nCareful handling a filled lava lamp, it's very &chot...&r",
 
-    // TODO: add quest
     "quests.tfg_tips.glowstone_lamp.title": "Lamp Fuel: Glowstone",
     "quests.tfg_tips.glowstone_lamp.subtitle": "The best lamp fuel",
-    "quests.tfg_tips.glowstone_lamp.desc": "You'll need access to at least &7LV&r electricity in order to liquefy &dGlowstone&r, but if you like the look of &lany&r lamp, you can use &6Liquid Glowstone&r to fuel them indefinitely. Unlike &cLave&r, this isn't hot!",
+    "quests.tfg_tips.glowstone_lamp.desc": "You'll need access to at least &7LV&r electricity in order to liquefy &dGlowstone&r, but if you like the look of &lany&r lamp, you can use &6Liquid Glowstone&r to fuel them indefinitely. Unlike &cLava&r, this isn't hot!",
 
     "quests.tfg_tips.charcoal_pile.title": "Charcoal Pile",
     "quests.tfg_tips.charcoal_pile.subtitle": "You're going to need this",
@@ -175,6 +174,10 @@
     "quests.tfg_tips.silk_cloth.title": "Silk Cloth",
     "quests.tfg_tips.silk_cloth.subtitle": "Very, Very Smooth.",
     "quests.tfg_tips.silk_cloth.desc": "&dSilk Cloth&r can be created using &aString&r from killing &bSpiders&r or via &bPolycaprolactam (aka Nylon) Ingots&r. No silkworms exist yet, sorry! The dangerous &cWebbed Lair&r biome in &4The Beneath&r is another, albeit dangerous, source.\n\nSilk Cloth can be used to create &aSilk Clothes&r, which are the best at protecting you against &chot&r environments.\n\nSilk Cloth is considered a &bHigh Quality Cloth.&r",
+
+    "quests.tfg_tips.phantom_silk.title": "Phantom Silk",
+    "quests.tfg_tips.phantom_silk.subtitle": "Everyone's favourite mob vote winner",
+    "quests.tfg_tips.phantom_silk.desc": "&dPhantom Silk&r is weaved from Phantom Thread, which itself is crafted from Phantom Membrane. You can find &aPhantoms&r in the &4Beneath&r.",
 
     "quests.tfg_tips.unrefined_paper.title": "Unrefined Paper",
     "quests.tfg_tips.unrefined_paper.subtitle": "Time to make some history.",
@@ -255,7 +258,7 @@
 
     "quests.tfg_tips.grapple_motor.title": "Grappling Hook Upgrade: Motor",
     "quests.tfg_tips.grapple_motor.subtitle": "That lazy, huh?",
-    "quests.tfg_tips.grapple_motor.desc": "The &aMotor Upgrade&r enables automatic reeling in with your &dHook.&r Caution should be taken as &chigh level motors&r may cause you to take &4fall damage&r from the reeling force.\n\nMotors are tiered according to &2Gregtech&r voltage tiers. The crafting recipes tells you exactly what stats were modified and by how much.",
+    "quests.tfg_tips.grapple_motor.desc": "The &aMotor Upgrade&r enables automatic reeling in with your &dHook.&r Caution should be taken as &chigh level motors&r may cause you to take &4fall damage&r from the reeling force.\n\nMotors are tiered according to &2GregTech&r voltage tiers. The crafting recipes tells you exactly what stats were modified and by how much.",
 
     "quests.tfg_tips.grapple_smart_motor.title": "Grappling Hook Upgrade: Smart Motor",
     "quests.tfg_tips.grapple_smart_motor.subtitle": "Does anyone even know what this does?",
@@ -263,11 +266,11 @@
 
     "quests.tfg_tips.grapple_field.title": "Grappling Hook Upgrade: Repulsion Field",
     "quests.tfg_tips.grapple_field.subtitle": "Look ma! I'm levitating!",
-    "quests.tfg_tips.grapple_field.desc": "The &aRepulsion Field Upgrade&r causes you to be repelled from nearby blocks. Caution should be taken as &chigh level repulsion strength&r may cause you to take &4fall damage.&r\n\nRepulsion Fields are tiered according &2Gregtech&r voltage tiers. The crafting recipe tells you exactly what stats were modified and by how much.",
+    "quests.tfg_tips.grapple_field.desc": "The &aRepulsion Field Upgrade&r causes you to be repelled from nearby blocks. Caution should be taken as &chigh level repulsion strength&r may cause you to take &4fall damage.&r\n\nRepulsion Fields are tiered according &2GregTech&r voltage tiers. The crafting recipe tells you exactly what stats were modified and by how much.",
 
     "quests.tfg_tips.grapple_magnet.title": "Grappling Hook Upgrade: Hook Magnet",
     "quests.tfg_tips.grapple_magnet.subtitle": "Intense Attraction",
-    "quests.tfg_tips.grapple_magnet.desc": "The &aMagnet Upgrade&r causes your &dHook&r to be attracted to any nearby blocks, latching onto them.\n\nMagnet Upgrades are tiered using &2Gregtech's&r Magnetic Ingots, with the worst one being &bMagnetic Iron&r and the best being &bMagnetic Samarium.&r",
+    "quests.tfg_tips.grapple_magnet.desc": "The &aMagnet Upgrade&r causes your &dHook&r to be attracted to any nearby blocks, latching onto them.\n\nMagnet Upgrades are tiered using &2GregTech's&r Magnetic Ingots, with the worst one being &bMagnetic Iron&r and the best being &bMagnetic Samarium.&r",
     "quests.tfg_tips.grapple_magnet.task": "Any Magnetic Ingot",
 
     "quests.tfg_tips.grapple_sticky.title": "Grappling Hook Upgrade: Sticky Rope",
@@ -276,7 +279,7 @@
 
     "quests.tfg_tips.grapple_throw_speed.title": "Grappling Hook Upgrade: Throw Speed",
     "quests.tfg_tips.grapple_throw_speed.subtitle": "Yeet!",
-    "quests.tfg_tips.grapple_throw_speed.desc": "The &aThrow Speed Upgrade&r causes your &dHook&r to launch faster.\n\nThrow Speed upgrades are tiered according &2Gregtech&r voltage tiers. The crafting recipe tells you exactly what stats were modified and by how much.",
+    "quests.tfg_tips.grapple_throw_speed.desc": "The &aThrow Speed Upgrade&r causes your &dHook&r to launch faster.\n\nThrow Speed upgrades are tiered according &2GregTech&r voltage tiers. The crafting recipe tells you exactly what stats were modified and by how much.",
 
     "quests.tfg_tips.grapple_double.title": "Grappling Hook Upgrade: Double Hook",
     "quests.tfg_tips.grapple_double.subtitle": "Double the Fun!",
@@ -386,6 +389,18 @@
     "quests.tfg_tips.photo_frame.title": "Photo Frame",
     "quests.tfg_tips.photo_frame.subtitle": "For the most astonishing pictures",
     "quests.tfg_tips.photo_frame.desc": "A &dPhoto Frame&r can be used to display pictures. Unlike Item Frames, Photo Frames can be 1x1, 2x2 or 3x3 in size, allowing you to display particularly beautiful photos at your base!",
+
+    "quests.tfg_tips.harpoon.title": "Harpoon",
+    "quests.tfg_tips.harpoon.subtitle": "Emergency escape",
+    "quests.tfg_tips.harpoon.desc": "The &dHarpoon&r is similar to the grappling hook, except it always flies straight upwards and can't be upgraded. You can still swing with it though!",
+
+    "quests.tfg_tips.coil.title": "Ziplines",
+    "quests.tfg_tips.coil.subtitle": "Wheeeeee!",
+    "quests.tfg_tips.coil.desc": "If you right-click two &dFences&r with a &3Coil&r, you'll create a zipline! Build one above you, then shoot your Harpoon into the fence to start schmooving.\n\nRight-click the Coil with an empty hand to change the slack of the line. Each Coil is one-way, indicated by the \"arrows\" on the line itself, so if you want a two-way line you'll need two coils.\n\nYou can also place Coils on other blocks too for decoration, but they must be on fences to work as a zipline.",
+
+    "quests.tfg_tips.self_defense.title": "Self-defense",
+    "quests.tfg_tips.self_defense.subtitle": "Got zombies on your lawn?",
+    "quests.tfg_tips.self_defense.desc": "Place a &3Cranktrap&r next to a pressure plate, and they'll completely immobilize whatever animal (or monster!) steps on it. Great for catching that elusive animal in the forest, or for defending your home.\n\n&3Barbed Wire&r is completely passive and just inflicts damage to anything that walks through it.",
     //#endregion
 
     //#region ArborFirmaCraft
@@ -451,7 +466,7 @@
 
     "quests.tfg_tips.steam_upgrades.title": "Aircraft Upgrades: Steam",
     "quests.tfg_tips.steam_upgrades.subtitle": "Immersive Aircraft meets GregTech Tiering!",
-    "quests.tfg_tips.steam_upgrades.desc": "The second kind of aircraft upgrades are the &dTiered Upgrades.&r These are made to match the &3Gregtech&r tiering system, going from &8Steam&r up to &5EV.&r\n\nSteam upgrades are the easiest and earliest to craft, requiring at the very least knowledge of &bBlack Steel.&r\n\n&dSteam-powered Aircraft Engines&r are used in the creation of more sophisticated aircrafts such as the &eBiplane&r and the &cWarship.&r",
+    "quests.tfg_tips.steam_upgrades.desc": "The second kind of aircraft upgrades are the &dTiered Upgrades.&r These are made to match the &3GregTech&r tiering system, going from &8Steam&r up to &5EV.&r\n\nSteam upgrades are the easiest and earliest to craft, requiring at the very least knowledge of &bBlack Steel.&r\n\n&dSteam-powered Aircraft Engines&r are used in the creation of more sophisticated aircrafts such as the &eBiplane&r and the &cWarship.&r",
     "quests.tfg_tips.steam_upgrades.task": "Any steam tier aircraft upgrade",
 
     "quests.tfg_tips.lv_upgrades.title": "Aircraft Upgrades: LV",
@@ -508,7 +523,11 @@
 
     "quests.tfg_tips.scarlet_biplane.title": "Scarlet Biplane",
     "quests.tfg_tips.scarlet_biplane.subtitle": "What a sight to behold",
-    "quests.tfg_tips.scarlet_biplane.desc": "The &3Scarlet Biplane&r is the final upgrade for &bPlanes&r, requiring &6HV&r components.\n\nIt contains &b27 Inventory Slots&r, &a4 Upgrade Slots&r, &c2 Weapon Slots&r, and also a &4Booster Slot&r, just like the regular biplane.\n\nWhile expensive, the &3Scarlet Biplane&r makes up for it with increased durability, increased max speed, and overall swag.",
+    "quests.tfg_tips.scarlet_biplane.desc": "The &3Scarlet Biplane&r is one of the two final upgrades for &bPlanes&r, requiring &6HV&r components.\n\nIt contains &b27 Inventory Slots&r, &a4 Upgrade Slots&r, &c2 Weapon Slots&r, and also a &4Booster Slot&r, just like the regular biplane.\n\nWhile expensive, the &3Scarlet Biplane&r makes up for it with increased durability, increased max speed, and overall swag.",
+
+    "quests.tfg_tips.aluminium_hopper.title": "Aluminium Hopper",
+    "quests.tfg_tips.aluminium_hopper.subtitle": "So light it floats on water!",
+    "quests.tfg_tips.aluminium_hopper.desc": "The &3Aluminium Hopper&r is one of the two final upgrades for &bPlanes&r, requiring &6HV&r components.\n\nIt contains &b16 Inventory Slots&r, &a4 Upgrade Slots&r, &c2 Weapon Slots&r, 3 Seats, and also a &4Booster Slot&r, just like the regular biplane.\n\nWhile expensive, the &3Aluminium Hopper&r makes up for it with 3 total seats, and the ability to land on Water.",
 
     "quests.tfg_tips.firmaciv.title": "Firma: Civilization",
     "quests.tfg_tips.firmaciv.subtitle": "Sail across the seas, with style.",
@@ -595,6 +614,10 @@
     "quests.tfg_tips.greenhouse.title": "Greenhouse",
     "quests.tfg_tips.greenhouse.subtitle": "Grow your crops 24/7!",
     "quests.tfg_tips.greenhouse.desc": "The &dGreenhouse&r is a complex multiblock structure with multiple tiers, used to grow crops all year round at the expense of yield. Check out its entry in the &2Field Guide&r for more information!",
+
+    "quests.tfg_tips.greenhouse_automation.title": "Greenhouse Automation",
+    "quests.tfg_tips.greenhouse_automation.subtitle": "By your powers combined...",
+    "quests.tfg_tips.greenhouse_automation.desc": "With the combination of Firmalife's &2Picker&r and &2Sweeper&r, Create's Deployers, and GregTech's Item Collectors, it's possible to completely automate your greenhouse!\n\nPickers will pull mature crops from Hydroponic Planters and Quad Planters when they receive a redstone pulse, while Sweepers will harvest mature crops from the other types in a 3x3 area around it while connected to a redstone signal.\n\nThese machines will produce loose items, but an Item Collector will suck those up in a large area around it.\n\nFrom there, pipe the seeds back into Deployers to plant them in the Planters!",
 
     "quests.tfg_tips.beekeeping.title": "Beekeeping",
     "quests.tfg_tips.beekeeping.subtitle": "They're so small now...",
@@ -739,7 +762,7 @@
 
     "quests.tfg_tips.refrigerator.title": "Refrigerator",
     "quests.tfg_tips.refrigerator.subtitle": "This thing may be overpowered",
-    "quests.tfg_tips.refrigerator.desc": "If you have advanced to the &7LV&r age, you can make a &dRefrigerator&r, consuming power in exchange for the &obest&r universal food preservation trait for all food items. This includes raw and cooked food, and combined foods like sandwiches.",
+    "quests.tfg_tips.refrigerator.desc": "If you have advanced to the &bMV&r age, you can make a &dRefrigerator&r, consuming power in exchange for the &obest&r universal food preservation trait for all food items. This includes raw and cooked food, and combined foods like sandwiches.",
 
     "quests.tfg_tips.cellar_blocks.title": "Cellar Storage",
     "quests.tfg_tips.cellar_blocks.subtitle": "Stuff to put your food in",
@@ -773,7 +796,7 @@
 
     "quests.tfg_tips.how_to_go_beneath.title": "How to go to The Beneath",
     "quests.tfg_tips.how_to_go_beneath.subtitle": "No Obsidian Required",
-    "quests.tfg_tips.how_to_go_beneath.desc": "To reach &4The Beneath&r, you will have to stand on &bOverworld Bedrock&r for a couple of seconds, after which you will be &oteleported&r to down there.\n\n&3&lTip:&r&o Make sure to dig out a large space above the bedrock where you'll be standing, so when you get teleported back to the Overworld, the game won't send you in some random cave while it's trying to search for enough air blocks.",
+    "quests.tfg_tips.how_to_go_beneath.desc": "To reach &4The Beneath&r, you will have to stand on &bOverworld Bedrock&r for a couple of seconds, after which you will be &oteleported&r down under.\n\n&3&lTip:&r&o You'll keep exactly the same X and Z coordinates, so it may teleport you inside some rock. It'll give you a 3x3x3 space to work with though, so be sure to bring some supports for tunneling your way out!",
     "quests.tfg_tips.how_to_go_beneath.task.1": "Reach and Stand on top of Bedrock",
     "quests.tfg_tips.how_to_go_beneath.task.2": "Visit the Beneath",
 
@@ -791,7 +814,7 @@
     "quests.tfg_tips.piglin_bartering.desc": "The curious inhabitants of &4The Beneath&r have items to offer... Trade gold with them to get some useful resource, such as small amounts of &aMetals&r or &aLeather.&r\nCheck out the &2Field Guide&r for details about barter trades.",
 
     "quests.tfg_tips.piglin_disguise.subtitle": "They'll never know...",
-    "quests.tfg_tips.piglin_disguise.desc": "Do you feel like you don't belong?\n Do the &4Piglin&r attack you at your school because of your appearance?\n Try wearing a &aPiglin Disguise&r to ward off unwanted attention and blend right in.",
+    "quests.tfg_tips.piglin_disguise.desc": "Do you feel like you don't belong?\nDo the &4Piglin&r attack you at your school because of your appearance?\nTry wearing a &aPiglin Disguise&r to ward off unwanted attention and blend right in.",
 
     "quests.tfg_tips.trowel.title": "Trowel",
     "quests.tfg_tips.trowel.subtitle": "Inspired by Quark!",
@@ -799,7 +822,41 @@
 
     "quests.tfg_tips.lunchbox.title": "Lunch Box",
     "quests.tfg_tips.lunchbox.subtitle": "A refrigerator in your pocket!",
-    "quests.tfg_tips.lunchbox.desc": "Lunch boxes have 9 slots for food, keeping it cold and longer lasting.\nThe Cooling Lunchbox has a stronger effect than the regular one, but needs to be provided with ice or capsules that will thaw over time.",
-    "quests.tfg_tips.lunchbox.task": "Any Lunch Box"
+    "quests.tfg_tips.lunchbox.desc": "Lunch boxes have 9 slots for food, keeping it cold and longer lasting.\nThe Cooling Lunchbox has a stronger effect than the regular one, but needs to be provided with ice or cells that will thaw over time.",
+    "quests.tfg_tips.lunchbox.task.1": "Any Lunch Box",
+    "quests.tfg_tips.lunchbox.task.2": "Any Ice Block",
+    "quests.tfg_tips.lunchbox.task.3": "Any Cell containing Liquid Ice Slush",
+
+    "quests.tfg_tips.transportation_tips.subtitle": "What ever happened to walking on your own two feet?",
+
+    "quests.tfg_tips.tools_tips.subtitle": "How to tighten and loosen 101.",
+
+    "quests.tfg_tips.tools_tips.tools.title": "Tools",
+    "quests.tfg_tips.tools_tips.tools.subtitle": "It's all a hammer anyways.",
+    "quests.tfg_tips.tools_tips.tools.desc": "The only thing seperating man from animal is our use of &l&bTools&r&r. &8&oExcept for apes, monkeys, dolphins, crows, otters, octo.......&r&r Use your skills and tools to make the most of this world, and &5save yourself&r some effort.",
+
+    "quests.tfg_tips.tools_tips.seed_oil.title": "Lamp Fuel: Seed Oil",
+    "quests.tfg_tips.tools_tips.seed_oil.subtitle": "Smells good when it burns.",
+    "quests.tfg_tips.tools_tips.seed_oil.desc": "&dSeed Oil&r will last you an impressive &c72&r days.",
+    "quests.tfg_tips.tools_tips.seed_oil.task": "A Bucket of Seed Oil",
+
+    "quests.tfg_tips.tools_tips.soybean_oil.title": "Lamp Fuel: Soybean Oil",
+    "quests.tfg_tips.tools_tips.soybean_oil.subtitle": "Lamp on a high protein diet.",
+    "quests.tfg_tips.tools_tips.soybean_oil.desc": "&dSoybean Oil&r lasts just as long as seed oil--&c72&r days. ",
+    "quests.tfg_tips.tools_tips.soybean_oil.task": "A Bucket of Soybean Oil",
+
+    "quests.tfg_tips.tools_tips.markings.title": "Markings",
+    "quests.tfg_tips.tools_tips.markings.subtitle": "Comply with OSHA standard 1910.303",
+    "quests.tfg_tips.tools_tips.markings.desc": "Similar to &2chalk&r--&d&lMarkings&r&r can be used to decorate your surfaces for a more immersive base. You can craft markings by first making a &bHazard Diamond Wall Marking&r and using a stonecutter to get the rest.",
+    "quests.tfg_tips.tools_tips.markings.task": "Any #ags_modernmarkings:markings",
+
+    "quests.tfg_tips.tools_tips.cryodesiccation.title": "Cryodesiccation",
+    "quests.tfg_tips.tools_tips.cryodesiccation.subtitle": "The factory has no time for \"flavor\".",
+    "quests.tfg_tips.tools_tips.cryodesiccation.desc": "&l&bCryodesiccation&r&r is the process of dehydrating food at very low temperatures. Food with the trait \"Cryodesiccated\" lasts considerably longer than other food preservation methods.",
+
+    "quests.tfg_tips.tools_tips.harvest_basket.title": "Harvest Baskets",
+    "quests.tfg_tips.tools_tips.harvest_basket.subtitle": "For competitive pie bakers.",
+    "quests.tfg_tips.tools_tips.harvest_basket.task": "Any #tfg:harvester",
+    "quests.tfg_tips.tools_tips.harvest_basket.desc": "&l&2Harvest Baskets&r&r are a new tool made just for &5TFG&r! These baskets can be used to harvest whole trees and bushes of fruit in one right-click! A regular &6Harvest Basket&r has a base durability of &n128&r. But an &3Aluminium Harvest Basket&r takes no damage on use."
     //#endregion
 }

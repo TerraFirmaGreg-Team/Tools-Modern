@@ -3,6 +3,7 @@
 	"pattern": "gtceu:marble_{0}_ore",
 	"translations": {
 		"en_us": "Marble",
+		"pt_br": "Mármore",
 		"ru_ru": "Мрамор",
 		"uk_ua": "Мармур"
 	},

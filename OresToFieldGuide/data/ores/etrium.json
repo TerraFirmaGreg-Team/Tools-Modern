@@ -8,6 +8,16 @@
 			"lang": "en_us",
 			"text": "Etrium",
 			"info": "$(thing)Source of$(): "
+		},
+		{
+			"lang": "pt_br",
+			"text": "Etrium",
+			"info": "$(thing)Fonte de$(): "
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Етріум",
+			"info": "$(thing)Джерело$(): "
 		}
 	]
 }

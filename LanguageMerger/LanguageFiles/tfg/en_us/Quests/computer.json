@@ -1,7 +1,7 @@
 {
     // Welcome to MV
 
-    "quests.computer": "Computer",
-    "quests.computer.subtitle": "ComputerCraft or CC: Tweaked here, is if you know LUA one of the strongest mod for managing your base"
+    "quests.computer": "ComputerCraft",
+    "quests.computer.subtitle": "A very powerful Lua scripting mod"
 
 }

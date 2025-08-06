@@ -3,7 +3,7 @@
 	"dimension": "earth",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 220,
+		"rarity": 240,
 		"density": 0.35,
 		"min_y": -64,
 		"size": 20
@@ -33,6 +33,10 @@
 		{
 			"lang": "en_us",
 			"text": "Scheelite & Tungstate"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Sheelita e Tungstato"
 		},
 		{
 			"lang": "ru_ru",

@@ -10,14 +10,19 @@
             "info": "$(thing)Melts into$(): Bismuth"
         },
         {
+            "lang": "pt_br",
+            "text": "Bismuto",
+            "info": "$(thing)Derrete em$(): Bismuto"
+        },
+        {
             "lang": "ru_ru",
             "text": "Висмут",
             "info": "$(thing)Плавится в$(): Висмут"
         },
         {
             "lang": "uk_ua",
-            "text": "Бісмут",
-            "info": "$(thing)Розплавляється в$(): Бісмут"
+            "text": "Вісмут",
+            "info": "$(thing)Розплавляється в$(): Вісмут"
         }
     ]
 }

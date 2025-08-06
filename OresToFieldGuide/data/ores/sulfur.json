@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Sulfur"
     },
     {
+      "lang": "pt_br",
+      "text": "Enxofre",
+      "info": "$(thing)Fonte de$(): Enxofre"
+    },
+    {
       "lang": "ru_ru",
       "text": "Сера",
       "info": "$(thing)Хромит$(): Сера"
@@ -17,7 +22,7 @@
     {
       "lang": "uk_ua",
       "text": "Сірка",
-      "info": "$(thing)Джерело$(): Сірка"
+      "info": "$(thing)Джерело$(): Сірки"
     }
   ]
 }

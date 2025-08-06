@@ -30,10 +30,6 @@
     "quests.metal_age.mining.subtitle": "ROCK AND STONE!",
     "quests.metal_age.mining.desc": "Extracting valuable resources from the ground is a major part of this modpack, and the Metallurgy Age is no exception! You will consume a &llot&r of metal to progress, and one way to mine a lot of it at once is with a Mining Hammer! This is a tool that can mine blocks in a 3x3x1 area at the cost of a slower mining speed. You can also hold sneak to break single blocks at a time.",
 
-    "quests.metal_age.weld_wrought_iron_ingots.title": "Welding Wrought Iron",
-    "quests.metal_age.weld_wrought_iron_ingots.subtitle": "CLANG CLANG CLANG",
-    "quests.metal_age.weld_wrought_iron_ingots.desc": "Obtain at least 14 Ingots of Wrought Iron, then weld them together in a Bronze Anvil. Careful you don't melt your Wrought Iron, otherwise it will turn back into Cast Iron and you'll have to run it through the Bloomery again!",
-
     "quests.metal_age.bellows.title": "Bellows",
     "quests.metal_age.bellows.subtitle": "Higher temperatures can be reached, at a small price.",
     "quests.metal_age.bellows.desc": "The Bellows is a device that can force extra air into a fire or forge in front of it, allowing the heat produced by the fuel inside to reach higher temperatures than usual, at the cost of fuel duration.\n\nThese higher temperatures are required to fire pottery with charcoal or melt certain metals.\n\nCoal and Coke can also reach higher temperatures without it.",
@@ -66,7 +62,7 @@
 
     "quests.metal_age.overworld_graphite.title": "Graphite Source: Overworld",
     "quests.metal_age.overworld_graphite.subtitle": "You mean I can't just rely on surface indicators?",
-    "quests.metal_age.overworld_graphite.desc": "Graphite spawns exclusively in flat, wide discs deep underground.\n\nYou will have to go exploring underground through the caves to try and spot some! Graphite veins can spawn in any stone type and also include Coal and Diamond, and will have all three indicators nearby. Tools such as a metal Shield, Digger Helmet, Propick, and Spyglass can also prove to be very useful!",
+    "quests.metal_age.overworld_graphite.desc": "Graphite spawns exclusively in flat, wide discs deep underground.\n\nYou will have to go exploring underground through the caves to try and spot some! Graphite veins can spawn in any stone type and also include Coal and Diamond. However, due to the depth of the veins, indicators likely will not appear on the surface. Tools such as a metal Shield, Digger Helmet, Propick, and Spyglass can also prove to be very useful!",
 
     "quests.metal_age.beneath_graphite.title": "Graphite Source: The Beneath",
     "quests.metal_age.beneath_graphite.subtitle": "To the Depths",
@@ -75,7 +71,7 @@
 
     "quests.metal_age.kaolin_clay.title": "Kaolin Clay",
     "quests.metal_age.kaolin_clay.subtitle": "Kaolin Trek: The Next Generation",
-    "quests.metal_age.kaolin_clay.desc": "Once you find Kaolin Clay, you should bring as much back as you can possibly carry! Unfortunately, only 20% of it will successfully cook into Kaolinite Powder, so it's recommended to bake it in situ with pit kilns, to save inventory space.\n\nAfter you craft the Crucible and the Blast Furnace, you won't need much more of it, but it's still a good idea to bring home more than you think you'll need, to avoid a repeat journey.\n\nP.S.: If you've found blood lilies but no clay, try digging down a little further! Sometimes it spawns a little underground.",
+    "quests.metal_age.kaolin_clay.desc": "Once you find Kaolin Clay, you should bring as much back as you can possibly carry! Unfortunately, only 20 percent of it will successfully cook into Kaolinite Powder, so it's recommended to bake it in situ with pit kilns, to save inventory space.\n\nAfter you craft the Crucible and the Blast Furnace, you won't need much more of it, but it's still a good idea to bring home more than you think you'll need, to avoid a repeat journey.\n\nP.S.: If you've found blood lilies but no clay, try digging down a little further! Sometimes it spawns a little underground.",
 
     "quests.metal_age.graphite.title": "Graphite",
     "quests.metal_age.graphite.subtitle": "Pencils do not exist",
@@ -88,7 +84,7 @@
 
     "quests.metal_age.fire_clay_products.title": "Fire Clay products",
     "quests.metal_age.fire_clay_products.subtitle": "Extremely Heat Resistant Clay",
-    "quests.metal_age.fire_clay_products.desc": "Just like regular Clay, Fire Clay can be Knapped to create things that you'll then need to fire. Most importantly, Fire Clay is used to create the Crucible and Fire Clay Bricks, both of which are required for the Blast Furnace.\n\nYou'll also be able to create a Mold Table and Casting Channels, which lets you cast your metal from the crucible into multiple molds at once.\n\nLastly, there's Fire Ingot Molds, which only have a 1% chance of breaking instead of regular clay's 10%.",
+    "quests.metal_age.fire_clay_products.desc": "Just like regular Clay, Fire Clay can be Knapped to create things that you'll then need to fire. Most importantly, Fire Clay is used to create the Crucible and Fire Clay Bricks, both of which are required for the Blast Furnace.\n\nYou'll also be able to create a Mold Table and Casting Channels, which lets you cast your metal from the crucible into multiple molds at once.\n\nLastly, there's Fire Ingot Molds, which only have a 1 percent chance of breaking instead of regular clay's 10 percent.",
 
     "quests.metal_age.crucible.title": "Crucible",
     "quests.metal_age.crucible.subtitle": "Melt metals like a pro",
@@ -110,10 +106,6 @@
     "quests.metal_age.blast_furnace.subtitle": "Then I started Blastin'",
     "quests.metal_age.blast_furnace.desc": "The Blast Furnace is a multiblock structure that allows you to create Pig Iron. Placing a combination of Iron, Flux and fuel (see the adjacent quest) inside the Blast Furnace produces Pig Iron, which can be worked into Steel.\n\nIn order for the Blast Furnace to reach its required high temperatures, it will need its own Bellows, used to force air through a Tuyere which you place inside the blast furnace.\n\nThe Field Guide contains an entry on how the Blast Furnace works and how to build one.",
 
-    "quests.metal_age.weld_steel_ingots.title": "Welding Steel",
-    "quests.metal_age.weld_steel_ingots.subtitle": "Again?",
-    "quests.metal_age.weld_steel_ingots.desc": "You know the drill by this point. Create 14 Steel Ingots, then weld them to get 7 Double Steel Ingots. We'll stop reminding you about this now.\n\nDid you know that the Helve Hammer can also process your pig iron into steel?",
-
     "quests.metal_age.steel_anvil.title": "T4 Anvil: Steel",
     "quests.metal_age.steel_anvil.subtitle": "A huge leap from wrought iron",
     "quests.metal_age.steel_anvil.desc": "With the Steel Anvil, you'll be able to work Steel Ingots into different forms.\n\nSteel tools and equipment have a significant boost over their bronze and wrought iron counterparts, so they're worth making if your existing ones are about to break. You'll be needing to create a lot of alloys soon, so some new mining equipment would be a wise investment.",
@@ -125,6 +117,9 @@
     "quests.metal_age.weak_steel.title": "Weak Steel Ingredients",
     "quests.metal_age.weak_steel.subtitle": "Hope you like math",
     "quests.metal_age.weak_steel.desc": "Weak Steel is one part of the necessary metals to create Black Steel. You can alloy it with 2 parts Steel, 1 part Nickel and 1 part Black Bronze.\n\nYou can check the liquid weak steel's recipe for more precise alloying percentage rates.",
+    "quests.metal_age.weak_steel.task1": "1 Part Nickel",
+    "quests.metal_age.weak_steel.task2": "2 Parts Steel",
+    "quests.metal_age.weak_steel.task3": "1 Part Black Bronze",
 
     "quests.metal_age.highcarb_black_steel.title": "Black Steel Ingredients",
     "quests.metal_age.highcarb_black_steel.subtitle": "Conservation of matter does not apply",
@@ -145,10 +140,18 @@
     "quests.metal_age.weak_red_steel.title": "Weak Red Steel Ingredients",
     "quests.metal_age.weak_red_steel.subtitle": "This is getting a little ridiculous",
     "quests.metal_age.weak_red_steel.desc": "Like before, Weak Red Steel is the first step of Red Steel's creation. Its alloy is made from 4 parts Black Steel, 2 parts Steel, 1 part Brass, and 1 part Rose Gold.\n\nYou can check the liquid Weak Red Steel's recipe for more precise alloying percentage rates.",
+    "quests.metal_age.weak_red_steel.steel": "2 Parts Steel",
+    "quests.metal_age.weak_red_steel.black_steel": "4 Parts Black Steel",
+    "quests.metal_age.weak_red_steel.brass": "1 Part Brass",
+    "quests.metal_age.weak_red_steel.rose_gold": "1 Part Rose Gold",
 
     "quests.metal_age.weak_blu_steel.title": "Weak Blue Steel Ingredients",
     "quests.metal_age.weak_blu_steel.subtitle": "This is getting out of hand.",
-    "quests.metal_age.weak_blu_steel.desc": "Like before, Weak Blue Steel is the first step of Blue Steel's creation. Its alloy is made from 4 parts Black Steel, 2 parts Steel, 1 part Bismuth Bronze, and 1 part Sterling Silver.\n\bYou can check the liquid Weak Blue Steel's recipe for more precise alloying percentage rates.",
+    "quests.metal_age.weak_blu_steel.desc": "Like before, Weak Blue Steel is the first step of Blue Steel's creation. Its alloy is made from 4 parts Black Steel, 2 parts Steel, 1 part Bismuth Bronze, and 1 part Sterling Silver.\n\nYou can check the liquid Weak Blue Steel's recipe for more precise alloying percentage rates.",
+    "quests.metal_age.weak_blue_steel.steel": "2 Parts Steel",
+    "quests.metal_age.weak_blue_steel.black_steel": "4 Parts Black Steel",
+    "quests.metal_age.weak_blue_steel.sterling_silver": "1 Part Sterling Silver",
+    "quests.metal_age.weak_blue_steel.bismuth_bronze": "1 Part Bismuth Bronze",
 
     "quests.metal_age.highcarb_red_steel.title": "Red Steel Ingredients",
     "quests.metal_age.highcarb_red_steel.subtitle": "Could deleting matter like this power a nuclear bomb?",
@@ -156,7 +159,7 @@
 
     "quests.metal_age.highcarb_blu_steel.title": "Blue Steel Ingredients",
     "quests.metal_age.highcarb_blu_steel.subtitle": "Lavoisier is rolling in his grave",
-    "quests.metal_age.highcarb_blu_steel.desc": "Blue Steel first starts as High Carbon Blue Steel, whcih is made by welding Weak Blue Steel and Black Steel. It needs to be worked on the Anvil to turn it into Blue Steel",
+    "quests.metal_age.highcarb_blu_steel.desc": "Blue Steel first starts as High Carbon Blue Steel, which is made by welding Weak Blue Steel and Black Steel. It needs to be worked on the Anvil to turn it into Blue Steel",
 
     "quests.metal_age.redblu_anvil.title": "T6 Anvil: Red or Blue Steel",
     "quests.metal_age.redblu_anvil.subtitle": "It's over",

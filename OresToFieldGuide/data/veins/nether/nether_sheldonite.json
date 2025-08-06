@@ -21,12 +21,12 @@
 		},
 		{
 			"ore": "platinum",
-			"weight": 25,
+			"weight": 5,
 			"block_weight": 1
 		},
 		{
-			"ore": "palladium",
-			"weight": 15
+			"ore": "nickel",
+			"weight": 20
 		}
 	],
 	"rocks": [
@@ -43,6 +43,10 @@
 		{
 			"lang": "en_us",
 			"text": "Cooperite & Bornite"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Cooperita e Bornita"
 		},
 		{
 			"lang": "ru_ru",

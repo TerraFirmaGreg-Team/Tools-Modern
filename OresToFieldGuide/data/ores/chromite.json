@@ -11,6 +11,11 @@
 			"info": "$(thing)Source of$(): Chromium"
 		},
 		{
+			"lang": "pt_br",
+			"text": "Cromita",
+			"info": "$(thing)Fonte de$(): Cromo"
+		},
+		{
 			"lang": "ru_ru",
 			"text": "Хромит",
 			"info": "$(thing)Хромит$(): Хром"

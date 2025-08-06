@@ -45,12 +45,16 @@
 			"text": "Bismuth (Normal)"
 		},
 		{
+			"lang": "pt_br",
+			"text": "Bismuto (Normal)"
+		},
+		{
 			"lang": "ru_ru",
 			"text": "Висмут (Обычный)"
 		},
 		{
 			"lang": "uk_ua",
-			"text": "Бісмут (Звичайний)"
+			"text": "Вісмут (Звичайний)"
 		}
 	]
 }

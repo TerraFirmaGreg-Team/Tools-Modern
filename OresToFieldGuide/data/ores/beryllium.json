@@ -11,6 +11,11 @@
 			"info": "$(thing)Source of$(): Beryllium"
 		},
 		{
+			"lang": "pt_br",
+			"text": "Berílio",
+			"info": "$(thing)Fonte de$(): Berílio"
+		},
+		{
 			"lang": "ru_ru",
 			"text": "Бериллий",
 			"info": "$(thing)Используется для$(): Эндер-жемчуг"
@@ -18,7 +23,7 @@
 		{
 			"lang": "uk_ua",
 			"text": "Берилій",
-			"info": "$(thing)Використовується для$(): Перли Енда"
+			"info": "$(thing)Джерело$(): Берилію"
 		}
 	]
 }

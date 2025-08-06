@@ -9,6 +9,11 @@
       "info": "$(thing)Source of$(): Andradite, Grossular, Uvarovite"
     },
     {
+      "lang": "pt_br",
+      "text": "Granada Amarela",
+      "info": "$(thing)Fonte de$(): Andradita, Glossulária, Uvarovita"
+    },
+    {
       "lang": "ru_ru",
       "text": "Жёлтый гранат",
       "info": "$(thing)Хромит$(): Андрадит, Гроссуляр, Уваровит"
@@ -16,7 +21,7 @@
     {
       "lang": "uk_ua",
       "text": "Жовтий гранат",
-      "info": "$(thing)Джерело$(): Андрадит, Гросулар, Уваровіт"
+      "info": "$(thing)Джерело$(): Андрадиту, Гросулару, Уваровіту"
     }
   ]
 }

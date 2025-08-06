@@ -6,128 +6,152 @@
 				"name": "tfg:mars/martian_mountains"
 			},
 			"vanilla_biomes": [
-				"minecraft:stony_peaks"
-			]
-		},
-		{
-			"name": "cold_mountains",
-			"vanilla_biomes": [
+				"minecraft:stony_peaks",
 				"minecraft:jagged_peaks",
-				"minecraft:frozen_peaks"
+				"minecraft:frozen_peaks",
+				"minecraft:eroded_badlands",
+				"minecraft:windswept_gravelly_hills"
 			]
 		},
 		{
-			"name": "hills",
+			"name": "amber_hills",
+			"mars_biome": {
+				"name": "tfg:mars/amber_hills"
+			},
 			"vanilla_biomes": [
-				"minecraft:savanna_plateau",
-				"minecraft:windswept_savanna",
 				"minecraft:cherry_grove",
-				"minecraft:wooded_badlands"
+				"minecraft:wooded_badlands",
+				"minecraft:savanna_plateau"
 			]
 		},
 		{
-			"name": "cold_hills",
+			"name": "rusticus_hills",
+			"mars_biome": {
+				"name": "tfg:mars/rusticus_hills"
+			},
 			"vanilla_biomes": [
+				"minecraft:grove",
 				"minecraft:snowy_slopes",
-				"minecraft:grove"
+				"minecraft:meadow"
 			]
 		},
 		{
-			"name": "forests",
+			"name": "sangnum_hills",
+			"mars_biome": {
+				"name": "tfg:mars/sangnum_hills"
+			},
+			"vanilla_biomes": [
+				"minecraft:windswept_savanna",
+				"minecraft:windswept_hills",
+				"minecraft:windswept_forest"
+			]
+		},
+		{
+			"name": "amber_plains",
+			"mars_biome": {
+				"name": "tfg:mars/amber_plains"
+			},
 			"vanilla_biomes": [
 				"minecraft:forest",
-				"minecraft:flower_forest",
 				"minecraft:birch_forest",
 				"minecraft:dark_forest",
+				"minecraft:old_growth_birch_forest"
+			]
+		},
+		{
+			"name": "rusticus_plains",
+			"mars_biome": {
+				"name": "tfg:mars/rusticus_plains"
+			},
+			"vanilla_biomes": [
 				"minecraft:savanna",
-				"minecraft:jungle",
-				"minecraft:old_growth_birch_forest",
-				"minecraft:sparse_jungle",
-				"minecraft:bamboo_jungle"
-			]
-		},
-		{
-			"name": "cold_forests",
-			"vanilla_biomes": [
-
-				"minecraft:taiga",
-				"minecraft:snowy_taiga",
-				"minecraft:old_growth_spruce_taiga",
-				"minecraft:old_growth_pine_taiga",
-				"minecraft:ice_spikes"
-			]
-		},
-		{
-			"name": "plains",
-			"vanilla_biomes": [
 				"minecraft:snowy_plains",
 				"minecraft:plains",
-				"minecraft:meadow",
 				"minecraft:badlands",
 				"minecraft:desert",
 				"minecraft:sunflower_plains"
 			]
 		},
 		{
-			"name": "shattered",
+			"name": "sangnum_plains",
+			"mars_biome": {
+				"name": "tfg:mars/sangnum_plains"
+			},
 			"vanilla_biomes": [
-				"minecraft:windswept_gravelly_hills",
-				"minecraft:windswept_hills",
-				"minecraft:windswept_forest",
-				"minecraft:eroded_badlands"
+				"minecraft:jungle",
+				"minecraft:sparse_jungle",
+				"minecraft:bamboo_jungle",
+				"minecraft:taiga",
+				"minecraft:snowy_taiga",
+				"minecraft:old_growth_spruce_taiga",
+				"minecraft:old_growth_pine_taiga",
+				"minecraft:ice_spikes",
+				"minecraft:flower_forest"
 			]
 		},
 		{
 			"name": "rivers",
 			"mars_biome": {
-				"name": "tfg:mars/martian_riverbed"
+				"name": "tfg:mars/martian_river"
 			},
 			"vanilla_biomes": [
-				"minecraft:river"
-			]
-		},
-		{
-			"name": "cold_rivers",
-			"mars_biome": {
-				"name": "tfg:mars/martian_riverbed"
-			},
-			"vanilla_biomes": [
+				"minecraft:river",
 				"minecraft:frozen_river"
 			]
 		},
 		{
-			"name": "shores",
+			"name": "swamps",
+			"mars_biome": {
+				"name": "tfg:mars/martian_riverbed"
+			},
 			"vanilla_biomes": [
-				"minecraft:stony_shore",
 				"minecraft:mangrove_swamp",
-				"minecraft:swamp",
-				"minecraft:beach"
+				"minecraft:swamp"
 			]
 		},
 		{
-			"name": "cold_shores",
+			"name": "shores",
+			"mars_biome": {
+				"name": "tfg:mars/martian_dune_edge"
+			},
 			"vanilla_biomes": [
+				"minecraft:stony_shore",
+				"minecraft:beach",
 				"minecraft:snowy_beach"
 			]
 		},
 		{
 			"name": "oceans",
+			"mars_biome": {
+				"name": "tfg:mars/martian_dunes"
+			},
 			"vanilla_biomes": [
-				"minecraft:mushroom_fields",
-				"minecraft:deep_ocean",
 				"minecraft:ocean",
-				"minecraft:deep_lukewarm_ocean",
 				"minecraft:lukewarm_ocean",
-				"minecraft:warm_ocean"
+				"minecraft:warm_ocean",
+				"minecraft:frozen_ocean",
+				"minecraft:cold_ocean"
 			]
 		},
 		{
-			"name": "cold_oceans",
+			"name": "deep_oceans",
+			"mars_biome": {
+				"name": "tfg:mars/martian_deep_desert"
+			},
 			"vanilla_biomes": [
+				"minecraft:deep_ocean",
+				"minecraft:deep_lukewarm_ocean",
 				"minecraft:deep_frozen_ocean",
-				"minecraft:frozen_ocean",
-				"minecraft:deep_cold_ocean",
-				"minecraft:cold_ocean"
+				"minecraft:deep_cold_ocean"
+			]
+		},
+		{
+			"name": "mushroom_fields",
+			"mars_biome": {
+				"name": "tfg:mars/martian_oasis"
+			},
+			"vanilla_biomes": [
+				"minecraft:mushroom_fields"
 			]
 		}
 	]

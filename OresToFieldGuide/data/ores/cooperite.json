@@ -6,8 +6,13 @@
   "translations": [
     {
       "lang": "en_us",
-      "text": "Sheldonite",
+      "text": "Cooperite",
       "info": "$(thing)Source of$(): Platinum, Nickel, Palladium"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Cooperita",
+      "info": "$(thing)Fonte de$(): Platina, Níquel, Paládio"
     },
     {
       "lang": "ru_ru",

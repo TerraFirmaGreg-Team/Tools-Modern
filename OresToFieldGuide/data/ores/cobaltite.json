@@ -11,6 +11,11 @@
 			"info": "$(thing)Source of$(): Cobalt, Arsenic"
 		},
 		{
+			"lang": "pt_br",
+			"text": "Cobaltita",
+			"info": "$(thing)Fonte de$(): Cobalto, Arsênico"
+		},
+		{
 			"lang": "ru_ru",
 			"text": "Кобальтит",
 			"info": "$(thing)Хромит$(): Кобальт, Мышьяк"

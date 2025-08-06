@@ -11,6 +11,11 @@
 			"info": "$(thing)Source of$(): Plutonium"
 		},
 		{
+			"lang": "pt_br",
+			"text": "Plutônio",
+			"info": "$(thing)Fonte de$(): Plutônio"
+		},
+		{
 			"lang": "ru_ru",
 			"text": "Плутоний",
 			"info": "$(thing)Хромит$(): Плутоний"

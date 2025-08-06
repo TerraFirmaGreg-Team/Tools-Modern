@@ -42,12 +42,16 @@
 			"text": "Cassiterite (Surface)"
 		},
 		{
+			"lang": "pt_br",
+			"text": "Cassiterita (Superfície)"
+		},
+		{
 			"lang": "ru_ru",
 			"text": "Касситерит (Поверхностный)"
 		},
 		{
 			"lang": "uk_ua",
-			"text": "Каситерит (Поверхня)"
+			"text": "Каситерит (Поверхнивий)"
 		}
 	]
 }

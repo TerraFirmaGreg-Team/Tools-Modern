@@ -10,6 +10,11 @@
       "info": "$(thing)Source of$(): Magnesium, Aluminium"
     },
     {
+      "lang": "pt_br",
+      "text": "Areia Glauconita",
+      "info": "$(thing)Fonte de$(): Magnésio, Alumínio"
+    },
+    {
       "lang": "ru_ru",
       "text": "Глауконитовый песок",
       "info": "$(thing)Хромит$(): Магний, Алюминий"
