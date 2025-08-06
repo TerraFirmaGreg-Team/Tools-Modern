@@ -1,0 +1,24 @@
+{
+	// Fix typo
+	"info.ad_astra.solar_panel": "Генерує енергію від сонця протягом дня. Зверніть увагу, що кількість згенерованої енергії залежить від планети.",
+	// Replaces the emojis with FE and mB
+	"tooltip.ad_astra.energy": "%s FE / %s FE",
+	"tooltip.ad_astra.energy_generation_per_tick": "Генерує %s FE за тік",
+	"tooltip.ad_astra.energy_in": "Вхід: %s FE/т",
+	"tooltip.ad_astra.energy_out": "Вихід: %s FE/т",
+	"tooltip.ad_astra.energy_per_tick": "%s FE/т",
+	"tooltip.ad_astra.energy_transfer_tick": "Передача: %s FE/т",
+	"tooltip.ad_astra.energy_use_per_tick": "Використовує %s FE за тік",
+	"tooltip.ad_astra.max_energy_in": "Макс. вхід: %s FE/т",
+	"tooltip.ad_astra.max_energy_out": "Макс. вихід: %s FE/т",
+	"tooltip.ad_astra.max_generation": "Макс.: %s FE/т",
+	"tooltip.ad_astra.max_fluid_in": "Макс. вхід: %s mB/т",
+	"tooltip.ad_astra.max_fluid_out": "Макс. вихід: %s mB/т",
+	"tooltip.ad_astra.fluid": "%s mB / %s mB %s",
+	"tooltip.ad_astra.fluid_generation_per_iteration": "Генерує %s mB за ітерацію",
+	"tooltip.ad_astra.fluid_in": "Вхід: %s mB/т",
+	"tooltip.ad_astra.fluid_out": "Вихід: %s mB/т",
+	"tooltip.ad_astra.fluid_per_tick": "%s mB/т",
+	"tooltip.ad_astra.fluid_transfer_tick": "Передача: %s mB/т",
+	"tooltip.ad_astra.fluid_use_per_iteration": "Використовує %s mB за ітерацію"
+}
