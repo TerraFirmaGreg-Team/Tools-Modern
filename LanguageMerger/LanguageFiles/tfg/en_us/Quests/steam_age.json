@@ -188,7 +188,7 @@
 
 	"quests.steam_age.fuel_sources.title": "More Fuel Sources",
 	"quests.steam_age.fuel_sources.subtitle": "Putting the power in steam power",
-	"quests.steam_age.fuel_sources.desc": "The steam engine can accept more liquid fuels than the High Pressure Liquid Boiler. While Creosote or Lava are the easiest to set up at this point, you might also be interested in various plant-based oils like &eSeed Oil&r from Sunflowers or Rapeseed.\n\nCreosote and Lava also don't scale very well once you get into further tiers, while Biofuel can be upgraded into Diesel and then Cetane-Boosted Diesel, so start setting up a big field for plant oils now if that sounds appealing to you!",
+	"quests.steam_age.fuel_sources.desc": "The steam engine can accept more liquid fuels than the High Pressure Liquid Boiler. While Creosote or Lava are the easiest to set up at this point, you might also be interested in various plant-based oils like &eSeed Oil&r from Sunflowers or Canola.\n\nCreosote and Lava also don't scale very well once you get into further tiers, while Biofuel can be upgraded into Diesel and then Cetane-Boosted Diesel, so start setting up a big field for plant oils now if that sounds appealing to you!",
 
 	"quests.steam_age.straw.title": "Automatic Liquid Fuelling",
 	"quests.steam_age.straw.subtitle": "Combustible sippy cups",
