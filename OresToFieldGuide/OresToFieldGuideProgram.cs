@@ -618,7 +618,7 @@ namespace OresToFieldGuide
                     sb.AppendLine("}, new OreVeinInfoRecipe.WeightedBlock[] {");
 
 					foreach (var value in vein.Ores) {
-						sb.Append($"new OreVeinInfoRecipe.WeightedBlock(\"{m_oreDict[value.OreID].OreOverride ?? $"gtceu:{vein.Rocks[0]}_{value.OreID}_ore"}\", {(int)(value.WeightPercent ?? 0)}),");
+						sb.Append($"new OreVeinInfoRecipe.WeightedBlock(\"{value.OreID}\", {(int)(value.WeightPercent ?? 0)}),");
 					}
 					sb.AppendLine("}),");
 				}
