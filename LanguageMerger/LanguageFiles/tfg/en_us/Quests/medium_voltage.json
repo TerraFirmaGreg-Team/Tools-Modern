@@ -129,7 +129,7 @@
 
     "quests.medium_voltage.mv_bio_diesel.title": "The Church of Bio Diesel",
     "quests.medium_voltage.mv_bio_diesel.subtitle": "Flower Power",
-    "quests.medium_voltage.mv_bio_diesel.desc": "Want to try something plant-based but without a tree farm? Give &3Bio Diesel&r a shot! The best route for it is through &dSeed Oil&r from either Sunflowers or Rapeseed. Just mix it with a little Ethanol and Sodium Hydroxide (from Sea Water!) in a Chemical Reactor and you're done! As a bonus, this route also outputs Glycerol which you can turn into &dEthylene&r!",
+    "quests.medium_voltage.mv_bio_diesel.desc": "Want to try something plant-based but without a tree farm? Give &3Bio Diesel&r a shot! The best route for it is through &dSeed Oil&r from either Sunflowers or Canola. Just mix it with a little Ethanol and Sodium Hydroxide (from Sea Water!) in a Chemical Reactor and you're done! As a bonus, this route also outputs Glycerol which you can turn into &dEthylene&r!",
 
     "quests.medium_voltage.mv_mutli_channel.title": "Multiple Channel Pipes",
     "quests.medium_voltage.mv_mutli_channel.subtitle": "Is it already AE2?",

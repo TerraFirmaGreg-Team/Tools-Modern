@@ -241,8 +241,8 @@
 
 	"block.tfg.sunflower_wild": "Wild Sunflower",
 	"block.tfg.sunflower_dead": "Dead Sunflower",
-	"block.tfg.rapeseed_wild": "Wild Rapeseed",
-	"block.tfg.rapeseed_dead": "Dead Rapeseed",
+	"block.tfg.rapeseed_wild": "Wild Canola",
+	"block.tfg.rapeseed_dead": "Dead Canola",
 
 	"block.tfg.casings.machine_casing_iron_desh": "Desh Machine Casing",
 	"block.tfg.casings.machine_casing_stainless_evaporation": "Stainless Evaporation Machine Casing",
