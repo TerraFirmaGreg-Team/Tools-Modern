@@ -603,7 +603,7 @@ namespace OresToFieldGuide
 				foreach (var vein in veins)
 				{
 
-					sb.AppendLine($"new OreVeinInfoRecipe(\"{vein.ID}\", \"{vein.Dimension}\", ")
+					sb.AppendLine($"new OreVeinInfoRecipe(\"{vein.ID}\", \"{m_dimensionDict[vein.Dimension].DimensionID}\", ")
 						.Append($"{vein.Config.Rarity}, {vein.Config.Density}, {vein.Config.MinY}, {vein.Config.MaxY}, {vein.Config.Size}, {vein.Config.Height}, {vein.Config.Radius}, ")
 						.AppendLine($"new String[] {{");
 
