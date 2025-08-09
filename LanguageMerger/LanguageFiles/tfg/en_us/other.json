@@ -164,5 +164,6 @@
   "tfg.emi.ore_veins.y_ranges": "Depth: %d to %d",
   "tfg.emi.ore_veins.size": "Size: %d",
   "tfg.emi.ore_veins.height": "Height: %d",
-  "tfg.emi.ore_veins.radius": "Radius: %d"
+  "tfg.emi.ore_veins.radius": "Radius: %d",
+  "emi.category.tfg.ore_vein_info": "Ore Veins"
 }
