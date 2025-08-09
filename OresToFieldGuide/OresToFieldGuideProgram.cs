@@ -609,10 +609,7 @@ namespace OresToFieldGuide
 
 					foreach (var rock in vein.Rocks)
 					{
-						foreach (var block in m_rockDict[rock].ReplaceableBlocks)
-						{
-                            sb.Append($"\"{block}\",");
-                        }
+						sb.Append($"\"{m_rockDict[rock].ReplaceableBlocks[0]}\",");
                     }
 
                     sb.AppendLine("}, new OreVeinInfoRecipe.WeightedBlock[] {");
