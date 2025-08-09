@@ -159,10 +159,10 @@
   "trim_material.tfc.redx_tfc": "RedX",
 
   "tfg.emi.ore_veins.rock_types": "Found in rock types:",
-  "tfg.emi.ore_veins.rarity": "Rarity:",
-  "tfg.emi.ore_veins.density": "Density:",
-  "tfg.emi.ore_veins.y_ranges": "Depth:",
-  "tfg.emi.ore_veins.size": "Size:",
-  "tfg.emi.ore_veins.height": "Height:",
-  "tfg.emi.ore_veins.radius": "Radius:"
+  "tfg.emi.ore_veins.rarity": "Rarity: %d",
+  "tfg.emi.ore_veins.density": "Density: %d",
+  "tfg.emi.ore_veins.y_ranges": "Depth: %d-%d",
+  "tfg.emi.ore_veins.size": "Size: %d",
+  "tfg.emi.ore_veins.height": "Height: %d",
+  "tfg.emi.ore_veins.radius": "Radius: %d"
 }
