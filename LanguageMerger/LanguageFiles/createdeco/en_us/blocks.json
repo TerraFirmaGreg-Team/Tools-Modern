@@ -63,5 +63,6 @@
     "block.createdeco.industrial_iron_door": "Steel Door",
     "block.createdeco.locked_industrial_iron_door": "Locked Steel Door",
     "block.createdeco.industrial_iron_trapdoor": "Steel Trapdoor",
-    "block.createdeco.industrial_iron_ladder": "Steel Ladder"
+    "block.createdeco.industrial_iron_ladder": "Steel Ladder",
+    "block.createdeco.industrial_iron_facade": "Steel Facade"
 }

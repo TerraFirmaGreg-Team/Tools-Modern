@@ -50,13 +50,13 @@
 	"quests.low_voltage.lv_biodiesel.desc": "You will need a &7LV Chemical Reactor&r to make &2Bio Diesel&r. Simply mix your &aSeed Oil&r with any &eAlcohol&r from &6TFC&r. Other recipes using &dEthanol&r will require you to reach &bMV&r.",
 
 	"quests.low_voltage.lv_seed_oil.title": "Seed Oil",
-	"quests.low_voltage.lv_seed_oil.subtitle": "The Real Power of Plant",
+	"quests.low_voltage.lv_seed_oil.subtitle": "The Real Power of Plants",
 	"quests.low_voltage.lv_seed_oil.desc": "You have two options to produce &aSeed Oil&r: either by using the &9Vacuum Chamber&r or, if you already have it, the &7LV Extractor&r will do a great job.\n\nAlso, note that &aSeed Oil&r isn't only used for making &2Bio Diesel&r.\n\nIt can also be processed into &6Lubricant&r or sent directly to your &cBlaze Burner&r for fuel.",
 
-	"quests.low_voltage.lv_seeds.title": "First grab seeds",
+	"quests.low_voltage.lv_seeds.title": "First, grab seeds",
 	"quests.low_voltage.lv_seeds.subtitle": "These are tall plants",
-	"quests.low_voltage.lv_seeds.desc": "If you come across these plants, you should pick them up and start a farm.\n\nThey will be your best source of &aSeed Oil&r, a liquid used for producing &eBio Diesel&r. The rapeseed are a bit more resistant to lower temperature while the Sunflower support warm climate. You also could grow them in your Electric Greenhouse if you don't want to spend to much time farming, in that case use Rapeseed as they can't rot. \n\nThis will be a great asset for your energy production.",
-	"quests.low_voltage.lv_seeds.task": "Rapeseed or Sunflower",
+	"quests.low_voltage.lv_seeds.desc": "If you come across these plants, you should pick them up and start a farm.\n\nThey will be your best source of &aSeed Oil&r, a liquid used for producing &eBio Diesel&r. Canola is a bit more resistant to lower temperatures, while Sunflowers are happier in warmer climates. You also could grow them in your Electric Greenhouse if you don't want to spend as much time farming, at the expense of having to spend a little power to grow them.",
+	"quests.low_voltage.lv_seeds.task": "Canola or Sunflowers",
 
 	"quests.low_voltage.lv_turbo_charge.title": "Turbo Charger",
 	"quests.low_voltage.lv_turbo_charge.subtitle": "Useful to charge your electric tools faster",

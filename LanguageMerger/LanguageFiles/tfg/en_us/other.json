@@ -163,5 +163,23 @@
     "trim_material.tfc.bismuth_tfc": "Bismuth",
     "trim_material.tfc.neutronium_tfc": "Neutronium",
     "trim_material.tfc.pyrite_tfc": "Pyrite",
-    "trim_material.tfc.redx_tfc": "RedX"
+    "trim_material.tfc.redx_tfc": "RedX",
+  
+    "tfg.emi.ore_veins.rock_types": "Found in rock types:",
+	  "tfg.emi.ore_veins.rarity": "Rarity: %d",
+	  "tfg.emi.ore_veins.density": "Density: %d",
+	  "tfg.emi.ore_veins.y_ranges": "Depth: %d to %d",
+	  "tfg.emi.ore_veins.size": "Size: %d",
+	  "tfg.emi.ore_veins.height": "Height: %d",
+	  "tfg.emi.ore_veins.radius": "Radius: %d",
+	  "emi.category.tfg.ore_vein_info": "Ore Veins",
+
+	  "tfg.toast.ore_prospector_none": "No ores found in range.",
+	  "tfg.toast.ore_prospector_message": "Ores found within %s §6blocks in this direction: %s",
+	  "tooltip.tfg.ore_prospector_stats": "Scan Range: %s, Cross Section: %s x %s.",
+	  "tooltip.tfg.ore_prospector_count": "This prospector will display ore counts.",
+	  "tooltip.tfg.ore_prospector_xray": "This prospector will display an x-ray view of ore blocks.",
+
+	  "tfg.hangglider.disabled_dimension": "You can't use a hang glider here!"
 }
+

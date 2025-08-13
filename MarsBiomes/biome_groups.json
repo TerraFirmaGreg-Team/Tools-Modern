@@ -53,7 +53,6 @@
 			},
 			"vanilla_biomes": [
 				"minecraft:forest",
-				"minecraft:flower_forest",
 				"minecraft:birch_forest",
 				"minecraft:dark_forest",
 				"minecraft:old_growth_birch_forest"
@@ -86,7 +85,8 @@
 				"minecraft:snowy_taiga",
 				"minecraft:old_growth_spruce_taiga",
 				"minecraft:old_growth_pine_taiga",
-				"minecraft:ice_spikes"
+				"minecraft:ice_spikes",
+				"minecraft:flower_forest"
 			]
 		},
 		{

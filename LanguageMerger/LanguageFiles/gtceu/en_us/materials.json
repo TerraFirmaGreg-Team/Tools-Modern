@@ -1,6 +1,7 @@
 {
 	"material.gtceu.ice": "Ice Slush",
 	"material.gtceu.damascus_steel": "Swine-steel",
+
 	// Sorry GT, big bang theory doesn't count as a scifi reference
 	"material.gtceu.cooperite": "Cooperite",
 	"material.gtceu.armalcolite": "Armalcolite",
@@ -8,6 +9,8 @@
 	"material.gtceu.ostrum": "Ostrum",
 	"material.gtceu.calorite": "Calorite",
 	"material.gtceu.etrium": "Etrium",
+
+	"material.gtceu.aluminium_silicate": "Aluminium Silicate",
 
 	"material.gtceu.rocket_alloy_t1": "R-Aluminosteel Rocket Alloy",
 	"material.gtceu.rocket_alloy_t3": "45-Ti Tungstensteel Rocket Alloy",
