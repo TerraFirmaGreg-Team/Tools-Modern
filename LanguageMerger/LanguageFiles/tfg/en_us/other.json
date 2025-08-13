@@ -14,7 +14,14 @@
     "tfg.tooltip.moon_rabbit_variant.purple": "Lavender Fur",
     "tfg.tooltip.moon_rabbit_variant.sofu": "Sundae Fur",
 
-
+    "entity.tfg.glacian_ram.male": "Glacian Ram",
+    "entity.tfg.glacian_ram.female": "Glacian Ewe",
+    "tfg.tooltip.attribution.glacian_ram": "§9§oCredit: Ad Astra",
+    
+    "entity.tfg.sniffer.male": "Sniffer",
+    "entity.tfg.sniffer.female": "Sniffer",
+    "tfg.tooltip.attribution.sniffer": "§9§oCredit: Minecraft",
+    
     "item.treetap.tap": "Deprecated Item, Craft to Upgrade",
 
     "item.gtceu.zinc_ingot": "Deprecated Item, Craft to Upgrade",
