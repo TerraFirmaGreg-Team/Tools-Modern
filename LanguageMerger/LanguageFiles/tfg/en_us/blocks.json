@@ -257,12 +257,12 @@
 	"block.tfg.machine_casing_aluminium_plated_steel": "Aluminium Plated Steel Machine Casing",
 
 	"__comment1":"TODO",
-	"__comment2":"block.tfg.corallium_arenicolus_0: Corallium Arenicolus",
-	"__comment3":"block.tfg.corallium_arenicolus_1: Corallium Arenicolus",
-	"__comment4":"block.tfg.corallium_arenicolus_2: Corallium Arenicolus",
-	"__comment5":"block.tfg.corallium_arenicolus_3: Corallium Arenicolus",
-	"__comment6":"block.tfg.corallium_arenicolus_4: Corallium Arenicolus",
-	"__comment7":"block.tfg.corallium_arenicolus_5: Corallium Arenicolus",
+	"block.tfg.corallium_arenicolus_0: Corallium Arenicolus",
+	"block.tfg.corallium_arenicolus_1: Corallium Arenicolus",
+	"block.tfg.corallium_arenicolus_2: Corallium Arenicolus",
+	"block.tfg.corallium_arenicolus_3: Corallium Arenicolus",
+	"block.tfg.corallium_arenicolus_4: Corallium Arenicolus",
+	"block.tfg.corallium_arenicolus_5: Corallium Arenicolus",
 
 	"block.tfg.sand.fluorapatite.blue": "Blue Fluorapatite Sand",
 	"block.tfg.sandstone.raw.fluorapatite.blue": "Raw Blue Fluorapatite Sandstone",
