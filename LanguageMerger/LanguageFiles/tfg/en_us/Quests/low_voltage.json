@@ -1,5 +1,5 @@
 {
-	"__comment1": "#region Starting",
+	"__comment1": "Starting",
 	
 	"quests.low_voltage": "&7LV&r - Low Voltage",
 	"quests.low_voltage.subtitle": "Tame electricity and begin your GregTech journey",
@@ -80,9 +80,7 @@
 	"quests.low_voltage.lv_aqueous_accumulator.desc": "The &3Aqueous Accumulator&r is basically a Rock Crusher but for fluids. Simply place the machine next to two source blocks of the appropriate fluid, set the circuit, and voila! It'll keep producing more of that fluid. It effectively does the same thing as a mechanical pump, but using electricity instead of mechanical power, so you may find it easier to fit into your factory. As a bonus, the HV one will make infinite lava too!\n\nYou can safely waterlog the source blocks to prevent them freezing in winter, and the machine will continue to work.",
 	"quests.low_voltage.lv_aqueous_accumulator.task": "Any Aqueous Accumulator",
 
-	"__comment2": "#endregion",
-
-	"__comment3": "#region First Machines",
+	"__comment3": "First Machines",
 
 	"quests.low_voltage.lv_wiremill.title": "Basic Wiremill",
 	"quests.low_voltage.lv_wiremill.subtitle": "No more painful wires!",
@@ -119,9 +117,7 @@
 	"quests.low_voltage.programmed_circuits.desc.2": "&l&3Lore:&r&o This feature is originally from GTNH.",
 	"quests.low_voltage.programmed_circuits.task": "I got it, I don't need to craft circuits",
 
-	"__comment4": "#endregion",
-
-	"__comment5": "#region Converyor",
+	"__comment5": "Converyor",
 	
 	"quests.low_voltage.lv_conveyor.title": "LV Conveyor Module",
 	"quests.low_voltage.lv_conveyor.subtitle": "A crafting component, but also a cover!",
@@ -150,9 +146,7 @@
 	"quests.low_voltage.cover_behaviour.desc.2": "For Covers that transfer Items/Fluids, you will have a button to enable/disable other forms of transfer through the cover:\n\n&9- &rDisabled: only the cover will be allowed to transfer on this machine side.\n\n&9-&r Allow Filtered (only relevant with a filter!): other transfer will be enabled only if it matches the filter\n\n&9-&r Allow Unfiltered: any other transfer is allowed on this machine side.\n\nPlacing a cover of a lower voltage tier on a machine is &9safe&r.",
 	"quests.low_voltage.cover_behaviour.task": "I'm an expert on Covers now, don't you worry.",
 
-	"__comment6": "#endregion",
-
-	"__comment7": "#region Battery",
+	"__comment7": "Battery",
 
 	"quests.low_voltage.lv_canner.title": "Basic Canner",
 	"quests.low_voltage.lv_canner.subtitle": "This machine does nothing exciting",
@@ -185,9 +179,7 @@
 	"quests.low_voltage.lv_sprayer.subtitle": "Time for server tag wars",
 	"quests.low_voltage.lv_sprayer.desc": "Unfortunately, this is only an &lEmpty&r Spray Can, which you have to fill with Chemical Dye before using.\n\n&aSpray Cans&r do not provide any functionality involving machines, but can be quite &bvisually appealing and useful&r!\n\nAny (or almost any) GregTech tile entity (machine, pipe, cable...) can be &6painted&r to one of the 16 colors of your choosing. This is great for screenshots, or to separate different setups for convenience in a Multiplayer base. They also help with distinguishing between pipelines and cables.\n\nHolding the &aSpray Can&r in the offhand will automatically paint any block you place.",
 
-	"__comment8": "#endregion",
-
-	"__comment9": "#region Other Machines",
+	"__comment9": "Other Machines",
 
 	"quests.low_voltage.other_machines.title": "But wait, there's more!",
 	"quests.low_voltage.other_machines.subtitle": "You can't escape Greg...",
@@ -205,9 +197,7 @@
 	"quests.low_voltage.lv_electroliser.desc.2": "&lFor Ore Processing:&r\n\nOkay, we lied. It's not &oexactly&r used for Ore Processing, it's actually used in the &adecomposition of Dusts&r. However, most of the useful electrolysis recipes are locked at &bMV&r. You can peep at the &emolecular formula&r in a dust's tooltip to see what you can get from electrolysis.",
 	"quests.low_voltage.lv_electroliser.desc.3": "&cTake caution!&r Due to how ores work, directly smelting dusts into Ingots can give higher metal yields than electrolysis. However, it means you lose the other products in the dust. You will have to decide whether you want to prioritise direct value, or byproduct count.",
 
-	"__comment10": "#endregion",
-
-	"__comment11": "#region Mixer",
+	"__comment11": "Mixer",
 
 	"quests.low_voltage.lv_mixer.title": "Basic Mixer",
 	"quests.low_voltage.lv_mixer.subtitle": "The Mixer mixes...",
@@ -222,9 +212,7 @@
 	"quests.low_voltage.gallium_arsenide.subtitle": "I hate byproducts, they're awesome",
 	"quests.low_voltage.gallium_arsenide.desc": "Many materials going forward cannot be smelted directly from any Ores! They are instead obtained as byproducts from processing of other ores. Gallium and Arsenic are &4among&r these materials.\n\nFor &dGallium&r, you may, ranged from worst to best (compromising difficulty and yields):\n\n&9- &3Electrolyze &aSphalerite&r for a low chance of small dust. Note that you lose out on direct smelting value.\n\n&9-&r Put &aCrushed Bauxite&r in the &3Chemical Bath&r. Note that this requires &9Sodium Persulfate&r.\n\n&9-&r Obtain it as a Byproduct of &aSphalerite&r Ore Processing in the &3Thermal Centrifuge&r or &3Centrifuge&r.\n\nFor &dArsenic&r, you will have to mine and &3centrifuge&r &aRealgar&r, or put &aCobaltite&r through an EBF.",
 
-	"__comment12": "#endregion",
-
-	"__comment13": "#region Assembler",
+	"__comment13": "Assembler",
 
 	"quests.low_voltage.lv_assembler.title": "Basic Assembler",
 	"quests.low_voltage.lv_assembler.subtitle": "This bad boy is assembling better than you and IKEA",
@@ -255,9 +243,7 @@
 	"quests.low_voltage.lv_greenhouse.desc.2": "&9Note: &rWith recipes requiring more than 32 EU/t, the multiblock needs either 1 &bMV&r energy hatch or 2 &7LV&r energy hatches. Multiblocks will &cnot&r use 2A of one tier to reach the next one for recipe voltage minimums.\n\nIn other words, the controller needs to say at least &bMV&r in the GUI to run recipes which say &bMV&r in EMI, even if they can draw enough EU/t with a lower tier hatch configuration.\n\n&9Note:&r This structure requires a lot of &7Steel&r. Make sure you have an &3EBF&r for that.",
 	"quests.low_voltage.lv_greenhouse.desc.3": "&l&3Lore:&r&o This multiblock was originally created for the GTCEu Community Pack, but is also available on the GTCEu developer documentation. It's significantly slower than default to keep in line with TFC's slower tree growing speeds, but prior to TFG 0.9, it used to take almost an hour for each recipe!",
 
-	"__comment14": "#endregion",
-
-	"__comment15": "#region Centrifuge",
+	"__comment15": "Centrifuge",
 
 	"quests.low_voltage.lv_centrifuge.title": "Basic Centrifuge",
 	"quests.low_voltage.lv_centrifuge.subtitle": "It does the opposite of the Mixer",
@@ -294,9 +280,7 @@
 	"quests.low_voltage.lv_arc_furnace.desc.1": "The &3Arc Furnace&r uses a lil' bit of &9Oxygen&r to smelt items in a different fashion than Furnaces.\n\nYou can use it to make easier &aWrought Iron&r, double your &aGlass&r, and gain access to &aAnnealed Copper&r for cheaper electronic components. It's also your new best way to make &4Red Steel&r and &1Blue Steel&r Ingots!\n\nIt can also recycle various components and machines back to their original materials.",
 	"quests.low_voltage.lv_arc_furnace.desc.2": "&l&3Lore:&r&o Previous GregTech versions had both the Arc Furnace and the &bPlasma Arc Furnace&f. In that case, why not use one machine for both? Well, that's exactly what we thought - but we ultimately decided to remove one of the two &bplasma&f recipes. And then the other &bplasma&f recipe.\n\n&oIn short, the &bPlasma Arc Furnace&f is &4gone&f. RIP.",
 
-	"__comment16": "#endregion",
-
-	"__comment17": "#region First EBF",
+	"__comment17": "First EBF",
 
 	"quests.low_voltage.lv_extractor.title": "Basic Liquid Extraction",
 	"quests.low_voltage.lv_extractor.subtitle": "The Extractor extracts...",
@@ -358,8 +342,6 @@
 	"quests.low_voltage.mv_hull.title": "Your third machine hull",
 	"quests.low_voltage.mv_hull.subtitle": "This is going quite well, only 7 to go!",
 	"quests.low_voltage.mv_hull.desc1": "Good job, you now have your &bMV Machine Hull&r, your first &bMV Circuit&r and your first &6Circuit Assembler&r.\n\nThis is the gist of &6GregTech&r, every tier you are going to make new &6machines&r using new &6materials&r and &6chemicals&r. You are going to have &5so much fun&r, we are kinda jealous!",
-	"quests.low_voltage.mv_hull.desc2": "Before going further into &bMV&r, remember that in &6TFG&r you can use &6Create&r to reinforce your infrastructure if you don't want to use too much of GregTech. Aluminium Shafts and Cogwheels have 4x the stress capacity of steel ones, so you should be able to run all your machines much faster with them!",
+	"quests.low_voltage.mv_hull.desc2": "Before going further into &bMV&r, remember that in &6TFG&r you can use &6Create&r to reinforce your infrastructure if you don't want to use too much of GregTech. Aluminium Shafts and Cogwheels have 4x the stress capacity of steel ones, so you should be able to run all your machines much faster with them!"
 	
-	"__comment18": "#endregion"
-
 }
