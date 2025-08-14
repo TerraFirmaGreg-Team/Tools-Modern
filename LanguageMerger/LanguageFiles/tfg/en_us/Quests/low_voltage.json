@@ -303,6 +303,7 @@
 
 	"quests.low_voltage.lv_chemical_reactor.title": "Basic Chemical Reactor",
 	"quests.low_voltage.lv_chemical_reactor.subtitle": "Chemistry for dummies",
+	"quests.low_voltage.lv_chemical_reactor.task": "Liquid Rubber",
 	"quests.low_voltage.lv_chemical_reactor.desc.1": "The &3Chemical Reactor&r will be required for &la lot&r of recipes.\n\nLet's give it a spin - why don't we use your freshly made Chemical Reactor to unlock a new, &6better recipe for Rubber&r? Rubber is &dunusable&r as a Fluid, so you will need to make another machine to process it further.",
 	"quests.low_voltage.lv_chemical_reactor.desc.2": "You can't make Rubber using the Chemical Reactor alone, so here are some &aother machines&r you might want to aim for: \n\nA &3Solidifier&r is useful to solidify your Rubber directly into &aRubber Sheets&r. You'll want these moving forward.\n\nYou could then make use of an &3Assembler&r to use your molten Rubber for &aCables&r. This isn't important for Tin Cables, but better cables will &eneed&r to be made in the Assembler.\n\n&eNote:&r Submit a fluid by having it stored in &lany&r tank in your inventory. A Drum is the perfect candidate.",
 
