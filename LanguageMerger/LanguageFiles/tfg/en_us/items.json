@@ -151,6 +151,12 @@
     "item.tfg.food.calorie_paste": "Calorie Paste",
     "item.tfg.food.meal_bag": "Meal Bag",
     "item.tfg.food.ice_soup": "Ice Soup",
+    "item.tfg.food.raw_glacian_mutton": "Raw Glacian Mutton",
+    "item.tfg.food.cooked_glacian_mutton": "Cooked Glacian Mutton",
+    "item.tfg.spawn_egg.glacian_ram": "Glacian Spawn Egg",
+    "item.tfg.food.raw_sniffer_beef": "Raw Sniffer Beef",
+    "item.tfg.food.cooked_sniffer_beef": "Cooked Sniffer Beef",
+    "item.tfg.spawn_egg.sniffer": "Sniffer Spawn Egg",
 
     "item.tfg.roasted_sunflower_seeds": "Roasted Sunflower Seeds",
     "item.tfg.sunflower_seeds": "Sunflower Seed",
@@ -202,8 +208,11 @@
     "item.tfg.wood.lumber.aeronos": "Aeronos Lumber",
     "item.tfg.wood.lumber.strophar": "Strophar Lumber",
     "item.tfg.wood.lumber.glacian": "Glacian Lumber",
+    
+    "item.tfg.glacian_wool": "Glacian Ram Wool",
+    "item.tfg.sniffer_wool": "Mineral Rich Tufts",
 
-    "item.tfg.aes_polyurethane": "AES Reinforced R-Polyurethane Foam",
+    "item.tfg.aes_polyurethane": "Bio-AES Reinforced R-Polyurethane Foam",
     "item.tfg.mli_shielding": "Multi-Layer Insulated Shielding",
     "item.tfg.rocket_cone_t3": "Advanced Rocket Nose Cone",
     "item.tfg.rocket_fin_t3": "Advanced Rocket Fin",
