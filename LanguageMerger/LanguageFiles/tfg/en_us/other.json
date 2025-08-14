@@ -179,7 +179,8 @@
 	  "tooltip.tfg.ore_prospector_stats": "Scan Range: %s, Cross Section: %s x %s.",
 	  "tooltip.tfg.ore_prospector_count": "This prospector will display ore counts.",
 	  "tooltip.tfg.ore_prospector_xray": "This prospector will display an x-ray view of ore blocks.",
+    "tooltip.tfg.ore_prospector_mode_vein": "per-vein",
+    "tooltip.tfg.ore_prospector_mode_block": "per-block",
 
 	  "tfg.hangglider.disabled_dimension": "You can't use a hang glider here!"
 }
-

@@ -15,7 +15,7 @@
 
     "quests.tfg_tips.toolbelt.title": "Toolbelt and Pouches",
     "quests.tfg_tips.toolbelt.subtitle": "Those tools sure take up a lot of space, let's fix that!",
-    "quests.tfg_tips.toolbelt.desc": "With a &dToolbelt&r, you'll be able to manage multiple tools without wasting inventory slots! This handy item can go into a special &3Toolbelt Slot&r in your &4Curios menu&r. You can insert and retrieve tools with a &ckeybind.&r It starts with only two slots, but more can be added by adding &aBelt Pouches&r.\n\n&lDue to a bug with this mod, it's not possible to upgrade your &dToolbelt&f if it's been dyed or has tools inside. Empty it first!",
+    "quests.tfg_tips.toolbelt.desc": "With a &dToolbelt&r, you'll be able to manage multiple tools without wasting inventory slots! This handy item can go into a special &3Toolbelt Slot&r in your &4Curios menu&r. You can insert and retrieve tools with a &ckeybind.&r It starts with only two slots, but more can be added by adding &aBelt Pouches&r.",
 
     "quests.tfg_tips.maxed_out_toolbelt.title": "ALL THE TOOLS",
     "quests.tfg_tips.maxed_out_toolbelt.subtitle": "That belt must be very heavy at this point...",
