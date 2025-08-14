@@ -245,7 +245,7 @@
     "quests.medium_voltage.mv_multi_smelter.subtitle": "Possibly the most powerful furnace you've seen",
     "quests.medium_voltage.mv_multi_smelter.desc": "At its lowest power (Cupronickel coils and &7LV&r Voltage), the &dMulti Smelter&r smelts 32 items in just 12 seconds - equivalent to &926.7 Furnaces&r, or 3.3 Steam Ovens!\n\nIf that wasn't already enough to convince you, standard &aoverclocks&r can be applied with sufficient voltage.\n\nAnd even better - higher tier &3Coils&r increase the amount of items it can smelt in &dparallel&r!",
 
-    "__comment4": "EBF"
+    "__comment4": "EBF",
 
     "quests.medium_voltage.hv_machine_hull.title": "The HV Machine Hull",
     "quests.medium_voltage.hv_machine_hull.subtitle": "That's your fourth machine hull! This is progression",

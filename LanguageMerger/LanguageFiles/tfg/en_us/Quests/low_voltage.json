@@ -357,9 +357,8 @@
 	"quests.low_voltage.mv_hull.title": "Your third machine hull",
 	"quests.low_voltage.mv_hull.subtitle": "This is going quite well, only 7 to go!",
 	"quests.low_voltage.mv_hull.desc1": "Good job, you now have your &bMV Machine Hull&r, your first &bMV Circuit&r and your first &6Circuit Assembler&r.\n\nThis is the gist of &6GregTech&r, every tier you are going to make new &6machines&r using new &6materials&r and &6chemicals&r. You are going to have &5so much fun&r, we are kinda jealous!",
-	"quests.low_voltage.mv_hull.desc2": "Before going further into &bMV&r, remember that in &6TFG&r you can use &6Create&r to reinforce your infrastructure if you don't want to use too much of GregTech. Aluminium Shafts and Cogwheels have 4x the stress capacity of steel ones, so you should be able to run all your machines much faster with them!"
+	"quests.low_voltage.mv_hull.desc2": "Before going further into &bMV&r, remember that in &6TFG&r you can use &6Create&r to reinforce your infrastructure if you don't want to use too much of GregTech. Aluminium Shafts and Cogwheels have 4x the stress capacity of steel ones, so you should be able to run all your machines much faster with them!",
 	
 	"__comment18": "#endregion"
-
 
 }
