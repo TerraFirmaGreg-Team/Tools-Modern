@@ -1,5 +1,5 @@
 {
-    // Welcome to MV
+    "__comment1": "Welcome to MV",
 
     "quests.medium_voltage": "&bMV&r - Medium Voltage",
     "quests.medium_voltage.subtitle": "Venture into petrochemistry and refine electronics",
@@ -61,7 +61,7 @@
     "quests.medium_voltage.mv_steel_alloy.subtitle": "Steel Your Heart",
     "quests.medium_voltage.mv_steel_alloy.desc": "Vanadiumsteel is required in small quantities in progression. It's &6nearly four times as durable&r as Steel if used in GregTech tools. The Vanadium comes from &aVanadium Magnetite&r, which you may have encountered in Magnetite veins.\n\nOther Steel alloys include Blue Steel, Red Steel, and Black Steel!\n\nTake some Blue Steel free of charge - it's twice as durable as Steel.",
 
-    // Plastic Line
+    "__comment2": "Plastic Line",
 
     "quests.medium_voltage.pyrolyse.title": "Pyrolyse Oven",
     "quests.medium_voltage.pyrolyse.subtitle": "Thermal Decomposition",
@@ -129,7 +129,7 @@
 
     "quests.medium_voltage.mv_bio_diesel.title": "The Church of Bio Diesel",
     "quests.medium_voltage.mv_bio_diesel.subtitle": "Flower Power",
-    "quests.medium_voltage.mv_bio_diesel.desc": "Want to try something plant-based but without a tree farm? Give &3Bio Diesel&r a shot! The best route for it is through &dSeed Oil&r from either Sunflowers or Rapeseed. Just mix it with a little Ethanol and Sodium Hydroxide (from Sea Water!) in a Chemical Reactor and you're done! As a bonus, this route also outputs Glycerol which you can turn into &dEthlene&r!",
+    "quests.medium_voltage.mv_bio_diesel.desc": "Want to try something plant-based but without a tree farm? Give &3Bio Diesel&r a shot! The best route for it is through &dSeed Oil&r from either Sunflowers or Canola. Just mix it with a little Ethanol and Sodium Hydroxide (from Sea Water!) in a Chemical Reactor and you're done! As a bonus, this route also outputs Glycerol which you can turn into &dEthylene&r!",
 
     "quests.medium_voltage.mv_mutli_channel.title": "Multiple Channel Pipes",
     "quests.medium_voltage.mv_mutli_channel.subtitle": "Is it already AE2?",
@@ -189,7 +189,7 @@
     "quests.medium_voltage.mv_tank.subtitle": "Super Tanks are OP!",
     "quests.medium_voltage.mv_tank.desc": "No, but seriously.\n\nThis is the &cu&6l&et&ai&bm&9a&5t&4e&r portable Fluid storage solution. &64,000 buckets of storage&r - in one single block without any regards to temperature or acidity!\n\nLike Drums, Super Tanks &6keep their fluids when broken&r, and can be cleared in the crafting grid.\n\nIf you hunger for &9even more&r storage, take a look at higher tier Super Tanks or AE2 Fluid Storage Cells.",
 
-    // Circuits
+    "__comment3": "Circuits",
 
     "quests.medium_voltage.mv_pvc.title": "Polyvinyl Chloride",
     "quests.medium_voltage.mv_pvc.subtitle": "You've already made one polymer, what's two?",
@@ -245,7 +245,7 @@
     "quests.medium_voltage.mv_multi_smelter.subtitle": "Possibly the most powerful furnace you've seen",
     "quests.medium_voltage.mv_multi_smelter.desc": "At its lowest power (Cupronickel coils and &7LV&r Voltage), the &dMulti Smelter&r smelts 32 items in just 12 seconds - equivalent to &926.7 Furnaces&r, or 3.3 Steam Ovens!\n\nIf that wasn't already enough to convince you, standard &aoverclocks&r can be applied with sufficient voltage.\n\nAnd even better - higher tier &3Coils&r increase the amount of items it can smelt in &dparallel&r!",
 
-    // EBF
+    "__comment4": "EBF",
 
     "quests.medium_voltage.hv_machine_hull.title": "The HV Machine Hull",
     "quests.medium_voltage.hv_machine_hull.subtitle": "That's your fourth machine hull! This is progression",
@@ -267,7 +267,7 @@
     "quests.medium_voltage.mv_kanthal_ingot.title": "Kanthal",
     "quests.medium_voltage.mv_kanthal_ingot.subtitle": "This one is hot",
     "quests.medium_voltage.mv_kanthal_ingot.desc.1": "Oh good lord, that’s a lot of &cKanthal&r needed here... And what the heck is this &chot ingot&r thing again? &cYes, again!&r\n\nHere we are with a mechanic you should remember from &aTerrafirmaCraft&r—it hasn't been that long, right?\n\n&cHot ingots&r will &cburn you&r if you carry them around and you don't have &cany way&r to counter it using Tongs...\n\nAlso unlike &aTFC&r, &cthey don’t cool down naturally&r! You’ll need to actively &acool them&r down.",
-    "quests.medium_voltage.mv_kanthal_ingot.desc.2": "To do that, place them into a &dChemical Bath&r with &9Water&r—or even better, &9Distilled Water&r for a &e50 percent faster&r cooling time.\n\nWe highly recommend you &aautomate&r this process to avoid carrying those hot ingots yourself. Use &apipes&r to send them directly from your &dEBF&r to your &dOre Washer&r.\n\nYou can also set up an &aItem Tag Filter&r to help with sorting the hot ingots &7#forge:hot_ingots*&r.",
+    "quests.medium_voltage.mv_kanthal_ingot.desc.2": "To do that, place them into a &dChemical Bath&r with &9Water&r—or even better, &9Distilled Water&r for a &e50 percent faster&r cooling time.\n\nWe highly recommend you &aautomate&r this process to avoid carrying those hot ingots yourself. Use &apipes&r to send them directly from your &dEBF&r to your &dChem Bath&r.\n\nYou can also set up an &aItem Tag Filter&r to help with sorting the hot ingots &7#forge:hot_ingots*&r.",
 
     "quests.medium_voltage.mv_assembler.title": "Advanced Assembler",
     "quests.medium_voltage.mv_assembler.subtitle": "Assengers, Avemble",
@@ -317,5 +317,5 @@
 
     "quests.medium_voltage.lsb.title": "Getting very steamy",
     "quests.medium_voltage.lsb.subtitle": "If you have unlimited fuel, it can still be good",
-    "quests.medium_voltage.lsb.desc": "If you're &lstill&r running off the &3Large Bronze Boiler&r, you may want to upgrade to the &3Large Steel Boiler&r.\n\nIt's slightly more efficient than the &3LBB&r, and produces &d900 EU/t worth of Steam&r.\n\nWe'd recommend you try other power options at this point."
+    "quests.medium_voltage.lsb.desc": "If you're &lstill&r running off the &3Large Bronze Boiler&r, you may want to upgrade to the &3Large Steel Boiler&r.\n\nIt's slightly more efficient than the &3LBB&r, and produces &d1800 EU/t worth of Steam&r.\n\nWe'd recommend you try other power options at this point."
 }

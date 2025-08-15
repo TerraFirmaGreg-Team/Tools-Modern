@@ -9,7 +9,7 @@
 		"uk_ua": "Базальт"
 	},
 	"replaceable_blocks": [
-		"minecraft:basalt",
-		"tfc:rock/raw/basalt"
+		"tfc:rock/raw/basalt",
+		"minecraft:basalt"
 	]
 }

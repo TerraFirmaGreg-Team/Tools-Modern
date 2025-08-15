@@ -54,6 +54,9 @@ namespace LanguageMerger
                 {
                     foreach ((var innerKey, var innerValue) in innerDict)
                     {
+                        if (innerKey.StartsWith("__"))
+                            continue;
+
                         if (mergedDictionary.TryGetValue(innerKey, out string? mergedValue))
                         {
                             ConsoleLogHelper.WriteLine($"Key \"{innerKey}\" already exists in the merged dictionary! value will be overwritten. Original value: {mergedValue}", LogLevel.Warning);

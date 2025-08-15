@@ -1,5 +1,5 @@
 {
-    // Welcome to MV
+    "__comment1": "Welcome to MV",
 
     "quests.high_voltage": "&6HV&r - High Voltage",
     "quests.high_voltage.subtitle": "Upgrade your power, learn about the Cleanroom, make more chemicals, and get ready for Space",
@@ -101,6 +101,7 @@
     "quests.high_voltage.lcr.desc.3": "&9Tip:&r Given the amount of LCRs you may end up using, why not try utilising &dwallsharing&r to its full potential?\n\nYou could share one 2A (standard) &3Energy Hatch&r between 2 LCRs.\n\nYou might want to share &3Input/Output Hatches&r, but make sure each LCR is running the correct recipe.\n\nKeep in mind Maintenance hatches are not sharable.",
 
     "quests.high_voltage.tnt.title": "TNT",
+    "quests.high_voltage.tnt.task": "Any explosive",
     "quests.high_voltage.tnt.desc.1": "Get ready to make some explosives, as they will be required for the &cImplosion Compressor&r. You have four options, from easy to hardest, but we advise you to work towards the &dIndustrial TNT&r whenever you can.",
     "quests.high_voltage.tnt.desc.2": "&cTNT&r (Trinitrotoluene) can't be prepared with the usual Gunpowder and Sand anymore. Instead, you'll have to produce &aGelled Toluene&r and react it with Sulfuric Acid to make TNT.\n\nUsing the &3HV Chemical Reactor&r recipe will double the yield of &aGelled Toluene&r at the cost of requiring additional inputs.",
     "quests.high_voltage.tnt.desc.3": "We don't have any easy tips to give you for &aToluene&r. It's going to be tricky no matter which route you take.\n\nThat being said, don't miss out on the direct &aHeavy Fuel&r to &aToluene&r recipe in the single block &3Distillery&r.\n\n&aToluene&r can also optionally be used in &5EV&r to make &dGasoline&r.\n\n&cTNT&r is used in the &3Implosion Compressor&r to make Gems. It also blows stuff up.",
@@ -221,5 +222,15 @@
 
     "quests.high_voltage.welcome_moon.title": "I'm on the &3Moon&r!",
     "quests.high_voltage.welcome_moon.subtitle": "Hope you have everything to come back",
-    "quests.high_voltage.welcome_moon.desc": "&2Congrats&r, you’ve successfully landed on the &7Moon&r!\nHere, you’ll find &bCertus Quartz&r veins and the meteors that allow you to begin unlocking &dAE2&r.\n\nBut that’s not all — some veins here have much higher density than those on Earth.\n\nFor instance, you can easily find &6Ilmenite&r, &7Bauxite&r, &7Aluminium&r, and &5Chromite&r veins on the Moon.\nEstablishing a small base here will be crucial to keep progressing.\n\nYour biggest challenge will be transporting resources, as there are no easy cross-dimensional tools like the &5Ender Chest&r or &dAE2 Quantum Link&r just yet.\n\nWe hope you're well prepared, unless you want to craft a second rocket and space suit just to go collect your corpse!"
+    "quests.high_voltage.welcome_moon.desc": "&2Congrats&r, you’ve successfully landed on the &7Moon&r!\nHere, you’ll find &bCertus Quartz&r veins and the meteors that allow you to begin unlocking &dAE2&r.\n\nBut that’s not all — some veins here have much higher density than those on Earth.\n\nFor instance, you can easily find &6Ilmenite&r, &7Bauxite&r, &7Aluminium&r, and &5Chromite&r veins on the Moon.\nEstablishing a small base here will be crucial to keep progressing.\n\nYour biggest challenge will be transporting resources, as there are no easy cross-dimensional tools like the &5Ender Chest&r or &dAE2 Quantum Link&r just yet.\n\nWe hope you're well prepared, unless you want to craft a second rocket and space suit just to go collect your corpse!",
+
+    "quests.high_voltage.gun.title": "Bring a gun",
+    "quests.high_voltage.gun.subtitle": "And if that don't work, use more gun",
+    "quests.high_voltage.gun.task1": "Any gun",
+    "quests.high_voltage.gun.task2": "Any medicine or aged alcohol",
+    "quests.high_voltage.gun.desc": "Getting a little too comfortable on Earth? You won't be alone on the moon, so make sure you're well prepared to defend yourself - you'll need more than just a sword or some stone javelins.\n\nPick out a nice gun (if you're not sure, we recommend the &o\"Clockwork\" Sniper&r), craft some ammo, and maybe try out some attachments if you're feeling fancy.\n\nIt's also a good idea to bring some nutritious food to raise your max HP (try the meal bags!) as well as some alcohol and medicine for buffs and healing.",
+
+    "quests.high_voltage.space_survival.title": "Home away from home",
+    "quests.high_voltage.space_survival.subtitle": "More than just a mining dimension",
+    "quests.high_voltage.space_survival.desc": "If you haven't already, be sure to check out the &3Tips - Space Survival&r quest chapter! It contains all the information you'll need to establish a proper moon colony."
 }

@@ -1,10 +1,10 @@
 {
-    // Welcome to AE2
+    "__comment1": "Welcome to AE2",
 
     "quests.ae2": "Applied Energistics 2",
     "quests.ae2.subtitle": "The strongest tool to help you with GregTech, unlocked after your first trip to the moon",
 
-    // Left Side Category
+    "__comment2": "Left Side Category",
 
     "quests.ae2.certus_quartz.title": "Certus Quartz",
     "quests.ae2.certus_quartz.subtitle": "One small step for you, one giant leap for logistics",
@@ -44,7 +44,7 @@
     "quests.ae2.ae_press.subtitle": "Treasure hunt",
     "quests.ae2.ae_press.desc": "One of the last things you’ll need before diving fully into Applied Energistics 2 is collecting the 4 &ePresses&r.\n\nTo obtain them, you must locate an &eAE2 Meteorite&r on the &3Moon&r — they will look like dark spheres at the bottom of large craters. Luckily, they aren't particularly rare, and a single meteorite will contain all four Presses.\n\n&cBe careful though&r — these meteorites are often guarded, so gear up, bring an ore prospector if you have one, and happy hunting!",
 
-    // Middle
+    "__comment3": "Middle",
 
     "quests.ae2.ae_guide.title": "Welcome to AE2",
     "quests.ae2.ae_guide.subtitle": "Another free book for your collection!",

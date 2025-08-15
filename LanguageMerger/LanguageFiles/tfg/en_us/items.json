@@ -45,7 +45,6 @@
     "item.tfg.soaked_hardwood_strip": "Soaked Hardwood Strip",
     "item.tfg.prepared_leather_gloves": "Prepared Leather Gloves",
     "item.tfg.latex_soaked_gloves": "Latex-Soaked Gloves",
-    "item.tfg.spade_head_extruder_mold": "Extruder Mold (Spade Head)",
     "item.tfg.unfired_chalk": "Unfired Chalk Stick",
     "item.tfg.armor_stand_arms": "Armor Stand with Arms",
     "item.tfg.flint_club_head": "Flint Club Head",
@@ -100,7 +99,6 @@
     "item.tfg.uhv_universal_circuit": "UHV Universal Circuit",
 
     "item.tfg.chipboard_composite": "Chipboard Composite",
-
     "item.tfg.piglin_disguise": "Piglin Disguise",
     "item.tfg.trowel": "Trowel",
 
@@ -147,15 +145,24 @@
     "item.tfg.food.freeze_dried.melon_slice": "Freeze Dried Melon Slice",
     "item.tfg.food.freeze_dried.fig": "Freeze Dried Fig",
     "item.tfg.food.freeze_dried.pineapple": "Freeze Dried Pineapple",
+    "item.tfg.food.freeze_dried.blossom_berry": "Freeze Dried Blossom Berry",
+    "item.tfg.food.freeze_dried.shadow_berry": "Freeze Dried Nox Berry",
+    "item.tfg.food.freeze_dried.cave_pumpkin": "Freeze Dried Bulbkin Chunks",
     "item.tfg.food.calorie_paste": "Calorie Paste",
     "item.tfg.food.meal_bag": "Meal Bag",
     "item.tfg.food.ice_soup": "Ice Soup",
+    "item.tfg.food.raw_glacian_mutton": "Raw Glacian Mutton",
+    "item.tfg.food.cooked_glacian_mutton": "Cooked Glacian Mutton",
+    "item.tfg.spawn_egg.glacian_ram": "Glacian Spawn Egg",
+    "item.tfg.food.raw_sniffer_beef": "Raw Sniffer Beef",
+    "item.tfg.food.cooked_sniffer_beef": "Cooked Sniffer Beef",
+    "item.tfg.spawn_egg.sniffer": "Sniffer Spawn Egg",
 
     "item.tfg.roasted_sunflower_seeds": "Roasted Sunflower Seeds",
     "item.tfg.sunflower_seeds": "Sunflower Seed",
     "item.tfg.sunflower_product": "Sunflower Cap",
-    "item.tfg.rapeseed_seeds": "Rapeseed Seeds",
-    "item.tfg.rapeseed_product": "Rapeseed Ovules",
+    "item.tfg.rapeseed_seeds": "Canola Seeds",
+    "item.tfg.rapeseed_product": "Canola Ovules",
 
     "item.tfg.flintlock_mechanism": "Flintlock Mechanism",
     "item.tfg.advanced_clockwork_mechanism": "Advanced Clockwork Mechanism",
@@ -193,6 +200,7 @@
     "item.tfg.compressed_heliox_3_bucket": "Heliox-3 Bucket",
     "item.tfg.compressed_trimix_bucket": "50/30/20 Trimix Bucket",
     "item.tfg.compressed_trimix_3_bucket": "50/30/20 Trimix-3 Bucket",
+    "item.tfg.semiheavy_ammoniacal_water_bucket": "Semiheavy Ammoniacal Water Bucket",
 
     "item.tfg.harvest_basket": "Harvest Basket",
     "item.tfg.aluminium_harvest_basket": "Aluminium Harvest Basket",
@@ -200,9 +208,51 @@
     "item.tfg.wood.lumber.aeronos": "Aeronos Lumber",
     "item.tfg.wood.lumber.strophar": "Strophar Lumber",
     "item.tfg.wood.lumber.glacian": "Glacian Lumber",
+    
+    "item.tfg.glacian_wool": "Glacian Ram Wool",
+    "item.tfg.sniffer_wool": "Mineral Rich Tufts",
 
+    "item.tfg.aes_polyurethane": "Bio-AES Reinforced R-Polyurethane Foam",
+    "item.tfg.mli_shielding": "Multi-Layer Insulated Shielding",
+    "item.tfg.rocket_cone_t3": "Advanced Rocket Nose Cone",
+    "item.tfg.rocket_fin_t3": "Advanced Rocket Fin",
+    "item.tfg.elite_power_thruster": "§aElite Power Thruster",
+    "item.tfg.silica_aerogel": "Silica Aerogel",
+    "item.tfg.better_space_suit_fabric": "Adaptive Space Suit Fabric",
+    
     "item.tfg.universal_compost_browns": "Brown Universal Compost",
     "item.tfg.universal_compost_greens": "Green Universal Compost",
 
-    "item.tfg.etching_diamond_tip": "Etching Diamond Tip"
+    "item.tfg.etching_diamond_tip": "Etching Diamond Tip",
+
+    "item.tfg.spade_head_extruder_mold": "Extruder Mold (Spade Head)",
+    "item.tfg.mining_hammer_head_extruder_mold": "Extruder Mold (Mining Hammer Head)",
+    "item.tfg.sword_head_extruder_mold": "Extruder Mold (Sword Head)",
+    "item.tfg.pickaxe_head_extruder_mold": "Extruder Mold (Pickaxe Head)",
+    "item.tfg.shovel_head_extruder_mold": "Extruder Mold (Shovel Head)",
+    "item.tfg.axe_head_extruder_mold": "Extruder Mold (Axe Head)",
+    "item.tfg.hoe_head_extruder_mold": "Extruder Mold (Hoe Head)",
+    "item.tfg.scythe_head_extruder_mold": "Extruder Mold (Sycthe Head)",
+    "item.tfg.file_head_extruder_mold": "Extruder Mold (File Head)",
+    "item.tfg.hammer_head_extruder_mold": "Extruder Mold (Hammer Head)",
+    "item.tfg.saw_head_extruder_mold": "Extruder Mold (Saw Head)",
+    "item.tfg.knife_head_extruder_mold": "Extruder Mold (Knife Head)",
+    "item.tfg.butchery_knife_head_extruder_mold": "Extruder Mold (Butchery Knife Head)",
+    "item.tfg.propick_head_extruder_mold": "Extruder Mold (Prospector's Pick Head)",
+    "item.tfg.javelin_head_extruder_mold": "Extruder Mold (Javelin Head)",
+    "item.tfg.chisel_head_extruder_mold": "Extruder Mold (Chisel Head)",
+    "item.tfg.mace_head_extruder_mold": "Extruder Mold (Mace Head)",
+    "item.tfg.mattock_head_extruder_mold": "Extruder Mold (Mattock Head)",
+    "item.tfg.fish_hook_extruder_mold": "Extruder Mold (Fish Hook)",
+    "item.tfg.whisk_extruder_mold": "Extruder Mold (Whisk)",
+    "item.tfg.screwdriver_tip_extruder_mold": "Extruder Mold (Screwdriver Tip)",
+    "item.tfg.wrench_tip_extruder_mold": "Extruder Mold (Wrench Tip)",
+    "item.tfg.wire_cutter_head_extruder_mold": "Extruder Mold (Wire Cutter Head)",
+	"item.tfg.small_casing_extruder_mold": "Extruder Mold (Small Bullet Casing)",
+	"item.tfg.shell_casing_extruder_mold": "Extruder Mold (Shell Bullet Casing)",
+	"item.tfg.large_casing_extruder_mold": "Extruder Mold (Large Bullet Casing)",
+    "item.tfg.photo_cell_t1": "Basic Photovoltaic Cell",
+
+    "item.tfg.electric_extendo_grip": "Electric Extendo Grip"
+
 }

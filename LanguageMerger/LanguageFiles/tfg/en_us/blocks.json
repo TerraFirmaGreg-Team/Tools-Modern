@@ -207,9 +207,11 @@
 
 	"block.tfg.semiheavy_ammoniacal_water": "Semiheavy Ammoniacal Water",
 	"block.tfg.grass.mars_dirt": "Martian Dirt",
+	"block.tfg.grass.mars_farmland": "Martian Farmland",
 	"block.tfg.grass.amber_mycelium": "Amber Mycelium",
 	"block.tfg.grass.rusticus_mycelium": "Rusticus Mycelium",
 	"block.tfg.grass.sangnum_mycelium": "Sangnum Mycelium",
+	"block.tfg.sapling.glacian": "Glacian Mushroom",
 
 	"block.tfg.electromagnetic_accelerator": "Electromagnetic Accelerator",
 	"block.tfg.superconductor_coil_large": "Large Superconductor Coil",
@@ -238,22 +240,30 @@
 	"block.tfg.zpm_railgun_item_loader_out": "§cZPM Interplanetary Railgun Output Bus§r",
 	"block.tfg.uv_railgun_item_loader_out": "§3UV Interplanetary Railgun Output Bus§r",
 	"block.tfg.uhv_railgun_item_loader_out": "§4UHV Interplanetary Railgun Output Bus§r",
+	"block.tfg.reflector": "Reflector Block",
 
+	"block.tfg.sunflower": "Sunflower",
 	"block.tfg.sunflower_wild": "Wild Sunflower",
 	"block.tfg.sunflower_dead": "Dead Sunflower",
-	"block.tfg.rapeseed_wild": "Wild Rapeseed",
-	"block.tfg.rapeseed_dead": "Dead Rapeseed",
+	"block.tfg.rapeseed": "Canola",
+	"block.tfg.rapeseed_wild": "Wild Canola",
+	"block.tfg.rapeseed_dead": "Dead Canola",
 
 	"block.tfg.casings.machine_casing_iron_desh": "Desh Machine Casing",
-	"block.tfg.casings.machine_casing_red_solar_panel": "Energium Solar Panel Casing",
+	"block.tfg.casings.machine_casing_stainless_evaporation": "Stainless Evaporation Machine Casing",
 
-	// TODO
-	//"block.tfg.corallium_arenicolus_0": "Corallium Arenicolus",
-	//"block.tfg.corallium_arenicolus_1": "Corallium Arenicolus",
-	//"block.tfg.corallium_arenicolus_2": "Corallium Arenicolus",
-	//"block.tfg.corallium_arenicolus_3": "Corallium Arenicolus",
-	//"block.tfg.corallium_arenicolus_4": "Corallium Arenicolus",
-	//"block.tfg.corallium_arenicolus_5": "Corallium Arenicolus",
+	"block.tfg.casings.machine_casing_blue_solar_panel": "Basic Solar Panel Casing",
+	"block.tfg.casings.machine_casing_green_solar_panel": "Advanced Solar Panel Casing",
+	"block.tfg.casings.machine_casing_red_solar_panel": "Elite Solar Panel Casing",
+	"block.tfg.machine_casing_aluminium_plated_steel": "Aluminium Plated Steel Machine Casing",
+
+	"__comment1":"TODO",
+	"__comment2":"block.tfg.corallium_arenicolus_0: Corallium Arenicolus",
+	"__comment3":"block.tfg.corallium_arenicolus_1: Corallium Arenicolus",
+	"__comment4":"block.tfg.corallium_arenicolus_2: Corallium Arenicolus",
+	"__comment5":"block.tfg.corallium_arenicolus_3: Corallium Arenicolus",
+	"__comment6":"block.tfg.corallium_arenicolus_4: Corallium Arenicolus",
+	"__comment7":"block.tfg.corallium_arenicolus_5: Corallium Arenicolus",
 
 	"block.tfg.sand.fluorapatite.blue": "Blue Fluorapatite Sand",
 	"block.tfg.sandstone.raw.fluorapatite.blue": "Raw Blue Fluorapatite Sandstone",
@@ -320,5 +330,9 @@
 	"block.tfg.sandstone.slab.smooth.fluorapatite.yellow": "Smooth Yellow Fluorapatite Sandstone Slab",
 	"block.tfg.sandstone.stairs.smooth.fluorapatite.yellow": "Smooth Yellow Fluorapatite Sandstone Stairs",
 	"block.tfg.sandstone.fluorapatite.yellow": "Cut Yellow Fluorapatite Sandstone",
-	"block.tfg.sandstone.smooth.chiseled.fluorapatite.yellow": "Chiseled Yellow Fluorapatite Sandstone"
+	"block.tfg.sandstone.smooth.chiseled.fluorapatite.yellow": "Chiseled Yellow Fluorapatite Sandstone",
+
+	"block.tfg.large_nest_box": "Large Crimson Nest",
+    "tfg.block_entity.large_nest_box": "Large Nest Box",
+	"block.tfg.large_nest_box_warped": "Large Warped Nest"
 }

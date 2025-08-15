@@ -13,7 +13,11 @@
 	"item.gtceu.tool.behavior.canoe_creator": "§5Boater: §fCan Create Canoes",
 
 	"item.gtceu.deepslate_dust": "Migmatite Dust",
+	"item.gtceu.small_deepslate_dust": "Small Pile of Migmatite Dust",
+	"item.gtceu.tiny_deepslate_dust": "Tiny Pile of Migmatite Dust",
 	"item.gtceu.blackstone_dust": "Pyroxenite Dust",
+	"item.gtceu.small_blackstone_dust": "Small Pile of Pyroxenite Dust",
+	"item.gtceu.tiny_blackstone_dust": "Tiny Pile of Pyroxenite Dust",
 
 	"item.gtceu.iron_ring": "Cast Iron Ring",
 	"item.gtceu.small_iron_gear": "Cast Iron Gear",
@@ -53,6 +57,6 @@
 	"item.gtceu.neutronium_credit": "§72,097,152 Credits",
 
 	"item.gtceu.treated_wood_plate": "Treated Medium Density Fiberboard",
-  	"item.gtceu.wood_plate": "Medium Density Fiberboard",
-  	"item.gtceu.treated_wood_dust": "Treated Chipboard Composite"
+	"item.gtceu.wood_plate": "Medium Density Fiberboard",
+	"item.gtceu.treated_wood_dust": "Treated Chipboard Composite"
 }
