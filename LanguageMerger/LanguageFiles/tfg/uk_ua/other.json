@@ -154,7 +154,7 @@
     "tooltip.tfg.ore_prospector_stats": "Діапазон сканування: %s, Поперечний переріз: %s x %s.",
     "tooltip.tfg.ore_prospector_count": "Цей розвідник зображатиме кількість руди.",
     "tooltip.tfg.ore_prospector_xray": "Цей розвідник відображатиме %s рентгенівський огляд блоків руди.",
-    "tooltip.tfg.ore_prospector_mode_vein": "на-жилу",
-    "tooltip.tfg.ore_prospector_mode_block": "на-блок",
+    "tooltip.tfg.ore_prospector_mode_vein": "per-vein",
+    "tooltip.tfg.ore_prospector_mode_block": "per-block",
     "tfg.hangglider.disabled_dimension": "Тут не можна використовувати дельтаплан!"
 }
