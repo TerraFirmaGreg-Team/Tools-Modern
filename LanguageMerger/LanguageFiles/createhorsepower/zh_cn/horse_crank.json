@@ -1,0 +1,22 @@
+{
+	"tooltip.createhorsepower.horse_crank.detached" : "工作动物已分离",
+	"tooltip.createhorsepower.horse_crank.attached" : "工作动物已连接",
+	"tooltip.createhorsepower.horse_crank.maximumMobs" : "仅可连接1只动物",
+	"tooltip.createhorsepower.horse_crank.notValidWorker": "该动物无法工作",
+	"tooltip.createhorsepower.horse_crank.alreadyHasWorker": "曲柄已有工作动物",
+
+	"createhorsepower.ponder.horse_crank.header": "畜力曲柄使用指南",
+	"createhorsepower.ponder.horse_crank.text_1": "这是畜力曲柄",
+	"createhorsepower.ponder.horse_crank.text_2": "使用前需在下方铺设有效路径方块",
+	"createhorsepower.ponder.horse_crank.text_3": "不同材质的地面效果不同",
+	"createhorsepower.ponder.horse_crank.text_4": "连接工作动物后曲柄将产生应力",
+	"createhorsepower.ponder.horse_crank.text_5": "可配置文件中指定动物作为劳力",
+	"createhorsepower.ponder.horse_crank.text_6": "通过侧面的齿轮输出旋转力...",
+	"createhorsepower.ponder.horse_crank.text_7": "...或通过底部的传动轴输出...",
+	"createhorsepower.ponder.horse_crank.text_8": "...但顶部无法输出",
+
+	"createhorsepower.ponder.tag.path_types": "路径方块",
+	"createhorsepower.ponder.tag.path_types.description": "可供工作动物行走的有效方块",
+	"createhorsepower.ponder.tag.viable_workers": "可用劳力",
+	"createhorsepower.ponder.tag.viable_workers.description": "可用于驱动畜力曲柄的动物"
+}

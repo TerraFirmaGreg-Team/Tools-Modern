@@ -1,0 +1,20 @@
+{
+	"block.beneath.blackstone_pebble": "黑石卵石",
+	"block.beneath.blackstone_aqueduct": "黑石导水渠",
+	"block.beneath.loose_blackstone": "疏松黑石",
+
+	"block.beneath.ore.nether_cursecoal": "下界诅咒煤矿石",
+	"block.beneath.ore.nether_cursecoal.prospected": "下界诅咒煤",
+	"block.beneath.cursecoal_pile": "诅咒煤堆",
+
+	"block.beneath.ore.blackstone_sylvite": "黑石钾盐矿石",
+
+	"block.beneath.crackrack": "角斑岩",
+
+	"block.beneath.soul_clay": "灵魂粘土",
+
+	"block.beneath.wood.fallen_leaves.crimson": "绯红瓣叶落叶",
+	"block.beneath.wood.leaves.crimson": "绯红瓣叶",
+	"block.beneath.wood.fallen_leaves.warped": "诡异瓣叶堆",
+	"block.beneath.wood.leaves.warped": "诡异瓣叶"
+}
