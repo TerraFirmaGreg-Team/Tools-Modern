@@ -17,9 +17,9 @@
 	"block.ad_astra.chiseled_moon_stone_slab": "錾制斜长岩台阶",
 	"block.ad_astra.chiseled_moon_stone_stairs": "錾制斜长岩楼梯",
 	"block.ad_astra.cracked_moon_stone_bricks": "裂纹斜长岩砖",
-	"block.ad_astra.polished_moon_stone": "磨光斜长岩",
-	"block.ad_astra.polished_moon_stone_slab": "磨光斜长岩台阶",
-	"block.ad_astra.polished_moon_stone_stairs": "磨光斜长岩楼梯",
+	"block.ad_astra.polished_moon_stone": "磨制斜长岩",
+	"block.ad_astra.polished_moon_stone_slab": "磨制斜长岩台阶",
+	"block.ad_astra.polished_moon_stone_stairs": "磨制斜长岩楼梯",
 	
 	"block.ad_astra.sky_stone": "陨石",
 	"block.ad_astra.moon_deepslate": "粗苏长岩",
@@ -42,12 +42,12 @@
 	"block.ad_astra.chiseled_mars_stone_slab": "錾制泥岩台阶",
 	"block.ad_astra.chiseled_mars_stone_stairs": "錾制泥岩楼梯",
 	"block.ad_astra.cracked_mars_stone_bricks": "裂纹泥岩砖",
-	"block.ad_astra.polished_mars_stone": "磨光泥岩",
-	"block.ad_astra.polished_mars_stone_slab": "磨光泥岩台阶",
-	"block.ad_astra.polished_mars_stone_stairs": "磨光泥岩楼梯",
+	"block.ad_astra.polished_mars_stone": "磨制泥岩",
+	"block.ad_astra.polished_mars_stone_slab": "磨制泥岩台阶",
+	"block.ad_astra.polished_mars_stone_stairs": "磨制泥岩楼梯",
 	
 	"block.ad_astra.conglomerate": "火星砾岩",
-	"block.ad_astra.polished_conglomerate": "磨光火星砾岩",
+	"block.ad_astra.polished_conglomerate": "磨制火星砾岩",
 	
 	"block.ad_astra.venus_sand": "粗面岩沙",
 	"block.ad_astra.venus_stone": "粗粗面岩",
@@ -65,9 +65,9 @@
 	"block.ad_astra.chiseled_venus_stone_slab": "錾制粗面岩台阶",
 	"block.ad_astra.chiseled_venus_stone_stairs": "錾制粗面岩楼梯",
 	"block.ad_astra.cracked_venus_stone_bricks": "裂纹粗面岩砖",
-	"block.ad_astra.polished_venus_stone": "磨光粗面岩",
-	"block.ad_astra.polished_venus_stone_slab": "磨光粗面岩台阶",
-	"block.ad_astra.polished_venus_stone_stairs": "磨光粗面岩楼梯",
+	"block.ad_astra.polished_venus_stone": "磨制粗面岩",
+	"block.ad_astra.polished_venus_stone_slab": "磨制粗面岩台阶",
+	"block.ad_astra.polished_venus_stone_stairs": "磨制粗面岩楼梯",
 	
 	"block.ad_astra.venus_sandstone": "粗面岩砂岩",
 	"block.ad_astra.venus_sandstone_bricks": "粗面岩砂岩砖",
@@ -90,9 +90,9 @@
 	"block.ad_astra.chiseled_mercury_stone_slab": "錾制科马提岩台阶",
 	"block.ad_astra.chiseled_mercury_stone_stairs": "錾制科马提岩楼梯",
 	"block.ad_astra.cracked_mercury_stone_bricks": "裂纹科马提岩砖",
-	"block.ad_astra.polished_mercury_stone": "磨光科马提岩",
-	"block.ad_astra.polished_mercury_stone_slab": "磨光科马提岩台阶",
-	"block.ad_astra.polished_mercury_stone_stairs": "磨光科马提岩楼梯",
+	"block.ad_astra.polished_mercury_stone": "磨制科马提岩",
+	"block.ad_astra.polished_mercury_stone_slab": "磨制科马提岩台阶",
+	"block.ad_astra.polished_mercury_stone_stairs": "磨制科马提岩楼梯",
 	
 	"block.ad_astra.glacio_stone": "粗响岩",
 	"block.ad_astra.glacio_cobblestone": "响岩圆石",
@@ -109,7 +109,7 @@
 	"block.ad_astra.chiseled_glacio_stone_slab": "錾制响岩台阶",
 	"block.ad_astra.chiseled_glacio_stone_stairs": "錾制响岩楼梯",
 	"block.ad_astra.cracked_glacio_stone_bricks": "裂纹响岩砖",
-	"block.ad_astra.polished_glacio_stone": "磨光响岩",
-	"block.ad_astra.polished_glacio_stone_slab": "磨光响岩台阶",
-	"block.ad_astra.polished_glacio_stone_stairs": "磨光响岩楼梯"
+	"block.ad_astra.polished_glacio_stone": "磨制响岩",
+	"block.ad_astra.polished_glacio_stone_slab": "磨制响岩台阶",
+	"block.ad_astra.polished_glacio_stone_stairs": "磨制响岩楼梯"
 }
