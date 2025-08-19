@@ -1,0 +1,6 @@
+{
+	"gui.ae2.inWorldCraftingPresses": "合成压印器可通过破坏神秘立方体获得。神秘立方体位于月球上陨石的中心。",
+	"__comment1": "用于程序电路卡，如果不这样做，提示将只显示语言ID",
+	"gui.advanced_ae.AdvPatternProvider": "",
+	"gui.expandedae.exp_pattern_provider": ""
+}

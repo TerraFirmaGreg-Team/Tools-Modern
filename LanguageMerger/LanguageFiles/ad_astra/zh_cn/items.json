@@ -1,0 +1,20 @@
+{
+	"item.ad_astra.steel_cable": "基础RF电缆",
+	"item.ad_astra.desh_cable": "高级RF电缆",
+	"item.ad_astra.tier_1_rocket": "R型铝钢火箭",
+	"item.ad_astra.tier_2_rocket": "ASM 4914钛合金火箭",
+	"item.ad_astra.tier_3_rocket": "45-Ti钨钢火箭",
+	"item.ad_astra.oxygen_bucket": "可呼吸空气桶",
+	"item.ad_astra.tier_1_rover": "漫游车",
+	"item.ad_astra.photovoltaic_etrium_cell": "高级光伏电池",
+	"item.ad_astra.photovoltaic_vesnium_cell": "高能光伏电池",
+	"item.ad_astra.ostrum_tank": "紫金助推油箱",
+  	"item.ad_astra.steel_engine": "钢制火箭引擎",
+  	"item.ad_astra.desh_engine": "戴斯火箭引擎",
+  	"item.ad_astra.ostrum_engine": "紫金火箭引擎",
+  	"item.ad_astra.netherite_space_helmet": "§b钨钢太空头盔",
+  	"item.ad_astra.netherite_space_suit": "§b钨钢太空服",
+  	"item.ad_astra.netherite_space_pants": "§b钨钢太空裤",
+  	"item.ad_astra.netherite_space_boots": "§b钨钢太空靴",
+	"item.ad_astra.cheese": "月球奶酪"
+}
