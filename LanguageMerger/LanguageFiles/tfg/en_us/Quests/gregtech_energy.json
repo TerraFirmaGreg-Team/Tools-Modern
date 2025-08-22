@@ -1,5 +1,5 @@
 {
-    // Welcome to MV
+    "__comment1": "Welcome to MV",
 
     "quests.gregtech_energy": "GregTech Energy",
     "quests.gregtech_energy.subtitle": "So how does all of that work?",
@@ -9,7 +9,7 @@
     "quests.gregtech_energy.start.task": "Welcome aboard",
     "quests.gregtech_energy.start.subtitle": "It's not as bad as you think",
 
-    // Moving Energy
+    "__comment2": "Moving Energy",
 
     "quests.gregtech_energy.moving.title": "Moving your Energy",
     "quests.gregtech_energy.moving.subtitle": "So, energy transfer, huh",
@@ -31,7 +31,7 @@
     "quests.gregtech_energy.moving_amp.desc.2": "Let’s look at an example:\nYou have &e6 machines&r connected to an &e8x Battery Buffer&r filled with 8 batteries.\nThe buffer will try to send &e1A&r to each machine — that’s &e6A&r total.\nThe amps are delivered in order: the closest machines get power first, and the furthest ones last.\nIf your cables only support &c4A&r, they’ll &cBURN&r. You’ll need &a8A cables&r in this case.\n\n&bTip:&r The first machine in the line might need a cable that handles &e8A&r,\nbut the last machine may only need &e1A&r, as it’s only receiving what’s left.\n&c⚠ Be careful:&r adding another machine at the end could cause the cable to burn if it exceeds the limit.",
     "quests.gregtech_energy.moving_amp.task": "I got it",
 
-    // Producing Energy
+    "__comment3": "Producing Energy",
 
     "quests.gregtech_energy.produce_energy.title": "Producing Energy",
     "quests.gregtech_energy.produce_energy.subtitle": "Gas or Oil?",
@@ -43,7 +43,7 @@
     "quests.gregtech_energy.lv_generator.desc.1": "All of these are your basic &61-block Generators&r. They have a single &9input&r for their fuel — whether it’s &esteam&r, &agas&r, or &6liquid fuel&r — and they output exactly &e1A&r of power at their energy tier.\n\nThey’re simple to work with and will be your &ofirst source of power&r in &5GregTech&r until you reach the &dlarge multiblock generators&r later on.\n\nTo know what fuels can be used, &aEMI&r is your best friend — or you can check the &bquests on the left&r, where we’ve listed the most &aoptimal inputs&r. For now here are the &lthree ways&r to begin your power production, all of them are &aviable&r the choice is yours.",
     "quests.gregtech_energy.lv_generator.desc.2": "&e1. Steam Power&r:\n\nThis is the most classic method. You can convert the steam produced by your High Pressure Boilers into EU using a Steam Turbine.\n\nIt generates &e32 EU/t&r with &e64 mB/t&r of steam. If you follow this path, we highly recommend making a Large Bronze Boiler, which can easily be fueled with Lava, Creosote, or other burnable solid fuels (check JEI!).",
     "quests.gregtech_energy.lv_generator.desc.3": "&e2. Rotational Power&r:\n\nYou can use Create's rotational power with an Alternator to generate RF, then convert it into EU using an &7LV&r Converter.\n\n(Check the Alternators quest in the LV Chapter for more details.)",
-    "quests.gregtech_energy.lv_generator.desc.4": "&e3. Biodiesel Power (TFG Exclusive)&r:\n\nRapeseed and Sunflowers can be processed into large amounts of Seed Oil. Combine it with TFC Alcohol to produce Biodiesel.\n\nThis method may seem more complex, but Biodiesel is extremely powerful during &7LV&r and &bMV&r tiers. It scales well into &5EV&r with &eCetane-Boosted Diesel&r later on.\n\nTo use Biodiesel, you’ll need a &7LV&r Combustion Generator. While it may be slightly more expensive, every mB of Biodiesel provides a high amount of EU, making it easier to transport and store.\n\nIt's your choice how you want to start your energy production.",
+    "quests.gregtech_energy.lv_generator.desc.4": "&e3. Biodiesel Power (TFG Exclusive)&r:\n\nCanola and Sunflowers can be processed into large amounts of Seed Oil. Combine it with TFC Alcohol to produce Biodiesel.\n\nThis method may seem more complex, but Biodiesel is extremely powerful during &7LV&r and &bMV&r tiers. It scales well into &5EV&r with &eCetane-Boosted Diesel&r later on.\n\nTo use Biodiesel, you’ll need a &7LV&r Combustion Generator. While it may be slightly more expensive, every mB of Biodiesel provides a high amount of EU, making it easier to transport and store.\n\nIt's your choice how you want to start your energy production.",
     "quests.gregtech_energy.lv_generator.task": "Any LV Generator",
 
     "quests.gregtech_energy.mv_generator.title": "The MV Generators",
@@ -123,7 +123,7 @@
     "quests.gregtech_energy.solar_panel.subtitle": "Light in the Dark",
     "quests.gregtech_energy.solar_panel.desc": "The Solar Panel will be your first source of power on the Moon.\n\nThey produce 64 EU/t during daytime, but keep in mind they actually generate RF, so you’ll need a Converter to transform it into EU.\n\nYou can use one &bMV Converter&r for up to 2 Solar Panels or a &6HV Converter&r for up to 4 Solar Panels.",
 
-    // Stocking Energy
+    "__comment4": "Stocking Energy",
 
     "quests.gregtech_energy.storage.title": "Storing Energy",
     "quests.gregtech_energy.storage.subtitle": "Gotta put all that juice somewhere",
@@ -153,7 +153,7 @@
     "quests.gregtech_energy.batteries.desc": "In &7LV&r and &bMV&r, you probably built your first batteries made of Sodium or Lithium.\n\nBut let’s be real — these are the weakest batteries GregTech has to offer.\n\nIn this quest, we’ll look at the powerful alternatives: the &acrystal batteries&r.\nThey are much more potent, store way more energy, and can help you push your factory to the next tier.\n\nAre they more expensive? Of course. But let’s be real...\nPower is Power. Who’s counting?",
     "quests.gregtech_energy.batteries.task": "Any crystal battery",
 
-    // Spending Energy
+    "__comment5": "Spending Energy",
 
     "quests.gregtech_energy.spending_energy.title": "Spending Energy",
     "quests.gregtech_energy.spending_energy.subtitle": "Oh you will spend energy",

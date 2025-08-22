@@ -61,5 +61,6 @@
     "block.createdeco.industrial_iron_door": "Сталеві Двері",
     "block.createdeco.locked_industrial_iron_door": "Зачинені Сталеві Двері",
     "block.createdeco.industrial_iron_trapdoor": "Сталевий Лаз",
-    "block.createdeco.industrial_iron_ladder": "Сталева Драбина"
+    "block.createdeco.industrial_iron_ladder": "Сталева Драбина",
+    "block.createdeco.industrial_iron_facade": "Сталевий фасад"
 }

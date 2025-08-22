@@ -1,0 +1,23 @@
+{
+	"id": "mars",
+	"sort_order": 3,
+	"dimension_id": "ad_astra:mars",
+	"ore_index_icon": "gtceu:raw_uraninite",
+	"vein_index_icon": "gtceu:mars_stone_uraninite_ore",
+	"vein_tag": "tfg:mars_veins",
+	"name_translations": {
+		"en_us": "Mars",
+		"pt_br": "Mars",
+		"uk_ua": "Mars"
+	},
+	"ore_index_translations": {
+		"en_us": "Mars Ore Index",
+		"pt_br": "Mars Ore Index",
+		"uk_ua": "Mars Ore Index"
+	},
+	"vein_index_translations": {
+		"en_us": "Mars Vein Index",
+		"pt_br": "Mars Vein Index",
+		"uk_ua": "Mars Vein Index"
+	}
+}

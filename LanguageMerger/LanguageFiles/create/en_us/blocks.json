@@ -2,7 +2,8 @@
 
     "block.create.netherite_backtank": "Blue Steel Backtank",
 
-    // Industrial iron
+    "__comment1": "Industrial iron",
+	
     "block.create.industrial_iron_block": "Industrial Steel Block",
     "block.create.weathered_iron_block": "Weathered Steel Block",
     "block.create.industrial_iron_window": "Industrial Steel Window",
@@ -10,13 +11,15 @@
     "block.create.industrial_iron_window_pane": "Industrial Steel Window Pane",
     "block.create.weathered_iron_window_pane": "Weathered Steel Window Pane",
 
-    // Window panes
+    "__comment2": "Window panes",
+	
     "block.create.dark_oak_window": "Hickory Window",
     "block.create.dark_oak_window_pane": "Hickory Window Pane",
     "block.create.cherry_window": "Fig Window",
     "block.create.cherry_window_pane": "Fig Window Pane",
 
-    // Andesite
+    "__comment3": "Andesite",
+	
     "block.create.andesite_bars": "Metal Bars",
     "block.create.andesite_belt_funnel": "Metal Belt Funnel",
     "block.create.andesite_casing": "Metal Casing",
@@ -30,7 +33,8 @@
     "block.create.andesite_tunnel": "Metal Tunnel",
     "block.create.andesite_table_cloth": "Metal Table Cover",
 
-    // Deepslate
+    "__comment4": "Deepslate",
+	
     "block.create.cut_deepslate": "Cut Migmatite",
     "block.create.cut_deepslate_stairs": "Cut Migmatite Stairs",
     "block.create.cut_deepslate_slab": "Cut Migmatite Slab",
@@ -50,7 +54,8 @@
     "block.create.layered_deepslate": "Layered Migmatite",
     "block.create.deepslate_pillar": "Migmatite Pillar",
 
-    // Dripstone
+    "__comment5": "Dripstone",
+	
     "block.create.cut_dripstone": "Cut Travertine",
     "block.create.cut_dripstone_stairs": "Cut Travertine Stairs",
     "block.create.cut_dripstone_slab": "Cut Travertine Slab",
@@ -70,7 +75,8 @@
     "block.create.layered_dripstone": "Layered Travertine",
     "block.create.dripstone_pillar": "Travertine Pillar",
 
-    // Granite (looks more like chert)
+    "__comment6": "Granite (looks more like chert)",
+	
     "block.create.cut_granite": "Cut Chert",
     "block.create.cut_granite_stairs": "Cut Chert Stairs",
     "block.create.cut_granite_slab": "Cut Chert Slab",

@@ -1,21 +1,24 @@
 {
-    //#region Starting
+    "__comment1": "#region Starting",
+	
     "quests.tfg_tips": "Tips - Survival",
     "quests.tfg_tips.subtitle": "Tips and Tricks to make your life slightly easier.",
 
     "quests.tfg_tips.beginning.title": "Tips and Tricks be here!",
     "quests.tfg_tips.beginning.subtitle": "Dear God that's a lot of branches...",
     "quests.tfg_tips.beginning.desc": "This quest chapter gives you a lot, &o(and we do mean a lot)&r of tips on how to survive and thrive.\n\nEach quest branch representing major mods in &2TerraFirmaGreg&r, with tips to make the most out of them. None of these quests are necessary for progression, although some &omay&r be locked behind main questline tasks.",
-    //#endregion
+    
+	"__comment2": "#endregion",
 
-    //#region Portable Storage
+    "__comment3": "#region Portable Storage",
+	
     "quests.tfg_tips.portable_storage.title": "Portable Storage Solutions",
     "quests.tfg_tips.portable_storage.subtitle": "Turns out your inventory is quite small.",
     "quests.tfg_tips.portable_storage.desc": "In your travels, you may explore a whole &olot&r and end up picking up a lot of junk. This quest branch provides several options for expanding your on-the-go inventory.",
 
     "quests.tfg_tips.toolbelt.title": "Toolbelt and Pouches",
     "quests.tfg_tips.toolbelt.subtitle": "Those tools sure take up a lot of space, let's fix that!",
-    "quests.tfg_tips.toolbelt.desc": "With a &dToolbelt&r, you'll be able to manage multiple tools without wasting inventory slots! This handy item can go into a special &3Toolbelt Slot&r in your &4Curios menu&r. You can insert and retrieve tools with a &ckeybind.&r It starts with only two slots, but more can be added by adding &aBelt Pouches&r.\n\n&lDue to a bug with this mod, it's not possible to upgrade your &dToolbelt&f if it's been dyed or has tools inside. Empty it first!",
+    "quests.tfg_tips.toolbelt.desc": "With a &dToolbelt&r, you'll be able to manage multiple tools without wasting inventory slots! This handy item can go into a special &3Toolbelt Slot&r in your &4Curios menu&r. You can insert and retrieve tools with a &ckeybind.&r It starts with only two slots, but more can be added by adding &aBelt Pouches&r.",
 
     "quests.tfg_tips.maxed_out_toolbelt.title": "ALL THE TOOLS",
     "quests.tfg_tips.maxed_out_toolbelt.subtitle": "That belt must be very heavy at this point...",
@@ -73,9 +76,11 @@
     "quests.tfg_tips.all_backpack_upgrades.title": "ALL THE UPGRADES",
     "quests.tfg_tips.all_backpack_upgrades.subtitle": "You can't even fit all of these in a single backpack...",
     "quests.tfg_tips.all_backpack_upgrades.desc": "These are all the backpack upgrades &3Sophisticated Backpacks&r has to offer. Can you craft them all?",
-    //#endregion
+    
+	"__comment4": "#endregion",
 
-    //#region GT
+    "__comment5": "#region GT",
+	
     "quests.tfg_tips.gt.title": "GregTech",
     "quests.tfg_tips.gt.subtitle": "One third of the modpack's name, after all.",
     "quests.tfg_tips.gt.desc": "&3GregTech&r can be quite intimidating, this quest branch should help you out.",
@@ -91,9 +96,11 @@
     "quests.tfg_tips.magnets.title": "Item Magnets",
     "quests.tfg_tips.magnets.subtitle": "",
     "quests.tfg_tips.magnets.desc": "The &6Item Magnet&r is exactly what you'd expect — a magnet that pulls nearby &6items&r straight to you. &aVery useful&r. What more could you ask for?",
-    //#endregion
+    
+	"__comment6": "#endregion",
 
-    //#region TFC
+    "__comment7": "#region TFC",
+	
     "quests.tfg_tips.terrafirmacraft.title": "TerraFirmaCraft Addons",
     "quests.tfg_tips.terrafirmacraft.subtitle": "The other two thirds of the modpack's name",
     "quests.tfg_tips.terrafirmacraft.desc": "&3TerraFirmaCraft&r is one of the main mods in &2TerraFirmaGreg.&r This branch mostly focuses on some of its survival features and other &dAdd-Ons&r the modpack has, such as &4Aged Alcohol&r and &bCanes.&r",
@@ -226,9 +233,11 @@
     "quests.tfg_tips.salvo.subtitle": "Apply directly to the forehead",
     "quests.tfg_tips.salvo.desc": "A &dSalve&r is another type of medicine, usually applied on the skin. These provide a different set of effects compared to &aPills&r and &aTablets&r, such as &cFire Resistance&r and &4Instant Health&r, but require relatively complex chemistry.",
     "quests.tfg_tips.salvo.task": "Any Salve",
-    //#endregion
+    
+	"__comment8": "#endregion",
 
-    //#region Misc
+    "__comment9": "#region Misc",
+	
     "quests.tfg_tips.misc.title": "Misc Tips",
     "quests.tfg_tips.misc.subtitle": "Even more tips!",
     "quests.tfg_tips.misc.desc": "These are miscellaneous tips, they don't fit in the other categories but are still useful to know about.",
@@ -401,9 +410,11 @@
     "quests.tfg_tips.self_defense.title": "Self-defense",
     "quests.tfg_tips.self_defense.subtitle": "Got zombies on your lawn?",
     "quests.tfg_tips.self_defense.desc": "Place a &3Cranktrap&r next to a pressure plate, and they'll completely immobilize whatever animal (or monster!) steps on it. Great for catching that elusive animal in the forest, or for defending your home.\n\n&3Barbed Wire&r is completely passive and just inflicts damage to anything that walks through it.",
-    //#endregion
+    
+	"__comment10": "#endregion",
 
-    //#region ArborFirmaCraft
+    "__comment11": "#region ArborFirmaCraft",
+	
     "quests.tfg_tips.arborfirmacraft.title": "ArborFirmaCraft",
     "quests.tfg_tips.arborfirmacraft.subtitle": "Harvesting the Life-blood of Trees",
     "quests.tfg_tips.arborfirmacraft.desc": "&2ArborFirmaCraft&r is a mod that adds multiple new trees to &3TFG&r: some are variants of existing TFC trees, such as &dAncient Kapok&r, while others are completely new, such as the &aBaobab&r and &aHevea.&r Some of the plank and log textures of these trees may remind you of vanilla tree colors...\n\nThis section will go over &bTree Tapping.&r\nAs a bonus, all &2ArborFirmaCraft&r woods are compatible with &3FirmaLife&r, and &3Firma:Civ&r, we made sure of it!",
@@ -441,9 +452,11 @@
     "quests.tfg_tips.create_rubber_ingot.subtitle": "Insulate them cables",
 
     "quests.tfg_tips.create_rubber_ingot.desc": "Utilizing the &bVacuum Chamber&r and some additional heating, you can process &aLatex&r from various trees into &dRaw Rubber Pulp&r through a specific process. You can then smelt together 3 &dRaw Rubber Pulp&r with a bit of &eSulfur Dust&r in an &bAlloy Smelter&r to create &dRubber Ingots&r, perfect for insulating cables and very much necessary to advance in the &2Voltaic Age&r and beyond...",
-    //#endregion
+    
+	"__comment12": "#endregion",
 
-    //#region Transportation
+    "__comment13": "#region Transportation",
+	
     "quests.tfg_tips.transportation.title": "Transportation",
     "quests.tfg_tips.transportation.subtitle": "For travelling this vast world",
     "quests.tfg_tips.transportation.desc": "The world is a very big place, you may end up travelling great distances to find specific resources for survival and advancement. The mods in this section will provide with a variety of transportation options.",
@@ -604,9 +617,10 @@
     "quests.tfg_tips.plow.subtitle": "Large Scale Farming",
     "quests.tfg_tips.plow.desc": "If there ever comes the need to till large sections of land for some megafarms, the &dPlow&r can come in clutch.",
 
-    //#endregion
+    "__comment14": "#endregion",
 
-    //#region Firmalife
+    "__comment15": "#region Firmalife",
+	
     "quests.tfg_tips.firmalife.title": "Firmalife",
     "quests.tfg_tips.firmalife.subtitle": "Thrive in TerraFirmaCraft",
     "quests.tfg_tips.firmalife.desc": "&2Firmalife&r is a mod all about extending the agricultural and gastronomic experience in TerraFirmaCraft, with touches of miscellaneous features. Includes things such as decorations, more preservation methods, new foods, bees and a plethora of useful gadgets!",
@@ -767,9 +781,11 @@
     "quests.tfg_tips.cellar_blocks.title": "Cellar Storage",
     "quests.tfg_tips.cellar_blocks.subtitle": "Stuff to put your food in",
     "quests.tfg_tips.cellar_blocks.desc": "&bFood Shelves&r can be used to store virtually any kind of food. &bHangers&r can be used to store &aMeat&r and &aGarlic.&r Food stored in these receive a powerful preservation trait greater than that of &dVessels.&r",
-    //#endregion
+    
+	"__comment16": "#endregion",
 
-    //#region Beneath
+    "__comment17": "#region Beneath",
+	
     "quests.tfg_tips.beneath.title": "The Beneath",
     "quests.tfg_tips.beneath.subtitle": "Journey to the Center of the Earth",
     "quests.tfg_tips.beneath.desc": "Deep, DEEP underground, past the &dBedrock&r, you'll find &4The Beneath&r, a complex network of huge caves filled with dangers and strange flora and fauna. While &4The Beneath&r is completely optional, it contains a lot of resources as well as some quality of life improvements.",
@@ -857,6 +873,7 @@
     "quests.tfg_tips.tools_tips.harvest_basket.title": "Harvest Baskets",
     "quests.tfg_tips.tools_tips.harvest_basket.subtitle": "For competitive pie bakers.",
     "quests.tfg_tips.tools_tips.harvest_basket.task": "Any #tfg:harvester",
-    "quests.tfg_tips.tools_tips.harvest_basket.desc": "&l&2Harvest Baskets&r&r are a new tool made just for &5TFG&r! These baskets can be used to harvest whole trees and bushes of fruit in one right-click! A regular &6Harvest Basket&r has a base durability of &n128&r. But an &3Aluminium Harvest Basket&r takes no damage on use."
-    //#endregion
+    "quests.tfg_tips.tools_tips.harvest_basket.desc": "&l&2Harvest Baskets&r&r are a new tool made just for &5TFG&r! These baskets can be used to harvest whole trees and bushes of fruit in one right-click! A regular &6Harvest Basket&r has a base durability of &n128&r. But an &3Aluminium Harvest Basket&r takes no damage on use.",
+    
+	"__comment18": "#endregion"
 }

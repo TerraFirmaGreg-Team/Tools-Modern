@@ -14,5 +14,7 @@
 	"block.beneath.soul_clay": "Muddy Clay",
 
 	"block.beneath.wood.fallen_leaves.crimson": "Fallen Crimson Lamella",
-	"block.beneath.wood.fallen_leaves.warped": "Fallen Warped Lamella"
+	"block.beneath.wood.leaves.crimson": "Crimson Lamella",
+	"block.beneath.wood.fallen_leaves.warped": "Fallen Warped Lamella",
+	"block.beneath.wood.leaves.warped": "Warped Lamella"
 }

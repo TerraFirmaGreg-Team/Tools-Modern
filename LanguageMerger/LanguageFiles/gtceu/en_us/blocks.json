@@ -24,7 +24,8 @@
     "block.gtceu.overworld_marker": "Earth",
     "block.gtceu.the_nether_marker": "The Beneath",
 
-    // these are used for recipes
+    "__comment1": "these are used for recipes",
+	
     "gtceu.nether_dome": "Netherarium",
     "gtceu.end_dome": "Enderarium",
     "gtceu.greenhouse": "Electric Greenhouse",
