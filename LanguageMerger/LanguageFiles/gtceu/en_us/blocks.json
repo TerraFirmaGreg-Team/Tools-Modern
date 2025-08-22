@@ -38,5 +38,8 @@
     "gtceu.nuclear_fuel_factory": "Nuclear Fuel Factory",
     "gtceu.heat_exchanger": "Heat Exchanger",
     "gtceu.fission_reactor": "Fission Reactor",
-    "gtceu.evaporation_tower": "Evaporation Tower"
+    "gtceu.evaporation_tower": "Evaporation Tower",
+    "gtceu.ostrum_harvester": "Ostrum Harvester",
+    "gtceu.moon_dust_harvester": "Moon Dust Harvester",
+    "gtceu.extraterrestrial_ore_fabricator": "Extraterrestrial Ore Fabricator"
 }
