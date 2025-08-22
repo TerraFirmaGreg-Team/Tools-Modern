@@ -1,3 +1,6 @@
 {
-    "fluid.tfc.salt_water": "Sea Water"
+    "fluid.tfc.salt_water": "Sea Water",
+    "block.fluid.tfc.salt_water": "Sea Water",
+    "fluid.tfc.river_water": "River Water",
+    "block.fluid.tfc.river_water": "River Water"
 }

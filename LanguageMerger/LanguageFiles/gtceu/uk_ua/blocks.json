@@ -20,6 +20,7 @@
     "block.gtceu.bismuth_bronze_drum": "Бочка з Вісмутової Бронзи",
     "block.gtceu.overworld_marker": "Земля",
     "block.gtceu.the_nether_marker": "Безодня",
+    "__comment1": "these are used for recipes",
     "gtceu.nether_dome": "Незераріум",
     "gtceu.end_dome": "Ендераріум",
     "gtceu.greenhouse": "Електрична теплиця",
