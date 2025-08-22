@@ -43,6 +43,9 @@ namespace OresToFieldGuide
 				programArguments.ModpackFolder = CommonUtil.GetModpackDirectory();
 				programArguments.DataFolder = GetDataDirectory();
 				programArguments.WhitelistedPatchouliEntryFilenames = GetWhitelistedPatchouliEntryFilenames();
+
+				var cwd = Directory.GetCurrentDirectory();
+				programArguments.ToolsFolder = cwd.Substring(0, cwd.IndexOf(PROJECT_NAME));
 			}
 			catch (Exception e)
 			{

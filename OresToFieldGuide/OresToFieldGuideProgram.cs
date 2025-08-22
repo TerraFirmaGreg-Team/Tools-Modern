@@ -642,7 +642,7 @@ namespace OresToFieldGuide
 					}
 				}
 				sb.AppendLine("}");
-				File.WriteAllText(Path.Combine(m_arguments.ModpackFolder, locale + "_veins.json"), sb.ToString());
+				File.WriteAllText(Path.Combine(m_arguments.ToolsFolder, "LanguageMerger", "LanguageFiles", "tfg", locale, "ore_veins.json"), sb.ToString());
 			}
 		}
 
