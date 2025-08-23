@@ -18,6 +18,16 @@ namespace OresToFieldGuide
         public string DataFolder;
 
         /// <summary>
+        /// The path to the tools repo
+        /// </summary>
+        public string ToolsFolder;
+
+        /// <summary>
+        /// The path to the core folder
+        /// </summary>
+        public string CoreFolder;
+
+        /// <summary>
         /// Any PatchouliEntry FileName specified here will not be deleted from the game's field guide.
         /// </summary>
         public string[] WhitelistedPatchouliEntryFilenames;

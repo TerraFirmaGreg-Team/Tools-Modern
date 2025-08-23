@@ -1,0 +1,74 @@
+{
+	"id": "moon_cassiterite",
+	"dimension": "moon",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 210,
+		"density": 0.3,
+		"min_y": 10,
+		"max_y": 128,
+		"size": 40
+	},
+	"ores": [
+		{
+			"ore": "chalcopyrite",
+			"weight": 30,
+			"block_weight": 1
+		},
+		{
+			"ore": "zeolite",
+			"weight": 5
+		},
+		{
+			"ore": "cassiterite",
+			"weight": 35,
+			"block_weight": 1
+		},
+		{
+			"ore": "tin",
+			"weight": 15
+		}
+	],
+	"rocks": [
+		"granite",
+		"diorite",
+		"gabbro",
+		"moon_deepslate"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 60,
+		"blocks": [
+			{
+				"block": "tfc:ore/small_cassiterite",
+				"weight": 50
+			},
+			{
+				"block": "gtceu:zeolite_indicator",
+				"weight": 5
+			},
+			{
+				"block": "gtceu:chalcopyrite_indicator",
+				"weight": 30
+			}
+		]
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Cassiterite & Chalcopyrite"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Cassiterita e Calcopirita"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Касситерит и Халькопирит"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Каситерит і Халькопірит"
+		}
+	]
+}

@@ -660,7 +660,7 @@
 
     "quests.tfg_tips.oven.title": "Oven",
     "quests.tfg_tips.oven.subtitle": "Caution, it's hot",
-    "quests.tfg_tips.oven.desc": "The &3Oven&r is a multiblock structure that can be used to easily cook foods as well as perform exclusive recipes. The &aBottom Oven, Top Oven&r and the &aChimney&r are mandatory components. And don't forget the &dPeel&r, used for picking up food from the &aTop Oven.&r\nMore information on how to build an &3Oven&r can be found in the &2Field Guide.&r\n\n&3&lTip:&r&o: The only food that can satisfy all 5 nutrient groups, &cPizza&f, must be cooked in an oven.",
+    "quests.tfg_tips.oven.desc": "The &3Oven&r is a multiblock structure that can be used to easily cook foods as well as perform exclusive recipes. The &aBottom Oven, Top Oven&r and the &aChimney&r are mandatory components. And don't forget to use &dTongs&r to pick up food from the &aTop Oven.&r\nMore information on how to build an &3Oven&r can be found in the &2Field Guide.&r\n\n&3&lTip:&r&o: The only food that can satisfy all 5 nutrient groups, &cPizza&f, must be cooked in an oven.",
 
     "quests.tfg_tips.oven_appliances.title": "Oven Appliances",
     "quests.tfg_tips.oven_appliances.subtitle": "Get more out of your Ovens",

@@ -2,8 +2,8 @@
 	"id": "mars",
 	"sort_order": 3,
 	"dimension_id": "ad_astra:mars",
-	"ore_index_icon": "gtceu:raw_uraninite",
-	"vein_index_icon": "gtceu:mars_stone_uraninite_ore",
+	"ore_index_icon": "tfc:ore/normal_hematite",
+	"vein_index_icon": "gtceu:mars_stone_hematite_ore",
 	"vein_tag": "tfg:mars_veins",
 	"name_translations": {
 		"en_us": "Mars",

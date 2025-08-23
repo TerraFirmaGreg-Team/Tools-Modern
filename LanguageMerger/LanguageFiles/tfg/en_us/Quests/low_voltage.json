@@ -258,7 +258,7 @@
 
 	"quests.low_voltage.lv_cutter.title": "Basic Cutter",
 	"quests.low_voltage.lv_cutter.subtitle": "The Cutter... cuts...",
-	"quests.low_voltage.lv_cutter.desc": "For now, you should use &9Water&r for its recipes instead of trying to acquire Lubricant.\n\nThe &3Cutting Machine&r additionally unlocks converting &6Rods into four Bolts&r.\n\nThis machine is the only way to obtain &dGem Plates&r, which are needed to craft Filters, and by extension, the &3Gas Collector&r.",
+	"quests.low_voltage.lv_cutter.desc": "For now, you should use &9Water&r for its recipes instead of trying to acquire Lubricant.\n\nIf you don't have one yet, this machine will also cut &6Rods into four Bolts&r.\n\nThis machine is the only way to obtain &dGem Plates&r, which are needed to craft Filters, and by extension, the &3Gas Collector&r.",
 	"quests.low_voltage.lv_cutter.task": "Any cutter",
 
 	"quests.low_voltage.lv_gas_collector.title": "Basic Gas Collector",

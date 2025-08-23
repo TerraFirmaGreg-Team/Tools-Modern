@@ -1,6 +1,4 @@
 {
-    "__comment1": "Welcome to MV",
-
     "quests.computer": "ComputerCraft",
     "quests.computer.subtitle": "A very powerful Lua scripting mod"
 

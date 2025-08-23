@@ -12,11 +12,13 @@
 	"ores": [
 		{
 			"ore": "bauxite",
-			"weight": 35
+			"weight": 35,
+			"block_weight": 1
 		},
 		{
 			"ore": "ilmenite",
-			"weight": 40
+			"weight": 40,
+			"block_weight": 1
 		},
 		{
 			"ore": "armalcolite",

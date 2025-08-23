@@ -1,0 +1,56 @@
+{
+	"id": "moon_garnet",
+	"dimension": "moon",
+	"type": "tfc:disc_vein",
+	"config": {
+		"rarity": 230,
+		"density": 0.35,
+		"min_y": 10,
+		"max_y": 128,
+		"size": 35,
+		"height": 7
+	},
+	"ores": [
+		{
+			"ore": "red_garnet",
+			"weight": 10
+		},
+		{
+			"ore": "yellow_garnet",
+			"weight": 15
+		},
+		{
+			"ore": "amethyst",
+			"weight": 40,
+			"block_weight": 1
+		},
+		{
+			"ore": "opal",
+			"weight": 40,
+			"block_weight": 1
+		}
+	],
+	"rocks": [
+		"rhyolite",
+		"basalt",
+		"andesite"
+	],
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Amethyst, Opal, & Garnet"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Ametista, Opala e Granada"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Аметист, Опал и гранат"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Аметист, Опал і Гранат"
+		}
+	]
+}
