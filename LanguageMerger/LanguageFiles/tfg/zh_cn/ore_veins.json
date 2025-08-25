@@ -103,12 +103,12 @@
     "ore_vein.tfg.nether_sylvite" : "钾盐",
     "ore_vein.tfg.nether_tetrahedrite" : "黝铜",
     "ore_vein.tfg.nether_topaz" : "黄玉 & 辉铜矿",
-    "ore_vein.tfg.normal_gypsum" : "Gypsum & Calcite",
-    "ore_vein.tfg.mars_hematite" : "(Placeholder Vein)",
-    "ore_vein.tfg.moon_cassiterite" : "Cassiterite & Chalcopyrite",
-    "ore_vein.tfg.moon_garnet" : "Amethyst, Opal, & Garnet",
-    "ore_vein.tfg.moon_gold" : "Gold & Magnetite",
-    "ore_vein.tfg.moon_gypsum" : "Gypsum & Calcite",
-    "ore_vein.tfg.moon_tetrahedrite" : "Tetrahedrite & Chalcocite",
-    "ore_vein.tfg.nether_gypsum" : "Gypsum & Calcite"
+    "ore_vein.tfg.normal_gypsum" : "石膏与方解石",
+    "ore_vein.tfg.mars_hematite" : "（占位矿脉）",
+    "ore_vein.tfg.moon_cassiterite" : "锡石与黄铜矿",
+    "ore_vein.tfg.moon_garnet" : "紫水晶，蛋白石与石榴石",
+    "ore_vein.tfg.moon_gold" : "金与磁铁矿",
+    "ore_vein.tfg.moon_gypsum" : "石膏与方解石",
+    "ore_vein.tfg.moon_tetrahedrite" : "黝铜矿与辉铜矿",
+    "ore_vein.tfg.nether_gypsum" : "石膏与方解石"
 }

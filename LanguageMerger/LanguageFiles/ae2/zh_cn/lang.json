@@ -1,5 +1,5 @@
 {
-    "gui.ae2.inWorldCraftingPresses" : "压印模板可通过破坏位神秘方块获得。神秘方块可以从月球上的陨石中心找到。",
+    "gui.ae2.inWorldCraftingPresses" : "压印模板可通过破坏神秘方块获得，而神秘方块位于月球陨石的中心。",
     "__comment1" : "用于可编程电路卡，如果不这样做，提示将只显示语言ID",
     "gui.advanced_ae.AdvPatternProvider" : "",
     "gui.expandedae.exp_pattern_provider" : ""

@@ -36,8 +36,8 @@
     "quests.ae2.ae_guide.title" : "欢迎来到AE2",
     "quests.ae2.ae_guide.subtitle" : "又一本品免费指南加入收藏！",
     "quests.ae2.ae_guide.desc" : "至此你已准备好建设&bAE2&r基础设施！\n\n本章节主要指导当前可制作与尚未解锁的内容。\n我们同时将标注你应重点关注的核心物品。\n\n但要完全理解应用能源2，我们强烈建议使用&bG&r键查看（类似机械动力的Ponder系统），或打开本任务奖励的&bME指南&r。这是最优秀的AE2游戏内教程。\n此外可观看&61.20.1&r版本AE2在线视频获取详细解说——AE2作为热门模组拥有大量教程！\n\n&d专业提示&r：许多&bAE2&r配方存在更经济的月球替代配方。再次强调，投资月球基地将在整个游戏进程持续带来回报。",
-    "__comment4" : "Top",
-    "quests.ae2.programmed_circuit_card.title" : "Programmed Circuit Card",
-    "quests.ae2.programmed_circuit_card.subtitle" : "An essential upgrade",
-    "quests.ae2.programmed_circuit_card.desc" : "Insert one of these into your Pattern Providers, and if your recipe has a programmed circuit, the attached GregTech machine will automatically change its circuit to the one in the recipe. How useful is that?!"
+    "__comment4" : "顶部",
+    "quests.ae2.programmed_circuit_card.title" : "可编程电路卡",
+    "quests.ae2.programmed_circuit_card.subtitle" : "必备升级",
+    "quests.ae2.programmed_circuit_card.desc" : "插入一张这样的卡片到你的样板供应器中，如果配方包含编程电路，关联的 GregTech 机器将自动切换至该电路。这有多实用？！"
 }

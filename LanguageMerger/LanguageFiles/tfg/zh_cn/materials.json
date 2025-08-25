@@ -61,9 +61,9 @@
     "material.tfg.nuclear_residue" : "核废料",
     "material.tfg.oxidized_nuclear_residue" : "氧化核废料",
     "material.tfg.refined_nuclear_residue" : "精炼核废料",
-    "material.tfg.certus_regolith" : "Certus Regolith",
-    "material.tfg.goethe_regolith" : "Goethe Regolith",
-    "material.tfg.bright_regolith" : "Bright Regolith",
-    "material.tfg.cassiterite_regolith" : "Cassiterite Regolith",
-    "material.tfg.regolith_mush" : "Regolith Mush"
+    "material.tfg.certus_regolith" : "赛特斯风化土",
+    "material.tfg.goethe_regolith" : "歌德风化土",
+    "material.tfg.bright_regolith" : "亮泽风化土",
+    "material.tfg.cassiterite_regolith" : "锡石风化土",
+    "material.tfg.regolith_mush" : "泥泞风化土"
 }

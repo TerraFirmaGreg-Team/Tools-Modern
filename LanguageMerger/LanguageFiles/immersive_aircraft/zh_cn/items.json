@@ -1,8 +1,8 @@
 {
-    "item.immersive_aircraft.steel_boiler" : "钢制航空蒸汽锅炉",
+    "item.immersive_aircraft.steel_boiler" : "蒸汽动力航空引擎",
     "item.immersive_aircraft.nether_engine" : "中压航空引擎",
-    "item.immersive_aircraft.enhanced_propeller" : "增封闭式铝制航空螺旋桨",
-    "item.immersive_aircraft.improved_landing_gear" : "黑钢起落架",
-    "item.immersive_aircraft.hull_reinforcement" : "黑钢加强外壳",
+    "item.immersive_aircraft.enhanced_propeller" : "铝制镀层航空螺旋桨",
+    "item.immersive_aircraft.improved_landing_gear" : "玄钢起落架",
+    "item.immersive_aircraft.hull_reinforcement" : "玄钢机身加固件",
     "item.immersive_aircraft.bamboo_hopper" : "铝制漏斗"
 }

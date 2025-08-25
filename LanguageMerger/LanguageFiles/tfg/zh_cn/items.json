@@ -79,10 +79,10 @@
     "item.tfg.aluminium_landing_gear" : "铝制起落架",
     "item.tfg.stainless_steel_landing_gear" : "不锈钢起落架",
     "item.tfg.titanium_landing_gear" : "钛合金起落架",
-    "item.tfg.redblu_steel_hull_reinforcement" : "红蓝钢船体加固件",
+    "item.tfg.redblu_steel_hull_reinforcement" : "红蓝钢机身加固件",
     "item.tfg.aluminium_hull_reinforcement" : "铝制船体加固件",
-    "item.tfg.stainless_steel_hull_reinforcement" : "不锈钢船体加固件",
-    "item.tfg.titanium_hull_reinforcement" : "钛合金船体加固件",
+    "item.tfg.stainless_steel_hull_reinforcement" : "不锈钢机身加固件",
+    "item.tfg.titanium_hull_reinforcement" : "钛合金机身加固件",
     "item.tfg.ulv_universal_circuit" : "ULV 通用电路",
     "item.tfg.lv_universal_circuit" : "LV 通用电路",
     "item.tfg.mv_universal_circuit" : "MV 通用电路",
@@ -233,6 +233,6 @@
     "item.tfg.large_casing_extruder_mold" : "挤压模具（大型弹壳）",
     "item.tfg.photo_cell_t1" : "基础光伏电池",
     "item.tfg.electric_extendo_grip" : "电动伸缩抓取臂",
-    "item.tfg.treated_chipboard_composite" : "Treated Chipboard Composite",
-    "item.tfg.high_density_treated_fiberboard" : "Medium Density Treated Fiberboard"
+    "item.tfg.treated_chipboard_composite" : "处理过的刨花板复合材料",
+    "item.tfg.high_density_treated_fiberboard" : "处理过的中密度纤维板"
 }

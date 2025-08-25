@@ -1,6 +1,6 @@
 {
-    "item.railways.track_incomplete_create_andesite_wide" : "列车宽轨(半成品)",
-    "item.railways.track_incomplete_create_andesite_narrow" : "列车窄轨(半成品)",
+    "item.railways.track_incomplete_create_andesite_wide" : "未完成的列车宽轨",
+    "item.railways.track_incomplete_create_andesite_narrow" : "未完成的列车窄轨",
     "tfc.recipe.barrel.railways.barrel.dyeing.cap_decolor" : "褪色处理",
     "tfc.recipe.barrel.railways.barrel.dyeing.black_conductor_cap" : "染色",
     "tfc.recipe.barrel.railways.barrel.dyeing.gray_conductor_cap" : "染色",
