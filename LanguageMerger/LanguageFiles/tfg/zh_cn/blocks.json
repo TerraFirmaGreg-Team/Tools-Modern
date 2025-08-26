@@ -340,5 +340,13 @@
     "block.tfg.saplings.glacian" : "冰川菇",
     "block.tfg.casings.machine_casing_vacuum_engine_intake" : "真空引擎进气机壳",
     "block.tfg.casings.machine_casing_mars" : "坚固防尘机壳",
-    "block.tfg.fluid.semiheavy_ammoniacal_water" : "半重氨水"
+    "block.tfg.fluid.semiheavy_ammoniacal_water" : "半重氨水",
+    "block.tfg.grass.mars_clay_dirt" : "Martian Clay Dirt",
+    "block.tfg.grass.amber_clay_mycelium" : "Amber Clay Mycelium",
+    "block.tfg.grass.amber_kaolin_mycelium" : "Amber Kaolin Mycelium",
+    "block.tfg.grass.rusticus_clay_mycelium" : "Rusticus Clay Mycelium",
+    "block.tfg.grass.rusticus_kaolin_mycelium" : "Rusticus Kaolin Mycelium",
+    "block.tfg.grass.sangnum_clay_mycelium" : "Sangnum Clay Mycelium",
+    "block.tfg.grass.sangnum_kaolin_mycelium" : "Sangnum Kaolin Mycelium",
+    "block.tfg.spice" : "Ostrum Deposit"
 }
