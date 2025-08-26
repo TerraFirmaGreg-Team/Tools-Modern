@@ -1,5 +1,5 @@
 {
-    "quests.tasktype.checkmark" : "点击这里完成任务",
+    "quests.tasktype.checkmark" : "点击这里完成任务/目标",
     "quests.tasktype.item.any" : "任意类型物品：",
     "quests.tasktype.lookat" : "看向：",
     "quests.tasktype.travelto" : "前往：",

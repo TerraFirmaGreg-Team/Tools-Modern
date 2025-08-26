@@ -122,7 +122,7 @@
     "block.tfg.spike.blackstone_spike" : "辉石岩尖刺",
     "block.tfg.spike.dripstone_spike" : "石灰华尖刺",
     "block.tfg.loose.deepslate" : "松散混合岩",
-    "block.tfg.loose.dripstone" : "松散钙华岩",
+    "block.tfg.loose.dripstone" : "松散石灰华岩",
     "block.tfg.mushroom_roots" : "菌丝根须",
     "block.tfg.mushroom_sprouts" : "菌丝嫩芽",
     "block.tfg.charred_log" : "焦化原木",
@@ -340,5 +340,5 @@
     "block.tfg.saplings.glacian" : "冰川菇",
     "block.tfg.casings.machine_casing_vacuum_engine_intake" : "真空引擎进气机壳",
     "block.tfg.casings.machine_casing_mars" : "坚固防尘机壳",
-    "block.tfg.fluid.semiheavy_ammoniacal_water" : "Semiheavy Ammoniacal Water"
+    "block.tfg.fluid.semiheavy_ammoniacal_water" : "半重氨水"
 }

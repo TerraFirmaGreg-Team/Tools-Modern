@@ -3,7 +3,7 @@
     "quests.development.subtitle" : "一种理解你在格雷科技中进程的简单方式",
     "quests.development.explanation.title" : "让我们做些解释",
     "quests.development.explanation.subtitle" : "其实很简单",
-    "quests.development.explanation.desc.1" : "格雷科技的&l电路发展进程&r起初可能看起来令人生畏，但其实没那么糟。\n\n首先，你需要明白相同等级的电路是可以互换的。例如，制作一个&6高压(HV)&r &6搅拌机(Mixer)&r，你可以使用任何&6高压等级&r的电路。",
+    "quests.development.explanation.desc.1" : "格雷科技的&l电路发展进程&r起初可能看起来令人生畏，但其实没那么糟。\n\n首先，你需要明白相同等级的电路是可以互换的。例如，制作一个&6高压(HV)&r &6搅拌机&r，你可以使用任何&6高压等级&r的电路。",
     "quests.development.explanation.desc.2" : "现在，我们来谈谈&l发展进程&r。你可能注意到，每个电路在其图标上都有一个颜色代码和一个名称。例如，所有&a量子处理器(Quantum Processors)&r都是&a绿色&r的，并且在&1超高压(IV)&r等级的电路组装机中制作。要制作一个，你首先需要前一级的电路——这就是为什么，要制作你的第一个&d卢森堡超高压(LuV)&r &d电路&r，即纳米处理器主机(Nanoprocessor Mainframe)，你必须从制作一个纳米处理器(Nanoprocessor)开始，并逐步完成每一个&7步骤&r。在这种情况下，需要三个步骤。\n\n这就是为什么每一行最右边的&6电路&r总是更&a容易&r制作：它们需要更少的&7步骤&r。",
     "quests.development.explanation.desc.3" : "此外，我们添加了&l通用电路(Universal Circuits)&r。它们可以用任何&6电路&r——无论是&1超高压(IV)&r、&d卢森堡超高压(LuV)&r、&3极端超高压(UV)&r，还是任何其他等级——来&a制作&r，并且对于使用AE2进行&9自动化&r极其有用。尝试用&l通用电路&r编码你所有的&f样板(patterns)&r，这样每当你升级到更好的电路时，你就不必重做所有的&f样板&r——只需要重做那些用于制作通用电路的样板。",
     "quests.development.explanation.task" : "好的，我读完了全部三页",
