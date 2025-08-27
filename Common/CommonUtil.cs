@@ -14,7 +14,24 @@
 
 			var teamDir = workingDir.Substring(0, toolsIndex);
 
-			return Path.Combine(teamDir, "Modpack-Modern");
+			var modpackDir = Path.Combine(teamDir, "Modpack-Modern");
+			if (Directory.Exists(modpackDir))
+			{
+				return modpackDir;
+			}
+			else
+			{
+				// Try an alternative
+				modpackDir = Path.Combine(teamDir, "TerraFirmaGreg-Modern");
+				if (Directory.Exists(modpackDir))
+				{
+					return modpackDir;
+				}
+				else
+				{
+					throw new DirectoryNotFoundException("Failed to find \"Modpack-Modern\" or \"TerraFirmaGreg-Modern\" directory.");
+				}
+			}
 		}
 
 		public static string GetKJSAssetsFolder(string modpackFolder)
