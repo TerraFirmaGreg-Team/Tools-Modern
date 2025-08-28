@@ -1,8 +1,8 @@
 {
-    "tagprefix.moon_stone" : "斜长岩%s矿石",
-    "tagprefix.moon_deepslate" : "苏长岩%s矿石",
-    "tagprefix.mars_stone" : "泥岩%s矿石",
-    "tagprefix.venus_stone" : "粗面岩%s矿石",
-    "tagprefix.mercury_stone" : "科马提岩%s矿石",
-    "tagprefix.glacio_stone" : "响岩%s矿石"
+    "tagprefix.moon_stone": "斜长岩%s矿石",
+    "tagprefix.moon_deepslate": "苏长岩%s矿石",
+    "tagprefix.mars_stone": "泥岩%s矿石",
+    "tagprefix.venus_stone": "粗面岩%s矿石",
+    "tagprefix.mercury_stone": "科马提岩%s矿石",
+    "tagprefix.glacio_stone": "响岩%s矿石"
 }

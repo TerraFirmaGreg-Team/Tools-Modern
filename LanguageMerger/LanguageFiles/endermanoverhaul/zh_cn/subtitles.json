@@ -1,7 +1,7 @@
 {
-    "subtitles.endermanoverhaul.entity.cave_enderman.ambient" : "洞穴末影人:低鸣",
-    "subtitles.endermanoverhaul.entity.cave_enderman.hurt" : "洞穴末影人:受伤",
-    "subtitles.endermanoverhaul.entity.dark_oak_enderman.ambient" : "灰烬末影人:低鸣",
-    "subtitles.endermanoverhaul.entity.dark_oak_enderman.darkness" : "灰烬末影人:降影",
-    "subtitles.endermanoverhaul.entity.dark_oak_enderman.stare" : "灰烬末影人:喊叫"
+    "subtitles.endermanoverhaul.entity.cave_enderman.ambient": "洞穴末影人:低鸣",
+    "subtitles.endermanoverhaul.entity.cave_enderman.hurt": "洞穴末影人:受伤",
+    "subtitles.endermanoverhaul.entity.dark_oak_enderman.ambient": "灰烬末影人:低鸣",
+    "subtitles.endermanoverhaul.entity.dark_oak_enderman.darkness": "灰烬末影人:降影",
+    "subtitles.endermanoverhaul.entity.dark_oak_enderman.stare": "灰烬末影人:喊叫"
 }
