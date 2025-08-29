@@ -1,0 +1,52 @@
+{
+	"id": "mars_quartzite",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 210,
+		"density": 0.3,
+		"min_y": 0,
+		"max_y": 70,
+		"size": 40
+	},
+	"ores": [
+		{
+			"ore": "quartzite",
+			"weight": 35,
+			"block_weight": 1
+		},
+				{
+			"ore": "barite",
+			"weight": 30
+		},
+				{
+			"ore": "asbestos",
+			"weight": 15
+		},
+				{
+			"ore": "hematite",
+			"weight": 5
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"venus_stone",
+		"red_granite",
+		"granite",
+		"shale",
+		"claystone",
+		"limestone",
+		"chert",
+		"chalk"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Quartzite and Asbestos"
+		}
+	]
+}

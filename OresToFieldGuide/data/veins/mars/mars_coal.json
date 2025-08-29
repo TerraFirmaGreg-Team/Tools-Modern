@@ -1,0 +1,46 @@
+{
+	"id": "mars_coal",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 215,
+		"density": 0.6,
+		"min_y": 0,
+		"max_y": 70,
+		"size": 55
+	},
+	"ores": [
+		{
+			"ore": "coal",
+			"weight": 50,
+			"block_weight": 1
+		},
+				{
+			"ore": "hematite",
+			"weight": 50
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"venus_stone",
+		"red_granite",
+		"granite",
+		"diorite",
+		"claystone",
+		"conglomerate",
+		"dolomite",
+		"chalk",
+		"basalt",
+		"dacite"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Coal and Iron"
+		}
+	]
+}

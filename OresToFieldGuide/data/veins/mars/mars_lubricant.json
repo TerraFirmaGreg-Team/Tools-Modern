@@ -1,0 +1,57 @@
+{
+	"id": "mars_lubricant",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 220,
+		"density": 0.25,
+		"min_y": 0,
+		"max_y": 70,
+		"size": 30
+	},
+	"ores": [
+		{
+			"ore": "soapstone",
+			"weight": 30,
+			"block_weight": 1
+		},
+				{
+			"ore": "talc",
+			"weight": 20
+		},
+				{
+			"ore": "glauconite_sand",
+			"weight": 25
+		},
+				{
+			"ore": "pentlandite",
+			"weight": 15
+		},
+				{
+			"ore": "hematite",
+			"weight": 5
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"red_granite",
+		"granite",
+		"diorite",
+		"shale",
+		"claystone",
+		"limestone",
+		"conglomerate",
+		"dolomite",
+		"dacite"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Lubricant"
+		}
+	]
+}

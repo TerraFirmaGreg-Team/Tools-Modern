@@ -1,0 +1,53 @@
+{
+	"id": "mars_salt",
+	"dimension": "mars",
+	"type": "tfc:disc_vein",
+	"config": {
+		"rarity": 210,
+		"density": 0.4,
+		"min_y": 0,
+		"max_y": 70,
+		"size": 40,
+		"height": 6
+	},
+	"ores": [
+		{
+			"ore": "rock_salt",
+			"weight": 20,
+			"block_weight": 1
+		},
+				{
+			"ore": "salt",
+			"weight": 30
+		},
+				{
+			"ore": "lepidolite",
+			"weight": 15
+		},
+				{
+			"ore": "spodumene",
+			"weight": 35
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"venus_stone",
+		"red_granite",
+		"granite",
+		"diorite",
+		"claystone",
+		"limestone",
+		"chert",
+		"chalk"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Salt and Lepidolite"
+		}
+	]
+}

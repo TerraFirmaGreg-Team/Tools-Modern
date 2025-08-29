@@ -1,0 +1,52 @@
+{
+	"id": "deep_sheldonite",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 370,
+		"density": 0.3,
+		"min_y": -20,
+		"max_y": 0,
+		"size": 60
+	},
+	"ores": [
+		{
+			"ore": "bornite",
+			"weight": 35,
+			"block_weight": 1
+		},
+				{
+			"ore": "cooperite",
+			"weight": 25
+		},
+				{
+			"ore": "nickel",
+			"weight": 25
+		},
+				{
+			"ore": "platinum",
+			"weight": 15
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"venus_stone",
+		"red_granite",
+		"diorite",
+		"conglomerate",
+		"chert",
+		"chalk",
+		"basalt",
+		"dacite"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Deep Sheldonite"
+		}
+	]
+}

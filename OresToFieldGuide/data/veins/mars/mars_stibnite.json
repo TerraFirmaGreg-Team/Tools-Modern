@@ -1,32 +1,40 @@
 {
-	"id": "mars_hematite",
+	"id": "mars_stibnite",
 	"dimension": "mars",
 	"type": "tfc:cluster_vein",
 	"config": {
 		"rarity": 210,
 		"density": 0.4,
-		"min_y": -16,
-		"max_y": 100,
+		"min_y": 0,
+		"max_y": 70,
 		"size": 40
 	},
 	"ores": [
 		{
-			"ore": "hematite",
-			"weight": 100,
+			"ore": "tetrahedrite",
+			"weight": 50,
 			"block_weight": 1
+		},
+				{
+			"ore": "copper",
+			"weight": 30
+		},
+				{
+			"ore": "stibnite",
+			"weight": 20
+		},
+				{
+			"ore": "hematite",
+			"weight": 5
 		}
 	],
 	"rocks": [
 		"mars_stone",
 		"venus_stone",
 		"red_granite",
-		"granite",
 		"diorite",
 		"gabbro",
 		"shale",
-		"claystone",
-		"limestone",
-		"conglomerate",
 		"dolomite",
 		"chert",
 		"chalk",
@@ -40,7 +48,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "(Placeholder Vein)"
+			"text": "Copper and Stibnite"
 		}
 	]
 }

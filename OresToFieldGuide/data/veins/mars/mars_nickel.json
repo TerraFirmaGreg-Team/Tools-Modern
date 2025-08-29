@@ -1,0 +1,52 @@
+{
+	"id": "mars_nickel",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 250,
+		"density": 0.4,
+		"min_y": 0,
+		"max_y": 70,
+		"size": 55
+	},
+	"ores": [
+		{
+			"ore": "garnierite",
+			"weight": 25,
+			"block_weight": 1
+		},
+				{
+			"ore": "nickel",
+			"weight": 20
+		},
+				{
+			"ore": "cobaltite",
+			"weight": 20
+		},
+				{
+			"ore": "hematite",
+			"weight": 5
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"red_granite",
+		"granite",
+		"shale",
+		"claystone",
+		"limestone",
+		"chalk",
+		"basalt",
+		"dacite"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Nickel and Cobaltite"
+		}
+	]
+}

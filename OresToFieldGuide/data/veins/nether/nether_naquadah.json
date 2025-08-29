@@ -13,11 +13,6 @@
 			"ore": "naquadah",
 			"weight": 75,
 			"block_weight": 2
-		},
-		{
-			"ore": "plutonium",
-			"weight": 25,
-			"block_weight": 1
 		}
 	],
 	"rocks": [

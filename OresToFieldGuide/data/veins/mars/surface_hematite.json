@@ -1,0 +1,54 @@
+{
+	"id": "surface_hematite",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 140,
+		"density": 0.25,
+		"min_y": 80,
+		"max_y": 180,
+		"size": 45
+	},
+	"ores": [
+		{
+			"ore": "hematite",
+			"weight": 50,
+			"block_weight": 1
+		},
+				{
+			"ore": "yellow_limonite",
+			"weight": 30
+		},
+				{
+			"ore": "gold",
+			"weight": 5
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"venus_stone",
+		"red_granite",
+		"granite",
+		"diorite",
+		"gabbro",
+		"shale",
+		"claystone",
+		"limestone",
+		"conglomerate",
+		"dolomite",
+		"chert",
+		"chalk",
+		"basalt",
+		"dacite"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Surface Hematite"
+		}
+	]
+}

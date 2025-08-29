@@ -1,0 +1,50 @@
+{
+	"id": "mars_sapphire",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 230,
+		"density": 0.4,
+		"min_y": 0,
+		"max_y": 70,
+		"size": 40
+	},
+	"ores": [
+		{
+			"ore": "green_sapphire",
+			"weight": 5,
+			"block_weight": 1
+		},
+				{
+			"ore": "bauxite",
+			"weight": 20
+		},
+				{
+			"ore": "magnetite",
+			"weight": 20
+		},
+				{
+			"ore": "gold",
+			"weight": 55
+		}
+	],
+	"rocks": [
+		"granite",
+		"diorite",
+		"gabbro",
+		"shale",
+		"claystone",
+		"chert",
+		"chalk"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Sapphire"
+		}
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"id": "mars_neodynium",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 215,
+		"density": 0.4,
+		"min_y": 0,
+		"max_y": 70,
+		"size": 45
+	},
+	"ores": [
+		{
+			"ore": "bastnasite",
+			"weight": 50,
+			"block_weight": 1
+		},
+				{
+			"ore": "monazite",
+			"weight": 25
+		},
+				{
+			"ore": "neodymium",
+			"weight": 5
+		},
+				{
+			"ore": "hematite",
+			"weight": 5
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"venus_stone",
+		"diorite",
+		"gabbro",
+		"dolomite",
+		"chert",
+		"chalk",
+		"basalt"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Neodymium"
+		}
+	]
+}

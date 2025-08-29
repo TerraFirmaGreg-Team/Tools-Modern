@@ -1,0 +1,53 @@
+{
+	"id": "mars_tantalite",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 230,
+		"density": 0.3,
+		"min_y": 0,
+		"max_y": 70,
+		"size": 42
+	},
+	"ores": [
+		{
+			"ore": "grossular",
+			"weight": 30,
+			"block_weight": 1
+		},
+				{
+			"ore": "spessartine",
+			"weight": 20
+		},
+				{
+			"ore": "pyrolusite",
+			"weight": 20
+		},
+				{
+			"ore": "tantalite",
+			"weight": 10
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"venus_stone",
+		"red_granite",
+		"gabbro",
+		"shale",
+		"claystone",
+		"limestone",
+		"chert",
+		"chalk",
+		"basalt"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Grossular, Spessartine and Tantalite"
+		}
+	]
+}

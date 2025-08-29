@@ -1,0 +1,53 @@
+{
+	"id": "mars_galena",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 215,
+		"density": 0.4,
+		"min_y": 0,
+		"max_y": 70,
+		"size": 50
+	},
+	"ores": [
+		{
+			"ore": "galena",
+			"weight": 30,
+			"block_weight": 1
+		},
+				{
+			"ore": "silver",
+			"weight": 15
+		},
+				{
+			"ore": "lead",
+			"weight": 25
+		},
+				{
+			"ore": "hematite",
+			"weight": 5
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"red_granite",
+		"granite",
+		"gabbro",
+		"shale",
+		"claystone",
+		"chert",
+		"chalk",
+		"basalt",
+		"dacite"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Galena"
+		}
+	]
+}
