@@ -5,8 +5,8 @@
 	"config": {
 		"rarity": 165,
 		"density": 0.3,
-		"size": 50,
-		"max_y": 128
+		"max_y": 128,
+		"size": 50
 	},
 	"ores": [
 		{

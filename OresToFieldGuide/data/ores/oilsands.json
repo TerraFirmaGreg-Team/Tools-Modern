@@ -6,12 +6,12 @@
     {
       "lang": "en_us",
       "text": "Oilsands",
-      "info": "$(thing)Source of$(): Freedom 🛢🦅🗽"
+      "info": "$(thing)Source of$(): Freedom \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
     },
     {
       "lang": "pt_br",
       "text": "Areias Petrolíferas",
-      "info": "$(thing)Fonte de$(): Liberdade 🛢🦅🗽"
+      "info": "$(thing)Fonte de$(): Liberdade \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
     },
     {
       "lang": "ru_ru",
@@ -21,12 +21,12 @@
     {
       "lang": "uk_ua",
       "text": "Нафтові піски",
-      "info": "$(thing)Джерело$(): Свободи🛢🦅🗽"
+      "info": "$(thing)Джерело$(): Свободи \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
     },
     {
       "lang": "zh_cn",
       "text": "油砂",
-      "info": "$(thing)来源$(): 自由 🛢🦅🗽"
+      "info": "$(thing)来源$(): 自由 \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
     }
   ]
 }
