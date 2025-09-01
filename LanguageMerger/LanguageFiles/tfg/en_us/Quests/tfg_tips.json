@@ -39,7 +39,7 @@
   	
 	"quests.tfg_tips.special_sacks.title": "Specialized Sacks",
   	"quests.tfg_tips.special_sacks.subtitle": "Wait, it can hold how much?",
-  	"quests.tfg_tips.special_sacks.desc": "The &2Seed Pouch&r and &9Ore Sack&r are two sacks that can only hold specific types of items, but make up for it with much larger &dstack sizes&r.\n\nThe &2Seed Pouch&r can hold up to &c128&r of &327&r different types seeds.\n\nThe &9Ore Sack&r can hold up to &c512&r of &39&r different mined resources. That means it can hold items like ores, rocks, powders, and clays!",
+  	"quests.tfg_tips.special_sacks.desc": "The &2Seed Pouch&r and &9Ore Sack&r are two sacks that can only hold specific types of items, but make up for it with much larger &dstack sizes&r.\n\nThe &2Seed Pouch&r can hold up to &c128&r of &327&r different types of seeds.\n\nThe &9Ore Sack&r can hold up to &c512&r of &39&r different mined resources. That means it can hold items like ores, rocks, powders, and clays!",
   	
 	"quests.tfg_tips.frame_pack.title": "Frame Pack",
 	"quests.tfg_tips.frame_pack.subtitle": "Options can be good!",
