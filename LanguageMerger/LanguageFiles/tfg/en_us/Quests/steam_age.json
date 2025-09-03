@@ -220,7 +220,7 @@
 
 	"quests.steam_age.vacuum_chamber.title": "Vacuum Chamber",
 	"quests.steam_age.vacuum_chamber.subtitle": "Putting the Vacuum in Vacuum Tubes",
-	"quests.steam_age.vacuum_chamber.desc": "This machine is the final step in making your first Vacuum Tubes. Place it above a Basin and give it some power, and make sure the machine is set to Vacuumizing mode.\n\nAs a bonus, this machine can also weld ingots and plates for you, and liquefy glue and rubber, while being heated by either a Charcoal Forge or a Blaze Burner.",
+	"quests.steam_age.vacuum_chamber.desc": "This machine is the final step in making your first Vacuum Tubes. Place it above a Basin and give it some power, and make sure the machine is set to Vacuumizing mode.\n\nThis machine can also help liquefy glue and rubber while being heated by either a Charcoal Forge or a Blaze Burner.",
 
 	"quests.steam_age.vacuum_tubes.title": "Electronics #3: Vacuum Tubes",
 	"quests.steam_age.vacuum_tubes.subtitle": "The harder component for circuits",
