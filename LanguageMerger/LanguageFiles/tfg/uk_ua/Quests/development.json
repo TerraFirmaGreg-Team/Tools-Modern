@@ -1,5 +1,4 @@
 {
-    "__comment1": "Ласкаво просимо до MV",
     "quests.development": "Таблиця прогресу",
     "quests.development.subtitle": "Простий спосіб зрозуміти свій прогрес у GregTech",
     "quests.development.explanation.title": "Давай щось пояснимо",
@@ -10,7 +9,7 @@
     "quests.development.explanation.task": "Гаразд, я прочитав цілих три сторінки",
     "quests.development.ulv.title": "&8ULV&r Схеми",
     "quests.development.ulv.subtitle": "",
-    "quests.development.ulv.desc": "На цій лінії ти можеш побачити парові, або &8&8ULV&r, еквіваленти.",
+    "quests.development.ulv.desc": "На цьому рядку ви можете побачити еквіваленти Пару або &8ULV&r.",
     "quests.development.lv.title": "&7LV&r Схеми",
     "quests.development.lv.subtitle": "",
     "quests.development.lv.desc": "Схеми вздовж цієї лінії — це &7LV&r, і вони взаємозамінні в рецептах.\n\n&cЕлектронні схеми&r є &oнайгіршим&r варіантом з точки зору витрат і зусиль, необхідних для виробництва, але десь потрібно починати.\n\n&eБазові інтегровані процесори&r виступають проміжною ланкою між &cЕлектронними схемами&r і &2Мікросхемними процесорами.&r\n\nНарешті, &2Мікросхемні процесори&r стануть найкращим варіантом для решти проходження.",
@@ -53,7 +52,7 @@
     "quests.development.hull_ev.desc": "Це лінія &9Нано&r схем.\n\nМожливо, тобі доведеться відправитися у &bкосмос&r для їх створення.\n\nПочинаючи з цього моменту, прогресія схем буде слідувати такому шаблону:\n\n&9-&r Процесор \n&9-&r Асамблер \n&9-&r Суперкомп'ютер \n&9-&r Основний модуль",
     "quests.development.hull_iv.title": "Створення на &1IV&r",
     "quests.development.hull_iv.subtitle": "GregTech отримує Quantum",
-    "quests.development.hull_iv.desc": "Ласкаво просимо до лінії &9Квантових&r схем.\n\nНа цьому етапі тобі варто інвестувати в &aPBI&r, оскільки &dРозширені SMD&r значно прискорять виробництво схем.",
+    "quests.development.hull_iv.desc": "Ласкаво просимо до лінії &9Квантових&r схем.\n\nНа цьому етапі тобі варто інвестувати в &aPBI&r, оскільки &dВдосконалені SMD&r значно прискорять виробництво схем.",
     "quests.development.hull_luv.title": "Створення на &dLuV&r",
     "quests.development.hull_luv.subtitle": "Кристалізація",
     "quests.development.hull_luv.desc": "Це лінія &9Кристалічних&r схем.\n\nВона заблокована за &3Фузією&r.",

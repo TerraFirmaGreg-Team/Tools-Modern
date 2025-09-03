@@ -12,6 +12,9 @@
     "block.gtceu.heat_exchanger": "Теплообмінник",
     "block.gtceu.fission_reactor": "Реактор ядерного поділу",
     "block.gtceu.evaporation_tower": "Випарна камера",
+    "block.gtceu.ostrum_harvester": "Збирач Острому",
+    "block.gtceu.moon_dust_harvester": "Збирач Місячного Пилу",
+    "block.gtceu.ostrum_linear_accelerator": "Лінійний Прискорювач з Оструму",
     "block.gtceu.copper_crate": "Мідний Ящик",
     "block.gtceu.copper_drum": "Мідна Бочка",
     "block.gtceu.black_bronze_crate": "Ящик з Чорної Бронзи",
@@ -34,5 +37,8 @@
     "gtceu.nuclear_fuel_factory": "Фабрика ядерного палива",
     "gtceu.heat_exchanger": "Теплообмінник",
     "gtceu.fission_reactor": "Реактор ядерного поділу",
-    "gtceu.evaporation_tower": "Випарна камера"
+    "gtceu.evaporation_tower": "Випарна камера",
+    "gtceu.ostrum_harvester": "Збирач Острому",
+    "gtceu.moon_dust_harvester": "Збирач Місячного Пилу",
+    "gtceu.ostrum_linear_accelerator": "Лінійний Прискорювач з Оструму"
 }

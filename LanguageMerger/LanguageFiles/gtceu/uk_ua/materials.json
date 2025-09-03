@@ -51,5 +51,10 @@
 	"material.gtceu.tbu-232_pellet": "Гранула TBU 232",
 	"material.gtceu.plutonium_pellet": "Плутонієва гранула",
 	"material.gtceu.uranium_pellet": "Уранова гранула",
-	"material.gtceu.thorium_pellet": "Торієва гранула"
+	"material.gtceu.thorium_pellet": "Торієва гранула",
+	"material.gtceu.residual_radioactive_concoction": "Залишкова Радіоактивна Суміш",
+	"material.gtceu.regolith_vapor": "Випаровування Реголіту",
+	"material.gtceu.dense_ostrum_vapor": "Густе Випаровування Острому",
+	"material.gtceu.lightweight_ostrum_vapor": "Легке Випаровування Острому",
+	"material.gtceu.ostrum_vapor": "Випаровування Оструму"
 }
