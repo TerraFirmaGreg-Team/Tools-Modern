@@ -40,5 +40,7 @@
     "gtceu.ostrum_harvester": "紫金采集器",
     "gtceu.moon_dust_harvester": "月尘采集器",
     "block.gtceu.ostrum_linear_accelerator": "紫金线性加速器",
-    "gtceu.ostrum_linear_accelerator": "紫金线性加速器"
+    "gtceu.ostrum_linear_accelerator": "紫金线性加速器",
+    "block.tfg.bioreactor": "生物反应器",
+    "gtceu.bioreactor": "生物反应器"
 }
