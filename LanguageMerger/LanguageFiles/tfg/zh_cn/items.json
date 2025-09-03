@@ -249,5 +249,7 @@
     "item.tfg.flax_tow": "亚麻细纤维",
     "item.tfg.flax_waste": "刮削过的亚麻",
     "item.tfg.linen_thread": "亚麻线",
-    "item.tfg.linen_cloth": "亚麻布"
+    "item.tfg.linen_cloth": "亚麻布",
+    "item.tfg.uv_led": "§d紫外§f发光二极管",
+    "item.tfg.smd_uv_led": "§f贴片§d紫外§f发光二极管"
 }

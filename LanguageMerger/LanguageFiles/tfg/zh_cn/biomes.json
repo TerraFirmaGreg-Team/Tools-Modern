@@ -19,5 +19,19 @@
     "biome.tfg.moon/lunar_lights_dense": "光绽花观星地",
     "biome.tfg.moon/lunar_lights_sparse": "光绽花灌丛",
     "biome.tfg.moon/lunar_plains": "月面平原",
-    "biome.tfg.moon/lunar_sands": "月面沙地"
+    "biome.tfg.moon/lunar_sands": "月面沙地",
+    "biome.tfg.mars/martian_deep_desert": "火星深层沙丘",
+    "biome.tfg.mars/martian_dunes": "火星荒漠",
+    "biome.tfg.mars/martian_dune_edge": "火星荒漠边缘",
+    "biome.tfg.mars/martian_river": "火星岸滩",
+    "biome.tfg.mars/martian_mountains": "死寂火星火山",
+    "biome.tfg.mars/amber_edge": "琥珀边缘",
+    "biome.tfg.mars/amber_plains": "琥珀平原",
+    "biome.tfg.mars/amber_hills": "琥珀丘陵",
+    "biome.tfg.mars/rusticus_edge": "红锈边缘",
+    "biome.tfg.mars/rusticus_plains": "红锈草甸",
+    "biome.tfg.mars/rusticus_hills": "红锈荒野",
+    "biome.tfg.mars/sangnum_edge": "赤血边缘",
+    "biome.tfg.mars/sangnum_plains": "赤血草原",
+    "biome.tfg.mars/sangnum_hills": "赤血沼地"
 }
