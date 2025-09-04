@@ -15,19 +15,19 @@
 			"weight": 30,
 			"block_weight": 1
 		},
-				{
+		{
 			"ore": "talc",
 			"weight": 20
 		},
-				{
+		{
 			"ore": "glauconite_sand",
 			"weight": 25
 		},
-				{
+		{
 			"ore": "pentlandite",
 			"weight": 15
 		},
-				{
+		{
 			"ore": "hematite",
 			"weight": 5
 		}
@@ -51,7 +51,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Lubricant"
+			"text": "Soapstone, Talc, & Glauconite"
 		}
 	]
 }
