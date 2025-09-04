@@ -38,10 +38,6 @@
 		"chalk",
 		"basalt"
 	],
-	"indicator": {
-		"rarity": 12,
-		"depth": 50
-	},
 	"translations": [
 		{
 			"lang": "en_us",
