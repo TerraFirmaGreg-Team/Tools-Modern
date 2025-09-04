@@ -15,11 +15,11 @@
 			"weight": 50,
 			"block_weight": 1
 		},
-				{
+		{
 			"ore": "yellow_limonite",
 			"weight": 30
 		},
-				{
+		{
 			"ore": "gold",
 			"weight": 5
 		}
@@ -41,7 +41,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Iron and Gold"
+			"text": "Hematite & Limonite"
 		}
 	]
 }
