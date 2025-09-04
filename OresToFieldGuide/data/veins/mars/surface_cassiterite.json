@@ -15,7 +15,7 @@
 			"weight": 60,
 			"block_weight": 1
 		},
-				{
+		{
 			"ore": "tin",
 			"weight": 40
 		}
@@ -44,7 +44,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Surface Tin"
+			"text": "Cassiterite & Tin"
 		}
 	]
 }
