@@ -15,15 +15,15 @@
 			"weight": 50,
 			"block_weight": 1
 		},
-				{
+		{
 			"ore": "copper",
 			"weight": 30
 		},
-				{
+		{
 			"ore": "stibnite",
 			"weight": 20
 		},
-				{
+		{
 			"ore": "hematite",
 			"weight": 5
 		}
@@ -48,7 +48,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Copper and Stibnite"
+			"text": "Tetrahedrite"
 		}
 	]
 }
