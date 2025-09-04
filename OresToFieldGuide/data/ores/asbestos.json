@@ -1,29 +1,34 @@
 {
-	"id": "asbestos",
-	"formula": "Mg₃Si₂H₄O₉",
-	"hazard": "asbestosis",
-	"ore_block": "gtceu:raw_asbestos_block",
-	"indicator": "gtceu:asbestos_indicator",
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Asbestos",
-			"info": "$(thing)Source of$(): Magnesium, Lung cancer"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Amianto",
-			"info": "$(thing)Fonte de$(): Magnésio, Câncer de pulmão"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Асбест",
-			"info": "$(thing)Хромит$(): Магний"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Азбест",
-			"info": "$(thing)Джерело$(): Магнію, Рак легенів"
-		}
-	]
+  "id": "asbestos",
+  "formula": "Mg₃Si₂H₄O₉",
+  "hazard": "asbestosis",
+  "ore_block": "gtceu:raw_asbestos_block",
+  "indicator": "gtceu:asbestos_indicator",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Asbestos",
+      "info": "$(thing)Source of$(): Magnesium, Lung cancer"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Amianto",
+      "info": "$(thing)Fonte de$(): Magnésio, Câncer de pulmão"
+    },
+    {
+      "lang": "ru_ru",
+      "text": "Асбест",
+      "info": "$(thing)Хромит$(): Магний"
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Азбест",
+      "info": "$(thing)Джерело$(): Магнію, Рак легенів"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "石棉",
+      "info": "$(thing)来源$(): 镁, 肺癌"
+    }
+  ]
 }

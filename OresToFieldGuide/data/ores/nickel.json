@@ -2,7 +2,7 @@
   "id": "nickel",
   "formula": "Ni",
   "ore_block": "gtceu:raw_nickel_block",
-	"indicator": "tfc:ore/small_garnierite",
+  "indicator": "tfc:ore/small_garnierite",
   "translations": [
     {
       "lang": "en_us",
@@ -23,6 +23,11 @@
       "lang": "uk_ua",
       "text": "Нікель",
       "info": "$(thing)Розплавляється в$(): Нікелю"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "镍矿",
+      "info": "$(thing)熔化$(): 镍"
     }
   ]
 }

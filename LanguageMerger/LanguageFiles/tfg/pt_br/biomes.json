@@ -20,5 +20,20 @@
     "biome.tfg.moon/lunar_lights_dense": "Mirantes Estelares de Lightbloom",
     "biome.tfg.moon/lunar_lights_sparse": "Arbustos de Lightbloom",
     "biome.tfg.moon/lunar_plains": "Planícies Lunares",
-    "biome.tfg.moon/lunar_sands": "Areias Lunares"
+    "biome.tfg.moon/lunar_sands": "Areias Lunares",
+
+    "biome.tfg.mars/martian_deep_desert": "Dunas Marcianas Profundas",
+    "biome.tfg.mars/martian_dunes": "Deserto Marciano",
+    "biome.tfg.mars/martian_dune_edge": "Borda do Deserto Marciano",
+    "biome.tfg.mars/martian_river": "Costas Marcianas",
+    "biome.tfg.mars/martian_mountains": "Vulcão Marciano Extinto",
+    "biome.tfg.mars/amber_edge": "Borda Âmbar",
+    "biome.tfg.mars/amber_plains": "Planícies Âmbar",
+    "biome.tfg.mars/amber_hills": "Colinas Âmbar",
+    "biome.tfg.mars/rusticus_edge": "Borda Rústica",
+    "biome.tfg.mars/rusticus_plains": "Pradaria Rústica",
+    "biome.tfg.mars/rusticus_hills": "Charneca Rústica",
+    "biome.tfg.mars/sangnum_edge": "Borda Sangnum",
+    "biome.tfg.mars/sangnum_plains": "Pradaria Sangnum",
+    "biome.tfg.mars/sangnum_hills": "Urzal Sangnum"
 }

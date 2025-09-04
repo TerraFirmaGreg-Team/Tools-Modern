@@ -1,29 +1,34 @@
 {
-    "id": "pitchblende",
-    "formula": "(UO₂)₃ThPb",
-    "hazard": "carcinogenic",
-    "ore_block": "gtceu:raw_pitchblende_block",
-    "indicator": "gtceu:pitchblende_indicator",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Pitchblende",
-            "info": "$(thing)Source of$(): Uranium, Thorium, Lead"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Pechblenda",
-            "info": "$(thing)Fonte de$(): Urânio, Tório, Chumbo"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Уранит",
-            "info": "$(thing)Хромит$(): Уран, Торий, Свинец"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Уранит",
-            "info": "$(thing)Джерело$(): Урану, Торію, Свинцю"
-        }
-    ]
+  "id": "pitchblende",
+  "formula": "(UO₂)₃ThPb",
+  "hazard": "carcinogenic",
+  "ore_block": "gtceu:raw_pitchblende_block",
+  "indicator": "gtceu:pitchblende_indicator",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Pitchblende",
+      "info": "$(thing)Source of$(): Uranium, Thorium, Lead"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Pechblenda",
+      "info": "$(thing)Fonte de$(): Urânio, Tório, Chumbo"
+    },
+    {
+      "lang": "ru_ru",
+      "text": "Уранит",
+      "info": "$(thing)Хромит$(): Уран, Торий, Свинец"
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Уранит",
+      "info": "$(thing)Джерело$(): Урану, Торію, Свинцю"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "沥青铀矿",
+      "info": "$(thing)来源$(): 铀, 钍, 铅"
+    }
+  ]
 }

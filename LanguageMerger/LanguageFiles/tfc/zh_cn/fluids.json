@@ -1,0 +1,6 @@
+{
+    "fluid.tfc.salt_water": "海水",
+    "block.fluid.tfc.salt_water": "海水",
+    "fluid.tfc.river_water": "河水",
+    "block.fluid.tfc.river_water": "河水"
+}

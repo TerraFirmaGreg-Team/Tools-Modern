@@ -23,6 +23,11 @@
       "lang": "uk_ua",
       "text": "Кварц Нижнього Світу",
       "info": "$(thing)Використовується для$(): Applied Energistics 2"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "下界石英",
+      "info": "$(thing)用于$(): Applied Energistics 2"
     }
   ]
 }

@@ -1,28 +1,33 @@
 {
-    "id": "silver",
-    "formula": "Ag",
-    "ore_block": "gtceu:raw_silver_block",
-    "indicator": "tfc:ore/small_native_silver",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Native Silver",
-            "info": "$(thing)Melts into$(): Silver"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Prata Nativa",
-            "info": "$(thing)Derrete em$(): Prata"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Самородная Серебро",
-            "info": "$(thing)Плавится в$(): Серебро"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Самородна Срібла",
-            "info": "$(thing)Розплавляється в$(): Срібло"
-        }
-    ]
+  "id": "silver",
+  "formula": "Ag",
+  "ore_block": "gtceu:raw_silver_block",
+  "indicator": "tfc:ore/small_native_silver",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Native Silver",
+      "info": "$(thing)Melts into$(): Silver"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Prata Nativa",
+      "info": "$(thing)Derrete em$(): Prata"
+    },
+    {
+      "lang": "ru_ru",
+      "text": "Самородная Серебро",
+      "info": "$(thing)Плавится в$(): Серебро"
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Самородна Срібла",
+      "info": "$(thing)Розплавляється в$(): Срібло"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "原生银",
+      "info": "$(thing)熔化$(): 银"
+    }
+  ]
 }

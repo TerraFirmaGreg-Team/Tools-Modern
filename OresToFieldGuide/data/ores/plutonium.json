@@ -1,29 +1,34 @@
 {
-	"id": "plutonium",
-	"formula": "Pu²³⁹",
-	"hazard": "carcinogenic",
-	"ore_block": "gtceu:raw_plutonium_block",
-	"indicator": "gtceu:plutonium_indicator",
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Plutonium",
-			"info": "$(thing)Source of$(): Plutonium"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Plutônio",
-			"info": "$(thing)Fonte de$(): Plutônio"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Плутоний",
-			"info": "$(thing)Хромит$(): Плутоний"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Плутоній",
-			"info": "$(thing)Джерело$(): Плутонію"
-		}
-	]
+  "id": "plutonium",
+  "formula": "Pu²³⁹",
+  "hazard": "carcinogenic",
+  "ore_block": "gtceu:raw_plutonium_block",
+  "indicator": "gtceu:plutonium_indicator",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Plutonium",
+      "info": "$(thing)Source of$(): Plutonium"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Plutônio",
+      "info": "$(thing)Fonte de$(): Plutônio"
+    },
+    {
+      "lang": "ru_ru",
+      "text": "Плутоний",
+      "info": "$(thing)Хромит$(): Плутоний"
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Плутоній",
+      "info": "$(thing)Джерело$(): Плутонію"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "钚矿",
+      "info": "$(thing)来源$(): 钚矿"
+    }
+  ]
 }

@@ -1,28 +1,33 @@
 {
-    "id": "tetrahedrite",
-    "formula": "Cu₃SbS₃Fe",
-    "ore_block": "gtceu:raw_tetrahedrite_block",
-    "indicator": "tfc:ore/small_tetrahedrite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Tetrahedrite",
-            "info": "$(thing)Melts into$(): Copper"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Tetraedrita",
-            "info": "$(thing)Derrete em$(): Cobre"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Тетраэдрит",
-            "info": "$(thing)Плавится в$(): Медь"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Тетраедрит",
-            "info": "$(thing)Розплавляється в$(): Мідь"
-        }
-    ]
+  "id": "tetrahedrite",
+  "formula": "Cu₃SbS₃Fe",
+  "ore_block": "gtceu:raw_tetrahedrite_block",
+  "indicator": "tfc:ore/small_tetrahedrite",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Tetrahedrite",
+      "info": "$(thing)Melts into$(): Copper"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Tetraedrita",
+      "info": "$(thing)Derrete em$(): Cobre"
+    },
+    {
+      "lang": "ru_ru",
+      "text": "Тетраэдрит",
+      "info": "$(thing)Плавится в$(): Медь"
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Тетраедрит",
+      "info": "$(thing)Розплавляється в$(): Мідь"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "黝铜矿",
+      "info": "$(thing)熔化$(): 铜"
+    }
+  ]
 }

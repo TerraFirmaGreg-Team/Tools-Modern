@@ -36,7 +36,7 @@
     "material.tfg.compressed_heliox_3": "Стиснений Геліокс-3",
     "material.tfg.compressed_trimix": "Стиснений Траймікс 50/30/20",
     "material.tfg.compressed_trimix_3": "Стиснений Траймікс-3 50/30/20",
-    "material.tfg.chlorodifluoromethane": "Chlorodifluoromethane",
+    "material.tfg.chlorodifluoromethane": "Хлородифторметан",
     "material.tfg.acetylene": "Ацетилен",
     "material.tfg.1_1_1_2_tetrafluoroethane": "1,1,1,2-Тетрафторетан",
     "material.tfg.isobutane": "Ізобутан",
@@ -60,5 +60,10 @@
     "material.tfg.soaked_silica_gel": "Силікагель, просочений ацетоном",
     "material.tfg.nuclear_residue": "Ядерний залишок",
     "material.tfg.oxidized_nuclear_residue": "Окислений ядерний залишок",
-    "material.tfg.refined_nuclear_residue": "Перероблене ядерне паливо"
+    "material.tfg.refined_nuclear_residue": "Перероблене ядерне паливо",
+    "material.tfg.certus_regolith": "Реголіт Цертусу",
+    "material.tfg.goethe_regolith": "Реголіт Ґете",
+    "material.tfg.bright_regolith": "Яскравий Реголіт",
+    "material.tfg.cassiterite_regolith": "Реголіт Каситериту",
+    "material.tfg.regolith_mush": "Кашка з Реголіту"
 }

@@ -20,8 +20,8 @@
 	"item.gtceu.iron_gear": "Чавунна шестерня",
 	"item.gtceu.iron_plate": "Чавунна пластина",
 	"item.gtceu.double_iron_plate": "Подвійна чавунна пластина",
-	"item.gtceu.iron_rod": "Чавунний стрижень",
-	"item.gtceu.long_iron_rod": "Довгий чавунний стрижень",
+	"item.gtceu.iron_rod": "Чавунний Стержень",
+	"item.gtceu.long_iron_rod": "Довгий Чавунний Стержень",
 	"item.gtceu.iron_rotor": "Чавунний ротор",
 	"item.gtceu.iron_spring": "Чавунна пружина",
 	"item.gtceu.small_iron_spring": "Мала чавунна пружина",
@@ -48,9 +48,5 @@
 	"item.gtceu.osmium_credit": "§732,768 Кредитів",
 	"item.gtceu.naquadah_credit": "§7262,144 Кредитів",
 	"item.gtceu.neutronium_credit": "§72,097,152 Кредити",
-	"item.gtceu.treated_wood_plate": "Оброблена ДВП середньої щільності",
-	"item.gtceu.wood_plate": "ДВП середньої щільності",
-	"item.gtceu.treated_wood_dust": "Оброблений композит на основі ДСП",
-	"item.gtceu.small_treated_wood_dust": "Невелика купа обробленого деревостружкового композиту",
-	"item.gtceu.tiny_treated_wood_dust": "Маленька купа обробленого деревостружкового композиту"
+	"item.gtceu.wood_plate": "ДВП середньої щільності"
 }

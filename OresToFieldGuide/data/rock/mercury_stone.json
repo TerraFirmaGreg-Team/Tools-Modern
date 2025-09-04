@@ -1,11 +1,12 @@
-﻿{
+{
 	"id": "mercury_stone",
 	"pattern": "gtceu:mercury_stone_{0}_ore",
 	"translations": {
 		"en_us": "Komatiite",
 		"pt_br": "Komatiíto",
 		"ru_ru": "Коматиит",
-		"uk_ua": "Коматіїт"
+		"uk_ua": "Коматіїт",
+		"zh_cn": "科马提岩"
 	},
 	"replaceable_blocks": [
 		"ad_astra:mercury_stone"

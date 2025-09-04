@@ -19,5 +19,19 @@
     "biome.tfg.moon/lunar_lights_dense": "Світлоквітні Зореспоглядачі",
     "biome.tfg.moon/lunar_lights_sparse": "Світлоквітний Чагарник",
     "biome.tfg.moon/lunar_plains": "Місячні Рівнини",
-    "biome.tfg.moon/lunar_sands": "Місячні піски"
+    "biome.tfg.moon/lunar_sands": "Місячні піски",
+    "biome.tfg.mars/martian_deep_desert": "Глибокі Марсіанські Дюни",
+    "biome.tfg.mars/martian_dunes": "Марсіанська Пустеля",
+    "biome.tfg.mars/martian_dune_edge": "Край Марсіанської пустелі",
+    "biome.tfg.mars/martian_river": "Марсіанські береги",
+    "biome.tfg.mars/martian_mountains": "Вимерлий Марсіанський вулкан",
+    "biome.tfg.mars/amber_edge": "Бурштиновий край",
+    "biome.tfg.mars/amber_plains": "Бурштинові рівнини",
+    "biome.tfg.mars/amber_hills": "Бурштинові пагорби",
+    "biome.tfg.mars/rusticus_edge": "Край Рустікуса",
+    "biome.tfg.mars/rusticus_plains": "Луг Рустікуса",
+    "biome.tfg.mars/rusticus_hills": "Верес Рустікуса",
+    "biome.tfg.mars/sangnum_edge": "Край Санґнум",
+    "biome.tfg.mars/sangnum_plains": "Прерія Санґнум",
+    "biome.tfg.mars/sangnum_hills": "Болото Санґнум"
 }

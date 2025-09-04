@@ -21,7 +21,12 @@
     {
       "lang": "uk_ua",
       "text": "Нафтові піски",
-      "info": "$(thing)Джерело$(): Свободи\uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
+      "info": "$(thing)Джерело$(): Свободи \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "油砂",
+      "info": "$(thing)来源$(): 自由 \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
     }
   ]
 }

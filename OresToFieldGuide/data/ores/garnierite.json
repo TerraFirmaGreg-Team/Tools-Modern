@@ -1,28 +1,33 @@
 {
-    "id": "garnierite",
-    "formula": "NiO",
-    "ore_block": "gtceu:raw_garnierite_block",
-    "indicator": "tfc:ore/small_garnierite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Garnierite",
-            "info": "$(thing)Melts into$(): Nickel"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Garnierita",
-            "info": "$(thing)Derrete em$(): Níquel"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Гарниерит",
-            "info": "$(thing)Плавится в$(): Никель"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Гарнієрит",
-            "info": "$(thing)Розплавляється в$(): Нікель"
-        }
-    ]
+  "id": "garnierite",
+  "formula": "NiO",
+  "ore_block": "gtceu:raw_garnierite_block",
+  "indicator": "tfc:ore/small_garnierite",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Garnierite",
+      "info": "$(thing)Melts into$(): Nickel"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Garnierita",
+      "info": "$(thing)Derrete em$(): Níquel"
+    },
+    {
+      "lang": "ru_ru",
+      "text": "Гарниерит",
+      "info": "$(thing)Плавится в$(): Никель"
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Гарнієрит",
+      "info": "$(thing)Розплавляється в$(): Нікель"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "硅镁镍矿",
+      "info": "$(thing)熔化$(): 镍"
+    }
+  ]
 }

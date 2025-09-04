@@ -1,28 +1,33 @@
 {
-    "id": "gold",
-    "formula": "Au",
-    "ore_block": "minecraft:raw_gold_block",
-    "indicator": "tfc:ore/small_native_gold",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Native Gold",
-            "info": "$(thing)Melts into$(): Gold"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Ouro Nativo",
-            "info": "$(thing)Derrete em$(): Ouro"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Самородная Золото",
-            "info": "$(thing)Плавится в$(): Золото"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Самородна Золото",
-            "info": "$(thing)Розплавляється в$(): Золото"
-        }
-    ]
+  "id": "gold",
+  "formula": "Au",
+  "ore_block": "minecraft:raw_gold_block",
+  "indicator": "tfc:ore/small_native_gold",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Native Gold",
+      "info": "$(thing)Melts into$(): Gold"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Ouro Nativo",
+      "info": "$(thing)Derrete em$(): Ouro"
+    },
+    {
+      "lang": "ru_ru",
+      "text": "Самородная Золото",
+      "info": "$(thing)Плавится в$(): Золото"
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Самородна Золото",
+      "info": "$(thing)Розплавляється в$(): Золото"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "原生金",
+      "info": "$(thing)熔化$(): 金"
+    }
+  ]
 }

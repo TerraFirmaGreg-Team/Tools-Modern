@@ -1,28 +1,33 @@
 {
-    "id": "bismuth",
-    "formula": "Bi",
-    "ore_block": "gtceu:raw_bismuth_block",
-    "indicator": "tfc:ore/small_bismuthinite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Bismuth",
-            "info": "$(thing)Melts into$(): Bismuth"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Bismuto",
-            "info": "$(thing)Derrete em$(): Bismuto"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Висмут",
-            "info": "$(thing)Плавится в$(): Висмут"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Вісмут",
-            "info": "$(thing)Розплавляється в$(): Вісмут"
-        }
-    ]
+  "id": "bismuth",
+  "formula": "Bi",
+  "ore_block": "gtceu:raw_bismuth_block",
+  "indicator": "tfc:ore/small_bismuthinite",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Bismuth",
+      "info": "$(thing)Melts into$(): Bismuth"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Bismuto",
+      "info": "$(thing)Derrete em$(): Bismuto"
+    },
+    {
+      "lang": "ru_ru",
+      "text": "Висмут",
+      "info": "$(thing)Плавится в$(): Висмут"
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Вісмут",
+      "info": "$(thing)Розплавляється в$(): Вісмут"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "辉铋矿",
+      "info": "$(thing)熔化$(): 铋"
+    }
+  ]
 }

@@ -1,28 +1,33 @@
 {
-    "id": "yellow_limonite",
-    "formula": "FeHO₂",
-    "ore_block": "gtceu:raw_yellow_limonite_block",
-    "indicator": "tfc:ore/small_limonite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Yellow Limonite",
-            "info": "$(thing)Melts into$(): Cast Iron"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Limonita Amarela",
-            "info": "$(thing)Derrete em$(): Ferro Fundido"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Жёлтый лимонит",
-            "info": "$(thing)Плавится в$(): Железо"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Жовтий лимоніт",
-            "info": "$(thing)Розплавляється в$(): Чавун"
-        }
-    ]
+  "id": "yellow_limonite",
+  "formula": "FeHO₂",
+  "ore_block": "gtceu:raw_yellow_limonite_block",
+  "indicator": "tfc:ore/small_limonite",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Yellow Limonite",
+      "info": "$(thing)Melts into$(): Cast Iron"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Limonita Amarela",
+      "info": "$(thing)Derrete em$(): Ferro Fundido"
+    },
+    {
+      "lang": "ru_ru",
+      "text": "Жёлтый лимонит",
+      "info": "$(thing)Плавится в$(): Железо"
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Жовтий лимоніт",
+      "info": "$(thing)Розплавляється в$(): Чавун"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "黄褐铁矿",
+      "info": "$(thing)熔化$(): 铸铁"
+    }
+  ]
 }

@@ -1,23 +1,28 @@
 {
-    "id": "calorite",
-    "formula": "TODO",
-    "ore_block": "ad_astra:raw_calorite_block",
-    "indicator": "gtceu:calorite_indicator",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Calorite",
-            "info": "$(thing)Source of$(): "
-        },
-        {
-            "lang": "pt_br",
-            "text": "Calorita",
-            "info": "$(thing)Fonte de$(): "
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Калоріта",
-            "info": "$(thing)Джерело$():"
-        }
-    ]
+  "id": "calorite",
+  "formula": "TODO",
+  "ore_block": "ad_astra:raw_calorite_block",
+  "indicator": "gtceu:calorite_indicator",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Calorite",
+      "info": "$(thing)Source of$(): "
+    },
+    {
+      "lang": "pt_br",
+      "text": "Calorita",
+      "info": "$(thing)Fonte de$(): "
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Калоріта",
+      "info": "$(thing)Джерело$():"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "耐热金属",
+      "info": "$(thing)来源$(): "
+    }
+  ]
 }

@@ -1,11 +1,12 @@
-﻿{
+{
 	"id": "diorite",
 	"pattern": "gtceu:diorite_{0}_ore",
 	"translations": {
 		"en_us": "Diorite",
 		"pt_br": "Diorito",
 		"ru_ru": "Диорит",
-		"uk_ua": "Діорит"
+		"uk_ua": "Діорит",
+		"zh_cn": "闪长岩"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/diorite"

@@ -1,28 +1,33 @@
 {
-    "id": "copper",
-    "formula": "Cu",
-    "ore_block": "minecraft:raw_copper_block",
-    "indicator": "tfc:ore/small_native_copper",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Native Copper",
-            "info": "$(thing)Melts into$(): Copper"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Cobre Nativo",
-            "info": "$(thing)Derrete em$(): Cobre"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Самородная Медь",
-            "info": "$(thing)Плавится в$(): Медь"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Самородна Мідь",
-            "info": "$(thing)Розплавляється в$(): Мідь"
-        }
-    ]
+  "id": "copper",
+  "formula": "Cu",
+  "ore_block": "minecraft:raw_copper_block",
+  "indicator": "tfc:ore/small_native_copper",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Native Copper",
+      "info": "$(thing)Melts into$(): Copper"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Cobre Nativo",
+      "info": "$(thing)Derrete em$(): Cobre"
+    },
+    {
+      "lang": "ru_ru",
+      "text": "Самородная Медь",
+      "info": "$(thing)Плавится в$(): Медь"
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Самородна Мідь",
+      "info": "$(thing)Розплавляється в$(): Мідь"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "原生铜",
+      "info": "$(thing)熔化$(): 铜"
+    }
+  ]
 }

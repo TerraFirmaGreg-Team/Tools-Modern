@@ -3,6 +3,8 @@
 	"metaitem.crushed.tooltip.purify": "Киньте у воду, щоб отримати очищену руду",
 	"item.gtceu.tool.behavior.silk_ice": "Шовк збирає упакований лід",
 	"item.gtceu.tool.butchery_knife.tooltip": "Забиває тварин для отримання більшої кількості м’яса",
+	"gtceu.machine.lp_steam_extractor.tooltip": "Не видобуває рідини",
+	"gtceu.machine.hp_steam_extractor.tooltip": "Не видобуває рідини",
 	"gtceu.jei.bedrock_ore.moon_asbestos": "Місячний Азбест",
 	"gtceu.jei.bedrock_ore.moon_mica": "Місячна Слюда",
 	"gtceu.jei.bedrock_ore.moon_tin": "Місячне Олово",

@@ -23,6 +23,11 @@
       "lang": "uk_ua",
       "text": "Поклади Істинного Кварцу",
       "info": "$(thing)Використовується для$(): Applied Energistics 2"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "赛特斯石英矿",
+      "info": "$(thing)用于$(): Applied Energistics 2"
     }
   ]
 }

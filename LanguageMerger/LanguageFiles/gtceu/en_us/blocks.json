@@ -15,7 +15,8 @@
     "block.gtceu.evaporation_tower": "Evaporation Tower",
     "block.gtceu.ostrum_harvester": "Ostrum Harvester",
     "block.gtceu.moon_dust_harvester": "Moon Dust Harvester",
-    "block.gtceu.extraterrestrial_ore_fabricator": "Extraterrestrial Ore Fabricator",
+    "block.gtceu.ostrum_linear_accelerator": "Ostrum Linear Accelerator",
+    "block.tfg.bioreactor": "Bioreactor",
 
     "block.gtceu.copper_crate": "Copper Crate",
     "block.gtceu.copper_drum": "Copper Drum",
@@ -45,5 +46,6 @@
     "gtceu.evaporation_tower": "Evaporation Tower",
     "gtceu.ostrum_harvester": "Ostrum Harvester",
     "gtceu.moon_dust_harvester": "Moon Dust Harvester",
-    "gtceu.extraterrestrial_ore_fabricator": "Extraterrestrial Ore Fabricator"
+    "gtceu.ostrum_linear_accelerator": "Ostrum Linear Accelerator",
+    "gtceu.bioreactor": "Bioreactor"
 }

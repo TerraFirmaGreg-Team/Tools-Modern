@@ -1,23 +1,28 @@
 {
-	"id": "fayalite",
-	"formula": "Fe₂SiO₄",
-	"ore_block": "gtceu:raw_fayalite_block",
-	"indicator": "gtceu:fayalite_bud_indicator",
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Fayalite",
-			"info": "$(thing)Smelts into$(): Iron"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Faialite",
-			"info": "$(thing)Derrete em$(): Ferro"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Фаяліт",
-			"info": "$(thing)Переплавляється у$(): Залізо"
-		}
-	]
+  "id": "fayalite",
+  "formula": "Fe₂SiO₄",
+  "ore_block": "gtceu:raw_fayalite_block",
+  "indicator": "gtceu:fayalite_bud_indicator",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Fayalite",
+      "info": "$(thing)Smelts into$(): Iron"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Faialite",
+      "info": "$(thing)Derrete em$(): Ferro"
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Фаяліт",
+      "info": "$(thing)Переплавляється у$(): Залізо"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "铁橄榄石",
+      "info": "$(thing)熔化$(): 铁"
+    }
+  ]
 }

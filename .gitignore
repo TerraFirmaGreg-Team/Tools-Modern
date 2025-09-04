@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 # LanguageMerger output
 LanguageMerger/Executables/**/OUTPUT
+
+# MacOS
+.DS_Store

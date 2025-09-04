@@ -1,11 +1,12 @@
-﻿{
+{
 	"id": "conglomerate",
 	"pattern": "gtceu:conglomerate_{0}_ore",
 	"translations": {
 		"en_us": "Conglomerate",
 		"pt_br": "Conglomerado",
 		"ru_ru": "Конгломерат",
-		"uk_ua": "Конгломерат"
+		"uk_ua": "Конгломерат",
+		"zh_cn": "砾岩"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/conglomerate"

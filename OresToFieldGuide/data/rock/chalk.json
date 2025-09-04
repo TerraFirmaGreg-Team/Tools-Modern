@@ -1,12 +1,12 @@
-﻿{
+{
 	"id": "chalk",
 	"pattern": "gtceu:chalk_{0}_ore",
-	"translations": 
-	{
+	"translations": {
 		"en_us": "Chalk",
 		"pt_br": "Giz",
 		"ru_ru": "Мел",
-		"uk_ua": "Крейда"
+		"uk_ua": "Крейда",
+		"zh_cn": "白垩岩"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/chalk"

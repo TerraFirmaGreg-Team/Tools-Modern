@@ -220,7 +220,7 @@
 	"block.tfg.iv_gas_pressurizer": "§9Elite Gas Pressurizer§r",
 	"block.tfg.luv_gas_pressurizer": "§dElite Gas Pressurizer II§r",
 	"block.tfg.zpm_gas_pressurizer": "§cElite Gas Pressurizer III§r",
-	"block.tfg.uv_gas_pressurizer": "§3Ultimate Gas Pressurizer III§r",
+	"block.tfg.uv_gas_pressurizer": "§3Ultimate Gas Pressurizer§r",
 
 	"block.tfg.fluid.semiheavy_ammoniacal_water": "Semiheavy Ammoniacal Water",
 	"block.tfg.grass.mars_dirt": "Martian Dirt",
@@ -242,6 +242,12 @@
 	"block.tfg.saplings.aeronos": "Aeronos Mushroom",
 	"block.tfg.saplings.strophar": "Strophar Mushroom",
 	"block.tfg.saplings.glacian": "Glacian Mushroom",
+	"block.tfg.groundcover.glider_feather": "Glider Feather",
+	"block.tfg.groundcover.wraptor_feather": "Wraptor Feather",
+	"block.tfg.groundcover.aeronos_stick": "Aeronos Twig",
+	"block.tfg.groundcover.strophar_stick": "Strophar Twig",
+	"block.tfg.groundcover.glacian_stick": "Glacian Twig",
+	"block.tfg.groundcover.alphacene_stick": "Alphacene Twig",
 
 	"block.tfg.electromagnetic_accelerator": "Electromagnetic Accelerator",
 	"block.tfg.superconductor_coil_large": "Large Superconductor Coil",
@@ -278,6 +284,9 @@
 	"block.tfg.rapeseed": "Canola",
 	"block.tfg.rapeseed_wild": "Wild Canola",
 	"block.tfg.rapeseed_dead": "Dead Canola",
+	"block.tfg.flax": "Flax",
+  	"block.tfg.flax_wild": "Wild Flax",
+  	"block.tfg.flax_dead": "Dead Flax",
 
 	"block.tfg.casings.machine_casing_iron_desh": "Desh Machine Casing",
 	"block.tfg.casings.machine_casing_stainless_evaporation": "Stainless Evaporation Machine Casing",
@@ -288,6 +297,12 @@
 	"block.tfg.casings.machine_casing_green_solar_panel": "Advanced Solar Panel Casing",
 	"block.tfg.casings.machine_casing_red_solar_panel": "Elite Solar Panel Casing",
 	"block.tfg.machine_casing_aluminium_plated_steel": "Aluminium Plated Steel Machine Casing",
+
+    "block.tfg.casings.machine_casing_ultraviolet": "§dUltraviolet §fMachine Casing",
+    "block.tfg.casings.machine_casing_bioculture": "Bioculture Machine Casing",
+    "block.tfg.casings.machine_casing_bioculture_glass": "Bioculture Glass",
+    "block.tfg.casings.bioculture_rotor_primary": "Primary Bioculture Rotor",
+    "block.tfg.casings.bioculture_rotor_secondary": "Secondary Bioculture Rotor",
 
 	"__comment1": "TODO",
 	"__comment2": "block.tfg.corallium_arenicolus_0: Corallium Arenicolus",

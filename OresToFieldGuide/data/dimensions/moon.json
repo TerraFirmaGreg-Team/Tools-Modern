@@ -8,16 +8,19 @@
 	"name_translations": {
 		"en_us": "The Moon",
 		"pt_br": "A Lua",
-		"uk_ua": "Місяць"
+		"uk_ua": "Місяць",
+		"zh_cn": "月球"
 	},
 	"ore_index_translations": {
 		"en_us": "Moon Ore Index",
 		"pt_br": "Índice de Minérios da Lua",
-		"uk_ua": "Індекс Місячних Руд"
+		"uk_ua": "Індекс Місячних Руд",
+		"zh_cn": "月球矿物索引"
 	},
 	"vein_index_translations": {
 		"en_us": "Moon Vein Index",
 		"pt_br": "Índice de Veios da Lua",
-		"uk_ua": "Індекс Місячних Жил"
+		"uk_ua": "Індекс Місячних Жил",
+		"zh_cn": "月球矿脉索引"
 	}
 }

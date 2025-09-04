@@ -1,27 +1,32 @@
 {
-    "id": "sylvite",
-    "formula": "KCl",
-    "ore_override": "beneath:ore/blackstone_sylvite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Sylvite",
-            "info": "$(thing)Used for$(): Fertiliser"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Silvita",
-            "info": "$(thing)Usado para$(): Fertilizante"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Сильвин",
-            "info": "$(thing)Используется для$(): Удобрения"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Сильвін",
-            "info": "$(thing)Використовується для$(): Добрива"
-        }
-    ]
+  "id": "sylvite",
+  "formula": "KCl",
+  "ore_override": "beneath:ore/blackstone_sylvite",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Sylvite",
+      "info": "$(thing)Used for$(): Fertiliser"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Silvita",
+      "info": "$(thing)Usado para$(): Fertilizante"
+    },
+    {
+      "lang": "ru_ru",
+      "text": "Сильвин",
+      "info": "$(thing)Используется для$(): Удобрения"
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Сильвін",
+      "info": "$(thing)Використовується для$(): Добрива"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "钾石盐",
+      "info": "$(thing)用于$(): 肥料"
+    }
+  ]
 }

@@ -8,16 +8,19 @@
 	"name_translations": {
 		"en_us": "Earth",
 		"pt_br": "Terra",
-		"uk_ua": "Земля"
+		"uk_ua": "Земля",
+		"zh_cn": "地球"
 	},
 	"ore_index_translations": {
 		"en_us": "Earth Ore Index",
 		"pt_br": "Índice de Minérios da Terra",
-		"uk_ua": "Індекс Земних Руд"
+		"uk_ua": "Індекс Земних Руд",
+		"zh_cn": "地球矿物索引"
 	},
 	"vein_index_translations": {
 		"en_us": "Earth Vein Index",
 		"pt_br": "Índice de Veios da Terra",
-		"uk_ua": "Індекс Земних Жил"
+		"uk_ua": "Індекс Земних Жил",
+		"zh_cn": "地球矿脉索引"
 	}
 }

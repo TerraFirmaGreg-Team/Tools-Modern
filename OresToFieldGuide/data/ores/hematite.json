@@ -1,28 +1,33 @@
 {
-    "id": "hematite",
-    "formula": "Fe₂O₃",
-    "ore_block": "gtceu:raw_hematite_block",
-    "indicator": "tfc:ore/small_hematite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Hematite",
-            "info": "$(thing)Melts into$(): Cast Iron"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Hematita",
-            "info": "$(thing)Derrete em$(): Ferro Fundido"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Гематит",
-            "info": "$(thing)Плавится в$(): Железо"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Гематит",
-            "info": "$(thing)Розплавляється в$(): Чавун"
-        }
-    ]
+  "id": "hematite",
+  "formula": "Fe₂O₃",
+  "ore_block": "gtceu:raw_hematite_block",
+  "indicator": "tfc:ore/small_hematite",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Hematite",
+      "info": "$(thing)Melts into$(): Cast Iron"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Hematita",
+      "info": "$(thing)Derrete em$(): Ferro Fundido"
+    },
+    {
+      "lang": "ru_ru",
+      "text": "Гематит",
+      "info": "$(thing)Плавится в$(): Железо"
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Гематит",
+      "info": "$(thing)Розплавляється в$(): Чавун"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "赤铁矿",
+      "info": "$(thing)熔化$(): 铸铁"
+    }
+  ]
 }

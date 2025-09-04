@@ -151,6 +151,7 @@
     "item.tfg.food.calorie_paste": "Calorie Paste",
     "item.tfg.food.meal_bag": "Meal Bag",
     "item.tfg.food.ice_soup": "Ice Soup",
+
     "item.tfg.food.raw_glacian_mutton": "Raw Glacian Mutton",
     "item.tfg.food.cooked_glacian_mutton": "Cooked Glacian Mutton",
     "item.tfg.spawn_egg.glacian_ram": "Glacian Spawn Egg",
@@ -208,7 +209,11 @@
     "item.tfg.wood.lumber.aeronos": "Aeronos Lumber",
     "item.tfg.wood.lumber.strophar": "Strophar Lumber",
     "item.tfg.wood.lumber.glacian": "Glacian Lumber",
-    
+    "item.tfg.twigs.aeronos": "Aeronos Twig",
+    "item.tfg.twigs.strophar": "Strophar Twig",
+    "item.tfg.twigs.glacian": "Glacian Twig",
+    "item.tfg.twigs.alphacene": "Alphacene Twig",
+
     "item.tfg.glacian_wool": "Glacian Ram Wool",
     "item.tfg.sniffer_wool": "Mineral Rich Tufts",
     "item.tfg.sniffer_egg": "Sniffer Egg",
@@ -223,7 +228,7 @@
     "item.tfg.elite_power_thruster": "§aElite Power Thruster",
     "item.tfg.silica_aerogel": "Silica Aerogel",
     "item.tfg.better_space_suit_fabric": "Adaptive Space Suit Fabric",
-    
+
     "item.tfg.universal_compost_browns": "Brown Universal Compost",
     "item.tfg.universal_compost_greens": "Green Universal Compost",
 
@@ -252,15 +257,24 @@
     "item.tfg.screwdriver_tip_extruder_mold": "Extruder Mold (Screwdriver Tip)",
     "item.tfg.wrench_tip_extruder_mold": "Extruder Mold (Wrench Tip)",
     "item.tfg.wire_cutter_head_extruder_mold": "Extruder Mold (Wire Cutter Head)",
-	"item.tfg.small_casing_extruder_mold": "Extruder Mold (Small Bullet Casing)",
-	"item.tfg.shell_casing_extruder_mold": "Extruder Mold (Shell Bullet Casing)",
-	"item.tfg.large_casing_extruder_mold": "Extruder Mold (Large Bullet Casing)",
+    "item.tfg.small_casing_extruder_mold": "Extruder Mold (Small Bullet Casing)",
+    "item.tfg.shell_casing_extruder_mold": "Extruder Mold (Shell Bullet Casing)",
+    "item.tfg.large_casing_extruder_mold": "Extruder Mold (Large Bullet Casing)",
     "item.tfg.photo_cell_t1": "Basic Photovoltaic Cell",
 
     "item.tfg.electric_extendo_grip": "Electric Extendo Grip",
 
     "item.tfg.treated_chipboard_composite": "Treated Chipboard Composite",
-    "item.tfg.high_density_treated_fiberboard": "Medium Density Treated Fiberboard"
+    "item.tfg.high_density_treated_fiberboard": "Medium Density Treated Fiberboard",
 
+	"item.tfg.flax_seeds": "Flax Seeds",
+  	"item.tfg.flax_product": "Flax Stems",
+  	"item.tfg.flax_line": "Flax Line Fibers",
+ 	"item.tfg.flax_tow": "Flax Tow Fibers",
+ 	"item.tfg.flax_waste": "Scraped Flax",
+ 	"item.tfg.linen_thread": "Linen Thread",
+  	"item.tfg.linen_cloth": "Linen Cloth",
 
+    "item.tfg.uv_led": "§dUltraviolet §fLED",
+    "item.tfg.smd_uv_led": "§fSMD §dUltraviolet §fLED"
 }

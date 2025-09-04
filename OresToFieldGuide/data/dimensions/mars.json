@@ -8,16 +8,19 @@
 	"name_translations": {
 		"en_us": "Mars",
 		"pt_br": "Mars",
-		"uk_ua": "Mars"
+		"uk_ua": "Mars",
+		"zh_cn": "火星"
 	},
 	"ore_index_translations": {
 		"en_us": "Mars Ore Index",
 		"pt_br": "Mars Ore Index",
-		"uk_ua": "Mars Ore Index"
+		"uk_ua": "Mars Ore Index",
+		"zh_cn": "火星矿物索引"
 	},
 	"vein_index_translations": {
 		"en_us": "Mars Vein Index",
 		"pt_br": "Mars Vein Index",
-		"uk_ua": "Mars Vein Index"
+		"uk_ua": "Mars Vein Index",
+		"zh_cn": "火星矿脉索引"
 	}
 }

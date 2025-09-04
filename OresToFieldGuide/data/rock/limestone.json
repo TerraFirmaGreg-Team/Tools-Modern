@@ -1,11 +1,12 @@
-﻿{
+{
 	"id": "limestone",
 	"pattern": "gtceu:limestone_{0}_ore",
 	"translations": {
 		"en_us": "Limestone",
 		"pt_br": "Calcário",
 		"ru_ru": "Известняк",
-		"uk_ua": "Вапняк"
+		"uk_ua": "Вапняк",
+		"zh_cn": "石灰岩"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/limestone"

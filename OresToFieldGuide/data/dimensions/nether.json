@@ -8,16 +8,19 @@
 	"name_translations": {
 		"en_us": "The Beneath",
 		"pt_br": "As Profundezas",
-		"uk_ua": "Безодня"
+		"uk_ua": "Безодня",
+		"zh_cn": "下界"
 	},
 	"ore_index_translations": {
 		"en_us": "The Beneath Ore Index",
 		"pt_br": "Índice de Minérios das Profundezas",
-		"uk_ua": "Індекс Руд Безодні"
+		"uk_ua": "Індекс Руд Безодні",
+		"zh_cn": "下界矿物索引"
 	},
 	"vein_index_translations": {
 		"en_us": "The Beneath Vein Index",
 		"pt_br": "Índice de Veios das Profundezas",
-		"uk_ua": "Індекс Жил безодні"
+		"uk_ua": "Індекс Жил безодні",
+		"zh_cn": "下界矿脉索引"
 	}
 }

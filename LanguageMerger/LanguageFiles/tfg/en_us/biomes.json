@@ -20,5 +20,20 @@
     "biome.tfg.moon/lunar_lights_dense": "Lightbloom Star Gazers",
     "biome.tfg.moon/lunar_lights_sparse": "Lightbloom Scrubland",
     "biome.tfg.moon/lunar_plains": "Lunar Plains",
-    "biome.tfg.moon/lunar_sands": "Lunar Sands"
+    "biome.tfg.moon/lunar_sands": "Lunar Sands",
+
+    "biome.tfg.mars/martian_deep_desert": "Deep Martian Dunes",
+    "biome.tfg.mars/martian_dunes": "Martian Desert",
+    "biome.tfg.mars/martian_dune_edge": "Martian Desert Edge",
+    "biome.tfg.mars/martian_river": "Martian Shores",
+    "biome.tfg.mars/martian_mountains": "Extinct Martian Volcano",
+    "biome.tfg.mars/amber_edge": "Amber Edge",
+    "biome.tfg.mars/amber_plains": "Amber Plains",
+    "biome.tfg.mars/amber_hills": "Amber Hills",
+    "biome.tfg.mars/rusticus_edge": "Rusticus Edge",
+    "biome.tfg.mars/rusticus_plains": "Rusticus Meadow",
+    "biome.tfg.mars/rusticus_hills": "Rusticus Heath",
+    "biome.tfg.mars/sangnum_edge": "Sangnum Edge",
+    "biome.tfg.mars/sangnum_plains": "Sangnum Prairie",
+    "biome.tfg.mars/sangnum_hills": "Sangnum Moorland"
 }

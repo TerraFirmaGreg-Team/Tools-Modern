@@ -1,11 +1,12 @@
-﻿{
+{
 	"id": "red_granite",
 	"pattern": "gtceu:red_granite_{0}_ore",
 	"translations": {
 		"en_us": "Red Granite",
 		"pt_br": "Red Granite",
 		"ru_ru": "Red Granite",
-		"uk_ua": "Red Granite"
+		"uk_ua": "Red Granite",
+		"zh_cn": "红花岗岩"
 	},
 	"replaceable_blocks": [
 		"gtceu:red_granite"

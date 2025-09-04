@@ -1,23 +1,28 @@
 {
-	"id": "desh",
-	"formula": "(Mg₂Fe(SiO₂)₂)₂(TiO₂)N₄",
-	"ore_block": "ad_astra:raw_desh_block",
-	"indicator": "gtceu:desh_indicator",
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Desh",
-			"info": "$(thing)Source of$(): Iron, Titanium, Nitrogen"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Desh",
-			"info": "$(thing)Fonte de$(): Ferro, Titânio, Nitrogênio"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Деш",
-			"info": "$(thing)Джерело$(): Заліза, Титану, Азоту"
-		}
-	]
+  "id": "desh",
+  "formula": "(Mg₂Fe(SiO₂)₂)₂(TiO₂)N₄",
+  "ore_block": "ad_astra:raw_desh_block",
+  "indicator": "gtceu:desh_indicator",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Desh",
+      "info": "$(thing)Source of$(): Iron, Titanium, Nitrogen"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Desh",
+      "info": "$(thing)Fonte de$(): Ferro, Titânio, Nitrogênio"
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Деш",
+      "info": "$(thing)Джерело$(): Заліза, Титану, Азоту"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "戴斯矿",
+      "info": "$(thing)来源$(): 铁, 钛, 氮"
+    }
+  ]
 }

@@ -1,0 +1,28 @@
+{
+	"rarity": "稀有度",
+	"density": "密度",
+	"type": "类型",
+	"y": "Y 坐标",
+	"size": "尺寸",
+	"height": "高度",
+	"radius": "半径",
+	"stone_types": "岩石类型",
+	"indicator_depth": "指示器最大深度",
+	"percentage": "百分比",
+	"formula": "化学式",
+
+	"hazard": "危害",
+	"arsenicosis": "$(t:需要面罩)砷中毒 (吸入)$(/t)",
+	"asbestosis": "$(t:需要面罩)石棉肺 (吸入)$(/t)",
+	"berylliosis": "$(t:需要橡胶手套)铍中毒 (皮肤接触)$(/t)",
+	"carcinogenic": "$(t:需要全身防护)致癌 (任何接触)$(/t)",
+	"weak_poison": "$(t:需要面罩)弱毒性 (吸入)$(/t)",
+	"irritant": "$(t:需要橡胶手套)刺激性 (皮肤接触)$(/t)",
+
+	"tfc:cluster_vein": "团簇状矿脉",
+	"tfc:pipe_vein": "管状矿脉",
+	"tfc:disc_vein": "盘状矿脉",
+
+	"ore_index_format": "这是 $(thing){0}$() 的 $(thing)矿物索引$()。所有矿物按字母顺序排序，然后按矿脉类型从最富集到最贫瘠排列。您可以点击它们以了解有关每种矿脉的更多信息。",
+	"vein_index_format": "这是 $(item){0}$() 的 $(thing)矿脉索引$()。每个矿脉都有关于其稀有度、密度、矿脉类型、生成高度、尺寸、生成于何种岩石中等详细信息。"
+}

@@ -1,28 +1,33 @@
 {
-    "id": "cassiterite_sand",
-    "formula": "SnO₂",
-    "ore_block": "gtceu:raw_cassiterite_sand_block",
-    "indicator": "tfc:ore/small_cassiterite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Cassiterite Sand",
-            "info": "$(thing)Melts into$(): Tin"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Areia Cassiterita",
-            "info": "$(thing)Derrete em$(): Estanho"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Касситеритовый песок",
-            "info": "$(thing)Плавится в$(): Олово"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Каситеритові піски",
-            "info": "$(thing)Розплавляється в$(): Олово"
-        }
-    ]
+  "id": "cassiterite_sand",
+  "formula": "SnO₂",
+  "ore_block": "gtceu:raw_cassiterite_sand_block",
+  "indicator": "tfc:ore/small_cassiterite",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Cassiterite Sand",
+      "info": "$(thing)Melts into$(): Tin"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Areia Cassiterita",
+      "info": "$(thing)Derrete em$(): Estanho"
+    },
+    {
+      "lang": "ru_ru",
+      "text": "Касситеритовый песок",
+      "info": "$(thing)Плавится в$(): Олово"
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Каситеритові піски",
+      "info": "$(thing)Розплавляється в$(): Олово"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "锡石矿砂",
+      "info": "$(thing)熔化$(): 锡"
+    }
+  ]
 }

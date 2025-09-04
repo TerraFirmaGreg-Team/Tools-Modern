@@ -23,6 +23,11 @@
       "lang": "uk_ua",
       "text": "Графіт",
       "info": "$(thing)Використовується для$(): $(l:mechanics/fire_clay)Вогнетривкової глини$(), Графену"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "石墨",
+      "info": "$(thing)用于$(): $(l:mechanics/fire_clay)耐火粘土$(), 石墨烯"
     }
   ]
 }

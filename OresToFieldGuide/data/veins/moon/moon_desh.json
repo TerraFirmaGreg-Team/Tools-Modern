@@ -34,7 +34,6 @@
 		"dacite",
 		"gabbro",
 		"basalt"
-
 	],
 	"indicator": {
 		"depth": 50
@@ -51,6 +50,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Деш і Ільменіт"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "戴斯矿, 钛铁矿"
 		}
 	]
 }

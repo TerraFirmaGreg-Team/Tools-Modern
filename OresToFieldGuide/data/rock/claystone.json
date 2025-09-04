@@ -1,11 +1,12 @@
-﻿{
+{
 	"id": "claystone",
 	"pattern": "gtceu:claystone_{0}_ore",
 	"translations": {
 		"en_us": "Claystone",
 		"pt_br": "Argilito",
 		"ru_ru": "Аргиллит",
-		"uk_ua": "Аргиліт"
+		"uk_ua": "Аргиліт",
+		"zh_cn": "粘土岩"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/claystone"
