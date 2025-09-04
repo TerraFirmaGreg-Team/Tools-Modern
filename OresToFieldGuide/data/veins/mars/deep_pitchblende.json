@@ -1,5 +1,5 @@
 {
-	"id": "deep_pitchblende",
+	"id": "deep_mars_pitchblende",
 	"dimension": "mars",
 	"type": "tfc:cluster_vein",
 	"config": {
@@ -15,11 +15,11 @@
 			"weight": 50,
 			"block_weight": 1
 		},
-				{
+		{
 			"ore": "thorium",
 			"weight": 25
 		},
-				{
+		{
 			"ore": "uraninite",
 			"weight": 20
 		}
@@ -33,14 +33,10 @@
 		"claystone",
 		"dacite"
 	],
-	"indicator": {
-		"rarity": 12,
-		"depth": 50
-	},
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Pitchblende"
+			"text": "Pitchblende, Thorium, & Uraninite"
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"id": "deep_chromite",
+	"id": "deep_mars_chromite",
 	"dimension": "mars",
 	"type": "tfc:cluster_vein",
 	"config": {
@@ -12,16 +12,16 @@
 	"ores": [
 		{
 			"ore": "redstone",
-			"weight": 45
+			"weight": 45,
+			"block_weight": 1
 		},
-				{
+		{
 			"ore": "ruby",
 			"weight": 35
 		},
-				{
+		{
 			"ore": "chromite",
-			"weight": 20,
-			"block_weight": 1
+			"weight": 20
 		}
 	],
 	"rocks": [
@@ -34,10 +34,6 @@
 		"basalt",
 		"dacite"
 	],
-	"indicator": {
-		"rarity": 12,
-		"depth": 50
-	},
 	"translations": [
 		{
 			"lang": "en_us",

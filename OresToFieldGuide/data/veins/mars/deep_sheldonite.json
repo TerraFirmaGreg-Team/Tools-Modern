@@ -1,5 +1,5 @@
 {
-	"id": "deep_sheldonite",
+	"id": "deep_mars_sheldonite",
 	"dimension": "mars",
 	"type": "tfc:cluster_vein",
 	"config": {
@@ -15,15 +15,15 @@
 			"weight": 35,
 			"block_weight": 1
 		},
-				{
+		{
 			"ore": "cooperite",
 			"weight": 25
 		},
-				{
+		{
 			"ore": "nickel",
 			"weight": 25
 		},
-				{
+		{
 			"ore": "platinum",
 			"weight": 15
 		}
@@ -39,10 +39,6 @@
 		"basalt",
 		"dacite"
 	],
-	"indicator": {
-		"rarity": 12,
-		"depth": 50
-	},
 	"translations": [
 		{
 			"lang": "en_us",
