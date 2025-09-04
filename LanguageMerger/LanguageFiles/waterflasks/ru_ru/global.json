@@ -1,0 +1,24 @@
+{
+  "__comment__0": "Перевод адаптирован по перевод GregTech, это так и должно быть. Согласовано с Xikaro",	
+  "waterflasks.item.flaskbreak": "Flask breaking",
+	
+  "__comment__1": "Материалы и ",
+  "item.waterflasks.bladder": "Мочевой пузырь",
+  "item.waterflasks.leather_side": "Кожа на бурдюк", 
+
+  "__comment__2": "Кожа",
+  "item.waterflasks.leather_flask.filled": "Бурдюк (%s)",
+  "item.waterflasks.leather_flask": "Бурдюк",
+  "item.waterflasks.broken_leather_flask": "Порванный бурдюк",
+
+  "__comment__3": "Кованое железо",
+  "item.waterflasks.iron_flask.filled": "Фляга (Кованое железо) (%s)",
+  "item.waterflasks.iron_flask": "Фляга (Кованое железо)",
+  "item.waterflasks.unfinished_iron_flask": "Недоделанная фляга (Кованое железо)",
+  "item.waterflasks.broken_iron_flask": "Сломанная фляга (Кованое железо)",
+
+  "_comment4": "Красная сталь",
+  "item.waterflasks.red_steel_flask.filled": "Фляга (Красная сталь) (%s)",
+  "item.waterflasks.red_steel_flask": "Фляга (Красная сталь)",
+  "item.waterflasks.unfinished_red_steel_flask": "Недоделанная фляга (Красная сталь)"
+}
