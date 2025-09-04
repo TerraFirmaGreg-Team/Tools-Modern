@@ -12,20 +12,20 @@
 	"ores": [
 		{
 			"ore": "green_sapphire",
-			"weight": 5,
-			"block_weight": 1
+			"weight": 5
 		},
-				{
+		{
 			"ore": "bauxite",
 			"weight": 20
 		},
-				{
+		{
 			"ore": "magnetite",
 			"weight": 20
 		},
-				{
+		{
 			"ore": "gold",
-			"weight": 55
+			"weight": 55,
+			"block_weight": 1
 		}
 	],
 	"rocks": [
@@ -37,14 +37,10 @@
 		"chert",
 		"chalk"
 	],
-	"indicator": {
-		"rarity": 12,
-		"depth": 50
-	},
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Sapphire"
+			"text": "Gold, Magnetite, & Bauxite"
 		}
 	]
 }
