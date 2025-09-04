@@ -12,22 +12,21 @@
 	"ores": [
 		{
 			"ore": "sphalerite",
-			"weight": 15,
-			"block_weight": 1
+			"weight": 15
 		},
-				{
+		{
 			"ore": "nickel",
 			"weight": 20
 		},
-				{
+		{
 			"ore": "galena",
 			"weight": 30
 		},
-				{
+		{
 			"ore": "silver",
 			"weight": 10
 		},
-				{
+		{
 			"ore": "cobaltite",
 			"weight": 10
 		}
@@ -56,7 +55,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Surface Nickel, Zinc, Galena, Silver and Cobaltite"
+			"text": "Sphalerite & Galena"
 		}
 	]
 }
