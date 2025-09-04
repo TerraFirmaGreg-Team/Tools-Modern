@@ -15,11 +15,11 @@
 			"weight": 35,
 			"block_weight": 1
 		},
-				{
+		{
 			"ore": "thorium",
 			"weight": 25
 		},
-				{
+		{
 			"ore": "hematite",
 			"weight": 25
 		}
@@ -42,7 +42,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Pitchblende and Thorium"
+			"text": "Pitchblende & Thorium"
 		}
 	]
 }
