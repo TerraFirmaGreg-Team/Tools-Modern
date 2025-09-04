@@ -16,15 +16,15 @@
 			"weight": 20,
 			"block_weight": 1
 		},
-				{
+		{
 			"ore": "salt",
 			"weight": 30
 		},
-				{
+		{
 			"ore": "lepidolite",
 			"weight": 15
 		},
-				{
+		{
 			"ore": "spodumene",
 			"weight": 35
 		}
@@ -47,7 +47,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Salt and Lepidolite"
+			"text": "Salts & Spodumene"
 		}
 	]
 }
