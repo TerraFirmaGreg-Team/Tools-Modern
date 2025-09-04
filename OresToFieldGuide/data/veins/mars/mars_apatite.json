@@ -15,15 +15,15 @@
 			"weight": 50,
 			"block_weight": 1
 		},
-				{
+		{
 			"ore": "tricalcium_phosphate",
 			"weight": 35
 		},
-				{
+		{
 			"ore": "pyrochlore",
 			"weight": 15
 		},
-				{
+		{
 			"ore": "hematite",
 			"weight": 5
 		}
@@ -40,14 +40,26 @@
 		"basalt",
 		"dacite"
 	],
-	"indicator": {
-		"rarity": 12,
-		"depth": 50
-	},
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Apatite"
+			"text": "Apatite & Pyrochlore"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Apatita e Pirocloro"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Апатит и Пирохлор"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Апатит і Пірохлор"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "磷灰石, 烧绿石"
 		}
 	]
 }

@@ -38,14 +38,26 @@
 		"chalk",
 		"basalt"
 	],
-	"indicator": {
-		"rarity": 12,
-		"depth": 50
-	},
 	"translations": [
 		{
 			"lang": "en_us",
 			"text": "Scheelite & Tungstate"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Sheelita e Tungstato"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Шеелит и Вольфрамат"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Шеєліт та Вольфрам"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "白钨矿, 钨酸锂"
 		}
 	]
 }

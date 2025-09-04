@@ -22,6 +22,10 @@
 		{
 			"ore": "gold",
 			"weight": 5
+		},
+		{
+			"ore": "calcite",
+			"weight": 5
 		}
 	],
 	"rocks": [
@@ -48,7 +52,23 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Hematite (Surface)"
+			"text": "Hematite & Limonite"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Hematita e Limonita"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Гематит и Лимонит"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Гематит та Лімоніт"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "赤铁矿, 褐铁矿"
 		}
 	]
 }

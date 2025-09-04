@@ -22,7 +22,7 @@
 			"ore": "sphalerite",
 			"weight": 25
 		},
-				{
+		{
 			"ore": "hematite",
 			"weight": 20
 		}
@@ -40,12 +40,28 @@
 	],
 	"indicator": {
 		"rarity": 12,
-		"depth": 50
+		"depth": 60
 	},
 	"translations": [
 		{
 			"lang": "en_us",
 			"text": "Sphalerite & Pyrite"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Esfalerita e Pirita"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Сфалерит & Пирит"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Сфалерит і Пірит"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "闪锌矿, 黄铁矿"
 		}
 	]
 }

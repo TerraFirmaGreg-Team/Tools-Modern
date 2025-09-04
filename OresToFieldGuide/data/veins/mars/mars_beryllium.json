@@ -1,0 +1,58 @@
+{
+	"id": "mars_beryllium",
+	"dimension": "mars",
+	"type": "tfc:pipe_vein",
+	"config": {
+		"rarity": 350,
+		"density": 0.35,
+		"min_y": -20,
+		"max_y": 50,
+		"height": 40,
+		"radius": 8,
+		"min_skew": 6,
+		"max_skew": 18,
+		"max_slant": 4
+	},
+	"ores": [
+		{
+			"ore": "beryllium",
+			"weight": 35
+		},
+		{
+			"ore": "emerald",
+			"weight": 50
+		},
+		{
+			"ore": "realgar",
+			"weight": 15
+		}
+	],
+	"rocks": [
+		"rhyolite",
+		"basalt",
+		"andesite",
+		"dacite"
+	],
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Emerald & Beryllium"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Esmeralda e Berílio"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Изумруд и Бериллий"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Смарагд і Берилій"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "绿宝石, 铍矿"
+		}
+	]
+}

@@ -47,12 +47,30 @@
 	],
 	"indicator": {
 		"rarity": 12,
-		"depth": 50
+		"depth": 60,
+		"underground_rarity": 1,
+		"underground_count": 1
 	},
 	"translations": [
 		{
 			"lang": "en_us",
 			"text": "Tetrahedrite (Surface)"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Tetraedrita (Superfície)"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Тетраэдрит (Поверхностный)"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Тетраедрит (Поверхня)"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "黝铜矿 (地表)"
 		}
 	]
 }

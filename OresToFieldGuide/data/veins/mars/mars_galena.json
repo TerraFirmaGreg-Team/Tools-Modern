@@ -15,15 +15,15 @@
 			"weight": 30,
 			"block_weight": 1
 		},
-				{
+		{
 			"ore": "silver",
 			"weight": 15
 		},
-				{
+		{
 			"ore": "lead",
 			"weight": 25
 		},
-				{
+		{
 			"ore": "hematite",
 			"weight": 5
 		}
@@ -42,12 +42,28 @@
 	],
 	"indicator": {
 		"rarity": 12,
-		"depth": 50
+		"depth": 60
 	},
 	"translations": [
 		{
 			"lang": "en_us",
 			"text": "Silver, Galena, & Lead"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Prata, Galena e Chumbo"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Серебро, Галена и Свинец"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Срібло, Гален і Свинець"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "银矿, 方铅矿, 铅矿"
 		}
 	]
 }

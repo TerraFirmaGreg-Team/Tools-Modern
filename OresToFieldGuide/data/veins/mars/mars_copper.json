@@ -19,11 +19,11 @@
 			"ore": "copper",
 			"weight": 20
 		},
-				{
+		{
 			"ore": "pyrite",
 			"weight": 10
 		},
-				{
+		{
 			"ore": "hematite",
 			"weight": 5
 		}
@@ -41,12 +41,28 @@
 	],
 	"indicator": {
 		"rarity": 12,
-		"depth": 50
+		"depth": 85
 	},
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Chalcopyrite & Copper"
+			"text": "Copper & Chalcopyrite"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Cobre e Calcopirita"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Медь и Халькопирит"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Мідь та Халькопірит"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "铜矿, 黄铜矿"
 		}
 	]
 }

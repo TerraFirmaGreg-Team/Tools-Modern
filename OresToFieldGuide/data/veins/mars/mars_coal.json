@@ -15,7 +15,7 @@
 			"weight": 70,
 			"block_weight": 1
 		},
-				{
+		{
 			"ore": "hematite",
 			"weight": 30
 		}
@@ -34,8 +34,17 @@
 		"dacite"
 	],
 	"indicator": {
-		"rarity": 12,
-		"depth": 50
+		"depth": 50,
+		"blocks": [
+			{
+				"block": "gtceu:coal_indicator",
+				"weight": 95
+			},
+			{
+				"block": "gtceu:coal_bud_indicator",
+				"weight": 5
+			}
+		]
 	},
 	"translations": [
 		{

@@ -1,5 +1,5 @@
 {
-	"id": "mars_stibnite",
+	"id": "mars_hematite",
 	"dimension": "mars",
 	"type": "tfc:cluster_vein",
 	"config": {
@@ -11,60 +11,57 @@
 	},
 	"ores": [
 		{
-			"ore": "tetrahedrite",
+			"ore": "hematite",
 			"weight": 50,
 			"block_weight": 1
 		},
 		{
-			"ore": "copper",
+			"ore": "yellow_limonite",
 			"weight": 30
 		},
 		{
-			"ore": "stibnite",
-			"weight": 20
+			"ore": "goethite",
+			"weight": 15
 		},
 		{
-			"ore": "hematite",
+			"ore": "gold",
 			"weight": 5
 		}
 	],
 	"rocks": [
 		"mars_stone",
-		"venus_stone",
 		"red_granite",
-		"diorite",
-		"gabbro",
-		"shale",
+		"claystone",
+		"limestone",
+		"conglomerate",
 		"dolomite",
-		"chert",
-		"chalk",
 		"basalt",
 		"dacite"
 	],
 	"indicator": {
 		"rarity": 12,
-		"depth": 60
+		"depth": 50
 	},
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Tetrahedrite (Normal)"
+			"text": "Hematite & Limonite"
 		},
 		{
 			"lang": "pt_br",
-			"text": "Tetraedrita (Normal)"
+			"text": "Hematita e Limonita"
 		},
 		{
 			"lang": "ru_ru",
-			"text": "Тетраэдрит (обычный)"
+			"text": "Гематит и Лимонит"
 		},
 		{
 			"lang": "uk_ua",
-			"text": "Тетраедрит (Звичайний)"
+			"text": "Гематит та Лімоніт"
 		},
 		{
 			"lang": "zh_cn",
-			"text": "黝铜矿 (普通)"
+			"text": "赤铁矿, 褐铁矿"
 		}
 	]
 }
