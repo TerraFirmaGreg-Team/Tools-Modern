@@ -15,15 +15,15 @@
 			"weight": 35,
 			"block_weight": 1
 		},
-				{
+		{
 			"ore": "barite",
 			"weight": 30
 		},
-				{
+		{
 			"ore": "asbestos",
 			"weight": 15
 		},
-				{
+		{
 			"ore": "hematite",
 			"weight": 5
 		}
@@ -46,7 +46,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Quartzite and Asbestos"
+			"text": "Quartzite, Asbestos, & Barite"
 		}
 	]
 }
