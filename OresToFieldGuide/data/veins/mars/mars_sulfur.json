@@ -1,0 +1,51 @@
+{
+	"id": "mars_sulfur",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 215,
+		"density": 0.2,
+		"min_y": 0,
+		"max_y": 70,
+		"size": 45
+	},
+	"ores": [
+		{
+			"ore": "sulfur",
+			"weight": 15
+		},
+		{
+			"ore": "pyrite",
+			"weight": 45
+		},
+		{
+			"ore": "sphalerite",
+			"weight": 25
+		},
+				{
+			"ore": "hematite",
+			"weight": 20
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"venus_stone",
+		"granite",
+		"diorite",
+		"gabbro",
+		"chert",
+		"chalk",
+		"basalt",
+		"dacite"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Sphalerite & Pyrite"
+		}
+	]
+}

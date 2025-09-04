@@ -1,0 +1,50 @@
+{
+	"id": "surface_cassiterite",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 135,
+		"density": 0.25,
+		"min_y": 80,
+		"max_y": 180,
+		"size": 45
+	},
+	"ores": [
+		{
+			"ore": "cassiterite",
+			"weight": 60,
+			"block_weight": 1
+		},
+		{
+			"ore": "tin",
+			"weight": 40
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"venus_stone",
+		"red_granite",
+		"granite",
+		"diorite",
+		"gabbro",
+		"shale",
+		"claystone",
+		"limestone",
+		"conglomerate",
+		"dolomite",
+		"chert",
+		"chalk",
+		"basalt",
+		"dacite"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Cassiterite & Tin"
+		}
+	]
+}

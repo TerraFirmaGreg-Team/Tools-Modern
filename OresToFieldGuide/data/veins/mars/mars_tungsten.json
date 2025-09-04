@@ -1,0 +1,51 @@
+{
+	"id": "mars_tungsten",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 280,
+		"density": 0.45,
+		"min_y": 0,
+		"max_y": 70,
+		"size": 50
+	},
+	"ores": [
+		{
+			"ore": "scheelite",
+			"weight": 45,
+			"block_weight": 1
+		},
+		{
+			"ore": "tungstate",
+			"weight": 35
+		},
+		{
+			"ore": "lithium",
+			"weight": 20
+		},
+		{
+			"ore": "hematite",
+			"weight": 5
+		}
+	],
+	"rocks": [
+		"red_granite",
+		"shale",
+		"claystone",
+		"limestone",
+		"dolomite",
+		"chert",
+		"chalk",
+		"basalt"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Scheelite & Tungstate"
+		}
+	]
+}

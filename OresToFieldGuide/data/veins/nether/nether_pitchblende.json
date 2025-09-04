@@ -16,8 +16,11 @@
 		},
 		{
 			"ore": "uraninite",
-			"weight": 50,
-			"block_weight": 1
+			"weight": 20
+		},
+		{
+			"ore": "wulfenite",
+			"weight": 10
 		}
 	],
 	"rocks": [

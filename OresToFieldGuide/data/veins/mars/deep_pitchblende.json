@@ -1,0 +1,46 @@
+{
+	"id": "deep_pitchblende",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 370,
+		"density": 0.3,
+		"min_y": -20,
+		"max_y": 0,
+		"size": 60
+	},
+	"ores": [
+		{
+			"ore": "pitchblende",
+			"weight": 50,
+			"block_weight": 1
+		},
+				{
+			"ore": "thorium",
+			"weight": 25
+		},
+				{
+			"ore": "uraninite",
+			"weight": 20
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"venus_stone",
+		"diorite",
+		"gabbro",
+		"shale",
+		"claystone",
+		"dacite"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Pitchblende"
+		}
+	]
+}

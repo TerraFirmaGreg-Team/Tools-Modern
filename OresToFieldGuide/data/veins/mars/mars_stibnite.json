@@ -1,0 +1,54 @@
+{
+	"id": "mars_stibnite",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 210,
+		"density": 0.4,
+		"min_y": 0,
+		"max_y": 70,
+		"size": 40
+	},
+	"ores": [
+		{
+			"ore": "tetrahedrite",
+			"weight": 50,
+			"block_weight": 1
+		},
+		{
+			"ore": "copper",
+			"weight": 30
+		},
+		{
+			"ore": "stibnite",
+			"weight": 20
+		},
+		{
+			"ore": "hematite",
+			"weight": 5
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"venus_stone",
+		"red_granite",
+		"diorite",
+		"gabbro",
+		"shale",
+		"dolomite",
+		"chert",
+		"chalk",
+		"basalt",
+		"dacite"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Tetrahedrite"
+		}
+	]
+}

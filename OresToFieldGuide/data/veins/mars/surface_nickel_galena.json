@@ -1,0 +1,61 @@
+{
+	"id": "surface_nickel_galena",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 150,
+		"density": 0.25,
+		"min_y": 80,
+		"max_y": 180,
+		"size": 45
+	},
+	"ores": [
+		{
+			"ore": "sphalerite",
+			"weight": 15
+		},
+		{
+			"ore": "nickel",
+			"weight": 20
+		},
+		{
+			"ore": "galena",
+			"weight": 30
+		},
+		{
+			"ore": "silver",
+			"weight": 10
+		},
+		{
+			"ore": "cobaltite",
+			"weight": 10
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"venus_stone",
+		"red_granite",
+		"granite",
+		"diorite",
+		"gabbro",
+		"shale",
+		"claystone",
+		"limestone",
+		"conglomerate",
+		"dolomite",
+		"chert",
+		"chalk",
+		"basalt",
+		"dacite"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Sphalerite & Galena"
+		}
+	]
+}

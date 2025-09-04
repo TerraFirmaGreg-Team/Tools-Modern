@@ -1,0 +1,52 @@
+{
+	"id": "mars_copper",
+	"dimension": "mars",
+	"type": "tfc:cluster_vein",
+	"config": {
+		"rarity": 220,
+		"density": 0.4,
+		"min_y": 0,
+		"max_y": 70,
+		"size": 50
+	},
+	"ores": [
+		{
+			"ore": "chalcopyrite",
+			"weight": 65,
+			"block_weight": 1
+		},
+		{
+			"ore": "copper",
+			"weight": 20
+		},
+				{
+			"ore": "pyrite",
+			"weight": 10
+		},
+				{
+			"ore": "hematite",
+			"weight": 5
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"venus_stone",
+		"shale",
+		"claystone",
+		"limestone",
+		"conglomerate",
+		"dolomite",
+		"basalt",
+		"dacite"
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Chalcopyrite & Copper"
+		}
+	]
+}

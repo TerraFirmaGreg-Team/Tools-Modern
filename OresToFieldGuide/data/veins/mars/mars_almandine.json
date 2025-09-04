@@ -1,0 +1,59 @@
+{
+	"id": "mars_almandine",
+	"dimension": "mars",
+	"type": "tfc:disc_vein",
+	"config": {
+		"rarity": 280,
+		"density": 0.35,
+		"min_y": 0,
+		"max_y": 70,
+		"size": 65,
+		"height": 8
+	},
+	"ores": [
+		{
+			"ore": "almandine",
+			"weight": 35,
+			"block_weight": 1
+		},
+				{
+			"ore": "pyrope",
+			"weight": 25
+		},
+				{
+			"ore": "sapphire",
+			"weight": 15
+		},
+				{
+			"ore": "green_sapphire",
+			"weight": 15
+		},
+				{
+			"ore": "hematite",
+			"weight": 5
+		}
+	],
+	"rocks": [
+		"mars_stone",
+		"venus_stone",
+		"red_granite",
+		"diorite",
+		"gabbro",
+		"shale",
+		"claystone",
+		"limestone",
+		"dolomite",
+		"chert"
+
+	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 50
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Almandine & Sapphire"
+		}
+	]
+}
