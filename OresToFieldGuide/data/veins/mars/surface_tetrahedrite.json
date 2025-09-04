@@ -15,15 +15,15 @@
 			"weight": 60,
 			"block_weight": 1
 		},
-				{
+		{
 			"ore": "copper",
 			"weight": 20
 		},
-				{
+		{
 			"ore": "stibnite",
 			"weight": 20
 		},
-				{
+		{
 			"ore": "redstone",
 			"weight": 5
 		}
@@ -52,7 +52,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Surface Copper"
+			"text": "Tetrahedrite (Surface)"
 		}
 	]
 }
