@@ -1,7 +1,7 @@
 
 <br/>
 <div align="center">
-  <h1>TerraFirmaGreg-Core - Modern</h1>
+  <h1>TerraFirmaGreg-Tools - Modern</h1>
   <a href="https://github.com/TerraFirmaGreg-Team/Tools-Modern">
     <img src="https://github.com/TerraFirmaGreg-Team/.github/blob/main/branding/icon/v3/tfg_logo_icon_tools_964x_1080p.gif?raw=true" alt="Logo" height="120"/>
   </a>
