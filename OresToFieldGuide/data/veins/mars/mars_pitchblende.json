@@ -36,8 +36,8 @@
 		"dacite"
 	],
 	"indicator": {
-		"rarity": 12,
-		"depth": 50
+		"rarity": 20,
+		"depth": 15
 	},
 	"translations": [
 		{

@@ -40,8 +40,8 @@
 		"dacite"
 	],
 	"indicator": {
-		"rarity": 12,
-		"depth": 70,
+		"rarity": 15,
+		"depth": 40,
 		"blocks": [
 			{
 				"block": "tfc:ore/small_garnierite",

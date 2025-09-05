@@ -47,7 +47,9 @@
 				"block": "gtceu:coal_bud_indicator",
 				"weight": 5
 			}
-		]
+		],
+		"rarity": 20,
+		"depth": 10
 	},
 	"translations": [
 		{

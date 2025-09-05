@@ -33,6 +33,10 @@
 		"andesite",
 		"dacite"
 	],
+	"indicator": {
+		"rarity": 20,
+		"depth": 15
+	},
 	"translations": [
 		{
 			"lang": "en_us",
