@@ -69,6 +69,8 @@
     "material.tfg.silica_gel": "Silica Gel",
     "material.tfg.soaked_silica_gel": "Acetone Soaked Silica Gel",
 
+    "material.tfg.heavy_water": "Heavy Water",
+    "material.tfg.semiheavy_water": "Semiheavy Water",
     "material.tfg.nuclear_residue": "Nuclear Residue",
     "material.tfg.oxidized_nuclear_residue": "Oxidized Nuclear Residue",
     "material.tfg.refined_nuclear_residue": "Refined Nuclear Residue",
@@ -78,5 +80,5 @@
     "material.tfg.bright_regolith": "Bright Regolith",
     "material.tfg.cassiterite_regolith": "Cassiterite Regolith",
     "material.tfg.regolith_mush": "Regolith Mush"
-    
+
 }
