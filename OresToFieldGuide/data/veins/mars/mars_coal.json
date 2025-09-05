@@ -34,11 +34,14 @@
 		"dacite"
 	],
 	"indicator": {
-		"depth": 50,
 		"blocks": [
 			{
+				"block": "tfc:ore/small_hematite",
+				"weight": 30
+			},
+			{
 				"block": "gtceu:coal_indicator",
-				"weight": 95
+				"weight": 65
 			},
 			{
 				"block": "gtceu:coal_bud_indicator",
