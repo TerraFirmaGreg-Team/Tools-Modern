@@ -10,11 +10,5 @@
     "gtceu.machine.hp_steam_extractor.tooltip": "不能提取流体",
     "gtceu.jei.bedrock_fluid.semiheavy_ammoniacal_water": "火星半重氨水",
     "gtceu.jei.bedrock_fluid.liquid_carbon_dioxide": "火星液态二氧化碳",
-    "gtceu.jei.bedrock_fluid.heavy_ammoniacal_water_amber_hills": "火星重氨水",
-    "gtceu.jei.bedrock_fluid.heavy_ammoniacal_water_amber_plains": "火星重氨水",
-    "gtceu.jei.bedrock_fluid.heavy_ammoniacal_water_mountains": "火星重氨水",
-    "gtceu.jei.bedrock_fluid.heavy_ammoniacal_water_rusticus_hills": "火星重氨水",
-    "gtceu.jei.bedrock_fluid.heavy_ammoniacal_water_rusticus_plains": "火星重氨水",
-    "gtceu.jei.bedrock_fluid.heavy_ammoniacal_water_sangnum_hills": "火星重氨水",
-    "gtceu.jei.bedrock_fluid.heavy_ammoniacal_water_sangnum_plains": "火星重氨水"
+    "gtceu.jei.bedrock_fluid.heavy_ammoniacal_water": "火星重氨水"
 }
