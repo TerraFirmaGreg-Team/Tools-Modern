@@ -197,5 +197,10 @@
     "tfg.tooltip.large_egg": "§7只能在§o巨巢§r§7中孵化",
     "tfg.tooltip.sniffer_wool": "§7采集自嗅探兽背后",
     "tfg.tooltip.wraptor_wool": "§7采集自扭曲鸟羽毛",
-    "tfg.tooltip.wraptor_sugar": "§7别想太多"
+    "tfg.tooltip.wraptor_sugar": "§7别想太多",
+    "effect.tfg.cooling": "§b降温",
+    "effect.tfg.warming": "§6保暖",
+    "tfg.tooltip.cooling_foods": "§b使你体温降低：2°C",
+    "tfg.tooltip.cooling_foods_strong": "§b使你体温降低：10°C",
+    "tfg.tooltip.warming_foods": "§6使你体温升高：4°C"
 }
