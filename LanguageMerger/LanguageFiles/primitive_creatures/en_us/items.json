@@ -5,6 +5,8 @@
 	"item.primitive_creatures.wiloger_spawn_egg": "Beast Tamer Spawn Egg",
 	"item.primitive_creatures.iloger_2_spawn_egg": "Herbalist Spawn Egg",
 	"item.primitive_creatures.iloger_1_spawn_egg": "Forager Spawn Egg",
+	"item.primitive_creatures.piloger_9_spawn_egg": "Warrior Spawn Egg",
+	"item.primitive_creatures.nahida_spawn_egg": "Huntmaster Spawn Egg",
 
 	"item.primitive_creatures.yhgi": "Flint Club",
 	"item.primitive_creatures.reh": "Fortified Flint Club",
@@ -13,5 +15,6 @@
 	"item.primitive_creatures.totem_2": "Wooden Lion-Man Idol",
 	"item.primitive_creatures.totem_3": "Hardened Mud Idol",
 	"item.primitive_creatures.tt_5": "Small Shard",
-	"item.primitive_creatures.f_1": "Primitive Explosives"
+	"item.primitive_creatures.f_1": "Primitive Explosives",
+	"item.primitive_creatures.ww_3": "Fragrant Grass"
 }
