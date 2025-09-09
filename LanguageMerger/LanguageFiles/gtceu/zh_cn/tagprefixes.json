@@ -15,6 +15,7 @@
     "tagprefix.double_ingot": "%s双锭",
     "tagprefix.poor_raw": "贫瘠%s原矿",
     "tagprefix.rich_raw": "富集%s原矿",
+    "tagprefix.dusty_raw": "积尘%s原矿",
     "tagprefix.gabbro": "辉长岩%s矿石",
     "tagprefix.shale": "页岩%s矿石",
     "tagprefix.claystone": "黏土岩%s矿石",
@@ -33,6 +34,5 @@
     "tagprefix.marble": "大理岩%s矿石",
     "tagprefix.deepslate": "混合岩%s矿石",
     "tagprefix.pyroxenite": "辉石岩%s矿石",
-    "tagprefix.dripstone": "石灰华%s矿石",
-    "tagprefix.dusty_raw": "积尘%s原矿"
+    "tagprefix.dripstone": "石灰华%s矿石"
 }

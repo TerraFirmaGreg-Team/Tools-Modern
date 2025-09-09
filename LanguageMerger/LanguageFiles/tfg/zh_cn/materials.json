@@ -58,6 +58,8 @@
     "material.tfg.tmos": "四甲氧基硅烷",
     "material.tfg.silica_gel": "硅胶",
     "material.tfg.soaked_silica_gel": "丙酮浸渍硅胶",
+    "material.tfg.heavy_water": "重水",
+    "material.tfg.semiheavy_water": "半重水",
     "material.tfg.nuclear_residue": "核废料",
     "material.tfg.oxidized_nuclear_residue": "氧化核废料",
     "material.tfg.refined_nuclear_residue": "精炼核废料",
@@ -65,7 +67,5 @@
     "material.tfg.goethe_regolith": "歌德风化土",
     "material.tfg.bright_regolith": "亮泽风化土",
     "material.tfg.cassiterite_regolith": "锡石风化土",
-    "material.tfg.regolith_mush": "泥泞风化土",
-    "material.tfg.heavy_water": "重水",
-    "material.tfg.semiheavy_water": "半重水"
+    "material.tfg.regolith_mush": "泥泞风化土"
 }

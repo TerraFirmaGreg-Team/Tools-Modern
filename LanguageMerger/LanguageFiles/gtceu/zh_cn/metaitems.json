@@ -1,13 +1,13 @@
 {
     "metaitem.dust.tooltip.purify": "投入水中可获得纯净粉末",
     "metaitem.crushed.tooltip.purify": "投入水中可获得纯净矿石",
-    "item.gtceu.tool.behavior.silk_ice": "精准采集可获得浮冰",
-    "item.gtceu.tool.butchery_knife.tooltip": "屠宰动物可获得更多肉类",
+    "item.gtceu.tool.behavior.silk_ice": "§d雕刻家:§r 可用精准采集获取浮冰",
+    "item.gtceu.tool.butchery_knife.tooltip": "§屠夫:§r 屠宰动物可获得更多肉类",
+    "gtceu.machine.lp_steam_extractor.tooltip": "§7不能提取流体",
+    "gtceu.machine.hp_steam_extractor.tooltip": "§7不能提取流体",
     "gtceu.jei.bedrock_fluid.moon_helium": "月球氦气",
     "gtceu.jei.bedrock_fluid.moon_helium_3": "月球氦-3",
     "gtceu.jei.bedrock_fluid.moon_argon": "月球氩气",
-    "gtceu.machine.lp_steam_extractor.tooltip": "§7不能提取流体",
-    "gtceu.machine.hp_steam_extractor.tooltip": "§7不能提取流体",
     "gtceu.jei.bedrock_fluid.semiheavy_ammoniacal_water": "火星半重氨水",
     "gtceu.jei.bedrock_fluid.liquid_carbon_dioxide": "火星液态二氧化碳",
     "gtceu.jei.bedrock_fluid.heavy_ammoniacal_water": "火星重氨水"
