@@ -12,8 +12,7 @@
 	"ores": [
 		{
 			"ore": "desh",
-			"weight": 25,
-			"block_weight": 2
+			"weight": 25
 		},
 		{
 			"ore": "ilmenite",
