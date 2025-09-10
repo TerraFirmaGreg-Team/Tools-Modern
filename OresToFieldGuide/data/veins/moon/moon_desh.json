@@ -7,26 +7,25 @@
 		"density": 0.35,
 		"min_y": 10,
 		"max_y": 80,
-		"size": 45
+		"size": 30
 	},
 	"ores": [
 		{
 			"ore": "desh",
-			"weight": 40,
-			"block_weight": 2
+			"weight": 25
 		},
 		{
 			"ore": "ilmenite",
-			"weight": 25,
+			"weight": 30,
 			"block_weight": 1
 		},
 		{
 			"ore": "aluminium",
-			"weight": 20
+			"weight": 25
 		},
 		{
 			"ore": "armalcolite",
-			"weight": 15
+			"weight": 20
 		}
 	],
 	"rocks": [
