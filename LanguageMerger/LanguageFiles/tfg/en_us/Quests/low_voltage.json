@@ -255,6 +255,7 @@
 	"quests.low_voltage.lv_glue.title": "Glued",
 	"quests.low_voltage.lv_glue.subtitle": "What a sticky situation",
 	"quests.low_voltage.lv_glue.desc": "You can now &3centrifuge&r &aSticky Resin&r, which will give you &aGlue&r in fluid form (and the less useful Plantball, &6for now&r).\n\nGive yourself a headstart and get on producing Glue. You can use it to make &6cheaper Resistors&r, as well as &6cheaper Circuit Boards&r in the &3Assembler&r (and it is especially useful &oin the near future&r).\n\n&eNote:&r You can also centrifuge TFC's &aGlue&r or &aConifer Rosin&r, whichever's easiest!",
+	"quests.low_voltage.lv_glue.task": "Glue",
 
 	"quests.low_voltage.lv_cutter.title": "Basic Cutter",
 	"quests.low_voltage.lv_cutter.subtitle": "The Cutter... cuts...",
@@ -270,10 +271,12 @@
 	"quests.low_voltage.lv_oxygen.desc.1": "You could waste &o&eprecious years of your life&r in JEI looking for the most optimal Oxygen recipe, given the many ways to obtain it. Various minerals will produce it when electrolyzed.\n\nIf only the quest book had more information!",
 	"quests.low_voltage.lv_oxygen.desc.2": "Surprise! The best source according to us (!) is &acentrifuging Air&r after making a &dGas Collector&r, which you might not be able to make just yet. This recipe also gives &aNitrogen&r, which is handy as it can speed up certain &3Electric Blast Furnace&r recipes&r.\n\nThe second best source according to us (!) is &aelectrolyzing Silicon Dioxide&r. Silicon Dioxide is obtained from various sources, such as Glass Dust and various Stone Dusts. We will come back to &6this method later&r because this one is actually &6god&r.",
 	"quests.low_voltage.lv_oxygen.desc.3": "The third best source according to us (!) is &aelectrolyzing Water&r. In reality, electrolysis of water is more suitable for &aHydrogen production&r due to the higher energy cost. &4Don't use this method as your main source of Oxygen&r, only for &1Hydrogen&r, once again we will help you later on to make Hydrogen.\n\nThe fourth best source according to us (!) is &ato not void&r it, EVER! Any Oxygen obtained from any source is worth something and should be stored in Tanks.\n\n&eNote:&r Submit a fluid by having it stored in &lany&r tank in your inventory. A bucket will also work.",
+	"quests.low_voltage.lv_oxygen.task": "Oxygen",
 
 	"quests.low_voltage.lv_nitrogen.title": "Nitrogen Gas",
 	"quests.low_voltage.lv_nitrogen.subtitle": "Your EBF booster",
 	"quests.low_voltage.lv_nitrogen.desc": "For now, your only use for Nitrogen will be to make your EBF &6faster&r, which may not sound like that big of a deal, but with how much you'll be using it, it's definitely worth setting up. Faster recipes mean less energy used too!",
+	"quests.low_voltage.lv_nitrogen.task": "Nitrogen",
 
 	"quests.low_voltage.lv_arc_furnace.title": "The Arc Furnace",
 	"quests.low_voltage.lv_arc_furnace.subtitle": "The Arc Furnace has never been so good",
