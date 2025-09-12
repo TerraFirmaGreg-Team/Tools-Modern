@@ -2,7 +2,7 @@
     "quests.metal_age": "Idade da Metalurgia",
     "quests.metal_age.subtitle": "Seus Primeiros Avanços Tecnológicos.",
 
-    "quests.metal_age.weld_bronze_ingots.title": "Fundindo Bronze",
+    "quests.metal_age.weld_bronze_ingots.title": "Soldando Bronze",
     "quests.metal_age.weld_bronze_ingots.subtitle": "Eu falei pra você ir se acostumando",
     "quests.metal_age.weld_bronze_ingots.desc": "Obtenha ao menos 14 Lingotes de qualquer tipo de Bronze, e então faça a fusão deles dois a dois na Bigorna de Cobre.\n\nA Bigorna Nível 2 pode ser feita tanto de Bronze de Bismuto, Bronze ou Bronze Negro, mas não pode ser uma mistura dos três.",
 
@@ -49,15 +49,15 @@
 
     "quests.metal_age.fire_clay_ingredients.title": "Ingredientes da Argila Refratária",
     "quests.metal_age.fire_clay_ingredients.subtitle": "O Rito de Passagem do TerraFirmaCraft",
-    "quests.metal_age.fire_clay_ingredients.desc": "Argila Refratária é uma argila especial feita de Caulinita, Grafite e Argila comum, que é especialmente resistente a altas temperaturas. Seus dois principais usos são o Cadinho, que funciona como uma versão melhorada de um Vaso para Fundição de Metais e Criação de Ligas, e o Alto-Forno, que é requisito para a criação do próximo nível de bigorna e metal, o Aço.\n\nVocê provavelmente vai precisar viajar longas distâncias, pra bem longe da sua base pra obter ambos Grafite e Argila Caolim, então preparação é a chave!",
+    "quests.metal_age.fire_clay_ingredients.desc": "Argila Refratária é uma argila especial feita de Caulinita, Grafite e Argila comum, que é especialmente resistente a altas temperaturas. Seus dois principais usos são o Cadinho, que funciona como uma versão melhorada de um Vaso para Fundição de Metais e Criação de Ligas, e o Alto-Forno, que é requisito para a criação do próximo nível de bigorna e metal, o Aço.\n\nVocê provavelmente vai precisar viajar longas distâncias, pra bem longe da sua base pra obter ambos Grafite e Argila Caulim, então preparação é a chave!",
 
-    "quests.metal_age.overworld_kaolin.title": "Fonte de Caolim: Superfície",
+    "quests.metal_age.overworld_kaolin.title": "Fonte de Caulim: Superfície",
     "quests.metal_age.overworld_kaolin.subtitle": "Bem vindo à Selva",
-    "quests.metal_age.overworld_kaolin.desc": "Argila Caolim pode ser encontrada exclusivamente em áreas com a combinação de altas altitudes, temperaturas (no mínimo 18°C) e umidade (no mínimo 300mm de chuva). Uma lista completa dos requisitos de spawn da Argila Caolim, com dicas para encontrá-la, pode ser encontrada no Guia de Campo.\n\nVocê provavelmente vai precisar viajar muito, MUITO longe em direção ao Sudeste, provavelmente atravessando o oceano. É bom se preparar com um Cantil de Ferro, grandes quantidades de comida, algum tipo de embarcação como uma Canoa, Barco a Remo ou Caiaque, e algum inventário portátil extra pra trazer o máximo de Caulinita que você puder pra casa.\n\nExistem quests na categoria de \"Dicas para o TerraFirmaGreg\" que falam sobre embarcações e inventários portáteis.",
+    "quests.metal_age.overworld_kaolin.desc": "Argila Caulim pode ser encontrada exclusivamente em áreas com a combinação de altas altitudes, temperaturas (no mínimo 18°C) e umidade (no mínimo 300mm de chuva). Uma lista completa dos requisitos de spawn da Argila Caulim, com dicas para encontrá-la, pode ser encontrada no Guia de Campo.\n\nVocê provavelmente vai precisar viajar muito, MUITO longe em direção ao Sudeste, provavelmente atravessando o oceano. É bom se preparar com um Cantil de Ferro, grandes quantidades de comida, algum tipo de embarcação como uma Canoa, Barco a Remo ou Caiaque, e algum inventário portátil extra pra trazer o máximo de Caulinita que você puder pra casa.\n\nExistem quests na categoria de \"Dicas para o TerraFirmaGreg\" que falam sobre embarcações e inventários portáteis.",
 
-    "quests.metal_age.beneath_kaolin.title": "Fonte de Caolim: As Profundezas",
+    "quests.metal_age.beneath_kaolin.title": "Fonte de Caulim: As Profundezas",
     "quests.metal_age.beneath_kaolin.subtitle": "Hora de ir Fundo",
-    "quests.metal_age.beneath_kaolin.desc": "Fundo, BEM FUNDO no subterrâneo, após a Bedrock, você encontrará As Profundezas, um enorme complexo de cavernas recheado com perigos de todo tipo a cada canto. Nas áreas superiores, você pode ser capaz de encontrar o Vale Viçoso, um pequeno oasis verde nas Profundezas onde a Argila Caolim pode spawnar. Entretanto, um certo monstro pode a estar guardando...!\n\nJá que você já está por aqui, você poderia tentar procurar por Antracito, um excelente combustível para fabricação de aço.\n\nSobreviver nas Profundezas é difícil, então cheque a seção \"Dicas para o TerraFirmaGreg\" deste livro de quests e o Guia de Campo para mais informações.",
+    "quests.metal_age.beneath_kaolin.desc": "Fundo, BEM FUNDO no subterrâneo, após a Bedrock, você encontrará As Profundezas, um enorme complexo de cavernas recheado com perigos de todo tipo a cada canto. Nas áreas superiores, você pode ser capaz de encontrar o Vale Viçoso, um pequeno oasis verde nas Profundezas onde a Argila Caulim pode spawnar. Entretanto, um certo monstro pode a estar guardando...!\n\nJá que você já está por aqui, você poderia tentar procurar por Antracito, um excelente combustível para fabricação de aço.\n\nSobreviver nas Profundezas é difícil, então cheque a seção \"Dicas para o TerraFirmaGreg\" deste livro de quests e o Guia de Campo para mais informações.",
     "quests.metal_age.beneath_kaolin.task": "Atravesse a Bedrock da Superfície e alcance as Profundezas",
 
     "quests.metal_age.overworld_graphite.title": "Fonte de Grafite: Superfície",
@@ -69,18 +69,18 @@
     "quests.metal_age.beneath_graphite.desc": "Fundo, BEM FUNDO no subterrâneo, após a Bedrock, você encontrará As Profundezas, um enorme complexo de cavernas recheado com perigos de todo tipo a cada canto. Lá em baixo nas Profundezas, você pode encontrar enormes veios altos de Grafite, mas um certo monstro pode os estar guardando...!\n\nJá que você já está por aqui, você poderia tentar procurar por Antracito, um excelente combustível para fabricação de aço.\n\nSobreviver nas Profundezas é difícil, então cheque a seção \"Dicas para o TerraFirmaGreg\" deste livro de quests e o Guia de Campo para mais informações.",
     "quests.metal_age.beneath_graphite.task": "Atravesse a Bedrock da Superfície e alcance as Profundezas",
 
-    "quests.metal_age.kaolin_clay.title": "Argila Caolim",
+    "quests.metal_age.kaolin_clay.title": "Argila Caulim",
     "quests.metal_age.kaolin_clay.subtitle": "Tropa Caulinita 2: O Inimigo Agora é Outro",
-    "quests.metal_age.kaolin_clay.desc": "Uma vez que você encontrar a Argila Caolim, você deveria trazer de voltar o máximo que você puder carregar! Infelizmente, só 20% de tudo o que você pegar vai ser bem sucedido em queimar e se tornar Caulinita Triturada, então é recomendado queimá-las onde quer que as encontrar, com vasos em fornos de cova, pra economizar espaço de inventário.\n\nDepois de criar o Cadinho e o Alto-Forno, você não vai precisar de muito mais dela, mas ainda é uma boa ideia trazer pra casa mais do que você acha que vai precisar, pra evitar repetir a viagem.\n\nP.S: Se você encontrou Lírios de Sangue mas nenhuma argila, tente cavar um pouco mais fundo! Algumas vezes ela spawna um pouco subterrânea.",
+    "quests.metal_age.kaolin_clay.desc": "Uma vez que você encontrar a Argila Caulim, você deveria trazer de voltar o máximo que você puder carregar! Infelizmente, só 20% de tudo o que você pegar vai ser bem sucedido em queimar e se tornar Pó de Caulinita, então é recomendado queimá-las onde quer que as encontrar, com vasos em fornos de cova, pra economizar espaço de inventário.\n\nDepois de criar o Cadinho e o Alto-Forno, você não vai precisar de muito mais dela, mas ainda é uma boa ideia trazer pra casa mais do que você acha que vai precisar, pra evitar repetir a viagem.\n\nP.S: Se você encontrou Lírios de Sangue mas nenhuma argila, tente cavar um pouco mais fundo! Algumas vezes ela spawna um pouco subterrânea.",
 
     "quests.metal_age.graphite.title": "Grafite",
     "quests.metal_age.graphite.subtitle": "Lápis não existem",
-    "quests.metal_age.graphite.desc": "Uma vez que você encontrar grafite, você deveria trazer de volta tanto quanto você puder! Mesmo que você não vá precisar de tanto quanto você vai precisar de Argila Caolim.\nVeios de Grafite também são ricos em Carvão e Diamantes, e você vai querer o carvão pra produção de Aço muito em breve.",
+    "quests.metal_age.graphite.desc": "Uma vez que você encontrar grafite, você deveria trazer de volta tanto quanto você puder! Mesmo que você não vá precisar de tanto quanto você vai precisar de Argila Caulim.\nVeios de Grafite também são ricos em Carvão e Diamantes, e você vai querer o carvão pra produção de Aço muito em breve.",
     "quests.metal_age.graphite.task": "Qualquer forma de Grafite",
 
     "quests.metal_age.fire_clay.title": "Argila Refratária",
     "quests.metal_age.fire_clay.subtitle": "Finalmente ela",
-    "quests.metal_age.fire_clay.desc": "Queime a Argila Caolim para conseguir Caulinita Triturada. Você pode usar uma forja para aquecê-las individualmente, mas queimar grandes fornadas dentro de vasos pequenos em um Forno de Cova pode ser mais rápido.\n\nQuanto ao Grafite, processe o minério normalmente, e então moa o Pó de Grafite outra vez para conseguir Grafite Triturado.\n\nFinalmente, combine 4 Grafites triturados, 4 Caulinitas Trituradas e 1 Argila para criar a Argila Refratária.",
+    "quests.metal_age.fire_clay.desc": "Queime a Argila Caulim para conseguir Pó de Caulinita. Você pode usar uma forja para aquecê-las individualmente, mas queimar grandes fornadas dentro de vasos pequenos em um Forno de Cova pode ser mais rápido.\n\nQuanto ao Grafite, processe o minério normalmente, e então moa o Pó de Grafite outra vez para conseguir Grafite Triturado.\n\nFinalmente, combine 4 Grafites Triturados, 4 Pós de Caulinitas e 1 Argila para criar a Argila Refratária.",
 
     "quests.metal_age.fire_clay_products.title": "Produtos de Argila Refratária",
     "quests.metal_age.fire_clay_products.subtitle": "Argila Extremamente Termorresistente",
@@ -100,7 +100,7 @@
 
     "quests.metal_age.blast_furnace_fuel.title": "Combustível para o Alto-Forno",
     "quests.metal_age.blast_furnace_fuel.subtitle": "Espero que você tenha seguido as dicas das quests de antes...",
-    "quests.metal_age.blast_furnace_fuel.desc": "Carvão Vegetal comum não é quente o suficiente para conseguir criar Aço. Você vai precisar ou de Coque ou de Antracito.\n\nCoque pode ser criado colocando Carvão em um Forno de Coque, enquanto Antracito pode ser usado do jeitinho que ele é após ser escavado das Profundezas.",
+    "quests.metal_age.blast_furnace_fuel.desc": "Carvão Vegetal comum não é quente o suficiente para conseguir criar Aço. Você vai precisar ou de Coque ou de Antracito.\n\nCoque pode ser criado colocando Carvão Mineral em um Forno de Coque, enquanto Antracito pode ser usado do jeitinho que ele é após ser escavado das Profundezas.",
 
     "quests.metal_age.blast_furnace.title": "Alto-Forno",
     "quests.metal_age.blast_furnace.subtitle": "E só então eu comecei a Fornar no Alto",
@@ -158,7 +158,7 @@
     "quests.metal_age.highcarb_red_steel.desc": "Aço Rubro começa primeiro como Aço Rubro de Alto Carbono, o qual é feito fundindo Aço Rubro Fraco e Aço Negro. Após isso, ele precisa ser trabalhado em uma Bigorna para forjá-lo em Aço Rubro.",
 
     "quests.metal_age.highcarb_blu_steel.title": "Ingredientes para o Aço Azul",
-    "quests.metal_age.highcarb_blu_steel.subtitle": "Lavoisier ta se debatendo no caixão",
+    "quests.metal_age.highcarb_blu_steel.subtitle": "Lavoisier tá se debatendo no caixão",
     "quests.metal_age.highcarb_blu_steel.desc": "Aço Azul começa primeiro como Aço Azul de Alto Carbono, o qual é feito fundindo Aço Azul Fraco e Aço Negro. Após isso, ele precisa ser trabalhado em uma Bigorna para forjá-lo em Aço Azul.",
 
     "quests.metal_age.redblu_anvil.title": "Bigorna N6: Aço Rubro ou Azul",
@@ -171,7 +171,7 @@
 
     "quests.metal_age.redblu_buckets.title": "Componentes do Balde",
     "quests.metal_age.redblu_buckets.subtitle": "Reator de Fusão Baldear",
-    "quests.metal_age.redblu_buckets.desc": "A tarefa final na Idade da Metalurgia é criar um Balde. Diferente do balde de madeira e outros recipientes de fluido que você esteve usando até agora, o Balde pode ser usado para carregar Lava e mover blocos de fonte de outros fluidos por aí.",
+    "quests.metal_age.redblu_buckets.desc": "A tarefa final na Idade da Metalurgia é criar um Balde. Diferente do balde de madeira e outros recipientes de fluido que você esteve usando até agora, o Balde pode ser usado para carregar Lava e mover blocos-fonte de outros fluidos por aí.",
 
     "quests.metal_age.this_is_a_bucket.title": "Isso é... o Balde.",
     "quests.metal_age.this_is_a_bucket.subtitle": "Pelos Deuses...",

@@ -4,7 +4,7 @@
 
 	"quests.steam_age.basic_greate.title": "Noções Básicas de Greate",
 	"quests.steam_age.basic_greate.subtitle": "Cansado do Create? Isso vai deixar tudo mais interessante",
-	"quests.steam_age.basic_greate.desc": "Greate é uma fusão entre &3Create&r e &3GregTech&r, trazendo versões com níveis diferentes das máquinas do Create. Ele também introduz limites de estresse em Eixos e Rodas Dentadas, então você precisará planejar melhor como alimenta suas máquinas!\n\nDe forma geral, será melhor fazer montagens menores com suas próprias fontes de energia, em vez de conectar uma massa de rodas d’água em um único eixo para toda a base, como no Create tradicional.",
+	"quests.steam_age.basic_greate.desc": "Greate é uma fusão entre o &3Create&r e o &3GregTech&r, trazendo versões com níveis diferentes das máquinas do Create. Ele também introduz limites de estresse em Eixos e Rodas Dentadas, então você precisará planejar melhor como alimenta suas máquinas!\n\nDe forma geral, será melhor fazer montagens menores com suas próprias fontes de energia, em vez de conectar uma massa de rodas d'água em um único eixo para toda a base, como no Create tradicional.",
 
 	"quests.steam_age.create_tools.title": "Ferramentas de Trabalho",
 	"quests.steam_age.create_tools.subtitle": "Essas podem ser úteis",
@@ -36,8 +36,8 @@
 	"quests.steam_age.helve_hammer.desc": "Está cansado de fazer placas para a Forja Catalã? O &3Martinete&r achata lingotes duplos automaticamente (mas lentamente) em placas. Você ainda terá que fazer as soldagens manualmente. Coloque uma bigorna sob o martinete, jogue os lingotes sobre ela e clique com o botão direito no martinete para pegar as placas.\n\nBigornas de nível superior exigem menos batidas para formar placas do nível anterior.",
 
 	"quests.steam_age.water_wheel.title": "Rodas D'Água",
-	"quests.steam_age.water_wheel.subtitle": "Tomara que tenha feito base perto do rio!",
-	"quests.steam_age.water_wheel.desc": "Rodas d’água geram mais energia que a Manivela de Tração, mas exigem água corrente. Você ainda não consegue mover fontes de água, então você vai precisar encontrar um rio ou cachoeira para usá-las.\n\nVocê pode obter madeira tratada embebendo tábuas em creosoto vindo do Forno de Coque.",
+	"quests.steam_age.water_wheel.subtitle": "Tomara que tenha feito sua base perto do rio!",
+	"quests.steam_age.water_wheel.desc": "Rodas d'água geram mais energia que a Manivela de Tração, mas exigem água corrente. Você ainda não consegue mover fontes de água, então você vai precisar encontrar um rio ou cachoeira para usá-las.\n\nVocê pode obter madeira tratada embebendo tábuas em creosoto vindo do Forno de Coque.",
 
 	"quests.steam_age.windmill.title": "Moinhos de Vento",
 	"quests.steam_age.windmill.subtitle": "Combinam com tulipas",
@@ -57,7 +57,7 @@
 
 	"quests.steam_age.chute.title": "Logística Primitiva",
 	"quests.steam_age.chute.subtitle": "Infraestrutura pública para seus itens",
-	"quests.steam_age.chute.desc": "Agora você pode transportar itens! Calhas funcionam como funis mais baratos, mas só movem itens para baixo. Elas e os funis também podem empurrar itens para Tubos de Itens.\n\nFunis são similares porém melhores se usados com Correias Transportadoras do que com Tubos de Itens.",
+	"quests.steam_age.chute.desc": "Agora você pode transportar itens! Calhas funcionam como funis mais baratos, mas só movem itens para baixo. Elas e os funis também podem empurrar itens para Tubos de Itens.\n\nFunis são similares porém melhores se usados com Esteiras do que com Tubos de Itens.",
 
 	"quests.steam_age.item_pipes.title": "Tubos de Itens",
 	"quests.steam_age.item_pipes.subtitle": "Não são tão legais quanto os Conduítes de Itens",
@@ -66,8 +66,8 @@
 	"quests.steam_age.item_pipes.desc.3": "No momento, você pode usá-los em conjunto com &6Calhas&r e &6Funis&r, mas também poderá usá-los com Módulos de Esteira, Saídas Automáticas e Máquinas com Saída Automática na era LV.\n\n&9Nota:&r Tubos no estilo do GT6 estão &dativados&r. Isso significa que, ao colocar os tubos, eles se conectam apenas ao bloco onde foram colocados. Para abrir mais conexões, use sua &5Chave Inglesa&r na grade.\n\nObtenha &equalquer&r um dos Tubos de Itens sugeridos para completar esta missão.",
 	"quests.steam_age.item_pipes.desc.4": "&l&3Curiosidade:&r&o Oooooh, ISSO! Tubos de Itens existiam no GregTech 5, e por algum motivo foram deixados de fora do GTCE, então era preciso usar outros mods para transportar itens. Quem faz isso!? Brincadeiras à parte, esperamos que aproveite os Tubos de Itens de volta no GregTech!",
 
-	"quests.steam_age.steel_greate.title": "Greate de Aço",
-	"quests.steam_age.steel_greate.subtitle": "Greate tão bom que fizeram o Greate 2",
+	"quests.steam_age.steel_greate.title": "Greate Nível Aço",
+	"quests.steam_age.steel_greate.subtitle": "Greate é tão bom que fizeram o Greate 2",
 	"quests.steam_age.steel_greate.desc": "Bem-vindo ao próximo nível do Greate! Eixos e Rodas Dentadas de Aço aguentam quatro vezes mais estresse que os anteriores. O limite total de estresse de um sistema cinético é determinado pelo elo mais fraco, então você precisará substituir sua estrutura antiga para aproveitar os benefícios. Pelo menos algumas peças antigas podem ser recicladas!",
 
 	"quests.steam_age.steel_encased_fan.title": "Ventilador Encapsulado",
@@ -76,7 +76,7 @@
 
 	"quests.steam_age.steel_millstone.title": "Moinho de Aço",
 	"quests.steam_age.steel_millstone.subtitle": "Um upgrade que vale a pena",
-	"quests.steam_age.steel_millstone.desc": "Com uma capacidade cinética muito maior, o moinho de aço é uma atualização significativa da versão básica, permitindo uma rotação muito mais rápida e, portanto, esmagamento mais eficiente. Um ótimo upgrade para lidar com todos os novos minérios que você encontrará em breve!\n\nMais uma vez, ela só gera saída no primeiro slot no JEI.",
+	"quests.steam_age.steel_millstone.desc": "Com uma capacidade cinética muito maior, o moinho de aço é uma atualização significativa da versão básica, permitindo uma rotação muito mais rápida e, portanto, trituração mais eficiente. Um ótimo upgrade para lidar com todos os novos minérios que você encontrará em breve!\n\nMais uma vez, ela só gera saída no primeiro slot no JEI.",
 
 	"quests.steam_age.steel_pump.title": "Manuseio de Fluidos",
 	"quests.steam_age.steel_pump.subtitle": "Delicioso espaquete de tubos",
@@ -85,7 +85,7 @@
 	"quests.steam_age.steel_pump.desc.3": "Já os tubos do GregTech possuem capacidade interna e não precisam de bomba quando já há fluido dentro. Assim como os Tubos de Itens, suas conexões podem ser controladas com clique direito agachado usando a mão vazia. Recomendamos fazer isso em todos os tubos para evitar fluido indo na direção errada.\n\nSua bomba mecânica e os tubos do GregTech não estão se conectando? Gire a bomba duas vezes com a chave inglesa — isso deve resolver.",
 
 	"quests.steam_age.mold_table.title": "Automação do Alto-forno",
-	"quests.steam_age.mold_table.subtitle": "O Alto-forno Eletrico ainda está longe",
+	"quests.steam_age.mold_table.subtitle": "O Alto-forno Elétrico ainda está longe",
 	"quests.steam_age.mold_table.desc.1": "Você vai precisar de &3toneladas&r de aço por um bom tempo, então automatizar seu alto-forno será um ótimo investimento. A Bomba Mecânica pode puxar fluido diretamente do alto-forno (muito mais rápido do que deixar escorrer em um cadinho) para uma Mesa de Moldes, resfriando os lingotes instantaneamente! Em seguida, use uma Calha ou Funil abaixo da mesa para extrair os lingotes. A partir daí, envie o Ferro-Gusa para o Martinete.",
 	"quests.steam_age.mold_table.desc.2": "Se quiser, também pode usar uma Calha para alimentar automaticamente o alto-forno de cima, e um Implantador para operar os foles. Usar demais os foles desgasta rapidamente seu Tuyere, mas os Tubos de Itens podem inserir um novo automaticamente.\n\nVocê também pode usar uma bomba para extrair tanto do alto-forno quanto do cadinho, usando uma Válvula de Fluido para pausar a bomba enquanto estiver fazendo a liga e reativá-la depois.",
 
@@ -98,7 +98,6 @@
 	"quests.steam_age.fluid_drums.subtitle": "Eu acho que um barril de madeira não aguenta aço derretido",
 	"quests.steam_age.fluid_drums.desc.1": "&6TFG&r pode rapidamente ficar &4esmagador&r com a infinidade de fluidos que ele introduz, você pode estar procurando uma maneira de armazená-los.\n\nApresentando... &aTambores&r! Eles têm grandes capacidades internas e qualquer &aTambor&r pode ser quebrado e recolhido, &dmantendo o fluido&r dentro. Um clique com o botão direito do mouse com uma chave de fenda permite que um Tambor drene seu conteúdo para outro recipiente colocado abaixo dele.",
 	"quests.steam_age.fluid_drums.desc.2": "&l&3Curiosidade:&r&o Esses tambores são, na verdade, trazidos do GregTech 6.",
-
 
 	"quests.steam_age.boilers.title": "Caldeiras a Vapor",
 	"quests.steam_age.boilers.subtitle": "Sala de Vapor Portátil",
@@ -116,7 +115,7 @@
 
 	"quests.steam_age.steam_oven.title": "Forno a Vapor",
 	"quests.steam_age.steam_oven.subtitle": "O irmão mais velho do Moedor a Vapor",
-	"quests.steam_age.steam_oven.desc.1": "&ou...ou irmão mais novo. Não deixe que ele saiba!&r\n\nO &3Forno a Vapor&r é uma ótima opção multibloco se você precisa &6fundir grandes quantidades de itens sem esforço.&r Chega de fileiras de fornalhas que você precisa esvaziar e reabastecer manualmente!\n\nEle se comporta efetivamente como uma fornalha paralela, fundindo até 8 itens por vez por um baixo custo de Vapor.",
+	"quests.steam_age.steam_oven.desc.1": "&o...ou irmão mais novo. Não deixe que ele saiba!&r\n\nO &3Forno a Vapor&r é uma ótima opção multibloco se você precisa &6fundir grandes quantidades de itens sem esforço.&r Chega de fileiras de fornalhas que você precisa esvaziar e reabastecer manualmente!\n\nEle se comporta efetivamente como uma fornalha paralela, fundindo até 8 itens por vez por um baixo custo de Vapor.",
 	"quests.steam_age.steam_oven.desc.2": "&l&Curiosidade:&r&o Este Multibloco - apesar de ser muito semelhante ao seu irmão, o Moedor a Vapor - não é trazido de uma versão ou complemento da GregTech. Seu verdadeiro progenitor é o Forno a Vapor do Railcraft, que remonta à versão 1.4.7!",
 
 	"quests.steam_age.steam_macerator.title": "Macerador a Vapor",
@@ -187,6 +186,14 @@
 	"quests.steam_age.steam_engine.subtitle": "Hora de um verdadeiro poder de vapor",
 	"quests.steam_age.steam_engine.desc": "Rodas d'água e moinhos de vento não são mais suficientes? Não seria uma era do vapor sem uma máquina a vapor de verdade! Cada máquina a vapor pode gerar 256 SU, dando a você muito mais potência para explorar. Queimadores de Blaze podem ser criados sem sair de casa, e você pode usar um Braço Mecânico para alimentá-los automaticamente com combustível sólido ou combustível líquido em um balde (como creosoto). Gemas de Carvão, Antracito e Coque também podem ser usados para superaquecê-los.",
 
+	"quests.steam_age.fuel_sources.title": "Mais Fontes de Combustível",
+	"quests.steam_age.fuel_sources.subtitle": "Colocando o poder na força do vapor",
+	"quests.steam_age.fuel_sources.desc": "A máquina a vapor pode aceitar mais combustíveis líquidos do que a Caldeira de Líquidos de Alta Pressão. Embora Creosoto ou Lava sejam os mais fáceis de configurar neste momento, você também pode se interessar por diversos óleos vegetais, como o &eÓleo de Semente&r de girassol ou canola. Creosoto e Lava também não escalam muito bem em níveis mais avançados, enquanto Biocombustível pode ser transformado em Diesel e, em seguida, Diesel Impulsionado por Cetano, então comece a preparar um grande campo para óleos vegetais agora, se isso lhe parece interessante!",
+
+	"quests.steam_age.straw.title": "Valores de Combustível Líquido",
+	"quests.steam_age.straw.subtitle": "Porque o mod tá com uma aba faltando no JEI",
+	"quests.steam_age.straw.desc": "Combustíveis líquidos canalizados darão a você aproximadamente a mesma quantidade de energia que se você usasse uma turbina a vapor GregTech ou um gerador de combustão, mas aqui estão os números exatos, já que não são visíveis no JEI:\n\n- Vapor: 128 mB por tique\n- Creosoto: 25 mB por 88 tiques\n- Lava: 1 mB por 20 tiques\n\n- Biomassa: 5 mB por 70 tiques\n- Óleo de Semente, Soja, Oliva e Peixe: 25 mB por 88 tiques\n\n- Combustível pesado: 2 mB por 210 tiques\n- Combustível pesado sulfúrico: 5 mB por 80 tiques\n- Óleo: 32 mB por 90 tiques\n- Óleo pesado: 5 mB por 88 tiques",
+
 	"quests.steam_age.deployers.title": "Implantadores",
 	"quests.steam_age.deployers.subtitle": "Linha de Montagem Primitiva",
 	"quests.steam_age.deployers.desc": "Embora você possa usar um único implantador pelo resto do seu tempo neste capítulo, nós realmente não recomendamos. Configurar uma linha de implantadores ao longo de uma esteira economizará muito tempo e sanidade, e você também não desperdiçará materiais, pois sempre poderá reutilizá-los para aprimorar sua fazenda de árvores mais tarde. Isso também tornará os tubos de elétrons significativamente mais baratos!",
@@ -229,7 +236,7 @@
 
 	"quests.steam_age.curving_press.title": "Prensa Curvadora",
 	"quests.steam_age.curving_press.subtitle": "Tão nichada quanto a Extrusora LV",
-	"quests.steam_age.curving_press.desc": "A &3Prensa Curvadora&r pode fazer todas as mesmas receitas que uma Extrusora LV. Infelizmente, nenhuma delas faz muita coisa, já que a extrusora só se torna útil mesmo na Era de Média Voltagem. Ainda assim, se quiser fabricar várias pontas de ferramentas em massa, essa máquina dá conta do recado.",
+	"quests.steam_age.curving_press.desc": "A &3Prensa Curvadora&r pode fazer todas as mesmas receitas que uma Extrusora LV. Infelizmente, nenhuma delas faz muita coisa, já que a extrusora só se torna útil mesmo na Era de Média Voltagem. Ainda assim, se quiser fabricar várias cabeças de ferramentas em massa, essa máquina dá conta do recado.",
 
 	"quests.steam_age.vibrating_table.title": "Mesa Vibratória",
 	"quests.steam_age.vibrating_table.subtitle": "Idêntica à Peneira LV",
@@ -277,5 +284,18 @@
 	"quests.steam_age.alternator.title": "Alternadores",
 	"quests.steam_age.alternator.subtitle": "Transformando estresse em energia",
 	"quests.steam_age.alternator.desc.1": "Se você montou uma grande estrutura a vapor, provavelmente não quer desmontar tudo só para voltar a usar caldeiras e Turbinas de Vapor LV. Em vez disso, o &3Alternador&r converte a força (SU) dos motores a vapor em eletricidade. Cada motor a vapor + alternador deve gerar 1A de LV! Infelizmente, os alternadores geram energia em um sistema diferente do usado pelo GregTech, então você vai precisar de um Conversor de Energia para transformá-la em energia LV utilizável.",
-	"quests.steam_age.alternator.desc.2": "Um exemplo de motor a vapor produzindo 8 amperes de LV!\n"
+	"quests.steam_age.alternator.desc.2": "Um exemplo de motor a vapor produzindo 8 amperes de LV!\n",
+
+	"quests.steam_age.packager.title": "Logística do Create",
+	"quests.steam_age.packager.subtitle": "\"Nós temos AE2 em casa\"",
+	"quests.steam_age.packager.desc": "O seu peitoral gigante está começando a crescer descontroladamente? Agora você tem acesso ao sistema de Logística da Create! Confira o capítulo &3Logística do Create&r para saber como começar.",
+
+	"quests.steam_age.basic_mech_press.title": "Prensa Mecânica Básica",
+	"quests.steam_age.basic_mech_press.subtitle": "Máquina de Solda Automática",
+	"quests.steam_age.basic_mech_press.desc": "Se você detesta soldar coisas repetidamente, esta máquina pode fazer isso por você. Basta colocar a Bacia sobre a sua forja de carvão, certificar-se de que a temperatura da forja esteja em Amarelo ou acima e, em seguida, colocar os itens na Bacia. Infelizmente, isso é tudo o que a máquina básica consegue fazer.",
+
+	"quests.steam_age.steel_mech_press.title": "Prensa Mecânica de Aço",
+	"quests.steam_age.steel_mech_press.subtitle": "Quase um Martelo de Forja",
+	"quests.steam_age.steel_mech_press.desc.1": "O Martelo de Forja a Vapor de Alta Pressão está logo ali e pode fazer quase tudo o que esta máquina faz, mas se você está desesperado por receitas de soldagem automática de nível superior, esta é a sua chance. Se você não conhece o Martelo de Forja, tanto ele quanto a Prensa Mecânica de Aço podem triturar minérios (sem subprodutos), transformar rocha em pedregulho, em cascalho e em areia e rachar tijolos. No entanto, apenas o Martelo de Forja pode fornecer uma receita &3mais barata para chapas de metal&r...",
+	"quests.steam_age.steel_mech_press.desc.2": "&l&3Lore:&r&o A Prensa Mecânica do Create costumava ser uma peça-chave na progressão da era do vapor tardia antes da versão 0.9 do TerraFirmaGreg, porque produzia placas em uma proporção ainda melhor de 5 para 4. No entanto, sua implementação era, na verdade, \"20 por cento das vezes, você não ganha nada\", o que fez com que muitas pessoas proclamassem o quanto amavam  ficar apostando enquanto a usavam."
 }
