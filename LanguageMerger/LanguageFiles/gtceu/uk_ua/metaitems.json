@@ -1,8 +1,8 @@
 {
 	"metaitem.dust.tooltip.purify": "Киньте у воду, щоб отримати чистий пил",
 	"metaitem.crushed.tooltip.purify": "Киньте у воду, щоб отримати очищену руду",
-	"item.gtceu.tool.behavior.silk_ice": "Шовк збирає упакований лід",
-	"item.gtceu.tool.butchery_knife.tooltip": "Забиває тварин для отримання більшої кількості м’яса",
+	"item.gtceu.tool.behavior.silk_ice": "§dСкульптор:§r Шовк збирає ущільнений лід",
+	"item.gtceu.tool.butchery_knife.tooltip": "§cМ’ясник:§r Забиває тварин для отримання більшої кількості м’яса",
 	"gtceu.machine.lp_steam_extractor.tooltip": "§7Не видобуває рідини",
 	"gtceu.machine.hp_steam_extractor.tooltip": "§7Не видобуває рідини",
 	"gtceu.jei.bedrock_fluid.moon_helium": "Місячний Гелій",
@@ -10,11 +10,5 @@
 	"gtceu.jei.bedrock_fluid.moon_argon": "Місячний Аргон",
 	"gtceu.jei.bedrock_fluid.semiheavy_ammoniacal_water": "Марсіанська Напівважка Амоніачна Вода",
 	"gtceu.jei.bedrock_fluid.liquid_carbon_dioxide": "Марсіанський Рідкий Діоксид Карбону",
-	"gtceu.jei.bedrock_fluid.heavy_ammoniacal_water_amber_hills": "Марсіанська Важка Амоніачна Вода",
-	"gtceu.jei.bedrock_fluid.heavy_ammoniacal_water_amber_plains": "Марсіанська Важка Амоніачна Вода",
-	"gtceu.jei.bedrock_fluid.heavy_ammoniacal_water_mountains": "Марсіанська Важка Амоніачна Вода",
-	"gtceu.jei.bedrock_fluid.heavy_ammoniacal_water_rusticus_hills": "Марсіанська Важка Амоніачна Вода",
-	"gtceu.jei.bedrock_fluid.heavy_ammoniacal_water_rusticus_plains": "Марсіанська Важка Амоніачна Вода",
-	"gtceu.jei.bedrock_fluid.heavy_ammoniacal_water_sangnum_hills": "Марсіанська Важка Амоніачна Вода",
-	"gtceu.jei.bedrock_fluid.heavy_ammoniacal_water_sangnum_plains": "Марсіанська Важка Амоніачна Вода"
+	"gtceu.jei.bedrock_fluid.heavy_ammoniacal_water": "Марсіанська важка аміачна вода"
 }
