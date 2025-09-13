@@ -1,5 +1,5 @@
 {
-	"__comment__": "DO NOT TRANSLATE THIS FILE. Translate the OresToFieldGuide/data/veins files instead."
+	"__comment__": "DO NOT TRANSLATE THIS FILE. Translate the OresToFieldGuide/data/veins files instead.",
 	"ore_vein.tfg.deep_sheldonite": "Cooperita e Bornita",
 	"ore_vein.tfg.deep_garnet_amethyst": "Ametista e Granada",
 	"ore_vein.tfg.deep_garnet_opal": "Opala e Granada",
@@ -69,11 +69,11 @@
 	"ore_vein.tfg.mars_sulfur": "Esfalerita e Pirita",
 	"ore_vein.tfg.mars_tantalite": "Manganês e Tântalo",
 	"ore_vein.tfg.mars_tungsten": "Sheelita e Tungstato",
-	"ore_vein.tfg.surface_bismuthinite": "Bismuto",
-	"ore_vein.tfg.surface_cassiterite": "Cassiterita",
-	"ore_vein.tfg.surface_hematite": "Hematita e Limonita",
-	"ore_vein.tfg.surface_nickel_galena": "Sphalerite & Galena",
-	"ore_vein.tfg.surface_tetrahedrite": "Tetraedrita (Superfície)",
+	"ore_vein.tfg.mars_surface_bismuthinite": "Bismuto",
+	"ore_vein.tfg.mars_surface_cassiterite": "Cassiterita",
+	"ore_vein.tfg.mars_surface_hematite": "Hematita e Limonita",
+	"ore_vein.tfg.mars_surface_nickel_galena": "Sphalerite & Galena",
+	"ore_vein.tfg.mars_surface_tetrahedrite": "Tetraedrita (Superfície)",
 	"ore_vein.tfg.moon_apatite": "Apatita e Pirocloro",
 	"ore_vein.tfg.moon_bauxite": "Bauxita e Ilmenita",
 	"ore_vein.tfg.moon_beryllium": "Esmeralda e Berílio",

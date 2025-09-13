@@ -1,5 +1,5 @@
 {
-	"__comment__": "DO NOT TRANSLATE THIS FILE. Translate the OresToFieldGuide/data/veins files instead."
+	"__comment__": "DO NOT TRANSLATE THIS FILE. Translate the OresToFieldGuide/data/veins files instead.",
 	"ore_vein.tfg.deep_sheldonite": "硫铂矿, 斑铜矿",
 	"ore_vein.tfg.deep_garnet_amethyst": "紫水晶, 石榴石",
 	"ore_vein.tfg.deep_garnet_opal": "蛋白石, 石榴石",
@@ -69,11 +69,11 @@
 	"ore_vein.tfg.mars_sulfur": "闪锌矿, 黄铁矿",
 	"ore_vein.tfg.mars_tantalite": "锰矿, 钽矿",
 	"ore_vein.tfg.mars_tungsten": "白钨矿, 钨酸锂",
-	"ore_vein.tfg.surface_bismuthinite": "辉铋矿",
-	"ore_vein.tfg.surface_cassiterite": "锡石矿",
-	"ore_vein.tfg.surface_hematite": "赤铁矿, 褐铁矿",
-	"ore_vein.tfg.surface_nickel_galena": "闪锌矿, 方铅矿",
-	"ore_vein.tfg.surface_tetrahedrite": "黝铜矿 (地表)",
+	"ore_vein.tfg.mars_surface_bismuthinite": "辉铋矿",
+	"ore_vein.tfg.mars_surface_cassiterite": "锡石矿",
+	"ore_vein.tfg.mars_surface_hematite": "赤铁矿, 褐铁矿",
+	"ore_vein.tfg.mars_surface_nickel_galena": "闪锌矿, 方铅矿",
+	"ore_vein.tfg.mars_surface_tetrahedrite": "黝铜矿 (地表)",
 	"ore_vein.tfg.moon_apatite": "磷灰石, 烧绿石",
 	"ore_vein.tfg.moon_bauxite": "铝土矿, 钛铁矿",
 	"ore_vein.tfg.moon_beryllium": "绿宝石, 铍矿",

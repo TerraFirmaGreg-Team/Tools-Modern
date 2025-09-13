@@ -1,5 +1,5 @@
 {
-	"__comment__": "DO NOT TRANSLATE THIS FILE. Translate the OresToFieldGuide/data/veins files instead."
+	"__comment__": "DO NOT TRANSLATE THIS FILE. Translate the OresToFieldGuide/data/veins files instead.",
 	"ore_vein.tfg.deep_sheldonite": "Шелдонит и Борнит",
 	"ore_vein.tfg.deep_garnet_amethyst": "Аметист и гранат",
 	"ore_vein.tfg.deep_garnet_opal": "Опал и гранат",
@@ -69,11 +69,11 @@
 	"ore_vein.tfg.mars_sulfur": "Сфалерит & Пирит",
 	"ore_vein.tfg.mars_tantalite": "Марганец и Тантал",
 	"ore_vein.tfg.mars_tungsten": "Шеелит и Вольфрамат",
-	"ore_vein.tfg.surface_bismuthinite": "Висмут",
-	"ore_vein.tfg.surface_cassiterite": "Касситерит",
-	"ore_vein.tfg.surface_hematite": "Гематит и Лимонит",
-	"ore_vein.tfg.surface_nickel_galena": "Sphalerite & Galena",
-	"ore_vein.tfg.surface_tetrahedrite": "Тетраэдрит (Поверхностный)",
+	"ore_vein.tfg.mars_surface_bismuthinite": "Висмут",
+	"ore_vein.tfg.mars_surface_cassiterite": "Касситерит",
+	"ore_vein.tfg.mars_surface_hematite": "Гематит и Лимонит",
+	"ore_vein.tfg.mars_surface_nickel_galena": "Sphalerite & Galena",
+	"ore_vein.tfg.mars_surface_tetrahedrite": "Тетраэдрит (Поверхностный)",
 	"ore_vein.tfg.moon_apatite": "Апатит и Пирохлор",
 	"ore_vein.tfg.moon_bauxite": "Боксит и Ильменит",
 	"ore_vein.tfg.moon_beryllium": "Изумруд и Бериллий",
