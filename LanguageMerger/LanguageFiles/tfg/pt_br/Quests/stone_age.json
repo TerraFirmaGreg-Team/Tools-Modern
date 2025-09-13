@@ -10,7 +10,7 @@
     "quests.stone_age.nutrition.subtitle": "Como assim eu não posso viver só de bife?",
     "quests.stone_age.nutrition.desc": "Cada alimento básico em TerraFirmaGreg possui um valor nutricional, dividido em 5 categorias: &lGrãos&r, &lFrutas&r, &lVegetais&r, &lProteínas&r e &lLaticínios&r.\n\nVocê até pode comer só um tipo de nutriente, como Proteína, mas sua vida máxima será reduzida. Já manter uma dieta balanceada permite alcançar uma vida máxima bem maior. Cada 100 de vida equivale a um coração.\n\nConfira a seção \"Comida e Água\" no guia de campo para mais detalhes.",
 
-    "quests.stone_age.cook_meat.title": "Cozinha Básica",
+    "quests.stone_age.cook_meat.title": "Culinária Básica",
     "quests.stone_age.cook_meat.subtitle": "Você não quer morrer comendo carne crua, né?",
     "quests.stone_age.cook_meat.desc": "Cozinhar carne crua é essencial para obter proteína, além de aumentar o tempo de conservação, também libera mais nutrientes para seu corpo exigente.\n\nA maneira mais simples de cozinhar carne é usando uma Fogueira. Veja a missão abaixo para aprender a fazer uma.",
 
@@ -59,13 +59,13 @@
     "quests.stone_age.water_jug.desc": "A Jarra de Cerâmica é o primeiro recipiente de líquidos que você pode fabricar, mas só armazena 100mB, ou seja, precisa ser recarregada a cada gole.\n\nA jarra é relativamente frágil e tem uma chance aleatória de quebrar ao ser usada para beber!",
 
     "quests.stone_age.temperature.title": "Clima",
-    "quests.stone_age.temperature.subtitle": "A previsão de hoje? Sofrimento.",
+    "quests.stone_age.temperature.subtitle": "Previsão para hoje? Sofrimento.",
     "quests.stone_age.temperature.desc": "Um novo mundo começa no início do verão, com cada mês durando 8 dias. As estações mudam, e com elas, a temperatura, o que afeta plantações, árvores frutíferas, arbustos... e você!\n\nA temperatura corporal precisa ser mantida estável. O pequeno triângulo entre sua vida e fome mostra a temperatura atual e para qual está indo. Segure Agachar para ver os números exatos — o número da esquerda é o quão molhado você está, o da direita é sua temperatura.",
     "quests.stone_age.temperature.task": "Existir",
 
     "quests.stone_age.insulation.title": "Mecânica: Temperatura Corporal",
     "quests.stone_age.insulation.subtitle": "Cuidado com a hipo- e hipertermia.",
-    "quests.stone_age.insulation.desc": "Muitos fatores afetam sua temperatura corporal — desde exposição ao sol direto, estar molhado, até ficar perto do fogo. Você precisa manter a temperatura entre 0 e 30 °C, ou sofrerá dano, indicado por um efeito visual colorido.\n\nExistem várias formas de reduzir o impacto da temperatura ambiente e manter seu corpo estável, sendo que usar &lRoupas&r é uma das mais eficazes. Elas podem ser vestidas nos slots normais ou nos slots de curiosidades.",
+    "quests.stone_age.insulation.desc": "Muitos fatores afetam sua temperatura corporal — desde exposição ao sol direto, estar molhado, até ficar perto do fogo. Você precisa manter a temperatura entre 0 e 30 °C, ou sofrerá dano, indicado por um efeito visual colorido.\n\nExistem várias formas de reduzir o impacto da temperatura ambiente e manter seu corpo estável, sendo que usar &lRoupas&r é uma das mais eficazes. Elas podem ser vestidas nos slots normais ou nos slots de curiosidades.",
 
     "quests.stone_age.primitive_insulation.title": "Isolamento Primitivo",
     "quests.stone_age.primitive_insulation.subtitle": "Homem das Cavernas Chique",
@@ -85,29 +85,29 @@
 
     "quests.stone_age.burlap_clothes.title": "Roupas de Estopa",
     "quests.stone_age.burlap_clothes.subtitle": "Para quando o calor estiver demais",
-    "quests.stone_age.burlap_clothes.desc": "Estopa é feita de fibra de juta. A juta pode crescer na maioria dos climas mais quentes, desde que suas necessidades de temperatura e hidratação sejam atendidas.\n\nRoupas de estopa são ótimas para verões quentes ou certos outros ambientes quentes, mas falaremos mais sobre isso depois.",
+    "quests.stone_age.burlap_clothes.desc": "Estopa é feita de Fibra de Juta. A Juta pode crescer na maioria dos climas mais quentes, desde que suas necessidades de temperatura e hidratação sejam atendidas.\n\nRoupas de Estopa são ótimas para verões quentes ou certos outros ambientes quentes, mas falaremos mais sobre isso depois.",
 
     "quests.stone_age.silk_clothes.title": "Roupas de Seda",
     "quests.stone_age.silk_clothes.subtitle": "Sem bichos-da-seda, infelizmente!",
-    "quests.stone_age.silk_clothes.desc": "Seda é feita de fios de aranha, que podem ser difíceis de obter em grandes quantidades sem se aventurar em locais bem profundos.\n\nRoupas de seda são excelentes para ambientes extremamente quentes, como desertos ou as partes mais profundas do Subterrâneo.",
+    "quests.stone_age.silk_clothes.desc": "Seda é feita de Fio de Aranha, que podem ser difíceis de obter em grandes quantidades sem se aventurar em locais bem profundos.\n\nRoupas de seda são excelentes para ambientes extremamente quentes, como desertos ou as partes mais baixas das Profundezas.",
 
     "quests.stone_age.clothes.title": "Roupas",
     "quests.stone_age.clothes.subtitle": "Estiloso!",
-    "quests.stone_age.clothes.desc": "Usar roupas é uma forma fácil de lidar com temperaturas extremas. Roupas quentes como lã ou couro isolado são ótimas para ambientes frios, enquanto seda ou estopa são ideais para ambientes quentes.",
+    "quests.stone_age.clothes.desc": "Usar roupas é uma forma fácil de lidar com temperaturas extremas. Roupas quentes como Lã ou Couro Isolado são ótimas para ambientes frios, enquanto Seda ou Estopa são ideais para ambientes quentes.",
 
     "quests.stone_age.find_rock.title": "Encontre Algumas Pedras",
     "quests.stone_age.find_rock.subtitle": "Grug. Quebra. Pedra",
-    "quests.stone_age.find_rock.desc": "Ao começar sua jornada, a primeira coisa que você notará é um mundo completamente diferente. Você não pode mais quebrar árvores com as mãos, mas não se preocupe — nenhum homem das cavernas de verdade sobrevive sem suas ferramentas de pedra!\n\nEm vez de fabricar uma picareta de madeira, você pode simplesmente pegar pedras do chão. Comece coletando pelo menos 4 pedras. Você pode coletá-las quebrando ou clicando com o botão direito em pedras com a mão vazia.",
+    "quests.stone_age.find_rock.desc": "Ao começar sua jornada, a primeira coisa que você notará é um mundo completamente diferente. Você não pode mais quebrar árvores com as mãos, mas não se preocupe — nenhum homem das cavernas de verdade sobrevive sem suas ferramentas de pedra!\n\nEm vez de fabricar uma picareta de madeira, você pode simplesmente pegar pedras do chão. Comece coletando pelo menos 4 pedras. Você pode coletá-las quebrando ou clicando com o botão direito com a mão vazia.",
 
     "quests.stone_age.rock_knapping.title": "Lascando Pedras",
     "quests.stone_age.rock_knapping.subtitle": "Como nos velhos tempos do Paleolítico",
-    "quests.stone_age.rock_knapping.desc": "Pedras podem ser 'lascadas', o que é o processo de moldar um material bruto em uma forma utilizável batendo uma pedra contra a outra. A lasca de pedra requer pelo menos duas pedras, e ao segurá-las e clicar com o botão direito no ar, você abrirá a interface de lascagem. Então, você pode 'lascar' uma das pedras para criar uma cabeça de ferramenta de pedra. Todos os formatos de ferramentas estão no EMI e no Guia de Campo.\n\nAs duas ferramentas mais importantes para o início da sua jornada são a Faca de Pedra e o Machado de Pedra, então tente lascar essas cabeças de ferramentas.",
+    "quests.stone_age.rock_knapping.desc": "Pedras podem ser 'lascadas', o que é o processo de moldar um material bruto em uma forma utilizável batendo uma pedra contra a outra. A lasca de pedra requer pelo menos duas pedras, e ao segurá-las e clicar com o botão direito no ar, você abrirá a interface de lascagem. Então, você pode 'lascar' uma das pedras para criar uma cabeça de ferramenta de pedra. Todos os formatos de ferramentas estão no JEI e no Guia de Campo.\n\nAs duas ferramentas mais importantes para o início da sua jornada são a Faca de Pedra e o Machado de Pedra, então tente lascar essas cabeças de ferramentas.",
 
     "quests.stone_age.find_stick.title": "Encontre Alguns Gravetos",
     "quests.stone_age.find_stick.subtitle": "Você precisa segurar essa ferramenta de algum jeito",
     "quests.stone_age.find_stick.desc": "Outro item abundante no chão são gravetos, que têm muitos usos! Eles podem ser usados para criar ferramentas, tochas, acendedores e mais.\n\nPara evitar que seu inventário fique lotado com diferentes tipos de gravetos, você pode convertê-los em gravetos 'regulares' para empilhá-los juntos. Mais tarde, você poderá juntar nove gravetos em um Feixe, e o Feixe em um Fardo, que poderá ser usado como substituto da madeira em toras.",
 
-    "quests.stone_age.first_stone_tools.title": "Suas Primeiras Ferramentas",
+    "quests.stone_age.first_stone_tools.title": "Suas primeiras ferramentas",
     "quests.stone_age.first_stone_tools.subtitle": "Agora você é um macaco esperto",
     "quests.stone_age.first_stone_tools.desc": "Ao lascar pedras em formas utilizáveis, você pode combiná-las com um graveto para criar suas primeiras ferramentas básicas. Você oficialmente entrou na Idade da Pedra!\n\nPedras são suficientes para a sobrevivência básica, mas eventualmente você vai querer criar ferramentas de metal para ter mais velocidade, durabilidade e opções. As próximas duas missões vão te ajudar a coletar os itens necessários.",
 
@@ -126,7 +126,7 @@
     "quests.stone_age.firepit.title": "Fogueira",
     "quests.stone_age.firepit.subtitle": "A noite está chegando",
     "quests.stone_age.firepit.desc.1": "Agora que você tem algumas toras, é hora de construir sua primeira Fogueira! Embora monstros não apareçam na superfície à noite, predadores noturnos estarão acordados e à espreita.\n\nPrimeiro, será necessário criar um Acendedor, uma ferramenta que permite iniciar fogueiras.",
-    "quests.stone_age.firepit.desc.2": "Para criar sua Fogueira, jogue pelo menos uma Tora e até 3 gravetos no chão, depois acenda o bloco de baixo clicando com o botão direito e segurando com seu Acendedor. Você também pode adicionar Palha para facilitar.\n\nA fogueira não é apenas uma fonte de luz e calor, mas pode ser usada para acender tochas e cozinhar carne crua. Você pode manter sua fogueira acesa interagindo com ela e adicionando toras na interface. Se o fogo se apagar, basta adicionar mais toras e reacendê-la com o Acendedor.",
+    "quests.stone_age.firepit.desc.2": "Para criar sua Fogueira, jogue pelo menos uma Tora e até 3 gravetos no chão, depois acenda o bloco de baixo clicando com o botão direito e segurando com seu Acendedor. Você também pode adicionar Palha para facilitar.\n\nA Fogueira não é apenas uma fonte de luz e calor, mas pode ser usada para acender tochas e cozinhar carne crua. Você pode manter sua fogueira acesa interagindo com ela e adicionando toras na interface. Se o fogo se apagar, basta adicionar mais toras e reacendê-la com o Acendedor.",
 
     "quests.stone_age.find_clay.title": "Fontes de Argila",
     "quests.stone_age.find_clay.subtitle": "Você vai precisar de muita",
@@ -216,7 +216,7 @@
   
     "quests.stone_age.create_forge.title": "A Forja",
     "quests.stone_age.create_forge.subtitle": "O Fabric nem existe, aliás.",
-    "quests.stone_age.create_forge.desc": "A Forja é uma estação de criação de última geração usada para aquecer materiais a altas temperaturas. O tempo necessário para aquecer coisas na forja é consideravelmente menor do que no Forno de Cova, além de ser muito mais fácil de controlar.\n\nPara fazer a forja, você precisará de pelo menos 7 carvões e 5 blocos rochosos, como rocha bruta ou pedregulhos (cobblestone).\nA Forja não usa toras, e sim Carvão, Carvão Mineral ou Coque.\n\nConsulte o guia de campo para instruções sobre como fazer um Forno de Carvão e uma Forja de Carvão.",
+    "quests.stone_age.create_forge.desc": "A Forja é uma estação de criação de última geração usada para aquecer materiais a altas temperaturas. O tempo necessário para aquecer coisas na forja é consideravelmente menor do que no Forno de Cova, além de ser muito mais fácil de controlar.\n\nPara fazer a forja, você precisará de pelo menos 7 carvões e 5 blocos rochosos, como rocha bruta ou pedregulhos (cobblestone).\nA Forja não usa toras, e sim Carvão, Carvão Mineral ou Coque.\n\nConsulte o guia de campo para instruções sobre como fazer um Fosso de Carvão e uma Forja de Carvão.",
   
     "quests.stone_age.rock_anvil.title": "Bigorna de Pedra",
     "quests.stone_age.rock_anvil.subtitle": "Isso não vai durar muito",
@@ -224,15 +224,15 @@
   
     "quests.stone_age.quern.title": "Moenda e Pedra Manual",
     "quests.stone_age.quern.subtitle": "Seu primeiro passo no processamento de minério",
-    "quests.stone_age.quern.desc": "A Moenda e a Pedra Manual são duas grandes rochas que giram uma contra a outra para moer materiais. A peça de baixo é chamada de Moenda e a de cima, Pedra Manual. A Moenda pode ser usada para triturar seus minérios brutos em minério esmagado, rendendo uma quantidade ligeiramente maior em mB quando fundido.\n\nVocê também pode usar a Moenda para criar outros pós como Fluxo, Farinha e Farinha de Ossos.",
+    "quests.stone_age.quern.desc": "A Moenda e a Pedra Manual são duas grandes rochas que giram uma contra a outra para moer materiais. A peça de baixo é chamada de Moenda e a de cima, Pedra Manual. A Moenda pode ser usada para transformar seus minérios brutos em minério triturado, rendendo uma quantidade ligeiramente maior em mB quando fundido.\n\nVocê também pode usar a Moenda para criar outros pós como Fluxo, Farinha e Farinha de Ossos.",
   
     "quests.stone_age.crush_ore.title": "Processamento Inicial de Minérios - Parte 1",
     "quests.stone_age.crush_ore.subtitle": "Aproveitando mais dos seus minérios",
-    "quests.stone_age.crush_ore.desc": "A Moenda é apenas o primeiro passo no processamento de minérios! O processamento adequado de minérios é um sistema grande e complexo que você aprenderá com o tempo, e que pode ser usado para extrair muito mais metal utilizável e subprodutos de cada minério minerado. Por ora, vamos transformar os minérios brutos que você minerou em Minério Esmagado usando a Moenda. Só esse primeiro passo já aumenta a quantidade de mB que o minério renderá ao fundir.",
+    "quests.stone_age.crush_ore.desc": "A Moenda é apenas o primeiro passo no processamento de minérios! O processamento adequado de minérios é um sistema grande e complexo que você aprenderá com o tempo, e que pode ser usado para extrair muito mais metal utilizável e subprodutos de cada minério minerado. Por ora, vamos transformar os minérios brutos que você minerou em Minério Triturado usando a Moenda. Só esse primeiro passo já aumenta a quantidade de mB que o minério renderá ao derreter.",
   
     "quests.stone_age.crush_crushed_ore.title": "Processamento Inicial de Minérios - Parte 2",
     "quests.stone_age.crush_crushed_ore.subtitle": "Esmague com uma marreta",
-    "quests.stone_age.crush_crushed_ore.desc": "Combine o Minério Esmagado com uma marreta em uma grade de criação para transformá-lo em Pó Impuro, aumentando ainda mais sua produção de mB.\n\nPode parecer lento e tedioso por enquanto, mas logo você desbloqueará formas mais rápidas e automáticas de fazer isso!",
+    "quests.stone_age.crush_crushed_ore.desc": "Combine o Minério Triturado com uma marreta em uma grade de criação para transformá-lo em Pó Impuro, aumentando ainda mais sua produção de mB.\n\nPode parecer lento e tedioso por enquanto, mas logo você desbloqueará formas mais rápidas e automáticas de fazer isso!",
   
     "quests.stone_age.clean_dust.title": "Processamento Inicial de Minérios - Parte 3",
     "quests.stone_age.clean_dust.subtitle": "Lave esse pó sujo",
@@ -249,5 +249,4 @@
     "quests.metal_age.copper_anvil.title": "Bigorna Nível 1: Cobre",
     "quests.metal_age.copper_anvil.subtitle": "E tudo isso para chegarmos até aqui!",
     "quests.metal_age.copper_anvil.desc": "Parabéns! Você oficialmente terminou a Idade da Pedra e entrou na Idade do Metal! Com sua Bigorna de Cobre, o próximo passo é subir os Níveis de Bigorna. A cada novo nível desbloqueado, novas ferramentas e possibilidades se abrirão para tornar sua vida progressivamente mais fácil. Agora vá e torne-se um mestre ferreiro!"
-  
 }
