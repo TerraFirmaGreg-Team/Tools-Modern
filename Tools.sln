@@ -26,6 +26,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "AdvancedMultiblockConverter", "AdvancedMultiblockConverter\AdvancedMultiblockConverter.esproj", "{148881E3-972C-C85C-48DE-418CC336D6B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,12 @@ Global
 		{6CA31042-41E5-40BE-AA2D-AF25441EB763}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CA31042-41E5-40BE-AA2D-AF25441EB763}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CA31042-41E5-40BE-AA2D-AF25441EB763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{148881E3-972C-C85C-48DE-418CC336D6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148881E3-972C-C85C-48DE-418CC336D6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148881E3-972C-C85C-48DE-418CC336D6B9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{148881E3-972C-C85C-48DE-418CC336D6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148881E3-972C-C85C-48DE-418CC336D6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{148881E3-972C-C85C-48DE-418CC336D6B9}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
