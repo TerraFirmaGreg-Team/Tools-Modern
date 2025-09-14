@@ -146,6 +146,6 @@
 
     "quests.ore_proc.packer.title": "O Empacotador",
     "quests.ore_proc.packer.subtitle": "É muito rápido",
-    "quests.ore_proc.packer.desc": "Antigamente, no GregTech, esse garotinho mau era muito usado — você costumava obter uma tonelada de &6Pequenos&r e &6Pós Minúsculos&r do processamento de minério.\n\nHoje em dia, ele só é realmente útil para compactação automática, como &dTerras Raras&r em uma &6Centrífuga&r que retorna muitas &6Pequenas Pilhas de Pó&r.\n\nNão se esqueça: um &eBraço Robótico&r configurado para o modo Fornecer Exatamente pode ser útil para evitar obstruções nos slots de entrada.",
+    "quests.ore_proc.packer.desc": "Antigamente, no GregTech, esse garotinho mau era muito usado — você costumava obter uma tonelada de &6Pequenos&r e &6Pós Minúsculos&r do processamento de minério.\n\nHoje em dia, ele só é realmente útil para compactação automática, como &dTerras Raras&r em uma &6Centrífuga&r que retorna muitas &6Pequenas Pilhas de Pó&r.\n\nNão se esqueça: um &eBraço Robótico&r configurado para o modo Fornecer Exato pode ser útil para evitar obstruções nos slots de entrada.",
     "quests.ore_proc.packer.task": "Qualquer Empacotador"
 }

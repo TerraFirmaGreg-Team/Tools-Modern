@@ -312,7 +312,6 @@
 	"quests.low_voltage.cupronickel_ingot.subtitle": "It's an alloy",
 	"quests.low_voltage.cupronickel_ingot.desc": "&7A big part of progression in GregTech revolves around gaining access to new materials\nthat you'll use to upgrade your machines or unlock advanced components.&r\n\nThe first alloy you'll encounter is &bCupronickel&r — the beginning of a long journey.\nThis material is used to upgrade your &6Electric Blast Furnace&r, an essential step in your industrial growth.\n\nLuckily, this first step is fairly simple: a basic &7LV Alloy Smelter&r will get the job done.\nSo even if the recipe asks for &b128 Cupronickel&r, don't worry — it's easier than it looks!&r\n\nLater on, their counterparts will become much more complex, so enjoy the simplicity while it lasts!",
 
-
 	"quests.low_voltage.cupronickel_coil.title": "Cupronickel Coils",
 	"quests.low_voltage.cupronickel_coil.subtitle": "Baby's first heating coil",
 	"quests.low_voltage.cupronickel_coil.desc": "Prepare &a128 Cupronickel&r, &a32 Bronze&r and &a16 Tin Alloy&r to craft the Heating Coils required for your first Electric Blast Furnace.\n\nThis is still less than half (!) of the cost of the whole EBF in raw materials. You will also need about a stack each of Invar and Steel, so get mining.\n\nThe Cupronickel Coils will allow the EBF to perform recipes up to &d1,800K&r (ignoring Voltage bonuses). That's pretty hot if you ask us.\n\n&6Tutorial on Coils in the &lGregTech Energy&r&6 tab - check it out to learn more!&r",
