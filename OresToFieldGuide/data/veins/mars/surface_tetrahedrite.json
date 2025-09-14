@@ -1,5 +1,5 @@
 {
-	"id": "surface_tetrahedrite",
+	"id": "mars_surface_tetrahedrite",
 	"dimension": "mars",
 	"type": "tfc:cluster_vein",
 	"config": {

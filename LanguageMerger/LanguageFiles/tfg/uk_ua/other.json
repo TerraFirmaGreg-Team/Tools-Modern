@@ -21,6 +21,8 @@
     "entity.tfg.wraptor.male": "Враптор",
     "entity.tfg.wraptor.female": "Враптор",
     "tfg.tooltip.attribution.wraptor": "§9§oCredit: Species",
+    "effect.tfg.cooling": "§bОхолодження",
+    "effect.tfg.warming": "§6Розігрів",
     "item.treetap.tap": "Застарілий предмет, створіть для оновлення",
     "item.gtceu.zinc_ingot": "Застарілий предмет, створіть для оновлення",
     "item.gtceu.brass_ingot": "Застарілий предмет, створіть для оновлення",
@@ -178,6 +180,7 @@
     "tfg.tooltip.armor.nanomuscle_warmth": "§7Тепло: 0",
     "tfg.tooltip.armor.nanomuscle_insulation": "§7Ізоляція: +10",
     "tfg.tooltip.armor.nanomuscle_set": "§7Одягніть повний комплект, щоб стати §eПовністю ізольованим§7 від навколишньої температури.",
+    "tfg.tooltip.armor.nanomuscle_legs_buff": "§7Надає §9Швидкість I§7, коли вдягнено",
     "tfg.tooltip.armor.quarktech_warmth": "§7Тепло: 0",
     "tfg.tooltip.armor.quarktech_insulation": "§7Ізоляція: +10",
     "tfg.tooltip.armor.quarktech_set": "§7Одягніть повний комплект, щоб стати §eПовністю ізольованим§7 від навколишньої температури.",
@@ -197,5 +200,14 @@
     "tfg.tooltip.sniffer_wool": "§7Зібрано зі спини Нюхача",
     "tfg.tooltip.wraptor_wool": "§7Зібрано з пір’я Враптора",
     "tfg.tooltip.wraptor_sugar": "§7Не замислюйся над цим занадто",
-    "tfg.tooltip.obsolete.depreciated": "§cЗастаріле, більше не створюється"
+    "tfg.tooltip.cooling_foods": "§bОхолоджує вас на: 2°C",
+    "tfg.tooltip.cooling_foods_strong": "§bОхолоджує вас на: 10°C",
+    "tfg.tooltip.warming_foods": "§bОхолоджує вас на: 4°C",
+    "tfg.tooltip.obsolete.depreciated": "§cЗастаріле, більше не створюється",
+    "tfg.tooltip.dna_syringe.empty": "Порожній шприц.",
+    "tfg.tooltip.dna_syringe.dirty1": "Використаний шприц.",
+    "tfg.tooltip.dna_syringe.dirty2": "Обережно, не вколіть цим нікого...",
+    "tfg.tooltip.dna_syringe.full": "Зразок ДНК: ",
+    "tfg.tooltip.dna_syringe.explain": "Клацніть ПКМ по мобу, щоб отримати зразок ДНК. Розмістіть у сітці крафта, щоб очистити вміст.",
+    "tfg.tooltip.shift_hint": "[Hold-Shift]"
 }

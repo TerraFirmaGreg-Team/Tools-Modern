@@ -276,9 +276,9 @@
     "quests.tfg_tips.grappling_hook.subtitle": "This is going to end poorly",
     "quests.tfg_tips.grappling_hook.desc": "By combining 4 pieces of &aRope Coil&r and a &bWrought Iron Pickaxe Head&r, you can create a &dGrappling Hook!&r An ideal tool for scaling big mountains, exploring large caves and traversing the world. It contains an &eupgrade system&r that allows you to combine and modify your &dHook&r to your leisure.",
 
-    "quests.tfg_tips.grapple_repair.title": "Repairing your Hook",
+    "quests.tfg_tips.grapple_repair.title": "Grappling Hook Warnings",
     "quests.tfg_tips.grapple_repair.subtitle": "READ ME, OR YOU MAY REGRET IT LATER!",
-    "quests.tfg_tips.grapple_repair.desc": "All your &dGrappling Hook&r &aupgrades&r are stored as NBT Data inside the item. This means trying to repair your hook using &canother&r Grappling Hook &l&cWILL destroy all your upgrades!&r\n\nInstead, you should place your &dGrappling Hook&r and some &bWrought Iron Dust&r in a &3Workbench&r to repair it.",
+    "quests.tfg_tips.grapple_repair.desc": "All your &dGrappling Hook&r &aupgrades&r are stored as NBT Data inside the item. This means trying to repair your hook using &canother&r Grappling Hook &l&cWILL destroy all your upgrades!&r\n\nInstead, you should place your &dGrappling Hook&r and some &bWrought Iron Dust&r in a &3Workbench&r to repair it.\n\nAlso, don't use your Grappling Hook when traveling between the Overworld and Beneath, it's rather deadly.",
 
     "quests.tfg_tips.grapple_upgrades.title": "Upgrading your Grappling Hook",
     "quests.tfg_tips.grapple_upgrades.subtitle": "Balanced around TFG, of course!",
@@ -321,7 +321,7 @@
 
     "quests.tfg_tips.grapple_gravity_50.title": "Grappling Hook Upgrade: 0.5 Gravity",
     "quests.tfg_tips.grapple_gravity_50.subtitle": "Does this even make sense?",
-    "quests.tfg_tips.grapple_gravity_50.desc": "The &a0.5 Gravity Upgrade&r causes your hook to have a &bGravity Coefficient of 0.5.&. This means that it will be affected by gravity by a factor of a half!\n\nInstead of using another &dHelium Bucket&r to remove the upgrade, use an &cEmpty Bucket instead.&r It will fill with the &eHelium&r you initially used.",
+    "quests.tfg_tips.grapple_gravity_50.desc": "The &a0.5 Gravity Upgrade&r causes your hook to halve how much it's affected by gravity!\n\nInstead of using another &dHelium Bucket&r to remove the upgrade, use an &cEmpty Bucket instead.&r It will fill with the &eHelium&r you initially used.",
 
     "quests.tfg_tips.grapple_gravity_0.title": "Grappling Hook Upgrade: ZERO gravity",
     "quests.tfg_tips.grapple_gravity_0.subtitle": "Kinda Expensive",

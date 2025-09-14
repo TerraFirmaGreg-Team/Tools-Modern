@@ -1,58 +1,54 @@
 @echo off
-title Structure Converter
+cd /d %~dp0
+node script.js %*
 :menu
 cls
-echo ===================================
-echo      Structure Converter Menu
-echo ===================================
+echo =========================================================================================================
+echo ======================================== *Structure Transformer* ========================================
+echo =========================================================================================================
+color 0A
+type banner.txt
+color 0C
 echo.
-echo 1. No Transformations
-echo 2. Rotate 90 Degrees
-echo 3. Mirror Vertically
-echo 4. Mirror Horizontally
-echo 5. Mirror Horizontally + Vertically 
-echo 6. Rotate + Mirror Horizontally
-echo 7. Rotate + Mirror Vertically
-echo 8. Exit
 echo.
-set /p choice="Choose an option (1-8): "
+echo ======================================== Choose transformation: =========================================
+echo.
+color 07
+echo(                                         ^> 1. Reset
+echo(                                         ^> 2. Rotate-Z 90*
+echo(                                         ^> 3. Rotate-X 90*
+echo(                                         ^> 4. Rotate-Y 90*
+echo(                                         ^> 5. Mirror Horizontally
+echo(                                         ^> 6. Mirror Vertically
+echo(                                         ^> 7. Exit
+echo.
+set /p choice=                               "Enter your choice: "
 
 if "%choice%"=="1" (
-    node MultiConverter.js normal
-    pause
+    node MultiConverter.js reset
     goto menu
 )
 if "%choice%"=="2" (
-    node MultiConverter.js rotate
-    pause
+    node MultiConverter.js rotatez
     goto menu
 )
 if "%choice%"=="3" (
-    node MultiConverter.js mirrorV
-    pause
+    node MultiConverter.js rotatex
     goto menu
 )
 if "%choice%"=="4" (
-    node MultiConverter.js mirrorH
-    pause
+    node MultiConverter.js rotatey
     goto menu
 )
 if "%choice%"=="5" (
-    node MultiConverter.js mirrorVH
-    pause
+    node MultiConverter.js mirrorh
     goto menu
 )
 if "%choice%"=="6" (
-    node MultiConverter.js rotateMirrorH
-    pause
+    node MultiConverter.js mirrorv
     goto menu
 )
 if "%choice%"=="7" (
-    node MultiConverter.js rotateMirrorV
-    pause
-    goto menu
-)
-if "%choice%"=="8" (
     exit
 )
 
