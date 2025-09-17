@@ -18,6 +18,9 @@
     "block.gtceu.ostrum_linear_accelerator": "Ostrum Linear Accelerator",
     "block.tfg.bioreactor": "Bioreactor",
 
+    "block.gtceu.red_granite_cobblestone": "Red Granite Cobble",
+    "block.gtceu.mossy_red_granite_cobblestone": "Mossy Red Granite Cobble",
+
     "block.gtceu.copper_crate": "Copper Crate",
     "block.gtceu.copper_drum": "Copper Drum",
     "block.gtceu.black_bronze_crate": "Black Bronze Crate",
