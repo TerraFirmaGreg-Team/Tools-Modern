@@ -402,3 +402,10 @@ LanguageMerger/Executables/**/OUTPUT
 
 # MacOS
 .DS_Store
+
+# Multiblock Converter
+AdvancedMultiblockConverter/advanced-multiblock-converter/node_modules/
+AdvancedMultiblockConverter/advanced-multiblock-converter/dist/
+AdvancedMultiblockConverter/advanced-multiblock-converter/win-unpacked/
+AdvancedMultiblockConverter/advanced-multiblock-converter/builder-debug.yml
+AdvancedMultiblockConverter/advanced-multiblock-converter/builder-effective-config.yaml
