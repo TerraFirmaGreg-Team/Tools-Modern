@@ -1,6 +1,6 @@
 {
     "__comment1": "Starting",
-	
+
     "quests.ore_proc": "Ore Processing",
     "quests.ore_proc.subtitle": "Everything you'll need to get the most out of your ores",
 
@@ -10,7 +10,7 @@
     "quests.ore_proc.native_ore.task": "I agree to not just dump everything in a furnace",
 
     "__comment2": "Far left",
-	
+
     "quests.ore_proc.robot_arm.title": "Ore processing with GregTech's own tools",
     "quests.ore_proc.robot_arm.subtitle": "Providing answers to its own problems",
     "quests.ore_proc.robot_arm.desc": "GregTech comes with its own tools to help solve ore processing logistics.\n\nThe &6Robot Arm&r can move precice numbers of items into a machine, such as only moving flawed gems into a Laser Engraver once you have two of them. The &6Tag Filter&r can filter items by tag, such as '&5*purified_ores*&r' to match all Purified Ores.\n\nThe &4Smart Filter&r can filter items depending on their &6recipe&r. For example, if you use it with a robot arm on an electrolyzer, and set the robot arm to supply exact, it will only move your dusts into the electrolyzer once it has as many inputs as the recipe requires!",
@@ -24,7 +24,7 @@
     "quests.ore_proc.gtcy.desc": "Once you get to IV, you'll gain access to multiblock versions of all of GregTech's single block machines. They do the exact same recipes as their single block cousins, but are more flexible - you can put lots of huge Input Buses on them, you can overclock them with higher tier &6Energy Hatches&r instead of making new ones every tier, and they even support &6Parallel Hatches&r to do multiple recipes simultaneously!\n\nAll of these machines require alloys created with the &bAlloy Blast Smelter&r, found at the end of &dEV&r.",
 
     "__comment3": " Tiers",
-	
+
     "quests.ore_proc.copper_tier.title": "Copper Age Ore Processing",
     "quests.ore_proc.copper_tier.desc": "This row is for the very basics of ore processing. There's no byproducts and no automation.",
 
@@ -57,7 +57,7 @@
 
 
     "__comment4": "Ore stages",
-	
+
     "quests.ore_proc.raw_ore.title": "Raw Ore",
     "quests.ore_proc.raw_ore.desc": "This column shows ways to process raw ore, the first step of ore processing!",
 
@@ -112,7 +112,7 @@
 
     "quests.ore_proc.platline.title": "The Infamous Platline",
     "quests.ore_proc.platline.subtitle": "GregTech players vs Mekanism players when they need Osmium:",
-    "quests.ore_proc.platline.desc": "The &6Platinum Line&r will be your first real challenge to process, providing you with essential platinum-group metals: &bPlatinum&r, &bPalladium&r, &bRuthenium&r, &bRhodium&r, &bIridium&r, and &bOsmium&r.\n\nWhile there's easier ways to obtain &bPlatinum&r and &bPalladium&r, this line will be &amandatory&r for accessing the others.\n\nThe Platline can be started at &6HV&r, but you won’t be able to complete it fully until you reach &dIV&r.",
+    "quests.ore_proc.platline.desc": "The &6Platinum Line&r will be your first real challenge to process, providing you with essential platinum-group metals: &bPlatinum&r, &bPalladium&r, &bRuthenium&r, &bRhodium&r, &bIridium&r, and &bOsmium&r.\n\nWhile there's easier ways to obtain &bPlatinum&r and &bPalladium&r, this line will be &amandatory&r for accessing the others.\n\nThe Platline can be started at &6HV&r, but you won’t be able to complete it fully until later in &5EV&r.",
 
     "quests.ore_proc.electro_separator.title": "Electromagnetic Separator",
     "quests.ore_proc.electro_separator.subtitle": "Probably the least useful GregTech machine",
@@ -147,5 +147,14 @@
     "quests.ore_proc.packer.title": "The Packer",
     "quests.ore_proc.packer.subtitle": "It's real fast",
     "quests.ore_proc.packer.desc": "Back in the old days of GregTech, this little bad boy saw a lot of use—you used to get a ton of &6Small&r and &6Tiny Dusts&r from ore processing.\n\nNowadays, it's only really useful for automatic packing, such as &dRare Earth&r in a &6Centrifuge&r returning many &6Small Piles of Dust&r.\n\nDon't forget: a &eRobot Arm&r set to Supply Exact mode can be useful to avoid clogging the input slots.",
-    "quests.ore_proc.packer.task": "Any Packer"
+    "quests.ore_proc.packer.task": "Any Packer",
+
+    "quests.ore_proc.bauxite.title": "The Bauxite Line",
+    "quests.ore_proc.bauxite.subtitle": "New to modern GregTech versions!",
+    "quests.ore_proc.bauxite.desc": "You &ocould&r just electrolyze all your Bauxite dust to get a measly 6 Aluminium and 1 Rutile per 15 Bauxite... Or you could try out the &6Bauxite Line&r!\n\nThis new processing line returns about 2x as much &bAluminium&r and 3x as much &4Rutile&r per Bauxite, while also giving you a bunch of Gallium, Iron, Neodymium, and Chromium for free!",
+
+    "quests.ore_proc.gem_slurry.title": "Gem Slurries",
+    "quests.ore_proc.gem_slurry.subtitle": "We... are the crystal—hblrlrlr",
+    "quests.ore_proc.gem_slurry.desc": "&6Gem Slurries&r are optional but short processing lines for Ruby, Sapphire, and Green Sapphire to squeeze a bit more resources out of them. Compared to electrolysis:\n\n- &cRuby Slurry&r returns almost 3x as much Aluminium and Chromium\n\n- &9Sapphire Slurry&r returns 2x as much Aluminium\n\n- &aGreen Sapphire Slurry&r returns 2x as much Aluminium and a little extra Beryllium\n\nAnd on top of that, they all have a small chance to return some extra Titanium, Iron, and Vanadium too!",
+    "quests.ore_proc.gem_slurry.task": "Any Gem Slurry Ore"
 }

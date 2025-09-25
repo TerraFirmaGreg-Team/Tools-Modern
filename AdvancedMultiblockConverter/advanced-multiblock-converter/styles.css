@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #1e1e1e;
+  color: #fff;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  height: 100vh;
+}
+
+.codeblock {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.codeblock textarea {
+  flex: 1;
+  background: #2d2d2d;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  font-family: monospace;
+  resize: none;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px;
+}
+
+button {
+  padding: 10px;
+  background: #3a3a3a;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+}
+button:hover {
+  background: #555;
+}
