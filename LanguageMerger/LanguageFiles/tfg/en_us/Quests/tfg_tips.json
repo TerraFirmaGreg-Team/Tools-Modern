@@ -1,17 +1,17 @@
 {
     "__comment1": "#region Starting",
-	
+
     "quests.tfg_tips": "Tips - Survival",
     "quests.tfg_tips.subtitle": "Tips and Tricks to make your life slightly easier.",
 
     "quests.tfg_tips.beginning.title": "Tips and Tricks be here!",
     "quests.tfg_tips.beginning.subtitle": "Dear God that's a lot of branches...",
     "quests.tfg_tips.beginning.desc": "This quest chapter gives you a lot, &o(and we do mean a lot)&r of tips on how to survive and thrive.\n\nEach quest branch representing major mods in &2TerraFirmaGreg&r, with tips to make the most out of them. None of these quests are necessary for progression, although some &omay&r be locked behind main questline tasks.",
-    
-	"__comment2": "#endregion",
+
+    "__comment2": "#endregion",
 
     "__comment3": "#region Portable Storage",
-	
+
     "quests.tfg_tips.portable_storage.title": "Portable Storage Solutions",
     "quests.tfg_tips.portable_storage.subtitle": "Turns out your inventory is quite small.",
     "quests.tfg_tips.portable_storage.desc": "In your travels, you may explore a whole &olot&r and end up picking up a lot of junk. This quest branch provides several options for expanding your on-the-go inventory.",
@@ -25,26 +25,26 @@
     "quests.tfg_tips.maxed_out_toolbelt.desc": "A &dToolbelt&r can hold 7 extra Pouches, that's 9 tools in one belt!",
     "quests.tfg_tips.maxed_out_toolbelt.task": "Obtain a maxed out toolbelt.",
 
-	"quests.tfg_tips.straw_basket.title": "Straw Basket",
-  	"quests.tfg_tips.straw_basket.subtitle": "As simple as it gets",
-  	"quests.tfg_tips.straw_basket.desc": "The &6Straw Basket&r is a simple basket that can be incredibly useful for managing your inventory before better options are available.\n\nSimply knap some straw to get your very own &6Straw Basket&r!",
-  	
-	"quests.tfg_tips.toolbox.title": "Toolboxes",
-  	"quests.tfg_tips.toolbox.subtitle": "A builders dream",
-  	"quests.tfg_tips.toolbox.desc": "The &dToolbox&r has 8 inventory slots which can each hold 4 stacks of items. Additionally, you can use a &ckeybind&r to access your placed &dToolbox&r from a few blocks away. You can even &bdye&r your &dToolbox&r to personalize it!",
-  	
-	"quests.tfg_tips.first_sacks.title": "Storage Sacks",
-  	"quests.tfg_tips.first_sacks.subtitle": "A step up from vessels",
-  	"quests.tfg_tips.first_sacks.desc": "The &6Leather Sack&r and &3Burlap Sack&r are two options for portable storage with their own pros and cons. It is a good idea to view the container info for each one to know how many &ditem slots&r, the &dstack size&r, and the max &ditem size&r for each sack.\n\n&l&3Tip:&r The &4&oField Guide&r has more specific info on some of the special features of the sacks.",
-  	
-	"quests.tfg_tips.special_sacks.title": "Specialized Sacks",
-  	"quests.tfg_tips.special_sacks.subtitle": "Wait, it can hold how much?",
-  	"quests.tfg_tips.special_sacks.desc": "The &2Seed Pouch&r and &9Ore Sack&r are two sacks that can only hold specific types of items, but make up for it with much larger &dstack sizes&r.\n\nThe &2Seed Pouch&r can hold up to &c128&r of &327&r different types of seeds.\n\nThe &9Ore Sack&r can hold up to &c512&r of &39&r different mined resources. That means it can hold items like ores, rocks, powders, and clays!",
-  	
-	"quests.tfg_tips.frame_pack.title": "Frame Pack",
-	"quests.tfg_tips.frame_pack.subtitle": "Options can be good!",
-	"quests.tfg_tips.frame_pack.desc": "The &5Frame Pack&r gives you &318&r slots that can each hold up to &c64&r items. The benefit of the &5Frame Pack&r is that it ignores the default stack size of the items you put into it. That means you can hold up to &c1152&r items in total!",
-	
+    "quests.tfg_tips.straw_basket.title": "Straw Basket",
+    "quests.tfg_tips.straw_basket.subtitle": "As simple as it gets",
+    "quests.tfg_tips.straw_basket.desc": "The &6Straw Basket&r is a simple basket that can be incredibly useful for managing your inventory before better options are available.\n\nSimply knap some straw to get your very own &6Straw Basket&r!",
+
+    "quests.tfg_tips.toolbox.title": "Toolboxes",
+    "quests.tfg_tips.toolbox.subtitle": "A builders dream",
+    "quests.tfg_tips.toolbox.desc": "The &dToolbox&r has 8 inventory slots which can each hold 4 stacks of items. Additionally, you can use a &ckeybind&r to access your placed &dToolbox&r from a few blocks away. You can even &bdye&r your &dToolbox&r to personalize it!",
+
+    "quests.tfg_tips.first_sacks.title": "Storage Sacks",
+    "quests.tfg_tips.first_sacks.subtitle": "A step up from vessels",
+    "quests.tfg_tips.first_sacks.desc": "The &6Leather Sack&r and &3Burlap Sack&r are two options for portable storage with their own pros and cons. It is a good idea to view the container info for each one to know how many &ditem slots&r, the &dstack size&r, and the max &ditem size&r for each sack.\n\n&l&3Tip:&r The &4&oField Guide&r has more specific info on some of the special features of the sacks.",
+
+    "quests.tfg_tips.special_sacks.title": "Specialized Sacks",
+    "quests.tfg_tips.special_sacks.subtitle": "Wait, it can hold how much?",
+    "quests.tfg_tips.special_sacks.desc": "The &2Seed Pouch&r and &9Ore Sack&r are two sacks that can only hold specific types of items, but make up for it with much larger &dstack sizes&r.\n\nThe &2Seed Pouch&r can hold up to &c128&r of &327&r different types of seeds.\n\nThe &9Ore Sack&r can hold up to &c512&r of &39&r different mined resources. That means it can hold items like ores, rocks, powders, and clays!",
+
+    "quests.tfg_tips.frame_pack.title": "Frame Pack",
+    "quests.tfg_tips.frame_pack.subtitle": "Options can be good!",
+    "quests.tfg_tips.frame_pack.desc": "The &5Frame Pack&r gives you &318&r slots that can each hold up to &c64&r items. The benefit of the &5Frame Pack&r is that it ignores the default stack size of the items you put into it. That means you can hold up to &c1152&r items in total!",
+
     "quests.tfg_tips.vessels.title": "Large and Small Vessels",
     "quests.tfg_tips.vessels.subtitle": "Clay can be quite useful",
     "quests.tfg_tips.vessels.desc": "&dSmall Vessels&r have 4 inventory slots while &6Large Vessels&r have 9! The &dSmall Vessel&r is not just for item storage, but is also necessary for smelting and alloying basic metals.\nThe &6Large Vessel&r is heavier to carry, but is great for preserving food.\n\n&l&3Tip:&r&o Large Vessels double as early backpacks!",
@@ -59,13 +59,13 @@
 
     "quests.tfg_tips.backpack_materials.title": "Materials for a Backpack",
     "quests.tfg_tips.backpack_materials.subtitle": "Sleeping bag not included",
-	"quests.tfg_tips.backpack_materials.desc": "There are two options for backpacks: the &5Frame Pack&r or the &3Sophisticated Backpack&r\n\nA &5Frame Pack&r is a dense backpack allowing you to store up to &c64&r items in each slot no &omatter their standard stack size&r.\n\nA &3Sophisticated Backpack&r is the primary way to expand your portable inventory size going forward. The first tier will more than double your normal inventory, and further tiers increase it even more! It also comes with a wide variety of &afunctional upgrades&r, and different parts of it can be dyed different colors!",
-    
-	"quests.tfg_tips.first_backpack.title": "Your First Backpack",
+    "quests.tfg_tips.backpack_materials.desc": "There are two options for backpacks: the &5Frame Pack&r or the &3Sophisticated Backpack&r\n\nA &5Frame Pack&r is a dense backpack allowing you to store up to &c64&r items in each slot no &omatter their standard stack size&r.\n\nA &3Sophisticated Backpack&r is the primary way to expand your portable inventory size going forward. The first tier will more than double your normal inventory, and further tiers increase it even more! It also comes with a wide variety of &afunctional upgrades&r, and different parts of it can be dyed different colors!",
+
+    "quests.tfg_tips.first_backpack.title": "Your First Backpack",
     "quests.tfg_tips.first_backpack.subtitle": "No, the map won't magically appear.",
-  	"quests.tfg_tips.first_backpack.desc": "This is your first &3Sophisticated Backpack.&r It has a total of &c36&r inventory slots and can hold &aone upgrade.&r Check the two branches after this to learn about inventory and backpack upgrades.",
-    
-	"quests.tfg_tips.red_steel_backpack.title": "Red Steel Backpack",
+    "quests.tfg_tips.first_backpack.desc": "This is your first &3Sophisticated Backpack.&r It has a total of &c36&r inventory slots and can hold &aone upgrade.&r Check the two branches after this to learn about inventory and backpack upgrades.",
+
+    "quests.tfg_tips.red_steel_backpack.title": "Red Steel Backpack",
     "quests.tfg_tips.red_steel_backpack.subtitle": "Cooler than a Blue Steel Backpack",
     "quests.tfg_tips.red_steel_backpack.desc": "A &4Red Steel Backpack&r is your first proper backpack inventory upgrade. It has a total slot count of &c54&r and can hold &atwo upgrades.&r",
 
@@ -96,11 +96,11 @@
     "quests.tfg_tips.all_backpack_upgrades.title": "ALL THE UPGRADES",
     "quests.tfg_tips.all_backpack_upgrades.subtitle": "You can't even fit all of these in a single backpack...",
     "quests.tfg_tips.all_backpack_upgrades.desc": "These are all the backpack upgrades &3Sophisticated Backpacks&r has to offer. Can you craft them all?",
-    
-	"__comment4": "#endregion",
+
+    "__comment4": "#endregion",
 
     "__comment5": "#region GT",
-	
+
     "quests.tfg_tips.gt.title": "GregTech",
     "quests.tfg_tips.gt.subtitle": "One third of the modpack's name, after all.",
     "quests.tfg_tips.gt.desc": "&3GregTech&r can be quite intimidating, this quest branch should help you out.",
@@ -116,11 +116,11 @@
     "quests.tfg_tips.magnets.title": "Item Magnets",
     "quests.tfg_tips.magnets.subtitle": "",
     "quests.tfg_tips.magnets.desc": "The &6Item Magnet&r is exactly what you'd expect — a magnet that pulls nearby &6items&r straight to you. &aVery useful&r. What more could you ask for?",
-    
-	"__comment6": "#endregion",
+
+    "__comment6": "#endregion",
 
     "__comment7": "#region TFC",
-	
+
     "quests.tfg_tips.terrafirmacraft.title": "TerraFirmaCraft Addons",
     "quests.tfg_tips.terrafirmacraft.subtitle": "The other two thirds of the modpack's name",
     "quests.tfg_tips.terrafirmacraft.desc": "&3TerraFirmaCraft&r is one of the main mods in &2TerraFirmaGreg.&r This branch mostly focuses on some of its survival features and other &dAdd-Ons&r the modpack has, such as &4Aged Alcohol&r and &bCanes.&r",
@@ -130,11 +130,11 @@
     "quests.tfg_tips.cane.desc": "A &dWalking Cane&r allows you to completely ignore any block that slows your movement, such as &asnow&r, as long as you're carrying it in your &cmain&r or &coff-hand.&r\nAs a bonus, it &bincrease step-height.&r In other words, allows you to walk up one block without jumping. The &dIron Cane&r even allows to walk over fences!",
     "quests.tfg_tips.cane.task": "Any Cane",
 
-	"quests.tfg_tips.hiking.title": "Hiking Boots",
-  	"quests.tfg_tips.hiking.subtitle": "&oThese boots are made for walking",
-  	"quests.tfg_tips.hiking.desc": "&dHiking Boots&r allow you to more easily explore your world! All &dHiking Boots&r allow you to pass through tall grass without resistance. Additionally, each tier of &dHiking Boots&r have progressively more &9armor&r, &9walk speed&r, and &9fall resistance&r along with other boosts.",
-  	"quests.tfg_tips.hiking.task": "Any Hiking Boots",
-	
+    "quests.tfg_tips.hiking.title": "Hiking Boots",
+    "quests.tfg_tips.hiking.subtitle": "&oThese boots are made for walking",
+    "quests.tfg_tips.hiking.desc": "&dHiking Boots&r allow you to more easily explore your world! All &dHiking Boots&r allow you to pass through tall grass without resistance. Additionally, each tier of &dHiking Boots&r have progressively more &9armor&r, &9walk speed&r, and &9fall resistance&r along with other boosts.",
+    "quests.tfg_tips.hiking.task": "Any Hiking Boots",
+
     "quests.tfg_tips.glassblowing.title": "Glassblowing",
     "quests.tfg_tips.glassblowing.subtitle": "Realistic Glassworking!",
     "quests.tfg_tips.glassblowing.desc": "To make any sort of &dGlass Pane&r or &dBlock&r, you'll need a &3glassblowing&r setup.\n\n&3Glassblowing&r will require some sort of &aBlowpipe&r, and a platform made out of glassblowing blocks to pour the molten glass. Check out the &2Field Guide&r for more information on the shape of the platform and what blocks are valid. You'll have access to glassblowing as soon as you can shape &aBrass!&r",
@@ -258,11 +258,11 @@
     "quests.tfg_tips.salvo.subtitle": "Apply directly to the forehead",
     "quests.tfg_tips.salvo.desc": "A &dSalve&r is another type of medicine, usually applied on the skin. These provide a different set of effects compared to &aPills&r and &aTablets&r, such as &cFire Resistance&r and &4Instant Health&r, but require relatively complex chemistry.",
     "quests.tfg_tips.salvo.task": "Any Salve",
-    
-	"__comment8": "#endregion",
+
+    "__comment8": "#endregion",
 
     "__comment9": "#region Misc",
-	
+
     "quests.tfg_tips.misc.title": "Misc Tips",
     "quests.tfg_tips.misc.subtitle": "Even more tips!",
     "quests.tfg_tips.misc.desc": "These are miscellaneous tips, they don't fit in the other categories but are still useful to know about.",
@@ -435,11 +435,11 @@
     "quests.tfg_tips.self_defense.title": "Self-defense",
     "quests.tfg_tips.self_defense.subtitle": "Got zombies on your lawn?",
     "quests.tfg_tips.self_defense.desc": "Place a &3Cranktrap&r next to a pressure plate, and they'll completely immobilize whatever animal (or monster!) steps on it. Great for catching that elusive animal in the forest, or for defending your home.\n\n&3Barbed Wire&r is completely passive and just inflicts damage to anything that walks through it.",
-    
-	"__comment10": "#endregion",
+
+    "__comment10": "#endregion",
 
     "__comment11": "#region ArborFirmaCraft",
-	
+
     "quests.tfg_tips.arborfirmacraft.title": "ArborFirmaCraft",
     "quests.tfg_tips.arborfirmacraft.subtitle": "Harvesting the Life-blood of Trees",
     "quests.tfg_tips.arborfirmacraft.desc": "&2ArborFirmaCraft&r is a mod that adds multiple new trees to &3TFG&r: some are variants of existing TFC trees, such as &dAncient Kapok&r, while others are completely new, such as the &aBaobab&r and &aHevea.&r Some of the plank and log textures of these trees may remind you of vanilla tree colors...\n\nThis section will go over &bTree Tapping.&r\nAs a bonus, all &2ArborFirmaCraft&r woods are compatible with &3FirmaLife&r, and &3Firma:Civ&r, we made sure of it!",
@@ -477,11 +477,11 @@
     "quests.tfg_tips.create_rubber_ingot.subtitle": "Insulate them cables",
 
     "quests.tfg_tips.create_rubber_ingot.desc": "Utilizing the &bVacuum Chamber&r and some additional heating, you can process &aLatex&r from various trees into &dRaw Rubber Pulp&r through a specific process. You can then smelt together 3 &dRaw Rubber Pulp&r with a bit of &eSulfur Dust&r in an &bAlloy Smelter&r to create &dRubber Ingots&r, perfect for insulating cables and very much necessary to advance in the &2Voltaic Age&r and beyond...",
-    
-	"__comment12": "#endregion",
+
+    "__comment12": "#endregion",
 
     "__comment13": "#region Transportation",
-	
+
     "quests.tfg_tips.transportation.title": "Transportation",
     "quests.tfg_tips.transportation.subtitle": "For travelling this vast world",
     "quests.tfg_tips.transportation.desc": "The world is a very big place, you may end up travelling great distances to find specific resources for survival and advancement. The mods in this section will provide with a variety of transportation options.",
@@ -642,15 +642,20 @@
     "quests.tfg_tips.plow.subtitle": "Large Scale Farming",
     "quests.tfg_tips.plow.desc": "If there ever comes the need to till large sections of land for some megafarms, the &dPlow&r can come in clutch.",
 
-	"quests.tfg_tips.horseshoes.title": "Horseshoes",
-  	"quests.tfg_tips.horseshoes.subtitle": "Fashionable Equine Footwear",
-  	"quests.tfg_tips.horseshoes.desc": "&aHorseshoes&r are an accessory for your equine companions that boost their &9speed&r, &dfall resistance&r, and &cstep height&r at higher tiers.",
-  	"quests.tfg_tips.horseshoes.task": "Any Horseshoes",
-	
+    "quests.tfg_tips.horseshoes.title": "Horseshoes",
+    "quests.tfg_tips.horseshoes.subtitle": "Fashionable Equine Footwear",
+    "quests.tfg_tips.horseshoes.desc": "&aHorseshoes&r are an accessory for your equine companions that boost their &9speed&r, &dfall resistance&r, and &cstep height&r at higher tiers.",
+    "quests.tfg_tips.horseshoes.task": "Any Horseshoes",
+
+    "quests.tfg_tips.hiking_boots.title": "Hiking Boots",
+    "quests.tfg_tips.hiking_boots.subtitle": "🎵 and I would walk five hundred miles",
+    "quests.tfg_tips.hiking_boots.desc": "&aHiking Boots&r prevent tall grass from slowing you down, increase your safe fall height, and can even give you some extra step height and walking speed. They don't provide as much protection as proper metal armor, but if you're not actually fighting something, these are well worth the trade-off!",
+    "quests.tfg_tips.hiking_boots.task": "Any Hiking Boots",
+
     "__comment14": "#endregion",
 
     "__comment15": "#region Firmalife",
-	
+
     "quests.tfg_tips.firmalife.title": "Firmalife",
     "quests.tfg_tips.firmalife.subtitle": "Thrive in TerraFirmaCraft",
     "quests.tfg_tips.firmalife.desc": "&2Firmalife&r is a mod all about extending the agricultural and gastronomic experience in TerraFirmaCraft, with touches of miscellaneous features. Includes things such as decorations, more preservation methods, new foods, bees and a plethora of useful gadgets!",
@@ -811,11 +816,11 @@
     "quests.tfg_tips.cellar_blocks.title": "Cellar Storage",
     "quests.tfg_tips.cellar_blocks.subtitle": "Stuff to put your food in",
     "quests.tfg_tips.cellar_blocks.desc": "&bFood Shelves&r can be used to store virtually any kind of food. &bHangers&r can be used to store &aMeat&r and &aGarlic.&r Food stored in these receive a powerful preservation trait greater than that of &dVessels.&r",
-    
-	"__comment16": "#endregion",
+
+    "__comment16": "#endregion",
 
     "__comment17": "#region Beneath",
-	
+
     "quests.tfg_tips.beneath.title": "The Beneath",
     "quests.tfg_tips.beneath.subtitle": "Journey to the Center of the Earth",
     "quests.tfg_tips.beneath.desc": "Deep, DEEP underground, past the &dBedrock&r, you'll find &4The Beneath&r, a complex network of huge caves filled with dangers and strange flora and fauna. While &4The Beneath&r is completely optional, it contains a lot of resources as well as some quality of life improvements.",
@@ -906,6 +911,6 @@
     "quests.tfg_tips.tools_tips.harvest_basket.subtitle": "For competitive pie bakers.",
     "quests.tfg_tips.tools_tips.harvest_basket.task": "Any #tfg:harvester",
     "quests.tfg_tips.tools_tips.harvest_basket.desc": "&l&2Harvest Baskets&r&r are a new tool made just for &5TFG&r! These baskets can be used to harvest whole trees and bushes of fruit in one right-click! A regular &6Harvest Basket&r has a base durability of &n128&r. But an &3Aluminium Harvest Basket&r takes no damage on use.",
-    
-	"__comment18": "#endregion"
+
+    "__comment18": "#endregion"
 }
