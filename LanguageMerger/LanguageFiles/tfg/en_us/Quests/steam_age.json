@@ -96,7 +96,7 @@
 
 	"quests.steam_age.fluid_drums.title": "Efficient Fluid Storage",
 	"quests.steam_age.fluid_drums.subtitle": "I don't think a wooden barrel can hold molten steel",
-	"quests.steam_age.fluid_drums.desc.1": "&6TFG&r can quickly get &4overwhelming&r with the plethora of fluids it introduces, so you may be looking for a way to store them.\n\nIntroducing... &aDrums&r! They have large internal buffers, and any &aDrum&r can be broken and picked up and will &dkeep the fluid&r inside. A right-click with a Screwdriver allows a Drum to drain its content into another container placed below it.",
+	"quests.steam_age.fluid_drums.desc.1": "&6TFG&r can quickly get &4overwhelming&r with the plethora of fluids it introduces, so you may be looking for a way to store them.\n\nIntroducing... &aDrums&r! They have large internal buffers, and any &aDrum&r can be broken and picked up and will &dkeep the fluid&r inside. A right-click with a Soft Mallet allows a Drum to drain its content into another container placed below it.",
 	"quests.steam_age.fluid_drums.desc.2": "&l&3Lore:&r&o These drums are actually ported from GregTech 6.",
 
 	"quests.steam_age.boilers.title": "Steam Boilers",
