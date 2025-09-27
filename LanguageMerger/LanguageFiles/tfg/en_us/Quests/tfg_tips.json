@@ -127,7 +127,7 @@
 
     "quests.tfg_tips.cane.title": "Walking Canes",
     "quests.tfg_tips.cane.subtitle": "You can even whack people with them!",
-    "quests.tfg_tips.cane.desc": "A &dWalking Cane&r allows you to completely ignore any block that slows your movement, such as &asnow&r, as long as you're carrying it in your &cmain&r or &coff-hand.&r\nAs a bonus, it &bincrease step-height.&r In other words, allows you to walk up one block without jumping. The &dIron Cane&r even allows to walk over fences!",
+    "quests.tfg_tips.cane.desc": "A &dWalking Cane&r allows you to completely ignore any block that slows your movement, such as &asnow&r, as long as you're carrying it in your &cmain&r or &coff-hand.&r\n\nAs a bonus, it &bincreases step height&r, which allows you to walk up one block without jumping. The &dIron Cane&r has extra step height that allows you to easily step over fences!",
     "quests.tfg_tips.cane.task": "Any Cane",
 
     "quests.tfg_tips.hiking.title": "Hiking Boots",
