@@ -1,8 +1,6 @@
 {
     "block.bud_indicator": "%s Surface Bud",
 
-    "block.gtceu.nether_dome": "Netherarium",
-    "block.gtceu.end_dome": "Enderarium",
     "block.gtceu.greenhouse": "Greenhouse",
     "block.gtceu.steam_bloomery": "Steam Bloomery",
     "block.gtceu.large_solar_panel": "§9Large Solar Array MK I",
@@ -33,8 +31,6 @@
 
     "__comment1": "these are used for recipes",
 	
-    "gtceu.nether_dome": "Netherarium",
-    "gtceu.end_dome": "Enderarium",
     "gtceu.greenhouse": "Electric Greenhouse",
     "gtceu.steam_bloomery": "Steam Bloomery",
     "gtceu.food_oven": "Food Oven",
