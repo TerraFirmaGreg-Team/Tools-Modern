@@ -547,6 +547,8 @@
     "block.tfg.casings.bioculture_rotor_primary": "Primary Bioculture Rotor",
     "block.tfg.casings.bioculture_rotor_secondary": "Secondary Bioculture Rotor",
 
+	"block.tfg.casings.machine_casing_ostrum_carbon": "Ostrum Machine Casing",
+
 	"__comment1": "TODO",
 	"__comment2": "block.tfg.corallium_arenicolus_0: Corallium Arenicolus",
 	"__comment3": "block.tfg.corallium_arenicolus_1: Corallium Arenicolus",
@@ -624,5 +626,11 @@
 
 	"block.tfg.large_nest_box": "Large Crimson Nest",
 	"tfg.block_entity.large_nest_box": "Large Nest Box",
-	"block.tfg.large_nest_box_warped": "Large Warped Nest"
+	"block.tfg.large_nest_box_warped": "Large Warped Nest",
+
+	"block.tfg.titanium_concrete": "Titanium-Rebar Concrete",
+	"block.tfg.polished_titanium_concrete": "Polished Titanium-Rebar Concrete",
+
+	"block.tfg.nuclear_turbine": "Nuclear Steam Turbine",
+	"block.tfg.evaporation_tower": "Evaporation Tower"
 }

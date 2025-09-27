@@ -298,5 +298,7 @@
     "item.tfg.filled_dna_syringe": "Filled Syringe",
     "item.tfg.dirty_dna_syringe": "Dirty Syringe",
     "item.tfg.clean_dna_syringe": "Clean Syringe",
-    "item.tfg.stainless_steel_needle": "Stainless Steel Needle"
+    "item.tfg.stainless_steel_needle": "Stainless Steel Needle",
+
+    "item.tfg.empty_rod": "Empty Fissile Fuel Rod"
 }

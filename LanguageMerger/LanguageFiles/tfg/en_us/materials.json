@@ -68,8 +68,8 @@
     "material.tfg.aniline": "Aniline",
     "material.tfg.dimethyl_carbonate": "Dimethyl Carbonate",
     "material.tfg.methyl_phenylcarbamate": "Methyl N-Phenylcarbamate",
-    "material.tfg.methylene_diphenyl_dicarbamate": "Methylene Diphenyl-4,4'-dicarbamate",
-    "material.tfg.methylene_diphenyl_diisocyanate": "Methylene Diphenyl-4,4'-diisocyanate",
+    "material.tfg.methylene_diphenyl_dicarbamate": "Methylene Diphenyl-4,4'-Dicarbamate",
+    "material.tfg.methylene_diphenyl_diisocyanate": "Methylene Diphenyl-4,4'-Diisocyanate",
     "material.tfg.tmos": "Tetramethoxysilane",
     "material.tfg.silica_gel": "Silica Gel",
     "material.tfg.soaked_silica_gel": "Acetone Soaked Silica Gel",
@@ -84,6 +84,12 @@
     "material.tfg.goethe_regolith": "Goethe Regolith",
     "material.tfg.bright_regolith": "Bright Regolith",
     "material.tfg.cassiterite_regolith": "Cassiterite Regolith",
-    "material.tfg.regolith_mush": "Regolith Mush"
+    "material.tfg.regolith_mush": "Regolith Mush",
+
+    "material.tfg.apt": "Ammonium Paratungstate",
+    "material.tfg.ammonium_tungstate": "Ammonium Tungstate",
+    "material.tfg.tungsten-bismuth_oxide_composite": "Bismuth Oxide Composite",
+    "material.tfg.tungsten_oxide": "Tungsten Oxide",
+    "material.tfg.sodium_tungstate": "Sodium Tungstate"
 
 }
