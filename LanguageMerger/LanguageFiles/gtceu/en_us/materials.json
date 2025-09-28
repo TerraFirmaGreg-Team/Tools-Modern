@@ -1,6 +1,8 @@
 {
 	"material.gtceu.ice": "Ice Slush",
 	"material.gtceu.damascus_steel": "Swine-steel",
+	"material.gtceu.air": "Earth Air",
+	"material.gtceu.liquid_air": "Liquid Earth Air",
 
 	"__comment1": "Sorry GT, big bang theory doesn't count as a scifi reference",
 	
@@ -10,6 +12,7 @@
 	"material.gtceu.ostrum": "Ostrum",
 	"material.gtceu.calorite": "Calorite",
 	"material.gtceu.etrium": "Etrium",
+
 
 	"material.gtceu.aluminium_silicate": "Aluminium Silicate",
 

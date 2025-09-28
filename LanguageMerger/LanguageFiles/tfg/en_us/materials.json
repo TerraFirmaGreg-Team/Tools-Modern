@@ -79,6 +79,8 @@
     "material.tfg.nuclear_residue": "Nuclear Residue",
     "material.tfg.oxidized_nuclear_residue": "Oxidized Nuclear Residue",
     "material.tfg.refined_nuclear_residue": "Refined Nuclear Residue",
+    "material.tfg.mars_air": "Mars Air",
+    "material.tfg.liquid_mars_air": "Liquid Mars Air",
 
     "material.tfg.certus_regolith": "Certus Regolith",
     "material.tfg.goethe_regolith": "Goethe Regolith",
