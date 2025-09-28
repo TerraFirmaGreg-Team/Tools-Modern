@@ -637,5 +637,9 @@
   	"block.tfg.titanium_concrete_bricks_square": "Square Titanium-Rebar Concrete Bricks",
 
 	"block.tfg.nuclear_turbine": "Nuclear Steam Turbine",
-	"block.tfg.evaporation_tower": "Evaporation Tower"
+	"block.tfg.evaporation_tower": "Evaporation Tower",
+
+    "block.tfg.growth_monitor": "Growth Monitor",
+    "block.tfg.sample_rack": "Sample Rack",
+    "block.tfg.casings.machine_casing_sterilizing_pipes": "Sterilizing Pipes"
 }

@@ -300,5 +300,14 @@
     "item.tfg.clean_dna_syringe": "Clean Syringe",
     "item.tfg.stainless_steel_needle": "Stainless Steel Needle",
 
-    "item.tfg.empty_rod": "Empty Fissile Fuel Rod"
+    "item.tfg.empty_rod": "Empty Fissile Fuel Rod",
+
+    "item.tfg.beaker": "Beaker",
+    "item.tfg.beaker.filled": "Beaker of %s",
+    "item.tfg.flask": "Flask",
+    "item.tfg.flask.filled": "Flask of %s",
+    "item.tfg.vial": "Vial",
+    "item.tfg.vial.filled": "Vial of %s",
+    "item.tfg.lab_equipment": "Lab Equipment",
+    "item.tfg.dirty_lab_equipment": "Dirty Lab Equipment"
 }
