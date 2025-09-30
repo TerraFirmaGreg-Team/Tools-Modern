@@ -272,5 +272,14 @@
     "item.tfg.filled_dna_syringe": "已充满的注射器",
     "item.tfg.dirty_dna_syringe": "受污染的注射器",
     "item.tfg.clean_dna_syringe": "洁净的注射器",
-    "item.tfg.stainless_steel_needle": "不锈钢针头"
+    "item.tfg.stainless_steel_needle": "不锈钢针头",
+    "item.tfg.empty_rod": "空裂变燃料棒",
+    "item.tfg.beaker": "烧杯",
+    "item.tfg.beaker.filled": "%s烧杯",
+    "item.tfg.flask": "烧瓶",
+    "item.tfg.flask.filled": "%s烧瓶",
+    "item.tfg.vial": "样品瓶",
+    "item.tfg.vial.filled": "%s样品瓶",
+    "item.tfg.lab_equipment": "实验器材",
+    "item.tfg.dirty_lab_equipment": "污染的实验器材"
 }

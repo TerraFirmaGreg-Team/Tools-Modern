@@ -23,6 +23,11 @@
     "tfg.tooltip.attribution.wraptor": "§9§o版权归属：Species",
     "effect.tfg.cooling": "§b降温",
     "effect.tfg.warming": "§6保暖",
+    "tfg.greate.uls_limit": "§432§r (§8ULS§r)",
+    "tfg.greate.ls_limit": "§f128§r (§7LS§r)",
+    "tfg.greate.windmill_hint_1": "§7风力磨坊的效率受其相对",
+    "tfg.greate.windmill_hint_2": "§7高度及周围空旷",
+    "tfg.greate.windmill_hint_3": "§7空间大小的影响。",
     "trim_material.tfc.almandine_tfc": "铁铝榴石",
     "trim_material.tfc.andradite_tfc": "钙铁榴石",
     "trim_material.tfc.blue_topaz_tfc": "蓝黄玉",
@@ -98,6 +103,7 @@
     "tfg.tooltip.obsolete.fridge": "§4已过时§f：已被TFG冰箱取代，你可以通过将这个物品放在工作台上制作出它！",
     "tfg.tooltip.blaze_burner": "§c超高温§r §7使用焦炭、无烟煤或完美与精致的煤炭宝石。",
     "tfg.tooltip.machine.perfect_overclock": "这台机器具有§2完美超频§r！",
+    "tfg.tooltip.machine.parallel": "通过并行控制仓让机器同时处理多个相同配方。",
     "tfg.tooltip.machine.customize_interior": "§7内部可定制！请在JEI中查看多块预览。",
     "tfg.tooltip.armor.copper_diving_suit_warmth": "§7温暖度：-1",
     "tfg.tooltip.armor.copper_diving_suit_insulation": "§7隔热：+1",
@@ -136,5 +142,11 @@
     "tfg.tooltip.dna_syringe.dirty2": "注意不要用它刺伤任何人...",
     "tfg.tooltip.dna_syringe.full": "DNA样本:",
     "tfg.tooltip.dna_syringe.explain": "右键点击生物获取DNA样本。放入合成栏可清空其内容物。",
-    "tfg.tooltip.shift_hint": "[按住Shift]"
+    "tfg.tooltip.shift_hint": "[按住Shift]",
+    "tfg.tooltip.lab_equipment.part": "§7精确盛装：",
+    "tfg.tooltip.lab_equipment.set": "“§7不包含一个 5000mB 的圆底烧瓶。”",
+    "tfg.tooltip.lab_equipment.set_dirty": "“§7如果你不清理这东西，很快就能在里面发现青霉素了。”",
+    "tfg.tooltip.single_itemstack_bus.0": "§6物品槽位数量：§f1",
+    "tfg.tooltip.single_itemstack_bus.1": "§6堆叠数量：§f1",
+    "tfg.tooltip.growth_chamber": "通过增加层数，该机器可以同时运行更多配方。"
 }

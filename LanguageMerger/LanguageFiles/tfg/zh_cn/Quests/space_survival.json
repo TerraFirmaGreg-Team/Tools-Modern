@@ -20,7 +20,7 @@
     "quests.space_survival.chorus.desc": "&5紫颂果&r在月球上扮演着至关重要的角色——它将是你的主要氮气来源。首先，找到一些紫颂植物，跑酷到顶部，并打破&5紫颂花&r。从底部破坏植物不会得到任何紫颂花！接下来，在电力温室中种植紫颂花以获得可再生的紫颂果来源，然后你可以分别用酿造厂和发酵器将它们加工成生物质和氮气。你还可以将生物质蒸馏成碳，以获得更多的火箭燃料！",
     "quests.space_survival.rover.title": "太空漫游车",
     "quests.space_survival.rover.subtitle": "你的逃生工具",
-    "quests.space_survival.rover.desc": "你不得不把你花哨的喷气背包留在家里，没有大气层供飞机飞行，马也无法生存，那么你该如何出行？&b漫游车(Rover)&r是一种可以容纳最多两名乘客的载具，使用可燃燃料（柴油、汽油和火箭燃料）运行，甚至还有一个物品栏和可以播放真实世界电台的收音机！",
+    "quests.space_survival.rover.desc": "你不得不把你花哨的喷气背包留在家里，没有大气层供飞机飞行，马也无法生存，那么你该如何出行？\n\n&b漫游车(Rover)&r是一种可以容纳最多两名乘客的载具，使用可燃燃料（柴油、汽油和火箭燃料）运行，甚至还有一个物品栏和可以播放真实世界电台的收音机！",
     "quests.space_survival.solar_panels.title": "太阳能板",
     "quests.space_survival.solar_panels.subtitle": "赞美太阳！",
     "quests.space_survival.solar_panels.desc": "月球上可用的能源非常少，但这些&e太阳能板&r在这里可是拥有观赏太阳的绝佳视角！\n\n在月球上，每个太阳能板在白天提供相当于&932 EU/t&r的能量，无需燃料或维护，但若将其置于地球表面，发电效率仅剩八分之一。带上一大堆吧！",

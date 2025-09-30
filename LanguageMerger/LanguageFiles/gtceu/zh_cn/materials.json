@@ -1,6 +1,8 @@
 {
     "material.gtceu.ice": "冰泥",
     "material.gtceu.damascus_steel": "猪灵钢",
+    "material.gtceu.air": "地球空气",
+    "material.gtceu.liquid_air": "液态地球空气",
     "__comment1": "抱歉了 GT，大爆炸理论不算科幻参考。",
     "material.gtceu.cooperite": "硫铂矿",
     "material.gtceu.armalcolite": "阿姆阿尔柯尔矿",
@@ -10,6 +12,7 @@
     "material.gtceu.etrium": "埃忒恩",
     "material.gtceu.aluminium_silicate": "硅酸铝",
     "material.gtceu.rocket_alloy_t1": "R型铝钢火箭合金",
+    "material.gtceu.rocket_alloy_t2": "ASM 4914 钛合金火箭合金",
     "material.gtceu.rocket_alloy_t3": "45-Ti 钨钢火箭合金",
     "material.gtceu.vitrified_asbestos": "玻璃化石棉",
     "material.gtceu.liquid_carbon_dioxide": "液态二氧化碳",
