@@ -23,6 +23,11 @@
     "tfg.tooltip.attribution.wraptor": "§9§oCredit: Species",
     "effect.tfg.cooling": "§bОхолодження",
     "effect.tfg.warming": "§6Розігрів",
+    "tfg.greate.uls_limit": "§432§r (§8ULS§r)",
+    "tfg.greate.ls_limit": "§f128§r (§7LS§r)",
+    "tfg.greate.windmill_hint_1": "Вітряки залежать від відносної",
+    "tfg.greate.windmill_hint_2": "висоти та кількості вільного",
+    "tfg.greate.windmill_hint_3": "простору навколо них.",
     "trim_material.tfc.almandine_tfc": "Альмандин",
     "trim_material.tfc.andradite_tfc": "Андрадіт",
     "trim_material.tfc.blue_topaz_tfc": "Синій Топаз",
@@ -98,6 +103,7 @@
     "tfg.tooltip.obsolete.fridge": "§4Застаріле§f: Замінено на TFG Refrigerator, можна створити з цього предмета, просто поклавши його на верстак!",
     "tfg.tooltip.blaze_burner": "§cНаджар§r §7за допомогою коксу, антрациту або бездоганних і вишуканих вугільних самоцвітів.",
     "tfg.tooltip.machine.perfect_overclock": "Ця машина має §2Ідеальний розгін§r!",
+    "tfg.tooltip.machine.parallel": "Може працювати паралельно за допомогою паралельних керуючих люків.",
     "tfg.tooltip.machine.customize_interior": "§7Інтер'єр можна налаштувати! Перевірте попередній перегляд мультиблоку в JEI.",
     "tfg.tooltip.armor.copper_diving_suit_warmth": "§7Тепло: -1",
     "tfg.tooltip.armor.copper_diving_suit_insulation": "§7Ізоляція: +1",
@@ -136,5 +142,11 @@
     "tfg.tooltip.dna_syringe.dirty2": "Обережно, не вколіть цим нікого...",
     "tfg.tooltip.dna_syringe.full": "Зразок ДНК: ",
     "tfg.tooltip.dna_syringe.explain": "Клацніть ПКМ по мобу, щоб отримати зразок ДНК. Розмістіть у сітці крафта, щоб очистити вміст.",
-    "tfg.tooltip.shift_hint": "[Hold-Shift]"
+    "tfg.tooltip.shift_hint": "[Hold-Shift]",
+    "tfg.tooltip.lab_equipment.part": "§7Точно вміщує: ",
+    "tfg.tooltip.lab_equipment.set": "\"§7Не містить круглодонної колби на 5000mB.\"",
+    "tfg.tooltip.lab_equipment.set_dirty": "\"§7Скоро ти можеш відкрити пеніцилін, якщо не прибереш це.\"",
+    "tfg.tooltip.single_itemstack_bus.0": "§6Слоти для предметів: §f1",
+    "tfg.tooltip.single_itemstack_bus.1": "§6Розмір стека: §f1",
+    "tfg.tooltip.growth_chamber": "Ця машина може виконувати більше рецептів одночасно, збільшуючи кількість шарів."
 }

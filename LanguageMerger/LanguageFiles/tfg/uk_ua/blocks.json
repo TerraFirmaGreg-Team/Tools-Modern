@@ -515,6 +515,7 @@
 	"block.tfg.casings.machine_casing_bioculture_glass": "Біокультурне Скло",
 	"block.tfg.casings.bioculture_rotor_primary": "Первинний Біокультурний Ротор",
 	"block.tfg.casings.bioculture_rotor_secondary": "Вторинний Біокультурний Ротор",
+	"block.tfg.casings.machine_casing_ostrum_carbon": "Ostrum Machine Casing",
 	"__comment1": "TODO",
 	"__comment2": "block.tfg.corallium_arenicolus_0: Corallium Arenicolus",
 	"__comment3": "block.tfg.corallium_arenicolus_1: Corallium Arenicolus",
@@ -590,5 +591,17 @@
 	"block.tfg.sandstone.smooth.chiseled.fluorapatite.yellow": "Різьблений жовтий флуорапатитовий пісковик",
 	"block.tfg.large_nest_box": "Велике багряне гніздо",
 	"tfg.block_entity.large_nest_box": "Велика гніздова скринька",
-	"block.tfg.large_nest_box_warped": "Велике покручене гніздо"
+	"block.tfg.large_nest_box_warped": "Велике покручене гніздо",
+	"block.tfg.titanium_concrete": "Titanium-Rebar Concrete",
+	"block.tfg.polished_titanium_concrete": "Polished Titanium-Rebar Concrete",
+	"block.tfg.titanium_concrete_tile": "Titanium-Rebar Concrete Tile",
+	"block.tfg.titanium_concrete_tile_small": "Small Titanium-Rebar Concrete Tile",
+	"block.tfg.titanium_concrete_bricks": "Titanium-Rebar Concrete Bricks",
+	"block.tfg.titanium_concrete_bricks_small": "Small Titanium-Rebar Concrete Bricks",
+	"block.tfg.titanium_concrete_bricks_square": "Square Titanium-Rebar Concrete Bricks",
+	"block.tfg.nuclear_turbine": "Nuclear Steam Turbine",
+	"block.tfg.evaporation_tower": "Випарна камера",
+	"block.tfg.growth_monitor": "Growth Monitor",
+	"block.tfg.sample_rack": "Sample Rack",
+	"block.tfg.casings.machine_casing_sterilizing_pipes": "Sterilizing Pipes"
 }

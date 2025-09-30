@@ -272,5 +272,14 @@
     "item.tfg.filled_dna_syringe": "Заповнений шприц",
     "item.tfg.dirty_dna_syringe": "Брудний шприц",
     "item.tfg.clean_dna_syringe": "Очистити шприц",
-    "item.tfg.stainless_steel_needle": "Голка з нержавної сталі"
+    "item.tfg.stainless_steel_needle": "Голка з нержавної сталі",
+    "item.tfg.empty_rod": "Порожній стрижень ядерного палива",
+    "item.tfg.beaker": "Стакан",
+    "item.tfg.beaker.filled": "Стакан з %s",
+    "item.tfg.flask": "Колба",
+    "item.tfg.flask.filled": "Колба з %s",
+    "item.tfg.vial": "Пробірка",
+    "item.tfg.vial.filled": "Пробірка з %s",
+    "item.tfg.lab_equipment": "Лабораторне обладнання",
+    "item.tfg.dirty_lab_equipment": "Брудне лабораторне обладнання"
 }
