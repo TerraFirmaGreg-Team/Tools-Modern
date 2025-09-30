@@ -148,9 +148,9 @@
     "quests.gregtech_energy.parallel_hatch.desc.1": "&d并行仓&r是大型多方块机器的核心亮点。\n\n它的作用是什么？\n在允许使用的情况下（主要指由合金冶炼炉制作的多方块机器），它能让你&a同时运行多个相同配方&r。\n\n其原理是通过每刻消耗更多能量，来大幅提升整体吞吐量。非常适合用于大规模生产合金、电路或板材。",
     "quests.gregtech_energy.parallel_hatch.desc.2": "只需在多方块结构上放置一个并行仓，并确保它获得足够的能量和输入材料。大多数允许这样做的多方块结构会在 EMI 或任务书中显示。\n\n&d注意&r：大型化学反应器不使用并行仓——它已经自带了一个更好的东西，叫做&b子刻&r——阅读附近的任务以了解更多。",
     "quests.gregtech_energy.parallel_hatch.task": "任意并行仓",
-    "quests.gregtech_energy.rotor.title": "Turbine Rotors",
-    "quests.gregtech_energy.rotor.subtitle": "So many choices!",
-    "quests.gregtech_energy.rotor.desc.1": "Rotor Holders naturally require a Rotor to use, but there's a lot of options and they all have different stats, so what do they all mean?\n\nHigher &9Efficiency&r will increase the time each mB of fuel is used for, effectively reducing fuel usage. Meanwhile, &9Power&r will increase how much EU the turbine will generate. Lastly, &9Durability&r should be obvious.",
-    "quests.gregtech_energy.rotor.desc.2": "Ideally, you'll want to maximize all three, but the choice will depend on how much fuel you're producing, how many turbines you have, and how often you want to replace them, so there's no definitive correct answer. &8(Besides neutronium, of course...)&r\n\nThat being said, if you're completely lost, we recommend Vanadium Steel in &6HV&r, Ultimet in &5EV&r, and HSS-S in &9IV&r.\n\nUnfortunately, you can't automatically pipe new rotors into rotor holders as they need the block in front of them to be completely empty, but a &aMechanical Arm&r will work!",
-    "quests.gregtech_energy.rotor.task": "Any Turbine Rotor"
+    "quests.gregtech_energy.rotor.title": "涡轮转子",
+    "quests.gregtech_energy.rotor.subtitle": "有太多选择了！",
+    "quests.gregtech_energy.rotor.desc.1": "转子支架自然需要安装转子才能使用，但可选种类繁多且属性各异，这些数值究竟意味着什么？\n\n更高的&9效率&r会延长每 mB 燃料的燃烧时间，从而有效降低燃料消耗。而&9功率&r则直接提升涡轮机的发电量。至于&9耐久度&r，其作用不言自明。",
+    "quests.gregtech_energy.rotor.desc.2": "理想情况下，你自然希望三项属性全部最大化，但具体选择取决于你的燃料产量、拥有的涡轮机数量以及你愿意更换转子的频率，因此并无绝对的正确答案。&8（当然，中子ium转子除外…）&r\n\n话虽如此，如果你毫无头绪，我们推荐：在&6HV&r阶段使用钒钢转子，在&5EV&r阶段使用哈氏合金转子，在&9IV&r阶段使用高速钢-S转子。\n\n遗憾的是，你无法通过管道自动将新转子输入转子支架，因其前方必须保持完全空旷，但使用&a机械臂&r则可实现自动化更换！",
+    "quests.gregtech_energy.rotor.task": "任意涡轮转子"
 }
