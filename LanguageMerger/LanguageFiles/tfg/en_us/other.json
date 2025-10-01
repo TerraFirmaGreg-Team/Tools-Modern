@@ -164,5 +164,9 @@
     "tfg.tooltip.lab_equipment.set_dirty": "\"§7Soon you might discover penicillin if you dont clean this.\"",
     "tfg.tooltip.single_itemstack_bus.0": "§6Item Slots: §f1",
     "tfg.tooltip.single_itemstack_bus.1": "§6Stack Size: §f1",
-    "tfg.tooltip.growth_chamber": "This machine can run more recipes at once by increasing the number of layers."
+    "tfg.tooltip.growth_chamber": "This machine can run more recipes at once by increasing the number of layers.",
+
+    "tfg.tooltip.wireless_card_1": "Enables wireless connections from any range, even from different planets!",
+    "tfg.tooltip.wireless_card_2": "Items can still be transferred through the terminal, but at a very high power cost.",
+    "tfg.tooltip.wireless_card_3": "Use a §dRailgun§r for your interplanetary logistical needs instead."
 }

@@ -229,6 +229,8 @@
     "item.tfg.twigs.strophar": "Strophar Twig",
     "item.tfg.twigs.glacian": "Glacian Twig",
     "item.tfg.twigs.alphacene": "Alphacene Twig",
+    "item.tfg.crimsene_gem": "Crimsene Rosin",
+    "item.tfg.warpane_gem": "Warpane Rosin",
 
     "item.tfg.glacian_wool": "Glacian Ram Wool",
     "item.tfg.sniffer_wool": "Mineral Rich Tufts",
@@ -309,5 +311,7 @@
     "item.tfg.vial": "Vial",
     "item.tfg.vial.filled": "Vial of %s",
     "item.tfg.lab_equipment": "Lab Equipment",
-    "item.tfg.dirty_lab_equipment": "Dirty Lab Equipment"
+    "item.tfg.dirty_lab_equipment": "Dirty Lab Equipment",
+
+    "item.tfg.wireless_card": "Interplanetary Wireless Card"
 }
