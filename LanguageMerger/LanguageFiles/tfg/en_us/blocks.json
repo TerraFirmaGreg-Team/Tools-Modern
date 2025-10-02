@@ -551,6 +551,8 @@
 	"block.tfg.casings.bioculture_rotor_secondary": "Secondary Bioculture Rotor",
 
 	"block.tfg.casings.machine_casing_ostrum_carbon": "Ostrum Machine Casing",
+	"block.tfg.glacian_wool_frame": "Framed Glacian Wool",
+  	"block.tfg.aes_insulation_frame": "Framed AES Insulation",
 
 	"__comment1": "TODO",
 	"__comment2": "block.tfg.corallium_arenicolus_0: Corallium Arenicolus",
