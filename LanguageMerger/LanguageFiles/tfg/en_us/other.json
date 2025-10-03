@@ -99,6 +99,10 @@
 
     "emi.category.tfg.block_interaction": "Block Modifications",
 
+    "emi.category.deafission.fission_reactor_coolant": "Fission Reactor Cooling",
+    "emi.category.deafission.fission_reactor_processing": "Fission Reactor Material Holder",
+    "emi.category.deafission.fission_reactor_fuel": "Fission Reactor Fuel",
+
     "tfg.toast.ore_prospector_none": "No ores found in range.",
     "tfg.toast.ore_prospector_message": "Ores found within %s §6blocks in this direction: %s",
     "tfg.tooltip.ore_prospector_stats": "Scan Range: %s, Cross Section: %s x %s.",
@@ -168,5 +172,14 @@
 
     "tfg.tooltip.wireless_card_1": "Enables wireless connections from any range, even from different planets!",
     "tfg.tooltip.wireless_card_2": "Items can still be transferred through the terminal, but at a very high power cost.",
-    "tfg.tooltip.wireless_card_3": "Use a §dRailgun§r for your interplanetary logistical needs instead."
+    "tfg.tooltip.wireless_card_3": "Use a §dRailgun§r for your interplanetary logistical needs instead.",
+
+    "tfg.tooltip.component.blue_ice": "Can be placed inside a Fission Reactor to increase the maximum heat by §90.5§r",
+    "tfg.tooltip.component.aes_insulation_frame": "Can be placed inside a Fission Reactor to increase the maximum heat by §91§r",
+    "tfg.tooltip.component.glacian_fur": "Can be placed inside a Fission Reactor to increase the maximum heat by §92§r",
+    "tfg.tooltip.component.impure_moderate_core_frame": "Can be placed inside a Fission Reactor to increase the maximum heat by §95§r",
+    "tfg.tooltip.component.moderate_core_frame": "Can be placed inside a Fission Reactor to increase the maximum heat by §910§r",
+    "tfg.tooltip.component.dry_ice": "Can be used as an input in the Fission Reactor to cool it down, requires a Material Holder",
+    "tfg.tooltip.component.refrigerant_pellet": "Can be used as an input in the Fission Reactor to cool it down, requires a Material Holder"
+
 }

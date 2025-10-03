@@ -90,9 +90,11 @@
 
     "material.tfg.apt": "Ammonium Paratungstate",
     "material.tfg.ammonium_tungstate": "Ammonium Tungstate",
-    "material.tfg.tungsten-bismuth_oxide_composite": "Bismuth Oxide Composite",
+    "material.tfg.tungsten_bismuth_oxide_composite": "Tungsten-Bismuth Oxide Composite",
     "material.tfg.tungsten_oxide": "Tungsten Oxide",
     "material.tfg.sodium_tungstate": "Sodium Tungstate",
+
+    "material.tfg.tetrafluoroethane": "Tetrafluoroethane",
 
     "__comment1": "Like Crimson and Warped nether trees, but made to sound more like chemicals",
     "material.tfg.crimsene": "Crimsene",
