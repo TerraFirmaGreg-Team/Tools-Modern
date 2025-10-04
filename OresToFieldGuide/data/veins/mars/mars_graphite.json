@@ -36,11 +36,12 @@
 	],
 	"rocks": [
 		"gabbro",
-		"gneiss",
 		"diorite",
-		"schist",
 		"granite",
-		"red_granite"
+		"red_granite",
+		"mars_stone",
+		"dacite",
+		"venus_stone"
 	],
 	"indicator": {
 		"depth": 50
