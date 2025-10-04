@@ -213,6 +213,8 @@
     "item.tfg.twigs.strophar": "Пагінець Строфару",
     "item.tfg.twigs.glacian": "Пагінець Ґлації",
     "item.tfg.twigs.alphacene": "Пагінець Альфацену",
+    "item.tfg.crimsene_gem": "Кримзенова каніфоль",
+    "item.tfg.warpane_gem": "Варпейнова каніфоль",
     "item.tfg.glacian_wool": "Шерсть гляціанського барана",
     "item.tfg.sniffer_wool": "Мінералонасичені пучки",
     "item.tfg.sniffer_egg": "Яйце Нюхача",
@@ -281,5 +283,6 @@
     "item.tfg.vial": "Пробірка",
     "item.tfg.vial.filled": "Пробірка з %s",
     "item.tfg.lab_equipment": "Лабораторне обладнання",
-    "item.tfg.dirty_lab_equipment": "Брудне лабораторне обладнання"
+    "item.tfg.dirty_lab_equipment": "Брудне лабораторне обладнання",
+    "item.tfg.wireless_card": "Міжпланетна бездротова картка"
 }

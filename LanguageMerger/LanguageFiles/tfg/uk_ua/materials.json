@@ -77,7 +77,17 @@
     "material.tfg.regolith_mush": "Кашка з Реголіту",
     "material.tfg.apt": "Паравольфрамат амонію",
     "material.tfg.ammonium_tungstate": "Амоній вольфрамат",
-    "material.tfg.tungsten-bismuth_oxide_composite": "Композит оксиду вісмуту",
+    "material.tfg.tungsten_bismuth_oxide_composite": "Композит із оксиду вольфраму‑вісмуту",
     "material.tfg.tungsten_oxide": "Оксид вольфраму",
-    "material.tfg.sodium_tungstate": "Вольфрам натрію"
+    "material.tfg.sodium_tungstate": "Вольфрам натрію",
+    "material.tfg.tetrafluoroethane": "Тетрафторетан",
+    "__comment1": "Like Crimson and Warped nether trees, but made to sound more like chemicals",
+    "material.tfg.crimsene": "Кримзен",
+    "material.tfg.warpane": "Варпейн",
+    "__comment2": "This is made up, it's like Mycelium + Benzene. The second one should just sound more fancy or processed",
+    "material.tfg.mycelienzene": "Міцеліензен",
+    "material.tfg.cooked_mycelienzane": "1,3‑Міцеліензан",
+    "__comment3": "These two are real",
+    "material.tfg.iodomethane": "Йодметан",
+    "material.tfg.trideuteroiodomethane": "Тридейтеройодметан"
 }
