@@ -58,6 +58,7 @@
 	"ore_vein.tfg.mars_copper": "Copper & Chalcopyrite",
 	"ore_vein.tfg.mars_galena": "Silver, Galena, & Lead",
 	"ore_vein.tfg.mars_sapphire": "Gold, Electrotine, & Bauxite",
+	"ore_vein.tfg.mars_graphite": "Graphite & Diamond",
 	"ore_vein.tfg.mars_hematite": "Hematite & Limonite",
 	"ore_vein.tfg.mars_lubricant": "Trona, Talc, & Glauconite",
 	"ore_vein.tfg.mars_neodynium": "Bastnasite & Monazite",
@@ -136,5 +137,5 @@
 	"ore_vein.tfg.nether_sulfur": "Sulfur & Pyrite",
 	"ore_vein.tfg.nether_sylvite": "Sylvite",
 	"ore_vein.tfg.nether_tetrahedrite": "Tetrahedrite",
-	"ore_vein.tfg.nether_topaz": "Topaz & Chalcocite"
+	"ore_vein.tfg.nether_topaz": "Topaz & Chalcocite",
 }
