@@ -180,6 +180,9 @@
     "tfg.tooltip.component.impure_moderate_core_frame": "Can be placed inside a Fission Reactor to increase the maximum heat by §95§r",
     "tfg.tooltip.component.moderate_core_frame": "Can be placed inside a Fission Reactor to increase the maximum heat by §910§r",
     "tfg.tooltip.component.dry_ice": "Can be used as an input in the Fission Reactor to cool it down, requires a Material Holder",
-    "tfg.tooltip.component.refrigerant_pellet": "Can be used as an input in the Fission Reactor to cool it down, requires a Material Holder"
+    "tfg.tooltip.component.refrigerant_pellet": "Can be used as an input in the Fission Reactor to cool it down, requires a Material Holder",
+
+    "tfg.tooltip.component.nuclear_turbine_1": "§eBase Production:§r 4096 EU/t",
+    "tfg.tooltip.component.nuclear_turbine_2": "Each Rotor Holder above §5EV§r §7adds§r 10% efficiency and multiplies EU/t by 2."
 
 }
