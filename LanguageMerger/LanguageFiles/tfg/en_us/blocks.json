@@ -551,6 +551,7 @@
 	"block.tfg.casings.bioculture_rotor_secondary": "Secondary Bioculture Rotor",
 
 	"block.tfg.casings.machine_casing_ostrum_carbon": "Ostrum Machine Casing",
+	"block.tfg.casings.heat_pipe_casing": "Heat Pipe Casing",
 	"block.tfg.glacian_wool_frame": "Framed Glacian Wool",
   	"block.tfg.aes_insulation_frame": "Framed AES Insulation",
 
@@ -643,6 +644,7 @@
 
 	"block.tfg.nuclear_turbine": "Nuclear Steam Turbine",
 	"block.tfg.evaporation_tower": "Evaporation Tower",
+	"block.tfg.cooling_tower": "Nuclear Cooling Tower",
 
 	"block.tfg.growth_monitor": "Growth Monitor",
 	"block.tfg.sample_rack": "Sample Rack",
