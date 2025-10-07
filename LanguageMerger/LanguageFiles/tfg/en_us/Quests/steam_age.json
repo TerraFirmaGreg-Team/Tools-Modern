@@ -37,7 +37,11 @@
 
 	"quests.steam_age.water_wheel.title": "Water Wheels",
 	"quests.steam_age.water_wheel.subtitle": "Hope you set up your base near a river!",
-	"quests.steam_age.water_wheel.desc": "Water wheels provide much more power than the Animal Crank, at the expense of requiring flowing water. You don't have the ability to move water sources yet, so you'll need to find some sort of river or waterfall to power these.\n\nYou can get treated wood by soaking any planks in creosote from your Coke Oven.",
+	"quests.steam_age.water_wheel.desc": "Water wheels provide much more power than the Animal Crank, at the expense of requiring flowing water. You don't have the ability to move water sources yet, so you'll need to find a river to power these. Oceans and Lakes can also provide a little power, but if you're far inland, you're better off looking at building a windmill.\n\nYou can get treated wood by soaking any planks in creosote from your Coke Oven.",
+
+	"quests.steam_age.large_water_wheel.title": "Large Water Wheels",
+	"quests.steam_age.large_water_wheel.subtitle": "Larger, stronger, more expensive",
+	"quests.steam_age.large_water_wheel.desc": "Large water wheels provide four times as much power as the small water wheels, but still require flowing water from a river. Oceans and Lakes can also provide a little power, but if you're far inland, you're better off looking at building a windmill or steam engine.\n\nYou can get treated wood by soaking any planks in creosote from your Coke Oven.",
 
 	"quests.steam_age.windmill.title": "Windmills",
 	"quests.steam_age.windmill.subtitle": "Pairs well with tulips",
