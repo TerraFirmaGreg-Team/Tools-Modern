@@ -77,7 +77,18 @@
     "material.tfg.regolith_mush": "泥泞风化土",
     "material.tfg.apt": "仲钨酸铵",
     "material.tfg.ammonium_tungstate": "钨酸铵",
-    "material.tfg.tungsten-bismuth_oxide_composite": "氧化铋复合材料",
+    "material.tfg.tungsten_bismuth_oxide_composite": "钨铋氧化物复合材料",
     "material.tfg.tungsten_oxide": "氧化钨",
-    "material.tfg.sodium_tungstate": "钨酸钠"
+    "material.tfg.sodium_tungstate": "钨酸钠",
+    "material.tfg.tetrafluoroethane": "四氟乙烷",
+    "material.tfg.thermally_conductive_fluid": "导热液",
+    "__comment1": "类似绯红与诡异下界菌树种，但命名更贴近化学物质风格",
+    "material.tfg.crimsene": "绯红液",
+    "material.tfg.warpane": "诡异液",
+    "__comment2": "此为虚构物质，名称融合菌丝体与苯环概念。后者需体现精加工或高级处理质感",
+    "material.tfg.mycelienzene": "菌丝苯",
+    "material.tfg.cooked_mycelienzane": "1,3-菌丝烷",
+    "__comment3": "以下两种为真实存在的化合物",
+    "material.tfg.iodomethane": "碘甲烷",
+    "material.tfg.trideuteroiodomethane": "三氘代碘甲烷"
 }

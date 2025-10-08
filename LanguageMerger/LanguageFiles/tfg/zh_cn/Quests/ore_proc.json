@@ -93,7 +93,7 @@
     "quests.ore_proc.thermal_centrifuge.task": "任何热力离心机",
     "quests.ore_proc.sifter.title": "筛矿机",
     "quests.ore_proc.sifter.subtitle": "空岛模拟器",
-    "quests.ore_proc.sifter.desc": "&6筛矿机&r应用于你所有的&a宝石&r。它每块矿石的产量远高于任何其他方法，并且是在&6HV&r激光蚀刻机之前获得无瑕和完美宝石的唯一方法。\n\n更高等级的筛矿机有更高的输出加成，即使你降频使用机器也是如此！",
+    "quests.ore_proc.sifter.desc": "&6筛矿机&r应用于你所有的&a宝石&r。它每块矿石的产量远高于任何其他方法，并且是在&6HV&r激光蚀刻机之前获得无瑕和完美宝石的唯一方法。",
     "quests.ore_proc.sifter.task": "任何筛矿机",
     "quests.ore_proc.centrifuge_sifter.title": "离心矿粉",
     "quests.ore_proc.centrifuge_sifter.subtitle": "副产物的副产物",
