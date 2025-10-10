@@ -42,7 +42,7 @@
     "quests.create_logistics.stock_link.subtitle": "家里有存储总线了",
     "quests.create_logistics.stock_link.desc": "你可以制造的第一个&2高级物流&r机器是&3仓储链接站&r，它可用于创建&d物流网络&r。当放置到&3打包机&r的任意一面时，仓储链接站将&a使打包机所连接的库存对网络可见&r！就其本身而言，仓储链接站并不是超级有用，但它是所有其他即将到来的机器的核心组件……\n\n记得先手持仓储链接站右键点击已放置的仓储链接站，将两者绑定以共享同一网络。要取消此操作，你可以简单地单独合成来仓储链接站清除其调谐。",
     "quests.create_logistics.stock_ticker.title": "仓储发报机",
-    "quests.create_logistics.stock_ticker.subtitle": "服务员！服务员！再来点粉化壤土缠根泥土！",
+    "quests.create_logistics.stock_ticker.subtitle": "服务员！服务员！再来点粉质壤土缠根泥土！",
     "quests.create_logistics.stock_ticker.desc.1": "如果你已经使用&3仓储链接站&r向&d物流网络&r提供了各种物品，下一步就是制作一个可以远程调用所述物品的东西……这就是&3仓储发报机&r的用武之地。与仓储发报机非常相似，你首先需要右击一个现有的链接，将仓储发报机绑定到该网络。然后你需要在仓储发报机旁边放置一个&3烈焰人燃烧室&r或任何坐在&3坐垫&r上的生物，让他们充当&3仓库管理员&r。",
     "quests.create_logistics.stock_ticker.desc.2": "现在这个可怜的生物被终身奴役了，你可以点击它们查看&d物流网络&r上的所有物品。你甚至可以搜索网络中的物品，并创建订单发送到特定地址！这没有范围限制，尽管你需要创建自己的方式来路由通过仓储链接站订购的包裹，并且相关的链接需要被区块加载才能工作。",
     "quests.create_logistics.stock_ticker.desc.3": "此外，你可以设置仓储发包机，使其只显示特定物品，或者设置物品类别。",
