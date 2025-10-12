@@ -114,5 +114,7 @@
 	"block.ad_astra.cracked_glacio_stone_bricks": "Cracked Phonolite Bricks",
 	"block.ad_astra.polished_glacio_stone": "Polished Phonolite",
 	"block.ad_astra.polished_glacio_stone_slab": "Polished Phonolite Slab",
-	"block.ad_astra.polished_glacio_stone_stairs": "Polished Phonolite Stairs"
+	"block.ad_astra.polished_glacio_stone_stairs": "Polished Phonolite Stairs",
+
+	"block.ad_astra.glacio_globe": "Europa Globe",
 }
