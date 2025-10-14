@@ -26,6 +26,16 @@
     "entity.tfg.wraptor.female": "Wraptor",
     "tfg.tooltip.attribution.wraptor": "§9§oCredit: Species",
 
+    "entity.tfg.surfer": "Surfer",
+    "tfg.tooltip.surfer_variant.base": "Teal Hide",
+    "__comment": "For magenta, yellow, blue, red, and pink colors. You can make something up!",
+    "tfg.tooltip.surfer_variant.bubble": "Blossom Berry Hide",
+    "tfg.tooltip.surfer_variant.horn": "Golden Hide",
+    "tfg.tooltip.surfer_variant.tube": "Nox Berry Hide",
+    "tfg.tooltip.surfer_variant.fire": "Sangnum Hide",
+    "tfg.tooltip.surfer_variant.brain": "Glacian Hide",
+    "tfg.tooltip.attribution.surfer": "§9§oCredit: Wan's Ancient Beasts",
+
     "effect.tfg.cooling": "§bCooling",
     "effect.tfg.warming": "§6Warming",
 
