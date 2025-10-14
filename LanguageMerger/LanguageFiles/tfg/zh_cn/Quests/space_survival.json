@@ -97,7 +97,7 @@
     "quests.space_survival.mars_desert.task": "前往火星深层沙漠生物群系",
     "quests.space_survival.sandworm.title": "沙虫",
     "quests.space_survival.sandworm.subtitle": "沙胡德",
-    "quests.space_survival.sandworm.desc": "在沙漠中制造过大声响可能会引来强大的&6沙虫&r！它更像是需要规避的环境威胁而非可讨伐的首领，因此存活下来的最佳方式就是立即逃离！\n\n若能用&b爆炸伤害&r多次击中其头部，它会暂时停止追击…但效果仅能维持片刻。\n\n值得庆幸的是，沙虫仅能对生物造成伤害而无法破坏建筑，且只会被&6玩家&r的脚步声吸引，因此野生动物与火车行驶不会惊动它们。",
+    "quests.space_survival.sandworm.desc": "在沙漠中制造过大声响可能会引来强大的&6沙虫&r！它更像是需要规避的环境威胁而非可讨伐的首领，因此存活下来的最佳方式就是立即逃离！\n\n若能用&b爆炸伤害&r多次击中其头部，它会暂时停止追击…但效果仅能维持片刻。\n\n值得庆幸的是，沙虫仅能对生物造成伤害而无法破坏建筑，且只会被玩家的&6脚步声&r吸引，因此野生动物、交通工具和火车行驶不会惊动它们。",
     "quests.space_survival.spice.title": "紫金矿床",
     "quests.space_survival.spice.subtitle": "美琅脂",
     "quests.space_survival.spice.desc": "&d紫金矿床&r是仅分布于火星深层沙漠的固定生成方块，远离所有富饶区域。它们以小型矿簇形态生成，若位于斜坡位置可被破坏以便为紫金采集器腾出空间。建议使用&6望远镜&r进行远距离定位！\n\n您需要建立长距离物流系统将紫金输送回基地（可尝试铁路运输，蓄电器能实现电力同步传输！）\n\n紫金既是&5EV&r阶段发展的关键资源，也是维系裂变反应堆持续运转的重要燃料。",
