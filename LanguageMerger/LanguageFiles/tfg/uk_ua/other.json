@@ -161,5 +161,8 @@
     "tfg.tooltip.component.impure_moderate_core_frame": "Можна розмістити всередині реактора поділу, щоб підвищити максимальне тепло на §95§r",
     "tfg.tooltip.component.moderate_core_frame": "Можна розмістити всередині реактора поділу, щоб підвищити максимальне тепло на §910§r",
     "tfg.tooltip.component.dry_ice": "Може використовуватися як вхід у реакторі поділу для його охолодження, потребує тримача матеріалів",
-    "tfg.tooltip.component.refrigerant_pellet": "Може використовуватися як вхід у реакторі поділу для його охолодження, потребує тримача матеріалів"
+    "tfg.tooltip.component.refrigerant_pellet": "Може використовуватися як вхід у реакторі поділу для його охолодження, потребує тримача матеріалів",
+    "tfg.tooltip.component.nuclear_turbine_1": "§eБазове виробництво:§r 4096 EU/t",
+    "tfg.tooltip.component.nuclear_turbine_2": "Кожен тримач ротора вище §5EV§r §7додає§r 10% ефективності та множить EU/t на 2.",
+    "tfg.machine.food_refrigerator_power_usage": "§7Споживає§r %s EU/t §7під час роботи, щоб зберігати вашу їжу свіжою.§r"
 }
