@@ -55,7 +55,7 @@
     "quests.ore_proc.dust_processed.desc": "&6矿粉&r是几乎所有矿石的最终形态。\n\n在这个阶段，你可以将其放入&c熔炉&r冶炼，送入&e存储&r系统，或者直接使用！某些矿粉还需要最后一步加工才能真正有用。\n\n务必保持你的&6矿石处理线&r处于最佳状态！随着游戏进程推进，持续扩展和升级你的矿石产线，才能减少采矿时间，专注玩格雷。",
     "quests.ore_proc.macerator_byproduct.title": "粉碎获得副产物",
     "quests.ore_proc.macerator_byproduct.subtitle": "我能从矿石中获得更多！",
-    "quests.ore_proc.macerator_byproduct.desc": "在查看&bEMI&r时，你可能已经注意到你的&d研磨机&r或&d磨盘&r列出的&b输出&r比实际得到的要多。\n\n格雷科技对此的说明并不充分，但这些额外的输出槽仅在&6HV&r等级可用。一旦达到该等级，&6高压&r研磨机会变得异常强大，从每种矿石中提供大量额外副产物。",
+    "quests.ore_proc.macerator_byproduct.desc": "在查看&bEMI&r时，你可能已经注意到你的&d研磨机&r或&d石磨&r列出的&b输出&r比实际得到的要多。\n\n格雷科技对此的说明并不充分，但这些额外的输出槽仅在&6HV&r等级可用。一旦达到该等级，&6HV&r研磨机会变得异常强大，从每种矿石中提供大量额外副产物。",
     "quests.ore_proc.macerator_byproduct.task": "一台HV研磨机或HS粉碎轮",
     "quests.ore_proc.sodium_persuflate.title": "用过硫酸钠浸洗它们",
     "quests.ore_proc.sodium_persuflate.subtitle": "不只用于蚀刻电路板",
