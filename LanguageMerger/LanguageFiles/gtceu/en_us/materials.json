@@ -62,7 +62,8 @@
 	"material.gtceu.tbu-232_pellet":"TBU 232 Pellet",
 	"material.gtceu.plutonium_pellet":"Plutonium Pellet",
 	"material.gtceu.uranium_pellet":"Uranium Pellet",
-	"material.gtceu.thorium_pellet":"Thorium Pellet",
+	"material.gtceu.thorium_pellet": "Thorium Pellet",
+	"material.gtceu.ostrum_iodide": "Ostrum Iodide",
 
 	"material.gtceu.residual_radioactive_concoction":"Residual Radioactive Concoction",
 	"material.gtceu.regolith_vapor":"Regolith Vapor",
