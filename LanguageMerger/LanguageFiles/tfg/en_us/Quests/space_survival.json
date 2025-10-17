@@ -122,7 +122,7 @@
 
 	"quests.space_survival.sandworm.title": "The Sandworm",
 	"quests.space_survival.sandworm.subtitle": "SHAI-HULUD",
-	"quests.space_survival.sandworm.desc": "If you make too much noise in the desert, you might attract the attention of the mighty &6Sandworm&r! It's more of an environmental hazard than a boss to kill, so your best way of surviving it is to run away!\n\nIf you manage to hit its head enough times with &bexplosion damage&r, it will leave you alone... for a while.\n\nThankfully, the Sandworm can only damage entities, not buildings, and is only attracted to the &6footsteps of players&r, so wild animals, vehicles, or trains won't anger it.",
+	"quests.space_survival.sandworm.desc": "If you make too much noise in the desert, you might attract the attention of the mighty &6Sandworm&r! It's more of an environmental hazard than a boss to kill, so your best way of surviving it is to run away!\n\nIf you manage to hit its head enough times with &bexplosion damage&r, it will leave you alone... for a while.\n\nThankfully, the Sandworm can only damage entities, not buildings, and is only attracted to the &6footsteps of players&r, so any way to keep &byour own feet&r off the ground won't anger it. The atmosphere is too thin for airplanes and hang gliders, but there are other tools...",
 
 	"quests.space_survival.spice.title": "Ostrum Deposits",
 	"quests.space_survival.spice.subtitle": "Spice Melange",

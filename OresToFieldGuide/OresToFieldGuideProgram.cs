@@ -19,6 +19,8 @@ namespace OresToFieldGuide
 			"uk_ua", // Ukranian
 			"pt_br", // Brazilian Portuguese
 			"zh_cn", // Simplified Chinese
+			"fr_fr", // French
+			"ja_jp", // Japanese
 		];
 
 		private readonly JsonSerializerOptions m_jsonOptions = new()
