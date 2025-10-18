@@ -27,7 +27,7 @@
 
     "quests.medium_voltage.mv_extruder.title": "Advanced Extruder",
     "quests.medium_voltage.mv_extruder.subtitle": "The biggest upgrade you'll make",
-    "quests.medium_voltage.mv_extruder.desc": "We &lSINCERELY&r hope at &cno&r point you made the &7LV&r Extruder, because only the &bMV&r Extruder is actually useful. If you did, immediately &arecycle it&r through the Arc Furnace.\n\nThe Extruder shapes solid materials into (almost!) any form using &aIngots&r. This is a great way to reduce the amount of microcrafting, as well as keeping a high conversion ratio.\n\nThe Extruder can make &6Bolts&r, &6&6Small Gears&r, &6Gears&r, and &6&6Rings&r at the highest efficiency in a single step!\n\nYou may also like to use it for &dPipes&r, &dScrews&r, and &dRotors&r.",
+    "quests.medium_voltage.mv_extruder.desc": "We &lSINCERELY&r hope at &cno&r point you made the &7LV&r Extruder, because only the &bMV&r Extruder is actually useful. If you did, immediately &arecycle it&r through the Arc Furnace.\n\nThe Extruder shapes solid materials into (almost!) any form using &aIngots&r. This is a great way to reduce the amount of microcrafting, as well as keeping a high conversion ratio.\n\nThe Extruder can make &6Bolts&r, &6Small Gears&r, &6Gears&r, and &6Rings&r at the highest efficiency in a single step!\n\nYou may also like to use it for &dPipes&r, &dScrews&r, and &dRotors&r.",
 
     "quests.medium_voltage.mv_chemical_reactor.title": "Advanced Chemical Reactor",
     "quests.medium_voltage.mv_chemical_reactor.subtitle": "Stronger, better, faster",
