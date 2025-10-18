@@ -24,7 +24,7 @@
 
 	"quests.low_voltage.lv_steam_turbine.title": "Electricity Generation",
 	"quests.low_voltage.lv_steam_turbine.subtitle": "You must construct additional turbines",
-	"quests.low_voltage.lv_steam_turbine.desc.1": "The &3Steam Turbine&r is one of the only generators you can realistically use in &7LV&r. &2Later, you'll unlock more interesting Power options&r, such as natural gases or petrols.\n\nWhen provided Steam, the turbine will output EU at a ratio of &d2 Steam = 1 EU&r.",
+	"quests.low_voltage.lv_steam_turbine.desc.1": "The &3Steam Turbine&r is one of the only generators you can realistically use in &7LV&r. &2Later, you'll unlock more interesting Power options&r, such as natural gases or petrols.\n\nWhen provided Steam, the turbine will output EU at a ratio of &d2 mB = 1 EU&r.",
 	"quests.low_voltage.lv_steam_turbine.desc.2": "If you're using a single &3Steam Turbine&r, you only need &a1x Tin Cables&r. On the other hand, if you upgrade to &32 Steam Turbines&r, you should use &a2x Tin Cables&r - else they may end up &cburning&r.\n\nThis is because of the &9Amperage&r mechanic... but that will be explained later so you can enjoy playing. Don't worry!",
 
 	"quests.low_voltage.lbb.title": "Large Bronze Boiler",
