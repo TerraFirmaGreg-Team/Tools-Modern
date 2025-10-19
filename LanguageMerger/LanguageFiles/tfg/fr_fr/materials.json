@@ -39,7 +39,7 @@
     "material.gtceu.scorchia": "Scorchia",
 
     "material.tfg.kaolinite": "Kaolinite",
-    "material.tfg.vitrified_pearl": "Ender Vitrifié",
+    "material.tfg.vitrified_pearl": "Perle Vitrifié",
 
     "material.tfg.aes_mix": "Mixture de Silicate Alcalino-terreux",
     "material.tfg.molten_aes": "Silicate Alcalino-terreux Fondu",
@@ -84,13 +84,13 @@
 
     "material.tfg.certus_regolith": "Régolithe de Certus",
     "material.tfg.goethe_regolith": "Régolithe de Goethe",
-    "material.tfg.bright_regolith": "Régolithe de Bright",
+    "material.tfg.bright_regolith": "Régolithe Brillant",
     "material.tfg.cassiterite_regolith": "Régolithe de Cassitérite",
-    "material.tfg.regolith_mush": "Regolith de Mush",
+    "material.tfg.regolith_mush": "Bouillie de Régolithe",
 
     "material.tfg.apt": "Paratungstate d'Ammonium",
     "material.tfg.ammonium_tungstate": "Tungstate d'Ammonium",
-    "material.tfg.tungsten-bismuth_oxide_composite": "Composite de d'Oxide de Bismuth",
+    "material.tfg.tungsten-bismuth_oxide_composite": "Composite d'Oxide de Bismuth",
     "material.tfg.tungsten_oxide": "Oxide de Tungsten",
     "material.tfg.sodium_tungstate": "Tungstate de Sodium",
 
