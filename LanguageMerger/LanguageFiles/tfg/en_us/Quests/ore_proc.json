@@ -85,9 +85,9 @@
     "quests.ore_proc.macerator_byproduct.desc": "While looking at &bEMI&r, you've probably noticed that your &dMacerator&r or &dMillstone&r lists more &boutputs&r than what you're actually getting.\n\nGregTech doesn't communicate this very well, but these extra slots are only available in &6HV&r. Once you make it to that tier, the &6HV&r macerator becomes incredibly powerful, giving a huge amount of bonus byproducts from each ore.",
     "quests.ore_proc.macerator_byproduct.task": "Either an HV Macerator or HS Crushing Wheels",
 
-    "quests.ore_proc.sodium_persuflate.title": "Bathe them in Sodium Persulfate",
-    "quests.ore_proc.sodium_persuflate.subtitle": "Not just for circuit board etching",
-    "quests.ore_proc.sodium_persuflate.desc": "Once you get to LV, you may be interested in using a &bChemical Bath&r with &dSodium Persuflate&r to get some extra byproducts. Not all ores can be processed this way, but the ones that can, will get around a &670 percent&r chance of byproducts, compared to the &630 percent&r of the &bOre Washer&r.\n\nSodium Persuflate can be a little annoying to mass produce, though if you want, &9Sea Water&r is a great starting point.\n\nThe quest on the left gives some examples that might be worth the investment.",
+    "quests.ore_proc.sodium_persulfate.title": "Bathe them in Sodium Persulfate",
+    "quests.ore_proc.sodium_persulfate.subtitle": "Not just for circuit board etching",
+    "quests.ore_proc.sodium_persulfate.desc": "Once you get to LV, you may be interested in using a &bChemical Bath&r with &dSodium persulfate&r to get some extra byproducts. Not all ores can be processed this way, but the ones that can, will get around a &670 percent&r chance of byproducts, compared to the &630 percent&r of the &bOre Washer&r.\n\nSodium persulfate can be a little annoying to mass produce, though if you want, &9Sea Water&r is a great starting point.\n\nThe quest on the left gives some examples that might be worth the investment.",
 
     "quests.ore_proc.sodium_ores.title": "Sodium Persulfate bathing examples",
     "quests.ore_proc.sodium_ores.subtitle": "A useful time saver",
