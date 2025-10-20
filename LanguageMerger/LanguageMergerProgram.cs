@@ -2,10 +2,11 @@
 
 namespace LanguageMerger
 {
-    internal class LanguageMergerProgram(ProgramArguments arguments)
+    internal class LanguageMergerProgram(CommandLineOptions options, string langDir)
     {
         private readonly List<ModLocale> r_modLocales = [];
-        private ProgramArguments m_arguments = arguments;
+        private readonly CommandLineOptions r_options = options;
+        private readonly string r_langDir = langDir;
 
         public async Task<bool> Run()
         {
@@ -29,7 +30,7 @@ namespace LanguageMerger
 
         private Task GenerateModLocales()
         {
-            var enumeratedDirectories = m_arguments.LanguageFilesFolder.EnumerateDirectories();
+            var enumeratedDirectories = new DirectoryInfo(r_langDir).EnumerateDirectories();
             foreach (var modDirectory in enumeratedDirectories)
             {
                 ModLocale locale = new ModLocale(modDirectory.Name);
@@ -102,7 +103,7 @@ namespace LanguageMerger
             foreach (ModLocale locale in r_modLocales)
             {
                 ConsoleLogHelper.WriteLine($"Moving merged JSON Files for {locale.r_modID} to the kjs assets folder.", LogLevel.Info);
-                tasks.Add(locale.MoveFilesToKJSAssetsFolder(new DirectoryInfo(m_arguments.KjsAssetsFolder)));
+                tasks.Add(locale.MoveFilesToKJSAssetsFolder(new DirectoryInfo(r_options.AssetsDir!)));
             }
             await Task.WhenAll(tasks);
         }
