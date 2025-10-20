@@ -9,7 +9,11 @@ namespace PakkuLockChecker
     {
         static void Main(string[] args)
         {
-            var modpackFolder = CommonUtil.GetModpackDirectory();
+            var options = CommandLineOptions.Parse(args);
+            if (options is null)
+                return;
+
+            var modpackFolder = options.ModpackDir!;
 
 
             var path = Path.Combine(modpackFolder, "pakku-lock.json");

@@ -2,10 +2,14 @@
 using System.Text.Json.Nodes;
 using Common;
 
-var modpackDir = CommonUtil.GetModpackDirectory();
-var kjsAssetsDir = CommonUtil.GetKJSAssetsFolder(modpackDir);
+var options = CommandLineOptions.Parse(Environment.GetCommandLineArgs());
+if (options is null)
+	return;
 
-var outDir = Path.Combine(kjsAssetsDir, "emi\\category\\properties");
+var modpackDir = options.ModpackDir;
+var kjsAssetsDir = options.AssetsDir;
+
+var outDir = Path.Combine(kjsAssetsDir!, "emi\\category\\properties");
 
 Directory.CreateDirectory(outDir);
 

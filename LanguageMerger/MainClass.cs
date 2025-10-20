@@ -1,4 +1,5 @@
-﻿using Common;
+﻿using System.Diagnostics.CodeAnalysis;
+using Common;
 
 namespace LanguageMerger;
 
@@ -8,17 +9,14 @@ public class MainClass
     {
         Console.WriteLine("Generating Localization Files!");
 
-        if (!TryGetProgramArguments(out ProgramArguments programArguments))
+        if (!TryGetProgramArguments(args, out CommandLineOptions? opts, out string? langDir))
         {
             ConsoleLogHelper.WriteLine("Failed to get Program's Arguments, Press any key to exit...", LogLevel.Error);
             Console.ReadKey();
             return;
         }
 
-        ConsoleLogHelper.WriteLine("Arguments have been obtained! Printing...", LogLevel.Info);
-        ConsoleLogHelper.WriteLine(programArguments.ToString(), LogLevel.Message);
-
-        var programInstance = new LanguageMergerProgram(programArguments);
+        var programInstance = new LanguageMergerProgram(opts!, langDir!);
         bool result = false;
         try
         {
@@ -44,25 +42,25 @@ public class MainClass
         Console.ReadKey();
     }
 
-
-    private static bool TryGetProgramArguments(out ProgramArguments programArguments)
+    private static bool TryGetProgramArguments(string[] args, out CommandLineOptions? options, out string? langDir)
     {
-        programArguments = new ProgramArguments();
-        try
+        options = CommandLineOptions.Parse(args);
+        if (options is null)
         {
-            programArguments.ModpackDirectory = CommonUtil.GetModpackDirectory();
-            programArguments.KjsAssetsFolder = CommonUtil.GetKJSAssetsFolder(programArguments.ModpackDirectory);
-            programArguments.LanguageFilesFolder = GetLanguageFilesFolder();
-        }
-        catch (Exception e)
-        {
-            ConsoleLogHelper.WriteLine($"Exception has been thrown. {e}", LogLevel.Fatal);
+            langDir = null;
             return false;
         }
+
+        langDir = GetLanguageFilesFolder(options);
+        if (langDir is null)
+        {
+            return false;
+        }
+
         return true;
     }
 
-    private static DirectoryInfo GetLanguageFilesFolder()
+    private static string? GetLanguageFilesFolder(CommandLineOptions options)
     {
         var cwd = Directory.GetCurrentDirectory();
 
@@ -71,9 +69,10 @@ public class MainClass
         string languageFilesFolder = Path.Combine(projectFolder, "LanguageFiles");
         if (!Directory.Exists(languageFilesFolder))
         {
-            throw new DirectoryNotFoundException($"The \"LanguageFiles\" folder was not found in {languageFilesFolder}");
+            Console.Error.WriteLine($"The \"LanguageFiles\" folder was not found in {languageFilesFolder}");
+            return null;
         }
 
-        return new DirectoryInfo(languageFilesFolder);
+        return languageFilesFolder;
     }
 }
