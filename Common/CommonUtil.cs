@@ -1,6 +1,6 @@
 ﻿namespace Common
 {
-	public static class CommonUtil
+	internal static class CommonUtil
 	{
 		public static string GetModpackDirectory()
 		{
