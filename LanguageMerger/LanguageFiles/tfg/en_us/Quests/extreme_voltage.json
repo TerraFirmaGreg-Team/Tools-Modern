@@ -330,5 +330,8 @@
 
     "quests.extreme_voltage.martian_sludge.title": "Martian Sludge",
     "quests.extreme_voltage.martian_sludge.subtitle": "The Slop Line",
-    "quests.extreme_voltage.martian_sludge.desc": "Centrifuge the Hexafluorosilic Acid to get your Fluorine back, along with some &6Martian Sludge&r - required for Radon and Nuclear Residue."
+    "quests.extreme_voltage.martian_sludge.desc": "Centrifuge the Hexafluorosilic Acid to get your Fluorine back, along with some &6Martian Sludge&r - required for Radon and Nuclear Residue.",
+
+    "quests.extreme_voltage.large_generators.title": "Extreme Power Generation",
+    "quests.extreme_voltage.large_generators.desc": "The various single-block generators only go up to HV, so from here on, you'll have to use multiblocks to generate more power. Two of the best options at EV are the &dLarge Gas Turbine&r and &dLarge Combustion Engine&r, so head over to the GregTech Energy chapter to learn more about them."
 }
