@@ -25,6 +25,9 @@
     "quests.extreme_voltage.distillation_tower.desc.2": "Like the &6Cleanroom&r, the DT can be made taller, though not wider. Starting from the second layer, each added level requires an &9Output Hatch&r and grants one additional fluid output slot; if a level lacks its output hatch, the corresponding fluid will be voided. Count the number of outputs with &dEMI&r so you know how many layers you need. As always, use the Multiblock Preview tab in &dEMI&r and click the multiblock to see where you can place each part.",
     "quests.extreme_voltage.distillation_tower.desc.3": "&cNote:&r Be careful not to over-overclock the DT when producing fuels! Excessive overclocking can reduce the overall power yield, especially for Diesel. Do the math and double-check your calculations.",
 
+    "quests.extreme_voltage.cracker.subtitle": "You Crack Me Up",
+    "quests.extreme_voltage.cracker.desc": "The &3Cracker&r is a multiblock built with the sole purpose of cracking fluids. It comes with all the recipes of &3Chemical Reactor&r Cracking, but it is &6lossless&r.\n\nThis is a great way to save a lot of Fuel in the long term!\n\nHigher Coil tiers provide a small energy discount - up to 70%% with the best Coils available.",
+
     "quests.extreme_voltage.ev_components.title": "Extreme Voltage Components",
     "quests.extreme_voltage.ev_components.subtitle": "The \"Fun\" will never stop",
     "quests.extreme_voltage.ev_components.desc": "&7By now, you should be getting used to the pattern with every new Energy Tier comes a fresh batch of components.&r\n\nThe &5EV&r tier comes with a few twists - first, &eNeodymium&r. You might already have some stored from your earlier mining trips, but you’ll also find it in large quantities when processing &eMonazite Ore&r.\n\nSecondly, Sensors and Emitters require &bCryogenized Fluix Pearls&r. Hopefully your &dMoon&r infrastructure is up and running to supply them efficiently.\n\nLastly, Motors require Kanthal wire. If you've been diligently upgrading your EBF, these should be significantly faster to craft than when you made them in MV (and you can recycle your old coils too!), but the Alloy Blast Smelter will be able to make this even faster.",
@@ -80,7 +83,7 @@
     "quests.extreme_voltage.thorium_rod.title": "Fuel Rods",
     "quests.extreme_voltage.thorium_rod.subtitle": "Handle with care",
     "quests.extreme_voltage.thorium_rod.desc.1": "Each &6Fuel Rod&r comes with its own set of properties including &adurability&r (how long it lasts in the reactor), &cheat generation&r (how much heat it produces), and even different &eproducts&r and &bsteam output levels&r. You can view all of this information directly in the &aEMI&r tabs for each rod.&r\n\nBefore diving into how the Fission Reactor functions, here are some key points to understand:&r",
-    "quests.extreme_voltage.thorium_rod.desc.2": "• The &eHeat Percentage&r shown on a fuel rod translates to slightly less than double its value inside the reactor. For example, a &eThorium Rod&r with a &cHeat&r of 70% will generate just under 140 heat when enough &bHeavy Water&r is pumped into your reactor. This heat increase is &aadditive&r, meaning that 2 Thorium Rods will raise your reactor’s total heat to around 280.&r",
+    "quests.extreme_voltage.thorium_rod.desc.2": "• The &eHeat Percentage&r shown on a fuel rod translates to slightly less than double its value inside the reactor. For example, a &eThorium Rod&r with a &cHeat&r of 70%% will generate just under 140 heat when enough &bHeavy Water&r is pumped into your reactor. This heat increase is &aadditive&r, meaning that 2 Thorium Rods will raise your reactor’s total heat to around 280.&r",
     "quests.extreme_voltage.thorium_rod.desc.3": "• &aDurability&r decreases at the same base rate for all rods. However, the higher the reactor’s temperature, the faster the rods degrade. Because of this, even if a certain rod type has 4× the durability of another, it doesn’t necessarily mean it will last 4× longer, as &ctemperature directly impacts longevity&r.&r\n\nBalancing the amount of rods within the reactor will be your first challenge with Fission.",
 
     "quests.extreme_voltage.fission_reactor.title": "Fission Reactor",
@@ -155,7 +158,7 @@
     "quests.extreme_voltage.moderate_core.desc": "It’s time for a major upgrade to your &6Fission Reactor&r. The &eFramed Moderate Cores&r come in two versions, depending on your luck. The better version allows your &dPlutonium Reactor&r to run &aone rod fully passively&r, so you can say goodbye to constantly making &bRefrigerant Pellets&r! You could also experiment by combining them with the new framed components, potentially running &atwo Plutonium Rods&r simultaneously.\n\nAlso known as the &6Graphite Line&r, the processing line to craft these new blocks is somewhat random: you might fail the craft or get a lower-tier version. This can make full automation with &dAE2&r slightly trickier, though it’s still possible with careful setup.\n\nWe’ll leave it to you to experiment and figure out the most efficient way to produce these cores.",
 
     "quests.extreme_voltage.abs.subtitle": "We love this heater",
-    "quests.extreme_voltage.abs.desc": "The &6Alloy Blast Smelter&r is a very special multiblock. It works similarly to the &6EBF&r, with better coils allowing for Perfect Overclocking (see the Energy Chapter), and it can process most EBF recipes &a25% faster&r. Note that it outputs molten fluids instead of hot ingots!\n\nOne key feature of the &6ABS&r is its ability to craft the alloys needed for &6Large Multiblock Machines&r. Essentially, every basic machine like the Macerator or the Distillery has its own multiblock, offering extensive customization options such as multiple Input/Output Buses/Hatches or even adding a Parallel Hatch.\n\nFor more details about these multiblocks, refer to the &6Gregtech Energy Chapter&r.",
+    "quests.extreme_voltage.abs.desc": "The &6Alloy Blast Smelter&r is a very special multiblock. It works similarly to the &6EBF&r, with better coils allowing for Perfect Overclocking (see the Energy Chapter), and it can process most EBF recipes &a25%% faster&r. Note that it outputs molten fluids instead of hot ingots!\n\nOne key feature of the &6ABS&r is its ability to craft the alloys needed for &6Large Multiblock Machines&r. Essentially, every basic machine like the Macerator or the Distillery has its own multiblock, offering extensive customization options such as multiple Input/Output Buses/Hatches or even adding a Parallel Hatch.\n\nFor more details about these multiblocks, refer to the &6Gregtech Energy Chapter&r.",
 
     "quests.extreme_voltage.ev_mixer.title": "&5EV Mixer&r",
     "quests.extreme_voltage.ev_mixer.subtitle": "Faster than your local bartender",
@@ -189,7 +192,7 @@
 
     "quests.extreme_voltage.large_miner.title": "The Large Miner MK I",
     "quests.extreme_voltage.large_miner.subtitle": "Your first actually good miner",
-    "quests.extreme_voltage.large_miner.desc": "The &bLarge Miner&r is a very impressive multiblock for mining the formidable veins you can encounter. It will output ores in their &acrushed forms&r, and rewarding an average of 50% more resources! It does have some limitations, as you will need to keep it chunkloaded and provide it with a constant supply of drilling fluid.\n\nWe strongly advise moving it around using the &bCopy Paste Tool&r from Building Gadgets once you unlock it. You can add a battery buffer, a large reserve of drilling fluid, and adequate storage (such as a well-upgraded Backpack or ME Chest) to ensure it runs smoothly for a long time.",
+    "quests.extreme_voltage.large_miner.desc": "The &bLarge Miner&r is a very impressive multiblock for mining the formidable veins you can encounter. It will output ores in their &acrushed forms&r, and rewarding an average of 50%% more resources! It does have some limitations, as you will need to keep it chunkloaded and provide it with a constant supply of drilling fluid.\n\nWe strongly advise moving it around using the &bCopy Paste Tool&r from Building Gadgets once you unlock it. You can add a battery buffer, a large reserve of drilling fluid, and adequate storage (such as a well-upgraded Backpack or ME Chest) to ensure it runs smoothly for a long time.",
 
     "quests.extreme_voltage.ostrum_harvester.title": "Ostrum Harvester",
     "quests.extreme_voltage.ostrum_harvester.subtitle": "Better coils means less energy usage",
@@ -220,6 +223,28 @@
     "quests.extreme_voltage.liquid_mars_air.title": "Martian Air",
     "quests.extreme_voltage.liquid_mars_air.subtitle": "Even more gases",
     "quests.extreme_voltage.liquid_mars_air.desc": "Distilling &bLiquid Air&r is a core mechanic in &6GregTech&r to obtain an &linfinite supply&r of certain rare materials. Since you can’t obtain Nether Air or Ender Air in TFG, we provide an alternative with &cMartian Air&r.\n\nIt’s highly rich in &bArgon&r and &aCarbon Dioxide&r, but it can also yield rare gases such as &eNeon&r, &3Krypton&r, and &9Xenon&r, all unavailable elsewhere.\n\nNote that future updates may move around some of these Noble Gases as we finish more planets. Always remember to check the &6changelogs&r for updates!",
+
+    "quests.extreme_voltage.epoxy.title": "Epoxy",
+    "quests.extreme_voltage.epoxy.subtitle": "Artificial Resin",
+    "quests.extreme_voltage.epoxy.desc.1": "&aEpoxy&r is the foundation for all future Circuit Boards in the game!\n\n&9&lNote:&r This Quest is quite complicated, so tackle everything else before trying to make Epoxy. You'll need all the help you can get!",
+    "quests.extreme_voltage.epoxy.desc.2": "There are several ways to obtain the ingredients for &aEpoxy&r.\n\nWe will ignore recipes related to Glycerol, as they're never worth it.\n\nTry and use &3Large Chemical Reactors&r to shortcut recipes.",
+    "quests.extreme_voltage.epoxy.desc.3": "&dChlorine&r is only partially recycled, so you'll need a constant supply. Feeding it manually will be sufficient at first.\n\nRecipes involving &dSodium Hydroxide&r could be looped by electrolyzing the &9Salt Water&r co-product.\n\nDoing this will probably require you to make some Quadruple Pipes, Pump Covers, Fluid Filters... or route everything using AE2.\n\nIn general, closed loop setups are nice to prevent overproduction or overconsumption, but go for whatever's more fun for you.",
+
+    "quests.extreme_voltage.epichlorohydrin.title": "Epichlorohydrin",
+    "quests.extreme_voltage.epichlorohydrin.desc": "You're going to want to use the &3LCR&r recipe for your first &aEpichlorohydrin&r.\n\nThis recipe requires &aPropene&r, which means that &dOil Processing&r and &dFuel Cracking&r are now necessary ventures. We're truly sorry if you've been dragging your heels!\n\nIt's quite important that you make your first &3Distillation Tower&r before progressing to the right.\n\nLast of all, if you haven't noticed, you can loop the &dSalt Water&r byproduct to bootstrap the &dSodium Hydroxide&r.",
+
+    "quests.extreme_voltage.phenol.title": "Phenol",
+    "quests.extreme_voltage.phenol.desc.1": "Obtain &aPhenol&r from:\n\n&91 -&r &aWood Tar&r distillation.\n\n&92 -&r Reacting &aBenzene&r with &dChlorine&r and &dSodium Hydroxide&r This should be performed in an &3LCR&r, and the Chlorine is perfectly looped.\n\n&93 -&r Shortcutting the above recipe by ignoring the &dSodium Hydroxide&r. This is net negative on &dChlorine&r.\n\n&94 -&r Reacting &aBenzene&r, &dPropene&r and &dOxygen&r using a small amount of &4Phosphoric Acid&r - normally a catalyst, but consumed here in small quantities. This is called the Cumene process.",
+    "quests.extreme_voltage.phenol.desc.2": "If you're having trouble deciding between the options presented, here's the appeal of each route:\n\n&91 -&r Great if you're willing to set up a &3Pyrolyse Oven&r + &3Distillation Tower&r combo.\n\n&92 -&r This one's our preference! You can use the &dSalt&r to make more &dSalt Water&r, then electrolyze to create a loop.\n\n&93 -&r Very appealing if you have an infinite supply of &dChlorine&r. You could achieve this by setting up a &3Fluid Drilling Rig&r on a Salt Water vein.\n\n&94 -&r ...&4Phosphoric Acid&r is a pain to produce. You'd be mad to consider this.",
+    "quests.extreme_voltage.phenol.desc.3": "&l&3Lore:&r&o The Benzene + Oxygen recipe was added in GTCE with the intent of fixing missing chemical recipes, as the Large Chemical Reactor didn't exist. Now that CEu provides more realistic options, we may remove the recipe in future.",
+
+    "quests.extreme_voltage.acetone.title": "Acetone",
+    "quests.extreme_voltage.acetone.desc.1": "While distilling &aWood Vinegar&r gives &aAcetone&r, the yield is low and might not meet your needs.\n\nYou might want to use the direct &3LCR&r recipe from &aAcetic Acid&r to obtain &aAcetone&r.\n\nIf you want to be fancy, you can also the good old &aAcetic Acid&r -> &dDissolved Calcium Acetate&r -> &aAcetone&r loop, which does not require a &3LCR&r, but still recycles the Calcium compound perfectly.",
+    "quests.extreme_voltage.acetone.desc.2": "We've been talking about Acetic Acid, but we're yet to tell you how to obtain it. Wouldn't that be great?\n\n&aAcetic Acid&r can be synthesized in the &3Chemical Reactor&r. Our favorite recipe is from &dEthylene&r.",
+
+    "quests.extreme_voltage.aes_insulation.title": "Alkaline Earth Silicate Insulation",
+    "quests.extreme_voltage.aes_insulation.subtitle": "Also known as Rockwool",
+    "quests.extreme_voltage.aes_insulation.desc": "A new tier means a new kind of insulation!\n\nTo get started with this one, you'll want to look at the mixer recipe for &dAlkaline Earth Silicate Mixture Dust&r. Eventually, you'll be able to make an infinite supply of this on Mars through Sniffer and Wraptor shearing, as it's used for more than just your next Rocket.",
 
     "quests.extreme_voltage.epoxy_board.subtitle": "A new board, there is more to come",
     "quests.extreme_voltage.epoxy_board.desc": "Epoxy Circuit Boards are a key component required to craft your &bNano Circuits&r, but they won’t have much use outside of that purpose.",
@@ -256,5 +281,54 @@
 
     "quests.extreme_voltage.tunsgten_line_step_2.title": "Last part of the Tungsten Line",
     "quests.extreme_voltage.tunsgten_line_step_2.subtitle": "This part loops itself",
-    "quests.extreme_voltage.tunsgten_line_step_2.desc": "Once you’ve obtained the &bTungstic Acid&r and looped the &cSoda Ash&r, you’ve completed the hardest part. From here, you’ll only need an &6Evaporation Tower&r to fully loop the &aHydrogen&r required for the &6Arc Furnace&r, and a &6Pyrolyse Oven&r to recover the &3Ammonia&r you used at the start.\n\nNothing too difficult, so enjoy your &5Tungsten&r!"
+    "quests.extreme_voltage.tunsgten_line_step_2.desc": "Once you’ve obtained the &bTungstic Acid&r and looped the &cSoda Ash&r, you’ve completed the hardest part. From here, you’ll only need an &6Evaporation Tower&r to fully loop the &aHydrogen&r required for the &6Arc Furnace&r, and a &6Pyrolyse Oven&r to recover the &3Ammonia&r you used at the start.\n\nNothing too difficult, so enjoy your &5Tungsten&r!",
+
+    "quests.extreme_voltage.advanced_fluid_rig.title": "Extreme Fluid Drilling",
+    "quests.extreme_voltage.advanced_fluid_rig.subtitle": "Extreme is an apt descriptor",
+    "quests.extreme_voltage.advanced_fluid_rig.desc.1": "At the cost of 4x the drilling Power, the &3Advanced Fluid Drilling Rig&r gains &616x the output&r in Fluid.\n\nThe depletion of veins is also halved. This means you will get a total of &632x&r as much Oil (or whatever fluid) from a bedrock fluid vein until depletion!\n\nEven when depleted, you can still use this and be firmly power positive.\n\nOne single &3Advanced Fluid Drilling Rig&r should be enough to supply Power for a base up to &dLuV&r... and possibly beyond!",
+    "quests.extreme_voltage.advanced_fluid_rig.desc.2": "As a &9reminder&r, since this last appeared in &bMV&r:\n\n&9-&r &aLight Oil&r can be used for &dLPG&r and &dMethane&r to run in &3Large Gas Turbines&r.\n\n&9-&r &aOil&r can be used for &dDiesel&r and &dCetane-Boosted Diesel&r to run in &3Large Combustion Engines&r.\n\n&9-&r &aHeavy Oil&r can be used for &dNitrobenzene&r to run in &3Large Gas Turbines&r.",
+
+    "quests.extreme_voltage.mpic_chip.title": "Power Integrated Circuit",
+    "quests.extreme_voltage.mpic_chip.desc": "New Cutting Machine? &a✓&r\n\nNew Lens? &a✓&r\n\nNew Power Circuit? &a✓&r\n\nNew EBF Metal required? &a✓&r\n\nNew Coil for Energy Hatch? &a✓&r",
+
+    "quests.extreme_voltage.ev_energy_hatch.desc": "Another tier, another energy hatch. You know what to do with this!",
+
+    "quests.extreme_voltage.ev_dynamo_hatch.title": "EV Dynamo Hatch",
+    "quests.extreme_voltage.ev_dynamo_hatch.desc": "If you haven't encountered them yet, Dynamo Hatches are essentially the Output equivalent of Energy Hatches. You'll want to use these on your new Large Generators for some proper EV power, covered in the next quests.",
+    "quests.extreme_voltage.ev_dynamo_hatch.task": "Any EV Dynamo Hatch",
+
+    "quests.extreme_voltage.oil_distillation.title": "True Oil Distillation",
+    "quests.extreme_voltage.oil_distillation.desc": "Here are the four most relevant &dHydrocarbons&r you will be obtaining from distilling Steam-Cracked Fuels.\n\nYou will want to set this up &lbefore&r moving to &1IV&r.\n\n&aSteam-Cracked Light Fuel&r as input is probably the most favorable, but you are free to experiment.\n\nIf you don't want the Carbon output, feel free to slap a Voiding Cover on it.",
+    "quests.extreme_voltage.oil_distillation.task": "Any oil",
+
+    "quests.extreme_voltage.wood_distillation.title": "True Organic Distillation",
+    "quests.extreme_voltage.wood_distillation.desc.1": "This Quest requires the &3Pyrolyse Oven&r and is &doptional&r, yet convenient.\n\nThese four fluids are the important products of &aWood Tar&r Distillation:\n\n&9-&r Phenol: useful for Epoxy and PBI\n&9-&r Benzene: an important hydrocarbon\n&9-&r Toluene: useful for TNT\n&9-&r Dimethylbenzene: useful for PBI\n\nUnlike Oil, putting &aWood Tar&r in the &3Distillation Tower&r for the byproducts, and using &dNitrobenzene&r for power is arguably worth it.",
+    "quests.extreme_voltage.wood_distillation.desc.2": "These three are the important products from &aWood Vinegar&r Distillation:\n\n&9-&r Acetic Acid: useful to make more Acetone\n\n&9-&r Methanol: a moderately important hydrocarbon\n\n&9-&r Acetone: useful for Epoxy and Gasoline",
+    "quests.extreme_voltage.wood_distillation.desc.3": "It's also possible to use a \"full combo\" of 4 &3DTs&r - input &aCharcoal Byproducts&r into a first tower, splitting into &aWood Tar&r, &aWood Gas&r and &aWood Vinegar&r.\n\nThis isn't the most efficient cost-to-production ratio, but the option is there if you get bored.",
+    "quests.extreme_voltage.wood_distillation.task": "Any of these",
+
+    "quests.extreme_voltage.new_qol.title": "New QoL?",
+    "quests.extreme_voltage.new_qol.desc": "Here's some useful tools that you've unlocked with the EV Assembler.",
+
+    "quests.extreme_voltage.building_gadgets.title": "Building Gadgets",
+    "quests.extreme_voltage.building_gadgets.subtitle": "Paving over beautiful landscapes with just one press of a button!",
+    "quests.extreme_voltage.building_gadgets.desc": "Looking to expand your factory building even further? Want to just paste down another multiblock? Or is that mountain blocking your view?\n\nLook no further than Building Gadgets, a collection of tools that can do all that and more. These are your perfect building tools going forward, and they come with a manual too!",
+
+    "quests.extreme_voltage.gasoline.title": "Gasoline",
+    "quests.extreme_voltage.gasoline.desc": "&aGasoline&r is an extremely powerful Combustion Fuel. It's over &63 times&r as energy dense as &dDiesel&r!\n\n&9Note:&r This Combustion Fuel exists solely as a &echallenge&r for you to overcome if you desire to take on it.\n\nIt's completely &doptional&r, so we'll let you figure out how to obtain it, without any further tips.",
+
+    "quests.extreme_voltage.radiation.title": "Dealing with Radiation",
+    "quests.extreme_voltage.radiation.subtitle": "Extra Spicy Materials",
+    "quests.extreme_voltage.radiation.desc.1": "While GregTech doesn't have any sort of \"ambient radiation\" like some other mods do, &aradioactive materials&r are still dangerous to the player when held! This applies to any item that says it's &eCarcinogenic&r and is caused by &eAny Contact&r.\n\nThere's a few ways to mitigate this, and the easiest is to just avoid contact with the items in the first place - move them around with pipes, backpacks, or even Small Vessels. The less time you have them in your inventory, the better!",
+    "quests.extreme_voltage.radiation.desc.2": "Besides this, you'll want some other ways to protect yourself. Wearing equipment tagged as &e#ppe_armor&r in all four slots will protect you from radiation. However, this will still damage the equipment over time (at a rate equivalent to how much the radiation would affect you), &oexcept&r for the &6Hazardous Material Suit&r, which will never take damage from it.\n\nThe downside is that the hazmat suit isn't a space suit, so on Mars it's up to you whether you want to set up an enclosed Oxygenated base for the hazmat suit, or just take the durability damage on your space suit.",
+    "quests.extreme_voltage.radiation.desc.3": "Lastly, you can check your radiation poisoning at any time with the &a/medical_condition query&r command. If it gets too high, you will start taking occasional damage or just suddenly die, so you want to prevent it.\n\nThe only other way to treat it is to craft and eat &bRad Away&r pills, which will each remove 50% of the build-up.",
+    "quests.extreme_voltage.radiation.task": "Safety First!",
+
+    "quests.extreme_voltage.hexafluorosilic_acid.title": "Hexafluorosilic Acid",
+    "quests.extreme_voltage.hexafluorosilic_acid.subtitle": "There's something in the water...",
+    "quests.extreme_voltage.hexafluorosilic_acid.desc": "Hexafluorosilic Acid is obtained by bathing Red Granite, Trachyte, or Argillite Dust in Hydrofluoric acid. You can get an infinite amount of this dust from a Rock Crusher.",
+
+    "quests.extreme_voltage.martian_sludge.title": "Martian Sludge",
+    "quests.extreme_voltage.martian_sludge.subtitle": "The Slop Line",
+    "quests.extreme_voltage.martian_sludge.desc": "Centrifuge the Hexafluorosilic Acid to get your Fluorine back, along with some &6Martian Sludge&r - required for Radon and Nuclear Residue."
 }
