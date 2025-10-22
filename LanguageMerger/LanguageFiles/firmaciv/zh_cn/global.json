@@ -31,5 +31,11 @@
     "block.firmaciv.wood.hevea_roofing": "三叶胶木屋顶",
     "block.firmaciv.wood.fig_roofing": "无花果木屋顶",
     "block.firmaciv.wood.ironwood_roofing": "铁木屋顶",
-    "block.firmaciv.wood.ipe_roofing": "重蚁木屋顶"
+    "block.firmaciv.wood.ipe_roofing": "重蚁木屋顶",
+    "item.firmaciv.cannon_barrel": "加农炮管",
+    "item.firmaciv.small_triangular_sail": "小帆",
+    "item.firmaciv.medium_triangular_sail": "中帆",
+    "item.firmaciv.large_triangular_sail": "大帆",
+    "item.firmaciv.cannon": "加农炮",
+    "item.firmaciv.sloop_icon_only": "单桅纵帆船（仅图标）"
 }
