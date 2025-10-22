@@ -12,20 +12,19 @@
 	"ores": [
 		{
 			"ore": "soapstone",
-			"weight": 10
+			"weight": 15
 		},
 		{
 			"ore": "talc",
-			"weight": 20,
-			"block_weight": 1
+			"weight": 15
 		},
 		{
 			"ore": "glauconite_sand",
-			"weight": 15
+			"weight": 5
 		},
 		{
 			"ore": "trona",
-			"weight": 15
+			"weight": 25
 		},
 		{
 			"ore": "pentlandite",
