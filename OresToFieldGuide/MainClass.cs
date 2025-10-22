@@ -17,7 +17,7 @@ namespace OresToFieldGuide
 			Console.WriteLine("Creating updated entries of Ores for the Field Guide!");
 
 			//Get our arguments based off the application's location, preprocessor directives, etc
-			if (!TryGetProgramArguments(out ProgramArguments programArguments))
+			if (!TryGetProgramArguments(args, out ProgramArguments programArguments))
 			{
 				ConsoleLogHelper.WriteLine("Failed to get Program's Arguments, Press any key to exit...", LogLevel.Error);
 				Console.ReadKey();
@@ -35,20 +35,30 @@ namespace OresToFieldGuide
 			Console.ReadKey();
 		}
 
-		private static bool TryGetProgramArguments(out ProgramArguments programArguments)
+		private static bool TryGetProgramArguments(string[] args, out ProgramArguments programArguments)
 		{
 			programArguments = new ProgramArguments();
+
+			var options = CommandLineOptions.Parse(args);
+			if (options is null)
+				return false;
+
 			try
 			{
-				programArguments.ModpackFolder = CommonUtil.GetModpackDirectory();
+				programArguments.ModpackFolder = options.ModpackDir!;
 				programArguments.DataFolder = GetDataDirectory();
 				programArguments.WhitelistedPatchouliEntryFilenames = GetWhitelistedPatchouliEntryFilenames();
 
 				var cwd = Directory.GetCurrentDirectory();
 				programArguments.ToolsFolder = cwd.Substring(0, cwd.IndexOf(PROJECT_NAME));
 
-				// TODO: idk how else to get this programmatically
-				programArguments.CoreFolder = "C:\\Users\\Pyritie\\IdeaProjects\\TFG-Core-Modern";
+				if (options.CoreDir is null || !Directory.Exists(options.CoreDir))
+				{
+					Console.Error.WriteLine("Path to Core-Modern not found or provided!");
+					return false;
+				}
+
+				programArguments.CoreFolder = options.CoreDir!;
 			}
 			catch (Exception e)
 			{

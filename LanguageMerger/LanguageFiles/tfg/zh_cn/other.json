@@ -98,7 +98,7 @@
     "emi.category.tfg.blaze_burner": "烈焰人燃烧室燃料",
     "emi.category.tfg.block_interaction": "方块改动",
     "emi.category.deafission.fission_reactor_coolant": "裂变反应堆冷却剂",
-    "emi.category.deafission.fission_reactor_processing": "裂变反应堆材料支架",
+    "emi.category.deafission.fission_reactor_processing": "裂变反应堆材料仓",
     "emi.category.deafission.fission_reactor_fuel": "裂变反应堆燃料",
     "tfg.toast.ore_prospector_none": "范围内未发现矿石。",
     "tfg.toast.ore_prospector_message": "在此方向 %s §6格范围内发现矿石：%s",
@@ -173,5 +173,7 @@
     "tfg.tooltip.component.refrigerant_pellet": "可作为裂变反应堆的输入物以冷却反应堆，需要材料支架",
     "tfg.tooltip.component.nuclear_turbine_1": "§e基础产出：§r 4096 EU/t",
     "tfg.tooltip.component.nuclear_turbine_2": "每个高于 §5EV§r 阶段的转子支架 §7可提升§r 10% 效率，并使 EU/t 产出翻倍。",
+    "tfg.gui.refrigerator.unify_dates.enabled": "过期日期统一：§a开",
+    "tfg.gui.refrigerator.unify_dates.disabled": "过期日期统一：§a关",
     "tfg.machine.food_refrigerator_power_usage": "§7工作时消耗§r %s EU/t §7以保持食物新鲜。§r"
 }
