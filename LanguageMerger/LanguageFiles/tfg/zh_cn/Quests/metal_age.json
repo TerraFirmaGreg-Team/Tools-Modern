@@ -3,7 +3,7 @@
     "quests.metal_age.subtitle": "你的第一次技术进步。",
     "quests.metal_age.weld_bronze_ingots.title": "焊接青铜",
     "quests.metal_age.weld_bronze_ingots.subtitle": "我告诉过你要习惯它",
-    "quests.metal_age.weld_bronze_ingots.desc": "获取至少14个任意类型的青铜锭，然后在铜砧上将它们焊接在一起。\n\n二级砧可以用铋青铜、青铜或黑青铜制作，但不能混合使用这三种。",
+    "quests.metal_age.weld_bronze_ingots.desc": "获取至少14个任何类型的青铜锭，然后在铜砧上将它们焊接在一起。\n\n二级砧可以用铋青铜、青铜或黑青铜制作，但不能混合使用这三种。",
     "quests.metal_age.anvil_recycling.title": "回收砧？",
     "quests.metal_age.anvil_recycling.subtitle": "因为现在14个锭还是挺多的",
     "quests.metal_age.anvil_recycling.desc": "一旦你制作了下一级的砧（例如从铜砧升级到青铜砧，或从青铜砧升级到锻铁砧），前一级的砧基本上就没用了。\n\n然而，由于它是金属制成的，你&o可以并且应该&r将前一级的砧熔化成液态金属形式！\n拿一个容器，将其放在木炭锻炉界面的右侧，然后放置砧并慢慢加热直到达到熔化温度。熔融金属将被存入容器内，然后你可以将其重新铸造成锭或任何你喜欢的东西！",
