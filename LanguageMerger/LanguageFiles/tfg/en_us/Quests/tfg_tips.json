@@ -435,6 +435,10 @@
     "quests.tfg_tips.self_defense.title": "Self-defense",
     "quests.tfg_tips.self_defense.subtitle": "Got zombies on your lawn?",
     "quests.tfg_tips.self_defense.desc": "Place a &3Cranktrap&r next to a pressure plate, and they'll completely immobilize whatever animal (or monster!) steps on it. Great for catching that elusive animal in the forest, or for defending your home.\n\n&3Barbed Wire&r is completely passive and just inflicts damage to anything that walks through it.",
+    
+    "quests.tfg_tips.lightning_rod.title":"Lightning Rod",
+    "quests.tfg_tips.lightning_rod.subtitle":"Undesirable voltage",
+    "quests.tfg_tips.lightning_rod.desc":"As thunderstorms are way more active and violent in TerraFirmaCraft, you might find the frequency of lightnings rather annoying. To solve that problem completely, you can use a &dLightning Rod&r for the cheap price of 3 copper rods.\n\nThe &dLightning Rod&r can redirect all lightning onto itself in a spherical radius of &3128 blocks&r.\nBeware: It will still create fire in &33 blocks&r around itself, place it on an elevation from your flammables or on a non-flammable base.",
 
     "__comment10": "#endregion",
 
