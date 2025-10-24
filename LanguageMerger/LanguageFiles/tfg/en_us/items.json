@@ -304,9 +304,11 @@
 
     "item.tfg.flax_seeds": "Flax Seeds",
     "item.tfg.flax_product": "Flax Stems",
+    "item.tfg.flax_bundle": "Flax Bundle",
     "item.tfg.flax_line": "Flax Line Fibers",
     "item.tfg.flax_tow": "Flax Tow Fibers",
     "item.tfg.flax_waste": "Scraped Flax",
+    "item.tfg.bundled_scraped_flax": "Bundled Scraped Flax",
     "item.tfg.linen_thread": "Linen Thread",
     "item.tfg.linen_cloth": "Linen Cloth",
 
