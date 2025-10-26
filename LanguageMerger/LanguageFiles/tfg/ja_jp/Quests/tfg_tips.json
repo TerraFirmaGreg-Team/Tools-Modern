@@ -59,11 +59,11 @@
 
     "quests.tfg_tips.backpack_materials.title": "Materials for a Backpack",
     "quests.tfg_tips.backpack_materials.subtitle": "Sleeping bag not included",
-    "quests.tfg_tips.backpack_materials.desc": "There are two options for backpacks: the &5Frame Pack&r or the &3Sophisticated Backpack&r\n\nA &5Frame Pack&r is a dense backpack allowing you to store up to &c64&r items in each slot no &omatter their standard stack size&r.\n\nA &3Sophisticated Backpack&r is the primary way to expand your portable inventory size going forward. The first tier will more than double your normal inventory, and further tiers increase it even more! It also comes with a wide variety of &afunctional upgrades&r, and different parts of it can be dyed different colors!",
+    "quests.tfg_tips.backpack_materials.desc": "There are two options for backpacks: the &5Frame Pack&r or the &3リュック&r\n\nA &5Frame Pack&r is a dense backpack allowing you to store up to &c64&r items in each slot no &omatter their standard stack size&r.\n\nA &3リュック&r is the primary way to expand your portable inventory size going forward. The first tier will more than double your normal inventory, and further tiers increase it even more! It also comes with a wide variety of &afunctional upgrades&r, and different parts of it can be dyed different colors!",
 
     "quests.tfg_tips.first_backpack.title": "Your First Backpack",
     "quests.tfg_tips.first_backpack.subtitle": "No, the map won't magically appear.",
-    "quests.tfg_tips.first_backpack.desc": "This is your first &3Sophisticated Backpack.&r It has a total of &c36&r inventory slots and can hold &aone upgrade.&r Check the two branches after this to learn about inventory and backpack upgrades.",
+    "quests.tfg_tips.first_backpack.desc": "This is your first &3リュック.&r It has a total of &c36&r inventory slots and can hold &aone upgrade.&r Check the two branches after this to learn about inventory and backpack upgrades.",
 
     "quests.tfg_tips.red_steel_backpack.title": "Red Steel Backpack",
     "quests.tfg_tips.red_steel_backpack.subtitle": "Cooler than a Blue Steel Backpack",
@@ -83,7 +83,7 @@
 
     "quests.tfg_tips.backpack_upgrades.title": "Backpack Upgrades",
     "quests.tfg_tips.backpack_upgrades.subtitle": "More than just a backpack",
-    "quests.tfg_tips.backpack_upgrades.desc": "&aBackpack Upgrades&r can be installed in your &3Sophisticated Backpacks&r, giving your backpack new abilities and utilities.\n\nYou'll need access to &bSteel&r to be able to craft these upgrade bases.",
+    "quests.tfg_tips.backpack_upgrades.desc": "&aBackpack Upgrades&r can be installed in your &3リュックs&r, giving your backpack new abilities and utilities.\n\nYou'll need access to &bSteel&r to be able to craft these upgrade bases.",
 
     "quests.tfg_tips.crafting_upgrade.title": "Crafting Upgrade",
     "quests.tfg_tips.crafting_upgrade.subtitle": "A Workbench on the go!",
@@ -95,7 +95,7 @@
 
     "quests.tfg_tips.all_backpack_upgrades.title": "ALL THE UPGRADES",
     "quests.tfg_tips.all_backpack_upgrades.subtitle": "You can't even fit all of these in a single backpack...",
-    "quests.tfg_tips.all_backpack_upgrades.desc": "These are all the backpack upgrades &3Sophisticated Backpacks&r has to offer. Can you craft them all?",
+    "quests.tfg_tips.all_backpack_upgrades.desc": "These are all the backpack upgrades &3リュックs&r has to offer. Can you craft them all?",
 
     "__comment4": "#endregion",
 
@@ -209,7 +209,7 @@
 
     "quests.tfg_tips.phantom_silk.title": "Phantom Silk",
     "quests.tfg_tips.phantom_silk.subtitle": "Everyone's favourite mob vote winner",
-    "quests.tfg_tips.phantom_silk.desc": "&dPhantom Silk&r is weaved from Phantom Thread, which itself is crafted from Phantom Membrane. You can find &aPhantoms&r in the &4Beneath&r.",
+    "quests.tfg_tips.phantom_silk.desc": "&dPhantom Silk&r is weaved from ファントムの糸, which itself is crafted from Phantom Membrane. You can find &aPhantoms&r in the &4Beneath&r.",
 
     "quests.tfg_tips.unrefined_paper.title": "Unrefined Paper",
     "quests.tfg_tips.unrefined_paper.subtitle": "Time to make some history.",
