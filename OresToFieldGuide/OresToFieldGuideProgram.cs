@@ -648,13 +648,23 @@ namespace OresToFieldGuide
 				var sb = new StringBuilder();
 				sb.AppendLine("{");
 				sb.AppendLine("\t\"__comment__\": \"DO NOT TRANSLATE THIS FILE. Translate the OresToFieldGuide/data/veins files instead.\",");
+
+				var lastVein = m_veinDict.Values.Last().Last();
 				foreach (var veins in m_veinDict.Values)
 				{
 					foreach (var vein in veins)
 					{
 						if (vein.TranslatedNames.TryGetValue(locale, out string? value))
 						{
-							sb.AppendLine($"\t\"ore_vein.tfg.{vein.ID}\": \"{value}\",");
+							sb.Append($"\t\"ore_vein.tfg.{vein.ID}\": \"{value}\"");
+							if (vein == lastVein)
+							{
+								sb.AppendLine();
+							}
+							else
+							{
+								sb.AppendLine(",");
+							}
 						}
 					}
 				}
