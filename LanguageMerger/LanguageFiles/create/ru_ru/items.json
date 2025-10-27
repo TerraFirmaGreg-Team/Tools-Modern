@@ -3,9 +3,11 @@
     "item.create.netherite_backtank": "Баллон (Синяя сталь)",
     "item.create.netherite_diving_helmet": "Лаволазный шлем из синей стали",
     "item.create.netherite_diving_boots": "Лаволазные ботинки из синей стали",
+    
     "item.create.copper_sheet": "Медь (Пластина)",
     "item.create.brass_sheet": "Латунь (Пластина)",
     "item.create.golden_sheet": "Золото (Пластина)",
+    
     "item.create.crushed_raw_gold": "Золото (Очищенная руда)",
     "item.create.crushed_raw_copper": "Медь (Очищенная руда) ",
     "item.create.crushed_raw_zinc": "Цинк (Очищенная руда)",
