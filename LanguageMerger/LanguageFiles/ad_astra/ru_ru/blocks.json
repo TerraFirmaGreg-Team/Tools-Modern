@@ -23,9 +23,9 @@
     "block.ad_astra.moon_deepslate": "Норит",
     "block.ad_astra.cheese_block": "Лунный сыр",
     "block.ad_astra.moon_cheese_ore": "Сыр (Анортозитовая руда)",
-    "block.ad_astra.glacian_log": "Glacian Stem",
-    "block.ad_astra.stripped_glacian_log": "Stripped Glacian Stem",
-    "block.ad_astra.glacian_leaves": "Glacian Lamella",
+    "block.ad_astra.glacian_log": "Стебель гласиевого дерева",
+    "block.ad_astra.stripped_glacian_log": "Обтёсанный стебель гласиевого дерева",
+    "block.ad_astra.glacian_leaves": "Ламелла гласиевого дерева",
     "block.ad_astra.mars_sand": "Аргиллитовый песок",
     "block.ad_astra.mars_stone": "Аргиллит",
     "block.ad_astra.mars_cobblestone": "Аргиллитовый булыжник",
@@ -107,5 +107,5 @@
     "block.ad_astra.polished_glacio_stone": "Гладкий фонолит",
     "block.ad_astra.polished_glacio_stone_slab": "Плита из гладкого фонолита",
     "block.ad_astra.polished_glacio_stone_stairs": "Ступеньки из гладкого фонолита",
-    "block.ad_astra.glacio_globe": "Europa Globe"
+    "block.ad_astra.glacio_globe": "Глобус Европы"
 }
