@@ -1,12 +1,12 @@
 {
     "__comment1": "Starting",
 
-    "quests.ore_proc": "Ore Processing",
-    "quests.ore_proc.subtitle": "Everything you'll need to get the most out of your ores",
+    "quests.ore_proc": "鉱石処理",
+    "quests.ore_proc.subtitle": "鉱石活用のすべて",
 
-    "quests.ore_proc.native_ore.title": "Welcome to Ore Processing",
+    "quests.ore_proc.native_ore.title": "鉱石処理の章にようこそ",
     "quests.ore_proc.native_ore.subtitle": "To Process, Ore Not To Process",
-    "quests.ore_proc.native_ore.desc": "An important part of &6GregTech&r is its &dOre Processing Mechanics&r, but it can get pretty complicated, so this chapter is here to help!\n\nTo start with, you should be aware of the &6Ore Processing Diagram&r tab in EMI - Press the Show Uses key (default &bU&r) on any item related to ore processing and look for the tab with the vanilla Iron Ore icon. This diagram may look overwhelming at first, but we'll take it step by step.\n\nA major part of GregTech philosophy is that there's not just one way to solve a problem, but we've marked everything important with a &estar&r, so if you're completely lost, try following those!",
+    "quests.ore_proc.native_ore.desc": "&6GregTech&rにおいて&d鉱石処理&rは重要な要素ですが、その仕組みはなかなか複雑です。この章で詳しく説明します。\n\nTo start with, you should be aware of the &6Ore Processing Diagram&r tab in EMI - Press the Show Uses key (default &bU&r) on any item related to ore processing and look for the tab with the vanilla Iron Ore icon. This diagram may look overwhelming at first, but we'll take it step by step.\n\nA major part of GregTech philosophy is that there's not just one way to solve a problem, but we've marked everything important with a &estar&r, so if you're completely lost, try following those!",
     "quests.ore_proc.native_ore.task": "I agree to not just dump everything in a furnace",
 
     "__comment2": "Far left",
