@@ -1,7 +1,10 @@
 {
     "__comment1": "Fix typo",
+    
     "info.ad_astra.solar_panel": "Генерирует энергию от солнца в течение дня. Обратите внимание, что вырабатываемая энергия зависит от планеты.",
+    
     "__comment2": "Replaces the emojis with FE and mB",
+    
     "tooltip.ad_astra.energy": "%s FE / %s FE",
     "tooltip.ad_astra.energy_generation_per_tick": "Генерирует %s FE в тик",
     "tooltip.ad_astra.energy_in": "Вход: %s FE/t",
