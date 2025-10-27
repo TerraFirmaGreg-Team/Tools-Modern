@@ -3,13 +3,13 @@
     "item.create.netherite_backtank": "Баллон (Синяя сталь)",
     "item.create.netherite_diving_helmet": "Лаволазный шлем из синей стали",
     "item.create.netherite_diving_boots": "Лаволазные ботинки из синей стали",
-    "item.create.copper_sheet": "Медная пластина",
-    "item.create.brass_sheet": "Латунная пластина",
-    "item.create.golden_sheet": "Золотая пластина",
-    "item.create.crushed_raw_gold": "Очищенное рудное золото",
-    "item.create.crushed_raw_copper": "Очищенная рудная медь ",
-    "item.create.crushed_raw_zinc": "Очищенный рудный цинк",
-    "item.create.crushed_raw_silver": "Очищенное рудное серебро",
-    "item.create.crushed_raw_tin": "Очищенное рудное олово",
-    "item.create.crushed_raw_lead": "Очищенный рудный свинец"
+    "item.create.copper_sheet": "Медь (Пластина)",
+    "item.create.brass_sheet": "Латунь (Пластина)",
+    "item.create.golden_sheet": "Золото (Пластина)",
+    "item.create.crushed_raw_gold": "Золото (Очищенная руда)",
+    "item.create.crushed_raw_copper": "Медь (Очищенная руда) ",
+    "item.create.crushed_raw_zinc": "Цинк (Очищенная руда)",
+    "item.create.crushed_raw_silver": "Серербо (Очищенная руда)",
+    "item.create.crushed_raw_tin": "Олово (Очищенная руда)",
+    "item.create.crushed_raw_lead": "Свинец (Очищенная руда)"
 }
