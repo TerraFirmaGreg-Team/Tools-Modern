@@ -224,7 +224,7 @@
    
     "quests.steam_age.vacuum_tubes.title": "エレクトロニクス#3:真空管",
     "quests.steam_age.vacuum_tubes.subtitle": "難しめな回路の部品",
-    "quests.steam_age.vacuum_tubes.desc": "真空管の作成は、あなたの存在に疑問を抱かせるかもしれません。今は非常に高価ですが、すぐに安くなります。それこそがGregTechの哲学です！\n\n真空管は、技術的には最初の超低電圧(&8ULV&r)回路でもあります！おめでとうございます！ここから、[LV]回路の作成にすぐに飛び込むか、作成した真空管から他のマシンを作成して、蒸気時代にもう少し時間を費やすことができます。",
+    "quests.steam_age.vacuum_tubes.desc": "真空管の作成は、あなたの存在に疑問を抱かせるかもしれません。今は非常に高価ですが、すぐに安くなります。それこそがGregTechの哲学です！\n\n真空管は、最初の超低電圧(&8ULV&r)回路でもあります。 まずはおめでとうございます！ここから、LV回路の作成にすぐに取り掛かるか、作成した真空管から他の機械を作成して、もう少し蒸気時代にとどまることもできます。",
    
     "quests.steam_age.resistors.title": "エレクトロニクス#1:抵抗器",
     "quests.steam_age.resistors.subtitle": "抵抗感のある回路の部品",

@@ -3,7 +3,7 @@
     "quests.development.subtitle": "各時代の進行具合をまとめました",
 
     "quests.development.explanation.title": "説明しよう",
-    "quests.development.explanation.subtitle": "簡単なことです",
+    "quests.development.explanation.subtitle": "思ったよりは簡単です",
     "quests.development.explanation.desc.1": "GregTechの&l回路の段階&r簡単に説明します。\n\n同じティアの回路は互換性があります。たとえば、&6HV&rの&6ミキサー&rを作るときには、&6HVティア&rの回路であればどれでも使用できます。",
     "quests.development.explanation.desc.2": "次に、&l回路作成の進め方&rについて説明しましょう。各回路には色と名前を共有しているものがあります。たとえば、名前に&a「量子」&rが付いている回路はすべて&a緑色&rで、&1IVティア&rの回路組立機で作成することができます。作成には、同じ列の1つ上にある回路(1つ前の時代の回路)が必要です。そのため、最初の&dLuV&rの&d回路&rであるナノプロセッサーメインフレームを作成するには、HV回路であるナノプロセッサーを作成するところから始まり、1つずつ&7段階を&r進める必要があります。この場合、3段階のクラフトが必要になります。\n\nそのため、各行の右端の&6回路&rは安価かつ少ない工程で&a作成&rできます。",
     "quests.development.explanation.desc.3": "さらに、&lユニバーサル回路&rを追加しました。これらは、&1IV&r、&dLuV&r、&3UV&rなど、あらゆる&6回路&rから&a作成&rでき、AE2を使用した&9自動化&rに非常に役立ちます。すべての&fパターン&rを&lユニバーサル回路&rで設定してみてください。そうすれば、同じ時代の回路を使うレシピのために、すべての&fパターン&rを設定する必要がありません。回路をユニバーサル回路に変換するレシピを登録するだけで済みます。",
@@ -67,14 +67,14 @@
     "quests.development.hull_ev.desc": "これは&9ナノ&r回路ラインです。\n\n作成するには&b宇宙&rに進出する必要があります。\n\nここからは、回路の進捗は次のパターンになります。\n\n&9-&rプロセッサー\n&9-&r演算処理装置\n&9-&rスーパーコンピュータ\n&9-&rメインフレーム",
     
     "quests.development.hull_iv.title": "&1IV&rで作成可能",
-    "quests.development.hull_iv.subtitle": "クアンタム！",
+    "quests.development.hull_iv.subtitle": "量子化！",
     "quests.development.hull_iv.desc": "&9量子&r回路ラインへようこそ。\n\n&aPBI&rに投資することをお勧めします。&d発展型SMD&rが回路の生産を急速に強化してくれます。",
     
     "quests.development.hull_luv.title": "&dLuV&rで作成可能",
-    "quests.development.hull_luv.subtitle": "結晶化",
+    "quests.development.hull_luv.subtitle": "結晶化！",
     "quests.development.hull_luv.desc": "これは&9クリスタル&r回路ラインです。\n\n&3核融合&rを進めると作ることができます。",
     
     "quests.development.hull_zpm.title": "&cZPM&rで作成可能",
-    "quests.development.hull_zpm.subtitle": "ソフトとウェットウェア",
+    "quests.development.hull_zpm.subtitle": "ウィットに富んだ",
     "quests.development.hull_zpm.desc": "これは&9ウェットウェア&r回路ラインです。\n\nこのmodpackで直面する最大の自動化の課題になります。頑張ってください。"
 }

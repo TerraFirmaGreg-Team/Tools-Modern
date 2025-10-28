@@ -38,19 +38,19 @@
     "quests.ore_proc.steam_tier.desc": "蒸気時代には、遠心分離機による二つ目の副産物を得る手段が解放されます.",
 
     "quests.ore_proc.lv_tier.title": "&7LV&r時代の鉱石処理",
-    "quests.ore_proc.lv_tier.desc": "LVティアには多彩な鉱石処理機械が揃っており、中でも熱遠心分離機は最重要の装置です。",
+    "quests.ore_proc.lv_tier.desc": "LV時代には多彩な鉱石処理機械が揃っており、中でも熱遠心分離機は最重要の装置です。",
 
     "quests.ore_proc.mv_tier.title": "&bMV&r時代の鉱石処理",
     "quests.ore_proc.mv_tier.desc": "MV時代では目立った新要素は少ないです。主な違いは電解機の性能が大幅に向上することです。",
 
     "quests.ore_proc.hv_tier.title": "&6HV&r時代の鉱石処理",
-    "quests.ore_proc.hv_tier.desc": "HVからは、粉砕機からも副産物を生産するようになります。鉱石処理の効率が大幅に上昇するため、専用の処理ラインの構築をお勧めします。",
+    "quests.ore_proc.hv_tier.desc": "HV時代からは、粉砕機からも副産物を生産するようになります。鉱石処理の効率が大幅に上昇するため、専用の処理ラインの構築をお勧めします。",
 
     "quests.ore_proc.ev_tier.title": "&5EV&r時代の鉱石処理",
     "quests.ore_proc.ev_tier.desc": "EV時代からは、鉱石処理を用途別に分けた複数のラインに分割して運用する必要が出てきます。",
 
     "quests.ore_proc.iv_tier.title": "&9IV&r時代の鉱石処理",
-    "quests.ore_proc.iv_tier.desc": "IVではマルチブロック機械が使えるようになり、鉱石処理を大幅に高速化できます。",
+    "quests.ore_proc.iv_tier.desc": "IV時代ではマルチブロック機械が使えるようになり、鉱石処理を大幅に高速化できます。",
 
     "quests.ore_proc.luv_tier.title": "&dLuV&r時代の鉱石処理",
     "quests.ore_proc.luv_tier.desc": "LuV時代から始まるナクアダ処理ラインは、鉱石処理という工程の大きな試練になります。準備はできていますか？",

@@ -6,7 +6,7 @@
     "quests.create_logistics.introduction.desc": "&3Create&rの機械を活用すれば、アイテムの輸送や倉庫管理の能力を大幅に改善できます。&2先進時代&rまで進めば、指定したアイテムを自動で発注したり、指定した場所へとアイテムを送ったりといった高度な自動化も可能になります。\n\nこの章では主にCreate製の機械を扱うため、詳しい仕組みを知りたいときは&5「思案（Ponder）」&r機能を使うのがおすすめです。個別に機械の動作を確認しておきましょう",
 
     "quests.create_logistics.packager.title": "梱包機",
-    "quests.create_logistics.packager.subtitle": "包容力",
+    "quests.create_logistics.packager.subtitle": "あったかさパッケージ",
     "quests.create_logistics.packager.desc.1": "&3梱包機&rは、&cレッドストーン信号&rを受け取ると接続先のブロック(&5レンチ&rで接続面を切り替え可能)からアイテムをまとめ、箱詰めしてくれる機械です。 生成される段ボール箱には9スロット分のアイテムを収納できるため、一度にたくさんの物を運ぶときにとても便利です。 作成には&d錬鉄&rや&d電子管&rのほか、&d紙&rと&d接着剤&rから作る&d段ボール&rが必要になります。\n\nただし、動作には段ボールは不要で、維持コストなしで使い続けられます！",
     "quests.create_logistics.packager.desc.2": "梱包機に&3看板&rを取り付けると、その看板に書かれた文字がすべての段ボール箱に「宛先」として自動的に設定されます。これは、アイテムの仕分けや配送経路を設定したりする際にとても役立ちます。\n\nさらに、梱包機は箱詰めだけでなく、投入された段ボール箱を自動で開封し、中身を接続先のインベントリに搬入することもできます。\n\n&c&l注意：Framed_Signは使用できません！&r",
 
@@ -20,9 +20,9 @@
     "quests.create_logistics.package_filter.desc": "梱包物の配送設定には、それ専用の&3小包フィルター&rを使うことができます。これは、&3Create&rの機械で使える他のフィルターと同じように使えます。 手に持って右クリックし、宛先を入力すれば、その宛先が付いている梱包物だけを通すように設定できます。 特に&3真鍮トンネル&rと組み合わせることで、ベルトコンベアでの配送先を宛先別に仕分けることができ、とても便利です。",
 
     "quests.create_logistics.postbox.title": "郵便箱",
-    "quests.create_logistics.postbox.subtitle": "差出人に返送",
-    "quests.create_logistics.postbox.desc.1": "&3ポストボックス&rは、&a列車ネットワーク&rを使って梱包物を配送・仕分けするための装置です。まず、設置する前に&3鉄道駅&rを右クリックしてポストボックスをその駅にリンクさせます。これで、その駅に停車する列車は、ポストボックスと(駅から4ブロック以内にある場合)やり取りできるようになります。\n\n&3梱包物・小包配送ガエル&rと同じく、ポストボックスには名前(宛先)を設定できます。列車はその名前と違う宛先の梱包物を受け取り、逆に一致する宛先の梱包物を持っている場合は、それをポストボックスに届けてくれます。",
-    "quests.create_logistics.postbox.desc.2": "&3ポストボックス&rのもう一つの便利な点は、シュートやファンネルなどでアイテムを取り出す際に、ポストボックスの名前と宛先が一致する梱包物だけが取り出されることです。宛先が異なる梱包物は中に残り、後から来る列車に積み込まれることになります。",
+    "quests.create_logistics.postbox.subtitle": "チラシ投函お断り",
+    "quests.create_logistics.postbox.desc.1": "&3郵便箱&rは、&a列車ネットワーク&rを使って梱包物を配送・仕分けするための装置です。まず、設置する前に&3鉄道駅&rを右クリックして郵便箱をその駅にリンクさせます。これで、その駅に停車する列車は、郵便箱と(駅から4ブロック以内にある場合)やり取りできるようになります。\n\n&3梱包物・小包配送ガエル&rと同じく、郵便箱には名前(宛先)を設定できます。列車はその名前と違う宛先の梱包物を受け取り、逆に一致する宛先の梱包物を持っている場合は、それを郵便箱に届けてくれます。",
+    "quests.create_logistics.postbox.desc.2": "&3郵便箱&rのもう一つの便利な点は、シュートやファンネルなどでアイテムを取り出す際に、郵便箱の名前と宛先が一致する梱包物だけが取り出されることです。宛先が異なる梱包物は中に残り、後から来る列車に積み込まれることになります。",
 
     "quests.create_logistics.nbt_handling.title": "ちょっとした応用",
     "quests.create_logistics.nbt_handling.subtitle": "梱包と宛先システムの応用",
@@ -33,9 +33,9 @@
     "quests.create_logistics.bottler.subtitle": "液体用梱包機",
     "quests.create_logistics.bottler.desc": "Bottlerは、梱包機の液体版です。任意の液体コンテナ(タンク、ドラム缶、各種マシンなど)の隣に設置し、その上に小包配送ガエルを置くだけで、あとは期待通りに動作します！宛先側のBottlerも同様に、ポンプを使わずに直接液体コンテナへ液体を送り込むことができます。",
 
-    "quests.create_logistics.rose_quartz.title": "薔薇は赤色",
-    "quests.create_logistics.rose_quartz.subtitle": "ローズクォーツは桃色",
-    "quests.create_logistics.rose_quartz.desc": "梱包物の運搬で満足していますか？実はCreateのさらに高度な物流システムを使えば、&aインベントリの中身を読み取ったり&r、&a遠隔で配送したり&r、さらに後には&aアイテムの量に応じて自動で材料を加工ラインに送る&r といったことまで可能になります。\n\nただし、&2高度な物流&rに取り掛かる前にはいくつか準備が必要です。\n\nこのような仕組みを作るために必要な&d送信機&rは、非常に特殊な鉱石である&dローズクォーツ&rを利用したレーザー加工によって作ることができます。まずは&3レーザー刻印機&rと&dローズクォーツレンズ&rを用意しましょう",
+    "quests.create_logistics.rose_quartz.title": "高度な物流システムについて",
+    "quests.create_logistics.rose_quartz.subtitle": "自動化に懸ける情熱",
+    "quests.create_logistics.rose_quartz.desc": "梱包物をただ運搬するだけで満足していませんか？Createのさらに高度な物流システムを使えば、&aインベントリの中身を読み取ったり&r、&a遠隔で配送したり&r、さらに後には&aアイテムの量に応じて自動で材料を加工ラインに送る&r といったことまで可能になります。\n\nただし、&2高度な物流&rに取り掛かる前にはいくつか準備が必要です。\n\nこのような仕組みを作るために必要な&d送信機&rは、非常に特殊な鉱石である&dローズクォーツ&rを利用したレーザー加工によって作ることができます。まずは&3レーザー刻印機&rと&dローズクォーツレンズ&rを用意しましょう",
 
     "quests.create_logistics.cold_rose_quartz.title": "ローズクオーツの確保：極寒地域",
     "quests.create_logistics.cold_rose_quartz.subtitle": "北へ",
@@ -61,7 +61,7 @@
     "quests.create_logistics.stock_ticker.desc.3": "さらに、ストックティッカーを設定して、倉庫番で表示されるアイテムを限定したり、アイテムをカテゴリごとに整理して表示することも可能です。",
 
     "quests.create_logistics.redstone_requester.title": "レッドストーンリクエスター",
-    "quests.create_logistics.redstone_requester.subtitle": "定期配達",
+    "quests.create_logistics.redstone_requester.subtitle": "差出人に返送",
     "quests.create_logistics.redstone_requester.desc": "&3レッドストーンリクエスター&rは、&3ストックティッカー&rの発展型ともいえる装置です。 この機械自体から&d物流ネットワーク&r内のアイテムを直接確認することはできませんが、レッドストーン信号を受け取るたびに、自動で指定したアイテムを注文するよう設定できます。 特定アイテムの自動補充システムを作る際にとても役立ちます。たとえば、&3閾値スイッチ&rや&3スマートオブザーバー&r と組み合わせて使うのがおすすめです。\n\nまた、他の&2高度物流&rの装置と同じく、設置する前に既存のリンクを右クリックして、そのネットワークに接続しておく必要があります！",
 
     "quests.create_logistics.tablecloths.title": "テーブルクロス",
