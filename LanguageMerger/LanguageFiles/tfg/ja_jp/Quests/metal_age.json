@@ -16,7 +16,7 @@
    
     "quests.metal_age.bronze_goodies.title": "ブロンズを利用した機械",
     "quests.metal_age.bronze_goodies.subtitle": "時は来た！",
-    "quests.metal_age.bronze_goodies.desc": "ブロンズは初歩的な機械仕掛けを作るのに十分な頑丈さを持っています！\n\nこれを利用する際は、&o初期の自動化&rクエストの章を参考にしてください！",
+    "quests.metal_age.bronze_goodies.desc": "ブロンズは初歩的な機械仕掛けを作るのに適した耐久性を持っています！\n\nこれを利用する際は、&o初期の自動化&rクエストの章を参考にしてください！",
    
     "quests.metal_age.copper_diving.title": "銅の潜水装備",
     "quests.metal_age.copper_diving.subtitle": "そんなに銅があるんなら、これとかはどう？",
@@ -108,7 +108,7 @@
   
     "quests.metal_age.steel_anvil.title": "第四の金床:スチール",
     "quests.metal_age.steel_anvil.subtitle": "錬鉄からの大躍進",
-    "quests.metal_age.steel_anvil.desc": "スチールの金床を使用すると、スチールのインゴットをさまざまな形に加工できます。\n\nスチールのツールと装備は、ブロンズや錬鉄のツールと装備よりも大幅に性能が向上しているため、ツールを新調するにはうってつけです。 これから多くの合金を作成する必要があるため、採掘手段を強化しておくことをお勧めしますよ。",
+    "quests.metal_age.steel_anvil.desc": "スチールの金床を使用すると、スチールのインゴットをさまざまな形に加工できます。\n\nスチールのツールと装備は、ブロンズや錬鉄のツールと装備よりも大幅に性能が向上しているため、ツールを新調するにはうってつけです。 これから多くの合金を作成する必要があるため、採掘手段を強化しておくことをお勧めします。",
    
     "quests.metal_age.steel_goodies.title": "スチールを利用した機械",
     "quests.metal_age.steel_goodies.subtitle": "鋼の錬金術師",
