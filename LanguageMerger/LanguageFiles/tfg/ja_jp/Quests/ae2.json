@@ -123,6 +123,10 @@
 
     "quests.ae2.pattern_box.desc": "The Pattern Box can carry around all your Blank and Encoded Patterns in one inventory slot, and they will be visible in any AE2 device UI as long as the box is somewhere in your inventory.",
 
+    "quests.ae2.wireless_access.title": "ME Wireless Network",
+    "quests.ae2.wireless_access.subtitle": "Get Free WiFi Anywhere You Go",
+    "quests.ae2.wireless_access.desc": "Once you've made it to &5EV&r, you'll gain access to the ME Wireless Access Point, which basically acts like a WiFi Router for your ME network. Connect it to a central point in your base, shove as many Wireless Booster cards as you want to increase its range (and power draw), and then link a Wireless Terminal to it.\n\nOnce you have Epoxy and Rhodium, you'll be able to combine all of your Wireless Terminals together via a Universal Terminal!",
+
     "quests.ae2.interplanetary_wireless.subtitle": "Forgot something at home?",
     "quests.ae2.interplanetary_wireless.desc": "You can upgrade your Wireless Terminal with this special Card, allowing access to your network from any distance, even on different worlds! Sounds too good to be true? There's a major catch — transferring items uses a huge amount of energy.\n\nYou can sort of get around this with some Energy Cards and a battery in your inventory set to Discharge Mode, but it should work well enough for those times when you accidentally left something at your base on Earth and don't want to fly all the way back.\n\nFor proper automated transfer, you'll need a Railgun.",
 
