@@ -46,7 +46,7 @@
     "quests.development.hull_mv.desc.2": "&l&3背景知识：&r&o在Omnifactory（全能工厂）以及更早的Gregicality（格雷科技社区版）模组中，这条电路产线被称为&9精炼&r电路，并且像更高级的层级一样实现了标准化生产。",
     "quests.development.hull_hv.title": "可在&bMV&r和&6HV&r级制作",
     "quests.development.hull_hv.subtitle": "逐渐趋于小型化",
-    "quests.development.hull_hv.desc": "&e微型电路&r是发展进程中必须引入&3洁净间&r才能继续推进的阶段。\n\n请特别注意&a处理器主机&r的制造——它需要一台&3HV级电路组装机&r才能生产。",
+    "quests.development.hull_hv.desc": "&e微型电路&r是发展进程中必须引入&3超净间&r才能继续推进的阶段。\n\n请特别注意&a处理器主机&r的制造——它需要一台&3HV级电路组装机&r才能生产。",
     "quests.development.hull_ev.title": "可在&5EV&r级制作",
     "quests.development.hull_ev.subtitle": "纳米时代",
     "quests.development.hull_ev.desc": "这是&9纳米&r电路线。\n\n你可能需要去&b太空&r制作它们。\n\n从这里开始，电路发展将遵循一个模式：\n\n&9-&r处理器\n&9-&r处理器集群\n&9-&r超级计算机\n&9-&r处理器主机",

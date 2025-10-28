@@ -39,7 +39,7 @@
     "quests.space_survival.air_distributor.title": "建立永久基地",
     "quests.space_survival.air_distributor.subtitle": "一个度假屋",
     "quests.space_survival.air_distributor.desc.1": "目前你可能得以生存，但难道不想真正&o繁荣发展&r吗？如果你希望建立更永久的基地，&6空气分配器&r正是你的不二之选！向其注入先前制备的任意压缩气体，即可为大型密闭空间\"充氧\"，使你能够卸下头盔种植作物，并且放置水源而不会结冰。\n\n任何实心方块都可用于建造基地，但你需要一个适当的气闸以确保气体不会全部在&c涡流&中逃逸。",
-    "quests.space_survival.air_distributor.desc.2": "充氧区域将恒温于15℃，适宜各类作物生长（虽然电力温室不受影响），且保持液态的水源也能通过电解轻松获取&b氧气&r。你还可以使用二极管方块在保持墙壁密封的同时传输电力，就像在洁净间里一样。",
+    "quests.space_survival.air_distributor.desc.2": "充氧区域将恒温于15℃，适宜各类作物生长（虽然电力温室不受影响），且保持液态的水源也能通过电解轻松获取&b氧气&r。你还可以使用二极管方块在保持墙壁密封的同时传输电力，就像在超净间里一样。",
     "quests.space_survival.oxygen_info.title": "更多月球基地机器",
     "quests.space_survival.oxygen_info.subtitle": "家的舒适",
     "quests.space_survival.oxygen_info.desc": "氧气探测器是一个简单的机器，当它处于充氧区域时会发出红石信号。\n\n通风口是一个实心块，也可以让可呼吸空气通过而不会引起涡流。\n\n重力发生器可以改变封闭空间内区域的重力，类似于空气分配器的工作方式，但目前有点太昂贵了。",

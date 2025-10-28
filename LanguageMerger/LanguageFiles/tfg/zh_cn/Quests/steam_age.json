@@ -9,7 +9,7 @@
     "quests.steam_age.create_tools.desc": "使用扳手可以通过潜行+右键单击来快速拾起机械动力方块，当然，用斧或镐也可以。戴上护目镜则能让你查看机器的更详细信息，例如它们产生或消耗的应力。\n\n目前这两样工具都并非强制使用，但它们会非常有用，你之后肯定会需要它们的。\n\n关于吹制玻璃的帮助，请查阅 TFG 提示章节。你知道用锤子破坏圆石会将其变为沙砾，再次破坏沙砾则会变成沙子……吗？",
     "quests.steam_age.basic_millstone.title": "自动化矿石处理",
     "quests.steam_age.basic_millstone.subtitle": "告别手推磨",
-    "quests.steam_age.basic_millstone.desc": "&3石磨&r 是手推磨的自动化版本。你可以把任何你想粉碎的东西从顶部扔进去，然后右键单击取出粉碎后的物品。如果你直接把它连接到动物曲柄上，它会相当慢，但你可以使用齿轮比来提高它的速度。\n\n你只会在第一个槽位收到输出。其他槽位是格雷科技机制的一部分，要到很久以后（&6HV&r）才会相关。",
+    "quests.steam_age.basic_millstone.desc": "&3石磨&r是手推磨的自动化版本。你可以把任何你想粉碎的东西从顶部扔进去，然后右键单击取出粉碎后的物品。如果你直接把它连接到动物曲柄上，它会相当慢，但你可以使用齿轮比来提高它的速度。\n\n请注意：产出物仅会出现在第一个槽位。其余槽位属于格雷科技机制的一部分，在&6HV&r阶段前都无需关注。",
     "quests.steam_age.horse_crank.title": "你的第一个动力源",
     "quests.steam_age.horse_crank.subtitle": "让你的牲畜付租金",
     "quests.steam_age.horse_crank.desc.1": "&3动物曲柄&r 是你第一个可获得的机械动力源。要使用它，将曲柄放在一个 7x7 清理区域的中心，并用拴绳将动物拴在上面。不同的动物会提供不同数量的动力，而下面的方块会增加输出动力的速度。多个曲柄的区域可以重叠。\n\n你可能需要手持第二根拴绳来拴住动物。",
@@ -207,7 +207,7 @@
     "quests.steam_age.miner.desc.2": "另一方面，蒸汽采矿机则只破坏矿石块，并将其替换为圆石，从而保持其余地形的完整。它能够开采（较小）半径内的矿石，这意味着它比动力钻头需要移动的频率更低，但速度也慢得多。",
     "quests.steam_age.paper.title": "纸",
     "quests.steam_age.paper.subtitle": "并非来自甘蔗",
-    "quests.steam_age.paper.desc": "如果你还没有制作过纸，现有三种无需电力获取纸的途径：\n\n1）使用兽皮、浮石与蛋合成羊皮纸。\n\n2）将纸莎草编织成纸。\n\n3）通过复杂工序将硬木加工成纸。\n\n以后你还可使用LV化学浸洗机将木浆直接转化为纸。",
+    "quests.steam_age.paper.desc": "If you haven't made any yet, there's three different ways to get paper without electricity.\n\n1) Craft vellum out of a hide, pumice, and an egg.\n\n2) Weave together papyrus.\n\n3) Craft it out of hardwood through a lengthy process.\n\nYou can later turn wood pulp directly into paper with fewer steps.",
     "quests.steam_age.lv_circuit.title": "你的第一个电路！",
     "quests.steam_age.lv_circuit.subtitle": "新时代的黎明",
     "quests.steam_age.lv_circuit.desc": "这些的配方起初可能看起来令人生畏，但如果你已在蒸汽时代投入了足够时间，所有步骤都应能轻松实现自动化。在接下来的阶段里你将大量制作这些组件，而随后解锁的几台电力设备会持续降低其成本——直到你在LV阶段后期获得电路组装机。",
@@ -227,5 +227,5 @@
     "quests.steam_age.steel_mech_press.title": "钢动力冲压机",
     "quests.steam_age.steel_mech_press.subtitle": "几乎是锻造锤了",
     "quests.steam_age.steel_mech_press.desc.1": "高压蒸汽锻造锤近在咫尺，几乎可以做这台机器能做的一切，但如果你迫切需要一些更高级的自动焊接配方，这是你的门票。\n\n如果你不熟悉锻造锤，它和钢动力冲压机都可以粉碎矿石（无副产品），将石头变成圆石变成沙砾变成沙子，并裂解砖块。然而，只有锻锤能提供 &3更便宜的金属板件配方&r……",
-    "quests.steam_age.steel_mech_press.desc.2": "&l&3背景知识：&r&o在TerraFirmaGreg的0.9版本之前，机械动力冲压机曾是蒸汽时代后期的关键设备，因其能以5:4的更优比例生成板材。然而当时的实现机制实为“20%概率血本无归”，这让许多使用者一边高呼自己热爱赌博一边继续使用。"
+    "quests.steam_age.steel_mech_press.desc.2": "&l&3背景知识：&r&o在TerraFirmaGreg的0.9版本之前，机械动力冲压机曾是蒸汽时代后期的关键设备，因其能以5:4的更优比例生成板材。然而当时的实现机制实为“20%%概率血本无归”，这让许多使用者一边高呼自己热爱赌博一边继续使用。"
 }
