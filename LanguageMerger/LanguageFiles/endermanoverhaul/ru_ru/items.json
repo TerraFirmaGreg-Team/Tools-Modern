@@ -1,9 +1,11 @@
 {
+	"___comment1___": "Ключи про грибного эндермена были удалены, потому что они и так переведены",
+
     "item.endermanoverhaul.nether_wastes_enderman_spawn_egg": "Яйцо призыва эндермена глубоких пещер",
     "item.endermanoverhaul.dark_oak_enderman_spawn_egg": "Яйцо призыва пепельного эндермена",
-    "item.endermanoverhaul.mushroom_fields_enderman_spawn_egg": "Mushroom Enderman Spawn Egg",
     "item.endermanoverhaul.swamp_enderman_spawn_egg": "Яйцо призыва замшелого эндермена",
     "item.endermanoverhaul.scarab_spawn_egg": "Яйцо призыва жука",
+
     "item.endermanoverhaul.soulsand_valley_enderman_spawn_egg": "Яйцо призыва светоцвето-подверженного эндермена",
     "item.endermanoverhaul.windswept_hills_enderman_spawn_egg": "Яйцо призыва эндермена лунного моря",
     "item.endermanoverhaul.end_enderman_spawn_egg": "Яйцо призыва баритоно-хорового эндермена",
