@@ -43,12 +43,16 @@
   "tfcambiental.tooltip.sun_protection": "-20% нагрева от прямого воздействия солнца",
   "tfcambiental.tooltip.snowshoes": "Больше не нужно тонуть в рыхлом снегу",
 
+  "message.tfcambiental.cold_hungry": "Холод истощает вашу энергию.",
+  "message.tfcambiental.heat_thirsty": "Холод обезвоживает вас.",
+
   "curios.identifier.clothes_hat": "Одежда (Голова)",
   "curios.identifier.clothes_torso": "Одежда (Туловище)",
   "curios.identifier.clothes_pants": "Одежда (Ноги)",
   "curios.identifier.clothes_socks": "Одежда (Ступни)",
   "curios.identifier.feet": "Оборудование (Ступни)"
 }
+
 
 
 
