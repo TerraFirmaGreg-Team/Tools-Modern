@@ -2,11 +2,11 @@
     "__comment1": "#region Starting",
     
     "quests.tfg_tips": "Tips - サバイバル",
-    "quests.tfg_tips.subtitle": "あなたの生活を少し楽にするためのヒントと小ネタ集。",
+    "quests.tfg_tips.subtitle": "生きるために",
 
     "quests.tfg_tips.beginning.title": "ヒントと小ネタはこちら！",
     "quests.tfg_tips.beginning.subtitle": "山のような知識がここに",
-    "quests.tfg_tips.beginning.desc": "このクエストの章では、生存と発展のためのヒントをたくさん(&o本当にたくさん&r)紹介します。\n\n各クエストの枝分かれした先は、それぞれ&2TerraFirmaGreg&rの主要なModを表しており、それらを最大限に活用するためのヒントがあります。これらのクエストはどれも進行に必須ではありませんが、メインクエストラインのタスクによって&oロックされている&r場合があります。",
+    "quests.tfg_tips.beginning.desc": "このクエストの章では、生存と発展のためのヒントをたくさん(&o本当にたくさん&r)紹介します。\n\n各クエストの枝分かれした先は、それぞれ&2TerraFirmaGreg&rの主要なModを表しており、それらを最大限に活用するためのヒントがあります。\nこれらのクエストはどれも進行に必須ではありませんが、メインクエストラインのタスクによって&oロックされている&r場合があります。",
    
     "__comment2": "#endregion",
    
@@ -14,11 +14,11 @@
     
     "quests.tfg_tips.portable_storage.title": "持ち運びできるストレージたち",
     "quests.tfg_tips.portable_storage.subtitle": "コログのミもお金も必要ありません！",
-    "quests.tfg_tips.portable_storage.desc": "旅の中で、あなたはたくさんの場所を探索し、たくさんのガラクタを拾うことになるでしょう。このクエストラインでは、外出先でも大量にアイテムを持ち運ぶためのいくつかの方法をお教えします。",
+    "quests.tfg_tips.portable_storage.desc": "旅の中で、あなたはたくさんの場所を探索し、たくさんのガラクタを拾うことになるでしょう。\nこのクエストラインでは、外出先でも大量にアイテムを持ち運ぶためのいくつかの方法をお教えします。",
   
     "quests.tfg_tips.toolbelt.title": "ツールベルトとポーチ",
     "quests.tfg_tips.toolbelt.subtitle": "ツールが多すぎるときのスマートな解決策",
-    "quests.tfg_tips.toolbelt.desc": "&dツールベルト&rを使用すると、インベントリスロットを無駄にすることなく、複数のツールを管理できます！ この便利なアイテムは、&4Curios&rの特別な&3ツールベルトスロット&rに入れることができます。&c設定したキー&rを押せばツールを出し入れできます。最初は2スロットしかありませんが、&aベルトポーチ&rを追加することで増やすことができます。",
+    "quests.tfg_tips.toolbelt.desc": "&dツールベルト&rを使用すると、インベントリスロットを圧迫せずに、複数のツールを持ち歩けます！\nツールベルトは特別な&3ツールベルトスロット&rに装備することができます。&c設定したキー&rを押せばツールを出し入れできます。\n最初は2スロットしかありませんが、&aベルトポーチ&rを追加することで増やすことができます。",
 
     "quests.tfg_tips.maxed_out_toolbelt.title": "完全体ツールベルト",
     "quests.tfg_tips.maxed_out_toolbelt.subtitle": "腰への負荷が心配です...",
@@ -27,63 +27,63 @@
   
     "quests.tfg_tips.straw_basket.title": "藁のバスケット",
     "quests.tfg_tips.straw_basket.subtitle": "入手がお手軽！",
-    "quests.tfg_tips.straw_basket.desc": "&6藁のバスケット&rは、もっといいバッグが使えるようになる前に、インベントリを管理するのに非常に役立つシンプルなバスケットです。\n\nいくつかの麦わらを手作業で加工するだけで、自分用の&6藁のバスケット&rを作ることができます！",
+    "quests.tfg_tips.straw_basket.desc": "&6藁のバスケット&rは、初期から使える持ち運びアイテムです。\n\nいくつかの藁を手作業で加工するだけで、自分用の&6藁のバスケット&rを作ることができます！",
   
     "quests.tfg_tips.toolbox.title": "工具箱",
     "quests.tfg_tips.toolbox.subtitle": "エンジニアーの恋人",
-    "quests.tfg_tips.toolbox.desc": "&d工具箱&rには8つのインベントリスロットがあり、それぞれに4スタックのアイテムを入れることができます。さらに、&c設定したキー&rを押すと、数ブロック離れた場所から設置された&d工具箱&rにアクセスできます。&b染色&rして&d工具箱&rを別のものと区別することもできます！",
+    "quests.tfg_tips.toolbox.desc": "&d工具箱&rには8つのスロットがあり、それぞれに4スタック分のアイテムを入れることができます。\nさらに、&c設定したキー&rを押すと、数ブロック離れた場所から設置された&d工具箱&rにアクセスできます。\n&b染色&rして&d工具箱&rを別のものと区別することもできます！",
   
     "quests.tfg_tips.first_sacks.title": "持ち運び用小袋",
     "quests.tfg_tips.first_sacks.subtitle": "ここにしか咲かない花",
-    "quests.tfg_tips.first_sacks.desc": "&6皮革袋&rと&3麻袋&rは、それぞれ長所と短所を持つ2つの収納アイテムです。それぞれの&dアイテムスロット&rの数、&dスタック容量&r、および各サックの最大&dアイテムサイズ&rは、それぞれのツールチップに載っています。\n\n&l&3Tips:&r &4&oフィールドガイド&rには、袋たちの特別な機能に関する、より具体的な情報が記載されています。",
+    "quests.tfg_tips.first_sacks.desc": "&6皮革袋&rと&3麻袋&rは、それぞれ長所と短所を持つ2つの収納アイテムです。\nそれぞれの&dアイテムスロット&rの数、&dスタック容量&r、および各サックの最大&dアイテムサイズ&rは、それぞれのツールチップに載っています。\n\n&l&3Tips:&r &4&oフィールドガイド&rには、袋たちの特別な機能に関する、より具体的な情報が記載されています。",
   
     "quests.tfg_tips.special_sacks.title": "特殊な袋類",
     "quests.tfg_tips.special_sacks.subtitle": "偏食な大食漢",
-    "quests.tfg_tips.special_sacks.desc": "&2種袋&rと&9鉱石袋&rは、特定の種類のアイテムしか入れることができないですが、はるかに大きな&dスタック容量&rがその欠点を補います。\n\n&2種袋&rは、最大&c128個&rの種を&327種類&r入れることができます。\n\n&9鉱石サック&rは、最大&c512個&rの鉱石などを&39種類&r入れることができます。鉱石などというのは、鉱石、岩、石の粉、粘土などです！",
+    "quests.tfg_tips.special_sacks.desc": "&2種袋&rと&9鉱石袋&rは、特定の種類のアイテムしか入れることができないですが、はるかに大きな&dスタック容量&rがその欠点を補います。\n\n&2種袋&rは、最大&c128個&rの種を&327種類&r入れることができます。\n\n&9鉱石袋&rは、最大&c512個&rの鉱石などを&39種類&r入れることができます。鉱石などというのは、鉱石、岩、石の粉、粘土などです！",
   
     "quests.tfg_tips.frame_pack.title": "フレーム付きバックパック",
     "quests.tfg_tips.frame_pack.subtitle": "これは悪くない選択肢だと思いますよ",
-    "quests.tfg_tips.frame_pack.desc": "&5フレーム付きバックパック&rは、それぞれ最大&c64個&rのアイテムを&318スロット&r分入れることができます。&5フレーム付きバックパック&rの利点は、中に入れるアイテムのデフォルトのスタックサイズを無視することです。つまり、合計で最大&c1152個&rのアイテムを入れることができます！",
+    "quests.tfg_tips.frame_pack.desc": "&5フレーム付きバックパック&rは、それぞれ&c64個&rのアイテムを&318スロット&r分入れることができます。\n&5フレーム付きバックパック&rの利点は、中に入れるアイテムのデフォルトのスタックサイズを無視することです。つまり、どのアイテムでも&c1スタックが64個&rになります！",
   
     "quests.tfg_tips.vessels.title": "大小の壺々",
     "quests.tfg_tips.vessels.subtitle": "粘土は本当に役に立ってくれます",
-    "quests.tfg_tips.vessels.desc": "&d壺&rには4つのインベントリスロットがあり、&6大きい壺&rには9つのインベントリスロットがあります！ &d小さい壺&rはアイテムの保管だけでなく、基本的な金属の製錬と合金化にも必要です。\n&6大きい壺&rは持ち運ぶには重たいですが、食品の保存に最適です。\n\n&l&3Tips:&r&o 大きい壺は初期のバックパックとして背負って持ち運ぶこともできます！",
+    "quests.tfg_tips.vessels.desc": "&d壺&rには4つのスロットがあり、&6大きい壺&rには9つのスロットがあります！\n&d小さい壺&rはアイテムの保管だけでなく、基本的な金属の製錬と合金化にも使えます。\n&6大きい壺&rは持ち運ぶには重たいですが、食品の保存に最適です。\n\n&l&3Tips:&r&o大きい壺は初期のバックパックとして背負って持ち運ぶこともできます！",
   
     "quests.tfg_tips.portable_cells.title": "ポータブルアイテムおよび液体セル",
     "quests.tfg_tips.portable_cells.subtitle": "これはまたずいぶんと高度なものを...",
-    "quests.tfg_tips.portable_cells.desc": "&dApplied Energistics 2&rが解放されれば、大量のアイテムや液体をデータとして保存できる&aポータブルアイテム&rおよび&b液体セル&rを作成できます。残念ながら、&dApplied Energistics 2&rは&6HV時代&rの後半まで使えないため、これらが利用できるようになるのはもうちょっと後かもしれませんね。",
+    "quests.tfg_tips.portable_cells.desc": "&dApplied_Energistics_2&rが解放されれば、大量のアイテムや液体をデータとして持ち運べる&aポータブルアイテム&rおよび&b液体セル&rを作成できます。残念ながら、&dAE2&rは&6HV時代&rの後半まで使えないため、これらが利用できるようになるのはもうちょっと後かもしれませんね。",
   
     "quests.tfg_tips.256m_portable_cells.title": "MEGAポータブルアイテムおよび液体セル",
     "quests.tfg_tips.256m_portable_cells.subtitle": "メガトン級の大容量",
-    "quests.tfg_tips.256m_portable_cells.desc": "&dMEGA Cells&rを使用すると、&l途方もない大容量の&rデータストレージを備えたセルを作成できます！\n\n&l&3豆知識:&r&o 単一の256Mポータブルアイテムセルは、最大10億個のアイテムを保存できます！これは、58,000個以上のチェストが埋まるほどの量です！",
+    "quests.tfg_tips.256m_portable_cells.desc": "&dMEGA_Cells&rを使用すると、&l途方もない大容量の&rデータストレージを備えたセルを作成できます！\n\n&l&3豆知識:&r&o単一の256Mポータブルアイテムセルは、最大10億個のアイテムを保存できます！これは、58,000個以上のチェストが埋まるほどの量です！",
     
     "quests.tfg_tips.backpack_materials.title": "バックパックの材料",
     "quests.tfg_tips.backpack_materials.subtitle": "寝袋はレシピに含まれてないです",
-    "quests.tfg_tips.backpack_materials.desc": "バックパックには2つの選択肢があります。&5フレーム付きバックパック&rまたは&3リュック&rです。\n\n&5フレーム付きバックパック&rは、各スロットに最大&c64&rアイテムを&o標準のスタックサイズに関係なく&r収納できる高密度なバックパックです。\n\n&3リュック&rは、今後のインベントリ容量を拡張するための主要な方法です。最初のティアの時点で通常のインベントリを2倍以上にし、上位のを作ればさらに拡張していきます！ さらに、さまざまな&aアップグレード&rを付けることや、好きなように染色することができます！",
+    "quests.tfg_tips.backpack_materials.desc": "バックパックには2つの選択肢があります。&5フレーム付きバックパック&rまたは&3リュック&rです。\n\n&5フレーム付きバックパック&rは、各スロットに&c64個&rアイテムを&o標準のスタックサイズに関係なく&r収納できる高密度なバックパックです。\n\n&3リュック&rは、様々な場所で主流なバックパックです。最初に作るものでも36スロット分の容量があり、上位のものはさらに拡張していきます！\nさらに、さまざまな&aアップグレード&rを付けることや、好きなように染色することができます！",
     
     "quests.tfg_tips.first_backpack.title": "最初のバックパック",
     "quests.tfg_tips.first_backpack.subtitle": "ナイフ、ランプかばんにつめこんで",
-    "quests.tfg_tips.first_backpack.desc": "これは最初の&3リュック&rです。合計&c36&rのインベントリスロットがあり、&a1つのアップグレード&rを入れることができます。インベントリとバックパックのアップグレードについて学ぶには、この先の2方向に枝分かれしたクエストラインを確認してください。",
+    "quests.tfg_tips.first_backpack.desc": "これは最初の&3リュック&rです。合計&c36&rのインベントリスロットがあり、&a1つのアップグレード&rを入れることができます。\nインベントリとバックパックのアップグレードについて学ぶには、この先の2方向に枝分かれしたクエストラインを確認してください。",
     
     "quests.tfg_tips.red_steel_backpack.title": "レッドスチール製リュック",
     "quests.tfg_tips.red_steel_backpack.subtitle": "ブルースチールで作るより涼しげだね",
-    "quests.tfg_tips.red_steel_backpack.desc": "&4レッドスチール製リュック&rは、リュックの中で4番目に容量が大きいモデルです。合計スロット数は&c54&rで、&a2つのアップグレード&rを入れることができます。",
+    "quests.tfg_tips.red_steel_backpack.desc": "&4レッドスチール製リュック&rは、リュックの中で4番目に容量が大きいモデルです。\n合計スロット数は&c54&rで、&a2つのアップグレード&rを入れることができます。",
     
     "quests.tfg_tips.aluminium_backpack.title": "アルミニウム製リュック",
     "quests.tfg_tips.aluminium_backpack.subtitle": "アルーミナムって言った方がよかった？",
-    "quests.tfg_tips.aluminium_backpack.desc": "&bアルミニウム製リュック&rは、リュックの中で3番目に容量が大きいモデルです。合計スロット数は&c81&rで、&a3つのアップグレード&rを入れることができます。",
+    "quests.tfg_tips.aluminium_backpack.desc": "&bアルミニウム製リュック&rは、リュックの中で3番目に容量が大きいモデルです。\n合計スロット数は&c81&rで、&a3つのアップグレード&rを入れることができます。",
     
     "quests.tfg_tips.titanium_backpack.title": "チタニウム製のリュック",
     "quests.tfg_tips.titanium_backpack.subtitle": "タイタニック号のような安心感",
-    "quests.tfg_tips.titanium_backpack.desc": "&5チタニウム製のリュック&rは、リュックの中で2番目に容量が大きいモデルです。合計スロット数は&c108&rで、&a5つのアップグレード&rを入れることができます。",
+    "quests.tfg_tips.titanium_backpack.desc": "&5チタニウム製のリュック&rは、リュックの中で2番目に容量が大きいモデルです。\n合計スロット数は&c108&rで、&a5つのアップグレード&rを入れることができます。",
     
     "quests.tfg_tips.tungstensteel_backpack.title": "タングステンスチール製リュック",
     "quests.tfg_tips.tungstensteel_backpack.subtitle": "四次元ポケットの廉価版",
-    "quests.tfg_tips.tungstensteel_backpack.desc": "&9タングステンスチール製リュック&rは、リュックの最上位モデルです。&c120&rという驚異的なスロット数を持っており、&a7つのアップグレード&rを入れることができます！",
+    "quests.tfg_tips.tungstensteel_backpack.desc": "&9タングステンスチール製リュック&rは、リュックの最上位モデルです。\n&c120&rという驚異的なスロット数を持っており、&a7つのアップグレード&rを入れることができます！",
     
     "quests.tfg_tips.backpack_upgrades.title": "リュックのアップグレード",
     "quests.tfg_tips.backpack_upgrades.subtitle": "リュックの進化アイテム",
-    "quests.tfg_tips.backpack_upgrades.desc": "&aリュックのアップグレード&rは、&3リュック&rに導入して、新しい能力と機能を与えることができます。\n\nリュックの強化素材を作成するには、&bスチール&rが使えるようになる必要があります。",
+    "quests.tfg_tips.backpack_upgrades.desc": "&aリュックのアップグレード&rは、&3リュック&rに導入して、新しい能力と機能を与えることができます。\n\nリュックの強化素材を作成するには、&bスチール&rが必要です。",
     
     "quests.tfg_tips.crafting_upgrade.title": "作業台アップグレード",
     "quests.tfg_tips.crafting_upgrade.subtitle": "出先での作業に便利",
@@ -95,7 +95,7 @@
     
     "quests.tfg_tips.all_backpack_upgrades.title": "すべてのアップグレード",
     "quests.tfg_tips.all_backpack_upgrades.subtitle": "残念ながら一つのリュックには入りきりません",
-    "quests.tfg_tips.all_backpack_upgrades.desc": "これらは、&3Sophisticated backpack&rにあるすべてのアップグレードです。全部作れますか？",
+    "quests.tfg_tips.all_backpack_upgrades.desc": "これらは、&3Sophisticated_backpack&rにあるすべてのアップグレードです。全部作れますか？",
    
     "__comment4": "#endregion",
    
@@ -107,15 +107,15 @@
     
     "quests.tfg_tips.nano_saber.title": "ナノセイバー",
     "quests.tfg_tips.nano_saber.subtitle": "龍が我が身に宿る",
-    "quests.tfg_tips.nano_saber.desc": "&6ナノセイバー&rは、&5EV&rに到達すると解禁される強力な武器です。&dShift + 右クリック&rで、&cbzzzzzモード&rをアクティブにし、真の力を解き放ちましょう。",
+    "quests.tfg_tips.nano_saber.desc": "&6ナノセイバー&rは、&5EV&rに到達すると解禁される強力な武器です。\n&dShift+右クリック&rで、&cbzzzzzモード&rをアクティブにし、真の力を解き放ちましょう。",
     
     "quests.tfg_tips.gt_tools.title": "GregTechツール",
     "quests.tfg_tips.gt_tools.subtitle": "",
-    "quests.tfg_tips.gt_tools.desc": "ほとんどの&5GregTech&rツールは、&6パワーユニット&rから作成されます。&aEMI&rを使用して、それらから何を作ることができるのかを探ってみてください。ただし、2つの重要なことを覚えておいてください。\n\n- &eパワーユニットのティアが高いほど&r、ツールはより&c強力&rになり、使用するバッテリーも&6上位のもの&rになります。\n- すべてのツールがすべてのティアーのパワーユニットから作れるわけではありません。たとえば、&6チェーンソー&rは&7LVパワーユニット&rでのみ作成できます。",
+    "quests.tfg_tips.gt_tools.desc": "ほとんどの&5GregTech&rツールは、&6パワーユニット&rから作成されます。\n&aEMI&rで、どのようなツール作ることができるのか確認できます。その際、2つの重要なことを覚えておいてください。\n\n-&eパワーユニットのティアが高いほど&r、ツールはより&c強力&rになり、使用するバッテリーも&6上位のもの&rになります。\n-すべてのツールがすべてのティアーのパワーユニットから作れるわけではありません。たとえば、&6チェーンソー&rは&7LVパワーユニット&rでのみ作成できます。",
     
     "quests.tfg_tips.magnets.title": "アイテムマグネット",
     "quests.tfg_tips.magnets.subtitle": "",
-    "quests.tfg_tips.magnets.desc": "&6アイテムマグネット&rは想像通り、近くの&6アイテム&rをあなたのもとに直接引き寄せるマグネットです。&a本当に便利だ&r。他に何を求める？",
+    "quests.tfg_tips.magnets.desc": "&6アイテムマグネット&rは想像通り、近くの&6アイテム&rをあなたのもとに直接引き寄せるマグネットです。&a本当に便利です&r。これ以上のものが必要ありますか？",
   
     "__comment6": "#endregion",
   
@@ -123,34 +123,34 @@
     
     "quests.tfg_tips.terrafirmacraft.title": "TerraFirmaCraftの追加要素",
     "quests.tfg_tips.terrafirmacraft.subtitle": "ModPackの名前の3分の2",
-    "quests.tfg_tips.terrafirmacraft.desc": "&3TerraFirmaCraft&rは、&2TerraFirmaGreg&rの主要なmodの1つです。ここでは主に、そのサバイバルに関するものと、&4酒の熟成&rや&b歩行杖&rなど、ModPackが持つ&d追加要素&rに焦点を当てています。",
+    "quests.tfg_tips.terrafirmacraft.desc": "&3TerraFirmaCraft&rは、&2TerraFirmaGreg&rの主要なmodの1つです。\nここでは主に、そのサバイバルに関するものと、TFCの&dアドオン&rに関するものに焦点を当てています。",
   
     "quests.tfg_tips.cane.title": "歩行杖",
     "quests.tfg_tips.cane.subtitle": "道行く人々を引っ叩くのに最適！",
-    "quests.tfg_tips.cane.desc": "&d杖&rを使用すると、&a雪&rなど、移動を遅くするブロックを完全に無視できます。&cメイン&rまたは&cオフハンド&rで持つだけで効果を発揮します。\n\nおまけとして、&b乗り越え可能な段差の高さを引き上げ&r、ジャンプせずに1ブロックを乗り越えることができます。&d鉄製の杖&rなら、フェンスをも簡単に乗り越えることができるようになります！",
+    "quests.tfg_tips.cane.desc": "&d杖&rを使用すると、&a雪や草&rなど、移動を遅くするブロックを完全に無視できます。&cメイン&rまたは&cオフハンド&rで持っているだけで効果を発揮します。\n\nおまけとして、&b乗り越え可能な段差の高さを引き上げ&r、ジャンプせずに1ブロックを乗り越えることができます。\n&d鉄製の杖&rなら、フェンスをも簡単に乗り越えることができるようになります！",
     "quests.tfg_tips.cane.task": "任意の杖",
   
     "quests.tfg_tips.hiking.title": "登山靴",
     "quests.tfg_tips.hiking.subtitle": "登山用の靴",
-    "quests.tfg_tips.hiking.desc": "&d登山靴&rを使用すると、世界をより楽に探索できます！ &d登山靴&rを履けば、背の高い草むらも抵抗なく通り抜けることができます。さらに、&d登山靴&rのティアが上がるごとに、&9防御力&r、&9歩行速度&r、&9落下耐性&r、そしてその他の能力も強化されていきます。",
+    "quests.tfg_tips.hiking.desc": "&d登山靴&rを使用すると、世界をより楽に探索できます！\n&d登山靴&rを履けば、背の高い草むらも抵抗なく通り抜けることができます。\nさらに、&d登山靴&rのティアが上がるごとに、&9防御力&r、&9歩行速度&r、&9落下耐性&r、そしてその他の能力も強化されていきます。",
     "quests.tfg_tips.hiking.task": "任意の登山靴",
   
     "quests.tfg_tips.glassblowing.title": "ガラス吹き",
     "quests.tfg_tips.glassblowing.subtitle": "リアルなガラス細工体験！",
-    "quests.tfg_tips.glassblowing.desc": "&dガラス板&rや&dガラスブロック&rを作るには、&3ガラス吹き&r道具一式の準備が必要です。\n\n&3ガラス吹き&rには、&a吹き竿&rと、熱したガラスを注ぐためのガラス吹き用のブロックで作られた台座が必要です。台座の形状と有効なブロックの詳細については、&2フィールドガイド&rを参照してください。&a真鍮&rを成形できるようになったらすぐに、ガラス吹きが可能になります！",
+    "quests.tfg_tips.glassblowing.desc": "&dガラス板&rや&dガラスブロック&rを作るには、&3ガラス吹き&r道具一式の準備が必要です。\n\n&3ガラス吹き&rには、&a吹き竿&rと、熱したガラスを注ぐためのガラス吹き用のブロックで作られた台座が必要です。\n台座の形状と有効なブロックの詳細については、&2フィールドガイド&rを参照してください。&a真鍮&rを成形できるようになったらすぐに、ガラス吹きが可能になります！",
     "quests.tfg_tips.glassblowing.task.1": "任意のガラス吹きブロック。",
   
     "quests.tfg_tips.glassblowing_tools.title": "ガラス吹きツール",
     "quests.tfg_tips.glassblowing_tools.subtitle": "ガラス細工士の商売道具",
-    "quests.tfg_tips.glassblowing_tools.desc": "&dガラス&rを加工するには、さまざまなツールが必要です。\n\n&3木ごて&r:平らにする作業に使用される。主に&dガラス板&rおよび&dランタンガラス&rの作成に使用されます。\n&3宝石ノコギリ&r:ガラス製品の製造に必須ですが、それに加えて、まるで&bシルクタッチ&rの効果のように、&dガラス&rや&c宝石の芽&rを回収するためにも使用できます！\n&3ジャックス&r:ガラスを挟んでつまむために使用され、主に&dガラス瓶&rなどの容器を作る際に使用されます。\n&3羊毛の布&r:ガラスを転がすために使用され、&dレンズ&rおよび&dジャム瓶&rの作成に必要です。",
+    "quests.tfg_tips.glassblowing_tools.desc": "&dガラス&rを加工するには、さまざまなツールが必要です。\n\n&3木ごて&r:平らにする作業に使用します。主に&dガラス板&rおよび&dランタンガラス&rの作成に必要になります。\n&3宝石ノコギリ&r:ガラス製品の製造に必須ですが、それに加えて、まるで&bシルクタッチ&rの効果のように、&dガラス&rや&c宝石の芽&rを回収するためにも使用できます。\n&3ジャックス&r:ガラスを挟んでつまむ作業に使用します。主に&dガラス瓶&rなどの容器を作る際に必要になります。\n&3羊毛の布&r:ガラスを転がすために使用します。&dレンズ&rおよび&dジャム瓶&rの作成に必要です。",
   
     "quests.tfg_tips.glass_blocks.title": "ガラスブロック",
     "quests.tfg_tips.glass_blocks.subtitle": "Windowsを手に入れよう",
-    "quests.tfg_tips.glass_blocks.desc": "&aガラス製造&rに使用する砂の種類に応じて、最終的な&dガラス&rの色が変わります。特定の色のガラスをつくる方法については、&2フィールドガイド&rの&3ガラス製品&rの項目を参照してください。後々、&3GregTech&rの化学物質を使用して、ガラスをより簡単に染色できるようになります。\n\n&3&lTips:&r&o 大量のガラスブロックを作成したい場合、&b合金製錬炉&fが利用できるなら、&dガラス板&fを作成し、&b粉砕&fして&dガラスの粉&fに加工し、&aブロックの金型&fで成型するのが効率的です。この方法だと1回の作業で最大16個の小さな粉を作ることができます！",
+    "quests.tfg_tips.glass_blocks.desc": "&aガラス製造&rに使用する砂の種類に応じて、最終的な&dガラス&rの色が変わります。\n特定の色のガラスをつくる方法については、&2フィールドガイド&rの&3ガラス製品&rの項目を参照してください。\n後々、&3GregTech&rの化学物質を使用して、ガラスをより簡単に染色できるようになります。\n\n&3&lTips:&r&o 大量のガラスブロックを作成したい場合、&b合金製錬炉&fが利用できるなら、&dガラス板&fを作成し、&b粉砕&fして&dガラスの粉&fに加工し、&aブロックの金型&fで成型するのが効率的です。この方法だと1回の作業で最大16個の小さな粉を作ることができます！",
   
     "quests.tfg_tips.lamps.title": "ランタン",
     "quests.tfg_tips.lamps.subtitle": "弱めの文明の明かり",
-    "quests.tfg_tips.lamps.desc": "通常のMinecraftと同様に、&dランタン&rはチェーンを使って天井から吊るしたり、ブロックの上に置いたりすることができます。&dランタン&rは、点灯し続けるためにさまざまな種類の燃料を消費します。燃料によっては&4無期限に&r持続するものもあります。\n\n&3&lTips:&r&o 燃料入りのランタンは、&cCurios&fの&6バック&fスロットに装備すると、自分の周りを照らしてくれます。シェーダーがオンになっている場合は、これが機能しない場合があります。",
+    "quests.tfg_tips.lamps.desc": "通常のMinecraftと同様に、&dランタン&rはチェーンを使って天井から吊るしたり、ブロックの上に置いたりすることができます。\n&dランタン&rは、点灯し続けるためにさまざまな種類の燃料を消費します。燃料によっては&4永遠に&r持続するものもあります。\n\n&3&lTips：&r&o燃料入りのランタンは、&cCurios&fの&6バック&fスロットに装備すると、自分の周りを照らしてくれます。シェーダーがオンになっていると、これが機能しないことがあります。",
   
     "quests.tfg_tips.creosote.title": "ランタン燃料:クレオソート",
     "quests.tfg_tips.creosote.subtitle": "余っていたら",
@@ -164,76 +164,76 @@
   
     "quests.tfg_tips.olive_oil.title": "ランタン燃料:オリーブオイル",
     "quests.tfg_tips.olive_oil.subtitle": "もちろん、愛をこめればね",
-    "quests.tfg_tips.olive_oil.desc": "&dオリーブオイル&rはランタン燃料として使用できます。他の燃料よりも作成が難しいですが、これで満たされたランタンはなんと&c83&r日間も持続します！\n\n&3&lTips:&r&o &7LV&fでも電気機械にアクセスすると、製作が楽になります。",
+    "quests.tfg_tips.olive_oil.desc": "&dオリーブオイル&rはランタン燃料として使用できます。他の燃料よりも作成が難しいですが、これで満たされたランタンはなんと&c83&r日間も持続します！\n\n&3&lTips:&r&o &7LV&f機械にが使えるようになると、製作が楽になります。",
     "quests.tfg_tips.olive_oil.task": "オリーブオイルのバケツ",
   
     "quests.tfg_tips.lava_lamp.title": "ランタン燃料:溶岩",
     "quests.tfg_tips.lava_lamp.subtitle": "ホットスタッフ",
-    "quests.tfg_tips.lava_lamp.desc": "非常に耐熱性の高い金属である&9青鋼&rを使用すると、&d青鋼のランタン&rを作成できます。これは&c溶岩&rで満たすことができ、ランタンの素材は限定されるのと引き換えに、永遠の光源が得られます。\n\nただし、溶岩が入ったランタンの取り扱いには注意してください。非常に&cHOTです...&r",
+    "quests.tfg_tips.lava_lamp.desc": "非常に耐熱性の高い金属である&9青鋼&rを使用すると、&d青鋼のランタン&rを作成できます。これには&c溶岩&rをいれることができ、永久の光源になります。\n\nただし、溶岩が入ったランタンの取り扱いには注意してください。非常に&cHOTです...&r",
   
     "quests.tfg_tips.glowstone_lamp.title": "ランタン燃料:グロウストーン",
     "quests.tfg_tips.glowstone_lamp.subtitle": "最高のランタン燃料",
-    "quests.tfg_tips.glowstone_lamp.desc": "&dグロウストーン&rを液化するには、少なくとも&7LV&rの機械を使う必要がありますが、&l任意のランタンの素材で&r気に入ったものがあれば、&6液体グロウストーン&rで満たすことで永遠の光源を得ることができます。そして、&c溶岩&rとは異なり、これは熱くありません！",
+    "quests.tfg_tips.glowstone_lamp.desc": "&dグロウストーン&rを液化するには、&7LV&r以上の機械を使う必要がありますが、&lどの素材でできたランタン&でも、&6液体グロウストーン&rを入れることで永久の光源になります。\nそして、&c溶岩&rとは異なり、これは熱くありません！",
   
     "quests.tfg_tips.charcoal_pile.title": "伏せ焼き",
     "quests.tfg_tips.charcoal_pile.subtitle": "重要事項です",
-    "quests.tfg_tips.charcoal_pile.desc.1": "&a伏せ焼き&rは、初期の&d木炭&rの確保法です。&2TFG&rで成り上がっていくには、これが&oaたくさん&r必要になります。木炭は&3精錬&rと&b錬鉄&rのための&3塊鉄炉&rを使うのに大量に必要になるからです。\n\nではまず、地面を掘り下げます。",
-    "quests.tfg_tips.charcoal_pile.desc.2": "穴を掘った後、&cスニーク&rしながら丸太を設置します。これにより、穴に&2丸太の山&rが設置されます。丸太の山に入れる丸太が多いほど、作成される&d木炭&rが多くなります。",
-    "quests.tfg_tips.charcoal_pile.desc.3": "&2丸太の山&rを設置した後、ブロックで覆いますが、&o1つは覆われていないままにします&r。&d火起こし器&r、ドロップした&e松明&r、または&4火打石と打ち金&rを使用して、この覆われていないものに火をつけます。覆われたブロックから煙が出てくるのを待ち、覆われていないものを&c密閉&rします。煙の放出が止まったら、覆いを取り除き、&d木炭&rを収穫します。できれば&aシャベル&rまたは&a軍用シャベル&rを使用します。",
-    "quests.tfg_tips.charcoal_pile.desc.4": "&3&l専門家からのアドバイス:&r&o できるだけ早く&3コークス炉&fを作ることをお勧めします。丸太から&a木炭&fを&cより良い比率&fで作成できるだけでなく、ランタンや蒸気動力に役立つ燃料である&aクレオソート&fを副産物として生成し、&dスチール&f生産用の&aコークス&fを作るのにも使えます。",
+    "quests.tfg_tips.charcoal_pile.desc.1": "&a伏せ焼き&rは、初期の&d木炭&rの確保法です。\n&2TFG&rで成り上がっていくには、木炭が&o大量に&r必要になります。炉での&3精錬&rと&b錬鉄&rのための&3塊鉄炉&rの稼働で特に多く要求されます。\n\nではまず、地面を掘り下げましょう。",
+    "quests.tfg_tips.charcoal_pile.desc.2": "穴を掘った後、&cスニーク&rしながら丸太を設置します。これにより、穴に&2丸太の山&rが設置されます。\n丸太の山に入れる丸太が多いほど、作成される&d木炭&rが多くなります。",
+    "quests.tfg_tips.charcoal_pile.desc.3": "&2丸太の山&rを設置した後、ブロックで覆いますが、&o1つは覆われていないままにします&r。\n&d火起こし器&r、ドロップした&e松明&r、または&4火打石と打ち金&rを使用して、この覆われていないものに火をつけます。\n覆われたブロックから煙が出てきたら、覆われていないものにもブロックを被せて&c密閉&rします。\n煙の放出が止まったら、覆いを取り除き、&d木炭&rを収穫します。&aシャベル&rまたは&a軍用シャベル&rを使えば楽に回収できます。",
+    "quests.tfg_tips.charcoal_pile.desc.4": "&3&l専門家からのアドバイス：&r&o\nできるだけ早く&3コークス炉&fを作ることをお勧めします。丸太から&a木炭&fを&cより良い比率&fで作成できるだけでなく、ランタンや蒸気動力に役立つ燃料である&aクレオソート&fを副産物として生成し、&dスチール&f生産用の&aコークス&fを作るのにも使えます。",
   
     "quests.tfg_tips.thatch_bed.title": "藁のベッド",
     "quests.tfg_tips.thatch_bed.subtitle": "休める場所をくれないか",
-    "quests.tfg_tips.thatch_bed.desc": "いくつかの&b藁ブロック&rと&a大きな皮&rを利用して、&d藁のベッド&rを作成できます。睡眠に使用することはできませんが、&cスポーンポイントを設定できます&r。\n\n藁のベッドを作成するには、&b2つの藁ブロック&rを並べて設置し、&a大きな皮&rで右クリックします。",
+    "quests.tfg_tips.thatch_bed.desc": "&b藁ブロック&rを2つ設置し、&a大きな皮&rを被せると、&d藁のベッド&rになります。\n寝るために使うことはできませんが、&cスポーンポイントを設定できます&r。\n\n藁のベッドを作成するには、&b2つの藁ブロック&rを並べて設置し、&a大きな皮&rで右クリックします。",
     "quests.tasktype.looktat": "完成した藁のベッドを見る",
   
     "quests.tfg_tips.loom.title": "織機",
     "quests.tfg_tips.loom.subtitle": "もっと頑張ってからじゃないと、寝る気にはならないな",
-    "quests.tfg_tips.loom.desc": "より良いベッドを作るには、いくつかの織物を作成する必要があります。&3織機&rはこれを行うための最適な作業台であり、それぞれ異なる用途を持つさまざまな織物を作成できます。",
+    "quests.tfg_tips.loom.desc": "より良いベッドを作るには、織物が必要になります。織物は&3織機&rによって作ることができます。それぞれ異なる用途を持つさまざまな織物が作成できます。",
   
     "quests.tfg_tips.burlap_cloth.title": "麻布",
     "quests.tfg_tips.burlap_cloth.subtitle": "ジュート製！",
-    "quests.tfg_tips.burlap_cloth.desc": "樽に&aジュート&rを浸し、&3織機&rで&aジュートの繊維&rを加工することにより、&d麻布&rを作成できます。\n\n麻布には、&c暑い環境&rから保護する&bBurlap Clothes&r、怒っている蜂から保護する&e養蜂家の装備&r、およびその他の多くの便利系アイテムの作成など、様々な用途があります。",
+    "quests.tfg_tips.burlap_cloth.desc": "樽に&aジュート&rを浸し、&3織機&rで&aジュートの繊維&rを織ることにより、&d麻布&rを作成できます。\n\n麻布には、&c暑い環境&rから保護する&b麻の服&r、怒っている蜂から保護する&e養蜂家の装備&r、およびその他の多くの便利系アイテムの作成など、様々な用途があります。",
   
     "quests.tfg_tips.pineapple_leather.title": "パイナップルレザー",
     "quests.tfg_tips.pineapple_leather.subtitle": "ペン抜き、リンゴ抜きで",
-    "quests.tfg_tips.pineapple_leather.desc": "&a人工繊維&rを入手し、それらを&b紡績&rして&a人工織り糸&rにし、&3織機&rで糸を加工すると、&bなめし革&rの代替品にもなる&d人工皮革&rが得られます。",
+    "quests.tfg_tips.pineapple_leather.desc": "&a人工繊維&rを入手し、それらを&b紡績&rして&a人工織り糸&rにし、&3織機&rで糸を加工すると、なめした&b革&rの代替品にもなる&d人工皮革&rが得られます。",
   
     "quests.tfg_tips.wool_cloth.title": "羊毛の布",
     "quests.tfg_tips.wool_cloth.subtitle": "メェー...",
-    "quests.tfg_tips.wool_cloth.desc": "&2羊毛を生産する&r家畜から刈り取ることで羊毛が得られ、それを紡績して&d羊毛の糸&rにすることができます。&3織機&rで糸を織ると、&d羊毛の布&rを作れます。\n\n&bガラス細工&rでの使用に加えて、&b寒い&r環境に最適な&aWool Clothes&rを作成するために使用できます。\n\n羊毛の布は&b高品質の布&rと見なされます。",
+    "quests.tfg_tips.wool_cloth.desc": "&2羊毛を生産する&r家畜から刈り取ることで羊毛が得られ、それを紡績して&d羊毛の糸&rにすることができます。&3織機&rで糸を織ると、&d羊毛の布&rを作れます。\n\n&bガラス細工&rでの使用に加えて、&b寒い&r環境に最適な&a羊毛の服&rを作るために使えます。\n\n羊毛の布は&b高品質の布&rと見なされます。",
   
     "quests.tfg_tips.silk_cloth.title": "絹の布",
     "quests.tfg_tips.silk_cloth.subtitle": "非常に、非常に滑らか。",
-    "quests.tfg_tips.silk_cloth.desc": "&d絹の布&rは、&bクモ&rが落とす&a糸&r、または&bポリカプロラクタム(別名ナイロン)インゴット&rを介して作成できます。カイコはまだ存在しません、ごめんなさい！&4The Beneath&rの危険な&cWebbed Lair&rバイオームは、別の危険なソースです。\n\n絹の布は、&c暑い&r環境からあなたを保護するのに最適な&aSilk Clothes&rを作成するために使用できます。\n\n絹の布は&b高品質の布&rと見なされます。",
+    "quests.tfg_tips.silk_cloth.desc": "&d絹の布&rは、&bクモ&rが落とす&a絹糸&rから作れます。(&bポリカプロラクタム(別名ナイロン)&rから作った布も絹の布と同じ扱いです。)カイコはまだ存在しません、ごめんなさい！\n絹糸は&4Beneath&rにある&cWebbed_Lair&rという危険なバイオームで大量に入手することができます。\n\n絹の布は、&c暑い&r環境からあなたを保護するのに最適な&a絹製の衣服&rを作成するために使用できます。\n\n絹の布は&b高品質の布&rと見なされます。",
   
     "quests.tfg_tips.phantom_silk.title": "ファントムの布",
     "quests.tfg_tips.phantom_silk.subtitle": "みんな大好きモブ投票の勝者",
-    "quests.tfg_tips.phantom_silk.desc": "&dファントムの布&rはファントムの糸から織られており、ファントムの糸はファントムの皮膜から作られています。&aファントム&rは&4The Beneath&rで見つけることができます。",
+    "quests.tfg_tips.phantom_silk.desc": "&dファントムの布&rはファントムの糸から織られており、ファントムの糸はファントムの皮膜から作られます。\n&aファントム&rは&4Beneath&rにいます。",
   
     "quests.tfg_tips.unrefined_paper.title": "未精製の紙",
     "quests.tfg_tips.unrefined_paper.subtitle": "歴史を紡ぐ。",
-    "quests.tfg_tips.unrefined_paper.desc": "&a未精製の紙&rは、本物の使用可能な&d紙&rになるまであと一歩です。紙を作る方法はいくつもあり、資源の入手難易度によっては、簡単に行えるものもあれば、かなり難しいものもあります。&b紙の作成&rの項目を&2フィールドガイド&rで確認してください！&r",
+    "quests.tfg_tips.unrefined_paper.desc": "&a未精製の紙&rは、本物の使用可能な&d紙&rの前段階です。\n紙を作る方法はいくつもあり、資源の入手難易度によっては、簡単に行えるものもあれば、かなり難しいものもあります。\n&b紙の作成&rの項目を&2フィールドガイド&rで確認しましょう。&r",
   
     "quests.tfg_tips.bed.title": "ベッド",
     "quests.tfg_tips.bed.subtitle": "おやすみ",
-    "quests.tfg_tips.bed.desc": "&b高品質の布&r(&a羊毛&rや&aシルク&rなど)を使用すると、本物の&dベッド&rを作成できます。&2藁のベッド&rとは異なり、本物の&dベッド&rは一晩中眠るのに十分な快適さです。良い夢を！",
+    "quests.tfg_tips.bed.desc": "&b高品質の布&r(&a羊毛&rや&a絹&rなど)を使用すると、本物の&dベッド&rを作成できます。\n&2藁のベッド&rとは異なり、本物の&dベッド&rは快適に一晩眠ることができます。良い夢を！",
   
     "quests.tfg_tips.sleeping_bags.title": "寝袋",
     "quests.tfg_tips.sleeping_bags.subtitle": "キャンピング！",
-    "quests.tfg_tips.sleeping_bags.desc": "&d寝袋&rは、&bどこでも&r寝るために使用できるアイテムです。ベッドとは異なり、寝袋は&cスポーン地点&rを&o変更しません&r。",
+    "quests.tfg_tips.sleeping_bags.desc": "&d寝袋&rなら、&bどこでも&r寝ることができます。ベッドとは異なり、寝袋は&cスポーン地点&rを&o変更しません&r。",
   
     "quests.tfg_tips.hammocks.title": "ハンモック",
     "quests.tfg_tips.hammocks.subtitle": "2度寝に最適",
-    "quests.tfg_tips.hammocks.desc": "&dハンモック&rは、&2ベッド&rとは真逆で昼間に眠ることができます。時間のかかる樽の醸造レシピや伏せ焼きの待機時間に最適です。\n&2寝袋&rと同様に、&cスポーン地点&rを&o変更&rしません。",
+    "quests.tfg_tips.hammocks.desc": "&dハンモック&rは、&2ベッド&rとは真逆で昼間に眠ることができます。\n時間のかかる樽の醸造レシピや伏せ焼きの時間をつぶすのに最適です。\n&2寝袋&rと同様に、&cスポーン地点&rを&o変更&rしません。",
   
     "quests.tfg_tips.panning.title": "ふるい",
     "quests.tfg_tips.panning.subtitle": "ゴールドラッシュの再体験！",
-    "quests.tfg_tips.panning.desc": "川底に、鉱石が混ざった砂利があるのに気が付きましたか？ これは&a砂利鉱床&rとして知られています。&bふるい&rで右クリックすると、この鉱石鉱床を&dネイティブ鉱石の小さな破片&rに加工できます。これらは、型を満たすために数ミリバックレットが不足している場合に役立ちます。",
+    "quests.tfg_tips.panning.desc": "川底に、鉱石が混ざった砂利があるのに気が付きましたか？これは&a砂利鉱床&rとして知られています。\n&bふるい&rで右クリックすると、この鉱石鉱床を&d小さな鉱石&rに加工できます。\nこれは、絶妙に鉱石が足りない！という場合に役立ちます。",
   
     "quests.tfg_tips.sluice.title": "流し樋",
     "quests.tfg_tips.sluice.subtitle": "夏の風物詩",
-    "quests.tfg_tips.sluice.desc": "&3流し樋&rを使用して、&a砂利鉱床&rをより速く、わずかに自動化された方法で処理できます。さらに、流し樋は追加で&d希少な副産物&rを生成できます。詳細については、&2フィールドガイド&rの項目を確認してください！",
+    "quests.tfg_tips.sluice.desc": "&3流し樋&rを使用して、&a砂利鉱床&rをより速く、多少自動化された方法で処理することができます。\nさらに、流し樋は追加で&d希少な副産物&rを生成できます。\n詳細については、&2フィールドガイド&rの項目を確認してください！",
   
     "quests.tfg_tips.status_effects.title": "ステータス効果",
     "quests.tfg_tips.status_effects.subtitle": "薬物乱用教室",
@@ -241,12 +241,12 @@
   
     "quests.tfg_tips.aged_alcohol.title": "酒類の熟成",
     "quests.tfg_tips.aged_alcohol.subtitle": "百薬の長",
-    "quests.tfg_tips.aged_alcohol.desc": "&3アルコール飲料を&r&a樽&rで長期間熟成させると、効力が増した&dAged Alcohol&rになります。瓶また水筒で飲むと、使用したアルコールに応じて、&b再生&r、&b耐性&r、&b衝撃吸収&rなどの有用なステータス効果が得られます。これらの効果は、特に探索に役立ちます。",
+    "quests.tfg_tips.aged_alcohol.desc": "&3アルコール飲料を&r&a樽&rで長期間熟成させると、効力が増した&dAged_Alcohol&rになります。\n瓶また水筒で飲むと、使用したアルコールに応じて、&b再生&r、&b耐性&r、&b衝撃吸収&rなどの有用なステータス効果が得られます。これらの効果は、特に探索に役立ちます。",
     "quests.tfg_tips.aged_alcohol.task": "熟成アルコール",
   
     "quests.tfg_tips.pills.title": "薬:丸薬",
     "quests.tfg_tips.pills.subtitle": "効いたよね！",
-    "quests.tfg_tips.pills.desc": "&aワックス類&r、&b温泉水&r、およびいくつかの独自の材料を混ぜると、&d丸薬&rが得られます。丸薬は、良いものもあれば悪いものもあり、さまざまなステータス効果をもたらします。\n\n&3&lTips:&r&o &bメカニカルミキサー&fまたは&bGTミキサー&fを使用すると、作れる量が2倍になります！",
+    "quests.tfg_tips.pills.desc": "&aワックス類&r、&b温泉水&r、およびいくつかの独自の材料を混ぜると、&d丸薬&rが得られます。\n丸薬は、様々なステータス効果を持ったものがあり、使うと手早く効果を受けることができます。\n\n&3&lTips:&r&o &bメカニカルミキサー&fまたは&bGTミキサー&fを使用すると、作れる量が2倍になります！",
     "quests.tfg_tips.pills.task": "効果丸薬",
   
     "quests.tfg_tips.tablets.title": "薬:錠剤",
@@ -256,7 +256,7 @@
   
     "quests.tfg_tips.salvo.title": "薬:軟膏",
     "quests.tfg_tips.salvo.subtitle": "え...？ 食べた...？",
-    "quests.tfg_tips.salvo.desc": "&d軟膏&rは、通常は皮膚に塗布される種類の薬です。これらは、&a丸薬&rや&a錠剤&rとは異なる種類の効果を発揮します。たとえば、&c火耐性&rや&4即時回復&rなどですが、比較的複雑な化学が必要です。",
+    "quests.tfg_tips.salvo.desc": "&d軟膏&rは、通常は皮膚に塗布する薬です。\nこれは、&a丸薬&rや&a錠剤&rとは異なる種類の効果を発揮します。たとえば、&c火耐性&rや&4即時回復&rなど。ただし、作成には比較的複雑な化学が必要です。",
     "quests.tfg_tips.salvo.task": "軟膏",
   
     "__comment8": "#endregion",
@@ -264,26 +264,26 @@
     "__comment9": "#region その他",
   
     "quests.tfg_tips.misc.title": "その他のTips",
-    "quests.tfg_tips.misc.subtitle": "さらにTips！",
+    "quests.tfg_tips.misc.subtitle": "Tipsおかわり！",
     "quests.tfg_tips.misc.desc": "これらはその他のTipsです。他のカテゴリには当てはまりませんが、知っておくと役立ちます。",
   
     "quests.tfg_tips.digger_helmet.title": "Digger Helmet",
     "quests.tfg_tips.digger_helmet.subtitle": "夜通し採掘するために",
-    "quests.tfg_tips.digger_helmet.desc.1": "&dDigger Helmet&rは、周囲を自動的に照らすことができるヘルメットです。メインハンドが占有され、オフハンドに盾などが装備されている場合に役立ちます。作成には&6グロウストーン&rが少し必要になります。早く作りたい場合は&4The Beneath&rに行くべきでしょう",
-    "quests.tfg_tips.digger_helmet.desc.2": "&l&3重要:&r&l &dディガーヘルメット&f自体は、&cSodium Dynamic Lights&fの特定の設定のおかげで機能します。正常に機能させるには、&b「Dynamic Entity Lighting」&fをオンにする必要があります",
+    "quests.tfg_tips.digger_helmet.desc.1": "&dDigger_Helmet&rは、周囲を自動的に照らすことができるヘルメットです。メインハンドが占有され、オフハンドに盾などが装備されている場合に役立ちます。\n作成には&6グロウストーン&rが少し必要になります。早く作りたい場合は&4Beneath&rに行くべきでしょう",
+    "quests.tfg_tips.digger_helmet.desc.2": "&l&3重要:&r&l &dディガーヘルメット&f自体は、&cSodium_Dynamic_Lights&fの特定の設定のおかげで機能します。\n正常に機能させるには、&b「Dynamic_Entity_Lighting」&fをオンにする必要があります",
   
     "quests.tfg_tips.grappling_hook.title": "グラップリングフック",
     "quests.tfg_tips.grappling_hook.subtitle": "スタイリッシュ！",
-    "quests.tfg_tips.grappling_hook.desc": "&aRope Coil&r2つと&b錬鉄製つるはしヘッド&rを組み合わせることで、&dグラップリングフック&rを作成できます。大きな山を登ったり、大きな洞窟を探索したり、世界を渡り歩いたりするのに理想的なツールです。&eアップグレード&rすることができ、&dフックの部品&rを自由に組み合わせて変更できます。",
+    "quests.tfg_tips.grappling_hook.desc": "&aRope_Coil&r2つと&b錬鉄製つるはしヘッド&rを組み合わせることで、&dグラップリングフック&rを作成できます。\n大きな山を登ったり、大きな洞窟を探索したり、世界中を冒険するのに非常に有用な道具です。\n&eアップグレード&rすることができ、&dフックの部品&rを自由に組み合わせて改造することができます。",
   
     "quests.tfg_tips.grapple_repair.title": "グラップリングフックの警告",
     "quests.tfg_tips.grapple_repair.subtitle": "これを読まないと後悔するかもしれません！",
-    "quests.tfg_tips.grapple_repair.desc": "&dグラップリングフック&rの&aアップグレード&rはすべて、アイテム内にNBTデータとして保存されます。つまり、&c別の&rグラップリングフックを使用してフックを修理しようとすると、&l&cすべてのアップグレードが破壊されます！&r\n\n代わりに、&dグラップリングフック&rと&b錬鉄の粉&rを&3作業台&rに置いて修理する必要があります。\n\nまた、オーバーワールドとThe Beneathの間を移動するときにグラップリングフックを使用しないでください。非常に危険です。",
+    "quests.tfg_tips.grapple_repair.desc": "&dグラップリングフック&rの&aアップグレード&rはすべて、アイテム内にNBTデータとして保存されます。つまり、&c別の&rグラップリングフックを使用してフックを修理しようとすると、&l&cすべてのアップグレードが破壊されます！&r\n\n代わりに、&dグラップリングフック&rと&b錬鉄の粉&rを&3作業台&rに置いて修理する必要があります。\n\nまた、オーバーワールドとBeneathの間を移動するときにグラップリングフックを使用しないでください。非常に危険です。",
   
     "quests.tfg_tips.grapple_upgrades.title": "グラップリングフックのアップグレード",
     "quests.tfg_tips.grapple_upgrades.subtitle": "TFGによる抜群の調整",
-    "quests.tfg_tips.grapple_upgrades.desc.1": "&dグラップリングフック&rのアップグレードは、&3作業台&rを介してアイテムを追加または削除することで構成されます。&r\n\n&dグラップリングフック&rに適用できるすべてのアップグレードは、&2EMI&rで用途を表示キーを押すことで確認できます。\nカスタムレシピのそれぞれには、どのような変更が適用されているかを説明するテキストが含まれています。",
-    "quests.tfg_tips.grapple_upgrades.desc.2": "アップグレードは、&dグラップリングフック&rを&bハンマー&rとアップグレードに使用した&aアイテム&rでクラフトすることで削除できます(消費はされません)。クラフトは、アップグレードが削除された&dフック&rと、最初にアップグレードに使用したアイテムを返します。したがって、2つのアイテムが返されます！ このダウングレードのプロセスは、それぞれのアップグレードクエストで特に明記されていない限り、すべてのアップグレードのデフォルトの動作です。\n\n&lアップグレードは上書きできません。&7LV&fモーターから&bMV&fモーターにアップグレードする場合は、最初に&7LV&fモーターのアップグレードを削除する必要があります。",
+    "quests.tfg_tips.grapple_upgrades.desc.1": "&dグラップリングフック&rは、&3作業台&rでアイテムを追加または削除することで改造することができます。&r\n\n&dグラップリングフック&rに適用できるすべてのアップグレードは、&2EMI&rで用途を表示キーを押すことで確認できます。\nレシピには、どのような変更が適用されているかを説明するテキストが載っています。",
+    "quests.tfg_tips.grapple_upgrades.desc.2": "アップグレードは、&dグラップリングフック&rを&bハンマー&rとアップグレードに使用した&aアイテム&rでクラフトすると外すことができます(消費はされません)。\nクラフトは、アップグレードが外れた&dフック&rと、最初にアップグレードに使用したアイテムを返します。したがって、2つのアイテムが返されます！\nこのダウングレードの工程は、それぞれのクエストで特に明記されていない限り、すべてのアップグレードで共通です。\n\n&lアップグレードは上書きできません。&7LV&fモーターから&bMV&fモーターにアップグレードする場合は、最初に&7LV&fモーターのアップグレードを削除する必要があります。",
   
     "quests.tfg_tips.grapple_length.title": "グラップリングフックのアップグレード:長さ",
     "quests.tfg_tips.grapple_length.subtitle": "長いものには巻かれろ",
@@ -291,15 +291,15 @@
   
     "quests.tfg_tips.grapple_motor.title": "グラップリングフックのアップグレード:モーター",
     "quests.tfg_tips.grapple_motor.subtitle": "もたもたしてると置いてくぜ",
-    "quests.tfg_tips.grapple_motor.desc": "&aモーターアップグレード&rを使用すると、&dフック&rで自動巻き取りが可能になります。&c高レベルのモーター&rは、巻き取る力によって&4落下ダメージ&rを受ける可能性があるため、注意が必要です。\n\nモーターは&2GregTech&rの電圧階層に応じて段階分けされています。クラフトレシピには、どのようなステータスがどれだけ変更されたかが正確に示されています。",
+    "quests.tfg_tips.grapple_motor.desc": "&aモーターアップグレード&rを使用すると、&dフック&rで自動巻き取りが可能になります。\n&c高レベルのモーター&rは、巻き取る力によって&4落下ダメージ&rを受ける可能性があるため、注意が必要です。\n\nモーターは&2GregTech&rの電圧階層に応じて段階分けされています。クラフトレシピには、どのようなステータスがどれだけ変更されたかが正確に示されています。",
   
     "quests.tfg_tips.grapple_smart_motor.title": "グラップリングフックのアップグレード:スマートモーター",
     "quests.tfg_tips.grapple_smart_motor.subtitle": "これはどうやって使うんだろ",
-    "quests.tfg_tips.grapple_smart_motor.desc": "&aスマートモーターアップグレード&rを使用すると、&3スマートモーターシステム&rが有効になります。最初に&bモーターアップグレード&rをインストールする必要があります。",
+    "quests.tfg_tips.grapple_smart_motor.desc": "&aスマートモーターアップグレード&rを使用すると、&3スマートモーターシステム&rが有効になります。\n最初に&bモーターアップグレード&rをインストールしている必要があります。",
   
     "quests.tfg_tips.grapple_field.title": "グラップリングフックのアップグレード:反発フィールド",
     "quests.tfg_tips.grapple_field.subtitle": "見ててね[[ママ]] ﾎﾞｸ お空を飛ぶ、よ！",
-    "quests.tfg_tips.grapple_field.desc": "&a反発フィールドアップグレード&rを使用すると、近くのブロックから反発されます。&c高レベルの反発力&rは&4落下ダメージ&rを引き起こす可能性があるため、注意が必要です。\n\n反発フィールドは&2GregTech&rの電圧階層に従って段階分けされています。クラフトレシピには、どのようなステータスがどれだけ変更されたかが正確に示されています。",
+    "quests.tfg_tips.grapple_field.desc": "&a反発フィールドアップグレード&rを使用すると、近くのブロックから反発されます。\n&c高レベルの反発力&rは&4落下ダメージ&rを引き起こす可能性があるため、注意が必要です。\n\n反発フィールドは&2GregTech&rの電圧階層に従って段階分けされています。クラフトレシピには、どのようなステータスがどれだけ変更されたかが正確に示されています。",
   
     "quests.tfg_tips.grapple_magnet.title": "グラップリングフックのアップグレード:フックマグネット",
     "quests.tfg_tips.grapple_magnet.subtitle": "なぜだろう、惹きつけられる",
@@ -316,7 +316,7 @@
   
     "quests.tfg_tips.grapple_double.title": "グラップリングフックのアップグレード:ダブルフック",
     "quests.tfg_tips.grapple_double.subtitle": "倍加は工業の基本",
-    "quests.tfg_tips.grapple_double.desc": "&aダブルフックアップグレード&rを使用すると、&d2つのグラップリングフック&rを角度を変えて投げることができます。各フックを個別に投げるためのキーバインドを設定することもできます。",
+    "quests.tfg_tips.grapple_double.desc": "&aダブルフックアップグレード&rを使用すると、&d2つのグラップリングフック&rを角度を変えて投げることができます。\n各フックを個別に投げるためのキーバインドを設定することもできます。",
   
     "quests.tfg_tips.grapple_gravity_50.title": "グラップリングフックのアップグレード:重力半減",
     "quests.tfg_tips.grapple_gravity_50.subtitle": "厳密な物理学に基づいた設計",
@@ -328,15 +328,15 @@
   
     "quests.tfg_tips.grapple_tweaks.title": "グラップリングフックのアップグレード:調整",
     "quests.tfg_tips.grapple_tweaks.subtitle": "角度の調整",
-    "quests.tfg_tips.grapple_tweaks.desc": "&aレンチ&rを使用すると、&dフック&rを投げるときの&b上向きの角度&rを調整できます。&aドライバー&rは、&aダブルフックアップグレード&rの&b水平角度&rを調整するために使用されます。",
+    "quests.tfg_tips.grapple_tweaks.desc": "&aレンチ&rを使用すると、&dフック&rを投げるときの&b上向きの角度&rを調整できます。\n&aドライバー&rは、&aダブルフックアップグレード&rの&b水平角度&rを調整するために使用されます。",
   
     "quests.tfg_tips.chalk.title": "チョーク",
     "quests.tfg_tips.chalk.subtitle": "方向音痴な方へ",
-    "quests.tfg_tips.chalk.desc": "&dチョーク&rを使用して、ブロックにさまざまな記号を描けます。&b洞窟探検&r中に重要な場所をマークするのに非常に役立ちます。\n\n&3チョークボックス&rは、複数のチョークを1つのインベントリスロットにいれておけます。それだけでなく、&6グロウストーン&rなどの発光アイテムを追加して、チョークの落書きを暗闇で光らせることができます！",
+    "quests.tfg_tips.chalk.desc": "&dチョーク&rを使うと、ブロックにさまざまな記号を描けます。&b洞窟探検&r中に重要な場所をマークすることなどに非常に役立ちます。\n\n&3チョークボックス&rは、複数のチョークを1つのインベントリスロットにいれておけます。\nそれだけでなく、&6グロウストーン&rなどの発光アイテムを追加して、チョークの落書きを暗闇で光らせることができます！",
   
     "quests.tfg_tips.tape_measure.title": "メジャー",
     "quests.tfg_tips.tape_measure.subtitle": "ブロックのスペースを手動で数えるのをやめましょう",
-    "quests.tfg_tips.tape_measure.desc": "&dTape Measure&rを使用すると、周囲の長さや距離を測定できます。これは、大規模な建築するときに特に役立ちます。&d巻尺&rを持ちながらブロックに右クリックするだけで、測定を開始できます。停止するには、巻尺を持ちながら別のブロックを右クリックします。",
+    "quests.tfg_tips.tape_measure.desc": "&dTape_Measure&rを使用すると、周囲の長さや距離を測定できます。これは、大規模な建築するときに特に役立ちます。\n&d巻尺&rを持ちながらブロックに右クリックするだけで、測定を開始できます。停止するには、巻尺を持ちながら別のブロックを右クリックします。",
   
     "quests.tfg_tips.blank_disc.title": "Etched：音楽鑑賞",
     "quests.tfg_tips.blank_disc.subtitle": "Gregと一緒に音楽を楽しもう",
@@ -348,7 +348,7 @@
   
     "quests.tfg_tips.dye_discs.title": "クラシック",
     "quests.tfg_tips.dye_discs.subtitle": "色褪せることはありません",
-    "quests.tfg_tips.dye_discs.desc": "&b空白のレコード&rを染料で満たされた&a樽&rに浸すことで、バニラのレコードを作成できます。&dWait,13&rや&dBlocks！&rなどのクラシックをお楽しみください。",
+    "quests.tfg_tips.dye_discs.desc": "&b空白のレコード&rを染料で満たされた&a樽&rに浸すことで、バニラのレコードを作成できます。\n&dWait,13&rや&dBlocks！&rなどのクラシックをお楽しみください。",
     "quests.tfg_tips.dye_discs.task": "クラシックレコード",
   
     "quests.tfg_tips.special_discs.title": "ユニーク品",
@@ -357,7 +357,7 @@
   
     "quests.tfg_tips.disc_collector.title": "レコードコレクター",
     "quests.tfg_tips.disc_collector.subtitle": "完全なコレクション",
-    "quests.tfg_tips.disc_collector.desc": "すべてのレコードを作れましたか？\n\n実はここには、レコードに関連する2つの隠されたクエストがあります。1つは非常に&csuspicious&rなもので、もう1つはあなたの内なるドワーフとのつながりを感じる必要があるかもしれません。頑張ってください！",
+    "quests.tfg_tips.disc_collector.desc": "すべてのレコードを作れましたか？\n\n実はここには、レコードに関連する2つの隠されたクエストがあります。\n1つは非常に&csuspicious&rなもので、もう1つはあなたの内なるドワーフとのつながりを感じる必要があるかもしれません。頑張ってください！",
   
     "quests.tfg_tips.amogus.title": "AMONGUS",
     "quests.tfg_tips.amogus.subtitle": "SUSSY BAKA！",
@@ -369,7 +369,7 @@
   
     "quests.tfg_tips.etching_disc.title": "最初のレコードのエッチング",
     "quests.tfg_tips.etching_disc.subtitle": "原曲を刻む",
-    "quests.tfg_tips.etching_disc.desc": "&3エッチングテーブル&rを使用して&bエッチング&rを開始する必要があります。テーブルを右クリックするとエッチングインターフェイスが開き、&a空白のレコード&rと&a音楽ラベル&r、および上部のバーに有効なサウンドソースを提供すると、レコードの準備が整います。\n\nサウンドソースには、&bBandcamp/Soundcloud URL&r(シングルまたはアルバムを指すことができます)、&dゲーム内サウンドイベント&r、およびドライブ上の&c.ogg/.wav/.mp3ファイル&rなどがあります。\n\nこのクエストを完了するには、レコードをエッチングします。",
+    "quests.tfg_tips.etching_disc.desc": "&3エッチングテーブル&rを使用して&bエッチング&rを開始する必要があります。\nテーブルを右クリックするとエッチングインターフェイスが開き、&a空白のレコード&rと&a音楽ラベル&r、および上部のバーに有効なサウンドソースを提供すると、レコードの準備が整います。\n\nサウンドソースには、&bBandcamp/SoundcloudのURL&r(シングルまたはアルバムを指すことができます)、&dゲーム内サウンドイベント&r、およびドライブ上の&c.ogg/.wav/.mp3ファイル&rなどがあります。\n\nこのクエストを完了するには、レコードをエッチングします。",
   
     "quests.tfg_tips.disc_players.title": "レコードプレーヤー",
     "quests.tfg_tips.disc_players.subtitle": "もちろん、レコードを再生するために！",
@@ -383,7 +383,7 @@
   
     "quests.tfg_tips.camera.title": "Exposure：思い出を切り取る",
     "quests.tfg_tips.camera.subtitle": "ここにいることの証明",
-    "quests.tfg_tips.camera.desc": "&2Exposure&rは、ゲームにリアルな写真処理を追加するMODです。&bカメラ&rと&aフィルムロール&rを作成し、写真を現像することから始めましょう！。色補正、フィルターなどの複雑なシステムがあります。",
+    "quests.tfg_tips.camera.desc": "&2Exposure&rは、ゲームにリアルな写真処理を追加するMODです。\n&bカメラ&rと&aフィルムロール&rを作成し、写真を現像することから始めましょう！。色補正、フィルターなどの複雑なシステムがあります。",
   
     "quests.tfg_tips.selfie.title": "自撮り",
     "quests.tfg_tips.selfie.subtitle": "映え！",
@@ -396,7 +396,7 @@
   
     "quests.tfg_tips.filters.title": "カラーフィルター",
     "quests.tfg_tips.filters.subtitle": "写真の外観を変更する。",
-    "quests.tfg_tips.filters.desc": "&aガラス板&rを使うと、写真に&dフィルター&rを適用できます。カメラGUIを開いて、カメラフィルターのスロットに割り当てるだけです。&dフィルター&rを使うと、写真の全体的な色の構成を変更できます。たとえば、&3シアン&rや&bライトブルー&rのフィルターを適用して、写真をより冷たく見せることができます。",
+    "quests.tfg_tips.filters.desc": "&aガラス板&rを使うと、写真に&dフィルター&rを適用できます。カメラGUIを開いて、カメラフィルターのスロットに割り当てるだけです。\n&dフィルター&rを使うと、写真の全体的な色の構成を変更できます。たとえば、&3シアン&rや&bライトブルー&rのフィルターを適用して、写真をより冷たく見せることができます。",
     "quests.tfg_tips.filter.task": "ガラス板",
 
     "quests.tfg_tips.interplanar_projector.title": "interplanar_projector",
@@ -417,7 +417,7 @@
   
     "quests.tfg_tips.photo_album.title": "フォトアルバム",
     "quests.tfg_tips.photo_album.subtitle": "思い出とは永遠です...",
-    "quests.tfg_tips.photo_album.desc": "&b写真を保管する&r場所が必要な場合は、&dフォトアルバム&rを作成します。さらに、アルバム内の各写真に小さな説明を書き込むこともできます。写真を撮った場所やメモなどを書き出してください！",
+    "quests.tfg_tips.photo_album.desc": "&b写真を保管する&r場所が必要な場合は、&dフォトアルバム&rを作成しましょう。さらに、アルバム内の各写真に小さな説明を書き込むこともできます。\n写真を撮った場所やメモなどを書き出してください！",
   
     "quests.tfg_tips.photo_frame.title": "フォトフレーム",
     "quests.tfg_tips.photo_frame.subtitle": "最も素晴らしい写真のために",
@@ -429,52 +429,56 @@
   
     "quests.tfg_tips.coil.title": "ジップライン",
     "quests.tfg_tips.coil.subtitle": "アーアアーー！",
-    "quests.tfg_tips.coil.desc": "&3コイル&rで2つの&dフェンス&rを右クリックすると、ジップラインが作成されます！コイルの下に立ち、ハープーンをフェンスに撃ち込めば、移動開始です。\n\n空いている手でコイルを右クリックすると、ラインのたるみを変更できます。各コイルは一方通行で、ライン自体の「矢印」で示されます。双方向のラインが必要な場合は、2つのコイルが必要です。\n\n装飾のために他のブロックにコイルを設置することもできますが、ジップラインとして機能するにはフェンスにつけている必要があります。",
+    "quests.tfg_tips.coil.desc": "&3コイル&rで2つの&dフェンス&rを右クリックすると、ジップラインが作成されます！コイルの下に立ち、ハープーンをフェンスに撃ち込めば、移動開始です。\n\n空いている手でコイルを右クリックすると、ラインのたるみを変更できます。\n各コイルは一方通行で、ライン自体の「矢印」で示されます。双方向のラインが必要な場合は、2つのコイルが必要です。\n\n装飾のために他のブロックにコイルを設置することもできますが、ジップラインとして機能するにはフェンスにつけている必要があります。",
   
     "quests.tfg_tips.self_defense.title": "防衛",
     "quests.tfg_tips.self_defense.subtitle": "窓割れてね？",
-    "quests.tfg_tips.self_defense.desc": "&3クランクトラップ&rを感圧板の隣に置くと、それを踏んだ動物(またはモンスター)を完全に動けなくします。森の中で逃げ回る動物を捕まえたり、家を守ったりするのに最適です。\n\n&3有刺鉄線&rは、通過しようとするとダメージを与えます。",
+    "quests.tfg_tips.self_defense.desc": "&3クランクトラップ&rを感圧板の隣に置くと、それを踏んだ動物(またはモンスター)を捕えます。森の中で逃げ回る動物を捕まえたり、家を守ったりするのに最適です。\n\n&3有刺鉄線&rは、通過しようとするとダメージを与えます。",
   
+    "quests.tfg_tips.lightning_rod.title":"避雷針",
+    "quests.tfg_tips.lightning_rod.subtitle":"尖んがり過ぎだっつーの！！！",
+    "quests.tfg_tips.lightning_rod.desc":"TerraFirmaCraftの世界では雷雨が非常に激しく、雷の落ちる頻度も多いため、煩わしく感じることがあるでしょう。\nそんなときは、銅の棒3本から作ることができる&d避雷針&rを設置しましょう。\n\n&d避雷針&rを置けば、半径&3128ブロック&rの雷は全て避雷針の上にしか落ちなくなります.\n注意：これは雷を&o誘導&rするだけであり無効化してくれるわけではありません。延焼を防ぐために可燃物から離れたところに設置してください",
+
     "__comment10": "#endregion",
   
     "__comment11": "#region ArborFirmaCraft",
   
     "quests.tfg_tips.arborfirmacraft.title": "ArborFirmaCraft",
     "quests.tfg_tips.arborfirmacraft.subtitle": "木と共に生きる",
-    "quests.tfg_tips.arborfirmacraft.desc": "&2ArborFirmaCraft&rは、&3TFG&rに複数の新しい木を追加するMODです。&dAncient Kapok&rのような既存のTFCの木の亜種もあれば、&aBaobab&rや&aHevea&rのような完全に新しい木もあります。一部は、バニラの木の色を思い出させるものがあるかもしれませんね。\n\nこのセクションでは、&b樹液の抽出&r(Treetap)について説明します。\nまた、すべての&2ArborFirmaCraft&rの木材は&3Firmalife&rおよび&3Firma:civ&rと互換性があることが確認されています。",
+    "quests.tfg_tips.arborfirmacraft.desc": "&2ArborFirmaCraft&rは、&3TFG&rに複数の新しい木を追加するMODです。\n&dAncient_Kapok&rのような既存のTFCの木の亜種もあれば、&aBaobab&rや&aHevea&rのような完全に新しい木もあります。一部は、バニラの木の色を思い出させるものがあるかもしれませんね。\n\nこのセクションでは、&b樹液の抽出&r(Treetap)について説明します。\nまた、すべての&2ArborFirmaCraft&rの木材は&3Firmalife&rおよび&3Firma:civ&rと互換性があることが確認されています。",
   
     "quests.tfg_tips.treetap.title": "ツリータップ",
     "quests.tfg_tips.treetap.subtitle": "昔ながらの樹液採集法",
-    "quests.tfg_tips.treetap.desc": "&b樹液の抽出&rを開始するには、&3金床&rで&a銅のインゴット&rから&dTree_Tap&rを鍛造する必要があります。\n\n求める種類の樹液は適切な木から抽出する必要があります。&3フィールドガイド&rの&2ArborFirmaCraft&rの項目にある&bTapping_Index&rに、これらの木の見つけ方が記載されています。また、&bTapping_Tree&rの項目もあり、樹液を抽出する方法を学ぶことができます。",
+    "quests.tfg_tips.treetap.desc": "&b樹液の抽出&rをするには、&3金床&rで&a銅のインゴット&rから&dTree_Tap&rを鍛造する必要があります。\n\n求める種類の樹液は適切な木から抽出する必要があります。&3フィールドガイド&rの&2ArborFirmaCraft&rの項目にある&bTapping_Index&rに、これらの木の見つけ方が記載されています。\nまた、&bTapping_Tree&rの項目もあり、樹液を抽出する方法を学ぶことができます。",
   
     "quests.tfg_tips.find_rosin_tree.title": "針葉樹",
     "quests.tfg_tips.find_rosin_tree.subtitle": "冷帯を探してください",
-    "quests.tfg_tips.find_rosin_tree.desc": "&a針葉樹&rは、それなりの降水量がある&9寒い&r地域で見つけることができます。抽出した&b針葉樹液&rは、&d粘性樹脂&rと&d針葉樹脂&rの両方を作成するために使用できます。\n\nこのクエストを完了するには、&o#tfg:rosin_logs&rのタグが付いたブロックを&c見る&r必要があります。EMIを使用して、#を入れて検索することにより、どのブロックにこのタグが付いているかを知ることができます。",
+    "quests.tfg_tips.find_rosin_tree.desc": "&a針葉樹&rは、それなりの降水量がある&9寒い&r地域で見つけることができます。\n抽出した&b針葉樹液&rは、&d粘性樹脂&rと&d針葉樹脂&rの両方を作成するために使用できます。\n\nこのクエストを完了するには、&o#tfg:rosin_logs&rのタグが付いたブロックを&c見る&r必要があります。\nEMIを使用して、#を入れて検索することにより、どのブロックにこのタグが付いているかを知ることができます。",
   
     "quests.tfg_tips.find_latex_tree.title": "ゴムの木",
     "quests.tfg_tips.find_latex_tree.subtitle": "熱帯を探してください",
-    "quests.tfg_tips.find_latex_tree.desc": "&aラテックス&rを採ることができるゴムの木は、大量の降雨がある&2温暖な&r地域で見つけることができます。抽出した&bラテックス&rは、&d粘性樹脂&rと&d加硫処理ラテックス&rの両方を作成するために使用できます。後者は、&3ゴム&rや&aゴム手袋&rの製造に使用されます。ゴム手袋は&4有毒物質&rとの接触時に保護してくれます。\n\nこのクエストを完了するには、&o#tfg:latex_logs&rのタグが付いたブロックを&c見る&r必要があります。EMIを使用して、#を入れて検索することにより、どのブロックにこのタグが付いているかを知ることができます。",
+    "quests.tfg_tips.find_latex_tree.desc": "&aラテックス&rを採ることができるゴムの木は、大量の降雨がある&2温暖な&r地域で見つけることができます。\n抽出した&bラテックス&rは、&d粘性樹脂&rと&d加硫処理ラテックス&rの2つの使い道があります。後者は、&3ゴム&rや&aゴム手袋&rの製造に使用されます。ゴム手袋は&4有毒物質&rとの接触時に保護してくれます。\n\nこのクエストを完了するには、&o#tfg:latex_logs&rのタグが付いたブロックを&c見る&r必要があります。EMIを使用して、#を入れて検索することにより、どのブロックにこのタグが付いているかを知ることができます。",
   
     "quests.tfg_tips.find_syrup_tree.title": "シロップの木",
     "quests.tfg_tips.find_syrup_tree.subtitle": "甘い匂いに誘われた",
-    "quests.tfg_tips.find_syrup_tree.desc": "&aシロップの木&rは、それなりの降水量がある&2温暖な&r地域で見つけることができます。抽出した&bシロップ&rは、&dツリーシュガー&rを作成するために使用できます。これは、砂糖の代替品です。\n\nこのクエストを完了するには、&o#tfg:syrup_logs&rのタグが付いたブロックを&c見る&r必要があります。EMIを使用して、#を入れて検索することにより、どのブロックにこのタグが付いているかを知ることができます。",
+    "quests.tfg_tips.find_syrup_tree.desc": "&aシロップの木&rは、それなりの降水量がある&2温暖な&r地域で見つけることができます。\n抽出した&bシロップ&rは、&dツリーシュガー&rを作るために使用できます。これは、砂糖の代替品です。\n\nこのクエストを完了するには、&o#tfg:syrup_logs&rのタグが付いたブロックを&c見る&r必要があります。EMIを使用して、#を入れて検索することにより、どのブロックにこのタグが付いているかを知ることができます。",
   
     "quests.tfg_tips.create_conifer_rosin.title": "針葉樹脂",
     "quests.tfg_tips.create_conifer_rosin.subtitle": "「故郷」を思い出す",
-    "quests.tfg_tips.create_conifer_rosin.desc": "&d針葉樹脂&rは&bワックス&rとして利用でき、ろうそくやその他のアイテムを作成できます。\n\n針葉樹脂を作るには、&a針葉樹液&rを&3鍋や釜&rで&a木炭の粉&rと混ぜて沸騰させる必要があります。",
+    "quests.tfg_tips.create_conifer_rosin.desc": "&d針葉樹脂&rは&bワックス&rとして利用でき、ろうそくやその他のアイテムを作成できます。\n\n針葉樹脂を作るには、&a針葉樹液&rと&a木炭の粉&rを&3鍋や釜&rに入れて加熱する必要があります。",
   
     "quests.tfg_tips.create_sticky_resin.title": "粘性樹脂",
     "quests.tfg_tips.create_sticky_resin.subtitle": "いわゆるレジンです",
-    "quests.tfg_tips.create_sticky_resin.desc": "&d粘性樹脂&rは、一部のレシピでスライムballとして使用できます。また、&a樹脂回路基板&rと&a抵抗器&rの製造にも不可欠であり、&7LV&r時代に進むにはかなりの量が必要です。\n\n粘性樹脂を作るには、&aラテックス&rまたは&a針葉樹液&rを&3鍋や釜&rで&a木の灰&rと混ぜて沸騰させる必要があります。",
+    "quests.tfg_tips.create_sticky_resin.desc": "&d粘性樹脂&rは、一部のレシピでスライムボールとして使用できます。また、&a樹脂回路基板&rと&a抵抗器&rの製造にも不可欠であり、&7LV&r時代に進むにはかなりの量が必要です。\n\n粘性樹脂を作るには、&aラテックス&rまたは&a針葉樹液&rと&a木の灰&rを&3鍋や釜&rに入れて加熱する必要があります。",
   
     "quests.tfg_tips.create_tree_sugar.title": "ツリーシュガー",
     "quests.tfg_tips.create_tree_sugar.subtitle": "私はカブトムシ",
-    "quests.tfg_tips.create_tree_sugar.desc": "&dツリーシュガー&rは砂糖の代替品であり、主に食品の材料として使用されます。\n\nそれを作るには、&a樹液(Sap)&rを煮詰めて&b濃縮樹液(Concentrated_Sap)&rを作り、それをさらに煮詰めて&dシロップ(Syrup)&rにする必要があります。最後に、作業台を使用して&bシロップのバケツ&rを&dツリーシュガー&rに変えます。\nこれらの工程で、&3鍋&rまたは&3釜&rに棒が入ってる必要があるので注意してください。",
+    "quests.tfg_tips.create_tree_sugar.desc": "&dツリーシュガー&rは砂糖の代替品です。\n\nそれを作るには、&a樹液(Sap)&rを煮詰めて&b濃縮樹液(Concentrated_Sap)&rを作り、それをさらに煮詰めて&dシロップ(Syrup)&rにする必要があります。最後に、作業台を使用して&bシロップのバケツ&rを&dツリーシュガー&rに変えます。\nこれらの工程で、&3鍋&rまたは&3釜&rに棒が入ってる必要があるので注意してください。",
     "quests.tfg_tips.create_tree_sugar.task": "メープルまたはバーチシュガー",
   
     "quests.tfg_tips.create_rubber_ingot.title": "ゴムインゴット",
     "quests.tfg_tips.create_rubber_ingot.subtitle": "太陽の神のインゴット",
-    "quests.tfg_tips.create_rubber_ingot.desc": "&bVacuum_Chamber&rの加熱クラフトなどの様々なプロセスを経て、&aラテックス&rは&d粗ゴムパルプ&rに加工することができます。次に、3つの&d粗ゴムパルプ&rを&b合金精錬炉&rで&e硫黄粉末&rと混ぜることで、&dゴムインゴット&rを作成できます。これは、ケーブルの絶縁に最適であり、&2先進時代&r以降に進むために非常に必要になります...",
+    "quests.tfg_tips.create_rubber_ingot.desc": "&bVacuum_Chamber&rの加熱クラフトなどの様々な工程を経て、&aラテックス&rは&d粗ゴムパルプ&rに加工することができます。\n3つの&d粗ゴムパルプ&rを&b合金精錬炉&rで&e硫黄粉末&rと混ぜることで、&dゴムインゴット&rを作成できます。\nこれは、ケーブルの絶縁に最適であり、&2先進時代&r以降に進むために非常に必要になります...",
   
     "__comment12": "#endregion",
   
@@ -482,64 +486,64 @@
   
     "quests.tfg_tips.transportation.title": "移動手段",
     "quests.tfg_tips.transportation.subtitle": "この広い地上を旅するために",
-    "quests.tfg_tips.transportation.desc": "世界は非常に広大であり、生存と進歩のための資源を求めて、あなたは遠くまで旅することになるかもしれません。ここでは、さまざまな移動手段について説明します。",
+    "quests.tfg_tips.transportation.desc": "世界は非常に広大であり、生存と進歩のための資源を求めて、あなたは遠くまで旅することになるかもしれません。\nここでは、さまざまな移動手段について説明します。",
   
     "quests.tfg_tips.glider.title": "ハンググライダー",
     "quests.tfg_tips.glider.subtitle": "ブレスオブザワイルドが見える！",
-    "quests.tfg_tips.glider.desc": "&dHang Glider&rは、滑空するために使用できます。&c高く飛び上がることはできません&rが、高所から飛び立てば、長距離を移動するのにも役立つでしょう。\n&bジェットパック&rとの相性も抜群です！",
+    "quests.tfg_tips.glider.desc": "&dHang_Glider&rを使えば、滑空することができます。&c高く飛び上がることはできません&rが、高所から飛び立てば、長距離を移動するのにも役立つでしょう。\n&bジェットパック&rとの相性も抜群です！",
   
     "quests.tfg_tips.reinforced_glider.title": "強化グライダー",
     "quests.tfg_tips.reinforced_glider.subtitle": "エリトラはお好きですか...？",
-    "quests.tfg_tips.reinforced_glider.desc": "&5EV&r時代に到達すると作れるようになる&aエリトラ&rを&aハンググライダー&rと組み合わせることで、&d強化グライダー&rを作ることができます。これは耐久性が高く、最高速度も上昇しています。",
+    "quests.tfg_tips.reinforced_glider.desc": "&5EV&r時代に到達すると作れるようになる&aエリトラ&rを&aハンググライダー&rと組み合わせることで、&d強化グライダー&rを作ることができます。\nこれは耐久性が高く、最高速度も上昇しています。",
   
     "quests.tfg_tips.immersive_aircraft.title": "Immersive Aircraft",
     "quests.tfg_tips.immersive_aircraft.subtitle": "さあ、大空を翔けよう。",
-    "quests.tfg_tips.immersive_aircraft.desc": "&2Immersive Aircraft&rは航空機に関するModであり、空を飛び、長距離を移動できます。",
+    "quests.tfg_tips.immersive_aircraft.desc": "&2Immersive_Aircraft&rは航空機に関するModであり、空を飛び、長距離を移動できます。",
   
     "quests.tfg_tips.aircraft_upgrades.title": "航空機のアップグレード",
     "quests.tfg_tips.aircraft_upgrades.subtitle": "私の乗り物を飾り立てる",
-    "quests.tfg_tips.aircraft_upgrades.desc": "&2Immersive Aircraft&rでは&a航空機のアップグレード&rが可能で、航空機の性能(速度、離陸速度、燃料消費量など)を向上させるために導入できます。アップグレードには、&b通常&rのものとと&d上位&rのものの2種類があります。\n\nこのクエストのものは&b通常&rのアップグレードです。すべて作れますか？",
+    "quests.tfg_tips.aircraft_upgrades.desc": "&2Immersive_Aircraft&rでは&a航空機のアップグレード&rが可能で、航空機の性能(速度、離陸速度、燃料消費量など)を向上させるために導入できます。\nアップグレードには、&b通常&rのものとと&d上位&rのものの2種類があります。\n\nこのクエストのものは&b通常&rのアップグレードです。すべて作れますか？",
   
     "quests.tfg_tips.steam_upgrades.title": "航空機のアップグレード:蒸気時代",
     "quests.tfg_tips.steam_upgrades.subtitle": "Immersive AircraftがGregTechに対応！",
-    "quests.tfg_tips.steam_upgrades.desc": "航空機アップグレードは&d階層化&rされています。これは&3GregTech&rの階層化システムに合わせて、&8蒸気時代&rから&5EV時代&rまでのものがあります。\n\n蒸気時代のアップグレードは最も簡単で、最も早く作成でき、&bブラックスチール&rの知識が必要です。\n\n&d蒸気機関のエンジン&rは、&e複葉機&rや&c飛行艦&rなどの洗練された航空機の作成にも使用されます。",
+    "quests.tfg_tips.steam_upgrades.desc": "航空機アップグレードには&dグレード&rがあります。これは&3GregTech&rの階層化システムに合わせて、&8蒸気時代&rから&5EV時代&rまでのものがあります。\n\n蒸気時代のアップグレードは最も簡単で、最も早く作成できます。作るには&bブラックスチール&rが必要になります。\n\n&d蒸気機関のエンジン&rは、&e複葉機&rや&c飛行艦&rなどの洗練された航空機の作成にも使用されます。",
     "quests.tfg_tips.steam_upgrades.task": "スチームティアの航空機アップグレード",
   
     "quests.tfg_tips.lv_upgrades.title": "航空機のアップグレード:LV",
     "quests.tfg_tips.lv_upgrades.subtitle": "虚式「茈」",
-    "quests.tfg_tips.lv_upgrades.desc": "&7LV&rアップグレードは、蒸気時代のアップグレードよりもわずかに優れており、&4赤鋼&rと&9青鋼&rが必要です。&dLV航空エンジン&rには実際の&7LV&rの機械部品が必要です。\n\n&3&lTips:&r&o &b破砕ホイール&fを使用して古いアップグレードをリサイクルし、消費した材料の一部を再利用することができます。",
+    "quests.tfg_tips.lv_upgrades.desc": "&7LV&rアップグレードは、蒸気時代のアップグレードよりもわずかに性能が向上しています。作成には&4赤鋼&rと&9青鋼&rが必要です。&dLV航空エンジン&rには実際の&7LV&rの機械部品が必要です。\n\n&3&lTips：&r&o &b破砕ホイール&fを使用して古いアップグレードをリサイクルし、消費した材料の一部を再利用することができます。",
     "quests.tfg_tips.lv_upgrades.task": "LVティアの航空機アップグレード",
   
     "quests.tfg_tips.mv_upgrades.title": "航空機のアップグレード:MV",
     "quests.tfg_tips.mv_upgrades.subtitle": "道半ば",
-    "quests.tfg_tips.mv_upgrades.desc": "&bMV&rアップグレードは、この進行状況の中間点であり、&aアルミニウム&rを主な材料とします。\n\n&aアルミニウム製強化プロペラ&rは、&dジャイロダイン、飛行艦&r、&d緋色の複葉機&rなどのほとんどの上位航空機で使用されますが、&aMV航空エンジン&rは&d緋色の複葉機&rでのみ使用されます。",
+    "quests.tfg_tips.mv_upgrades.desc": "&bMV&rアップグレードは、この進行状況の中間点であり、&aアルミニウム&rが主な材料です。\n\n&aアルミニウム製強化プロペラ&rは、&dジャイロダイン、飛行艦&r、&d緋色の複葉機&rなどの多くの上位航空機で必要になります。&aMV航空エンジン&rは&d緋色の複葉機&rで必要になります。",
     "quests.tfg_tips.mv_upgrades.task": "MVティアの航空機アップグレード",
   
     "quests.tfg_tips.hv_upgrades.title": "航空機のアップグレード:HV",
     "quests.tfg_tips.hv_upgrades.subtitle": "あと少しで頂点へ",
-    "quests.tfg_tips.hv_upgrades.desc": "&6HV&rアップグレードは、航空機アップグレードの最後から2番目のティアであり、&aステンレス&rを主な材料とします。",
+    "quests.tfg_tips.hv_upgrades.desc": "&6HV&rアップグレードは、航空機アップグレードの最後から2番目のティアであり、&aステンレス&rが主な材料です。",
     "quests.tfg_tips.hv_upgrades.task": "HVティアの航空機アップグレード",
   
     "quests.tfg_tips.ev_upgrades.title": "航空機のアップグレード:EV",
     "quests.tfg_tips.ev_upgrades.subtitle": "これは本当に合法ですか？",
-    "quests.tfg_tips.ev_upgrades.desc": "&5EV&rアップグレードは、航空機アップグレードの最後のティアであり、&aチタニウム&rを主な材料として必要とします。",
+    "quests.tfg_tips.ev_upgrades.desc": "&5EV&rアップグレードは、航空機アップグレードの最後のティアであり、&aチタニウム&rが主な材料になります。",
     "quests.tfg_tips.ev_upgrades.task": "EVティアの航空機アップグレード",
   
     "quests.tfg_tips.aircraft_weapons.title": "航空機の兵器",
     "quests.tfg_tips.aircraft_weapons.subtitle": "バンザイ！",
-    "quests.tfg_tips.aircraft_weapons.desc": "強大な脅威を滅ぼしたい場合、もしくは敵を蹂躙したい場合、一方的な攻撃能力を誇る&d兵器&rが欲しくなることがあるでしょう。もちろん、作ることができますよ。\n\n兵器は、&b航空機&rに乗っているときに、設定した&c武器の使用&rボタンを使用して発射できます。それらのほとんど(&a望遠鏡&rを除く)は、何らかの&a弾薬&rを消費します。",
+    "quests.tfg_tips.aircraft_weapons.desc": "強大な脅威を滅ぼしたい場合、もしくは敵を蹂躙したい場合、一方的な殲滅能力を誇る&d航空兵器&rが欲しくなることがあるでしょう。もちろん、作ることができますよ。\n\n兵器は、&b航空機&rに乗っているときに、設定した&c武器の使用&rキーを使用して発射できます。発射時には、何らかの&a弾薬&rを消費します。",
   
     "quests.tfg_tips.airship.title": "飛行船",
     "quests.tfg_tips.airship.subtitle": "あれは風船？",
-    "quests.tfg_tips.airship.desc": "&3飛行船&rは、旅行をするのに比較的適した航空機です。ただし、主な目的はアイテムを運ぶことです。\n飛行船には、合計&b16個のインベントリスロット&r、&a3個のアップグレードスロット&r、&c1個の武器スロット&rがあります。",
+    "quests.tfg_tips.airship.desc": "&3飛行船&rは、旅行に適した航空機です。アイテムの運搬能力に優れています。\n飛行船には、合計&b16個のインベントリスロット&r、&a3個のアップグレードスロット&r、&c1個の武器スロット&rがあります。",
   
     "quests.tfg_tips.cargo_airship.title": "貨物飛行船",
     "quests.tfg_tips.cargo_airship.subtitle": "基地全体を遠くに運ぶ必要がある場合",
-    "quests.tfg_tips.cargo_airship.desc": "いくつかの追加の&dエンジン、ローター&r、&d2つの木箱&rを取り付けると、&a飛行船&rが&3貨物飛行船&rにアップグレードされます。\n\n通常の飛行船よりも&4燃費は悪くなります&r。\nですが、貨物飛行船には、合計&b80個のインベントリスロット&rと&a4個のアップグレードスロット&rがあります。",
+    "quests.tfg_tips.cargo_airship.desc": "いくつかの追加の&dエンジン、ローター&r、&d2つの木箱&rを取り付けると、&a飛行船&rが&3貨物飛行船&rにアップグレードされます。\n\n通常の飛行船よりも&4燃費は悪くなります&r。その代わり、貨物飛行船には、合計&b80個の大容量なインベントリスロット&rと&a4個のアップグレードスロット&rがあります。",
   
     "quests.tfg_tips.waghship.title": "飛行艦",
     "quests.tfg_tips.waghship.subtitle": "墜落するのがお決まり",
-    "quests.tfg_tips.waghship.desc": "&3飛行艦&rは&a飛行船&rの最終段階のアップグレードであり、合計&b66個のインベントリスロット&r、&a6個のアップグレードスロット&r、&c2個の武器スロット&rがあります。",
+    "quests.tfg_tips.waghship.desc": "&3飛行艦&rは&a飛行船&rの最上位モデルであり、合計&b66個のインベントリスロット&r、&a6個のアップグレードスロット&r、&c2個の武器スロット&rがあります。",
   
     "quests.tfg_tips.quadrocopter.title": "クアッドローター",
     "quests.tfg_tips.quadrocopter.subtitle": "あれは鳥？",
@@ -547,7 +551,7 @@
   
     "quests.tfg_tips.gyrodyne.title": "ジャイロダイン",
     "quests.tfg_tips.gyrodyne.subtitle": "筋肉式飛行",
-    "quests.tfg_tips.gyrodyne.desc": "&3ジャイロダイン&rはユニークな航空機であり、なんと&d燃料を消費しません&r。代わりに、筋肉のみで駆動します。そのため、&4空腹値&rを消耗します。\n\n&b18個のインベントリスロット&r、&a3個のアップグレードスロット&r、&c1個の武器スロット&rが含まれています。",
+    "quests.tfg_tips.gyrodyne.desc": "&3ジャイロダイン&rはユニークな航空機であり、なんと&d燃料を消費しません&r。代わりに、筋肉のみで駆動します。そのため、飛行中には&4空腹値&rを消耗します。\n\n&b18個のインベントリスロット&r、&a3個のアップグレードスロット&r、&c1個の武器スロット&rが含まれています。",
   
     "quests.tfg_tips.economy_plane.title": "エコノミー機",
     "quests.tfg_tips.economy_plane.subtitle": "あれは飛行機？",
@@ -559,19 +563,19 @@
   
     "quests.tfg_tips.scarlet_biplane.title": "緋色の複葉機",
     "quests.tfg_tips.scarlet_biplane.subtitle": "ここからの素晴らしい眺め",
-    "quests.tfg_tips.scarlet_biplane.desc": "&3緋色の複葉機&rは、&b飛行機&rの2つの最終アップグレードの1つであり、&6HV&rの機械の部品が必要です。\n\n&b27個のインベントリスロット&r、&a4個のアップグレードスロット&r、&c2個の武器スロット&r、および通常の複葉機と同様に&4ブースタースロット&rも含まれています。\n\n&3緋色の複葉機&rは高価ですが、耐久性も、最大速度も向上しており、そして何よりもイカしているので何も問題はありません。",
+    "quests.tfg_tips.scarlet_biplane.desc": "&3緋色の複葉機&rは、&b飛行機&rの2つの最上位モデルの1つです。\n\n&b27個のインベントリスロット&r、&a4個のアップグレードスロット&r、&c2個の武器スロット&r、および通常の複葉機と同様に&4ブースタースロット&rも含まれています。\n\n&3緋色の複葉機&rは高価ですが、耐久性も、最大速度も向上しており、そして何よりもイカしているので何も問題はありません。",
   
     "quests.tfg_tips.aluminium_hopper.title": "アルミニウムホッパー",
     "quests.tfg_tips.aluminium_hopper.subtitle": "軽すぎて水に浮きます！",
-    "quests.tfg_tips.aluminium_hopper.desc": "&3アルミニウムホッパー&rは、&b飛行機&rの2つの最終アップグレードの1つであり、&6HV&rの機械の部品が必要です。\n\n&b16個のインベントリスロット&r、&a4個のアップグレードスロット&r、&c2個の武器スロット&r、3つの座席、および通常の複葉機と同様に&4ブースタースロット&rも含まれています。\n\n高価ですが、&3アルミニウムホッパー&rは高価ですが、合計3つの座席と水に着陸できることでなんとかそれを補います。",
+    "quests.tfg_tips.aluminium_hopper.desc": "&3アルミニウムホッパー&rは、&b飛行機&rの2つの最上位モデルの1つです。\n\n&b16個のインベントリスロット&r、&a4個のアップグレードスロット&r、&c2個の武器スロット&r、3つの座席、および通常の複葉機と同様に&4ブースタースロット&rも含まれています。\n\n&3アルミニウムホッパー&rは高価ですが、合計3つの座席と水に着陸できることでなんとかそれを補います。",
   
     "quests.tfg_tips.firmaciv.title": "Firma：Civilization",
     "quests.tfg_tips.firmaciv.subtitle": "さあ、大海を駆けよう。",
-    "quests.tfg_tips.firmaciv.desc": "&2Firma：Civilization&rは、船の建造による広大な水域の横断がテーマのModです。自分の現在地の特定に役立つツールを作成することもできます。\nいつものように、&2フィールドガイド&rには、クエストよりも詳細な情報が含まれています。\n\n&3&lTips:&r&o 序盤において川下りは非常に快適な移動手段になります。...まだの場合は、川の近くに定住することを検討してください。",
+    "quests.tfg_tips.firmaciv.desc": "&2Firma：Civilization&rは、船の建造と航行がテーマのModです。自分の現在地の特定に役立つツールを作成することもできます。\nいつものように、&2フィールドガイド&rには、クエストよりも詳細な情報が含まれています。\n\n&3&lTips：&r&o序盤において川下りは非常に快適な移動手段になります。...まだの場合は、川の近くに定住することを検討してください。",
   
     "quests.tfg_tips.firmaciv_info.title": "航海用ガジェット",
     "quests.tfg_tips.firmaciv_info.subtitle": "より現実的な冒険をしたい場合",
-    "quests.tfg_tips.firmaciv_info.desc": "&3Firma：Civ&rには4つの異なるナビゲーションツールが付属しており、それぞれが自分の現在地に関する重要な情報を提供します。\n&dSextant&r、&dNavigator's Timepiece&r、&dBarometer&r、&dCompass&rがあります。詳細については、&2フィールドガイド&rを参照してください。\n\n&3&l伝承では...&r&o:本来、Firma：Civが入っていると、座標が見れなくなって、こういった航海用の道具を使わないといけなくなるんだ。でもそれは大変すぎると思ったから、まあ、使いたければ使ってね。...といいます。",
+    "quests.tfg_tips.firmaciv_info.desc": "&3Firma：Civ&rには4つの異なるナビゲーションツールが付属しており、それぞれが自分の現在地に関する重要な情報を提供します。\n&dSextant&r、&dNavigator's Timepiece&r、&dBarometer&r、&dCompass&rがあります。詳細については、&2フィールドガイド&rを参照してください。\n\n&3&l伝承では...&r&o\n本来、Firma：Civが入っていると、座標が見れなくなって、こういった航海用の道具を使わないといけなくなるんだ。でもそれは大変すぎると思ったから、まあ、使いたければ使ってね。\n...といいます。",
   
     "quests.tfg_tips.warfare.title": "海上戦",
     "quests.tfg_tips.warfare.subtitle": "全弾発射！",
@@ -579,19 +583,19 @@
   
     "quests.tfg_tips.kayak_materials.title": "カヤック",
     "quests.tfg_tips.kayak_materials.subtitle": "カヤックを作ろう",
-    "quests.tfg_tips.kayak_materials.desc": "&dKayak&rは、2番目に簡単に作れる船です。素材の&aWaterproof_Hides&rには&bワックス&rが必要になります。何より、アイテムとして回収することができる&c唯一の&rボートでもあります。&d一人乗り&rしかできませんが、鋼鉄時代の&dSloop&rまで、最速のボートです。",
+    "quests.tfg_tips.kayak_materials.desc": "&dKayak&rは、2番目に簡単に作れる船です。素材の&aWaterproof_Hides&rには&bワックス&rが必要になります。\nこれは、アイテムとして回収することができる&c唯一の&rボートでもあります。\n&d一人乗り&rしかできませんが、鋼鉄時代の&dSloop&rまで、最速のボートです。",
   
     "quests.tfg_tips.create_kayak.title": "カヤックを完成させる",
     "quests.tfg_tips.create_kayak.subtitle": "速く！",
-    "quests.tfg_tips.create_kayak.desc": "&dKayak&rがあれば、水上での快適な一人旅を楽しむことができます。さらに速く進むには、&bKayak_Paddle&r(Canoe_Paddleは使えません)を作成してください！",
+    "quests.tfg_tips.create_kayak.desc": "&dKayak&rがあれば、水上での快適な一人旅を楽しむことができます。\nさらに速く進むには、&bKayak_Paddle&r(Canoe_Paddleは使えません)を作ってみてください！",
   
     "quests.tfg_tips.beneathxfirmaciv.title": "BeneathとFirma：Civに関する免責事項",
     "quests.tfg_tips.beneathxfirmaciv.subtitle": "これを読まないと後悔するかもしれません！",
-    "quests.tfg_tips.beneathxfirmaciv.desc": "&dCanoe、Rowboat&r、&dSloop&rは&dCrimzonの木&rや&3Warpの木&rから作ることができますが、残念ながら、これらの耐火性木材で作られたボートは溶岩に対して&4耐性がありません&r！これらを使用して溶岩湖を横断しようとすると、&l恐ろしい死を遂げる&rことでしょう。",
+    "quests.tfg_tips.beneathxfirmaciv.desc": "&dCanoe、Rowboat&r、&dSloop&rは&dCrimzonの木&rや&3Warpの木&rから作ることができますが、残念ながら、これらの耐火性木材で作られたボートは溶岩に対して&4耐性がありません！&rこれらを使用して溶岩湖を横断しようとすると、&l恐ろしい死を遂げる&rことでしょう。",
   
     "quests.tfg_tips.canoe_materials.title": "カヌー",
     "quests.tfg_tips.canoe_materials.subtitle": "楽に作れます",
-    "quests.tfg_tips.canoe_materials.desc": "&dCanoe&rは、クラフトするのが最も簡単な船です。特定の種類の&a剥ぎ取られた丸太&rのみを使えるということに注意してください。上記のタスクでは、&bどの種類の木&rが使えるかが示されています。\n&2フィールドガイド&rには、そのユニークな構造に関する詳細が記載されています。\n\nこのボートは、操縦者以外の追加のプレーヤー、エンティティ、またはチェストを運ぶことができます。",
+    "quests.tfg_tips.canoe_materials.desc": "&dCanoe&rは、クラフトするのが最も簡単な船です。特定の種類の&a剥ぎ取られた丸太&rのみを使えるということに注意してください。\n上記のタスクでは、&bどの種類の木&rが使えるかが示されています。\n&2フィールドガイド&rには、そのユニークな構造に関する詳細が記載されています。\n\nこのボートは、操縦者以外の追加のプレーヤー、エンティティ、またはチェストを運ぶことができます。",
     "quests.tfg_tips.canoe_materials.task": "何らかの火起こし",
   
     "quests.tfg_tips.create_canoe.title": "カヌーを完成させる",
@@ -600,15 +604,15 @@
   
     "quests.tfg_tips.rowboat_materials.title": "手漕ぎボート",
     "quests.tfg_tips.rowboat_materials.subtitle": "40秒で支度しな",
-    "quests.tfg_tips.rowboat_materials.desc": "&dRowboat&rはより複雑な材料が必要で、鉄器時代までロックされています。その代わりに、&b2人分の乗客席と2つのストレージ&r、または&c乗客席なしで4つのストレージ&rの容量を利用することができます。\n&2フィールドガイド&rに詳しく記載されている、&a特定の種類の木&rのみを使うことができます。作り方も記載されていますよ。\n\n作る際はすべて同じ木材を使用する必要があることに注意してください！異なる種類の木材を混ぜたりはしないでください。",
+    "quests.tfg_tips.rowboat_materials.desc": "&dRowboat&rはより複雑な材料が必要で、鉄器時代まで作ることはできません。\nその代わりに、&b2人分の乗客席と2つのストレージ&r、または&c乗客席なしで4つのストレージ&rの容量を利用することができます。\n&2フィールドガイド&rに詳しく記載されている、&a特定の種類の木&rのみを使うことができます。作り方も記載されていますよ。\n\n作る際はすべて同じ木材を使用する必要があることに注意してください！異なる種類の木材を混ぜたりはしないでください。",
   
     "quests.tfg_tips.create_rowboat.title": "手漕ぎボートを完成させる",
     "quests.tfg_tips.create_rowboat.subtitle": "勇敢な海の男を目指して",
-    "quests.tfg_tips.create_rowboat.desc": "&dRowboat&rを使用すると、かなりの量のアイテムを海を越えて輸送できるようになり、海外探索、例えば熱帯地方への探検などに最適です！より速く進むことができるように、2つの&bOar&rを作成してください！\n染色することもできます！\n\nこのクエストの最初のタスクを完了するには、完成した&dRowboat&rを見る必要があります。\n\n&3&lTips:&r&o 2つの乗客席は、川や海を経由して、牧畜のために動物のつがいを家に持ち帰るのに最適です。",
+    "quests.tfg_tips.create_rowboat.desc": "&dRowboat&rを使用すると、かなりの量のアイテムを海を越えて輸送できるようになり、海外探索、例えば熱帯地方への探検などに最適です！\nより速く進むことができるように、2つの&bOar&rを作成してください！\n染色することもできます！\n\nこのクエストの最初のタスクを完了するには、完成した&dRowboat&rを見る必要があります。\n\n&3&lTips:&r&o 2つの乗客席は、川や海を経由して、牧畜のために動物のつがいを家に持ち帰るのに最適です。",
   
     "quests.tfg_tips.sloop_under_construction_materials.title": "スループ",
     "quests.tfg_tips.sloop_under_construction_materials.subtitle": "ありったけの夢をかき集め",
-    "quests.tfg_tips.sloop_under_construction_materials.desc": "&dSloop&rは、最も高度な船舶であり、作るには&a鋼鉄&rが必要です。ストレージ、金床、作業台のための十分なスペースがあります！信じられないほど高価で、航海するには練習が必要です。&2フィールドガイド&rには、建設方法と航海方法の詳細がすべて記載されています。\n\n繰り返しますが、同じ船で異なる種類の木材を混ぜようとしないでください。",
+    "quests.tfg_tips.sloop_under_construction_materials.desc": "&dSloop&rは、最も高度な船舶であり、作るには&a鋼鉄&rが必要です。\nストレージ、金床、作業台のための十分なスペースがあります！\n信じられないほど高価で、航海するには練習が必要です。\n&2フィールドガイド&rには、建設方法と航海方法の詳細がすべて記載されています。\n\n繰り返しますが、同じ船で異なる種類の木材を混ぜようとしないでください。",
     "quests.tfg_tips.sloop_under_construction_materials.task": "16xの堅木",
   
     "quests.tfg_tips.create_sloop.title": "スループを完成させる",
@@ -630,11 +634,11 @@
   
     "quests.tfg_tips.supply_cart.title": "物資運搬車",
     "quests.tfg_tips.supply_cart.subtitle": "すべてを運ぶ",
-    "quests.tfg_tips.supply_cart.desc": "&dSupply Cart&rは&c54&rスロットという驚異的な容量を誇っており、&a重量に関係なく&r、大量のアイテムを運ぶことができます。なんと金床のようなものでさえも！\nもちろん、探索、採掘、資源採集、または拠点の移動に最適です！",
+    "quests.tfg_tips.supply_cart.desc": "&dSupply_Cart&rは&c54&rスロットという驚異的な容量を誇っており、&a重量に関係なく&r、大量のアイテムを運ぶことができます。なんと金床のようなものでさえも！\nもちろん、探索、採掘、資源採集、または拠点の移動に最適です！",
   
     "quests.tfg_tips.animal_cart.title": "動物運搬車",
     "quests.tfg_tips.animal_cart.subtitle": "ドナドナド～ナ～",
-    "quests.tfg_tips.animal_cart.desc": "&dAnimal Cart&rを使用すると、最大3匹の動物を陸路で運搬できます。\n牧畜のためのつがいを集めるのに最適です！ 捕まえるにはカートで動物を轢くだけです。動物を降ろすには、&cシフト+右クリック&rします。",
+    "quests.tfg_tips.animal_cart.desc": "&dAnimal_Cart&rを使用すると、最大3匹の動物を陸路で運搬できます。\n牧畜のためのつがいを集めるのに最適です！\n捕まえるにはカートで動物を轢くだけです。動物を降ろすには、&cシフト+右クリック&rします。",
   
     "quests.tfg_tips.plow.title": "耕作車",
     "quests.tfg_tips.plow.subtitle": "大規模農業",
@@ -647,7 +651,7 @@
   
     "quests.tfg_tips.hiking_boots.title": "登山靴",
     "quests.tfg_tips.hiking_boots.subtitle": "歩くの大好き",
-    "quests.tfg_tips.hiking_boots.desc": "&a登山靴&rは、背の高い草を無視し、安全な落下高度を高め、さらには乗り越えられる段差の高さと歩行速度を上昇させてくれます。 金属製の鎧ほどの防御力はありませんが、戦う予定がない場合は、これを履いているのがいいでしょう。",
+    "quests.tfg_tips.hiking_boots.desc": "&a登山靴&rは、背の高い草を無視し、安全な落下高度を高め、さらには乗り越えられる段差の高さと歩行速度を上昇させてくれます。\n金属製の鎧ほどの防御力はありませんが、戦う予定がない場合は、これを履いているのがいいでしょう。",
     "quests.tfg_tips.hiking_boots.task": "任意の登山靴",
   
     "__comment14": "#endregion",
@@ -656,11 +660,11 @@
   
     "quests.tfg_tips.firmalife.title": "Firmalife",
     "quests.tfg_tips.firmalife.subtitle": "TerraFirmaCraftでの繁栄のために",
-    "quests.tfg_tips.firmalife.desc": "&2Firmalife&rは、TerraFirmaCraftでの農業と美食の体験を拡張することを目的としたModです。さまざまな追加機能があります。装飾品、新しい保存方法、新しい食品、養蜂、そして多数の便利な道具が利用できるようになります！",
+    "quests.tfg_tips.firmalife.desc": "&2Firmalife&rは、TerraFirmaCraftでの農業と美食の体験を拡張することを目的としたModです。\nさまざまな追加機能があり、装飾品、新しい保存方法、新しい食品、養蜂、そして多数の便利な道具が利用できるようになります！",
   
     "quests.tfg_tips.greenhouse.title": "温室",
     "quests.tfg_tips.greenhouse.subtitle": "いつでも好きなものが食べられるように",
-    "quests.tfg_tips.greenhouse.desc": "&d温室&rは、収穫量を犠牲にして一年中作物を栽培するために使用されます。複数のティアがある複雑なマルチブロックの構造体です。 詳細については、&2フィールドガイド&rを確認してください！",
+    "quests.tfg_tips.greenhouse.desc": "&d温室&rでは、収穫量を犠牲にして一年中作物を栽培することができます。複数のティアがある複雑なマルチブロックの構造体です。\n詳細については、&2フィールドガイド&rを確認してください！",
   
     "quests.tfg_tips.greenhouse_automation.title": "温室の自動化",
     "quests.tfg_tips.greenhouse_automation.subtitle": "力を合わせて...",
@@ -668,11 +672,11 @@
   
     "quests.tfg_tips.beekeeping.title": "養蜂",
     "quests.tfg_tips.beekeeping.subtitle": "こんなに小さかったっけ...？",
-    "quests.tfg_tips.beekeeping.desc": "&b養蜂&rには多くの用途があります。ミツバチからは&aワックス&rや&aハチミツ&rなどの有用な資源を入手することができるだけではなく、(正しい特性を持っている場合)近くの作物の成長を促進させることができます。より良い特性を持ったミツバチを生み出すためには、交配させる必要があります。\n&2フィールドガイド&rには、&b養蜂&rの仕組みについての広範な説明が載っています。",
+    "quests.tfg_tips.beekeeping.desc": "&b養蜂&rには多くの用途があります。\n巣箱から&aワックス&rや&aハチミツ&rなどの有用な資源を入手することができるほか、(蜂が適切な特性を持っている場合)近くの作物の成長を促進させることができます。\nより良い特性を持ったミツバチを生み出すためには、交配させる必要があります。\n&2フィールドガイド&rには、&b養蜂&rの仕組みについての広範な説明が載っています。",
   
     "quests.tfg_tips.beehive.title": "蜂の巣箱",
     "quests.tfg_tips.beehive.subtitle": "よい出会いを",
-    "quests.tfg_tips.beehive.desc": "養蜂家になるには、&b蜂の巣箱&rと&a蜂の巣枠&rの両方が必要になります。\n通常のMinecraftとは異なり、巣は自然にスポーンしません。代わりに、ミツバチは&e女王蜂&rが住む巣枠が入ったプレイヤー製の&b蜂の巣箱&rでのみスポーンします。女王蜂が巣枠に住みつくかどうかは運ですが、巣箱の周りに&d花&rを設置することで確率を高めることができます。\n\n巣枠に女王蜂が住むと、ミツバチがスポーンし始め、働いてくれます。",
+    "quests.tfg_tips.beehive.desc": "養蜂家になるには、&b蜂の巣箱&rと&a蜂の巣枠&rの両方が必要になります。\n通常のMinecraftとは異なり、巣は自然にスポーンしません。代わりに、ミツバチは&e女王蜂&rが住む巣枠が入ったプレイヤー製の&b蜂の巣箱&rでのみスポーンします。\n女王蜂が巣枠に住みつくかどうかは運ですが、巣箱の周りに&d花&rを設置することで確率を高めることができます。\n\n巣枠に女王蜂が住むと、ミツバチがスポーンし始め、働いてくれます。",
   
     "quests.tfg_tips.not_the_bees.title": "養蜂家の鎧",
     "quests.tfg_tips.not_the_bees.subtitle": "ハチにはハチの生活があるのです",
@@ -681,11 +685,11 @@
   
     "quests.tfg_tips.honey.title": "ハチミツ",
     "quests.tfg_tips.honey.subtitle": "緻密な製作物",
-    "quests.tfg_tips.honey.desc": "&bガラス吹き&rで作られた&a空のジャム瓶&rで、蜂蜜で満たされた巣を右クリックすると&dはちみつ入りの瓶&rを入手できます。蜂蜜は砂糖の優れた代替品になります。",
+    "quests.tfg_tips.honey.desc": "&bガラス吹き&rで作られた&a空のジャム瓶&rで、蜂蜜で満たされた巣を右クリックすると&dはちみつ入りの瓶&rを入手できます。\n蜂蜜は砂糖の優れた代替品になります。",
   
     "quests.tfg_tips.beeswax.title": "ミツロウ",
     "quests.tfg_tips.beeswax.subtitle": "価値のある犠牲",
-    "quests.tfg_tips.beeswax.desc": "&b女王蜂&rが住む&a巣枠&rを&cナイフ&rで右クリックすると、巣枠が空になり、女王は死に、&d蜜蝋&rを入手できます。\n\n&3&lTips:&r&o 悪い特性または低い特性を持つ&b女王蜂&fを処分して、より良い特性のために、他の巣枠の女王蜂どうしを交配させることができます。",
+    "quests.tfg_tips.beeswax.desc": "&b女王蜂&rが住む&a巣枠&rを&cナイフ&rで右クリックすると、巣枠が空になり、女王は死に、&d蜜蝋&rを入手できます。\n\n&3&lTips：&r&o悪い特性または低い特性を持つ&b女王蜂&fを処分して、より良い特性のために、他の巣枠の女王蜂どうしを交配させることができます。",
   
     "quests.tfg_tips.candles.title": "ろうそく",
     "quests.tfg_tips.candles.subtitle": "いい雰囲気ですね",
@@ -693,11 +697,11 @@
   
     "quests.tfg_tips.oven.title": "オーブン",
     "quests.tfg_tips.oven.subtitle": "注意、熱いです",
-    "quests.tfg_tips.oven.desc": "&3オーブン&rは、食品を簡単に調理したり、特別なレシピを実行したりするために使用できるマルチブロック構造体です。&aオーブンかまど、オーブン&r、および&aオーブンの煙突&rが必須になります。また、&aオーブン&rから食品を取り出すには、&dトング&rを使用することを忘れないでください。\n&3オーブン&rの構築方法の詳細については、&2フィールドガイド&rを参照してください。\n\n&3&lTips:&r&o: 5つの栄養グループすべてを満たすことができる唯一の食品である&cピザ&fは、オーブンで調理する必要があります。",
+    "quests.tfg_tips.oven.desc": "&3オーブン&rは、食品を簡単に調理したり、特別なレシピを実行したりするために使用できるマルチブロック構造体です。\n&aオーブンかまど、オーブン&r、および&aオーブンの煙突&rが必須になります。\n&aオーブン&rから食品を取り出す際は、&dトング&rを使用することを忘れないでください。\n&3オーブン&rの構築方法の詳細については、&2フィールドガイド&rを参照してください。\n\n&3&lTips:&r&o: 5つの栄養グループすべてを満たすことができる唯一の食品である&cピザ&fは、オーブンで調理する必要があります。",
   
     "quests.tfg_tips.oven_appliances.title": "オーブン機器",
     "quests.tfg_tips.oven_appliances.subtitle": "オーブンを最大限に活用する",
-    "quests.tfg_tips.oven_appliances.desc": "&3オーブン機器&rは、&aオーブンかまど&rの上に設置することで利用できる調理器具です。一つのマルチブロック構造に&c複数の&r&aオーブンかまど&rを含めることができるので覚えておいてください。\n\n&d錬鉄のグリル&r: 食品を高速で調理し、&c保存期間を延長&rしてくれます。\n&d釜&r:鍋のレシピを一度に大量に処理できます！ &eラテックス&rの処理や&aジャム&rを作るのに非常に役立ちます。\n&d瓶詰め機&r: &b釜&rの隣に設置すると、&aジャム&rを瓶詰めしてくれます。\n&d鍋&r: スープの調理にのみ使えます。",
+    "quests.tfg_tips.oven_appliances.desc": "&3オーブン機器&rは、&aオーブンかまど&rの上に設置することで利用できる調理器具です。\n一つのマルチブロック構造に&c複数の&r&aオーブンかまど&rを組み込むことができるので覚えておいてください。\n\n&d錬鉄のグリル&r: 食品を高速で調理し、&c保存期間を延長&rしてくれます。\n&d釜&r:鍋のレシピを一度に大量に処理できます！ &eラテックス&rの処理や&aジャム&rを作るのに非常に役立ちます。\n&d瓶詰め機&r: &b釜&rの隣に設置すると、&aジャム&rを瓶詰めしてくれます。\n&d鍋&r: スープの調理にのみ使えます。",
   
     "quests.tfg_tips.oven_finish.title": "オーブン仕上げ",
     "quests.tfg_tips.oven_finish.subtitle": "おしゃれに仕上げよう",
@@ -710,21 +714,21 @@
   
     "quests.tfg_tips.jam.title": "ジャム",
     "quests.tfg_tips.jam.subtitle": "ゼリーではありません",
-    "quests.tfg_tips.jam.desc": "&dジャム&rは、果物を保存するのに最適な方法です。&b密封されたジャムの瓶&rは、開封しなければ最大&c2年間&r保存できます。\n\nジャムを適切に瓶詰めするには、&a蓋付きの瓶&rが必要になります。瓶自体には&bガラス吹き&r、蓋には&b鍛冶&rが必要です。\n\n&3&lTips:&r&l &aGT機械&fがあれば、両方をより簡単に作れるようになります。",
+    "quests.tfg_tips.jam.desc": "&dジャム&rは、果物を保存するのに最適な方法です。&b密封されたジャムの瓶&rは、開封しなければ最大&c2年間&r保存できます。\n\nジャムを適切に瓶詰めするには、&a蓋付きの瓶&rが必要になります。瓶自体には&bガラス吹き&r、蓋には&b鍛冶&rが必要です。\n\n&3&lTips：&r&l &aGT機械&fがあれば、両方をより簡単に作れるようになります。",
   
     "quests.tfg_tips.preservation.title": "保存の系統樹",
     "quests.tfg_tips.preservation.subtitle": "食品を長持ちさせる",
-    "quests.tfg_tips.preservation.desc": "腐った食品は食用には適していません(ただし、豚などの家畜に与えることはできます)。&2TFG&rで安定して生活するには、食品の保存期間を長引かせるのが重要です。\n\n上記のクエストツリーでは、さまざまな食品のあらゆる保存方法について詳しく説明しています。一部のアイコンに腐った食品が表示される場合がありますが、これは純粋に外観上のバグです。\n\n&3&lTips:&r&o すべての要素は&d重ねる&fことができるため、いくつかの方法を組み合わせることで非常に長い保存期間を実現できます。",
+    "quests.tfg_tips.preservation.desc": "腐った食品は食用には適していません(ただし、豚などの家畜に与えることはできます)。\n&2TFG&rの世界で安定した生活を送るには、食品の長期保存が重要です。\n\n上記のクエストツリーでは、さまざまな食品のあらゆる保存方法について詳しく説明しています。一部のアイコンに腐った食品が表示される場合がありますが、これは純粋に外観上のバグです。\n\n&3&lTips:&r&o すべての要素は&d重ねる&fことができるため、いくつかの方法を組み合わせることで非常に長い保存期間を実現できます。",
   
     "quests.tfg_tips.brine_something.title": "塩酢漬け",
     "quests.tfg_tips.brine_something.subtitle": "他の保存方法の予備段階",
-    "quests.tfg_tips.brine_something.desc": "&a生の肉、野菜&r、または&a果物&rを塩酢漬けにしましょう。これには&b海水&rと&b酢&rで作られた&d塩酢&rが必要です。これは、&3酢漬け&rと&3燻製&rの予備段階です。",
+    "quests.tfg_tips.brine_something.desc": "&a生の肉、野菜&r、または&a果物&rを塩酢漬けにしましょう。これには&b海水&rと&b酢&rで作られた&d塩酢&rが必要です。\nこれは、&3酢漬け&rと&3燻製&rの予備段階です。",
     "quests.tfg_tips.brine_something.task.1": "塩酢漬けされた肉、野菜、または果物。",
-    "quests.tfg_tips.brine_something.task.2": "海水のバケツ",
+    "quests.tfg_tips.brine_something.task.2": "塩酢のバケツ",
   
     "quests.tfg_tips.pickle_something.title": "一般的な保存:酢漬け",
     "quests.tfg_tips.pickle_something.subtitle": "ピクルスを作ろう",
-    "quests.tfg_tips.pickle_something.desc": "&a生の肉、野菜&r、または&a果物&rは酢漬けにすることができます。&3塩酢漬け&r後、食品アイテムは&a酢&rで満たされた樽に漬けられます。樽が密閉されている限り、そこに放置することができ、&d酢漬け&rの保存特性を与え、保存期間を大幅に延長します。",
+    "quests.tfg_tips.pickle_something.desc": "&a生の肉、野菜&r、または&a果物&rは酢漬けにすることができます。\n&3塩酢漬け&r後、食品アイテムは&a酢&rで満たされた樽で漬けておくことができます。樽が密閉されている限り、保存しておくことができ、&d酢漬け&rの保存特性を与え、保存期間を大幅に延長します。",
     "quests.tfg_tips.pickle_something.task.1": "酢のバケツ",
     "quests.tfg_tips.pickle_something.task.2": "ピクルスにされた肉、野菜、または果物。",
   
@@ -739,7 +743,7 @@
   
     "quests.tfg_tips.cheese_aging.title": "牛乳の保存: チーズの熟成",
     "quests.tfg_tips.cheese_aging.subtitle": "クセになる香り",
-    "quests.tfg_tips.cheese_aging.desc": "&3貯蔵庫&rを建てた場合は、&aチーズホイール&rを置いて中で熟成させることができます。熟成には時間がかかりますが、保存期間が大幅に向上します。 &l手でチーズを壊さないでください。そうした場合、すべての熟成がなかったことになります！&r",
+    "quests.tfg_tips.cheese_aging.desc": "&3貯蔵庫&rを建てた場合は、&aチーズホイール&rを置いて中で熟成させることができます。熟成には時間がかかりますが、保存期間が大幅に向上します。\n&l手でチーズを壊さないでください。そうした場合、すべての熟成がなかったことになります！&r",
   
     "quests.tfg_tips.smoke_cheese.title": "牛乳の保存: チーズを燻製にする",
     "quests.tfg_tips.smoke_cheese.subtitle": "風味の向上",
@@ -752,7 +756,7 @@
   
     "quests.tfg_tips.salt_meat.title": "肉の保存: 塩漬け",
     "quests.tfg_tips.salt_meat.subtitle": "より苦しむ",
-    "quests.tfg_tips.salt_meat.desc": "&b塩漬け&rは、肉を手っ取り早く、簡単に保存期間を延ばすことができる方法です。&d塩&rは、&a岩塩堆積物&r、&a塩の鉱脈&rの上の&a小さい結晶&r、&a塩の鉱脈&r自体から入手できます。そのほか、&3鍋&rで塩水を&a沸騰&rさせることによって作り出すこともできます。",
+    "quests.tfg_tips.salt_meat.desc": "&b塩漬け&rは、肉を手っ取り早く、簡単に保存期間を延ばすことができる方法です。\n&d塩&rは、&a岩塩堆積物&r、&a塩の鉱脈&rの上の&a小さい結晶&r、&a塩の鉱脈&r自体から入手できます。\nそのほか、&3鍋&rで塩水を&a沸騰&rさせることによって精製することもできます。",
     "quests.tfg_tips.salt_meat.task": "塩漬け肉の塊",
   
     "quests.tfg_tips.smoke_meat.title": "肉の保存: 燻製",
@@ -767,8 +771,8 @@
   
     "quests.tfg_tips.cook_meat.title": "肉の保存: 調理",
     "quests.tfg_tips.cook_meat.subtitle": "まっとうな手段",
-    "quests.tfg_tips.cook_meat.desc": "調理によっても保存特性を付与することができます。&a肉&rは、&b錬鉄製グリル&rまたは&bオーブン&rで調理する必要があります。\n他の調理方法では、特性が付与されないか、保存期間を短くするマイナスの特性を与えることさえあります。\n\n&3&lTips:&r&o &b錬鉄製グリル&fは、&dオーブン&f構造の一部にすることができます。",
-    "quests.tfg_tips.cook_meat.task.1": "グリルまたはオーブンで焼いた調理済み肉の塊。",
+    "quests.tfg_tips.cook_meat.desc": "調理によっても保存特性を付与することができます。&a肉&rは、&b錬鉄製グリル&rまたは&bオーブン&rで調理する必要があります。\n他の調理方法では、特性が付与されないか、保存期間を短くするマイナスの特性を与えることさえあります。\n\n&3&lTips:&r&o &b錬鉄製グリル&fは、&dオーブン&f構造の中でもつかうことができます。",
+    "quests.tfg_tips.cook_meat.task.1": "グリルまたはオーブンで焼いた肉。",
     "quests.tfg_tips.cook_meat.task.2": "錬鉄製グリルまたは上部オーブン",
   
     "quests.tfg_tips.get_veggie.title": "野菜の保存",
@@ -777,7 +781,7 @@
   
     "quests.tfg_tips.get_fruit.title": "果物の保存",
     "quests.tfg_tips.get_fruit.subtitle": "おいしい！",
-    "quests.tfg_tips.get_fruit.desc": "&a果物&rは、ほとんどが野生で見つかります。入手経路は&b木や茂み&rから収穫するものか、&bメロン&rと&bカボチャ&rのようなものがあります。 野菜とは異なり、果物には独自の保存手段があります。&b酢漬け&rのほかに&d乾燥&rさせることができます。\n&cドライフルーツは、最初の&dイースト&rを作るためにも必要です。",
+    "quests.tfg_tips.get_fruit.desc": "&a果物&rは、ほとんどが野生で見つかります。入手経路は&b木や茂み&rから収穫するものか、&bメロン&rと&bカボチャ&rのようなものがあります。\n野菜とは異なり、&b酢漬け&rのほかに&d乾燥&rさせることができます。これは果物独自の保存方法です。\n&cドライフルーツは、最初の&dイースト&rを作るためにも必要です。",
   
     "quests.tfg_tips.dry_fruit.title": "果物の保存: 乾燥",
     "quests.tfg_tips.dry_fruit.subtitle": "しっかり乾かしましょう",
@@ -787,10 +791,10 @@
   
     "quests.tfg_tips.get_grain.title": "穀物の保存",
     "quests.tfg_tips.get_grain.subtitle": "炭水化物たち",
-    "quests.tfg_tips.get_grain.desc": "&a穀物&rは種類がそれなりに豊富で、あなたの地元でも簡単に栽培できます。未加工の穀物は長持ちしないかもしれませんが、保存期間を大幅に延ばす方法があります。",
+    "quests.tfg_tips.get_grain.desc": "&a穀物&rは種類がそれなりに豊富で、あなたの地元でも簡単に栽培できます。\n未加工の穀物は長持ちしないかもしれませんが、保存期間を大幅に延ばす方法があります。",
     "quests.tfg_tips.get_grain.task": "任意の穀物",
   
-    "quests.tfg_tips.process_grain.title": "穀物の保存: ナイフ処理",
+    "quests.tfg_tips.process_grain.title": "穀物の保存：脱穀",
     "quests.tfg_tips.process_grain.subtitle": "これだけです",
     "quests.tfg_tips.process_grain.desc": "ナイフと&a穀物&rでクラフトすると、&d穀物の粒&rと藁が得られます。穀物の粒はもとより非常に長持ちします。",
   
@@ -800,28 +804,28 @@
   
     "quests.tfg_tips.vessel_preservation.title": "一般的な貯蔵:壺",
     "quests.tfg_tips.vessel_preservation.subtitle": "勇者を招きいれてはいけません",
-    "quests.tfg_tips.vessel_preservation.desc": "食品は&a壺&rまたは&a大きな壺&rに入れましょう。大きな壺はしっかりと蓋を閉めておきましょう。 入れている間は、&d密閉&rの保存特性が得られ、保存期間が延びます。食品を持ち運ぶのにも適しています！",
+    "quests.tfg_tips.vessel_preservation.desc": "食品は&a壺&rまたは&a大きな壺&rに入れましょう。大きな壺はしっかりと蓋を閉めておきましょう。\n入れている間は、&d密閉&rの保存特性が得られ、保存期間が延びます。食品を持ち運ぶのにも適しています！",
   
     "quests.tfg_tips.cellar.title": "貯蔵庫",
-    "quests.tfg_tips.cellar.subtitle": "宝物庫",
-    "quests.tfg_tips.cellar.desc": "&3貯蔵庫&rは、食品を長期間保存するために使用できるマルチブロック構造体です。ここでは食品は、&a食品棚&rと&a吊るし棚&rに保管する必要があります。ここで&bチーズを熟成させる&rこともできます。\n&3貯蔵庫&rの構築方法については、&2フィールドガイド&rを確認してください。",
+    "quests.tfg_tips.cellar.subtitle": "腹ペコにとっては宝物庫",
+    "quests.tfg_tips.cellar.desc": "&3貯蔵庫&rは、食品を長期間保存するために使用できるマルチブロック構造体です。\nここでは食品は、&a食品棚&rと&a吊るし棚&rに保管する必要があります。ここで&bチーズを熟成させる&rこともできます。\n&3貯蔵庫&rの構築方法については、&2フィールドガイド&rを確認してください。",
     "quests.tfg_tips.cellar.task": "密閉されたエントリの任意の形式。",
   
     "quests.tfg_tips.refrigerator.title": "冷蔵庫",
     "quests.tfg_tips.refrigerator.subtitle": "まさに文明の利器",
-    "quests.tfg_tips.refrigerator.desc": "&bMV&r時代にまで進むと、&d冷蔵庫&rを作ることができます。これに入れた食品には&o最高の&r普遍的な保存特性を与えてくれます。引き換えとして電力を消費し続けます。生の食品、調理済みの食品、サンドイッチなどの複合食品でも保存できます。",
+    "quests.tfg_tips.refrigerator.desc": "&bMV&r時代にまで進むと、&d冷蔵庫&rを作ることができます。\nこれに入れた食品には&o最高の&r普遍的な保存特性を与えてくれます。引き換えとして電力を消費し続けます。生の食品、調理済みの食品、サンドイッチなどの複合食品でも保存できます。",
   
     "quests.tfg_tips.cellar_blocks.title": "貯蔵庫での保管方法",
     "quests.tfg_tips.cellar_blocks.subtitle": "食品の集合住宅",
-    "quests.tfg_tips.cellar_blocks.desc": "&b食品棚&rは、あらゆる食品を保管できます。&b吊るし棚&rは、&a肉&rと&aニンニク&rを保管するために使用できます。 ここに保管された食品は、&d壺&rよりも強力な保存特性を受け取ります。",
+    "quests.tfg_tips.cellar_blocks.desc": "&b食品棚&rは、あらゆる食品を保管できます。&b吊るし棚&rは、&a肉&rと&aニンニク&rを保管するために使用できます。\nここに保管された食品は、&d壺&rよりも強力な保存特性を受け取ります。",
   
     "__comment16": "#endregion",
   
     "__comment17": "#region Beneath",
   
     "quests.tfg_tips.beneath.title": "The Beneath",
-    "quests.tfg_tips.beneath.subtitle": "センター・オブ・ジ・アース",
-    "quests.tfg_tips.beneath.desc": "地の底深く、&d岩盤&rを越えた先には過酷な地下空間である&4The_Beneath&rがあります。&4Beneath&rには進行に必須な要素はありませんが、多くのリソースと生活の質を向上させる要素が眠っています。",
+    "quests.tfg_tips.beneath.subtitle": "おい地獄さ行ぐんだで！",
+    "quests.tfg_tips.beneath.desc": "地の底深く、&d岩盤&rを越えた先には過酷な地下空間である&4The_Beneath&rがあります。\n&4Beneath&rには進行に必須な要素はありませんが、多くのリソースと生活の質を向上させる要素が眠っています。",
   
     "quests.tfg_tips.beneath_prep.title": "Beneathに向けた支度",
     "quests.tfg_tips.beneath_prep.subtitle": "準備を怠るな",
@@ -829,7 +833,7 @@
   
     "quests.tfg_tips.beneath_temp_management.title": "体温管理:冷却手段",
     "quests.tfg_tips.beneath_temp_management.subtitle": "隙を見て冷却",
-    "quests.tfg_tips.beneath_temp_management.desc": "&4Beneath&rは、気温が高いため、体を冷却する手段として&a水&rを持っていきましょう。 一時的な基地を作る予定がある場合は、極地地域で採掘した&b氷塊&rを持っていくといいでしょう。",
+    "quests.tfg_tips.beneath_temp_management.desc": "&4Beneath&rは、気温が高いため、体を冷却する手段として&a水&rを持っていきましょう。\n一時的な基地を作る予定がある場合は、極地地域で採掘した&b氷塊&rを持っていくといいでしょう。",
   
     "quests.tfg_tips.beneath_clothes.title": "体温管理:服装",
     "quests.tfg_tips.beneath_clothes.subtitle": "クールビズ",
@@ -837,7 +841,7 @@
   
     "quests.tfg_tips.blue_steel_diving.title": "青鋼の潜水装備",
     "quests.tfg_tips.blue_steel_diving.subtitle": "空調付き作業服",
-    "quests.tfg_tips.blue_steel_diving.desc": "&9青鋼の潜水装備&rは、着用している間、&c溶岩と火&rに対して完全な耐性を得られる特別な装備です。体温を&a下げる&r効果を持ち、かつ&b断熱性&rが高いため、&4Beneath&rにいる間の体温を安定させることができます。",
+    "quests.tfg_tips.blue_steel_diving.desc": "&9青鋼の潜水装備&rは、着用している間、&c溶岩と火&rに対して完全な耐性を得られる特別な装備です。\n体温を&a下げる&r効果を持ち、かつ&b断熱性&rが高いため、&4Beneath&rにいる間の体温を安定させることができます。",
   
     "quests.tfg_tips.juicer.title": "ジューサー",
     "quests.tfg_tips.juicer.subtitle": "しぼりたてをどうぞ",
@@ -856,7 +860,7 @@
   
     "quests.tfg_tips.fuck_go_back.title": "The Beneathからの脱出方法",
     "quests.tfg_tips.fuck_go_back.subtitle": "出口が見当たらないけど...",
-    "quests.tfg_tips.fuck_go_back.desc": "&4The Beneath&rから脱出するには、&d天井の岩盤&rの近くで待機する必要があります。数秒待っていると、&b地上世界&rの同じX座標とZ座標の位置に転送されます。",
+    "quests.tfg_tips.fuck_go_back.desc": "&4Beneath&rから脱出するには、&d天井の岩盤&rの近くで待機する必要があります。数秒待っていると、&b地上世界&rの同じX座標とZ座標の位置に転送されます。",
   
     "quests.tfg_tips.piglin_bartering.title": "ピグリンとの取引",
     "quests.tfg_tips.piglin_bartering.subtitle": "貴重な取引先",
@@ -867,7 +871,7 @@
   
     "quests.tfg_tips.trowel.title": "こて",
     "quests.tfg_tips.trowel.subtitle": "Quarkインスパイア",
-    "quests.tfg_tips.trowel.desc": "&4こて&rは、ホットバーにあるブロックを&bランダムに&r設置できる建築家向けのツールです。 こては、レンガやその他の使用可能なアイテムを使用して、&5RNR_Roads&rのタイルをランダムに設置することなどに使えます。",
+    "quests.tfg_tips.trowel.desc": "&4こて&rは、ホットバーにあるブロックを&bランダムに&r設置できる建築家向けのツールです。\nこては、レンガやその他の使用可能なアイテムを使用して、&5RNR_Roads&rのタイルをランダムに設置することなどに使えます。",
    
     "quests.tfg_tips.lunchbox.title": "ランチボックス",
     "quests.tfg_tips.lunchbox.subtitle": "ポケットの中の冷蔵庫！",
@@ -884,7 +888,7 @@
    
     "quests.tfg_tips.tools_tips.tools.title": "ツール",
     "quests.tfg_tips.tools_tips.tools.subtitle": "どう使うか",
-    "quests.tfg_tips.tools_tips.tools.desc": "人間と動物を隔てる唯一のものは、&l&b道具&r&rの使用です。&8&oサル、イルカ、カラス、ラッコ、タコを例外として...&r&r 道具と技術を駆使して、&5できる限り楽に&r進めましょう。",
+    "quests.tfg_tips.tools_tips.tools.desc": "人間と動物を隔てる唯一のものは、&l&b道具&r&rの使用です。&8&oサル、イルカ、カラス、ラッコ、タコを例外として...&r&r\n道具と技術を駆使して、&5できる限り楽に&r進めましょう。",
    
     "quests.tfg_tips.tools_tips.seed_oil.title": "ランタン燃料:種油",
     "quests.tfg_tips.tools_tips.seed_oil.subtitle": "生まれるはずだった命の輝き",
@@ -898,7 +902,7 @@
    
     "quests.tfg_tips.tools_tips.markings.title": "マーキング",
     "quests.tfg_tips.tools_tips.markings.subtitle": "OSHA規格1910.303に準拠",
-    "quests.tfg_tips.tools_tips.markings.desc": "&2チョーク&rと同様に&d&lマーキング&r&rを使って装飾して、よりイカした拠点を築くことができます。 最初に&bHazard_Diamond_Wall_Marking&rを作成し、石切り台によって他の種類のマーキングを作成することができます。",
+    "quests.tfg_tips.tools_tips.markings.desc": "&2チョーク&rと同様に&d&lマーキング&r&rを使って装飾して、よりイカした拠点を築くことができます。\n最初に&bHazard_Diamond_Wall_Marking&rを作成し、石切り台によって他の種類のマーキングを作成することができます。",
     "quests.tfg_tips.tools_tips.markings.task": "任意の#ags_modernmarkings:markings",
    
     "quests.tfg_tips.tools_tips.cryodesiccation.title": "フリーズドライ",
@@ -908,7 +912,7 @@
     "quests.tfg_tips.tools_tips.harvest_basket.title": "収穫かご",
     "quests.tfg_tips.tools_tips.harvest_basket.subtitle": "背が低い方向け。",
     "quests.tfg_tips.tools_tips.harvest_basket.task": "任意の#tfg:harvester",
-    "quests.tfg_tips.tools_tips.harvest_basket.desc": "&l&2収穫かご&r&rは、&5TFG&rのために作られた新しい道具です！ これを使えば、ワンクリックで木全体や果物の茂みから収穫することができます！ 通常の&6収穫かご&rの耐久値は&n128&rです。&3アルミニウム収穫かご&rは使用時に耐久が減りません。",
+    "quests.tfg_tips.tools_tips.harvest_basket.desc": "&l&2収穫かご&r&rは、&5TFG&rのために作られた新しい道具です！\nこれを使えば、ワンクリックで木全体や果物の茂みから収穫することができます！\n通常の&6収穫かご&rの耐久値は&n128&rです。&3アルミニウム収穫かご&rは使用時に耐久が減りません。",
    
     "__comment18": "#endregion"
 }
