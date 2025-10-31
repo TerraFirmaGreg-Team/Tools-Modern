@@ -1,6 +1,7 @@
 {
-    "tfc.jei.flint_knapping": "Высекание кремня",
-    "tfc.jei.straw_knapping": "Straw Knapping",
+    "tfc.jei.flint_knapping": "Обработка кремния",
+    "tfc.jei.straw_knapping": "Обработка соломы",
+
     "tfc.recipe.barrel.tfg.barrel.dyeing.decorative_vase.black": "Окрашивание",
     "tfc.recipe.barrel.tfg.barrel.dyeing.decorative_vase.gray": "Окрашивание",
     "tfc.recipe.barrel.tfg.barrel.dyeing.decorative_vase.light_gray": "Окрашивание",
@@ -50,9 +51,10 @@
     "tfc.recipe.barrel.simplylight.barrel.dyeing.illuminant_red_block": "Окрашивание",
     "tfc.recipe.barrel.simplylight.barrel.dyeing.illuminant_brown_block": "Окрашивание",
     "tfc.recipe.barrel.tfg.barrel.treated_chipboard_composite": "Treating Chipboard Composite",
-    "tfc.recipe.barrel.tfg.barrel.soak_hardwood_strip": "Пропитка Деревянных Полосок",
-    "tfc.recipe.barrel.tfg.barrel.treated_wood_planks": "Обработка Деревянных Досок",
-    "tfc.recipe.barrel.tfg.barrel.packed_ice": "Заморозка Льда",
+
+    "tfc.recipe.barrel.tfg.barrel.soak_hardwood_strip": "Пропитка деревянных полосок",
+    "tfc.recipe.barrel.tfg.barrel.treated_wood_planks": "Обработка деревянных досок",
+    "tfc.recipe.barrel.tfg.barrel.packed_ice": "Заморозка льда",
     "tfc.recipe.barrel.tfg.barrel.cooling_water_1": "Cooling Water",
     "tfc.recipe.barrel.tfg.barrel.cooling_water_2": "Cooling Water",
     "tfc.recipe.barrel.tfg.barrel.cooling_water_3": "Cooling Water",
@@ -62,17 +64,20 @@
     "tfc.recipe.barrel.tfg.barrel.sunflower_to_oil": "Extracting Sunflower Oil",
     "tfc.recipe.barrel.tfg.barrel.maple_syrup_to_sugar": "Making sugar",
     "tfc.recipe.barrel.tfg.barrel.birch_syrup_to_sugar": "Making sugar",
+
     "tfc.recipe.barrel.tfg.barrel.light_concrete": "Solidifying Concrete",
     "tfc.recipe.barrel.tfg.barrel.reinforced_light_concrete_support": "Solidifying Concrete",
     "tfc.recipe.barrel.tfg.barrel.dark_concrete": "Dyeing",
     "tfc.recipe.barrel.tfg.barrel.dark_concrete_support": "Dyeing",
     "tfc.recipe.barrel.tfg.barrel.reinforced_dark_concrete_support": "Dyeing",
+
     "gtceu.aqueous_accumulator": "Жидкостный коллектор",
     "tfg.food_recipe.brining": "Засаливание",
     "tfg.food_recipe.smoking": "Копчение",
     "tfg.food_recipe.drying": "Сушка",
     "tfg.food_recipe.freeze_drying": "Лиофилизация",
     "tfg.recipe.macerator_warning": "Only outputs first slot until HV",
+
     "tfg.grapplemod.repair": "Рецепт починки, сохраняет ваши улучшения. §НИКОГДА не объединяйте две крюк-кошки или вы потеряете ВСЕ ваши улучшения!§r",
     "tfg.grapplemod.upgrades.maxlen": "Increases §lMax Length§r by 20, up to 200.",
     "tfg.grapplemod.downgrades.maxlen": "Decreases §lMax Length§r by 20, down to 20. (Jute Rope is Returned).",

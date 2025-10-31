@@ -2,8 +2,9 @@
     "tfg.creative_tab.tfg": "TerraFirmaGreg",
     "tfg.disabled_portal": "Магия портала заблокирована неизвестной силой, попробуйте получить доступ к измерению поднявшись в небо или спустившись в глубины.",
     "tfg.tooltip.food_trait.refrigerating": "§bRefrigerating",
-    "tfg.tooltip.foodtrait.freeze_dried": "Cryodesiccated",
+    "tfg.tooltip.foodtrait.freeze_dried": "Лиофилизация",
     "tfg.tooltip.extraterrestrial_farming": "§4Temperature:§r An oxygenated environment provides 15°C",
+
     "entity.tfg.moon_rabbit.male": "Лунный кролик (Самец)",
     "entity.tfg.moon_rabbit.female": "Лунная крольчиха (Самка)",
     "tfg.tooltip.moon_rabbit_variant.pink": "Розовая шкурка",
@@ -12,15 +13,19 @@
     "tfg.tooltip.moon_rabbit_variant.cyan": "Шкурка цвета морской пены",
     "tfg.tooltip.moon_rabbit_variant.purple": "Лавандовая шкурка",
     "tfg.tooltip.moon_rabbit_variant.sofu": "Пломбирная шкурка",
-    "entity.tfg.glacian_ram.male": "Glacian Ram",
-    "entity.tfg.glacian_ram.female": "Glacian Ewe",
+
+    "entity.tfg.glacian_ram.male": "Гласианский баран",
+    "entity.tfg.glacian_ram.female": "Гласианская овца",
     "tfg.tooltip.attribution.glacian_ram": "§9§oЗаслуга: Ad Astra",
-    "entity.tfg.sniffer.male": "Sniffer",
-    "entity.tfg.sniffer.female": "Sniffer",
+
+    "entity.tfg.sniffer.male": "Нюхач (Самец)",
+    "entity.tfg.sniffer.female": "Нюхач (Самка)",
     "tfg.tooltip.attribution.sniffer": "§9§oЗаслуга: Minecraft",
-    "entity.tfg.wraptor.male": "Wraptor",
-    "entity.tfg.wraptor.female": "Wraptor",
+
+    "entity.tfg.wraptor.male": "Ираптор (Самец)",
+    "entity.tfg.wraptor.female": "Ираптор (Самка)",
     "tfg.tooltip.attribution.wraptor": "§9§oЗаслуга: Species",
+
     "entity.tfg.surfer": "Surfer",
     "tfg.tooltip.surfer_variant.base": "Teal Hide",
     "__comment": "For magenta, yellow, blue, red, and pink colors. You can make something up!",
@@ -30,13 +35,16 @@
     "tfg.tooltip.surfer_variant.fire": "Sangnum Hide",
     "tfg.tooltip.surfer_variant.brain": "Glacian Hide",
     "tfg.tooltip.attribution.surfer": "§9§oCredit: Wan's Ancient Beasts",
+
     "effect.tfg.cooling": "§bCooling",
     "effect.tfg.warming": "§6Warming",
+
     "tfg.greate.uls_limit": "§432§r (§8ULS§r)",
     "tfg.greate.ls_limit": "§f128§r (§7LS§r)",
     "tfg.greate.windmill_hint_1": "Windmills are affected by relative",
     "tfg.greate.windmill_hint_2": "elevation and the amount of empty",
     "tfg.greate.windmill_hint_3": "space around them.",
+
     "trim_material.tfc.almandine_tfc": "Альмадин",
     "trim_material.tfc.andradite_tfc": "Андрадит",
     "trim_material.tfc.blue_topaz_tfc": "Синий топаз",
@@ -85,6 +93,7 @@
     "trim_material.tfc.neutronium_tfc": "Нейтроний",
     "trim_material.tfc.pyrite_tfc": "Пирит",
     "trim_material.tfc.redx_tfc": "RedX",
+
     "tfg.emi.ore_veins.rock_types": "Found in rock types:",
     "tfg.emi.ore_veins.rarity": "Rarity: %d",
     "tfg.emi.ore_veins.density": "Density: %d",
@@ -93,13 +102,17 @@
     "tfg.emi.ore_veins.height": "Height: %d",
     "tfg.emi.ore_veins.radius": "Radius: %d",
     "emi.category.tfg.ore_vein_info": "Рудные жилы",
+
     "tfg.emi.liquid_bb_burn_time": "Duration: %d secs",
     "tfg.emi.liquid_bb_superheat": "§lSuperheated",
     "emi.category.tfg.blaze_burner": "Blaze Burner Fuels",
+
     "emi.category.tfg.block_interaction": "Block Modifications",
+
     "emi.category.deafission.fission_reactor_coolant": "Fission Reactor Cooling",
     "emi.category.deafission.fission_reactor_processing": "Fission Reactor Material Holder",
     "emi.category.deafission.fission_reactor_fuel": "Fission Reactor Fuel",
+
     "tfg.toast.ore_prospector_none": "No ores found in range.",
     "tfg.toast.ore_prospector_message": "Ores found within %s §6blocks in this direction: %s",
     "tfg.tooltip.ore_prospector_stats": "Scan Range: %s, Cross Section: %s x %s.",
@@ -107,6 +120,7 @@
     "tfg.tooltip.ore_prospector_xray": "This prospector will display an x-ray view of ore blocks.",
     "tfg.tooltip.ore_prospector_mode_vein": "per-vein",
     "tfg.tooltip.ore_prospector_mode_block": "per-block",
+
     "tfg.hangglider.disabled_dimension": "Вы не можете использовать дельтаплан здесь!",
     "tfg.tooltip.nametag": "§7Used on a Scribing Table along with an item to name it, or with black dye to name the tag.",
     "tfg.tooltip.yeast_starter": "§7Created with dried fruit",
@@ -148,22 +162,28 @@
     "tfg.tooltip.cooling_foods": "§bCools you by: 2°C",
     "tfg.tooltip.cooling_foods_strong": "§bCools you by: 10°C",
     "tfg.tooltip.warming_foods": "§6Warms you by: 4°C",
+
     "tfg.tooltip.obsolete.depreciated": "§cDeprecated, cannot be crafted any more",
+
     "tfg.tooltip.dna_syringe.empty": "An empty syringe.",
     "tfg.tooltip.dna_syringe.dirty1": "A used syringe.",
     "tfg.tooltip.dna_syringe.dirty2": "Be careful not to poke anyone with this...",
     "tfg.tooltip.dna_syringe.full": "DNA sample: ",
     "tfg.tooltip.dna_syringe.explain": "Right-click on a mob to obtain a DNA sample. Place in a crafting grid to clear contents.",
+    
     "tfg.tooltip.shift_hint": "[Hold-Shift]",
+
     "tfg.tooltip.lab_equipment.part": "§7Precisely Holds: ",
     "tfg.tooltip.lab_equipment.set": "\"§7Does not contain a 5000mB round bottom flask.\"",
     "tfg.tooltip.lab_equipment.set_dirty": "\"§7Soon you might discover penicillin if you dont clean this.\"",
     "tfg.tooltip.single_itemstack_bus.0": "§6Item Slots: §f1",
     "tfg.tooltip.single_itemstack_bus.1": "§6Stack Size: §f1",
     "tfg.tooltip.growth_chamber": "This machine can run more recipes at once by increasing the number of layers.",
+
     "tfg.tooltip.wireless_card_1": "Enables wireless connections from any range, even from different planets!",
     "tfg.tooltip.wireless_card_2": "Items can still be transferred through the terminal, but at a very high power cost.",
     "tfg.tooltip.wireless_card_3": "Use a §dRailgun§r for your interplanetary logistical needs instead.",
+
     "tfg.tooltip.component.blue_ice": "Can be placed inside a Fission Reactor to increase the maximum heat by §90.5§r",
     "tfg.tooltip.component.aes_insulation_frame": "Can be placed inside a Fission Reactor to increase the maximum heat by §91§r",
     "tfg.tooltip.component.glacian_fur": "Can be placed inside a Fission Reactor to increase the maximum heat by §92§r",
@@ -171,8 +191,10 @@
     "tfg.tooltip.component.moderate_core_frame": "Can be placed inside a Fission Reactor to increase the maximum heat by §910§r",
     "tfg.tooltip.component.dry_ice": "Can be used as an input in the Fission Reactor to cool it down, requires a Material Holder",
     "tfg.tooltip.component.refrigerant_pellet": "Can be used as an input in the Fission Reactor to cool it down, requires a Material Holder",
+
     "tfg.tooltip.component.nuclear_turbine_1": "§eBase Production:§r 4096 EU/t",
     "tfg.tooltip.component.nuclear_turbine_2": "Each Rotor Holder above §5EV§r §7adds§r 10% efficiency and multiplies EU/t by 2.",
+    
     "tfg.gui.refrigerator.unify_dates.enabled": "Expiration Date Unification is: §aOn",
     "tfg.gui.refrigerator.unify_dates.disabled": "Expiration Date Unification is: §cOff",
     "tfg.machine.food_refrigerator_power_usage": "§7Consumes§r %s EU/t §7while active to keep your food fresh.§r"
