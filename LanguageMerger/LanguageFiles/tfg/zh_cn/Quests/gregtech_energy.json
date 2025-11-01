@@ -132,7 +132,7 @@
     "quests.gregtech_energy.overclock.subtitle": "基本升级机制",
     "quests.gregtech_energy.overclock.desc.1": "你听说过超频，但不太明白它是什么？让我们花点时间解释一下。\n\n我们应该从基础开始：\n&d低压&r代表最多32EU/t——有时更少，但绝不会更多。\n&d中压&r达到128EU/t。\n&d高压&r达到512EU/t。\n基本上，每个等级的功耗增加4倍。",
     "quests.gregtech_energy.overclock.desc.2": "当你在更高等级的机器中运行较低等级的配方时会发生什么？这就是我们所说的&e超频&r！\n\n一个&d中压&r配方（33–128EU/t）在&d高压&r机器中运行将：1)使用4倍的能量，并且2)速度快2倍。\n\n同一个中压配方在&d超高压&r机器中？能量消耗是8倍，但速度只快4倍。\n\n如你所见，使用多台机器比超频单台机器能效更高。\n但说实话：在大多数设置中，你会更喜欢超频，而不是建造大量相同的机器。\n\n不过，在早期能源紧张的时候知道这一点是很好的。",
-    "quests.gregtech_energy.overclock.desc.3": "有一种特殊的超频只适用于少数多方块结构：&e完美超频&r。\n在这里，不是4倍能量换2倍速度，而是&a4倍能量&r换&a4倍速度&r！这使得它与运行多台机器一样高效。\n\n目前在TerraFirmaGreg中，只有以下多方块结构支持此功能：\n-电力高炉\n-合金高炉\n-转底炉\n-大型化学反应釜\n-电力温室",
+    "quests.gregtech_energy.overclock.desc.3": "有一种特殊的超频只适用于少数多方块结构：&e完美超频&r。\n在这里，不是4倍能量换2倍速度，而是&a4倍能量&r换&a4倍速度&r！这使得它与运行多台机器一样高效。\n\n目前在TerraFirmaGreg中，只有以下多方块结构支持此功能：\n-电力高炉\n-合金冶炼炉\n-转底炉\n-大型化学反应釜\n-电力温室",
     "quests.gregtech_energy.overclock.task": "所以红色的更快，懂了",
     "quests.gregtech_energy.blast_oc.title": "高炉超频",
     "quests.gregtech_energy.blast_oc.subtitle": "你不需要理解这个",
