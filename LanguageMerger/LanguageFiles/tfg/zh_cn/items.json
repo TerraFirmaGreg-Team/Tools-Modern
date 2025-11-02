@@ -341,5 +341,7 @@
     "item.tfg.lamp_casting_mold": "模具（灯）",
     "item.tfg.trapdoor_casting_mold": "模具（活板门）",
     "item.tfg.chain_casting_mold": "模具（锁链）",
-    "item.tfg.bell_casting_mold": "模具（钟）"
+    "item.tfg.bell_casting_mold": "模具（钟）",
+    "item.tfg.rnr_plow": "铺路车",
+    "item.tfg.cobalt_brass_wheel": "钴黄铜车轮"
 }

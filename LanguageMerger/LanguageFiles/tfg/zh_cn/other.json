@@ -30,6 +30,7 @@
     "tfg.tooltip.surfer_variant.fire": "血红色皮革",
     "tfg.tooltip.surfer_variant.brain": "霜原粉皮革",
     "tfg.tooltip.attribution.surfer": "§9§o版权归属：Wan's Ancient Beasts",
+    "entity.tfg.rnr_plow": "铺路车",
     "effect.tfg.cooling": "§b降温",
     "effect.tfg.warming": "§6保暖",
     "tfg.greate.uls_limit": "§432§r (§8ULS§r)",
@@ -175,5 +176,8 @@
     "tfg.tooltip.component.nuclear_turbine_2": "每个高于 §5EV§r 阶段的转子支架 §7可提升§r 10% 效率，并使 EU/t 产出翻倍。",
     "tfg.gui.refrigerator.unify_dates.enabled": "过期日期统一：§a开",
     "tfg.gui.refrigerator.unify_dates.disabled": "过期日期统一：§a关",
-    "tfg.machine.food_refrigerator_power_usage": "§7工作时消耗§r %s EU/t §7以保持食物新鲜。§r"
+    "tfg.machine.food_refrigerator_power_usage": "§7工作时消耗§r %s EU/t §7以保持食物新鲜。§r",
+    "tfg.gui.rnr_plow.random_mode": "随机材料",
+    "tfg.gui.rnr_plow.width": "路径宽度：%d 格",
+    "tfg.gui.rnr_plow.empty_crushed_base_course": "§c缺少碎石基层!!"
 }
