@@ -26,6 +26,8 @@
     "entity.tfg.wraptor.female": "Distráptora",
     "tfg.tooltip.attribution.wraptor": "§9§oCrédito: Species",
 
+    "entity.tfg.rnr_plow": "Carrinho Pavimentador",
+
     "trim_material.tfc.almandine_tfc": "Almandina",
     "trim_material.tfc.andradite_tfc": "Andradita",
     "trim_material.tfc.blue_topaz_tfc": "Topázio Azul",
@@ -128,5 +130,9 @@
     "tfg.tooltip.sniffer_wool": "§7Colhido das costas de um Farejador",
     "tfg.tooltip.wraptor_wool": "§7Colhido das penas de um Distráptor",
     "tfg.tooltip.wraptor_sugar": "§7Não pense muito a respeito disso",
-    "tfg.tooltip.obsolete.depreciated": "§cObsoleto, não pode mais ser criado"
+    "tfg.tooltip.obsolete.depreciated": "§cObsoleto, não pode mais ser criado",
+
+    "tfg.gui.rnr_plow.random_mode": "Aleatorizar Materiais",
+    "tfg.gui.rnr_plow.width": "Largura do Caminho: %d Blocos",
+    "tfg.gui.rnr_plow.empty_crushed_base_course": "§cFalta Camada Base Triturada!!"
 }

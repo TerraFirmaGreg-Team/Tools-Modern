@@ -916,5 +916,33 @@
     "quests.tfg_tips.tools_tips.harvest_basket.task": "Any #tfg:harvester",
     "quests.tfg_tips.tools_tips.harvest_basket.desc": "&l&2Harvest Baskets&r&r are a new tool made just for &5TFG&r! These baskets can be used to harvest whole trees and bushes of fruit in one right-click! A regular &6Harvest Basket&r has a base durability of &n128&r. But an &3Aluminium Harvest Basket&r takes no damage on use.",
 
+    "quests.tfg_tips.transportation_tips.rnr_plow.title": "Paving Cart",
+    "quests.tfg_tips.transportation_tips.rnr_plow.subtitle": "The Romans would be proud.",
+    "quests.tfg_tips.transportation_tips.rnr_plow.desc": "Roads are wonderful! But sometimes you get a little tired of right-clicking. Instead of building roads for your horse, &3let your horse build roads for you&r!\nThe &dPaving Cart&r is a unique &cAstikor Cart&r developed for TFG. This cart allows you to automatically build &cRnR roads&r with assignable road width and even a randomizer mode.",
+
+    "quests.tfg_tips.tools_tips.mattocks.title": "Mattocks",
+    "quests.tfg_tips.tools_tips.mattocks.subtitle": "A shovel just wont do.",
+    "quests.tfg_tips.tools_tips.mattocks.task0": "Any Mattock",
+    "quests.tfg_tips.tools_tips.mattocks.task1": "Any Road Material",
+    "quests.tfg_tips.tools_tips.mattocks.desc": "&cMattocks&r are your key to developing roads in TFG. They can acquired through casting into a mold like any other TFC tool. To use a mattock change its mode (default-key: &3&lN&r&r) to \"full-block\". \nThen you can right-click on dirt or grass to tamp it down. You can then apply &6crushed base course&r and finally the material of your choice after.",
+
+    "quests.tfg_tips.tools_tips.base_course.title": "Base Course",
+    "quests.tfg_tips.tools_tips.base_course.subtitle": "The foundation of all good roads.",
+    "quests.tfg_tips.tools_tips.base_course.task": "Look at Base Course",
+
+    "quests.tfg_tips.tools_tips.gravel_roads.title": "Gravel Roads",
+    "quests.tfg_tips.tools_tips.gravel_roads.subtitle": "A bumpy ride awaits.",
+    "quests.tfg_tips.tools_tips.gravel_roads.task": "Any Gravel Road Material",
+    "quests.tfg_tips.tools_tips.gravel_roads.desc": "These materials—when applied to base course—form roads which give a &b&l10%%&r&r boost to walking speed.",
+
+    "quests.tfg_tips.tools_tips.brick_roads.title": "Brick Roads",
+    "quests.tfg_tips.tools_tips.brick_roads.subtitle": "Skateboarders beware.",
+    "quests.tfg_tips.tools_tips.brick_roads.task": "Any Brick Road Material",
+    "quests.tfg_tips.tools_tips.brick_roads.desc": "These materials—when applied to base course—form roads which give a &b&l20%%&r&r boost to walking speed.",
+
+    "quests.tfg_tips.tools_tips.concrete_roads.title": "Concrete Roads",
+    "quests.tfg_tips.tools_tips.concrete_roads.subtitle": "Almost worth all the effort.",
+    "quests.tfg_tips.tools_tips.concrete_roads.desc": "&6Wet concrete mix&r can be applied to base course to create roads which give a &b&l30%%&r&r bonus to movement speed. \n\n&4Be careful&r when creating concrete roads. There are a lot of rules to follow to make sure you don't end up with cracked or ruined surfaces. Consult the &3Field Guide&r for detailed instructions.",
+
     "__comment18": "#endregion"
 }

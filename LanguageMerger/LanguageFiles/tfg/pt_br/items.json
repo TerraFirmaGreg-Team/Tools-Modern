@@ -299,5 +299,8 @@
   	"item.tfg.linen_cloth": "Pano de Linho",
 
     "item.tfg.uv_led": "§fLED §dUltravioleta",
-    "item.tfg.smd_uv_led": "§fLED §dUltravioleta §fSMD"
+    "item.tfg.smd_uv_led": "§fLED §dUltravioleta §fSMD",
+
+    "item.tfg.rnr_plow": "Carrinho Pavimentador",
+    "item.tfg.cobalt_brass_wheel": "Roda de Latão Cobalto"
 }
