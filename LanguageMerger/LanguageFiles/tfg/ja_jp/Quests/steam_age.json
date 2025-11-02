@@ -1,6 +1,6 @@
 {
     "quests.steam_age": "初期の自動化",
-    "quests.steam_age.subtitle": "蒸気機関で産業革命",
+    "quests.steam_age.subtitle": "蒸気機関、始動",
 
     "quests.steam_age.basic_greate.title": "Greateの基本",
     "quests.steam_age.basic_greate.subtitle": "もう普通のCreateじゃ満足できないって？ だったらこれはどうだ",
@@ -68,7 +68,7 @@
     "quests.steam_age.item_pipes.desc.1": "&3アイテムパイプ&rは、アイテムを&d瞬時に&r移動させるための簡単な手段ですが、その運搬能力には制限があります。\n\nもちろん上位のパイプは、運搬能力が向上し、最終的にはすごいことになりますよ。それはもうMOD入りマイクラの中でも特にね！\n\nアイテムパイプは&9自力でアイテムを引き出す能力はありません&rが、どうにかしてパイプへと搬出すれば、アイテムを運び、接続されている他の倉庫などに搬入してくれます。&9近くのインベントリ&rを優先して搬入します。",
     "quests.steam_age.item_pipes.desc.2": "優先順位のメカニズムはやや&o複雑&rです。興味がない場合はいったん飛ばしてもいいですよ:\n\n&e送り先&rには、それぞれ&d優先順位&rが割り当てられます。それは、その送り先へ至るまでの個々のパイプのもつ「優先順位」の値の合計によって決められます。その中で&c優先順位の値が&dもっとも低い&r送り先が、搬入先として選ばれます。\n\n&3制限付きパイプ&rは、優先順位が高めに設定されているため、基本的に搬入の優先順位が最も低くなります。",
     "quests.steam_age.item_pipes.desc.3": "現時点では、&6シュート&rおよび&6ホッパー&rと組み合わせればインベントリからの搬出ができますが、LV時代にはコンベアモジュール、出力バス、および機械の自動出力でも使用できるようになります。\n\n&9注:&r GT6スタイルのパイプは&d有効&rになっています。つまり、パイプを配置すると、パイプを置いた面のブロックにのみ接続されます。もっといろんなブロックにつなげたいなら、&5レンチ&rを持つとグリッドが表示されるので、それを右クリックでつなげましょう。\n\n提案されたアイテムパイプの&eいずれか&rを入手して、このクエストを完了してください。",
-    "quests.steam_age.item_pipes.desc.4": "&l&3伝承では...&r&o\nOooooh, YEAH！！\n実はな、アイテムパイプはGT5にもあったんだ。でも、なんでか知らないけどGTCEにはなかったから、その時は他のMODを使用してアイテムを輸送する必要があったんだって。えぇ...？誰がそんなことをするの！？ まあいいや、とにかく、せっかく帰ってきたアイテムパイプ、うまく使えよ！\n...といいます。",
+    "quests.steam_age.item_pipes.desc.4": "&l&3余談：&r&oおはこんばんにちは！実は、アイテムパイプはGT5にもあったんだって。でも、なんでか知らないけどGTCEにはなかったから、その時は他のMODを使用してアイテムを輸送する必要があったんだ。えぇ...？誰がそんなことをするの！？まあいいや、とにかく、せっかく帰ってきたアイテムパイプ、しっかり使ってあげて！",
    
     "quests.steam_age.steel_greate.title": "鋼鉄のGreate",
     "quests.steam_age.steel_greate.subtitle": "Greateが大好評だったのでGreate 2を作りました",
@@ -101,7 +101,7 @@
     "quests.steam_age.fluid_drums.title": "効率的な液体ストレージ",
     "quests.steam_age.fluid_drums.subtitle": "木の樽に融けた鋼を入れておけると思います？",
     "quests.steam_age.fluid_drums.desc.1": "&6TFG&rをやっていて、扱う液体の種類の多さに&4圧倒&rされてませんか？ それらを保管しておく方法を探していたら読んでください。\n\nご紹介しましょう... &aドラム&r！これらには大きな内部容量があります。&aドラム&rは壊されても内部の液体を&d保持します&r。ソフトマレットで右クリックすると、ドラムは下方向に内容物を自動搬出してくれます。",
-    "quests.steam_age.fluid_drums.desc.2": "&l&3伝承では...&r&o\nこのドラムたちは、実はGregTech6から移植されたものなんだぜ。\n...といいます。",
+    "quests.steam_age.fluid_drums.desc.2": "&l&3余談：&r&oこのドラムたちは、実はGregTech6から移植されたものなんだぜ。",
    
     "quests.steam_age.boilers.title": "蒸気ボイラー",
     "quests.steam_age.boilers.subtitle": "ポータブルサウナ",
@@ -120,7 +120,7 @@
     "quests.steam_age.steam_oven.title": "蒸気式オーブン",
     "quests.steam_age.steam_oven.subtitle": "蒸気式破砕機のお兄ちゃん",
     "quests.steam_age.steam_oven.desc.1": "&o...いや、弟か？まあいいや&r\n\n&3蒸気式オーブン&rは、&6大量のアイテムを楽に製錬したいときに最適なマルチブロック機械です&r。\nかまどを並べて、手作業で取り出したり、燃料を補給したりする必要は、もはや必要ありません！\n\n蒸気によって低コストで、一度に最大8つのアイテムを製錬する並列かまどとして機能してくれます。",
-    "quests.steam_age.steam_oven.desc.2": "&l&3伝承では...&r&o\nこのマルチブロック、兄弟の蒸気式破砕機によく似てるだろ？でも実はGregTechとかアドオンから移植されたものじゃないんだって。実の親は、古くは1.4.7のRailcraftの蒸気オーブンなんだとさ！\n...といいます。",
+    "quests.steam_age.steam_oven.desc.2": "&l&3余談：&r&oこのマルチブロック、兄弟の蒸気式破砕機によく似てない？でも実はGregTechとかアドオンから移植されたものじゃないんだって。実の親は、古くは1.4.7のRailcraftの蒸気オーブンなんだと！節操がないね！",
    
     "quests.steam_age.steam_macerator.title": "高圧蒸気式粉砕機",
     "quests.steam_age.steam_macerator.subtitle": "高圧蒸気式粉砕機は、粉砕をします",
@@ -152,7 +152,7 @@
    
     "quests.steam_age.red_alloy.title": "赤合金",
     "quests.steam_age.red_alloy.subtitle": "完全に架空の合金",
-    "quests.steam_age.red_alloy.desc": "&4赤合金&rは、銅とレッドストーンの合金であり、その導電性によってGregTechの世界で高く評価されています。これは合金製錬炉またはるつぼで作成できます。\n\n&9電子管&rにはいくつか必要になります。\n\n&l&3伝承では...&r&o\nこれって元はRedPowerのものなんだよ。懐かしいな\n...といいます。",
+    "quests.steam_age.red_alloy.desc": "&4赤合金&rは、銅とレッドストーンの合金であり、その導電性によってGregTechの世界で高く評価されています。これは合金製錬炉またはるつぼで作成できます。\n\n&9電子管&rにはいくつか必要になります。\n\n&l&3余談：&r&oこれって元はRedPowerのものなんだよ。懐かしいな",
    
     "quests.steam_age.extractor.title": "高圧蒸気式抽出機",
     "quests.steam_age.extractor.subtitle": "高圧蒸気式抽出機は、抽出をします",
@@ -164,7 +164,7 @@
    
     "quests.steam_age.treated_planks.title": "防腐木材の板",
     "quests.steam_age.treated_planks.subtitle": "a.k.a防腐木材の繊維板",
-    "quests.steam_age.treated_planks.desc": "クレオソートが残っていたらいいのですが...実は、クレオソートは防腐木材のパルプ化と、その圧縮された板を作ることにも使われるんです。\n\n&l&3伝承では...&r&o\nTerraFirmaGregの前までのバージョンだと、これがないとCreateを始められなかったんだよね！\n...といいます。",
+    "quests.steam_age.treated_planks.desc": "クレオソートが残っていたらいいのですが...実は、クレオソートは防腐木材のパルプ化と、その圧縮された板を作ることにも使われるんです。\n\n&l&3余談：&r&oTerraFirmaGregの前までのバージョンだと、これがないとCreateを始められなかったんだよね！",
    
     "quests.steam_age.electron_tube.title": "電子管",
     "quests.steam_age.electron_tube.subtitle": "ULVの下？ UULV？",
@@ -253,7 +253,7 @@
     "quests.steam_age.rolling_mill.title": "Rolling Mill",
     "quests.steam_age.rolling_mill.subtitle": "金属加工機の残り半分",
     "quests.steam_age.rolling_mill.desc.1": "蒸気時代に作れるマシンの中でも、&3Rolling_Mill&rは、最高のものの1つです。なんと、1つのインゴットから1つのプレートが作れるようになるんですよ！\nまた、薄いシートを手作業よりも安価に作成することもできます！",
-    "quests.steam_age.rolling_mill.desc.2": "&l&3伝承では...&r&o\nこのマシンは以前からTFGにあったんだけど、昔は、プレートの代わりに棒を作ってて、そのときの基本型金属加工機の前のプレート作成機は20％で失敗してたんだって！\n...といいます。",
+    "quests.steam_age.rolling_mill.desc.2": "&l&3余談：&r&oこのマシンは以前からTFGにあったんだけど、昔はプレートの代わりに棒を作ってて、そのときの基本型金属加工機の前のプレート作成機は20％で失敗してたんだって！ガチャ要素も残した方がよかったかな...？",
    
     "quests.steam_age.steel_mixer.title": "鋼鉄製メカニカルミキサー",
     "quests.steam_age.steel_mixer.subtitle": "基本型ミキサーのアーリーアクセス版",
@@ -262,7 +262,7 @@
     "quests.steam_age.potin.title": "ポティン！！！",
     "quests.steam_age.potin.subtitle": "大丈夫。下ネタではありません",
     "quests.steam_age.potin.desc.1": "&dポティン製液体パイプ&rは、コストに対して&a非常に高い液体運搬性能&rを持っています。\nよりよい液体の運搬や管理のためにも、ぜひとも作ってみてください。\n\n&dポティン&rをつくるには、まず&e粉末&rの形から始める必要があります。\n\nこのクエストでは、細いパイプまたは通常のパイプのどちらかが必要です。どちらかのサイズを入手して完了してください。",
-    "quests.steam_age.potin.desc.2": "&l&3伝承では...&r&o\n&dポティン製液体パイプ&rは元々&9GT++&rにて生み出されて、&4[GT:NH]&rと呼ばれる小規模なPackでは猛威を振るっていたんだと。私たちはその喜びを広めたかったんだ。\n\nちなみに、現実の世界では、&dポティン&rはパイプではなく、コインに使用される合金らしいよ。GTCEuは日々非現実的になっていますね\n...といいます。",
+    "quests.steam_age.potin.desc.2": "&l&3余談：&r&o&dポティン製液体パイプ&rは元々&9GT++&rで生み出されて、&4[GT:NH]&rと呼ばれる小規模なPackでは猛威を振るっていたんだと。私たちはその喜びを広めたかったんだよ。\n\nちなみに、現実の世界では、&dポティン&rはパイプではなく、コインに使用される合金らしいよ。GTCEuは日々非現実的になっていますね...",
    
     "quests.steam_age.miner.title": "自動採掘",
     "quests.steam_age.miner.subtitle": "ここもいずれ...",
@@ -283,8 +283,8 @@
    
     "quests.steam_age.alternator.title": "オルタネーター",
     "quests.steam_age.alternator.subtitle": "ストレスを力に変える",
-    "quests.steam_age.alternator.desc.1": "大規模な蒸気時代のセットアップがある場合は、ボイラーと[LV Steam Turbines]に戻るためだけに、すぐにすべてを廃棄したくないでしょう。代わりに、&3オルタネーター&rは蒸気機関からの[SU]を電気に変換します。各蒸気機関+オルタネーターは、1Aの[LV]を提供する必要があります！残念ながら、オルタネーターはストレスを[GregTech]が使用する電気システムとは異なる電気システムに変換するため、エネルギーコンバーターを使用して使用可能な[LV]エネルギーに変換する必要があります。",
-    "quests.steam_age.alternator.desc.2": "蒸気機関が8アンペアの[LV]を生成する例です！\n",
+    "quests.steam_age.alternator.desc.1": "蒸気機関の運用にかなりの力を入れていた場合、それをLV時代に進んでからも活用する方法があります。\n&3オルタネーター&rは応力を電気に変換することができます。蒸気エンジン1つとオルタネーター1つの組み合わせで、LV1A相当の電力を供給してくれます！\n\n残念ながら、オルタネーターはGregの電力である「EU」ではなく「FE」を出力するため、エネルギー変換機で変換する必要があります。",
+    "quests.steam_age.alternator.desc.2": "蒸気機関がLV8アンペアを生成する例です！\n",
    
     "quests.steam_age.packager.title": "Create物流システム",
     "quests.steam_age.packager.subtitle": "君んちにはAE2がないの？",
@@ -297,5 +297,5 @@
     "quests.steam_age.steel_mech_press.title": "鋼鉄製メカニカルプレス",
     "quests.steam_age.steel_mech_press.subtitle": "ほぼ鍛造機",
     "quests.steam_age.steel_mech_press.desc.1": "高圧蒸気式鍛造機はあとちょっとで作れますし、それがあればこのマシンにできることは、ほとんどすべてできてしまいますが、より上位の自動溶接レシピを切実に必要としている場合は作りましょう。\n\n鍛造機では鋼鉄製メカニカルプレスと同じように、鉱石を(副産物なしで)粉砕したり、岩を丸石に変えたり、砂利を砂に変えたり、レンガを割ったりすることができます。\nただし、鍛造機のみが金属プレートの&3より安価なレシピ&rを実行できます...",
-    "quests.steam_age.steel_mech_press.desc.2": "&l&3伝承では...&r&o\nCreateのメカニカルプレスって、バージョン0.9より前のTerraFirmaGregだと、蒸気時代の結構重要なマシンだったんだよね。なぜかって、4/5っていうまあまあ良い比率でプレート作ってくれたから。でも実は、それを「20％の確率で、アイテムが消える」っていう仕様で実装してたんだよ！あのギャンブルはサイコーだったなあ。\n...といいます。"
+    "quests.steam_age.steel_mech_press.desc.2": "&l&3余談：&r&oCreateのメカニカルプレスって、バージョン0.9より前のTerraFirmaGregだと、蒸気時代の結構重要なマシンだったんだよね。なぜかって、4/5っていうまあまあ良い比率でプレート作ってくれたから。でも実は、それを「20％の確率で、アイテムが消える」っていう仕様で実装してたんだよ！あのギャンブルはサイコーだったなあ。"
 }
