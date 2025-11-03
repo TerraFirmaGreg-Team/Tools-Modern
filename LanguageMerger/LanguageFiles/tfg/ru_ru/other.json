@@ -16,15 +16,15 @@
 
     "entity.tfg.glacian_ram.male": "Гласианский баран",
     "entity.tfg.glacian_ram.female": "Гласианская овца",
-    "tfg.tooltip.attribution.glacian_ram": "§9§oЗаслуга: Ad Astra",
+    "tfg.tooltip.attribution.glacian_ram": "§9§oАвтор: Ad Astra",
 
     "entity.tfg.sniffer.male": "Нюхач (Самец)",
     "entity.tfg.sniffer.female": "Нюхач (Самка)",
-    "tfg.tooltip.attribution.sniffer": "§9§oЗаслуга: Minecraft",
+    "tfg.tooltip.attribution.sniffer": "§9§oАвтор: Minecraft",
 
     "entity.tfg.wraptor.male": "Ираптор (Самец)",
     "entity.tfg.wraptor.female": "Ираптор (Самка)",
-    "tfg.tooltip.attribution.wraptor": "§9§oЗаслуга: Species",
+    "tfg.tooltip.attribution.wraptor": "§9§oАвтор: Species",
 
     "entity.tfg.surfer": "Surfer",
     "tfg.tooltip.surfer_variant.base": "Teal Hide",
