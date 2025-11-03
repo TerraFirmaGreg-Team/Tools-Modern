@@ -85,9 +85,9 @@
     "quests.ore_proc.macerator_byproduct.desc": "&bEMI&rでレシピを確認すると、&d粉砕機&rや&d石臼&rの出力欄に、実際より多くのアイテムが表示されていることに気づくかもしれません。この仕様は分かりにくいのですが、このような追加生産物は&6HV&rの機械から解放されます。&6HV&rの粉砕機が使えるようになると、鉱石1つあたりから得られる量が大幅に増えます。",
     "quests.ore_proc.macerator_byproduct.task": "Either an HV Macerator or HS Crushing Wheels",
 
-    "quests.ore_proc.sodium_persuflate.title": "過硫酸ナトリウム処理",
-    "quests.ore_proc.sodium_persuflate.subtitle": "回路基板以外の使い方",
-    "quests.ore_proc.sodium_persuflate.desc": "LV時代になると、&b化学槽&rで&d過硫酸ナトリウム&rを使った処理によって、副産物をより多く得ることができるようになります。すべての鉱石に対応してはいませんが、対応している鉱石なら、&b鉱石洗浄機&rでの確率&6(30％)&rよりも高い、&670％&rほどの確率で副産物を入手できます。\n\n過硫酸ナトリウムの大量生産はやや手間がかかりますが、原料としては&9海水&rから始めるのが簡単でおすすめです。\n\n下のクエストでは、この方法に向いている鉱石を紹介しています。",
+    "quests.ore_proc.sodium_persulfate.title": "過硫酸ナトリウム処理",
+    "quests.ore_proc.sodium_persulfate.subtitle": "回路基板以外の使い方",
+    "quests.ore_proc.sodium_persulfate.desc": "LV時代になると、&b化学槽&rで&d過硫酸ナトリウム&rを使った処理によって、副産物をより多く得ることができるようになります。すべての鉱石に対応してはいませんが、対応している鉱石なら、&b鉱石洗浄機&rでの確率&6(30％)&rよりも高い、&670％&rほどの確率で副産物を入手できます。\n\n過硫酸ナトリウムの大量生産はやや手間がかかりますが、原料としては&9海水&rから始めるのが簡単でおすすめです。\n\n下のクエストでは、この方法に向いている鉱石を紹介しています。",
 
     "quests.ore_proc.sodium_ores.title": "過硫酸ナトリウム処理の例",
     "quests.ore_proc.sodium_ores.subtitle": "時間の節約のために",
@@ -104,7 +104,7 @@
 
     "quests.ore_proc.mercury.title": "水銀処理の例",
     "quests.ore_proc.mercury.subtitle": "金属の入浴剤",
-    "quests.ore_proc.mercury.desc": "以下の鉱石は&b化学槽&rでの&d水銀処理&rに適しています:\n\n- &6砕いた白金鉱石&r：&dパラジウム&r\n\n&6砕いたニッケル鉱石&r：&dプラチナ&r\n\n-&6砕いたシェルドナイト鉱石&r：&dパラジウム&r\n\n-&6砕いた金鉱石&r：&d銀&r",
+    "quests.ore_proc.mercury.desc": "以下の鉱石は&b化学槽&rでの&d水銀処理&rに適しています:\n\n-&6砕いた白金鉱石&r：&dパラジウム&r\n\n&6-砕いたニッケル鉱石&r：&dプラチナ&r\n\n-&6砕いたシェルドナイト鉱石&r：&dパラジウム&r\n\n-&6砕いた金鉱石&r：&d銀&r",
 
     "quests.ore_proc.indium.title": "インジウムライン",
     "quests.ore_proc.indium.subtitle": "ラインとは言うものの、実は2工程しかないです",
@@ -155,6 +155,6 @@
 
     "quests.ore_proc.gem_slurry.title": "宝石の泥漿",
     "quests.ore_proc.gem_slurry.subtitle": "こんなに美しいものをドロドロに溶かすなんて正気ですか？",
-    "quests.ore_proc.gem_slurry.desc": "宝石の&6泥漿処理&rは、ルビー・サファイア・グリーンサファイア向けの特別な処理ルートです。必須ではありませんが、ちょっとした手間でより多くの資源を回収できます。 電解処理と比べて：\n\n-&cルビー泥漿&rではアルミとクロムがほぼ3倍に！\n\n- &9サファイア泥漿&rではアルミが2倍に！\n\n- &aグリーンサファイア泥漿&rでは2倍のアルミとベリリウムのおまけ付き！\n\nそのうえ、どの泥漿処理でも少量のチタン・鉄・バナジウムを追加で得られる可能性があります。",
+    "quests.ore_proc.gem_slurry.desc": "宝石の&6泥漿処理&rは、ルビー・サファイア・グリーンサファイア向けの特別な処理ルートです。必須ではありませんが、ちょっとした手間でより多くの資源を回収できます。 電解処理と比べて：\n\n-&cルビー泥漿&rではアルミとクロムがほぼ3倍に！\n\n-&9サファイア泥漿&rではアルミが2倍に！\n\n-&aグリーンサファイア泥漿&rでは2倍のアルミとベリリウムのおまけ付き！\n\nそのうえ、どの泥漿処理でも少量のチタン・鉄・バナジウムを追加で得られる可能性があります。",
     "quests.ore_proc.gem_slurry.task": "Any Gem Slurry Ore"
 }
