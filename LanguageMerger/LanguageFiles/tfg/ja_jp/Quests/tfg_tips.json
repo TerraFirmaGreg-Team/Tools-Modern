@@ -914,5 +914,33 @@
     "quests.tfg_tips.tools_tips.harvest_basket.task": "任意の#tfg:harvester",
     "quests.tfg_tips.tools_tips.harvest_basket.desc": "&l&2収穫かご&r&rは、&5TFG&rのために作られた新しい道具です！\nこれを使えば、ワンクリックで木全体や果物の茂みから収穫することができます！\n通常の&6収穫かご&rの耐久値は&n128&rです。&3アルミニウム収穫かご&rは使用時に耐久が減りません。",
    
+    "quests.tfg_tips.transportation_tips.rnr_plow.title": "舗装車",
+    "quests.tfg_tips.transportation_tips.rnr_plow.subtitle": "すべての道はあなたの拠点に通じる",
+    "quests.tfg_tips.transportation_tips.rnr_plow.desc": "道を整備すると非常に快適になりますが、道づくりのためには、右クリックという重労働が必要でした。これからは馬に道路を作らせてしまいましょう！\n&dPaving_Cart(舗装車)&rは、TFGのために特別に開発された&cAstikor_Cart&rです。このカートを使うことで、道路幅を設定したりランダムモードを利用したりして、&c舗装された道路&rを自動的に作成することができます。",
+
+    "quests.tfg_tips.tools_tips.mattocks.title": "マトック",
+    "quests.tfg_tips.tools_tips.mattocks.subtitle": "シャベルにはできなかったこと",
+    "quests.tfg_tips.tools_tips.mattocks.task0": "Any Mattock",
+    "quests.tfg_tips.tools_tips.mattocks.task1": "Any Road Material",
+    "quests.tfg_tips.tools_tips.mattocks.desc": "&cMattocks(マトック)&rは、TFGで道路を整備するための必須ツールです。他のTFCツールと同じく、鍛冶によって作成できます。\n使用する際は、モード(デフォルトキー:&3&lN&r&r)を「フルブロック」に切り替えてください。\nそうすると土や草を右クリックして踏み固めることができ、次に&6crushed_base_course&rを敷き、その上にお好みの材料を重ねて道路を仕上げることができます。",
+
+    "quests.tfg_tips.tools_tips.base_course.title": "Base Course",
+    "quests.tfg_tips.tools_tips.base_course.subtitle": "すべての道の基礎",
+    "quests.tfg_tips.tools_tips.base_course.task": "Look at Base Course",
+
+    "quests.tfg_tips.tools_tips.gravel_roads.title": "砂利道",
+    "quests.tfg_tips.tools_tips.gravel_roads.subtitle": "ナマステ",
+    "quests.tfg_tips.tools_tips.gravel_roads.task": "Any Gravel Road Material",
+    "quests.tfg_tips.tools_tips.gravel_roads.desc": "これらの材料をbase_courseに使用すると、歩行速度が&b&l10%%&r&rアップする道路を作ることができます。",
+
+    "quests.tfg_tips.tools_tips.brick_roads.title": "レンガ歩道",
+    "quests.tfg_tips.tools_tips.brick_roads.subtitle": "人の道",
+    "quests.tfg_tips.tools_tips.brick_roads.task": "Any Brick Road Material",
+    "quests.tfg_tips.tools_tips.brick_roads.desc": "これらの材料をbase_courseに使用すると、歩行速度が&b&l20%%&r&rアップする道路を作ることができます。",
+
+    "quests.tfg_tips.tools_tips.concrete_roads.title": "コンクリート道路",
+    "quests.tfg_tips.tools_tips.concrete_roads.subtitle": "道路のための労働",
+    "quests.tfg_tips.tools_tips.concrete_roads.desc": "&6Wet_concrete_mix&rをbase_courseに使用すると、移動速度が&b&l30%%&r&rアップする道路を作ることができます。\n\n&4コンクリート道路を作る際は&4注意してください&r。ひび割れや損傷を防ぐために気を付けるべきことが多くあります。詳細は、&3フィールドガイド&rを参照してください。",
+    
     "__comment18": "#endregion"
 }
