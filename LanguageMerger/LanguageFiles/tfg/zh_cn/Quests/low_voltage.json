@@ -36,7 +36,7 @@
     "quests.low_voltage.lv_combuston_gen.subtitle": "它会轰隆作响并产生能量",
     "quests.low_voltage.lv_combuston_gen.desc": "&7LV内燃发电机&r的制作成本可能略高于其他发电机，但其燃料蕴含极高能量。这使得它更便于携带——当需要为远离基地的发电机供能时，一桶&2生物柴油&r即可传输大量电力。\n\n与其他&7LV发电机&r一样，它可产生&a32EU/t&r的能量。",
     "quests.low_voltage.lv_biodiesel.title": "生物柴油",
-    "quests.low_voltage.lv_biodiesel.subtitle": "你的第一种内燃燃料",
+    "quests.low_voltage.lv_biodiesel.subtitle": "你的第一种内燃机燃料",
     "quests.low_voltage.lv_biodiesel.desc": "你需要一个&7LV化学反应釜&r来制造&2生物柴油&r。只需将&a种子油&r与来自&6群峦传说&r的任何&e酒精&r混合即可。使用&d乙醇&r的其他配方需达到&bMV&r阶段方可解锁。",
     "quests.low_voltage.lv_seed_oil.title": "种子油",
     "quests.low_voltage.lv_seed_oil.subtitle": "植物的真正力量",

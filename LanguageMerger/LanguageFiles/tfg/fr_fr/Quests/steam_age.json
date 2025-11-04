@@ -267,7 +267,7 @@
 
 	"quests.steam_age.paper.title": "Paper",
 	"quests.steam_age.paper.subtitle": "Not from sugarcane",
-	"quests.steam_age.paper.desc": "If you haven't made any yet, there's three different ways to get paper without electricity.\n\n1) Craft vellum out of a hide, pumice, and an egg.\n\n2) Weave together papyrus.\n\n3) Craft it out of hardwood through a lengthy process.\n\nYou can later turn wood pulp directly into paper with an LV Chemical Bath.",
+	"quests.steam_age.paper.desc": "If you haven't made any yet, there's three different ways to get paper without electricity.\n\n1) Craft vellum out of a hide, pumice, and an egg.\n\n2) Weave together papyrus.\n\n3) Craft it out of hardwood through a lengthy process.\n\nYou can later turn wood pulp directly into paper with fewer steps.",
 
 	"quests.steam_age.lv_circuit.title": "Your first circuit!",
 	"quests.steam_age.lv_circuit.subtitle": "The dawn of a new age",

@@ -36,6 +36,8 @@
     "tfg.tooltip.surfer_variant.brain": "Glacian Hide",
     "tfg.tooltip.attribution.surfer": "§9§oCredit: Wan's Ancient Beasts",
 
+    "entity.tfg.rnr_plow": "Paving Cart",
+
     "effect.tfg.cooling": "§bCooling",
     "effect.tfg.warming": "§6Warming",
 
@@ -197,6 +199,9 @@
 
     "tfg.gui.refrigerator.unify_dates.enabled": "Expiration Date Unification is: §aOn",
     "tfg.gui.refrigerator.unify_dates.disabled": "Expiration Date Unification is: §cOff",
-    "tfg.machine.food_refrigerator_power_usage": "§7Consumes§r %s EU/t §7while active to keep your food fresh.§r"
+    "tfg.machine.food_refrigerator_power_usage": "§7Consumes§r %s EU/t §7while active to keep your food fresh.§r",
 
+    "tfg.gui.rnr_plow.random_mode": "Randomize Materials",
+    "tfg.gui.rnr_plow.width": "Path Width: %d Blocks",
+    "tfg.gui.rnr_plow.empty_crushed_base_course": "§cMissing Crushed Base Course!!"
 }

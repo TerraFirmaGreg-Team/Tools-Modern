@@ -299,7 +299,7 @@
 
     "quests.medium_voltage.mv_ulpic.title": "ULPIC Chips",
     "quests.medium_voltage.mv_ulpic.subtitle": "Pickin' up Chips",
-    "quests.medium_voltage.mv_ulpic.desc": "Using a Sapphire Lens, engrave a Silicon Wafer into an ULPIC Wafer.\n\nThis can be processed in a Cutter for ULPIC Chips, which are important for some multiblock components!\n\nMore specificaly ",
+    "quests.medium_voltage.mv_ulpic.desc": "Using a Sapphire Lens, engrave a Silicon Wafer into an ULPIC Wafer.\n\nThis can be processed in a Cutter for ULPIC Chips, which are important for some multiblock components!\n\nMore specificaly the MV Energy Hatch that you will need to bring your EBF to HV energy tier.",
 
     "quests.medium_voltage.mv_ic.title": "IC Chips",
     "quests.medium_voltage.mv_ic.subtitle": "I C U",
