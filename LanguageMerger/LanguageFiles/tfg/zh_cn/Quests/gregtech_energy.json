@@ -1,5 +1,5 @@
 {
-    "quests.gregtech_energy": "格雷科技能源系统",
+    "quests.gregtech_energy": "格雷科技能源",
     "quests.gregtech_energy.subtitle": "这一切到底是怎么工作的？",
     "quests.gregtech_energy.start.title": "让我们做些解释",
     "quests.gregtech_energy.start.desc": "我们知道格雷科技并不是最容易上手的模组——尤其是在&c能源系统&r方面。这就是为什么我们将在本章节中花时间尽可能多地解释。\n\n这里的一些内容可能在你进程的后期才能完全理解，所以不要给自己压力。现在只需试着理解你能理解的，并随时&d回到本章节&r提问。\n\n我们将本章节分为&e四个类别&r，每个类别涵盖一个与格雷科技能源系统相关的主题。我们将提供尽可能多的示例来帮助你理解其工作原理。",
