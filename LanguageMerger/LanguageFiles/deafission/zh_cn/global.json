@@ -10,6 +10,23 @@
 
   "block.deafission.redstone_port": "红石端口",
   "deafission.machine.redstone_port.tooltip": "使用扳手切换工作模式。",
+  "deafission.redstone_port.mode.heat": "输出热量/最大值",
+  "deafission.redstone_port.mode.fuels": "输出燃料数/支架数",
+
+  "deafission.fission_reactor.gui.mode.default": "正常运行",
+  "deafission.fission_reactor.gui.mode.cooldown": "冷却中",
+  "deafission.fission_reactor.gui.stats": "%s 热 %s 限 %s 效",
+  "deafission.fission_reactor.gui.recipe": "配方: %s",
+  "deafission.fission_reactor.gui.recipe_none": "配方: 无",
+  "deafission.fission_reactor.gui.coolant": "冷却剂: %s mB/t",
+  "deafission.fission_reactor.gui.coolant_missing": "冷却剂: %s (原有 %s%%)",
+  "deafission.fission_reactor.gui.fuel": "燃料: %s 损伤度",
+  "deafission.fission_reactor.gui.fuel_throttle": "燃料: %s 损伤度 @ %s%%",
+  "deafission.fission_reactor.gui.cooling": "冷却: %s HU/t",
+  "deafission.fission_reactor.gui.heating": "加热: %s HU/t",
+  "deafission.fission_reactor.gui.processing": "处理中: %s HU/t",
+  "deafission.fission_reactor.gui.mass": "质量: %s HU/°",
+  "deafission.fission_reactor.gui.heat": "热量: %s / %s",
 
   "item.deafission.fuelcell_plutonium_x1": "钚燃料单元",
   "item.deafission.fuelcell_thorium_x1": "钍燃料单元",
@@ -20,6 +37,8 @@
 
   "tooltip.deafission.fuelcell.rodcount": "燃料棒数量: %s",
   "tooltip.deafission.fuelcell.heat": "热量: %s%%",
+  "tooltip.deafission.fuelcell.avgheat": "平均生命周期: %s 热量",
+  "tooltip.deafission.fuelcell.avgheat_none": "平均生命周期: §7--- §r热量",
 
   "config.jade.plugin_deafission.reactor": "显示反应堆信息",
 
@@ -40,5 +59,7 @@
   "emi.deafission.throttle_component_value": "%d",
 
   "emi.deafission.efficiency_component_key": "效率:",
-  "emi.deafission.efficiency_component_value": "%d"
+  "emi.deafission.efficiency_component_value": "%d",
+
+  "deafission.subtitles.reactor_loop": "反应堆嗡鸣声"
 }
