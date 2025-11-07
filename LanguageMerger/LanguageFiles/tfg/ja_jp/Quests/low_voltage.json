@@ -314,7 +314,7 @@
 
 	"quests.low_voltage.cupronickel_coil.title": "キュプロニッケルコイル",
 	"quests.low_voltage.cupronickel_coil.subtitle": "コイルの赤ちゃん",
-	"quests.low_voltage.cupronickel_coil.desc": "最初のEBF用のコイルを作るために、&aキュプロニッケルを128個&r、&aブロンズを32個&r、&a錫合金を16個&r用意しましょう。\n\nこれはEBFのコイルの部分の要求素材に過ぎません。さらにインバーとスチールをそれぞれ1スタックずつ用意する必要があるので、採掘も進めてください。\n\nキュプロニッケルコイルを使うことで、EBFは最大&d1,800K&rのレシピを処理できるようになります(電圧ボーナスは無視)。なかなかアツいですね。\n\n「&6GregTechの電力システム&r&6」の章にある高炉に関する説明も確認して、さらに詳しく学んでください！&r",
+	"quests.low_voltage.cupronickel_coil.desc": "最初のEBF用のコイルを作るために、&aキュプロニッケルを128個&r、&aブロンズを32個&r、&a錫合金を16個&r用意しましょう。\n\nこれはEBFのコイルの部分の要求素材に過ぎません。さらにインバーとスチールをそれぞれ1スタックずつ用意する必要があるので、採掘も進めてください。\n\nキュプロニッケルコイルを使うことで、EBFは最大&d1,800K&rのレシピを処理できるようになります(電圧ボーナスは無視)。なかなかアツいですね。\n\n「&6GregTechの電力システム&r&6」の章にある機械高炉に関する説明も確認して、さらに詳しく学んでください！&r",
 
 	"quests.low_voltage.lv_ebf.title": "工業用電気炉",
 	"quests.low_voltage.lv_ebf.subtitle": "GregTechの中心で、愛を叫ぶ",
