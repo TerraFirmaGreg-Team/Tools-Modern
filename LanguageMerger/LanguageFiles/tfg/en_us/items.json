@@ -123,7 +123,6 @@
     "item.tfg.food.cooked_limpet": "Cooked Limpet",
     "item.tfg.food.raw_moon_rabbit": "Raw Moon Rabbit",
     "item.tfg.food.cooked_moon_rabbit": "Cooked Moon Rabbit",
-    "item.tfg.spawn_egg.moon_rabbit": "Moon Rabbit Spawn Egg",
     "item.tfg.food.freeze_dried.red_grapes": "Freeze Dried Red Grapes",
     "item.tfg.food.freeze_dried.white_grapes": "Freeze Dried White Grapes",
     "item.tfg.food.freeze_dried.glow_berries": "Freeze Dried Glow Berries",
@@ -162,10 +161,8 @@
 
     "item.tfg.food.raw_glacian_mutton": "Raw Glacian Mutton",
     "item.tfg.food.cooked_glacian_mutton": "Cooked Glacian Mutton",
-    "item.tfg.spawn_egg.glacian_ram": "Glacian Spawn Egg",
     "item.tfg.food.raw_sniffer_beef": "Raw Sniffer Beef",
     "item.tfg.food.cooked_sniffer_beef": "Cooked Sniffer Beef",
-    "item.tfg.spawn_egg.sniffer": "Sniffer Spawn Egg",
     "item.tfg.food.raw_wraptor": "Raw Wraptor",
     "item.tfg.food.cooked_wraptor": "Cooked Wraptor",
     "item.tfg.food.raw_springling_collar": "Raw Springling Collar",
@@ -197,6 +194,12 @@
     "item.tfg.sunflower_product": "Sunflower Cap",
     "item.tfg.rapeseed_seeds": "Canola Seeds",
     "item.tfg.rapeseed_product": "Canola Ovules",
+    
+    "item.tfg.spawn_egg.moon_rabbit": "Moon Rabbit Spawn Egg",
+    "item.tfg.spawn_egg.surfer": "Surfer Spawn Egg",
+    "item.tfg.spawn_egg.wraptor": "Wraptor Spawn Egg",
+    "item.tfg.spawn_egg.glacian_ram": "Glacian Spawn Egg",
+    "item.tfg.spawn_egg.sniffer": "Sniffer Spawn Egg",
 
     "item.tfg.flintlock_mechanism": "Flintlock Mechanism",
     "item.tfg.advanced_clockwork_mechanism": "Advanced Clockwork Mechanism",
