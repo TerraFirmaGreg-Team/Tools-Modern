@@ -302,5 +302,11 @@
     "item.tfg.smd_uv_led": "§fLED §dUltravioleta §fSMD",
 
     "item.tfg.rnr_plow": "Carrinho Pavimentador",
-    "item.tfg.cobalt_brass_wheel": "Roda de Latão Cobalto"
+    "item.tfg.cobalt_brass_wheel": "Roda de Latão Cobalto",
+
+    "item.tfg.cellulose_matrix": "Matriz de Celulose",
+    "item.tfg.smooth_endoplasmic_reticula": "Retículo Endoplasmático Liso",
+    "item.tfg.rough_endoplasmic_reticula": "Retículo Endoplasmático Rugoso",
+    "item.tfg.alpha_keratin": "α-Queratina",
+    "item.tfg.progenitor_cells": "Células Progenitoras"
 }

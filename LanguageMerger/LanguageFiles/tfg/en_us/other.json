@@ -203,5 +203,7 @@
 
     "tfg.gui.rnr_plow.random_mode": "Randomize Materials",
     "tfg.gui.rnr_plow.width": "Path Width: %d Blocks",
-    "tfg.gui.rnr_plow.empty_crushed_base_course": "§cMissing Crushed Base Course!!"
+    "tfg.gui.rnr_plow.empty_crushed_base_course": "§cMissing Crushed Base Course!!",
+
+    "tfg.tooltip.progenitor_cells.mob": "Animal culture: "
 }

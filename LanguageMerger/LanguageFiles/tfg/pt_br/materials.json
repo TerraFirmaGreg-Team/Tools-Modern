@@ -77,5 +77,19 @@
     "material.tfg.goethe_regolith": "Rególito Goethe",
     "material.tfg.bright_regolith": "Rególito Brilhante",
     "material.tfg.cassiterite_regolith": "Rególito Cassiterita",
-    "material.tfg.regolith_mush": "Massa de Rególito"
+    "material.tfg.regolith_mush": "Massa de Rególito",
+
+    "material.tfg.lauryl_alcohol": "Álcool Laurílico",
+    "material.tfg.chlorosulfuric_acid": "Ácido Clorossulfúrico",
+    "material.tfg.sodium_dodecyl_sulfate": "Dodecil Sulfato de Sódio",
+    "material.tfg.sodium_hypochlorite": "Hipoclorito de Sódio",
+    "material.tfg.mutative_yeast": "Levedura Mutativa",
+    "material.tfg.proto_growth_medium": "Meio de Crescimento Proto",
+    "material.tfg.fibroblast_feeder_cells": "Células Alimentadoras de Fibroblastos",
+    "material.tfg.gram_stain": "Coloração de Gram",
+    "material.tfg.crystal_violet": "Cristal Violeta",
+    "material.tfg.n_n_dimethylaniline": "N,N-Dimetilanilina",
+    "material.tfg.triglyceride_oil": "Óleo de Triglicerídeos",
+    "material.tfg.cholesterol": "Colesterol",
+    "material.tfg.butyric_acid": "Ácido Butírico"
 }
