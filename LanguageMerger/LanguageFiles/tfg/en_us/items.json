@@ -378,5 +378,11 @@
     "item.tfg.bell_casting_mold": "Bell Casting Mold",
 
     "item.tfg.rnr_plow": "Paving Cart",
-    "item.tfg.cobalt_brass_wheel": "Cobalt Brass Wheel"
+    "item.tfg.cobalt_brass_wheel": "Cobalt Brass Wheel",
+
+    "item.tfg.cellulose_matrix": "Cellulose Matrix",
+    "item.tfg.smooth_endoplasmic_reticula": "Smooth Endoplasmic Reticula",
+    "item.tfg.rough_endoplasmic_reticula": "Rough Endoplasmic Reticula",
+    "item.tfg.alpha_keratin": "α-Keratin",
+    "item.tfg.progenitor_cells": "Progenitor Cells"
 }

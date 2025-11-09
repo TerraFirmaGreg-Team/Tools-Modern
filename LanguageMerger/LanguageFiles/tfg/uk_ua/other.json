@@ -21,6 +21,16 @@
     "entity.tfg.wraptor.male": "Враптор",
     "entity.tfg.wraptor.female": "Враптор",
     "tfg.tooltip.attribution.wraptor": "§9§oCredit: Species",
+    "entity.tfg.surfer": "Серфер",
+    "tfg.tooltip.surfer_variant.base": "Бірюзова шкіра",
+    "__comment": "Для пурпурового, жовтого, синього, червоного та рожевого кольорів. Можеш щось вигадати!",
+    "tfg.tooltip.surfer_variant.bubble": "Шкіра з ягідного цвіту",
+    "tfg.tooltip.surfer_variant.horn": "Золота шкіра",
+    "tfg.tooltip.surfer_variant.tube": "Шкіра з ягід Нокс",
+    "tfg.tooltip.surfer_variant.fire": "Шкіра Сангнум",
+    "tfg.tooltip.surfer_variant.brain": "Шкіра Ґлаціан",
+    "tfg.tooltip.attribution.surfer": "§9§oАвтор: Wan's Ancient Beasts",
+    "entity.tfg.rnr_plow": "Візок для мощення",
     "effect.tfg.cooling": "§bОхолодження",
     "effect.tfg.warming": "§6Розігрів",
     "tfg.greate.uls_limit": "§432§r (§8ULS§r)",
@@ -164,5 +174,10 @@
     "tfg.tooltip.component.refrigerant_pellet": "Може використовуватися як вхід у реакторі поділу для його охолодження, потребує тримача матеріалів",
     "tfg.tooltip.component.nuclear_turbine_1": "§eБазове виробництво:§r 4096 EU/t",
     "tfg.tooltip.component.nuclear_turbine_2": "Кожен тримач ротора вище §5EV§r §7додає§r 10% ефективності та множить EU/t на 2.",
-    "tfg.machine.food_refrigerator_power_usage": "§7Споживає§r %s EU/t §7під час роботи, щоб зберігати вашу їжу свіжою.§r"
+    "tfg.gui.refrigerator.unify_dates.enabled": "Уніфікація дати закінчення: §aУвімкнено",
+    "tfg.gui.refrigerator.unify_dates.disabled": "Уніфікація дати закінчення: §cВимкнено",
+    "tfg.machine.food_refrigerator_power_usage": "§7Споживає§r %s EU/t §7під час роботи, щоб зберігати вашу їжу свіжою.§r",
+    "tfg.gui.rnr_plow.random_mode": "Рандомізувати матеріали",
+    "tfg.gui.rnr_plow.width": "Ширина шляху: %d блоків",
+    "tfg.gui.rnr_plow.empty_crushed_base_course": "§cВідсутній шар щебеневої основи!!"
 }

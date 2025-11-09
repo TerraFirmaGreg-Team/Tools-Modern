@@ -210,7 +210,7 @@
 
     "item.tfg.rocket_cone_t2": "Improved Rocket Nose Cone",
     "item.tfg.rocket_fin_t2": "Improved Rocket Fin",
-    "item.tfg.cryo_fluix_pearl": "Cryogenized Fluix Pearl",
+    "item.tfg.cryo_fluix_pearl": "超低温フルーシュパール",
 
     "item.tfg.marker.earth_orbit": "Earth Orbit",
     "item.tfg.marker.moon_orbit": "Moon Orbit",
@@ -259,8 +259,8 @@
     "item.tfg.rocket_cone_t3": "Advanced Rocket Nose Cone",
     "item.tfg.rocket_fin_t3": "Advanced Rocket Fin",
     "item.tfg.elite_power_thruster": "§aElite Power Thruster",
-    "item.tfg.silica_aerogel": "Silica Aerogel",
-    "item.tfg.better_space_suit_fabric": "宇宙服の強化生地",
+    "item.tfg.vｆ": "シリカエアロゲル",
+    "item.tfg.bｆtter_space_suit_fabric": "宇宙服の強化生地",
 
     "item.tfg.universal_compost_browns": "Brown Universal Compost",
     "item.tfg.universal_compost_greens": "Green Universal Compost",
@@ -293,7 +293,7 @@
     "item.tfg.small_casing_extruder_mold": "Extruder Mold (Small Bullet Casing)",
     "item.tfg.shell_casing_extruder_mold": "Extruder Mold (Shell Bullet Casing)",
     "item.tfg.large_casing_extruder_mold": "Extruder Mold (Large Bullet Casing)",
-    "item.tfg.photo_cell_t1": "Basic Photovoltaic Cell",
+    "item.tfg.photo_cell_t1": "基本型太陽電池",
 
     "item.tfg.electric_extendo_grip": "Electric Extendo Grip",
 
@@ -308,7 +308,7 @@
     "item.tfg.linen_thread": "リネンの糸",
     "item.tfg.linen_cloth": "リネン",
 
-    "item.tfg.uv_led": "§dUltraviolet §fLED",
+    "item.tfg.ulled": "§dUltraviolet §fLED",
     "item.tfg.smd_uv_led": "§fSMD §dUltraviolet §fLED",
 
     "item.tfg.empty_dna_syringe": "Empty Syringe",

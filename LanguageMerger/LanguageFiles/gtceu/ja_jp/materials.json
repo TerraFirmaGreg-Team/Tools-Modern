@@ -1,26 +1,26 @@
 {
 	"material.gtceu.ice": "Ice Slush",
 	"material.gtceu.damascus_steel": "Swine-steel",
-	"material.gtceu.air": "Earth Air",
-	"material.gtceu.liquid_air": "Liquid Earth Air",
+	"material.gtceu.air": "空気",
+	"material.gtceu.liquid_air": "液体空気",
 
 	"__comment1": "Sorry GT, big bang theory doesn't count as a scifi reference",
 	
-	"material.gtceu.cooperite": "Cooperite",
-	"material.gtceu.armalcolite": "Armalcolite",
-	"material.gtceu.desh": "Desh",
-	"material.gtceu.ostrum": "Ostrum",
-	"material.gtceu.calorite": "Calorite",
-	"material.gtceu.etrium": "Etrium",
+	"material.gtceu.cooperite": "クーパー鉱",
+	"material.gtceu.armalcolite": "アーマルコライト",
+	"material.gtceu.desh": "デッシュ",
+	"material.gtceu.ostrum": "オストラム",
+	"material.gtceu.calorite": "カロライト",
+	"material.gtceu.etrium": "エトリウム",
 
 
-	"material.gtceu.aluminium_silicate": "Aluminium Silicate",
+	"material.gtceu.aluminium_silicate": "ケイ酸アルミニウム",
 
 	"material.gtceu.rocket_alloy_t1": "R-Aluminosteel Rocket Alloy",
 	"material.gtceu.rocket_alloy_t2": "ASM 4914 Titanium Rocket Alloy",
 	"material.gtceu.rocket_alloy_t3": "45-Ti Tungstensteel Rocket Alloy",
-  	"material.gtceu.vitrified_asbestos": "Vitrified Asbestos",
- 	"material.gtceu.liquid_carbon_dioxide": "Liquid Carbon Dioxide",
+  	"material.gtceu.vitrified_asbestos": "ガラス化した石綿",
+ 	"material.gtceu.liquid_carbon_dioxide": "液化二酸化炭素",
 	
 	"__comment2": "Nuclear Material",
 

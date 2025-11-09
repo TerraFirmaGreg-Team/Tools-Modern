@@ -314,7 +314,7 @@
 
 	"quests.low_voltage.cupronickel_coil.title": "キュプロニッケルコイル",
 	"quests.low_voltage.cupronickel_coil.subtitle": "コイルの赤ちゃん",
-	"quests.low_voltage.cupronickel_coil.desc": "最初のEBF用のコイルを作るために、&aキュプロニッケルを128個&r、&aブロンズを32個&r、&a錫合金を16個&r用意しましょう。\n\nこれはEBFのコイルの部分の要求素材に過ぎません。さらにインバーとスチールをそれぞれ1スタックずつ用意する必要があるので、採掘も進めてください。\n\nキュプロニッケルコイルを使うことで、EBFは最大&d1,800K&rのレシピを処理できるようになります(電圧ボーナスは無視)。なかなかアツいですね。\n\n「&6GregTechの電力システム&r&6」の章にある高炉に関する説明も確認して、さらに詳しく学んでください！&r",
+	"quests.low_voltage.cupronickel_coil.desc": "最初のEBF用のコイルを作るために、&aキュプロニッケルを128個&r、&aブロンズを32個&r、&a錫合金を16個&r用意しましょう。\n\nこれはEBFのコイルの部分の要求素材に過ぎません。さらにインバーとスチールをそれぞれ1スタックずつ用意する必要があるので、採掘も進めてください。\n\nキュプロニッケルコイルを使うことで、EBFは最大&d1,800K&rのレシピを処理できるようになります(電圧ボーナスは無視)。なかなかアツいですね。\n\n「&6GregTechの電力システム&r&6」の章にある機械高炉に関する説明も確認して、さらに詳しく学んでください！&r",
 
 	"quests.low_voltage.lv_ebf.title": "工業用電気炉",
 	"quests.low_voltage.lv_ebf.subtitle": "GregTechの中心で、愛を叫ぶ",
@@ -323,7 +323,7 @@
 
 	"quests.low_voltage.multiblock_tech.title": "マルチブロック構造について",
 	"quests.low_voltage.multiblock_tech.subtitle": "デカいことはいいことだ",
-	"quests.low_voltage.multiblock_tech.desc": "これは、初めて&bEBF&rを作る方に向けた、マルチブロックの&6基本&rの説明です。\n\nマルチブロックのカスタマイズの幅は広いです。マルチブロックの本体となるブロック(コントローラーといいます)に&6U&rキーを押し&6EMI&rのマルチブロック情報を開き、構造ブロックを&6左クリック&rしてどの種類のブロックが使えるかを確認してみましょう。\n\n重要なポイントとして、エネルギーハッチはそれぞれ１つで&a2A&rまで対応でき、&7LV&rでは&a64EU/t&rを受け取れます。つまり、2つあれば&eEBF&rは&a128EU/t&r(MV相当の電圧)で動かせます。\n\n詳しい仕組みは「&eGregTech電力システム&r」章の「&e電力消費&r」の項目を参照してください。\n\nマルチブロックにはさまざまな面白い仕組みがありますが、最初は難しく考える必要はありません。進めながら少しずつ理解していきましょう。",
+	"quests.low_voltage.multiblock_tech.desc": "これは、初めて&bEBF&rを作る方に向けた、マルチブロックの&6基本&rの説明です。\n\nマルチブロックのカスタマイズの幅は広いです。マルチブロックの本体となるブロック(コントローラーといいます)に&6U&rキーを押し&6EMI&rのマルチブロック情報を開き、構造ブロックを&6左クリック&rしてどの種類のブロックが使えるかを確認してみましょう。\n\n重要なポイントとして、エネルギーハッチはそれぞれ１つで&a2A&rまで対応でき、&7LV&rでは&a64EU/t&rを受け取れます。つまり、2つあれば&eEBF&rは&a128EU/t&r(MV相当の電圧)で動かせます。\n\n詳しい仕組みは「&eGregTech電力システム&r」章の「&e電力運用について&r」の項目を参照してください。\n\nマルチブロックにはさまざまな面白い仕組みがありますが、最初は難しく考える必要はありません。進めながら少しずつ理解していきましょう。",
 	"quests.low_voltage.multiblock_tech.task.1": "Input Bus",
 	"quests.low_voltage.multiblock_tech.task.2": "Output Bus",
 	"quests.low_voltage.multiblock_tech.task.3": "Input Hatch",
@@ -334,10 +334,10 @@
 	"quests.low_voltage.lv_superconductor.desc.2": "&l&3余談：&r&oGregicalityやGTCEu以前には、GregTechのどのバージョンにも、&7LV&f用の本物の超伝導体は存在しなかったんだよ。一部のModPackに損失ゼロのケーブルがあったくらいだね。",
 
 	"quests.low_voltage.aluminium_dust.title": "アルミニウムの粉",
-	"quests.low_voltage.aluminium_dust.subtitle": "Time for an adventure",
+	"quests.low_voltage.aluminium_dust.subtitle": "必要なのは鉱石処理の技術",
 	"quests.low_voltage.aluminium_dust.desc": "電解することでアルミニウムを生むことができる鉱石はいくつかありますが、ほとんどは&bMV&rに入ってからです。\n例外として、鉱石処理の過程で副産物としてアルミニウム粉が得られる鉱石もあります。EMIで利用可能な方法を確認し、&2フィールドガイド&rで各鉱石の採掘場所をチェックしましょう。\n\n十分なアルミニウムが集まったら、最初のMV機械として電解槽を作るのがおすすめです。これで、さらにアルミニウムを確保しやすくなります。\n\nEBFが完成していれば、MVまであと少しですよ！",
 
-	"quests.low_voltage.aluminium_ingot.title": "Your first Aluminium Ingot",
+	"quests.low_voltage.aluminium_ingot.title": "アルミニウムインゴット",
 	"quests.low_voltage.aluminium_ingot.subtitle": "MVの入り口のカギ",
 	"quests.low_voltage.aluminium_ingot.desc": "さて、&bMV&r回路も一緒にご提示願います。\n\n&aアルミニウム&rは&bMV&r機械を作るための主要素材です。大量に必要になりますので、しっかりと準備しておきましょう。\n\nアルミニウムの精錬は、&9窒素&rを使うことで約3分の1早くなります。窒素は&3ガス収集機&rで確保した&9空気&rを遠心分離することで入手できます。\n\n&6MV機械を作るには、もちろんMV回路も必要ですよ！&r",
 

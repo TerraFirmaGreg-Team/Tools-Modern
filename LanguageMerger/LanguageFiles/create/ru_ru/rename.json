@@ -1,0 +1,11 @@
+{
+  "block.create.track": "Ж/д путь",
+
+  "item.create.brass_ingot": "Латунь (Слиток)",
+  "item.create.brass_nugget": "Латунь (Самородок)",
+
+  "item.create.copper_nugget": "Медь (Самородок)",
+
+  "item.create.zinc_ingot": "Цинк (Слиток)",
+  "item.create.zinc_nugget": "Цинк (Самородок)"
+}

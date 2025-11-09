@@ -134,5 +134,7 @@
 
     "tfg.gui.rnr_plow.random_mode": "Aleatorizar Materiais",
     "tfg.gui.rnr_plow.width": "Largura do Caminho: %d Blocos",
-    "tfg.gui.rnr_plow.empty_crushed_base_course": "§cFalta Camada Base Triturada!!"
+    "tfg.gui.rnr_plow.empty_crushed_base_course": "§cFalta Camada Base Triturada!!",
+
+    "tfg.tooltip.progenitor_cells.mob": "Cultura animal: "
 }
