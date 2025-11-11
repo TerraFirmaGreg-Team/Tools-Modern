@@ -60,7 +60,7 @@
     
     "quests.development.hull_hv.title": "&bMV&rおよび&6HV&rで作成可能",
     "quests.development.hull_hv.subtitle": "カントリーマアムと同じ道を辿っています",
-    "quests.development.hull_hv.desc": "&eマイクロ&r回路からは、&3クリーンルーム&rが必要になってきます。\n\n&aメインフレーム&rには&3発展型回路組立機&rが必要になるので注意してください。",
+    "quests.development.hull_hv.desc": "&eマイクロ&r回路からは、&3クリーンルーム&rが必要になってきます。\n\n&aメインフレーム&rには&3HV回路組立機&rが必要になるので注意してください。",
     
     "quests.development.hull_ev.title": "&5EV&rで作成可能",
     "quests.development.hull_ev.subtitle": "ここまで小さくなりました",

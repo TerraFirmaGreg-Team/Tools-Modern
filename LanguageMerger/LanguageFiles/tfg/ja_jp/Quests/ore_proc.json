@@ -110,9 +110,9 @@
     "quests.ore_proc.indium.subtitle": "ラインとは言うものの、実は2工程しかないです",
     "quests.ore_proc.indium.desc": "&6インジウムライン&rは、基本的に&9IV&rに到達するまでは不要です。稼働には洗浄した&b閃亜鉛鉱&rと&b方鉛鉱&rが必要になります。",
 
-    "quests.ore_proc.platline.title": "悪名高きプラチナライン",
+    "quests.ore_proc.platline.title": "悪名高き白金族ライン",
     "quests.ore_proc.platline.subtitle": "GregTech対Mekanismのオスミウムをめぐる仁義なき戦い",
-    "quests.ore_proc.platline.desc": "&6プラチナライン&rは、あなたが直面する最初の本格的な鉱石処理への挑戦です。このラインでは、&bプラチナ&rをはじめ、&bパラジウム&r、&bルテニウム&r、&bロジウム&r、&bイリジウム&r、&bオスミウム&rといったプラチナ族金属を確保できます。\n\n&bプラチナ&rや&bパラジウム&r自体は別の簡単な手段でも入手可能ですが、それ以外の希少金属を手に入れるには、このラインを進めることが絶対条件になります。\n\nプラチナラインは&6HV&r段階から着手できますが、完全に稼働させられるようになるのは&5EV&r段階以降になります。",
+    "quests.ore_proc.platline.desc": "&6白金族ライン&rは、あなたが直面する最初の本格的な鉱石処理への挑戦です。このラインでは、&bプラチナ&rをはじめ、&bパラジウム&r、&bルテニウム&r、&bロジウム&r、&bイリジウム&r、&bオスミウム&rといった白金族金属を確保できます。\n\n&bプラチナ&rや&bパラジウム&r自体は別の簡単な手段でも入手可能ですが、それ以外の希少金属を手に入れるには、このラインを進めることが絶対条件になります。\n\n白金族ラインは&6HV&r段階から着手できますが、完全に稼働させられるようになるのは&5EV&r段階以降になります。",
 
     "quests.ore_proc.electro_separator.title": "電磁分離機",
     "quests.ore_proc.electro_separator.subtitle": "おそらく、GregTechの中で最も役に立たない機械。",
