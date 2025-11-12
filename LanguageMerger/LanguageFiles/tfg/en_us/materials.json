@@ -120,5 +120,13 @@
     "material.tfg.n_n_dimethylaniline": "N,N-Dimethylaniline",
     "material.tfg.triglyceride_oil": "Triglyceride Oil",
     "material.tfg.cholesterol": "Cholesterol",
-    "material.tfg.butyric_acid": "Butyric Acid"
+    "material.tfg.butyric_acid": "Butyric Acid",
+
+    "material.tfg.zircon": "Zircon",
+    "material.tfg.silicon_tetrachloride": "Silicon Tetrachloride",
+    "material.tfg.zirconium_tetrachloride": "Zirconium Tetrachloride",
+    "material.tfg.zirconium_oxide": "Zirconia",
+    "material.tfg.zirconium_bromide": "Zirconium(IV) Bromide",
+    "material.tfg.zirconium_diboride": "Zirconium Diboride",
+    "material.tfg.boron_carbide": "Boron Carbide"
 }
