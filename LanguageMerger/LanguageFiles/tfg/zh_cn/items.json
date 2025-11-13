@@ -346,9 +346,9 @@
     "item.tfg.bell_casting_mold": "模具（钟）",
     "item.tfg.rnr_plow": "铺路车",
     "item.tfg.cobalt_brass_wheel": "钴黄铜车轮",
-    "item.tfg.cellulose_matrix": "Cellulose Matrix",
-    "item.tfg.smooth_endoplasmic_reticula": "Smooth Endoplasmic Reticula",
-    "item.tfg.rough_endoplasmic_reticula": "Rough Endoplasmic Reticula",
-    "item.tfg.alpha_keratin": "α-Keratin",
-    "item.tfg.progenitor_cells": "Progenitor Cells"
+    "item.tfg.cellulose_matrix": "纤维素基质",
+    "item.tfg.smooth_endoplasmic_reticula": "光滑内质网",
+    "item.tfg.rough_endoplasmic_reticula": "粗糙内质网",
+    "item.tfg.alpha_keratin": "α-角蛋白",
+    "item.tfg.progenitor_cells": "祖细胞"
 }

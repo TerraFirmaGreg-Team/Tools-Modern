@@ -24,6 +24,7 @@
     "quests.space_survival.solar_panels.title": "太阳能板",
     "quests.space_survival.solar_panels.subtitle": "赞美太阳！",
     "quests.space_survival.solar_panels.desc": "月球上可用的能源非常少，但这些&e太阳能板&r在这里可是拥有观赏太阳的绝佳视角！\n\n在月球上，每个太阳能板在白天提供相当于&932EU/t&r的能量，无需燃料或维护，但若将其置于地球表面，发电效率仅剩八分之一。带上一大堆吧！",
+    "quests.space_survival.solar_panels.task": "任何FE->EU能量转换器",
     "quests.space_survival.stone_dust_centrifuging.title": "氦-3",
     "quests.space_survival.stone_dust_centrifuging.subtitle": "小丑气体",
     "quests.space_survival.stone_dust_centrifuging.desc.1": "月球充满了&e氦-3&r，这是另一种重要资源，但它被困在石头里！有两种方法可以获取：\n\n1)如果你之前没有建设任何石粉离心自动化，这里有个快速介绍：碎岩机可以生产无限的原石，研磨机将其粉碎成粉供离心机处理。\n\n在月球上，斜长岩、苏长岩和响岩可以被加工成无限的氦-3来源！",
