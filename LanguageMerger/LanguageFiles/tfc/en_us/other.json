@@ -1,3 +1,6 @@
 {
-    "tfc.tooltip.propick.accuracy": "Accuracy: 100%"
+    "tfc.tooltip.propick.accuracy": "Accuracy: 100%",
+    "tfc.recipe.barrel.tfg.barrel.gouda_wheel": "Gouda Wheel",
+    "tfc.recipe.barrel.tfg.barrel.feta_wheel": "Feta Wheel",
+    "tfc.recipe.barrel.tfg.barrel.shosha_wheel": "Shosha Wheel"
 }
