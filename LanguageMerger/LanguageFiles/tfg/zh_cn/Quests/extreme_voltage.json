@@ -243,5 +243,7 @@
     "quests.extreme_voltage.martian_sludge.subtitle": "污水产线",
     "quests.extreme_voltage.martian_sludge.desc": "对六氟硅酸进行离心处理可回收氟，同时获得&6火星浆液&r——这是制备氡气与核废料的必需材料。",
     "quests.extreme_voltage.large_generators.title": "超高压发电",
-    "quests.extreme_voltage.large_generators.desc": "各种单方块发电机的上限只到HV，自此往后你必须采用多方块结构来产生更多能量。EV阶段两个最好的选择是&d大型燃气涡轮&r和&d大型内燃机&r，请移步格雷科技能源章节了解详细信息。"
+    "quests.extreme_voltage.large_generators.desc": "各种单方块发电机的上限只到HV，自此往后你必须采用多方块结构来产生更多能量。EV阶段两个最好的选择是&d大型燃气涡轮&r和&d大型内燃机&r，请移步格雷科技能源章节了解详细信息。",
+    "quests.extreme_voltage.large_centrifuge.subtitle": "材料旋转木马",
+    "quests.extreme_voltage.large_centrifuge.desc": "&6大型离心机&r是你裂变生产线中必备的多方块结构。\n\n它最多支持&52个EV能源仓&r，能够以与电力高炉相同的机制处理&1IV等级&r的配方，因此操作逻辑会让你感到熟悉。\n\n该设备拥有两种运行模式：&b离心&r与&6热力离心&r。你可直接在控制器界面切换模式，但暂不支持通过AE2或其他自动化系统远程控制。\n\n此次升级将使你的&a矿物处理&r速度实现质的飞跃。"
 }

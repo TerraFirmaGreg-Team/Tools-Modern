@@ -216,7 +216,7 @@
     "quests.steam_age.what_next.desc": "若你直接快速推进至此，建议优先制造LV卷板机、线材轧机或搅拌器等设备。\n若已制作了下面的动能机器，则建议选择组装机、电弧炉、化学反应釜或磁化机。",
     "quests.steam_age.alternator.title": "交流发电机",
     "quests.steam_age.alternator.subtitle": "将应力转化为电力",
-    "quests.steam_age.alternator.desc.1": "若你已搭建了规模可观的蒸汽时代设备，大可不必为了改用锅炉和LV蒸汽涡轮而立即将其全部拆除。&3交流发电机&r能够将蒸汽引擎产生的应力单位转化为电力。每台蒸汽引擎配合交流发电机可输出1安LV电流！但需注意，交流发电机是将应力转换为了另一套电力系统，因此你需要通过能量转换器将其转化为格雷科技可用的LV电力。",
+    "quests.steam_age.alternator.desc.1": "若你已搭建了规模可观的蒸汽时代设备，大可不必为了改用锅炉和LV蒸汽涡轮而立即将其全部拆除。&3交流发电机&r能够将蒸汽引擎产生的应力单位转化为电力。每台蒸汽引擎配合交流发电机可输出1安LV电流！\n\n但需注意，交流发电机是将应力转换为了另一套电力系统（FE），因此你需要通过能量转换器将其转化为格雷科技可用的LV电力（EU）。记得用软槌将其切换至\"FE转EU\"模式。",
     "quests.steam_age.alternator.desc.2": "一个蒸汽引擎输出8安LV电流的示例！\n",
     "quests.steam_age.packager.title": "机械动力物流",
     "quests.steam_age.packager.subtitle": "“我们家有AE2”",
