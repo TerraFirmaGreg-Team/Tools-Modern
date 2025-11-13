@@ -627,5 +627,9 @@
 	"block.tfg.cooling_tower": "Ядерна градирня",
 	"block.tfg.growth_monitor": "Монітор росту",
 	"block.tfg.sample_rack": "Стійка для зразків",
-	"block.tfg.casings.machine_casing_sterilizing_pipes": "Стерилізаційні труби"
+	"block.tfg.casings.machine_casing_sterilizing_pipes": "Стерилізаційні труби",
+	"block.tfg.moderate_core": "Помірне ядро",
+	"block.tfg.impure_moderate_core": "Нечисте помірне ядро",
+	"block.tfg.moderate_core_frame": "Каркас помірного ядра",
+	"block.tfg.impure_moderate_core_frame": "Каркас нечистого помірного ядра"
 }

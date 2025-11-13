@@ -1,3 +1,6 @@
 {
-    "tfc.tooltip.propick.accuracy": "Точність: 100%"
+    "tfc.tooltip.propick.accuracy": "Точність: 100%",
+    "tfc.recipe.barrel.tfg.barrel.gouda_wheel": "Колесо Гауда",
+    "tfc.recipe.barrel.tfg.barrel.feta_wheel": "Колесо Фети",
+    "tfc.recipe.barrel.tfg.barrel.shosha_wheel": "Колесо Шоша"
 }
