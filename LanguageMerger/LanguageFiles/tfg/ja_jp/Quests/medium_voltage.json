@@ -247,25 +247,25 @@
 
     "quests.medium_voltage.hv_machine_hull.title": "HVマシン筐体",
     "quests.medium_voltage.hv_machine_hull.subtitle": "第四のマシン筐体",
-    "quests.medium_voltage.hv_machine_hull.desc": "&6HVマシン筐体&r、ついに完成！\n\nここまでに、あなたは&d化学物質&rの使い方、&d電気高炉&rの強化、&c新たな合金&rの作成、&aウェハー&rと&aレーザー刻印機&rの扱いなど、Gregtechの重要な要素をいくつも学んできました。\n\nHV以降では、ますます複雑な世界があなたを待っています。そして、それらを簡単にするための機械やシステムも次々と登場します。\n\n&6HV&rのクエストはこれで解禁となりますが、まだ1つ、HVに行くために忘れてはならないものがあります。\n\n特に、&6HV&r回路の上位品は絶対に作っておきましょう。\n\nそれらも作成したのであれば、名実ともにHV時代の始まりです！",
+    "quests.medium_voltage.hv_machine_hull.desc": "&6HVマシン筐体&r、ついに完成！\n\nここまでに、あなたは&d化学物質&rの使い方、&dEBF&rの強化、&c新たな合金&rの作成、&aウェハー&rと&aレーザー刻印機&rの扱いなど、Gregtechの重要な要素をいくつも学んできました。\n\nHV以降では、ますます複雑な世界があなたを待っています。そして、それらを簡単にするための機械やシステムも次々と登場します。\n\n&6HV&rのクエストはこれで解禁となりますが、まだ1つ、HVに行くために忘れてはならないものがあります。\n\n特に、&6HV&r回路の上位品は絶対に作っておきましょう。\n\nそれらも作成したのであれば、名実ともにHV時代の始まりです！",
 
     "quests.medium_voltage.mv_stainless.title": "ステンレス鋼",
     "quests.medium_voltage.mv_stainless.subtitle": "HVまであと一歩",
     "quests.medium_voltage.mv_stainless.desc.1": "実生活で見る鋼の大半は&7ステンレス鋼&rです。ステンレス鋼には、腐食にとても強いという特徴があります。\n\n&6HV&r機械の作成には、ステンレス鋼が必要となります。ちょうど&bMV&rにおけるアルミニウム、&7LV&rにおける鋼鉄のような働きをします。また、&3蒸留塔&rの作成にも大量に要求されます。\n\nステンレス鋼の作成には、&cクロム&rと&2マンガン&rが必要です。前者はルビーやクロマイト、後者は軟マンガン鉱から入手できます。",
-    "quests.medium_voltage.mv_stainless.desc.2": "ステンレス鋼の精錬には、&dHV電力&rが必要です。現時点ではHVの発電は不可能なので、昇圧してつくりましょう。\n\nまた、そろそろ電気高炉の2基目を作るとよいでしょう。電気高炉の筐体は共有できるため、必要なコイルは通常よりも6個少ない&a10&r個で済みます。\n\n一方を&bMV&rで精錬可能なものに使用し、もう一方に&3MVエネルギーハッチ&rを付けて&6HV&r用にするとよいでしょう。",
+    "quests.medium_voltage.mv_stainless.desc.2": "ステンレス鋼の精錬には、&dHV電力&rが必要です。現時点ではHVの発電は不可能なので、昇圧してつくりましょう。\n\nまた、そろそろEBFの2基目を作るとよいでしょう。EBFの筐体は共有できるため、必要なコイルは通常よりも6個少ない&a10&r個で済みます。\n\n一方を&bMV&rで精錬可能なものに使用し、もう一方に&3MVエネルギーハッチ&rを付けて&6HV&r用にするとよいでしょう。",
 
-    "quests.medium_voltage.mv_energy_hatch.title": "電気高炉の強化",
+    "quests.medium_voltage.mv_energy_hatch.title": "EBFの強化",
     "quests.medium_voltage.mv_energy_hatch.subtitle": "LV時代の終わり",
     "quests.medium_voltage.mv_energy_hatch.desc": "&7LV&rバッテリーバッファと&7LV&rエネルギーハッチでは、もはや全くの力不足です。\n\nそろそろ&3MVエネルギーハッチ&rに更新しましょう。これで、&3変圧器&rを使わずともMV電力を使用できます。",
 
     "quests.medium_voltage.mv_kanthal_coil.title": "カンタルコイル",
     "quests.medium_voltage.mv_kanthal_coil.subtitle": "熱い！熱い！",
-    "quests.medium_voltage.mv_kanthal_coil.desc": "&3カンタルコイル&rは重要なアイテムです。これを用いることで、&3電気高炉&rの温度を&d2700K&rまで上げられるようになります。温度が上がることで、新たなレシピが解禁されるほか、従来の精錬を&e高速&rで行うことが可能となります。詳しくは&aエネルギー&r関連のクエストを参照してください。\n\nなお、複数種類のコイルを混ぜて使うことは不可能です。",
+    "quests.medium_voltage.mv_kanthal_coil.desc": "&3カンタルコイル&rは重要なアイテムです。これを用いることで、&3EBF&rの温度を&d2700K&rまで上げられるようになります。温度が上がることで、新たなレシピが解禁されるほか、従来の精錬を&e高速&rで行うことが可能となります。詳しくは&aエネルギー&r関連のクエストを参照してください。\n\nなお、複数種類のコイルを混ぜて使うことは不可能です。",
 
     "quests.medium_voltage.mv_kanthal_ingot.title": "カンタル",
     "quests.medium_voltage.mv_kanthal_ingot.subtitle": "今、カンタルがアツい！",
     "quests.medium_voltage.mv_kanthal_ingot.desc.1": "Hot and Notが帰って来た！こないで\n\n&aTerrafirmaCraft&rをバケツまで進めた皆さんなら、きっと覚えているはず。\n\n&c熱い○○インゴット&r系のアイテムは、トングなどの対策アイテム無しに持っていると&c炎上状態&rになります。\n\nまた、今回は&aTFC&rのそれと異なり、&c温度が自然低下しません&r。機械を用意して、能動的に冷やす必要があります。",
-    "quests.medium_voltage.mv_kanthal_ingot.desc.2": "インゴットの冷却には、&d化学槽&rで&9水&rに晒す必要があります。この時、&9蒸留水&rを使うと、冷却に掛かる時間が&e3分の2&rになります。\n\nとはいえ、インゴットを手で持ち歩く労力はなるべく減らしたいので、&a自動化&rしましょう。&aパイプ&rを使えば、&d電気高炉&rから&d化学槽&rに直接アイテムを搬送することができます。\n\n&aアイテムタグフィルター&rに&7#forge:hot_ingots*&rと設定すれば、熱いインゴットだけを搬送することができます。",
+    "quests.medium_voltage.mv_kanthal_ingot.desc.2": "インゴットの冷却には、&d化学槽&rで&9水&rに晒す必要があります。この時、&9蒸留水&rを使うと、冷却に掛かる時間が&e3分の2&rになります。\n\nとはいえ、インゴットを手で持ち歩く労力はなるべく減らしたいので、&a自動化&rしましょう。&aパイプ&rを使えば、&dEBF&rから&d化学槽&rに直接アイテムを搬送することができます。\n\n&aアイテムタグフィルター&rに&7#forge:hot_ingots*&rと設定すれば、熱いインゴットだけを搬送することができます。",
 
     "quests.medium_voltage.mv_assembler.title": "発展型組立機",
     "quests.medium_voltage.mv_assembler.subtitle": "8時だョ！全員集合！",
@@ -290,7 +290,7 @@
 
     "quests.medium_voltage.mv_silicon_boule.title": "シリコンガチャ",
     "quests.medium_voltage.mv_silicon_boule.subtitle": "ウェハーは代替可能",
-    "quests.medium_voltage.mv_silicon_boule.desc": "&9シリコン単結晶&rの作成には、&3電気高炉&rが必要です。その材料は、&aSilicon Dust&rが半スタックと、少量の&aヒ化ガリウム&rです。その主な用途は、回路の材料である&6ウェハー&rの作成です。\n\nシリコン単結晶が作成できたら、&3裁断機&rでそれを加工することにより、16個のシリコンウェハーを入手できます。\n\n&c注意:&rシリコン単結晶の精錬には、なんと&47分半&rもの時間を要します。消費電力は120EU/tで、合計すると1,080,000EUに達します。途中で電気が足りなくなった場合、精錬の&c進捗が低下&rします。\n\n電気が足りていたとしても、所要時間が猛烈に長いため、複数の電気高炉で同時に精錬を行うことをおすすめします。",
+    "quests.medium_voltage.mv_silicon_boule.desc": "&9シリコン単結晶&rの作成には、&3EBF&rが必要です。その材料は、&aSilicon Dust&rが半スタックと、少量の&aヒ化ガリウム&rです。その主な用途は、回路の材料である&6ウェハー&rの作成です。\n\nシリコン単結晶が作成できたら、&3裁断機&rでそれを加工することにより、16個のシリコンウェハーを入手できます。\n\n&c注意:&rシリコン単結晶の精錬には、なんと&47分半&rもの時間を要します。消費電力は120EU/tで、合計すると1,080,000EUに達します。途中で電気が足りなくなった場合、精錬の&c進捗が低下&rします。\n\n電気が足りていたとしても、所要時間が猛烈に長いため、複数のEBFで同時に精錬を行うことをおすすめします。",
 
     "quests.medium_voltage.mv_silicon.title": "ケイ素の粉",
     "quests.medium_voltage.mv_silicon.subtitle": "",

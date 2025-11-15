@@ -25,9 +25,9 @@
 	"block.ad_astra.moon_deepslate": "ノーライト",
 	"block.ad_astra.cheese_block": "ムーンチーズブロック",
 	"block.ad_astra.moon_cheese_ore": "チーズ鉱石(斜長岩)",
-	"block.ad_astra.glacian_log": "Glacian Stem",
-	"block.ad_astra.stripped_glacian_log": "Stripped Glacian Stem",
-	"block.ad_astra.glacian_leaves": "Glacian Lamella",
+	"block.ad_astra.glacian_log": "グラシアンの幹",
+	"block.ad_astra.stripped_glacian_log": "表皮を剥いだグラシアンの幹",
+	"block.ad_astra.glacian_leaves": "グラシアンのひだ",
 
 	"block.ad_astra.mars_sand": "粘土質岩の砂",
 	"block.ad_astra.mars_stone": "粘土質岩",

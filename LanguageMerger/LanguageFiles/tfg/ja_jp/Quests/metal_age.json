@@ -57,7 +57,7 @@
    
     "quests.metal_age.beneath_kaolin.title": "The Beneathのカオリン源",
     "quests.metal_age.beneath_kaolin.subtitle": "さらなる深みへ",
-    "quests.metal_age.beneath_kaolin.desc": "地の底深く、岩盤を越えた先には過酷な地下空間であるThe_Beneathがあります。\n上層部には、緑豊かなオアシスであり、カオリン粘土が生成される「Lush_Hollow」というバイオームが存在します。ただし、その場所には固有のモンスターがスポーンします。十分に注意しましょう。\n\nここでは、スチールを作るのに最適な燃料であるAnthraciteを採掘することもできます。\n\nBeneathでのサバイバルは過酷です。クエストの「Tips-サバイバル」とフィールドガイドで詳細を確認してください。",
+    "quests.metal_age.beneath_kaolin.desc": "地の底深く、岩盤を越えた先には過酷な地下空間であるThe_Beneathがあります。\n上層部には、緑豊かなオアシスであり、カオリン粘土が生成される「Lush_Hollow」というバイオームが存在します。ただし、その場所には固有のモンスターがスポーンします。十分に注意しましょう。\n\nここでは、スチールを作るのに最適な燃料である無煙炭を採掘することもできます。\n\nBeneathでのサバイバルは過酷です。クエストの「Tips-サバイバル」とフィールドガイドで詳細を確認してください。",
     "quests.metal_age.beneath_kaolin.task": "オーバーワールドの岩盤を横断してThe Beneathに到達する",
    
     "quests.metal_age.overworld_graphite.title": "地上世界のグラファイト源",
@@ -66,7 +66,7 @@
   
     "quests.metal_age.beneath_graphite.title": "The Beneathのグラファイト源",
     "quests.metal_age.beneath_graphite.subtitle": "さらなる深みへ",
-    "quests.metal_age.beneath_graphite.desc": "地の底深く、岩盤を越えた先には過酷な地下空間であるThe_Beneathがあります。\nBeneathでは、特大のグラファイト鉱脈を見つけることができますが、固有のモンスターがそれを守っている可能性があります。十分に注意しましょう。\n\nここでは、スチールを作るのに最適な燃料であるAnthraciteを採掘することもできます。\n\nBeneathでのサバイバルは過酷です。クエストの「Tips-サバイバル」とフィールドガイドで詳細を確認してください。",
+    "quests.metal_age.beneath_graphite.desc": "地の底深く、岩盤を越えた先には過酷な地下空間であるThe_Beneathがあります。\nBeneathでは、特大のグラファイト鉱脈を見つけることができますが、固有のモンスターがそれを守っている可能性があります。十分に注意しましょう。\n\nここでは、スチールを作るのに最適な燃料である無煙炭を採掘することもできます。\n\nBeneathでのサバイバルは過酷です。クエストの「Tips-サバイバル」とフィールドガイドで詳細を確認してください。",
     "quests.metal_age.beneath_graphite.task": "オーバーワールドの岩盤を横断してThe Beneathに到達する",
    
     "quests.metal_age.kaolin_clay.title": "カオリン粘土",
@@ -100,7 +100,7 @@
     
     "quests.metal_age.blast_furnace_fuel.title": "高炉の燃料",
     "quests.metal_age.blast_furnace_fuel.subtitle": "より上質な燃料",
-    "quests.metal_age.blast_furance_fuel.desc": "木炭では、スチールの鋳造ができるほど高温にできません。コークスまたはAnthraciteのいずれかが必要です。\n\nコークスは石炭をコークス炉に入れることで作成できますが、AnthraciteであればBeneathから採掘した後、そのまま使用できます。",
+    "quests.metal_age.blast_furance_fuel.desc": "木炭では、スチールの鋳造ができるほど高温にできません。コークスまたは無煙炭のいずれかが必要です。\n\nコークスは石炭をコークス炉に入れることで作成できますが、無煙炭であればBeneathから採掘した後、そのまま使用できます。",
    
     "quests.metal_age.blast_furnace.title": "高炉",
     "quests.metal_age.blast_furnace.subtitle": "盛り上がってきた頃合いかな",
