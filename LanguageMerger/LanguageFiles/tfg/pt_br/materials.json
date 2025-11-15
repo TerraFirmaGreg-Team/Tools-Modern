@@ -91,5 +91,11 @@
     "material.tfg.n_n_dimethylaniline": "N,N-Dimetilanilina",
     "material.tfg.triglyceride_oil": "Óleo de Triglicerídeos",
     "material.tfg.cholesterol": "Colesterol",
-    "material.tfg.butyric_acid": "Ácido Butírico"
+    "material.tfg.butyric_acid": "Ácido Butírico",
+
+    "material.tfg.citric_acid": "Ácido Cítrico",
+    "material.tfg.sodium_dihydrogen_citrate": "Citrato de Sódio Dihidrogenado",
+    "material.tfg.light_stock": "Caldo Claro",
+    "material.tfg.rich_stock": "Caldo Rico",
+    "material.tfg.brown_gravy": "Molho Marrom"
 }

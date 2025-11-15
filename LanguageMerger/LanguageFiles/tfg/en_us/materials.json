@@ -122,6 +122,12 @@
     "material.tfg.cholesterol": "Cholesterol",
     "material.tfg.butyric_acid": "Butyric Acid",
 
+    "material.tfg.citric_acid": "Citric Acid",
+    "material.tfg.sodium_dihydrogen_citrate": "Sodium Dihydrogen Citrate",
+    "material.tfg.light_stock": "Light Stock",
+    "material.tfg.rich_stock": "Rich Stock",
+    "material.tfg.brown_gravy": "Brown Gravy",
+
     "material.tfg.zircon": "Zircon",
     "material.tfg.silicon_tetrachloride": "Silicon Tetrachloride",
     "material.tfg.zirconium_tetrachloride": "Zirconium Tetrachloride",
