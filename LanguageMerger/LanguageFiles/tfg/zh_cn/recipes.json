@@ -73,6 +73,7 @@
     "tfg.food_recipe.smoking": "熏制",
     "tfg.food_recipe.drying": "干燥",
     "tfg.food_recipe.freeze_drying": "冷冻干燥",
+    "tfg.food_recipe.deep_frying": "油炸",
     "tfg.recipe.macerator_warning": "高压阶段前仅输出第一格物品",
     "tfg.grapplemod.repair": "修复配方，保留所有升级模块。§l切勿合并两个抓钩，否则将丢失全部升级！§r",
     "tfg.grapplemod.upgrades.maxlen": "将§l最大长度§r提升20，最高可达200。",

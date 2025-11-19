@@ -194,5 +194,11 @@
     "tfg.gui.rnr_plow.random_mode": "随机材料",
     "tfg.gui.rnr_plow.width": "路径宽度：%d 格",
     "tfg.gui.rnr_plow.empty_crushed_base_course": "§c缺少碎石基层!!",
-    "tfg.tooltip.progenitor_cells.mob": "动物培养："
+    "tfg.tooltip.progenitor_cells.mob": "动物培养：",
+    "tfg.tooltip.fake_nutrition_info_listener": "§7§o按住(Shift)查看营养信息",
+    "tfg.tooltip.fake_nutrition_info": "§7营养：",
+    "tfg.tooltip.cheese_slice_microplastics": "§b- 微塑料: 1.9",
+    "tfg.gui.menu.field_guide_splash_text": "提示：阅读野外指南！！！",
+    "tfg.gui.menu.ram_usage": "内存：",
+    "tfg.gui.menu.fps_count": "帧率："
 }
