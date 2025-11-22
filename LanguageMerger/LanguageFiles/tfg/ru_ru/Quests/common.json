@@ -5,9 +5,9 @@
     "quests.tasktype.travelto": "Побывать в:",
 
     "quests.groups.primitive": "Первобытный век",
-    "quests.groups.voltaic_age": "Вольтов век",
+    "quests.groups.voltaic_age": "Электрический век",
     "quests.groups.space_age": "Космический век",
-    "quests.groups.interstellar": "Межзвездный век",
+    "quests.groups.interstellar": "Межзвёздный век",
     "quests.groups.technological_help": "Технологическая помощь",
     "quests.groups.tips": "Советы"
 }

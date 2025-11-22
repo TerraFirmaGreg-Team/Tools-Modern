@@ -219,7 +219,7 @@
     "item.tfg.marker.mars_orbit": "Орбита Марса",
     "item.tfg.marker.venus_orbit": "Орбита Венеры",
     "item.tfg.marker.mercury_orbit": "Орбита Меркурия",
-    "item.tfg.marker.glacio_orbit": "Europa Orbit",
+    "item.tfg.marker.glacio_orbit": "Орбита Европы",
     "item.tfg.railgun_ammo_shell": "Railgun Ammo Shell",
 
     "item.tfg.sulfur_fumes_bucket": "Sulfur Fumes Bucket",
@@ -241,7 +241,7 @@
 
     "item.tfg.wood.lumber.aeronos": "Доска из конусообразного гриба",
     "item.tfg.wood.lumber.strophar": "Доска из строфарового гриба",
-    "item.tfg.wood.lumber.glacian": "Доска из гласиевого дерева",
+    "item.tfg.wood.lumber.glacian": "Доска из гласивника",
     "item.tfg.twigs.aeronos": "Aeronos Twig",
     "item.tfg.twigs.strophar": "Strophar Twig",
     "item.tfg.twigs.glacian": "Glacian Twig",
@@ -343,14 +343,14 @@
     "item.tfg.impure_graphite_moderator": "Impure Graphite Moderator",
     "item.tfg.advanced_polymer_binder": "Advanced Polymer Binder",
 
-    "item.tfg.beaker": "Beaker",
-    "item.tfg.beaker.filled": "Beaker of %s",
-    "item.tfg.flask": "Flask",
-    "item.tfg.flask.filled": "Flask of %s",
-    "item.tfg.vial": "Vial",
-    "item.tfg.vial.filled": "Vial of %s",
-    "item.tfg.lab_equipment": "Lab Equipment",
-    "item.tfg.dirty_lab_equipment": "Dirty Lab Equipment",
+    "item.tfg.beaker": "Химический стакан",
+    "item.tfg.beaker.filled": "Химический стакан (%s)",
+    "item.tfg.flask": "Колба",
+    "item.tfg.flask.filled": "Колба (%s)",
+    "item.tfg.vial": "Флакон",
+    "item.tfg.vial.filled": "Флакон (%s)",
+    "item.tfg.lab_equipment": "Лабораторное оборудование",
+    "item.tfg.dirty_lab_equipment": "Грязное лабораторное оборудование",
 
     "item.tfg.wireless_card": "Interplanetary Wireless Card",
 

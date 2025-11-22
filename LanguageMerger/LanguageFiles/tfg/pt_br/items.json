@@ -181,6 +181,27 @@
     "item.tfg.food.cooked_stickastackatick": "Carraplato no Taco Cozido",
     "item.tfg.food.raw_cruncher_ribs": "Costelas de mastigador Cruas",
     "item.tfg.food.cooked_cruncher_ribs": "Costelas de Mastigador Cozidas",
+    "item.tfg.food.raw_beer_battered_cheese_curds": "Coalhos de Queijo Empanados em Cerveja Cru",
+    "item.tfg.food.cooked_beer_battered_cheese_curds": "Coalhos de Queijo Empanados em Cerveja Fritos",
+    "item.tfg.food.raw_fries": "Batatas Fritas Cruas",
+    "item.tfg.food.cooked_fries": "Batatas Fritas",
+    "item.tfg.food.poutine": "Poutine",
+    "item.tfg.food.brioche_dough": "Massa de Brioche",
+    "item.tfg.food.brioche_bun": "Pão Brioche",
+    "item.tfg.food.raw_burger_patty": "Hambúrguer Cru",
+    "item.tfg.food.cooked_burger_patty": "Hambúrguer",
+    "item.tfg.food.slice_of_cheese": "Fatia de \"Queijo\"",
+    "item.tfg.food.hamburger": "Hambúrguer",
+    "item.tfg.food.cheeseburger": "Hambúrguer com Queijo",
+    "item.tfg.food.oatmeal": "Papas de Aveia",
+    "item.tfg.food.raw_instant_mac": "Macarrão Instantâneo com Queijo Cru",
+    "item.tfg.food.cooked_instant_mac": "Macarrão Instantâneo com Queijo",
+    "item.tfg.spice.bay_leaf": "Folha de Louro",
+    "item.tfg.spice.cardamom_pods": "Vagens de Cardamomo",
+    "item.tfg.spice.cilantro_leaves": "Folhas de Coentro",
+    "item.tfg.spice.cumin_seeds": "Sementes de Cominho",
+    "item.tfg.spice.oregano_leaves": "Folhas de Orégano",
+    "item.tfg.spice.allspice": "Pimenta-da-Jamaica",
 
     "item.tfg.roasted_sunflower_seeds": "Sementes de Girassol Torradas",
     "item.tfg.sunflower_seeds": "Sementes de Girassol",
@@ -299,5 +320,14 @@
   	"item.tfg.linen_cloth": "Pano de Linho",
 
     "item.tfg.uv_led": "§fLED §dUltravioleta",
-    "item.tfg.smd_uv_led": "§fLED §dUltravioleta §fSMD"
+    "item.tfg.smd_uv_led": "§fLED §dUltravioleta §fSMD",
+
+    "item.tfg.rnr_plow": "Carrinho Pavimentador",
+    "item.tfg.cobalt_brass_wheel": "Roda de Latão Cobalto",
+
+    "item.tfg.cellulose_matrix": "Matriz de Celulose",
+    "item.tfg.smooth_endoplasmic_reticula": "Retículo Endoplasmático Liso",
+    "item.tfg.rough_endoplasmic_reticula": "Retículo Endoplasmático Rugoso",
+    "item.tfg.alpha_keratin": "α-Queratina",
+    "item.tfg.progenitor_cells": "Células Progenitoras"
 }

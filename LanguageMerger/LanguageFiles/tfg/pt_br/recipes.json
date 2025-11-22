@@ -68,6 +68,7 @@
 	"tfg.food_recipe.smoking": "Defumação",
 	"tfg.food_recipe.drying": "Secagem",
 	"tfg.food_recipe.freeze_drying": "Liofilização",
+    "tfg.food_recipe.deep_frying": "Fritura Profunda",
 	"tfg.recipe.macerator_warning": "Emite apenas o primeiro slot até HV",
 
 	"tfg.grapplemod.repair": "Receita de reparo, mantém seus aprimoramentos. §lNUNCA combine dois ganchos ou você perderá TODOS os seus aprimoramentos!§r",

@@ -24,16 +24,16 @@
 
     "biome.tfg.mars/martian_deep_desert": "Глубокие марсианские дюны",
     "biome.tfg.mars/martian_dunes": "Марсианская пустыня",
-    "biome.tfg.mars/martian_dune_edge": "Марсианская окраина пустыни",
+    "biome.tfg.mars/martian_dune_edge": "Марсианская грань пустыни",
     "biome.tfg.mars/martian_river": "Марсианские берега",
     "biome.tfg.mars/martian_mountains": "Угасший марсианский вулкан",
     "biome.tfg.mars/amber_edge": "Янтарная кромка",
-    "biome.tfg.mars/amber_plains": "Янтарные равнины",
+    "biome.tfg.mars/amber_plains": "Янтарная равнина",
     "biome.tfg.mars/amber_hills": "Янтарные холмы",
-    "biome.tfg.mars/rusticus_edge": "Рустиксовая окраина",
+    "biome.tfg.mars/rusticus_edge": "Рустиксовая грань",
     "biome.tfg.mars/rusticus_plains": "Рустиксовая луговина",
-    "biome.tfg.mars/rusticus_hills": "Рустиксовая степь",
-    "biome.tfg.mars/sangnum_edge": "Sangnum Edge",
-    "biome.tfg.mars/sangnum_plains": "Sangnum Prairie",
-    "biome.tfg.mars/sangnum_hills": "Sangnum Moorland"
+    "biome.tfg.mars/rusticus_hills": "Рустиксовые холмы",
+    "biome.tfg.mars/sangnum_edge": "Сангнумовая грань",
+    "biome.tfg.mars/sangnum_plains": "Сангнумовая прерия",
+    "biome.tfg.mars/sangnum_hills": "Сангнумовый верещатник"
 }

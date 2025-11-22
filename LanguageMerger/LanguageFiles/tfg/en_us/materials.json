@@ -106,5 +106,33 @@
     "material.tfg.cooked_mycelienzane": "1,3-Mycelienzane",
     "__comment3": "These two are real",
     "material.tfg.iodomethane": "Iodomethane",
-    "material.tfg.trideuteroiodomethane": "Trideuteroiodomethane"
+    "material.tfg.trideuteroiodomethane": "Trideuteroiodomethane",
+
+    "material.tfg.lauryl_alcohol": "Lauryl Alcohol",
+    "material.tfg.chlorosulfuric_acid": "Chlorosulfuric Acid",
+    "material.tfg.sodium_dodecyl_sulfate": "Sodium Dodecyl Sulfate",
+    "material.tfg.sodium_hypochlorite": "Sodium Hypochlorite",
+    "material.tfg.mutative_yeast": "Mutative Yeast",
+    "material.tfg.proto_growth_medium": "Proto Growth Medium",
+    "material.tfg.fibroblast_feeder_cells": "Fibroblast Feeder Cells",
+    "material.tfg.gram_stain": "Gram Stain",
+    "material.tfg.crystal_violet": "Crystal Violet",
+    "material.tfg.n_n_dimethylaniline": "N,N-Dimethylaniline",
+    "material.tfg.triglyceride_oil": "Triglyceride Oil",
+    "material.tfg.cholesterol": "Cholesterol",
+    "material.tfg.butyric_acid": "Butyric Acid",
+
+    "material.tfg.citric_acid": "Citric Acid",
+    "material.tfg.sodium_dihydrogen_citrate": "Sodium Dihydrogen Citrate",
+    "material.tfg.light_stock": "Light Stock",
+    "material.tfg.rich_stock": "Rich Stock",
+    "material.tfg.brown_gravy": "Brown Gravy",
+
+    "material.tfg.zircon": "Zircon",
+    "material.tfg.silicon_tetrachloride": "Silicon Tetrachloride",
+    "material.tfg.zirconium_tetrachloride": "Zirconium Tetrachloride",
+    "material.tfg.zirconium_oxide": "Zirconia",
+    "material.tfg.zirconium_bromide": "Zirconium(IV) Bromide",
+    "material.tfg.zirconium_diboride": "Zirconium Diboride",
+    "material.tfg.boron_carbide": "Boron Carbide"
 }

@@ -13,7 +13,7 @@
     "quests.medium_voltage.mv_miner.subtitle": "So are you bored of mining yourself?",
     "quests.medium_voltage.mv_miner.desc.1": "This kind soul&r will mine ores for you when placed above a vein.\n\nVertical range is unlimited below the miner. Horizontal range is displayed in the tooltip.\n\nThe &bMV&r variant may not have the range to mine a full vein, but the &6HV&r variant does, so you may wish hold off for now. Get &eeither&r to complete this Quest.",
     "quests.medium_voltage.mv_miner.desc.2": "You will need &9Power&r. &aCharged Batteries&r may work, but they tend to run out of power, which is a bit inconvenient.\n\nOur top suggestion is to use a filled &3Drum&r of some kind of fuel &7(if you're using Steam, no dice!)&r and a &3Generator&r.\n\nPlace the Drum above your Generator and right-click it with a &5Soft Mallet&r to auto-output into the Generator.",
-    "quests.medium_voltage.mv_miner.desc.3": "&cNote:&r Do not forget to &dchunkload&r all 9 chunks of the ore vein &7(open the map, claim the chunks with ctrl left-click, and enable force loading after claiming them)&r.\n\n&9Tip:&r You can either use an &3ME Chest&r or a &3GT Create&r as the output inventory to make transporting the ores back home a simple task. The &3ME Chest&r can be powered with EU directly but that won't be before some time.",
+    "quests.medium_voltage.mv_miner.desc.3": "&cNote:&r Do not forget to &dchunkload&r all 9 chunks of the ore vein &7(open the map, claim the chunks with ctrl left-click, and enable force loading after claiming them)&r.\n\n&9Tip:&r You can either use an &3ME Chest&r, a &3Backpack&r, or a &3GT Crate&r as the output inventory to make transporting the ores back home a simple task. The &3ME Chest&r can be powered with EU directly, by the way.",
     "quests.medium_voltage.mv_miner.task": "Any miner",
 
     "quests.medium_voltage.mv_component.title": "The MV Components",
@@ -57,7 +57,7 @@
 
     "quests.medium_voltage.mv_steel_alloy.title": "Steel Alloys",
     "quests.medium_voltage.mv_steel_alloy.subtitle": "Steel Your Heart",
-    "quests.medium_voltage.mv_steel_alloy.desc": "Vanadiumsteel is required in small quantities in progression. It's &6nearly four times as durable&r as Steel if used in GregTech tools. The Vanadium comes from &aVanadium Magnetite&r, which you may have encountered in Magnetite veins.\n\nOther Steel alloys include Blue Steel, Red Steel, and Black Steel!\n\nTake some Blue Steel free of charge - it's twice as durable as Steel.",
+    "quests.medium_voltage.mv_steel_alloy.desc": "Vanadium steel is required in small quantities in progression. It's &6nearly four times as durable&r as Steel if used in GregTech tools. The Vanadium comes from &aVanadium Magnetite&r, which you may have encountered in Magnetite veins.",
 
     "__comment2": "Plastic Line",
 

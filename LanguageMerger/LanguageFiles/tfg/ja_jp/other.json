@@ -5,8 +5,8 @@
     "tfg.tooltip.foodtrait.freeze_dried": "フリーズドライ",
     "tfg.tooltip.extraterrestrial_farming": "§4Temperature:§r An oxygenated environment provides 15°C",
 
-    "entity.tfg.moon_rabbit.male": "Moon Rabbit",
-    "entity.tfg.moon_rabbit.female": "Moon Rabbit",
+    "entity.tfg.moon_rabbit.male": "月ウサギ",
+    "entity.tfg.moon_rabbit.female": "月ウサギ",
     "tfg.tooltip.moon_rabbit_variant.pink": "Pink Fur",
     "tfg.tooltip.moon_rabbit_variant.white": "White Fur",
     "tfg.tooltip.moon_rabbit_variant.grey": "Stony Fur",
@@ -14,19 +14,19 @@
     "tfg.tooltip.moon_rabbit_variant.purple": "Lavender Fur",
     "tfg.tooltip.moon_rabbit_variant.sofu": "Sundae Fur",
 
-    "entity.tfg.glacian_ram.male": "Glacian Ram",
-    "entity.tfg.glacian_ram.female": "Glacian Ewe",
+    "entity.tfg.glacian_ram.male": "氷界雄ヒツジ",
+    "entity.tfg.glacian_ram.female": "氷界雌ヒツジ",
     "tfg.tooltip.attribution.glacian_ram": "§9§oCredit: Ad Astra",
 
-    "entity.tfg.sniffer.male": "Sniffer",
-    "entity.tfg.sniffer.female": "Sniffer",
+    "entity.tfg.sniffer.male": "スニッファー",
+    "entity.tfg.sniffer.female": "スニッファー",
     "tfg.tooltip.attribution.sniffer": "§9§oCredit: Minecraft",
 
-    "entity.tfg.wraptor.male": "Wraptor",
-    "entity.tfg.wraptor.female": "Wraptor",
+    "entity.tfg.wraptor.male": "ラプター",
+    "entity.tfg.wraptor.female": "ラプター",
     "tfg.tooltip.attribution.wraptor": "§9§oCredit: Species",
 
-    "entity.tfg.surfer": "Surfer",
+    "entity.tfg.surfer": "サーファー",
     "tfg.tooltip.surfer_variant.base": "Teal Hide",
     "__comment": "For magenta, yellow, blue, red, and pink colors. You can make something up!",
     "tfg.tooltip.surfer_variant.bubble": "Blossom Berry Hide",

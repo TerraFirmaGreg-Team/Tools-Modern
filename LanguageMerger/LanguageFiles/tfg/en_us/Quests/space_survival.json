@@ -31,6 +31,7 @@
 	"quests.space_survival.solar_panels.title": "Solar Panels",
 	"quests.space_survival.solar_panels.subtitle": "Praise the Sun!",
 	"quests.space_survival.solar_panels.desc": "There are very few energy sources available on the Moon, but these &eSolar Panels&r have a lovely view of the Sun from up here!\n\nOn the moon, each Solar Panel provides the equivalent of &932 EU/t&r during the day with no fuel or upkeep needed, but they only produce an eighth of that down on the Earth's surface. Bring along a whole bunch of them!",
+	"quests.space_survival.solar_panels.task": "Any FE to EU converter",
 
 	"quests.space_survival.stone_dust_centrifuging.title": "Helium-3",
 	"quests.space_survival.stone_dust_centrifuging.subtitle": "Clown gas",

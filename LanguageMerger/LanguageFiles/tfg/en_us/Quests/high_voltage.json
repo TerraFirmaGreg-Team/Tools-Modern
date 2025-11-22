@@ -164,7 +164,7 @@
 
     "quests.high_voltage.rocket_t1.title": "Your First Rocket!",
     "quests.high_voltage.rocket_t1.subtitle": "The first of many",
-    "quests.high_voltage.rocket_t1.desc": "Wow, it's time to build your &6Rocket&r!\n\nAssemble all the parts with &d8 Dense Rocket Alloy&r. To finish the insulation, you'll need &b2304mb&r of &bLiquid Silicon&r (&b16 ingots&r) and &f16 pieces of dust&r.\n\nYou have two choices:\n&e-&r &eBorosilicate Glass Dust&r — crafted in a &6Mixer&r with &dBoron&r and &fGlass Dust&r\n\n&e-&r &5Vitrified Asbestos&r — obtained through a &6Pyrolysis Oven&r\n\nGo with whichever's easiest for you!",
+    "quests.high_voltage.rocket_t1.desc": "Wow, it's time to build your &6Rocket&r!\n\nAssemble all the parts with &d8 Dense Rocket Alloy&r. To finish the insulation, you'll need &b2304mb&r of &bLiquid Silicon&r (&b16 ingots&r) and &f16 pieces of dust&r.\n\nYou have two choices:\n&e-&r &eBorosilicate Glass Dust&r — crafted in a &6Mixer&r with &dBoron&r and &fGlass Dust&r\n\n&e-&r &5Vitrified Asbestos&r — obtained through a &6Pyrolyse Oven&r\n\nGo with whichever's easiest for you!",
 
     "quests.high_voltage.vitrified_pearl.title": "Vitrified Ender Pearl",
     "quests.high_voltage.vitrified_pearl.subtitle": "An Exotic Ceramic",
@@ -201,7 +201,7 @@
     "quests.high_voltage.steel_engine.desc": "The &6Steel Engine&r is required so your rocket can &atravel to the Moon&r.\n\nThe recipe isn't too bad — we assume you're ready to tackle each part.\n\nTo get &91152mb of Liquid Blue Steel&r, you will need &78 ingots&r.",
 
     "quests.high_voltage.rocket_fins.subtitle": "So you reach the right destination",
-    "quests.high_voltage.rocket_fins.desc": "We made the &6Rocket Fins&r use an &bAlloy Smelter&r simply to remind you that you now have access to the &bMulti-Smelter&r — a wonderful small EBF that can be used both as a &eFurnace&r and an &bAlloy Smelter&r.\n\nThe quest to craft it is in the &bMV&r Chapter. We really advise you to think about it if you haven't yet.",
+    "quests.high_voltage.rocket_fins.desc": "Originally, we made the &6Rocket Fins&r use an &bAlloy Smelter&r simply to remind you that you now have access to the &bMulti-Smelter&r — a wonderful small EBF that can be used both as a &eFurnace&r and an &bAlloy Smelter&r.\n\nThe quest to craft it is in the &bMV&r Chapter.\n\nWe changed this recipe to the assembler because \"rocket fins\" aren't exactly an alloy.",
 
     "quests.high_voltage.rocket_nose_cone.subtitle": "The nose knows...",
     "quests.high_voltage.rocket_nose_cone.desc": "The &6Rocket Nose Cone&r is the hardest part of your Rocket.\nYou will need a hefty amount of &aPolyethylene&r — so we hope you already have it passively produced — and a &6HV&r Emitter.\nYou should be able to get your hands on &dChromium&r by electrolyzing &cRuby Dust&r.\n\nThe &aVitrified Ender Pearl&r is trickier and requires you to follow the quest unlocked by the &6HV Chemical Reactor&r.\nGet ready to make &cTNT&r, build an &5Implosion Compressor&r, and recreate the famous Enderman drop — since you won’t find Ender Pearls natively in &2TFG&r.",

@@ -283,7 +283,7 @@
 
 	"quests.steam_age.alternator.title": "Alternators",
 	"quests.steam_age.alternator.subtitle": "Turning stress into power",
-	"quests.steam_age.alternator.desc.1": "If you've got a big steam age set up, you probably don't want to immediately scrap it all just to go back to some boilers and LV Steam Turbines. Instead, the &3Alternator&r will convert the SU from your steam engines into electricity. Each steam engine + alternator should give you 1A of LV! Unfortunately, alternators convert stress into a different electricity system than the one GregTech uses, so you'll need an Energy Converter to turn it into usable LV energy.",
+	"quests.steam_age.alternator.desc.1": "If you've got a big steam age set up, you probably don't want to immediately scrap it all just to go back to some boilers and LV Steam Turbines. Instead, the &3Alternator&r will convert the SU from your steam engines into electricity. Each steam engine + alternator should give you 1A of LV!\n\nUnfortunately, alternators convert stress into a different electricity system (Forge Energy) than the one GregTech uses (Energy Units), so you'll need an Energy Converter to turn it into usable LV energy. Be sure to hit it with a Soft Mallet to convert it to FE to EU mode.",
 	"quests.steam_age.alternator.desc.2": "An example of a steam engine producing 8 amps of LV!\n",
 
 	"quests.steam_age.packager.title": "Create Logistics",

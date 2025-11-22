@@ -154,15 +154,9 @@
   
   "block.greate.rubber_belt_andesite_alloy": "Ремень (Резина)",
   "block.greate.rubber_belt_steel": "Ремень (Резина)",
-  "item.greate.rubber_belt_connector": "Ремень (Резина)",
-
-  "block.greate.polyethylene_belt_titanium": "Ремень (Стирол-бутадиеновая резина)",
-  "block.greate.polyethylene_belt_tungsten_steel": "Ремень (Стирол-бутадиеновая резина)",
-  "item.greate.polyethylene_belt_connector": "Ремень (Стирол-бутадиеновая резина)",
   
   "block.greate.silicone_rubber_belt_aluminium": "Ремень (Силиконовая резина)",
   "block.greate.silicone_rubber_belt_stainless_steel": "Ремень (Силиконовая резина)",
-  "item.greate.silicone_rubber_belt_connector": "Ремень (Силиконовая резина)",
 
   "config.jade.plugin_greate.belt_icon": "Иконка ремня",
 
@@ -179,7 +173,6 @@
   "greate.recipe.fan_washing": "Массовая промывка",
   "greate.recipe.milling": "Помол",
   "greate.recipe.mixing": "Смешивание",
-  "greate.recipe.packing": "Упаковка",
   "greate.recipe.pressing": "Прессование",
   "greate.recipe.processing.extra_chance": "% дополнительно за каждый уровень",
   "greate.recipe.sawing": "Распиловка",

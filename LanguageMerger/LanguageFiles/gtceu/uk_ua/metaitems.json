@@ -11,5 +11,6 @@
 	"gtceu.jei.bedrock_fluid.semiheavy_ammoniacal_water": "Марсіанська Напівважка Амоніачна Вода",
 	"gtceu.jei.bedrock_fluid.liquid_carbon_dioxide": "Марсіанський Рідкий Діоксид Карбону",
 	"gtceu.jei.bedrock_fluid.heavy_ammoniacal_water": "Марсіанська важка аміачна вода",
-	"gtceu.jei.bedrock_fluid.liquid_ice": "Марсіанський лід"
+	"gtceu.jei.bedrock_fluid.liquid_ice": "Марсіанський лід",
+	"gtceu.recipe.category.ingot_molding": "Формування матеріалів"
 }

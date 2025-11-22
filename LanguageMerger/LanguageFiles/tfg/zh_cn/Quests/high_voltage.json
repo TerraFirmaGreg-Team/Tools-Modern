@@ -151,7 +151,7 @@
     "quests.high_voltage.steel_engine.subtitle": "蓝钢回来了，宝贝",
     "quests.high_voltage.steel_engine.desc": "&6钢引擎&r是火箭&a前往月球&r的必备组件。\n\n配方难度适中——我们相信你已准备好应对每个环节。\n\n获取&91152mB液态蓝钢&r需要&78个锭&r。",
     "quests.high_voltage.rocket_fins.subtitle": "这样你就能到达正确的目的地",
-    "quests.high_voltage.rocket_fins.desc": "我们让&6火箭尾翼&r使用&b合金炉&r制造，只是为了提醒你现在已可建造&b工业熔炉&r——这台精巧的电力熔炉既能充当&e熔炉&r，又能作为&b合金炉&r使用。\n\n其制作任务位于&bMV&r章节。若尚未建造，我们强烈建议你认真考虑这个选择。",
+    "quests.high_voltage.rocket_fins.desc": "最初我们让&6火箭尾翼&r使用&b合金炉&r制造，只是为了提醒你现在已可建造&b工业熔炉&r——这台精巧的电力熔炉既能充当&e熔炉&r，又能作为&b合金炉&r使用。\n\n相关制作任务位于&bMV&r章节。\n\n现在我们将该配方调整为组装机制作，毕竟\"火箭尾翼\"本质上并非合金。",
     "quests.high_voltage.rocket_nose_cone.subtitle": "鼻锥自有答案...",
     "quests.high_voltage.rocket_nose_cone.desc": "&6火箭鼻锥&r是整个火箭制造中最复杂的部件。\n你需要准备大量&a聚乙烯&r——希望已实现自动化生产——以及一个&6HV发射器&r。\n你应该能够通过电解&c红宝石粉&r获得&d铬&r。\n\n&a玻璃化末影珍珠&r的制备更为棘手，需要你先完成由&6HV化学反应釜&r解锁的任务链。\n请准备好制作&cTNT&r、搭建&5聚爆压缩机&r，并人工合成末影人掉落物——因为在&2群峦格雷&r整合包中无法自然获取末影珍珠。",
     "quests.high_voltage.launch_pad.subtitle": "发射准备就绪，倒计时10秒…",

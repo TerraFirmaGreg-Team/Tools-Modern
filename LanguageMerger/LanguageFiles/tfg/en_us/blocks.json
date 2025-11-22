@@ -665,5 +665,10 @@
 
 	"block.tfg.growth_monitor": "Growth Monitor",
 	"block.tfg.sample_rack": "Sample Rack",
-	"block.tfg.casings.machine_casing_sterilizing_pipes": "Sterilizing Pipes"
+	"block.tfg.casings.machine_casing_sterilizing_pipes": "Sterilizing Pipes",
+
+	"block.tfg.moderate_core": "Moderate Core",
+    "block.tfg.impure_moderate_core": "Impure Moderate Core",
+    "block.tfg.moderate_core_frame": "Moderate Core Frame",
+    "block.tfg.impure_moderate_core_frame": "Impure Moderate Core Frame"
 }
