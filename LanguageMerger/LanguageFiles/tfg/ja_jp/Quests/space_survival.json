@@ -124,10 +124,10 @@
 	"quests.space_survival.sandworm.subtitle": "SHAI-HULUD",
 	"quests.space_survival.sandworm.desc": "砂漠であまり大きい音を立てると、&6サンドワーム&rという強敵が現れることがあります。これはボスというよりも災害に近いものであるので、遭遇してしまったら逃げましょう。\n\n頭に一定回数&b爆発ダメージ&rを与えることができれば、しばらくの間サンドワームは大人しくなります。\n\nなお、サンドワームには地形破壊能力がなく、&6プレイヤーの足音&rにのみ反応するので、他の野生生物や、乗り物、列車などに対しては反応しません。",
 
-	"quests.space_survival.spice.title": "オストラムの堆積物",
+	"quests.space_survival.spice.title": "オストラムが混じった砂",
 	"quests.space_survival.spice.subtitle": "とても見つけにくいアイテム",
-	"quests.space_survival.spice.desc": "火星砂漠バイオームには、&dオストラムの堆積物&rという回収不可ブロックが存在します。これらは小さな塊として砂漠に生成されます。破壊することは可能なので、坂などに生成されていても、オストラムハーベスターを設置するための場所は確保できます。望遠鏡があれば、探しやすくなります。\n\nまた、オストラムを利用するには、手に入れたオストラムを拠点に持ち帰るための手段も確保する必要があります。\n\nオストラムは&5EV&r時代に必要となる資源であるほか、核分裂炉の稼働にも必要です。",
-	"quests.space_survival.spice.task": "オストラムの堆積物を見つける",
+	"quests.space_survival.spice.desc": "火星砂漠バイオームには、&dオストラムが混じった砂&rという回収不可ブロックが存在します。これらは小さな塊として砂漠に生成されます。破壊することは可能なので、坂などに生成されていても、オストラムハーベスターを設置するための場所は確保できます。望遠鏡があれば、探しやすくなります。\n\nまた、オストラムを利用するには、手に入れたオストラムを拠点に持ち帰るための手段も確保する必要があります。\n\nオストラムは&5EV&r時代に必要となる資源であるほか、核分裂炉の稼働にも必要です。",
+	"quests.space_survival.spice.task": "オストラムが混じった砂を見つける",
 
 	"quests.space_survival.mars_islands.title": "火星の森",
 	"quests.space_survival.mars_islands.subtitle": "きょ、恐竜！？",
@@ -160,11 +160,11 @@
 
 	"quests.space_survival.mars_tapping.title": "赤い樹液と歪んだ樹液",
 	"quests.space_survival.mars_tapping.subtitle": "樹液集めはお好き？",
-	"quests.space_survival.mars_tapping.desc": "真紅のキノコ、歪んだキノコからは、それぞれ専用の樹液が得られます。\n\n&9イオジン&rを作るには、両方の樹液が必要です。ただし、両者は多くの場合別々の場所に生えているため、ある程度探索も必要になるでしょう。真紅のキノコは主に東側で、歪んだキノコは西側でみられます。\n\nちなみに、樹液はGregtechのパイプでも集めることができます。\n\n&9おまけ:&r真紅のキノコからはカヌーを、歪んだキノコからはボートやスループを作成することができます。",
+	"quests.space_survival.mars_tapping.desc": "真紅のキノコ、歪んだキノコからは、それぞれ専用の樹液が得られます。\n\n&9ヨウ素&rを作るには、両方の樹液が必要です。ただし、両者は多くの場合別々の場所に生えているため、ある程度探索も必要になるでしょう。真紅のキノコは主に東側で、歪んだキノコは西側でみられます。\n\nちなみに、樹液はGregtechのパイプでも集めることができます。\n\n&9おまけ:&r真紅のキノコからはカヌーを、歪んだキノコからはボートやスループを作成することができます。",
 
-	"quests.space_survival.iodine.title": "イオジン",
+	"quests.space_survival.iodine.title": "ヨウ素",
 	"quests.space_survival.iodine.subtitle": "キノコ化学のはじまり",
-	"quests.space_survival.iodine.desc": "歪んだキノコ、真紅のキノコの樹液を混ぜたものに、火星の大気を蒸留して得られるクリプトンを加え、それを核分裂炉の熱で熱することにより、イオジンを手に入れることができます。\n\nこの加工には時間がかかりますが、使用量は多くないので心配ご無用。Ad Astraをさらに進めれば、もっと簡単にイオジンを作れるようになります。",
+	"quests.space_survival.iodine.desc": "歪んだキノコ、真紅のキノコの樹液を混ぜたものに、火星の大気を蒸留して得られるクリプトンを加え、それを核分裂炉の熱で熱することにより、ヨウ素を手に入れることができます。\n\nこの加工には時間がかかりますが、使用量は多くないので心配ご無用。Ad Astraをさらに進めれば、もっと簡単にヨウ素を作れるようになります。",
 
 	"quests.space_survival.mars_crops.title": "火星の植物",
 	"quests.space_survival.mars_crops.subtitle": "こんなもので栄養を！？",

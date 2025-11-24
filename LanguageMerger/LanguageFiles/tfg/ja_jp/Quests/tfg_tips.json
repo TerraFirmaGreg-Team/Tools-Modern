@@ -929,7 +929,7 @@
     "quests.tfg_tips.tools_tips.base_course.task": "Look at Base Course",
 
     "quests.tfg_tips.tools_tips.gravel_roads.title": "砂利道",
-    "quests.tfg_tips.tools_tips.gravel_roads.subtitle": "ナマステ",
+    "quests.tfg_tips.tools_tips.gravel_roads.subtitle": "ありきたりな道",
     "quests.tfg_tips.tools_tips.gravel_roads.task": "Any Gravel Road Material",
     "quests.tfg_tips.tools_tips.gravel_roads.desc": "これらの材料をbase_courseに使用すると、歩行速度が&b&l10%%&r&rアップする道路を作ることができます。",
 
