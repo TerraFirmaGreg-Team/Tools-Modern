@@ -1,8 +1,8 @@
 {
-    "item.createdeco.iron_coin": "Wrought Iron Coin",
-    "item.createdeco.netherite_coin": "Blue Steel Coin",
-    "item.createdeco.industrial_iron_coin": "Steel Coin",
-    "item.createdeco.iron_coinstack": "Wrought Iron Coinstack",
-    "item.createdeco.netherite_coinstack": "Blue Steel Coinstack",
-    "item.createdeco.industrial_iron_coinstack": "Steel Coinstack"
+    "item.createdeco.iron_coin": "錬鉄のコイン",
+    "item.createdeco.netherite_coin": "青鋼のコイン",
+    "item.createdeco.industrial_iron_coin": "鋼鉄のコイン",
+    "item.createdeco.iron_coinstack": "錬鉄のコインの束",
+    "item.createdeco.netherite_coinstack": "青鋼のコインの束",
+    "item.createdeco.industrial_iron_coinstack": "鋼鉄のコインの束"
 }

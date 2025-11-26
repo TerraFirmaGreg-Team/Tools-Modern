@@ -1,7 +1,7 @@
 {
 	"__comment1": "Fix typo",
 	
-	"info.ad_astra.solar_panel": "Generates energy from the sun during the day. Note that the energy generated is dependent on the planet.",
+	"info.ad_astra.solar_panel": "日中に太陽光から発電します。発電量は惑星によって異なることに注意してください。",
 	
 	"__comment2": "Replaces the emojis with FE and mB",
 	

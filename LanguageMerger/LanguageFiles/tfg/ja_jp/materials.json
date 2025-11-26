@@ -106,5 +106,33 @@
     "material.tfg.cooked_mycelienzane": "1,3-Mycelienzane",
     "__comment3": "These two are real",
     "material.tfg.iodomethane": "ヨードメタン",
-    "material.tfg.trideuteroiodomethane": "三重ヨードメタン"
+    "material.tfg.trideuteroiodomethane": "三重ヨードメタン",
+
+    "material.tfg.lauryl_alcohol": "ラウリルアルコール",
+    "material.tfg.chlorosulfuric_acid": "塩化スルホン酸",
+    "material.tfg.sodium_dodecyl_sulfate": "ドデシル硫酸ナトリウム",
+    "material.tfg.sodium_hypochlorite": "次亜塩素酸ナトリウム",
+    "material.tfg.mutative_yeast": "変異酵母",
+    "material.tfg.proto_growth_medium": "プロト生育培地",
+    "material.tfg.fibroblast_feeder_cells": "線維芽フィーダー細胞",
+    "material.tfg.gram_stain": "グラム染色液",
+    "material.tfg.crystal_violet": "クリスタルバイオレット",
+    "material.tfg.n_n_dimethylaniline": "N,N-ジメチルアニリン",
+    "material.tfg.triglyceride_oil": "トリグリセリドオイル",
+    "material.tfg.cholesterol": "コレステロール",
+    "material.tfg.butyric_acid": "酪酸",
+
+    "material.tfg.citric_acid": "クエン酸",
+    "material.tfg.sodium_dihydrogen_citrate": "クエン酸二水素ナトリウム",
+    "material.tfg.light_stock": "スープストック",
+    "material.tfg.rich_stock": "高級なスープストック",
+    "material.tfg.brown_gravy": "グレービーソース",
+
+    "material.tfg.zircon": "ジルコン",
+    "material.tfg.silicon_tetrachloride": "四塩化ケイ素",
+    "material.tfg.zirconium_tetrachloride": "塩化ジルコニウム(IV)",
+    "material.tfg.zirconium_oxide": "ジルコニア",
+    "material.tfg.zirconium_bromide": "臭化ジルコニウム(IV)",
+    "material.tfg.zirconium_diboride": "二ホウ化ジルコニウム",
+    "material.tfg.boron_carbide": "炭化ホウ素"
 }

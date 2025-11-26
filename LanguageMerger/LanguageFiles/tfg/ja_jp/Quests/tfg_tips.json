@@ -875,10 +875,10 @@
    
     "quests.tfg_tips.lunchbox.title": "ランチボックス",
     "quests.tfg_tips.lunchbox.subtitle": "ポケットの中の冷蔵庫！",
-    "quests.tfg_tips.lunchbox.desc": "ランチボックスには9つの食品スロットがあり、食品を保冷し、長持ちさせます。\nCooling_Lunch_Boxは通常のものよりも保存効果が強いですが、氷または冷却セルを入れておく必要があります。",
+    "quests.tfg_tips.lunchbox.desc": "ランチボックスには9つの食品スロットがあり、食品を保冷し、長持ちさせます。\n保冷ランチボックスは通常のものよりも保存効果が強いですが、氷または冷却用のセルを入れておく必要があります。",
     "quests.tfg_tips.lunchbox.task.1": "任意のランチボックス",
     "quests.tfg_tips.lunchbox.task.2": "任意の氷のブロック",
-    "quests.tfg_tips.lunchbox.task.3": "液体氷を含む任意のセル",
+    "quests.tfg_tips.lunchbox.task.3": "液体氷泥を含む任意のセル",
    
     "quests.tfg_tips.transportation_tips.title": "Tips - 移動手段",
     "quests.tfg_tips.transportation_tips.subtitle": "この世界の歩き方",
