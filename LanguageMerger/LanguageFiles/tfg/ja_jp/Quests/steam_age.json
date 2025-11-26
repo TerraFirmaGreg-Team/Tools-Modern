@@ -136,7 +136,7 @@
    
     "quests.steam_age.forge_hammer.title": "高圧蒸気式鍛造機",
     "quests.steam_age.forge_hammer.subtitle": "高圧蒸気式鍛造機は、鍛造をします",
-    "quests.steam_age.forge_hammer.desc": "この機械により、これまで鍛造が必要だった多くのレシピを任せられるようになりました！\n\n&b丸石を砂利に&r、&d砂利を砂に&r粉砕処理することもできます。それも、非常に高速に。\n\nなにより重要なこととして、&aプレート&rをより低コストに作成します：&63つのインゴットで2枚のプレートが！&rお得ですね！\n\nそれに加えて、Helve_Hammerのように、時間をかけて塊鉄を錬鉄に、銑鉄をスチールにすることができます！",
+    "quests.steam_age.forge_hammer.desc": "この機械により、これまで鍛造が必要だった多くのレシピを任せられるようになりました！\n\n&b丸石を砂利に&r、&d砂利を砂に&r粉砕処理することもできます。それも、非常に高速に。\n\nなにより重要なこととして、&aプレート&rをより低コストに作成できます。なんと&63つのインゴットで2枚のプレートが！&rお得ですね！\n\nそれに加えて、Helve_Hammerのように、時間をかけて塊鉄を錬鉄に、銑鉄をスチールにすることができます！",
    
     "quests.steam_age.alloy_smelter.title": "高圧蒸気式合金製錬機",
     "quests.steam_age.alloy_smelter.subtitle": "高圧蒸気式合金製錬機は、合金精錬をします",

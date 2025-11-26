@@ -8,12 +8,12 @@
 	"gtceu.machine.lp_steam_extractor.tooltip": "§7Does not extract fluids",
 	"gtceu.machine.hp_steam_extractor.tooltip": "§7Does not extract fluids",
 
-	"gtceu.jei.bedrock_fluid.moon_helium": "Lunar Helium",
-	"gtceu.jei.bedrock_fluid.moon_helium_3": "Lunar Helium-3",
-	"gtceu.jei.bedrock_fluid.moon_argon": "Lunar Argon",
+	"gtceu.jei.bedrock_fluid.moon_helium": "ヘリウム",
+	"gtceu.jei.bedrock_fluid.moon_helium_3": "ヘリウム3",
+	"gtceu.jei.bedrock_fluid.moon_argon": "アルゴン",
 
-	"gtceu.jei.bedrock_fluid.semiheavy_ammoniacal_water": "Martian Semiheavy Ammoniacal Water",
-	"gtceu.jei.bedrock_fluid.liquid_carbon_dioxide": "Martian Liquid Carbon Dioxide",
-	"gtceu.jei.bedrock_fluid.heavy_ammoniacal_water": "Martian Heavy Ammoniacal Water",
-	"gtceu.jei.bedrock_fluid.liquid_ice": "Martian Ice"
+	"gtceu.jei.bedrock_fluid.semiheavy_ammoniacal_water": "アンモニア交じりの半重水",
+	"gtceu.jei.bedrock_fluid.liquid_carbon_dioxide": "液化二酸化炭素",
+	"gtceu.jei.bedrock_fluid.heavy_ammoniacal_water": "アンモニア交じりの重水",
+	"gtceu.jei.bedrock_fluid.liquid_ice": "氷"
 }

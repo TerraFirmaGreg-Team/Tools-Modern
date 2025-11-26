@@ -17,8 +17,8 @@
 	"material.gtceu.aluminium_silicate": "ケイ酸アルミニウム",
 
 	"material.gtceu.rocket_alloy_t1": "R-AS ロケット合金",
-	"material.gtceu.rocket_alloy_t2": "ASM 4914 チタニウム ロケット合金",
-	"material.gtceu.rocket_alloy_t3": "45-Ti タングステンスチール ロケット合金",
+	"material.gtceu.rocket_alloy_t2": "ASM-4914 チタニウムロケット合金",
+	"material.gtceu.rocket_alloy_t3": "45-Ti タングステンスチールロケット合金",
   	"material.gtceu.vitrified_asbestos": "ガラス化した石綿",
  	"material.gtceu.liquid_carbon_dioxide": "液化二酸化炭素",
 	
@@ -26,9 +26,9 @@
 
 	"material.gtceu.hot_debrominated_brine": "Hot Debrominated Brine",
 	"material.gtceu.hydrogen_iodide": "ヨウ化水素 ",
-	"material.gtceu.dense_steam": "原子力蒸気",
+	"material.gtceu.dense_steam": "高圧蒸気",
 	"material.gtceu.radioactive_steam": "放射性蒸気",
-	"material.gtceu.radioactive_waste": "放射性残留物",
+	"material.gtceu.radioactive_waste": "放射性廃棄物",
 	"material.gtceu.irradiated_steam": "高濃度放射性蒸気",
 	"material.gtceu.heavy_water": "重水",
 	"material.gtceu.uranium_waste": "ウラニウム残留物",

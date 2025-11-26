@@ -556,9 +556,9 @@
 	"block.tfg.casings.bioculture_rotor_secondary": "Secondary Bioculture Rotor",
 
 	"block.tfg.casings.machine_casing_ostrum_carbon": "オストラム製マシン外装",
-	"block.tfg.casings.heat_pipe_casing": "熱伝導パイプ外装",
-	"block.tfg.glacian_wool_frame": "氷塊羊毛の枠組み",
-	"block.tfg.aes_insulation_frame": "AES断熱材の枠組み",
+	"block.tfg.casings.heat_pipe_casing": "ヒートパイプ外装",
+	"block.tfg.glacian_wool_frame": "氷塊羊毛の耐熱フレーム",
+	"block.tfg.aes_insulation_frame": "AES断熱材の耐熱フレーム",
 
 	"__comment1": "TODO",
 	"__comment2": "block.tfg.corallium_arenicolus_0: Corallium Arenicolus",
@@ -653,5 +653,10 @@
 
 	"block.tfg.growth_monitor": "Growth Monitor",
 	"block.tfg.sample_rack": "Sample Rack",
-	"block.tfg.casings.machine_casing_sterilizing_pipes": "Sterilizing Pipes"
+	"block.tfg.casings.machine_casing_sterilizing_pipes": "Sterilizing Pipes",
+
+	"block.tfg.moderate_core": "モデレートコア",
+    "block.tfg.impure_moderate_core": "不純なモデレートコア",
+    "block.tfg.moderate_core_frame": "モデレートコアフレーム",
+    "block.tfg.impure_moderate_core_frame": "不純なモデレートコアフレーム"
 }
