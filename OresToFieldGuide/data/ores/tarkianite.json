@@ -1,0 +1,33 @@
+{
+  "id": "tarkianite",
+  "formula": "CuFeRe₄Mo₄S₈",
+  "ore_block": "gtceu:raw_tarkianite_block",
+  "indicator": "gtceu:tarkianite_indicator",
+  "translations": [
+    {
+      "lang": "en_us",
+      "text": "Tarkianite",
+      "info": "$(thing)Source of$(): Rhenium, Molybdenum"
+    },
+    {
+      "lang": "pt_br",
+      "text": "Tarcianita",
+      "info": "$(thing)Fonte de$(): Rênio, Molibdênio"
+    },
+    {
+      "lang": "ru_ru",
+      "text": "Таркианит",
+      "info": "$(thing)Хромит$(): Рений, Молибден"
+    },
+    {
+      "lang": "uk_ua",
+      "text": "Таркіаніт",
+      "info": "$(thing)Джерело$(): Реній, Молібденум"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "塔基安石",
+      "info": "$(thing)来源$(): 铼, 钼"
+    }
+  ]
+}
