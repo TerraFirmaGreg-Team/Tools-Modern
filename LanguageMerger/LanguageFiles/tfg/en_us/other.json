@@ -99,10 +99,15 @@
     "tfg.emi.ore_veins.rock_types": "Found in rock types:",
     "tfg.emi.ore_veins.rarity": "Rarity: %d",
     "tfg.emi.ore_veins.density": "Density: %d",
-    "tfg.emi.ore_veins.y_ranges": "Depth: %d to %d",
+    "tfg.emi.ore_veins.y_ranges": "Y Level: %d to %d",
     "tfg.emi.ore_veins.size": "Size: %d",
     "tfg.emi.ore_veins.height": "Height: %d",
     "tfg.emi.ore_veins.radius": "Radius: %d",
+    "ore_vein.tfg.rose_quartz": "Rose Quartz",
+    "ore_vein.tfg.rose_quartz.emi.0": "Found in low-elevation",
+    "ore_vein.tfg.rose_quartz.emi.1": "biomes in climates",
+    "ore_vein.tfg.rose_quartz.emi.2": "below -10°C.",
+
     "emi.category.tfg.ore_vein_info": "Ore Veins",
 
     "tfg.emi.liquid_bb_burn_time": "Duration: %d secs",

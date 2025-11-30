@@ -12,5 +12,8 @@ namespace OresToFieldGuide
 
 		[JsonPropertyName("info")]
 		public string? Info { get; set; }
+
+		[JsonPropertyName("emi")]
+		public string? Emi { get; set; }
 	}
 }

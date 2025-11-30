@@ -57,7 +57,8 @@
 		{
 			"lang": "en_us",
 			"text": "Tarkianite & Oilsands",
-			"info": "Only appears in hot deserts to the South-West."
+			"info": "Only appears in deserts to the $(thing)South-West$(), with a minimum temperature of 7°C and a maximum rainfall of 100mm.",
+			"emi": "Only in dry climates.\\nMin temp: 7°C\\nMax rainfall: 100mm"
 		},
 		{
 			"lang": "pt_br",

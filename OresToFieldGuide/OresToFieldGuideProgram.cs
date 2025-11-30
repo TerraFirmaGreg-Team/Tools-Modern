@@ -211,11 +211,13 @@ namespace OresToFieldGuide
 					{
 						vein.TranslatedNames[locale] = translation.Text;
 						vein.TranslatedInfo[locale] = translation.Info;
+						vein.TranslatedEmi[locale] = translation.Emi;
 					}
 					else
 					{
 						vein.TranslatedNames[locale] = vein.TranslatedNames[s_fallbackLocale];
 						vein.TranslatedInfo[locale] = vein.TranslatedInfo[s_fallbackLocale];
+						vein.TranslatedEmi[locale] = vein.TranslatedEmi[s_fallbackLocale];
 					}
 				}
 
@@ -631,7 +633,30 @@ namespace OresToFieldGuide
 					{
 						sb.Append($"new OreVeinInfoRecipe.WeightedBlock(\"{value.OreID}\", {(int) (value.WeightPercent ?? 0)}),");
 					}
-					sb.AppendLine("}),");
+					sb.AppendLine("},");
+
+					if (vein.TranslatedEmi.Any() && !string.IsNullOrWhiteSpace(vein.TranslatedEmi["en_us"]))
+					{
+						sb.Append($"\t\t\t\tnew String[] {{");
+						
+						var split = vein.TranslatedEmi["en_us"]!.Split("\\n");
+						for (int i = 0; i < split.Length; i++)
+						{
+							sb.Append($"\"ore_vein.tfg.{vein.ID}.emi.{i}\"");
+							if (i + 1 < split.Length)
+							{
+								sb.Append(", ");
+							}
+						}
+
+						sb.Append("}");
+					}
+					else
+					{
+						sb.Append("\t\t\t\tnull");
+					}
+
+					sb.AppendLine("),");
 				}
 			}
 			sb.AppendLine("\t};");
@@ -657,6 +682,17 @@ namespace OresToFieldGuide
 						if (vein.TranslatedNames.TryGetValue(locale, out string? value))
 						{
 							sb.Append($"\t\"ore_vein.tfg.{vein.ID}\": \"{value}\"");
+
+							if (vein.TranslatedEmi.TryGetValue(locale, out string? info) && !string.IsNullOrWhiteSpace(info))
+							{
+								int i = 0;
+								foreach (var split in info.Split("\\n"))
+								{
+									sb.AppendLine(",");
+									sb.Append($"\t\"ore_vein.tfg.{vein.ID}.emi.{i++}\": \"{split}\"");
+								}
+							}
+
 							if (vein == lastVein)
 							{
 								sb.AppendLine();

@@ -60,6 +60,12 @@ namespace OresToFieldGuide
 		/// </summary>
 		[JsonIgnore]
 		public Dictionary<string, string?> TranslatedInfo { get; } = [];
+
+		/// <summary>
+		/// Dictionary of <see cref="Translation.Language"/>, <see cref="Translation.Emi"/>
+		/// </summary>
+		[JsonIgnore]
+		public Dictionary<string, string?> TranslatedEmi { get; } = [];
 	}
 
 	public class VeinConfig
