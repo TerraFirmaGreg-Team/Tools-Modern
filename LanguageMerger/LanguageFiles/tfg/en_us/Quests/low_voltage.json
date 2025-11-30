@@ -353,5 +353,5 @@
 
 	"quests.low_voltage.oil.title": "Found Oil early?",
 	"quests.low_voltage.oil.subtitle": "For LV overachievers",
-	"quests.low_voltage.oil.desc": "If you've found any Oilsands or Oil spouts in your travels, you can actually start using a little bit of it in LV.\n\nYou can either convert it into Heavy Fuel and put it in your boilers, or better yet, use it to make a little &bPolyethylene&r!\n\nThe details of this are in the MV chapter, but at this point you can use the polyethylene to make a few things such as cheaper Machine Hulls and Diodes."
+	"quests.low_voltage.oil.desc": "If you've found any Oilsands ores or Oil spouts (in deserts) in your travels, you can actually start using a little bit of it in LV.\n\nYou can either convert it into Heavy Fuel and put it in your boilers, or better yet, use it to make a little &bPolyethylene&r!\n\nThe details of this are in the MV chapter, but at this point you can use the polyethylene to make a few things such as cheaper Machine Hulls and Diodes."
 }
