@@ -315,5 +315,9 @@
 
     "quests.medium_voltage.lsb.title": "Getting very steamy",
     "quests.medium_voltage.lsb.subtitle": "If you have unlimited fuel, it can still be good",
-    "quests.medium_voltage.lsb.desc": "If you're &lstill&r running off the &3Large Bronze Boiler&r, you may want to upgrade to the &3Large Steel Boiler&r.\n\nIt's slightly more efficient than the &3LBB&r, and produces &d1800 mB/t of Steam&r.\n\nWe'd recommend you try other power options at this point."
+    "quests.medium_voltage.lsb.desc": "If you're &lstill&r running off the &3Large Bronze Boiler&r, you may want to upgrade to the &3Large Steel Boiler&r.\n\nIt's slightly more efficient than the &3LBB&r, and produces &d1800 mB/t of Steam&r.\n\nWe'd recommend you try other power options at this point.",
+
+    "quests.medium_voltage.stainless_greate.title": "Stainless Steel-tier Greate",
+    "quests.medium_voltage.stainless_greate.subtitle": "High Stress",
+    "quests.medium_voltage.stainless_greate.desc": "This quest is just here to let you know that Greate has another upgrade at this point.\n\nYou may find the next tier of Crushing Wheels useful, as they can give the full amount of byproducts, just like the HV Macerator, but also process multiple items at the same time!"
 }

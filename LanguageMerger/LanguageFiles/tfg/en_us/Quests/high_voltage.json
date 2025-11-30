@@ -261,6 +261,8 @@
 
     "quests.high_voltage.final_dust.title": "Infinite Dusts",
     "quests.high_voltage.final_dust.subtitle": "Finally infinite resources",
-    "quests.high_voltage.final_dust.desc": "This is all the &cinfinite resources&r you can obtain on the &7Moon&r before unlocking the more advanced processing available on &eVenus&r.\n\nWith these, you should have everything you need to keep progressing through &dGregTech&r — especially to secure the &amaintenance&r of your Moon Base.\n\nThese resources are essential for:\n• Crafting &dAE2 components&r\n• Producing an &cinfinite&r supply of &6Railgun Ammo&r\n\nPassive automation is now within your reach — take the step and make it happen!"
+    "quests.high_voltage.final_dust.desc": "This is all the &cinfinite resources&r you can obtain on the &7Moon&r before unlocking the more advanced processing available on &eVenus&r.\n\nWith these, you should have everything you need to keep progressing through &dGregTech&r — especially to secure the &amaintenance&r of your Moon Base.\n\nThese resources are essential for:\n• Crafting &dAE2 components&r\n• Producing an &cinfinite&r supply of &6Railgun Ammo&r\n\nPassive automation is now within your reach — take the step and make it happen!",
 
+    "quests.high_voltage.titanium_greate.title": "Titanium-tier Greate",
+    "quests.high_voltage.titanium_greate.desc": "This is the final tier of Greate that's accessible in TerraFirmaGreg. The only \"extreme\" it's doing is being extremely optional."
 }

@@ -40,7 +40,7 @@
 	"quests.low_voltage.link_chapter.title": "Explain energy to me",
 	"quests.low_voltage.link_chapter.subtitle": "There is a whole chapter about energy",
 	"quests.low_voltage.link_chapter.desc": "View the chapter by clicking here",
-	"quests.low_voltage.link_chapter.task": "Read it",
+	"quests.low_voltage.link_chapter.task": "I read it",
 
 	"quests.low_voltage.lv_combuston_gen.title": "The Combustion Generator",
 	"quests.low_voltage.lv_combuston_gen.subtitle": "It does boom and make energy",
@@ -280,7 +280,7 @@
 
 	"quests.low_voltage.lv_arc_furnace.title": "The Arc Furnace",
 	"quests.low_voltage.lv_arc_furnace.subtitle": "The Arc Furnace has never been so good",
-	"quests.low_voltage.lv_arc_furnace.desc.1": "The &3Arc Furnace&r uses a lil' bit of &9Oxygen&r to smelt items in a different fashion than Furnaces.\n\nYou can use it to make easier &aWrought Iron&r, double your &aGlass&r, and gain access to &aAnnealed Copper&r for cheaper electronic components. It's also your new best way to make &4Red Steel&r and &1Blue Steel&r Ingots!\n\nIt can also recycle various components and machines back to their original materials.",
+	"quests.low_voltage.lv_arc_furnace.desc.1": "The &3Arc Furnace&r uses a lil' bit of &9Oxygen&r to smelt items in a different fashion than Furnaces.\n\nYou can use it to make easier &aWrought Iron&r, double your &aGlass&r, and gain access to &aAnnealed Copper&r for cheaper electronic components.\n\nIt can also recycle various components and machines back to their original materials.",
 	"quests.low_voltage.lv_arc_furnace.desc.2": "&l&3Lore:&r&o Previous GregTech versions had both the Arc Furnace and the &bPlasma Arc Furnace&f. In that case, why not use one machine for both? Well, that's exactly what we thought - but we ultimately decided to remove one of the two &bplasma&f recipes. And then the other &bplasma&f recipe.\n\n&oIn short, the &bPlasma Arc Furnace&f is &4gone&f. RIP.",
 
 	"__comment17": "First EBF",
@@ -310,7 +310,7 @@
 
 	"quests.low_voltage.cupronickel_ingot.title": "Cupronickel Ingots",
 	"quests.low_voltage.cupronickel_ingot.subtitle": "It's an alloy",
-	"quests.low_voltage.cupronickel_ingot.desc": "&7A big part of progression in GregTech revolves around gaining access to new materials\nthat you'll use to upgrade your machines or unlock advanced components.&r\n\nThe first alloy you'll encounter is &bCupronickel&r — the beginning of a long journey.\nThis material is used to upgrade your &6Electric Blast Furnace&r, an essential step in your industrial growth.\n\nLuckily, this first step is fairly simple: a basic &7LV Alloy Smelter&r will get the job done.\nSo even if the recipe asks for &b128 Cupronickel&r, don't worry — it's easier than it looks!&r\n\nLater on, their counterparts will become much more complex, so enjoy the simplicity while it lasts!",
+	"quests.low_voltage.cupronickel_ingot.desc": "A big part of progression in GregTech revolves around gaining access to new materials that you'll use to upgrade your machines or unlock advanced components.\n\nOne such material you'll encounter is &bCupronickel&r — the beginning of a long journey.\nThis material is used to build your first &6Electric Blast Furnace&r, an essential step in your industrial growth.\n\nLuckily, this first step is fairly simple: an Alloy Smelter will get the job done.\nSo even if the recipe asks for &b128 Cupronickel&r, don't worry — it's easier than it looks!&r\n\nLater on, their counterparts will become much more complex, so enjoy the simplicity while it lasts!",
 
 	"quests.low_voltage.cupronickel_coil.title": "Cupronickel Coils",
 	"quests.low_voltage.cupronickel_coil.subtitle": "Baby's first heating coil",
@@ -345,6 +345,13 @@
 	"quests.low_voltage.mv_hull.title": "Your third machine hull",
 	"quests.low_voltage.mv_hull.subtitle": "This is going quite well, only 7 to go!",
 	"quests.low_voltage.mv_hull.desc1": "Good job, you now have your &bMV Machine Hull&r, your first &bMV Circuit&r and your first &6Circuit Assembler&r.\n\nThis is the gist of &6GregTech&r, every tier you are going to make new &6machines&r using new &6materials&r and &6chemicals&r. You are going to have &5so much fun&r, we are kinda jealous!",
-	"quests.low_voltage.mv_hull.desc2": "Before going further into &bMV&r, remember that in &6TFG&r you can use &6Create&r to reinforce your infrastructure if you don't want to use too much of GregTech. Aluminium Shafts and Cogwheels have 4x the stress capacity of steel ones, so you should be able to run all your machines much faster with them!"
-	
+	"quests.low_voltage.mv_hull.desc2": "Before going further into &bMV&r, remember that in &6TFG&r you can use &6Create&r to reinforce your infrastructure if you don't want to use too much of GregTech. Aluminium Shafts and Cogwheels have 4x the stress capacity of steel ones, so you should be able to run all your machines much faster with them!",
+
+	"quests.low_voltage.aluminium_greate.title": "Aluminium-tier Greate",
+	"quests.low_voltage.aluminium_greate.subtitle": "Also known as Medium Stress",
+	"quests.low_voltage.aluminium_greate.desc": "It's been a while since your last upgrade, but now you have access to the next tier of Greate cogs and shafts. Like before, the aluminium ones have &bfour times&r the stress capacity of steel.\n\nContinuing with Greate beyond this point is very optional, and we encourage you to move over to GregTech, but the upgrade may help you de-spaghettify some of your old setups if you'd like to continue using them.\n\nYou can scale up your stress more with a &eSteam Engine&r, or convert EU into SU via the &9Create Additions&r &eElectric Motor&r.",
+
+	"quests.low_voltage.oil.title": "Found Oil early?",
+	"quests.low_voltage.oil.subtitle": "For LV overachievers",
+	"quests.low_voltage.oil.desc": "If you've found any Oilsands or Oil spouts in your travels, you can actually start using a little bit of it in LV.\n\nYou can either convert it into Heavy Fuel and put it in your boilers, or better yet, use it to make a little &bPolyethylene&r!\n\nThe details of this are in the MV chapter, but at this point you can use the polyethylene to make a few things such as cheaper Machine Hulls and Diodes."
 }
