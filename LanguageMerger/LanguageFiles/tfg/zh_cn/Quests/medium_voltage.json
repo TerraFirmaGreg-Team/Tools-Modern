@@ -10,7 +10,7 @@
     "quests.medium_voltage.mv_miner.title": "自动采矿",
     "quests.medium_voltage.mv_miner.subtitle": "所以你自己挖矿挖烦了？",
     "quests.medium_voltage.mv_miner.desc.1": "当这位&r好心的帮手被放置在矿脉上方时能替你采集矿石。\n\n矿机下方的垂直范围无限，水平范围显示在提示信息中。\n\n&bMV&r型号可能不足以覆盖整个矿脉范围，但&6HV&r型号可以做到，因此建议你暂时等待后续型号。本任务只需获得&e任意一种&r型号即可完成。",
-    "quests.medium_voltage.mv_miner.desc.2": "你将需要&9电力&r。&a充电电池&r或许能应急，但容易耗尽电力，操作起来不太方便。\n\n我们首推使用装有某种燃料的&3桶&r&7（若使用蒸汽则行不通！）&r配合&3发电机&r使用。\n\n将桶放置在发电机上方，用&5软槌&r右键即可自动将燃料输入发电机。",
+    "quests.medium_voltage.mv_miner.desc.2": "你将需要&9电力&r。&a充电电池&r或许能应急，但容易耗尽电力，操作起来不太方便。\n\n我们首推使用装有某种燃料的&3桶&r&7（若使用蒸汽则行不通！）&r配合&3发电机&r使用。\n\n将桶放置在发电机上方，用&5软槌&r或&5螺丝刀&r右键即可自动将燃料输入发电机。",
     "quests.medium_voltage.mv_miner.desc.3": "&c注意：&r不要忘记对矿脉所有&d9个区块进行区块加载&r&7（打开地图，按住Ctrl+左键点击申领区块，申领后启用强制加载）&r。\n\n&9提示：&r你可以选择使用&3ME箱子&r、&3背包&r或&3格雷板条箱&r作为输出容器，便于将矿石运回基地。顺带一提，&3ME箱子&r可直接通过EU供电。",
     "quests.medium_voltage.mv_miner.task": "任何采矿机",
     "quests.medium_voltage.mv_component.title": "MV组件",
@@ -245,5 +245,8 @@
     "quests.medium_voltage.mv_cpu.desc": "&a&eCPU&r是你工厂中最重要的技术部件之一。\n\n&eCPU晶圆&r较为特殊——后续它可以通过&2化学反应&r进行升级。\n\n当前阶段你需要&eCPU芯片&r来制作现阶段可用的最佳&bMV&r电路。\n\n请务必多生产一些，因为它们对未来升级至关重要。",
     "quests.medium_voltage.lsb.title": "蒸汽腾腾",
     "quests.medium_voltage.lsb.subtitle": "若你拥有无限燃料，这仍是可行方案",
-    "quests.medium_voltage.lsb.desc": "若你&l仍在&r使用&3大型青铜锅炉&r，建议升级至&3大型钢锅炉&r。\n\n它的效率比&3大型青铜锅炉&r略高，可产生&d1800mB/t的蒸汽&r。\n\n现阶段我们建议你尝试其他发电方案。"
+    "quests.medium_voltage.lsb.desc": "若你&l仍在&r使用&3大型青铜锅炉&r，建议升级至&3大型钢锅炉&r。\n\n它的效率比&3大型青铜锅炉&r略高，可产生&d1800mB/t的蒸汽&r。\n\n现阶段我们建议你尝试其他发电方案。",
+    "quests.medium_voltage.stainless_greate.title": "不锈钢级格雷机械",
+    "quests.medium_voltage.stainless_greate.subtitle": "高应力",
+    "quests.medium_voltage.stainless_greate.desc": "本任务仅用于告知：格雷机械在此阶段迎来了又一次升级。\n\n你可能会发现新一代粉碎轮颇为实用——它们不仅能像HV研磨机一样提供全额副产物，还可同时处理多个物品！"
 }

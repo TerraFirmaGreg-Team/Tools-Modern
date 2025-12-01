@@ -197,5 +197,7 @@
     "quests.high_voltage.dusty_ores.task": "所有的月球积尘矿石",
     "quests.high_voltage.final_dust.title": "无限尘埃",
     "quests.high_voltage.final_dust.subtitle": "终于！无限资源！",
-    "quests.high_voltage.final_dust.desc": "这是在解锁&e金星&r上更高级的加工设施前，你能在&7月球&r上获取的所有&c无限资源&r。\n\n有了这些资源，你将拥有持续推进&d格雷科技&r进程所需的一切——尤其是维护月球基地&a正常运作&r的必需品。\n\n这些资源对以下用途至关重要：\n• 制作&dAE2组件&r\n• 生产&c无限&r供应的&6轨道炮弹药&r\n\n被动自动化现在就在你触手可及之处——迈步向前，让它成为现实！"
+    "quests.high_voltage.final_dust.desc": "这是在解锁&e金星&r上更高级的加工设施前，你能在&7月球&r上获取的所有&c无限资源&r。\n\n有了这些资源，你将拥有持续推进&d格雷科技&r进程所需的一切——尤其是维护月球基地&a正常运作&r的必需品。\n\n这些资源对以下用途至关重要：\n• 制作&dAE2组件&r\n• 生产&c无限&r供应的&6轨道炮弹药&r\n\n被动自动化现在就在你触手可及之处——迈步向前，让它成为现实！",
+    "quests.high_voltage.titanium_greate.title": "钛级格雷机械",
+    "quests.high_voltage.titanium_greate.desc": "这是在 TFG 中可达成的最终等级格雷机械。若说它有何“极限”之处——那便是极致的可选性（完全不做也行）。"
 }

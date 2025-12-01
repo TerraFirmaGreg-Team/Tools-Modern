@@ -31,7 +31,7 @@
     "quests.low_voltage.link_chapter.title": "给我解释一下能量",
     "quests.low_voltage.link_chapter.subtitle": "有一整章关于能量的内容",
     "quests.low_voltage.link_chapter.desc": "点击此处查看章节",
-    "quests.low_voltage.link_chapter.task": "阅读它",
+    "quests.low_voltage.link_chapter.task": "我读完了",
     "quests.low_voltage.lv_combuston_gen.title": "内燃发电机",
     "quests.low_voltage.lv_combuston_gen.subtitle": "它会轰隆作响并产生能量",
     "quests.low_voltage.lv_combuston_gen.desc": "&7LV内燃发电机&r的制作成本可能略高于其他发电机，但其燃料蕴含极高能量。这使得它更便于携带——当需要为远离基地的发电机供能时，一桶&2生物柴油&r即可传输大量电力。\n\n与其他&7LV发电机&r一样，它可产生&a32EU/t&r的能量。",
@@ -241,7 +241,7 @@
     "quests.low_voltage.mold_plate.desc": "别再用&6合金炉&r浪费时间了。你将需要大量&6橡胶片&r，后续阶段还会用它处理其他类型的塑料制品。\n\n或许你认为能用压模器制作橡胶片，但&6流体固化机&r功能多样，而压模器在&bMV&r阶段前几乎没用。",
     "quests.low_voltage.cupronickel_ingot.title": "白铜锭",
     "quests.low_voltage.cupronickel_ingot.subtitle": "它是一种合金",
-    "quests.low_voltage.cupronickel_ingot.desc": "&7格雷科技进阶的一大核心在于获取新材料，这些材料将用于升级机器和解锁高级组件。&r\n\n你将接触的第一种合金是&b白铜&r——这仅是漫长征程的起点。\n该材料用于升级&6电力高炉&r，乃是工业发展不可或缺的关键步骤。\n\n幸运的是，这第一步相当简单：基础的&7LV合金炉&r即可胜任。\n因此即便配方显示需要&b128个白铜&r也无需担忧——实际操作比看起来容易得多！&r\n\n后续阶段的合金制备将日趋复杂，趁简单的时候好好享受吧！",
+    "quests.low_voltage.cupronickel_ingot.desc": "格雷科技进阶的一大核心在于获取新材料，这些材料将用于升级机器和解锁高级组件。\n\n你即将接触的其中一种材料是&b白铜&r——这仅是漫长征程的起点。\n该材料用于建造你的第一座&6电力高炉&r，乃是工业发展不可或缺的关键步骤。\n\n幸运的是，这第一步相当简单：一台&7合金炉&r即可胜任。\n因此即便配方显示需要&b128个白铜&r也无需担忧——实际操作比看起来容易得多！&r\n\n后续阶段的合金制备将日趋复杂，趁简单的时候好好享受吧！",
     "quests.low_voltage.cupronickel_coil.title": "白铜线圈",
     "quests.low_voltage.cupronickel_coil.subtitle": "宝宝的第一个加热线圈",
     "quests.low_voltage.cupronickel_coil.desc": "准备&a128份白铜&r、&a32份青铜&r与&a16份锡合金&r，用于制造初代电力高炉所需的加热线圈。\n\n这仍不到整座电力高炉原材料成本的一半（！）。你还需要准备约各一组的殷钢与钢材，请尽快投入采矿作业。\n\n白铜线圈能使电力高炉处理最高&d1800K&r的配方（未计入电压增益）。这个温度在我们看来相当炙热。\n\n&6线圈详解教程位于&l格雷科技能源&r&6标签页——前往查阅以了解更多！&r",
@@ -269,5 +269,11 @@
     "quests.low_voltage.mv_hull.title": "你的第三个机器外壳",
     "quests.low_voltage.mv_hull.subtitle": "进展相当顺利，只剩7个了！",
     "quests.low_voltage.mv_hull.desc1": "干得漂亮！你现在已经有了&bMV机器外壳&r、第一块&bMV电路&r和第一台&6电路组装机&r。\n\n这正是&6格雷科技&r的精髓所在——每个阶段你都将运用全新的&6材料&r与&6化工产品&r来制造新一代&6机器&r。接下来你将体验&5酣畅淋漓的创造乐趣&r，我们都有点羡慕了！",
-    "quests.low_voltage.mv_hull.desc2": "在深入&bMV&r阶段之前请记住，若不想过度依赖格雷科技，在&6TFG&r整合包中你可以运用&6机械动力&r来强化基础设施。铝制传动杆与齿轮的应力容量是钢制的四倍，装配后所有机器都能更快地运转！"
+    "quests.low_voltage.mv_hull.desc2": "在深入&bMV&r阶段之前请记住，若不想过度依赖格雷科技，在&6TFG&r整合包中你可以运用&6机械动力&r来强化基础设施。铝制传动杆与齿轮的应力容量是钢制的四倍，装配后所有机器都能更快地运转！",
+    "quests.low_voltage.aluminium_greate.title": "铝级格雷机械",
+    "quests.low_voltage.aluminium_greate.subtitle": "也被称为“中应力”阶段",
+    "quests.low_voltage.aluminium_greate.desc": "距上次升级已有一段时日，现在你终于解锁了全新等级的格雷机械齿轮与传动轴。与之前一样，铝质部件的应力容量达到了钢质的&b四倍&r。\n\n继续推进格雷机械系列内容完全属于可选流程——我们更建议你转向格雷科技主线发展。但若你希望继续沿用原有设备，本次升级将帮助你&b理顺&r部分旧装置的杂乱布局。\n\n你可以通过&e蒸汽引擎&r进一步提升整体应力规模，或利用&9Create Additions&r的&e电动马达&r将EU电能转化为SU应力单位。",
+    "quests.low_voltage.oil.title": "提前发现石油了？",
+    "quests.low_voltage.oil.subtitle": "致LV阶段的卷王",
+    "quests.low_voltage.oil.desc": "若你在旅途中发现任何油砂矿或（沙漠中的）石油喷口，其实在LV阶段便可稍加利用。\n\n你可将其转化为重燃油用于锅炉，或更佳——用它生产少量&b聚乙烯&r！\n\n相关细节虽在MV章节，但此刻你已可用聚乙烯制造数种物品，例如成本更低的机器外壳与二极管。"
 }
