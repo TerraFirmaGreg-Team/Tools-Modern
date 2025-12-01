@@ -304,7 +304,7 @@
 
     "item.tfg.flax_seeds": "Семена льна",
     "item.tfg.flax_product": "Льняной стебель",
-    "item.tfg.flax_bundle": "Связка льна,
+    "item.tfg.flax_bundle": "Связка льна",
     "item.tfg.flax_line": "Волокна льна",
     "item.tfg.flax_tow": "Kьняные очёски",
     "item.tfg.flax_waste": "Костра льна",
@@ -377,5 +377,6 @@
     "item.tfg.bell_casting_mold": "Отливная форма (Колокол)"
 
 }
+
 
 
