@@ -115,5 +115,11 @@
     "material.tfg.zirconium_oxide": "氧化锆",
     "material.tfg.zirconium_bromide": "溴化锆(IV)",
     "material.tfg.zirconium_diboride": "二硼化锆",
-    "material.tfg.boron_carbide": "碳化硼"
+    "material.tfg.boron_carbide": "碳化硼",
+    "material.tfg.syngas": "合成气",
+    "material.tfg.raw_aromatic_mix": "粗芳香混合物",
+    "material.tfg.aromatic_feedstock": "芳香原料",
+    "material.tfg.reformed_aromatic_feedstock": "重整芳香原料",
+    "material.tfg.reformate_gas": "重整气",
+    "material.tfg.cracker_off_gas": "裂化重整尾气"
 }
