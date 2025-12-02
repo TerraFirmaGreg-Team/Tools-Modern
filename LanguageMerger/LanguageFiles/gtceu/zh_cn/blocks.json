@@ -12,8 +12,8 @@
     "block.gtceu.evaporation_tower": "蒸发塔",
     "block.gtceu.ostrum_harvester": "紫金采集器",
     "block.gtceu.moon_dust_harvester": "月壤采集器",
-    "block.gtceu.coal_liquefaction_tower": "煤炭液化塔",
     "block.tfg.ostrum_linear_accelerator": "紫金线性加速器",
+    "block.gtceu.coal_liquefaction_tower": "煤炭液化塔",
     "block.gtceu.ulv_super_tank": "基础超级缸",
     "block.gtceu.ulv_super_chest": "基础超级箱",
     "block.gtceu.ulv_hermetic_casing": "基础密封机械方块",
@@ -62,5 +62,7 @@
     "gtceu.tooltip.machine.nuclear_fuel_factory_1": "§7超劲爆燃料棒制造厂§r",
     "gtceu.tooltip.machine.nuclear_fuel_factory_2": "§7将原始放射性材料加工成裂变燃料§r",
     "gtceu.tooltip.machine.steam_bloomery_1": "§7用蒸汽动力升级你的锻铁炉！§r",
-    "gtceu.tooltip.machine.steam_bloomery_2": "§7将含铁矿粉或锭加工成生铁方坯。\n使用焦煤或无烟煤可倍增产量。\n支持最多8组配方并行处理，相应调整蒸汽需求。§r"
+    "gtceu.tooltip.machine.steam_bloomery_2": "§7将含铁矿粉或锭加工成生铁方坯。\n使用焦煤或无烟煤可倍增产量。\n支持最多8组配方并行处理，相应调整蒸汽需求。§r",
+    "gtceu.tooltip.machine.coal_liquefaction_tower_1": "§7碳素奶昔制造机§r",
+    "gtceu.tooltip.machine.coal_liquefaction_tower_2": "§7从碳质固体与杂酚油中提取气体燃料§r"
 }
