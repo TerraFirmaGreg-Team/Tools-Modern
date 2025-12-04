@@ -663,6 +663,9 @@
 	"block.tfg.evaporation_tower": "Evaporation Tower",
 	"block.tfg.cooling_tower": "Nuclear Cooling Tower",
 
+	"block.tfg.smr_generator": "Small Modular Turbine",
+	"block.tfg.casings.machine_casing_desh_ptfe": "Radiation-Safe Desh Casing",
+
 	"block.tfg.growth_monitor": "Growth Monitor",
 	"block.tfg.sample_rack": "Sample Rack",
 	"block.tfg.casings.machine_casing_sterilizing_pipes": "Sterilizing Pipes",

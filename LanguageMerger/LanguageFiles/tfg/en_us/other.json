@@ -217,6 +217,9 @@
     "tfg.tooltip.component.nuclear_turbine_1": "§eBase Production:§r 8192 EU/t",
     "tfg.tooltip.component.nuclear_turbine_2": "Each Rotor Holder above §5EV§r §7adds§r 10% efficiency and multiplies EU/t by 2.",
 
+    "tfg.tooltip.component.smr_generator_1": "§eBase Production:§r 4096 EU/t",
+    "tfg.tooltip.component.smr_generator_2": "Dedicated to produce power from sCO2 and the Small Modular Reactor.\n Use Lubricant and Booster to increase its efficiency and manage the cooling loop of the SMR.",
+
     "tfg.gui.refrigerator.unify_dates.enabled": "Expiration Date Unification is: §aOn",
     "tfg.gui.refrigerator.unify_dates.disabled": "Expiration Date Unification is: §cOff",
     "tfg.machine.food_refrigerator_power_usage": "§7Consumes§r %s EU/t §7while active to keep your food fresh.§r",
@@ -235,7 +238,11 @@
     "tfg.gui.menu.ram_usage": "RAM:",
     "tfg.gui.menu.fps_count": "FPS:",
 
-    "tfg.gui.smr_generator.credit": "Credits to Ghosti and Frontiers Team",
+    "tfg.gui.smr_generator.credit": "Credits to Frontiers Team",
     "tfg.gui.smr_generator.lubricant_used": "Lubricant: %s",
-    "tfg.gui.smr_generator.booster_used": "Booster: %s"
+    "tfg.gui.smr_generator.booster_used": "Booster: %s",
+    "tfg.gui.max_energy_per_tick_amps.prefix": "Max EU/t:",
+    "tfg.gui.consumes": "Consumes: ",
+    "tfg.gui.per_cycle": "per cycle",
+    "tfg.gui.cycle_duration": "Cycle duration: "
 }
