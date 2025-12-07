@@ -92,8 +92,8 @@
     "quests.high_voltage.ptfe.desc": "&aPolytetrafluoroethylene (PTFE)&r is a &7Carbon&r-&bFluorine&r polymer. Similarly to PVC, PTFE can be used to increase the yield of Plastic Circuit Boards and other crafts. Presently, it is used to make the walls of &3Large Chemical Reactors&r.\n\n&3Chlorine&r is required in the process, which is fully recycled if you electrolyze the &aHydrochloric Acid&r waste.\n\n&bFluorine&r will also be used in the &aUranium&r and &7Naquadah&r refinement processes.\n\n&9Tip:&r From this point onwards, you should be solidifying Polymers as &dBar&r (Ingot) form, as they can easily be shaped to whichever form you will need using the &3Extruder&r.",
 
     "quests.high_voltage.nitrobenzene.title": "Benzene Nitro",
-    "quests.high_voltage.nitrobenzene.subtitle": "This one been heavily nerfed",
-    "quests.high_voltage.nitrobenzene.desc": "In TerraFirmaGreg, &aNitrobenzene&r and &aBenzene&r have been heavily nerfed. They can still be use as fuel but mostly use as materials.\n\nThe catch here is that it consumes a bit of &dSulfur&r with every step.",
+    "quests.high_voltage.nitrobenzene.subtitle": "A shadow of its former self",
+    "quests.high_voltage.nitrobenzene.desc": "In TerraFirmaGreg, &aNitrobenzene&r and &aBenzene&r have been heavily nerfed. They can still be used as fuel, but now most of their use is as ingredients.\n\nNote that crafting Nitrobenzene consumes a bit of &dSulfur&r with every step.",
 
     "quests.high_voltage.lcr.title": "Large Chemical Reactor",
     "quests.high_voltage.lcr.desc.1": "The &3Large Chemical Reactor (LCR)&r is a multiblock &3Chemical Reactor&r with more input/output slots. Its Teflon casings allow it to process extra recipes.\n\nThe &3LCR&r can perform some exclusive reactions which allow you to combine multiple normal &3Chemical Reactor&r steps into a &6single step&r. Examples below:\n\n&9-&r &aNitrogen Dioxide&r (for Nitric Acid and Dinitrogen Tetroxide)\n&9-&r &aSulfuric Acid&r\n&9-&r &aPhenol&r\n&9-&r &aEpichlorohydrin&r (you need it for Epoxy!)\n&9-&r &aEpoxy&r",
