@@ -123,7 +123,7 @@
 
     "quests.metal_age.highcarb_black_steel.title": "Black Steel Ingredients",
     "quests.metal_age.highcarb_black_steel.subtitle": "Conservation of matter does not apply",
-    "quests.metal_age.highcarb_black_steel.desc": "The final two anvils are made out of complex alloys that will require a lot of metal to be created. Weak Steel and Pig Iron can be welded to create High Carbon Black Steel, which can then be worked on an anvil into Black Steel.",
+    "quests.metal_age.highcarb_black_steel.desc": "The final two anvils are made out of complex alloys that will require a lot of metal to be created. Weak Steel and Pig Iron can be welded to create High Carbon Black Steel, which can then be worked on an anvil into Black Steel.\n\nOnce you get a Steam Alloy Smelter, use that instead to &6double your output&r.",
 
     "quests.metal_age.black_steel_anvil.title": "T5 Anvil: Black Steel",
     "quests.metal_age.black_steel_anvil.subtitle": "Steam power is within your grasp",
@@ -154,12 +154,12 @@
     "quests.metal_age.weak_blue_steel.bismuth_bronze": "1 Part Bismuth Bronze",
 
     "quests.metal_age.highcarb_red_steel.title": "Red Steel Ingredients",
-    "quests.metal_age.highcarb_red_steel.subtitle": "Could deleting matter like this power a nuclear bomb?",
-    "quests.metal_age.highcarb_red_steel.desc": "Red Steel first starts as High Carbon Red Steel, which is made by welding Weak Red Steel and Black Steel. It needs to be worked on the Anvil to turn it into Red Steel",
+    "quests.metal_age.highcarb_red_steel.subtitle": "Minecraft is not a physics simulator",
+    "quests.metal_age.highcarb_red_steel.desc": "Red Steel first starts as High Carbon Red Steel, which is made by welding Weak Red Steel and Black Steel. It needs to be worked on the Anvil to turn it into Red Steel.\n\nIf you have a Steam Alloy Smelter, use that instead to &6double your output&r.",
 
     "quests.metal_age.highcarb_blu_steel.title": "Blue Steel Ingredients",
     "quests.metal_age.highcarb_blu_steel.subtitle": "Lavoisier is rolling in his grave",
-    "quests.metal_age.highcarb_blu_steel.desc": "Blue Steel first starts as High Carbon Blue Steel, which is made by welding Weak Blue Steel and Black Steel. It needs to be worked on the Anvil to turn it into Blue Steel",
+    "quests.metal_age.highcarb_blu_steel.desc": "Blue Steel first starts as High Carbon Blue Steel, which is made by welding Weak Blue Steel and Black Steel. It needs to be worked on the Anvil to turn it into Blue Steel.\n\nIf you have a Steam Alloy Smelter, use that instead to &6double your output&r.",
 
     "quests.metal_age.redblu_anvil.title": "T6 Anvil: Red or Blue Steel",
     "quests.metal_age.redblu_anvil.subtitle": "It's over",
@@ -167,7 +167,7 @@
 
     "quests.metal_age.red_steel_flask.title": "Red Steel Flask",
     "quests.metal_age.red_steel_flask.subtitle": "This got nothing on the Iron Flask",
-    "quests.metal_age.red_steel_flask.desc": "The Red Steel Flask is the best Flask available. It may hold the same amount of liquid as an Iron Flask, but the Red Steel Flask never breaks.",
+    "quests.metal_age.red_steel_flask.desc": "The Red Steel Flask is the best Flask available. It may hold the same amount of liquid as an Iron Flask, but the Red Steel Flask never breaks.\n\nFor the Silk, Phantoms can be found all over the Beneath, but are more common in the bottom layer.",
 
     "quests.metal_age.redblu_buckets.title": "Bucket Components",
     "quests.metal_age.redblu_buckets.subtitle": "Bucket Fusion Reactor",

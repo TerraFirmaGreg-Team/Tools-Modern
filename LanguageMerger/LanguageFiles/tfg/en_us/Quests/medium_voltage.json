@@ -183,10 +183,6 @@
     "quests.medium_voltage.mv_polyethylene.subtitle": "Baby's first polymer!",
     "quests.medium_voltage.mv_polyethylene.desc": "If you want to be less fancy, just call it plastic.\n\nFor the polymerization process, add &aOxygen&r, which gives better returns than Air, then solidify like you would with Rubber.\n\n&aPolyethylene (PE)&r is the key to unlocking &6many new things&r. It's commonly used as &dSheets&r, or in &dFluid&r form.\n\n&l&3Lore:&r&o The OreDict and fluid name for Polyethylene in 1.12.2 GTCEu was &bplastic&f, for cross-mod compatibility.",
 
-    "quests.medium_voltage.mv_tank.title": "Super Tank",
-    "quests.medium_voltage.mv_tank.subtitle": "Super Tanks are OP!",
-    "quests.medium_voltage.mv_tank.desc": "No, but seriously.\n\nThis is the &cu&6l&et&ai&bm&9a&5t&4e&r portable Fluid storage solution. &64,000 buckets of storage&r - in one single block without any regards to temperature or acidity!\n\nLike Drums, Super Tanks &6keep their fluids when broken&r, and can be cleared in the crafting grid.\n\nIf you hunger for &9even more&r storage, take a look at higher tier Super Tanks or AE2 Fluid Storage Cells.",
-
     "__comment3": "Circuits",
 
     "quests.medium_voltage.mv_pvc.title": "Polyvinyl Chloride",
