@@ -141,5 +141,15 @@
 	"material.tfg.aromatic_feedstock": "Aromatic Feedstock",
 	"material.tfg.reformed_aromatic_feedstock": "Reformed Aromatic Feedstock",
 	"material.tfg.reformate_gas": "Reformate Gas",
-	"material.tfg.cracker_off_gas": "Cracked Reformate Off-Gas"
+	"material.tfg.cracker_off_gas": "Cracked Reformate Off-Gas",
+	
+	"material.tfg.glucose": "Glucose",
+	"material.tfg.galactose": "Galactose",
+	"material.tfg.fructose": "Fructose",
+	"material.tfg.sorbitol": "Sorbitol",
+	"material.tfg.14_sorbitan": "1,4-Sorbitan",
+	"material.tfg.isosorbide": "Isosorbide",
+	"material.tfg.linolenic_acid": "α-Linolenic Acid",
+	"material.tfg.isosorbide_ln": "Isosorbide Linolenate",
+	"material.tfg.epox_isosorbide_ln": "Epoxidized Isosorbide Linolenate"
 }
