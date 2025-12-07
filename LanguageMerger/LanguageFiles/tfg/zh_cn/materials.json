@@ -121,5 +121,14 @@
     "material.tfg.aromatic_feedstock": "芳香原料",
     "material.tfg.reformed_aromatic_feedstock": "重整芳香原料",
     "material.tfg.reformate_gas": "重整气",
-    "material.tfg.cracker_off_gas": "裂化重整尾气"
+    "material.tfg.cracker_off_gas": "裂化重整尾气",
+    "material.tfg.glucose": "葡萄糖",
+    "material.tfg.galactose": "半乳糖",
+    "material.tfg.fructose": "果糖",
+    "material.tfg.sorbitol": "山梨醇",
+    "material.tfg.14_sorbitan": "1,4-脱水山梨醇",
+    "material.tfg.isosorbide": "异山梨醇",
+    "material.tfg.linolenic_acid": "α-亚麻酸",
+    "material.tfg.isosorbide_ln": "亚麻酸异山梨醇酯",
+    "material.tfg.epox_isosorbide_ln": "环氧化亚麻酸异山梨醇酯"
 }
