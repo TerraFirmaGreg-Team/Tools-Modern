@@ -141,5 +141,6 @@
 	"material.tfg.aromatic_feedstock": "Aromatic Feedstock",
 	"material.tfg.reformed_aromatic_feedstock": "Reformed Aromatic Feedstock",
 	"material.tfg.reformate_gas": "Reformate Gas",
-	"material.tfg.cracker_off_gas": "Cracked Reformate Off-Gas"
+	"material.tfg.cracker_off_gas": "Cracked Reformate Off-Gas",
+	"material.tfg.btw_fuel": "BTX Gas"
 }
