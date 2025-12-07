@@ -479,8 +479,7 @@
 
     "quests.tfg_tips.create_rubber_ingot.title": "Rubber Ingot",
     "quests.tfg_tips.create_rubber_ingot.subtitle": "Insulate them cables",
-
-    "quests.tfg_tips.create_rubber_ingot.desc": "Utilizing the &bVacuum Chamber&r and some additional heating, you can process &aLatex&r from various trees into &dRaw Rubber Pulp&r through a specific process. You can then smelt together 3 &dRaw Rubber Pulp&r with a bit of &eSulfur Dust&r in an &bAlloy Smelter&r to create &dRubber Ingots&r, perfect for insulating cables and very much necessary to advance in the &2Voltaic Age&r and beyond...",
+    "quests.tfg_tips.create_rubber_ingot.desc": "Utilizing the &bVacuum Chamber&r and some additional heating, you can process &aLatex&r from various trees into &dRaw Rubber Pulp&r through a specific process. You can then smelt together 3 &dRaw Rubber Pulp&r with a bit of &eSulfur Dust&r in an &bAlloy Smelter&r to create &dRubber Ingots&r, perfect for insulating cables and very much necessary to advance in the &2Voltaic Age&r and beyond...\n\n&9Tip:&r As you progress, there will be several ways to make this process cheaper and easier. Keep checking EMI! You'll be using Rubber for a long time, so it's well worth automating.",
 
     "__comment12": "#endregion",
 
@@ -682,7 +681,7 @@
 
     "quests.tfg_tips.not_the_bees.title": "Beekeeper Armor",
     "quests.tfg_tips.not_the_bees.subtitle": "NOT THE BEES!",
-    "quests.tfg_tips.not_the_bees.desc": "Bees don't like it when people disrupt them and harvest their precious honey and wax. There are three ways to do it safely:\n\n* &dHarvesting at night time&r\n* &dUsing a campfire&r\n* &dUsing Beekeeper Armor&r",
+    "quests.tfg_tips.not_the_bees.desc": "Bees don't like it when people disrupt them and harvest their precious honey and wax or move their frames around. There are three ways to do it safely:\n\n* &dHarvesting at night time&r\n* &dUsing a campfire&r\n* &dUsing Beekeeper Armor&r",
     "quests.tfg_tips.not_the_bees.task": "I'll use either the Campfire or wait for Nightfall.",
 
     "quests.tfg_tips.honey.title": "Honey",

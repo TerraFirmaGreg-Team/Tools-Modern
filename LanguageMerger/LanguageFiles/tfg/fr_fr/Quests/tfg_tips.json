@@ -678,7 +678,7 @@
 
     "quests.tfg_tips.not_the_bees.title": "Beekeeper Armor",
     "quests.tfg_tips.not_the_bees.subtitle": "NOT THE BEES!",
-    "quests.tfg_tips.not_the_bees.desc": "Bees don't like it when people disrupt them and harvest their precious honey and wax. There are three ways to do it safely:\n\n* &dHarvesting at night time&r\n* &dUsing a campfire&r\n* &dUsing Beekeeper Armor&r",
+    "quests.tfg_tips.not_the_bees.desc": "Bees don't like it when people disrupt them and harvest their precious honey and wax or move their frames around. There are three ways to do it safely:\n\n* &dHarvesting at night time&r\n* &dUsing a campfire&r\n* &dUsing Beekeeper Armor&r",
     "quests.tfg_tips.not_the_bees.task": "I'll use either the Campfire or wait for Nightfall.",
 
     "quests.tfg_tips.honey.title": "Honey",
