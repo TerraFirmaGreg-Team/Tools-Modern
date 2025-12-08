@@ -51,6 +51,7 @@
     "gtceu.bioreactor": "生物反应器",
     "gtceu.growth_chamber": "生长室",
     "gtceu.coal_liquefaction_tower": "煤炭液化",
+    "gtceu.smr_generator": "小型模块化涡轮",
     "gtceu.tooltip.machine.moon_dust_harvester_1": "§7地外真空吸尘器§r",
     "gtceu.tooltip.machine.moon_dust_harvester_2": "§7根据所处生物群系无限采集风化土粉尘。§r",
     "gtceu.tooltip.machine.ostrum_harvester_1": "§7合法异星香料采集车§r",

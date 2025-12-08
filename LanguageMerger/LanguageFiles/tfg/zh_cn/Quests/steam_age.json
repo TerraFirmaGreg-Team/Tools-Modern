@@ -123,7 +123,7 @@
     "quests.steam_age.extractor.desc": "在&6蒸汽时代&r，&3提取机&r能制造的物品并不多，因为它无法提取流体。",
     "quests.steam_age.glass_tube.title": "玻璃管",
     "quests.steam_age.glass_tube.subtitle": "这个需求量巨大",
-    "quests.steam_age.glass_tube.desc": "虽然你可通过玻璃吹制手工制作，但使用合金冶炼炉搭配对应模具进行生产的效率要高得多。需要大量玻璃粉？你可以一次性吹制16块玻璃板再进行粉碎，亦可使用碎石机与锻锤获取大量沙砾，随后混入少量燧石粉即可制成玻璃粉。",
+    "quests.steam_age.glass_tube.desc": "虽然你的第一个玻璃管需要手动&d吹制玻璃&r获得，但使用合金冶炼炉搭配对应模具进行生产的效率要高得多。需要大量玻璃粉？你可以一次性吹制16块玻璃板再进行粉碎，亦可使用碎石机与锻锤获取大量沙砾，随后混入少量燧石粉即可制成玻璃粉。",
     "quests.steam_age.treated_planks.title": "防腐木板",
     "quests.steam_age.treated_planks.subtitle": "也称为防腐胶合板",
     "quests.steam_age.treated_planks.desc": "希望你一直在积攒杂酚油，因为制作防腐木浆与防腐木板正是它的另一大用途。\n\n&l&3背景说明：&r&o在旧版TerraFirmaGreg中，直到这个阶段你才真正能开始玩机械动力！",
