@@ -190,8 +190,10 @@
     "tfg.tooltip.component.moderate_core_frame": "可置于裂变反应堆内，使热量上限提升 §910§r",
     "tfg.tooltip.component.dry_ice": "可作为裂变反应堆的输入物以冷却反应堆，需要材料支架",
     "tfg.tooltip.component.refrigerant_pellet": "可作为裂变反应堆的输入物以冷却反应堆，需要材料支架",
-    "tfg.tooltip.component.nuclear_turbine_1": "§e基础产出：§r 4096 EU/t",
+    "tfg.tooltip.component.nuclear_turbine_1": "§e基础产出：§r 8192 EU/t",
     "tfg.tooltip.component.nuclear_turbine_2": "每个高于 §5EV§r 阶段的转子支架 §7可提升§r 10% 效率，并使 EU/t 产出翻倍。",
+    "tfg.tooltip.component.smr_generator_1": "§e基础产出：§r 4096 EU/t",
+    "tfg.tooltip.component.smr_generator_2": "专为利用超临界二氧化碳与小模块化反应堆发电而设计。\n使用润滑剂与加速剂可提升其效率，并管理反应堆的冷却回路。",
     "tfg.gui.refrigerator.unify_dates.enabled": "过期日期统一：§a开",
     "tfg.gui.refrigerator.unify_dates.disabled": "过期日期统一：§a关",
     "tfg.machine.food_refrigerator_power_usage": "§7工作时消耗§r %s EU/t §7以保持食物新鲜。§r",
@@ -204,5 +206,12 @@
     "tfg.tooltip.cheese_slice_microplastics": "§b- 微塑料: 1.9",
     "tfg.gui.menu.field_guide_splash_text": "提示：阅读野外指南！！！",
     "tfg.gui.menu.ram_usage": "内存：",
-    "tfg.gui.menu.fps_count": "帧率："
+    "tfg.gui.menu.fps_count": "帧率：",
+    "tfg.gui.smr_generator.credit": "致谢：Frontiers团队",
+    "tfg.gui.smr_generator.lubricant_used": "润滑剂：%s",
+    "tfg.gui.smr_generator.booster_used": "助燃剂：%s",
+    "tfg.gui.max_energy_per_tick_amps.prefix": "最大EU/t：",
+    "tfg.gui.consumes": "消耗：",
+    "tfg.gui.per_cycle": "每周期",
+    "tfg.gui.cycle_duration": "周期时长："
 }
