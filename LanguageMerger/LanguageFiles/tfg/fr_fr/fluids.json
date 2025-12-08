@@ -1,9 +1,7 @@
 {
-	"fluid.tfg.nether_slurry": "Boue du Nether",
-	"fluid.tfg.enriched_nether_slurry": "Boue du Nether Enrichie",
-	"fluid.tfg.ender_slurry": "Boue de l'End",
-	"fluid.tfg.enriched_ender_slurry": "Boue de l'End Enrichie",
+	"fluid.tfg.heavy_ammoniacal_water": "Heavy Ammoniacal Water",
 	"fluid.tfg.semiheavy_ammoniacal_water": "Eau Ammoniacal Semi-Lourde",
 	"fluid.tfg.sulfur_fumes": "Vapeurs Souffrées",
-	"fluid.tfg.super_heated_slurry": "Boue Surchauffée"
+	"fluid.tfg.geyser_slurry": "Boue Surchauffée",
+	"fluid.tfg.cryogenized_fluix": "Cryogenized Fluix"
 }

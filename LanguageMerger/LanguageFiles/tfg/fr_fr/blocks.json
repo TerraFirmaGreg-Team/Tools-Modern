@@ -466,6 +466,9 @@
 	"block.tfg.uv_gas_pressurizer": "§3Pressuriseur de gaz Ultime§r",
 
 	"block.tfg.fluid.semiheavy_ammoniacal_water": "Eau Ammoniacal Semilourde",
+	"block.tfg.fluid.sulfur_fumes": "Vapeurs Souffrées",
+	"block.tfg.fluid.geyser_slurry": "Boue Surchauffée",
+
 	"block.tfg.grass.mars_dirt": "Terre Martienne",
 	"block.tfg.grass.mars_clay_dirt": "Terre Martienne Argileuse",
 	"block.tfg.grass.mars_farmland": "Terre Martienne Labourée",
@@ -552,7 +555,7 @@
 
 	"block.tfg.casings.machine_casing_ostrum_carbon": "Monture de Machine en Ostrum",
 	"block.tfg.glacian_wool_frame": "Cadre de Laine de Glacian",
- 	"block.tfg.aes_insulation_frame": "Cadre d'Insulation AES",
+	"block.tfg.aes_insulation_frame": "Cadre d'Insulation AES",
 
 	"__comment1": "TODO",
 	"__comment2": "block.tfg.corallium_arenicolus_0: Corallium Arenicolus",

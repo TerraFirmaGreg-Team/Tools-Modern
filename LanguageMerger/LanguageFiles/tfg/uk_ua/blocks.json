@@ -457,6 +457,8 @@
 	"block.tfg.zpm_gas_pressurizer": "§dЕлітний Газовий Пресуризатор III§r",
 	"block.tfg.uv_gas_pressurizer": "§3Ультимативний Газовий Пресуризатор§r",
 	"block.tfg.fluid.semiheavy_ammoniacal_water": "Термохімічно збагачена амоніачна напівважка вода",
+	"block.tfg.fluid.sulfur_fumes": "Сірчані випари",
+	"block.tfg.fluid.geyser_slurry": "Супернагрітий шлам",
 	"block.tfg.grass.mars_dirt": "Марсіанський ґрунт",
 	"block.tfg.grass.mars_clay_dirt": "Марсіанський Глиняний Ґрунт",
 	"block.tfg.grass.mars_farmland": "Марсіанське поле",

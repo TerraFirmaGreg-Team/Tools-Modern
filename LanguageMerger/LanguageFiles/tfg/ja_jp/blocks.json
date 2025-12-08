@@ -483,6 +483,9 @@
 	"block.tfg.uv_gas_pressurizer": "§3究極型ガス圧縮機§r",
 
 	"block.tfg.fluid.semiheavy_ammoniacal_water": "アンモニア交じりの半重水",
+	"block.tfg.fluid.sulfur_fumes": "Dense Sulfuric Fumes",
+	"block.tfg.fluid.geyser_slurry": "Super Heated Slurry",
+
 	"block.tfg.grass.mars_dirt": "火星の土",
 	"block.tfg.grass.mars_clay_dirt": "火星の粘土",
 	"block.tfg.grass.mars_farmland": "火星の耕地",
@@ -668,7 +671,7 @@
 	"block.tfg.casings.machine_casing_sterilizing_pipes": "Sterilizing Pipes",
 
 	"block.tfg.moderate_core": "モデレートコア",
-    "block.tfg.impure_moderate_core": "不純なモデレートコア",
-    "block.tfg.moderate_core_frame": "モデレートコアフレーム",
-    "block.tfg.impure_moderate_core_frame": "不純なモデレートコアフレーム"
+	"block.tfg.impure_moderate_core": "不純なモデレートコア",
+	"block.tfg.moderate_core_frame": "モデレートコアフレーム",
+	"block.tfg.impure_moderate_core_frame": "不純なモデレートコアフレーム"
 }

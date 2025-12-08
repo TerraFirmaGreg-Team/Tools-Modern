@@ -248,8 +248,8 @@
     "item.tfg.marker.glacio_orbit": "Europa Orbit",
     "item.tfg.railgun_ammo_shell": "Railgun Ammo Shell",
 
-    "item.tfg.sulfur_fumes_bucket": "Sulfur Fumes Bucket",
-    "item.tfg.super_heated_slurry_bucket": "Super Heated Slurry Bucket",
+    "item.tfg.sulfur_fumes_bucket": "Dense Sulfuric Fumes Bucket",
+    "item.tfg.geyser_slurry_bucket": "Super Heated Slurry Bucket",
     "item.tfg.cryogenized_fluix_bucket": "Cryogenized Fluix Bucket",
     "item.tfg.fluix_bucket": "Liquid Fluix Bucket",
     "item.tfg.latex_bucket": "Latex Bucket",

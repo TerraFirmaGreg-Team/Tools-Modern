@@ -459,6 +459,8 @@
     "block.tfg.zpm_gas_pressurizer": "§c精英气体加压器 III§r",
     "block.tfg.uv_gas_pressurizer": "§3终极气体加压器§r",
     "block.tfg.fluid.semiheavy_ammoniacal_water": "半重氨水",
+    "block.tfg.fluid.sulfur_fumes": "硫磺烟气",
+    "block.tfg.fluid.geyser_slurry": "超高温浆液",
     "block.tfg.grass.mars_dirt": "火星土壤",
     "block.tfg.grass.mars_clay_dirt": "火星黏土质土壤",
     "block.tfg.grass.mars_farmland": "火星农田",

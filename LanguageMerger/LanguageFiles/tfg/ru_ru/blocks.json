@@ -160,7 +160,7 @@
     "block.tfg.rock.mossy_bricks_blackstone_wall": "Ограда из замшелых пироксенитовых кирпичей",
     "block.tfg.rock.gravel_blackstone": "Пироксенитовый гравий",
     "block.tfg.spike.blackstone_spike": "Пироксенитовый сталагмит",
-    
+
     "block.tfg.rock.hardened_dripstone": "Укрeплённый травертин",
     "block.tfg.rock.dripstone_stairs": "Травертиновые ступеньки",
     "block.tfg.rock.dripstone_slab": "Травертиновая плита",
@@ -338,7 +338,7 @@
     "block.tfg.spike.glacio_stone_spike": "Фонолитовый сталагмит",
     "block.tfg.loose.glacio_stone": "Камешек фонолита",
     "block.tfg.rock.aqueduct_glacio_stone": "Фонолитовый акведук",
-    
+
     "block.tfg.rock.hardened_permafrost": "Укреплёная многолетняя мерзлота",
     "block.tfg.rock.permafrost_stairs": "Ступеньки из многолетней мерзлоты",
     "block.tfg.rock.permafrost_slab": "Плита из многолетней мерзлоты",
@@ -483,6 +483,9 @@
     "block.tfg.uv_gas_pressurizer": "§3Ultimate Gas Pressurizer§r",
 
     "block.tfg.fluid.semiheavy_ammoniacal_water": "Полутяжёлая аммиачная вода",
+    "block.tfg.fluid.sulfur_fumes": "Пары серы",
+    "block.tfg.fluid.geyser_slurry": "Метастабильный шлам",
+
     "block.tfg.grass.mars_dirt": "Марсианская земля",
     "block.tfg.grass.mars_clay_dirt": "Марсианская земля с глиной",
     "block.tfg.grass.mars_farmland": "Марсианская пашня",

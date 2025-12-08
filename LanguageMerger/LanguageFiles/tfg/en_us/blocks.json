@@ -485,6 +485,9 @@
 	"block.tfg.uv_gas_pressurizer": "§3Ultimate Gas Pressurizer§r",
 
 	"block.tfg.fluid.semiheavy_ammoniacal_water": "Semiheavy Ammoniacal Water",
+	"block.tfg.fluid.sulfur_fumes": "Dense Sulfuric Fumes",
+	"block.tfg.fluid.geyser_slurry": "Super Heated Slurry",
+
 	"block.tfg.grass.mars_dirt": "Martian Dirt",
 	"block.tfg.grass.mars_clay_dirt": "Martian Clay Dirt",
 	"block.tfg.grass.mars_farmland": "Martian Farmland",
@@ -673,7 +676,7 @@
 	"block.tfg.casings.machine_casing_sterilizing_pipes": "Sterilizing Pipes",
 
 	"block.tfg.moderate_core": "Moderate Core",
-    "block.tfg.impure_moderate_core": "Impure Moderate Core",
-    "block.tfg.moderate_core_frame": "Moderate Core Frame",
-    "block.tfg.impure_moderate_core_frame": "Impure Moderate Core Frame"
+	"block.tfg.impure_moderate_core": "Impure Moderate Core",
+	"block.tfg.moderate_core_frame": "Moderate Core Frame",
+	"block.tfg.impure_moderate_core_frame": "Impure Moderate Core Frame"
 }
