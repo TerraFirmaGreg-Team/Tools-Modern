@@ -1,5 +1,7 @@
 {
     "block.create.netherite_backtank": "蓝钢背罐",
+    "block.create.shadow_casing": "黑钢机壳",
+    "block.create.refined_radiance_casing": "荧光机壳",
     "__comment1": "工业钢材",
     "block.create.industrial_iron_block": "工业钢块",
     "block.create.weathered_iron_block": "风化钢块",
