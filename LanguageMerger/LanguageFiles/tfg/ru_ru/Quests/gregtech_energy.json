@@ -1,15 +1,15 @@
 {
-    "quests.gregtech_energy": "GregTech Energy",
-    "quests.gregtech_energy.subtitle": "So how does all of that work?",
+    "quests.gregtech_energy": "Энергия в GregTech",
+    "quests.gregtech_energy.subtitle": "Так как там все это работает?",
 
-    "quests.gregtech_energy.start.title": "Let's do some explaining",
-    "quests.gregtech_energy.start.desc": "We know that GregTech isn’t the easiest mod to get into — especially when it comes to the &cenergy system&r. That’s why we’ll take our time in this chapter to explain as much as we can.\n\nSome things here might not make full sense until later in your progression, so don’t stress yourself. Just try to understand what you can for now, and feel free to &dcome back to this chapter&r whenever you have questions.\n\nWe’ve split this chapter into &efour categories&r, each one covering a topic related to the GregTech Energy System. We’ll provide as many examples as possible to help you understand how it all works.",
-    "quests.gregtech_energy.start.task": "Welcome aboard",
-    "quests.gregtech_energy.start.subtitle": "It's not as bad as you think",
+    "quests.gregtech_energy.start.title": "Давай немного объясним",
+    "quests.gregtech_energy.start.desc": "Все мы знаем, что GregTech простой мод для изучений, в особенности его &cсистема энергии&r. Именно поэтому для этой системы выделена отдельная глава.\n\nНекоторые вещи могут не иметь смысла, пока вы не пройдёте дальше по прогрессии, так что не переусердствуете. Попытайся, что можешь сейчас, и не стесняйся &dвозращаться к этой главе&r, когда у тебя появятся вопросы.\n\nМы разделили главу на &e4 категории&r, каждая из которых относится к одному из элементов системы энергии GregTech. Мы постараемся привести как можно больше примеров, чтобы помочь тебе понять, как это все работает.",
+    "quests.gregtech_energy.start.task": "Добро пожаловать на борт",
+    "quests.gregtech_energy.start.subtitle": "Все не на столько плохо, как ты думаешь",
 
-    "__comment2": "Moving Energy",
+    "__comment2": "Перемещение энергии",
 
-    "quests.gregtech_energy.moving.title": "Moving your Energy",
+    "quests.gregtech_energy.moving.title": "Перемещение энергии",
     "quests.gregtech_energy.moving.subtitle": "So, energy transfer, huh",
     "quests.gregtech_energy.moving.desc": "Moving Energy in GregTech means understanding a few core mechanics.\n\nFirst, &bEnergy Tiers&r. From &aLV&r to &cUHV&r, everything in GregTech — wires, machines, recipes — is tied to a tier. You’ll need the &ecorrect cable material&r to move energy. For example:\n&8•&r Tin wire = &aLV&r\n&8•&r Copper wire = &bMV&r\n\nSecond, you’ve got the &bAmperage&r mechanic. Think of 1 Amp (or 1A) as &ea packet of energy&r. Machines request energy \"packets\", which then get sent down the wire.\n&8•&r 1A of LV = &a32 EU&r\n&8•&r 1A of HV = &e512 EU&r\n\nMost machines and energy hatches will only request &62A at maximum&r.\n\nMastering these two ideas is key before going further into energy distribution.",
     "quests.gregtech_energy.moving.task": "I understand",
@@ -29,9 +29,9 @@
     "quests.gregtech_energy.moving_amp.desc.2": "Let’s look at an example:\nYou have &e6 machines&r connected to an &e8x Battery Buffer&r filled with 8 batteries.\nThe buffer will try to send &e1A&r to each machine — that’s &e6A&r total.\nThe amps are delivered in order: the closest machines get power first, and the furthest ones last.\nIf your cables only support &c4A&r, they’ll &cBURN&r. You’ll need &a8A cables&r in this case.\n\n&bTip:&r The first machine in the line might need a cable that handles &e8A&r,\nbut the last machine may only need &e1A&r, as it’s only receiving what’s left.\n&c⚠ Be careful:&r adding another machine at the end could cause the cable to burn if it exceeds the limit.",
     "quests.gregtech_energy.moving_amp.task": "I got it",
 
-    "__comment3": "Producing Energy",
+    "__comment3": "Производство энергии",
 
-    "quests.gregtech_energy.produce_energy.title": "Producing Energy",
+    "quests.gregtech_energy.produce_energy.title": "Производство энергии",
     "quests.gregtech_energy.produce_energy.subtitle": "Gas or Oil?",
     "quests.gregtech_energy.produce_energy.desc": "It’s all about making energy, right? This part won’t be the most complicated one, since &eproducing energy&r in &2TerraFirmaGreg&r works pretty much like in &5standard GregTech&r.\n\nYou’ll learn about the various &6methods to generate energy&r, as well as some of the &afuels&r you can use to get the most out of your setup.",
     "quests.gregtech_energy.produce_energy.task": "Let's go!",
@@ -156,14 +156,14 @@
     "quests.gregtech_energy.solar_panel.subtitle": "Light in the Dark",
     "quests.gregtech_energy.solar_panel.desc": "The Solar Panel will be your first source of power on the Moon.\n\nThey produce 32 EU/t during daytime, but keep in mind they actually generate RF, so you’ll need a Converter to transform it into EU.\n\nYou can use one &bMV Converter&r for up to 2 Solar Panels or a &6HV Converter&r for up to 4 Solar Panels.",
 
-    "__comment4": "Stocking Energy",
+    "__comment4": "Хранение энергии",
 
-    "quests.gregtech_energy.storage.title": "Storing Energy",
+    "quests.gregtech_energy.storage.title": "Хранение энергии",
     "quests.gregtech_energy.storage.subtitle": "Gotta put all that juice somewhere",
     "quests.gregtech_energy.storage.desc": "Storing your energy is one of the most fundamental pillars of the power system in GregTech.\n\nWhy is that? Simply because even the strongest generators won't be enough to keep up when you start a big craft — especially in late game.\n\nTo deal with this, GregTech provides multiple solutions to store astronomical amounts of EU. These storages act as a buffer between your energy production and the machines that drain it during complex operations.\n\nWhether you’re preparing for a Fusion Reactor, an LCR, or any HV-IV scale crafting chain, you’ll need that extra backup of energy to keep everything stable.\n\nDon’t underestimate the power of a good battery — it may just be the thing that saves your base from a blackout during critical moments.",
     "quests.gregtech_energy.storage.task": "I understand",
 
-    "quests.gregtech_energy.tank.title": "Storing Fuel",
+    "quests.gregtech_energy.tank.title": "Хранение топлива",
     "quests.gregtech_energy.tank.subtitle": "There's more kinds of batteries than just electric ones",
     "quests.gregtech_energy.tank.desc.1": "Obviously, storing energy can also mean storing the fuel that makes it.\n\nFor this scenario, while Drums and Crates are decent early options, you should not overlook the &dSuper Tank&r and the &dSuper Chest&r.",
     "quests.gregtech_energy.tank.desc.2": "These beasts are capable of storing tremendous amounts of fluid or items — perfect for automated energy setups, especially when you want to generate power far away from your main base without having to build an entire cable network.\n\nJust load them up with gas, fuel, steam or even plasma, and let them handle the rest. With proper planning, your outposts can be fully operational with no live connection to your central grid.\n\nEnergy doesn’t always come in wires — sometimes, it comes in barrels.",
@@ -186,9 +186,9 @@
     "quests.gregtech_energy.batteries.desc": "In &7LV&r and &bMV&r, you probably built your first batteries made of Sodium or Lithium.\n\nBut let’s be real — these are the weakest batteries GregTech has to offer.\n\nIn this quest, we’ll look at the powerful alternatives: the &acrystal batteries&r.\nThey are much more potent, store way more energy, and can help you push your factory to the next tier.\n\nAre they more expensive? Of course. But let’s be real...\nPower is Power. Who’s counting?",
     "quests.gregtech_energy.batteries.task": "Any crystal battery",
 
-    "__comment5": "Spending Energy",
+    "__comment5": "Трата энергии",
 
-    "quests.gregtech_energy.spending_energy.title": "Spending Energy",
+    "quests.gregtech_energy.spending_energy.title": "Трата энергии",
     "quests.gregtech_energy.spending_energy.subtitle": "Oh you will spend energy",
     "quests.gregtech_energy.spending_energy.desc.1": "How to spend all this energy?\n\nUse your machines! Sounds simple, right?\nWell... not exactly. There are many small details that you should learn to help you on your quest to completing &3TerraFirmaGreg&r.\n\nBasic Machines:\n- These machines are simple.\n- They can request up to &a2A&r each.\n- If you input a higher tier of energy... &4💥 they explode&r.\n\nGregTech Multiblocks:\nNow things get interesting. Multiblocks offer more flexibility and power — &eif&r you understand how they work.",
     "quests.gregtech_energy.spending_energy.desc.2": "Standard Mechanics:\n- If a multiblock can accept two Energy Hatches (most of them), this allows you to use higher-tier recipes than the machine’s base tier.\n\nExample:\nIf you're building an Electric Blast Furnace and you install two &7LV&r Energy Hatches, it will be able to process &6MV&r-tier EBF recipes.\n\nThis is one of the key benefits of multiblocks over single-block machines — to upgrade them to the next tier, you only have to swap out their energy hatches instead of replacing the whole machine.",
