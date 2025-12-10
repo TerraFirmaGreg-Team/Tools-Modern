@@ -404,6 +404,8 @@
 
 	"block.tfg.rock.raw.geyserite": "ガイザライト",
 	"block.tfg.rock.spike.geyserite": "ガイザライトのつらら石",
+	"block.tfg.stromatolite_cluster_small": "小さいストロマトライトの塊",
+	"block.tfg.stromatolite_cluster_medium": "大きいストロマトライトの塊",
 
 	"block.tfg.mushroom_roots": "キノコの根",
 	"block.tfg.mushroom_sprouts": "キノコの芽",
@@ -662,6 +664,9 @@
 	"block.tfg.nuclear_turbine": "原子力蒸気タービン",
 	"block.tfg.evaporation_tower": "蒸発塔",
 	"block.tfg.cooling_tower": "Nuclear Cooling Tower",
+
+	"block.tfg.smr_generator": "Small Modular Turbine",
+	"block.tfg.casings.machine_casing_desh_ptfe": "Radiation-Safe Desh Casing",
 
 	"block.tfg.growth_monitor": "Growth Monitor",
 	"block.tfg.sample_rack": "Sample Rack",

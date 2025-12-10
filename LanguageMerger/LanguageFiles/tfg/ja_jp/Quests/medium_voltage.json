@@ -106,6 +106,11 @@
     "quests.medium_voltage.mv_benzene.subtitle": "伝家の宝刀",
     "quests.medium_voltage.mv_benzene.desc.1": "&aベンゼン&rは&9ガス燃料&rのひとつです。説明を読んでいられない人のために、まずは入手方法から紹介していきます。\n\n1つ目の入手方法は、&d原木&rから作成する方法です。&3熱分解炉&rで原木を加工することで、&9木質タール&rを作成することができます。木炭も、&3抽出機&rで&9木質タール&rに加工することができます。作成した木質タールを&3蒸留&rすることで、&aベンゼン&rを作ることができます。\n\nもうひとつの方法は、&d重油&rを精製する方法です。重油を&3醸造機&rで加工することにより、&9重質燃料&rを作ることができます。これを&a蒸気で分解&rし、&3蒸留&rすることで、&aベンゼン&rになります。",
     "quests.medium_voltage.mv_benzene.desc.2": "石油関連のレシピについては、軽質燃料とナフサに関するクエストを参照してください。\n\nなお、Gregtechにおいては、多くの下位機械で並列作業する方が、少数の上位機械で加工するよりも良いことが多いです。これは、上位機械になるほど消費電力が多いからです。\n\n&aベンゼン&rは&3ガスタービン&rで使用することができます。&eディーゼル&rに比べてベンゼンの発電効率は悪いですが、 &6HV&r時代になると&6ニトロベンゼン&rへの加工が可能となり、大幅に発電効率が上昇します。",
+    "quests.medium_voltage.mv_benzene.desc.3": "&l&3Lore:&r&o Benzene has been one of the most powerful gas fuels since GTCEu - so good that it became a meme. Nowadays, its days are numbered everywhere.",
+
+    "quests.medium_voltage.reformate_gas.title": "The Reformate Church",
+    "quests.medium_voltage.reformate_gas.subtitle": "When one giant falls, a new one arises",
+    "quests.medium_voltage.reformate_gas.desc": "The &8Reformate Gas&r is your new go-to gas fuel at &bMV&r if that's the path you want to take. For perfect efficiency, you only need &61 Coal Liquefaction Tower&r and &62 Pyrolyze Ovens&r, and you can start producing this precious gas non-stop.\n\nOh wait, first you need to find &5Rhenium&r, a new material only found within the hot and dry region of &7TerraFirmaCraft&r. The amounts consumed are so low that one vein should last you to the end of the modpack, or at the very least to &6HV&r, where - with the help of the &6Cracker&r - this gas can become truly infinite.",
 
     "quests.medium_voltage.mv_light_fuel.title": "軽質燃料",
     "quests.medium_voltage.mv_light_fuel.subtitle": "とてもかるい",
@@ -116,6 +121,11 @@
     "quests.medium_voltage.mv_diesel.desc.1": "&aディーゼル&rは、&d石油から作れる&9液体燃料&rです。\n\n原油または原料油から&a軽質燃料&rと&a重質燃料&rを作成し、それらを混合してディーゼルにする場合、前者の作成に蒸留機を3基、後者に2基用いることで、ちょうどよい割合になります。",
     "quests.medium_voltage.mv_diesel.desc.2": "また、&d重油&rから&a重質燃料&rを作成することで、コストを大幅に減らすことができます。また、&dオイルサンド&rから得られる石油を使うのも有効です。\n\n&o(詳細:原油8.33->ディーゼル6、原油5+重油0.4->ディーゼル6)&r\n\n&eヒント:&r&3蒸留塔&rの使用はおすすめしません。蒸留塔では重質燃料と軽質燃料の両方が一気に得られますが、消費電力に対して得られる燃料の量が少なく、効率がとても悪いです。",
     "quests.medium_voltage.mv_diesel.desc.3": "したがって、下位の蒸留機を多数作成して加工する方が、結果的にはお得です。\n\n&aディーゼル&rは&3燃焼発電機&rで使用することができます。また、&6HV&r時代になると、&6セタン添加ディーゼル&rへの加工が解禁されます。他の燃料に比べ、ディーゼルはより高効率ですが、引き換えに精製プロセスがやや複雑です。&e石油プラスチック&rを目指す場合であれば、既存の機械で作成できるため、選択肢として有効でしょう。",
+
+    "quests.medium_voltage.coal_tower.title": "Coal Liquefaction Tower",
+    "quests.medium_voltage.coal_tower.subtitle": "Who doesn't love new Multiblocks",
+    "quests.medium_voltage.coal_tower.desc.1": "The &bCoal Liquefaction Tower&r is a new &bmultiblock&r used in the process of making &aReformate Gas&r and its byproducts, &7Coal Tar&r and &7Syngas&r. Depending on the &9Coil&r you use, you will get a discount on the &7EU/t&r cost of every recipe. Simply use shift-click while hovering on a coil to know its bonuses.\n\nNotice that the &9Coal Liquefaction Tower&r can be boosted by using &8Hydrogen&r, reducing the duration and therefore the cost. Don't forget to set the right &6circuit&r so it works.\n\nBy the way, if you don't know, a second is 20 ticks. So the amount it consumes per tick has to be multiplied by 20 to know how much it consumes per second.",
+    "quests.medium_voltage.coal_tower.desc.2": "&l&3Lore:&r&o The same person who made the Fission Reactor also made the first design of the Coal Liquefaction Tower, isn't it crazy.",
 
     "quests.medium_voltage.mv_jetpack.title": "鳥人間あらわる",
     "quests.medium_voltage.mv_jetpack.subtitle": "鳥……鳥？",
@@ -182,10 +192,6 @@
     "quests.medium_voltage.mv_polyethylene.title": "ポリエチレン",
     "quests.medium_voltage.mv_polyethylene.subtitle": "はじめてのポリマー素材",
     "quests.medium_voltage.mv_polyethylene.desc": "要するにプラスチックです。\n\n&a酸素&rを材料に使用することで、普通の空気よりも多くのポリエチレンが得られます。液体ポリエチレンは、ゴムと同様に、液体成型機で固体にすることができます。\n\n&aポリエチレン(PE)&rは多くのレシピで使用されます。特に、&dシート&rや&d液体ポリエチレン&rが使われることが多いです。\n\n&l&3おまけ:&r&o1.12.2時代、ポリエチレンの鉱石辞書における名称は&bplastic&fでした。これは互換性を重視したためです。",
-
-    "quests.medium_voltage.mv_tank.title": "スーパータンク",
-    "quests.medium_voltage.mv_tank.subtitle": "最強タンク1選！",
-    "quests.medium_voltage.mv_tank.desc": "スーパータンクは、携帯可能な中では文字通り最強のタンクです。バケツ&64000杯&r分もの容量を持ち、温度や酸性による制限もありません。\n\nドラムと同様に、スーパータンクは破壊されても液体を保持します。単体クラフトで、内部の液体を除去することができます。\n\nさらに強力な液体貯蔵手段が欲しいのであれば、上位のスーパータンクを使用するか、AE2の液体セルを使用しましょう。",
 
     "__comment3": "Circuits",
 
@@ -315,5 +321,9 @@
 
     "quests.medium_voltage.lsb.title": "もっとたくさんの蒸気を",
     "quests.medium_voltage.lsb.subtitle": "有用(燃料が十分にあるなら)",
-    "quests.medium_voltage.lsb.desc": "今後も&3蒸気ボイラー&rを使い続けるのであれば、そろそろ&3スチール製大型蒸気ボイラー&rを作成した方がよいです。\n\nブロンズ製よりもやや高効率で、最大&d1800mB/t&rの蒸気を生成します。\n\nとはいえ、MV以降は他の発電方法を使った方がよいです。"
+    "quests.medium_voltage.lsb.desc": "今後も&3蒸気ボイラー&rを使い続けるのであれば、そろそろ&3スチール製大型蒸気ボイラー&rを作成した方がよいです。\n\nブロンズ製よりもやや高効率で、最大&d1800mB/t&rの蒸気を生成します。\n\nとはいえ、MV以降は他の発電方法を使った方がよいです。",
+
+    "quests.medium_voltage.stainless_greate.title": "Stainless Steel-tier Greate",
+    "quests.medium_voltage.stainless_greate.subtitle": "High Stress",
+    "quests.medium_voltage.stainless_greate.desc": "This quest is just here to let you know that Greate has another upgrade at this point.\n\nYou may find the next tier of Crushing Wheels useful, as they can give the full amount of byproducts, just like the HV Macerator, but also process multiple items at the same time!"
 }
