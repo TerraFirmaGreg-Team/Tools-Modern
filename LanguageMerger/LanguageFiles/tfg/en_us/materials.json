@@ -172,5 +172,10 @@
 	"material.tfg.isosorbide": "Isosorbide",
 	"material.tfg.linolenic_acid": "α-Linolenic Acid",
 	"material.tfg.isosorbide_ln": "Isosorbide Linolenate",
-	"material.tfg.epox_isosorbide_ln": "Epoxidized Isosorbide Linolenate"
+	"material.tfg.epox_isosorbide_ln": "Epoxidized Isosorbide Linolenate",
+	
+	"material.tfg.ozone": "Ozone",
+	"material.tfg.tin_chloride": "Stannous Chloride",
+	"material.tfg.cyclohexanone": "Cyclohexanone",
+	"material.tfg.cyclohex_diperoxide": "1,1-Cyclohexanediyl Dihydroperoxide"
 }
