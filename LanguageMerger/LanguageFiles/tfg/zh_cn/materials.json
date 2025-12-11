@@ -150,5 +150,9 @@
     "material.tfg.isosorbide": "异山梨醇",
     "material.tfg.linolenic_acid": "α-亚麻酸",
     "material.tfg.isosorbide_ln": "亚麻酸异山梨醇酯",
-    "material.tfg.epox_isosorbide_ln": "环氧化亚麻酸异山梨醇酯"
+    "material.tfg.epox_isosorbide_ln": "环氧化亚麻酸异山梨醇酯",
+    "material.tfg.ozone": "臭氧",
+    "material.tfg.tin_chloride": "氯化亚锡",
+    "material.tfg.cyclohexanone": "环己酮",
+    "material.tfg.cyclohex_diperoxide": "1,1-环己烷二基二氢过氧化物"
 }
