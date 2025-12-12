@@ -67,7 +67,7 @@
 	"quests.low_voltage.lv_gas_syngas.subtitle": "Not Wood Gas",
 	"quests.low_voltage.lv_gas_syngas.desc": "Making &7Syngas&r is really easy. You simply need &b3 Coke Ovens&r for each &6Brewery&r or &6Vacuum Chamber&r. Then you collect &7wood&r with the help of a &bCreate Tree Farm&r to minimize the energy costs, and you can enjoy this weak but easy-to-make &7gas fuel&r.",
 
-	"quests.low_voltage.lv_naphtha_light.title": "Naphtha and Light Oil",
+	"quests.low_voltage.lv_naphtha_light.title": "Naphtha and Light Fuel",
 	"quests.low_voltage.lv_naphtha_light.subtitle": "You can make plastic with them",
 	"quests.low_voltage.lv_naphtha_light.desc": "If you really hate farming and prefer adventuring in the &6desert&r or mining massive amounts of &7Oilsands&r, then maybe &7Naphtha&r (better from &7Raw Oil&r) or &7Light Fuel&r (better from &7Oil&r) should be fuels you could look at.\n\nBeing quite good for how easy they are to produce, they need to be manually harvested at that point though.",
 
