@@ -204,6 +204,9 @@
 
     "tfg.tooltip.obsolete.depreciated": "§cDeprecated, cannot be crafted any more",
 
+    "tfg.tooltip.antipoison_pill": "§9Cures Poison",
+    "tfg.tooltip.antipoison_tablet": "§9Cures All Active Harmful Effects",
+
     "tfg.tooltip.dna_syringe.empty": "§7An empty syringe.§r",
     "tfg.tooltip.dna_syringe.dirty1": "§7A used syringe.§r",
     "tfg.tooltip.dna_syringe.dirty2": "§7Be careful not to poke anyone with this...§r",
