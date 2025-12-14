@@ -101,7 +101,7 @@
     "quests.space_survival.sandworm.desc": "在沙漠中制造过大声响可能会引来强大的&6沙虫&r！它更像是需要规避的环境威胁而非可讨伐的首领，因此存活下来的最佳方式就是立即逃离！\n\n若能用&b爆炸伤害&r多次击中其头部，它会暂时停止追击…但效果仅能维持片刻。\n\n所幸沙虫仅能伤害生物而非建筑，且只会被&6玩家的脚步声&r吸引——只要确保&b双脚&r不接触地面便不会激怒它。稀薄的大气层不支持飞机与滑翔伞，但总有其他工具……",
     "quests.space_survival.spice.title": "紫金矿床",
     "quests.space_survival.spice.subtitle": "美琅脂",
-    "quests.space_survival.spice.desc": "&d紫金矿床&r是仅分布于火星深层沙漠的固定生成方块，远离所有富饶区域。它们以小型矿簇形态生成，若位于斜坡位置可被破坏以便为紫金采集器腾出空间。建议使用&6望远镜&r进行远距离定位！\n\n你需要建立长距离物流系统将紫金输送回基地（可尝试铁路运输，蓄电器能实现电力同步传输！）\n\n紫金是&5EV&r阶段发展及从火星获取无限矿石的关键资源。",
+    "quests.space_survival.spice.desc": "&d紫金矿床&r是仅分布于火星深层沙漠的固定生成方块，远离所有富饶区域。它们以小型矿簇形态生成，若位于斜坡位置可被破坏以便为紫金采集器腾出空间。建议使用&6望远镜&r进行远距离定位！\n\n你需要建立长距离物流系统将紫金输送回基地（尝试一下铁路运输！）\n\n紫金是&5EV&r阶段发展及从火星获取无限矿石的关键资源。",
     "quests.space_survival.spice.task": "美琅脂的流转永不停息",
     "quests.space_survival.mars_islands.title": "火星丛林",
     "quests.space_survival.mars_islands.subtitle": "那是恐龙吗？！",
