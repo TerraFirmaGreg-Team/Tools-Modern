@@ -71,6 +71,6 @@
     "gtceu.tooltip.machine.steam_bloomery_2": "§7Processes Iron-bearing Dusts or Ingots into Raw Iron Blooms.§r",
     "gtceu.tooltip.machine.steam_bloomery_3": "§7Fueling it with Coke or Anthracite will double the output.§r",
     "gtceu.tooltip.machine.steam_bloomery_4": "§7Can process up to 8 recipes at once, which changes how much Steam is required.§r",
-    "gtceu.tooltip.machine.coal_liquefaction_tower_1": "§7Carbon Smoothie Maker§r",
-    "gtceu.tooltip.machine.coal_liquefaction_tower_2": "§7Extracts gas fuels from carbonic solids and creosote§r"
+    "gtceu.tooltip.machine.coal_liquefaction_tower_1": "§7Smoothie Maker§r",
+    "gtceu.tooltip.machine.coal_liquefaction_tower_2": "§7Extracts gas and liquids from carbonic solids§r"
 }

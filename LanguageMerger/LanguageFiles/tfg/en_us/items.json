@@ -406,5 +406,9 @@
     "item.tfg.smooth_endoplasmic_reticula": "Smooth Endoplasmic Reticula",
     "item.tfg.rough_endoplasmic_reticula": "Rough Endoplasmic Reticula",
     "item.tfg.alpha_keratin": "α-Keratin",
-    "item.tfg.progenitor_cells": "Progenitor Cells"
+    "item.tfg.progenitor_cells": "Progenitor Cells",
+
+    "item.tfg.catalyser_pt_re_zsm": "Catalyser Pt-Re ZSM-5",
+    "item.tfg.used_catalyser": "Used Catalyser Pt-Re ZSM-5",
+    "item.tfg.loaded_resin": "Loaded Resin"
 }
