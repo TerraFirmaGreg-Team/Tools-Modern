@@ -14,7 +14,7 @@
     "block.gtceu.ostrum_harvester": "オストラムハーベスター",
     "block.gtceu.moon_dust_harvester": "ムーンハーベスター",
     "block.tfg.ostrum_linear_accelerator": "オストラムリニアアクセラレーター",
-    "block.gtceu.coal_liquefaction_tower": "石炭液化塔",
+    "block.gtceu.coal_liquefaction_tower": "液化塔",
     "block.gtceu.ulv_super_tank": "基本型スーパータンク",
     "block.gtceu.ulv_super_chest": "基本型スーパーチェスト",
     "block.gtceu.ulv_hermetic_casing": "基本気密外装",
@@ -56,7 +56,7 @@
     "gtceu.ostrum_linear_accelerator": "オストラムリニアアクセラレーター",
     "gtceu.bioreactor": "Bioreactor",
     "gtceu.growth_chamber": "Growth Chamber",
-    "gtceu.coal_liquefaction_tower": "石炭液化",
+    "gtceu.coal_liquefaction_tower": "液化塔",
     "gtceu.smr_generator": "Small Modular Turbine",
 
     "gtceu.tooltip.machine.moon_dust_harvester_1": "§7Extraterrestrial Vacuum Cleaner§r",

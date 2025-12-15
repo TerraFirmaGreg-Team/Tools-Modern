@@ -519,7 +519,7 @@
 
     "quests.tfg_tips.find_syrup_tree.title": "シロップの木",
     "quests.tfg_tips.find_syrup_tree.subtitle": "甘い匂いに誘われた",
-    "quests.tfg_tips.find_syrup_tree.desc": "&aシロップの木&rは、それなりの降水量がある&2温暖な&r地域で見つけることができます。\n抽出した&bシロップ&rは、&dツリーシュガー&rを作るために使用できます。これは、砂糖の代替品です。\n\nこのクエストを完了するには、&o#tfg:syrup_logs&rのタグが付いたブロックを&c見る&r必要があります。EMIを使用して、#を入れて検索することにより、どのブロックにこのタグが付いているかを知ることができます。",
+    "quests.tfg_tips.find_syrup_tree.desc": "&aシロップの木&rは、それなりの降水量がある&2温帯&r地域で見つけることができます。\n抽出した&bシロップ&rは、&dツリーシュガー&rを作るために使用できます。これは、砂糖の代替品です。\n\nこのクエストを完了するには、&o#tfg:syrup_logs&rのタグが付いたブロックを&c見る&r必要があります。EMIを使用して、#を入れて検索することにより、どのブロックにこのタグが付いているかを知ることができます。",
 
     "quests.tfg_tips.create_conifer_rosin.title": "針葉樹脂",
     "quests.tfg_tips.create_conifer_rosin.subtitle": "「故郷」を思い出す",

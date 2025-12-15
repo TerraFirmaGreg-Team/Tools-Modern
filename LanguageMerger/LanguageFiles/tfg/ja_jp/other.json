@@ -182,6 +182,10 @@
     "tfg.tooltip.cooling_foods": "§bCools you by: 2°C",
     "tfg.tooltip.cooling_foods_strong": "§bCools you by: 10°C",
     "tfg.tooltip.warming_foods": "§6Warms you by: 4°C",
+    "tfg.tooltip.hotornot_container": "§aSafely contains §6hot§a, §bcold§a, and §elighter-than-air§a items and fluids.§r",
+    "tfg.tooltip.hotornot_hot_equipment": "§7Provides protection from all §6hot§7 items, fluids, and pipes.§r",
+    "tfg.tooltip.hotornot_cold_equipment": "§7Provides protection from all §bcold§7 items, fluids, and pipes.§r",
+    "tfg.tooltip.hotornot_floating_equipment": "§7Provides protection from all §elighter-than-air§7 gases.§r",
 
     "tfg.tooltip.machine.one_energy_hatch": "Accepts exactly §6One§r Energy Hatch",
     "tfg.tooltip.machine.two_energy_hatches": "Accepts up to §6Two§r Energy Hatches",
@@ -199,6 +203,9 @@
     "tfg.tooltip.machine.cooling_tower_2": "§7Cools the hot coolant by dissipitating excess heat to the atmosphere.§r",
 
     "tfg.tooltip.obsolete.depreciated": "§cDeprecated, cannot be crafted any more",
+
+    "tfg.tooltip.antipoison_pill": "§9Cures Poison",
+    "tfg.tooltip.antipoison_tablet": "§9Cures All Active Harmful Effects",
 
     "tfg.tooltip.dna_syringe.empty": "§7An empty syringe.§r",
     "tfg.tooltip.dna_syringe.dirty1": "§7A used syringe.§r",

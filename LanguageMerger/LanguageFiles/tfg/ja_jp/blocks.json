@@ -406,7 +406,7 @@
 
 	"block.tfg.rock.raw.geyserite": "ガイザライト",
 	"block.tfg.rock.spike.geyserite": "ガイザライトのつらら石",
-	
+
 	"block.tfg.mushroom_roots": "キノコの根",
 	"block.tfg.mushroom_sprouts": "キノコの芽",
 	"block.tfg.charred_log": "焦げた丸太",
@@ -576,7 +576,10 @@
 	"block.tfg.casings.heat_pipe_casing": "ヒートパイプ外装",
 	"block.tfg.glacian_wool_frame": "氷塊羊毛の耐熱フレーム",
 	"block.tfg.aes_insulation_frame": "AES断熱材の耐熱フレーム",
-
+	
+	"block.tfg.machine_casing_power_casing": "Insulated Power Casing",
+	"block.tfg.active_power_transformer": "Active Energy Transformer",
+	
 	"__comment1": "TODO",
 	"__comment2": "block.tfg.corallium_arenicolus_0: Corallium Arenicolus",
 	"__comment3": "block.tfg.corallium_arenicolus_1: Corallium Arenicolus",
