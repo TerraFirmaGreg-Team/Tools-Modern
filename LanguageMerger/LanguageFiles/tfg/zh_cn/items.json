@@ -371,5 +371,8 @@
     "item.tfg.smooth_endoplasmic_reticula": "光滑内质网",
     "item.tfg.rough_endoplasmic_reticula": "粗糙内质网",
     "item.tfg.alpha_keratin": "α-角蛋白",
-    "item.tfg.progenitor_cells": "祖细胞"
+    "item.tfg.progenitor_cells": "祖细胞",
+    "item.tfg.catalyser_pt_re_zsm": "铂-铼/ZSM-5催化剂",
+    "item.tfg.used_catalyser": "废铂-铼/ZSM-5催化剂",
+    "item.tfg.loaded_resin": "再负载树脂"
 }

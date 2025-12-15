@@ -82,7 +82,7 @@
     "quests.gregtech_energy.syngas.desc": "&e合成气&r是一种新的TFG气体燃料。你可以在&8ULV&r阶段很早解锁它，并在&7LV&r阶段用于你的首批&6燃气轮机&r中。它并非特别强效的燃料，但可以转化为有价值的副产品，例如&e润滑剂&r、&e甲烷&r和&e氢气&r。\n\n尽管它不是最强大的选择且难以规模化生产，但仅需三座&6焦炉&r和一台&6酿造室&r或&6真空腔室&r，你就能稳定供应，这足以支撑你到达&bMV&r阶段并解锁更强大的&e重整气&r。",
     "quests.gregtech_energy.reformate_gas.title": "重整气",
     "quests.gregtech_energy.reformate_gas.subtitle": "这是重整后的苯吗？",
-    "quests.gregtech_energy.reformate_gas.desc.1": "&9重整气&r是一种强大且新的气体燃料，在&bMV&r阶段承担了通常由苯扮演的角色。\n\n要生产它，你需要建造一座&6煤炭液化塔&r，并从仅存在于干燥炎热气候的&6塔基安矿&r矿脉中获取一些&5铼&r。两座&6热解炉&r——一座生产杂酚油，另一座生产木焦油——将提供生产这种燃料所需的全部材料。如果你想简化设置，请记住可以用&6流体加热器&r来生产蒸汽。",
+    "quests.gregtech_energy.reformate_gas.desc.1": "&9重整气&r是一种强大且新的气体燃料，在&bMV&r阶段承担了通常由苯扮演的角色。\n\n要生产它，你需要建造一座&6液化塔&r，并从仅存在于干燥炎热气候的&6塔基安矿&r矿脉中获取一些&5铼&r。两座&6热解炉&r——一座生产杂酚油，另一座生产木焦油——将提供生产这种燃料所需的全部材料。如果你想简化设置，请记住可以用&6流体加热器&r来生产蒸汽。",
     "quests.gregtech_energy.reformate_gas.desc.2": "同样重要的是，需要考虑在&6HV&r阶段使用&6裂化机&r时可获得的提升产率。这将使你能够循环利用绝大部分的&5铼&r，使重整气实质上成为一种接近无限的燃料。\n\n在此流程中添加&9氮气&r和&9氢气&r，将进一步增强你的生产吞吐量。",
     "quests.gregtech_energy.btx.title": "轻质芳烃",
     "quests.gregtech_energy.btx.subtitle": "并非韩国乐队",
