@@ -135,5 +135,9 @@
     "quests.metal_age.redblu_buckets.desc": "冶金时代的最终任务是制造一个桶。与你到目前为止一直在使用的木桶和其他流体容器不同，桶可用于携带熔岩并移动其他流体的源方块。",
     "quests.metal_age.this_is_a_bucket.title": "这……是一个桶。",
     "quests.metal_age.this_is_a_bucket.subtitle": "亲爱的上帝……",
-    "quests.metal_age.this_is_a_bucket.desc": "恭喜你制作了桶。冶金时代正式结束。\n\n去开始研究那些低电压组件吧！"
+    "quests.metal_age.this_is_a_bucket.desc": "恭喜你制作了桶。冶金时代正式结束。\n\n去开始研究那些低电压组件吧！",
+    "quests.metal_age.temperature_protection.title": "彩色钢装备",
+    "quests.metal_age.temperature_protection.subtitle": "永久温度防护",
+    "quests.metal_age.temperature_protection.desc": "厌倦了总是拿着钳子吗？彩色钢优异的隔热性能同样体现在它们的装备上！\n\n&9蓝钢&r装备可以抵御极端高温，例如手持热铸锭或踩在充满蒸汽的管道上；而&c红钢&r装备则对低温提供同样的防护。胸甲类物品保护你的物品栏，靴子类物品则专门防护管道。\n\n查看&6#hot_protection_equipment&r和&b#cold_protection_equipment&r标签以获取完整列表！",
+    "quests.metal_age.temperature_protection.task": "任意红钢或蓝钢装备"
 }
