@@ -177,5 +177,17 @@
 	"material.tfg.ozone": "Ozone",
 	"material.tfg.tin_chloride": "Stannous Chloride",
 	"material.tfg.cyclohexanone": "Cyclohexanone",
-	"material.tfg.cyclohex_diperoxide": "1,1-Cyclohexanediyl Dihydroperoxide"
+	"material.tfg.cyclohex_diperoxide": "1,1-Cyclohexanediyl Dihydroperoxide",
+
+	"material.tfg.aciditic_waste": "Aciditic Waste",
+	"material.tfg.propylene": "Propylene",
+	"material.tfg.tpaoh": "Tetrapropylammonium Hydroxide",
+	"material.tfg.sodium_silicate": "Sodium Silicate",
+	"material.tfg.metal_rich_solution": "Metal Rich Solution",
+	"material.tfg.crude_mixed_gas": "Crude Mixed Gas",
+	"material.tfg.zsm5_gel": "ZSM-5 Gel",
+	"material.tfg.leachate": "Rhenium Leachate",
+	"material.tfg.clean_powder": "Re-Silicate Clean Powder",
+	"material.tfg.catalyser_powder": "Catalyser Re ZSM-5 Powder",
+	"material.tfg.sodium_aluminium": "Sodium Aluminium"
 }

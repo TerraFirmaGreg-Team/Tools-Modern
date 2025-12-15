@@ -42,6 +42,7 @@
     "quests.gregtech_energy.lv_generator.desc.2": "&e1.蒸気力&r：\n\n最も基本的で伝統的な発電方法です。ボイラーで作った蒸気を蒸気タービンに送ることで電力へと変換できます。&e64mB/t&rの蒸気から&e32EU/t&rを発電可能です。\n\nこの方式で進めるなら、ブロンズ製大型ボイラーを作るのがおすすめです。溶岩やクレオソート、その他の固体燃料などで簡単に動かせます(使える燃料はEMIで確認できます)。",
     "quests.gregtech_energy.lv_generator.desc.3": "&e2.回転力&r：\n\nCreateの回転動力をオルタネーターに繋げてRFを発電し、それを&7LV&rエネルギー変換機でEUに変換できます。詳しくは、「LV」の章の中のオルタネーターのクエストをチェックしましょう。",
     "quests.gregtech_energy.lv_generator.desc.4": "&e3.バイオディーゼル燃料（TFG限定）&r：\n\nキャノーラやヒマワリから大量の種油を作れます。これをアルコール類と調合することでバイオディーゼルを精製できます。\n\nこの方法は少し手間がかかりますが、バイオディーゼルは&7LV&r～&bMV&rまでの間で使える優秀な燃料になります。さらに、&eセタン添加ディーゼル&rにすれば&5EV&rまで使える非常に優秀な燃料になります。\n\n使用するには&7LV&r燃焼発電機が必要です。これはやや高価な代わりに1mBあたりの発電量が多く、燃料の運搬や保管がとても効率的です。どの発電方法から始めるかはあなたの自由です。",
+    "quests.gregtech_energy.lv_generator.desc.5": "&e4.合成ガス発電（TFG限定）&r：\n\n&6コークス炉&rと&6Vacuum Chamber&rを利用することで、序盤からこのガス燃料を作ることができます。性能はまずまずですが、&eガス発電&rこだわる方にとっては十分実用的です。最大限の効率を引き出すために、&6Create&rを活用した自動植林場の構築を強く推奨します。",
     "quests.gregtech_energy.lv_generator.task": "Any LV Generator",
 
     "quests.gregtech_energy.mv_generator.title": "MVの発電方法",
@@ -92,18 +93,52 @@
 
     "quests.gregtech_energy.lgt_fuel.title": "ガス燃料",
     "quests.gregtech_energy.lgt_fuel.subtitle": "みんな大好き",
-    "quests.gregtech_energy.lgt_fuel.desc.1": "ガス燃料といえば、これでしょう。その名も&eニトロベンゼン&r。\n\n&6HV&rに到達すれば作れるようになります。&a大型ガスタービンを運用するならぜひこれを使いましょう&r。\n\nニトロベンゼンまでは、&eベンゼン&rが便利です。木から精製するか、重油を加工して作ることができます。",
-    "quests.gregtech_energy.lgt_fuel.desc.2": "ニトロベンゼンを作るにはいくつか工程があります。最初に&6大型化学反応炉&r(LCR)を組めば、多くの中間工程を省いて作業がずっと簡単になります。\n\n流れ自体は難しくありません。水素・窒素・酸素を組み合わせれば&e硝酸&rをいくらでも作れます。硫酸はご存知の通り硫黄と水から作れます。\n\nこの生産ラインを回せるようになると、ニトロベンゼンはガス燃料としてとても役に立ってくれることでしょう。",
+    "quests.gregtech_energy.lgt_fuel.desc.1": "これらの燃料はすべて &2ガスタービン発電機&rで使用されます。ここでは、効率が低いものから高いものまでを順に並べています。\n\n&bガスタービン発電機&rは、同じ時期に作れる&b燃焼発電機&rと比べて安価に作れますが、&eガス燃料&rは燃焼系燃料よりも全体的に燃料価が低くなっています。ただし、これは劣っているという意味ではなく、同じ出力を得るために必要な量（mB）が多くなるというだけです。進行が進むと、より多くの管理を必要とする非常に強力なマルチブロックである &2大型ガスタービン&rでも使用できるようになります。",
+    "quests.gregtech_energy.lgt_fuel.desc.2": "TerraFirmaGregにおいて、&eガス燃料&rは全体的なバランス調整が行われています。&eベンゼン&rや&eニトロベンゼン&rは大幅に弱体化されているため、これらに依存することは&6推奨しません&r。&7LV&rの序盤で、オイルサンドを処理する際などには&e合成ガス&rや&eLPG&rを使用することをおすすめします。その後、&bMV&rで&e改質ガス&rにアップグレードでき、さらに&2クラッカー&rが解禁されると生産効率はより一層高まります。",
     "quests.gregtech_energy.lgt_fuel.task": "Gas in a bucket?",
+
+    "quests.gregtech_energy.syngas.title": "合成ガス",
+    "quests.gregtech_energy.syngas.subtitle": "LVでもガス発電がしたい！",
+    "quests.gregtech_energy.syngas.desc": "&e合成ガス&rは、TFGにて新しく追加されたガス燃料です。&8ULV&rという非常に早い段階で解禁でき、&7LV&rでは&6基本型ガスタービン発電機&rに使用できます。特別に強力な燃料というわけではありませんが、&e潤滑剤&r、&eメタン&r、&e水素&rといった価値の高い副産物へと変換することが可能です。\n\n最強の発電方法！...というわけではなく、大規模な発電には向いていないですが、&6コークス炉&rを3基と、&6醸造機&rまたは&6Vacuum Chamber&rを1基だけ使用すれば安定して生産することができます。&bMV&rに到達し、さらに強力な&e改質ガス&rを解禁するまでのつなぎには十分でしょう。",
+    
+    "quests.gregtech_energy.reformate_gas.title": "改質ガス",
+    "quests.gregtech_energy.reformate_gas.subtitle": "ベンゼンを返して",
+    "quests.gregtech_energy.reformate_gas.desc.1": "&9改質ガス&rは、&bMV&rにおける従来のベンゼンの役割を担う、強力で新しいガス燃料です。\n\nこれを生産するには、&6液化塔&rを建設し、乾燥して高温な気候にのみ生成される&6タキアン鉱&rの鉱脈から&5レニウム&rを入手する必要があります。&6熱分解炉&rを2基用意し、一方でクレオソート、もう一方で木質タールを生産することで、この燃料を生成するために必要な素材がすべて揃います。\n\n構成を簡略化したい場合は、&6液体加熱機&rを使って蒸気を生産できるという点も覚えておいてください。",
+    "quests.gregtech_energy.reformate_gas.desc.2": "&6HV&rで解禁される&6クラッカー&rを使用することで大幅に生産効率が向上します。さらに&5レニウム&rを循環利用できるようになるため、改質ガスは事実上、無限に使える燃料となります。\n\nさらに &9窒素&rと&9水素&rを工程に追加することで、生産速度を一層強化できます。",
+
+    "quests.gregtech_energy.btx.title": "BTX",
+    "quests.gregtech_energy.btx.subtitle": "Not a korean band",
+    "quests.gregtech_energy.btx.desc": "The BTX Fuel is NYI",
+
+    "quests.gregtech_energy.fission_rod.title": "Fission Fuels",
+    "quests.gregtech_energy.fission_rod.subtitle": "Don't get me too hot",
+    "quests.gregtech_energy.fission_rod.desc.1": "The Earth Fission materials are NYI but may come sooner than later",
+    "quests.gregtech_energy.fission_rod.desc.2": "",
+    "quests.gregtech_energy.fission_rod.task": "",
+
+    "quests.gregtech_energy.smr.title": "Small Modular Reactor",
+    "quests.gregtech_energy.smr.subtitle": "Finally Power for these far outposts",
+    "quests.gregtech_energy.smr.desc.1": "The Small Modular Reactor is NYI but may come sooner than later",
+    "quests.gregtech_energy.smr.desc.2": "",
+    "quests.gregtech_energy.smr.task": "",
+
+    "quests.gregtech_energy.gasoline.title": "ガソリン",
+    "quests.gregtech_energy.gasoline.subtitle": "燃料界のスーパースター",
+    "quests.gregtech_energy.gasoline.desc": "&aガソリン&rは&6HV&rで解禁される非常に強力な燃焼燃料ですが、&6蒸留塔&rを建設してから本格的な生産を始めるのが現実的です。&7トルエン&rは&7木質タール&rや&7重質燃料&rから簡単に作成でき、それ以外に必要なものは&d精製ガス&r、&8ナフサ&r、そして&3酸素&r・&b水素&r・&1炭素&rの化合物たちです。\n\n高い性能を持ち、比較的簡単に製造できるうえ、さらに&c高オクタン価ガソリン&rへとアップグレードすることも可能です。",
+
+    "quests.gregtech_energy.high_gasoline.title": "高オクタン価ガソリン(ハイオク)",
+    "quests.gregtech_energy.high_gasoline.subtitle": "ハイオク満タンで",
+    "quests.gregtech_energy.high_gasoline.desc": "&cガソリン&rの直接的なアップグレードで、&5性能が2倍に強化された燃料&rです。名前からは分かりにくいですが、&dオクタン&rだけでなく、&8石油化学&r由来の他の素材も追加する必要があります。\n\nこの段階まで来れたあなたなら、&bEMI&rを使ってレシピを把握し、この非常に強力な燃料を自力で製造できるようになっていることでしょう。",
 
     "quests.gregtech_energy.lst_fuel.title": "蒸気",
     "quests.gregtech_energy.lst_fuel.subtitle": "ある意味水力発電",
     "quests.gregtech_energy.lst_fuel.desc": "蒸気を作るのは簡単です。ただ水を沸かすだけですから。\n\n大量の蒸気を生産するなら&6大型ボイラー&rの使用をおすすめします。バージョンは4種類で、それぞれ&8ULV&r、&bMV&r、&5EV&r、&1IV&r用のものがあります。ティアが上がるごとに蒸気の生産量も大幅に増えます。\n\n注意：これらのボイラーを使ったとしても、&d大型蒸気タービン&rの性能は他の発電方法ほどではありません。\n\nほとんどのプレイヤーはチタンやタングステンスチールボイラーを使うことはありません。作れはしますが、その価値がほとんどありません。蒸気は単純ですが、性能が頭打ちになりがちです。\n\n参考までに：&e2mB&rの蒸気=&e1EU&r。",
     "quests.gregtech_energy.lst_fuel.task": "I will switch to a denser fuel",
+    "quests.gregtech_energy.lst_fuel.task.1": "Large Boilers",
 
     "quests.gregtech_energy.lce_fuel.title": "液体燃料",
     "quests.gregtech_energy.lce_fuel.subtitle": "環境破壊を楽しもう",
-    "quests.gregtech_energy.lce_fuel.desc.1": "これらの液体燃料は&6燃焼発電機&rで使えます。弱いものから順に並べました。\n\n&bMV&rの段階では、まずディーゼルかバイオディーゼルを使うのがおすすめです。\n&6HV&rに進んだら、窒素・水素・酸素を混ぜてセタン添加ディーゼルにアップグレードできます。",
+    "quests.gregtech_energy.lce_fuel.desc.1": "これらの液体燃料は&6燃焼発電機&rで使えます。弱いものから順に並べました。\n\n序盤は、まずディーゼルかバイオディーゼルを使うのがおすすめです。\n&6HV&rに進んだら、窒素・水素・酸素を混ぜてセタン添加ディーゼルにアップグレードできます。",
     "quests.gregtech_energy.lce_fuel.desc.2": "&5EV&rに到達して&6蒸留塔&rを本格的に運用し始めたら、ガソリンまたはハイオクガソリンに切り替えるタイミングです。\n早とちりしないでください。原油はきちんと蒸留する必要があり、通常の蒸留機では効率が非常に悪いです。\n\n作るには、原油の蒸留といくつかの有機化合物処理を組み合わせる必要があります。熱分解炉と蒸留塔を使えばスムーズに処理できます。\n\nハイオクガソリンを安定供給できれば、燃焼発電機だけでクリアすることも夢ではありません。",
     "quests.gregtech_energy.lce_fuel.task": "I got enough",
 
@@ -156,8 +191,8 @@
     "quests.gregtech_energy.spending_energy.title": "電力運用について",
     "quests.gregtech_energy.spending_energy.subtitle": "電力の消費",
     "quests.gregtech_energy.spending_energy.desc.1": "電力はあるけれど、何に使えばいいんだろう？\n\n機械を使いましょう！とはいえ、実際のところそう単純な話ではないのです...\n&3TerraFirmaGreg&rを攻略するために、知っておくべき電力の基本知識をお教えします。\n\n基本的な機械：\n-各機械は最大で&a2A&rまで要求できます\n-上位の電圧を流すと...&4💥爆発します&r。\n\n大型機械:\nここからが本番です。マルチブロックの構造は、仕組みを理解して、うまく扱うことが重要です。",
-    "quests.gregtech_energy.spending_energy.desc.2": "標準的な仕組み：\n-マルチブロックが2つのエネルギーハッチを組み込める場合(ほとんどの機械がそうです)、その機械の基本電圧よりも1つ上位の電圧のレシピを使用できます。\n\n例：\n大型混合機を使用し、そこにIVエネルギーハッチを2つ取り付けると、&cLuV&rのミキサーレシピを処理できるようになります。\n\nこれは、大型機械の大きな利点の1つです。そして、アップグレードしたい場合は、機械全体を交換するのではなく、エネルギーハッチを交換するだけで次のティアに引き上げることができます。",
-    "quests.gregtech_energy.spending_energy.desc.3": "一部の大型機械は1つのエネルギーハッチしか組み込むことができません。その場合も4Aや16Aのエネルギーハッチを使用することで、レシピの&bオーバークロック&rは可能です。ただし、レシピのティア自体は変わりません。\n\n例：\n大型回路作成機は1つのエネルギーハッチしか取り付けられません。しかし、4AのIVエネルギーハッチを設置すれば、IVおよびそれ以下のレシピをすべてオーバークロックすることができます。\n\nただし、複数のハッチをサポートしていないため、LuVティアのレシピを作成することはできません。この制限は意図的なもので、GregTechの進行システムを飛ばすことを防ぐための設計です。",
+    "quests.gregtech_energy.spending_energy.desc.2": "標準的な仕組み：\n-マルチブロックが2つのエネルギーハッチを組み込める場合(ほとんどの機械がそうです)、その機械の基本電圧よりも1つ上位の電圧のレシピを使用できます。\n\n例：\nEBFを組み立てる際に、LVエネルギーハッチを2つ取り付けると、&cMV&rのレシピを処理できるようになります。\n\nこれは、大型機械の大きな利点の1つです。アップグレードしたい場合は、機械全体を交換するのではなく、エネルギーハッチを交換するだけで次のティアに引き上げることができます。",
+    "quests.gregtech_energy.spending_energy.desc.3": "一部の大型機械はエネルギーハッチを1つまでしか組み込むことができません。その場合も4Aや16Aのエネルギーハッチを使用することで、レシピの&bオーバークロック&rは可能です。ただし、レシピのティア自体は変わりません。\n\n例：\n大型回路作成機は1つのエネルギーハッチしか取り付けられません。しかし、4AのIVエネルギーハッチを設置すれば、IVおよびそれ以下のレシピをすべてオーバークロックすることができます。\n\nただし、複数のハッチをサポートしていないため、LuVティアのレシピを作成することはできません。この制限は意図的なもので、GregTechの進行システムを飛ばすことを防ぐための設計です。",
     "quests.gregtech_energy.spending_energy.desc.4": "要するに、1つのエネルギーハッチに多くのアンペアを流せば処理は速くなりますが、上位ティアのレシピを使いたい場合はエネルギーハッチを2つ取り付ける必要があります。",
     "quests.gregtech_energy.spending_energy.task": "I understand",
 

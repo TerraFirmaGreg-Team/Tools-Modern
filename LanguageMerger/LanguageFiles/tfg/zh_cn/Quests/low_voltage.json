@@ -51,7 +51,7 @@
     "quests.low_voltage.lv_gas_syngas.title": "合成气",
     "quests.low_voltage.lv_gas_syngas.subtitle": "并非木煤气",
     "quests.low_voltage.lv_gas_syngas.desc": "制造&7合成气&r非常简单。你只需为每台&6酿造室&r或&6真空腔室&r配备&b3座焦炉&r。然后借助&b机械动力树场&r收集&7木材&r以最大程度降低能耗，就能享受这种虽弱但易于生产的&7气体燃料&r了。",
-    "quests.low_voltage.lv_naphtha_light.title": "石脑油和轻油",
+    "quests.low_voltage.lv_naphtha_light.title": "石脑油和轻燃油",
     "quests.low_voltage.lv_naphtha_light.subtitle": "你可以用它们来制造塑料",
     "quests.low_voltage.lv_naphtha_light.desc": "如果你实在厌恶种地，更偏爱在&6沙漠&r探险或开采大量&7油砂&r，那么或许&7石脑油&r（从&7原油&r中提取更佳）或&7轻燃油&r（从&7石油&r中提取更佳）会是值得你考虑的燃料。\n\n鉴于其易于生产的特性，它们的性价比相当不错，只不过在现阶段仍需手动采收。",
     "quests.low_voltage.lv_turbo_charge.title": "闪聚充电箱",

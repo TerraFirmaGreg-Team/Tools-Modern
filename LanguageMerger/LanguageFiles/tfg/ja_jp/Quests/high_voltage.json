@@ -92,7 +92,8 @@
     "quests.high_voltage.ptfe.desc": "&aポリテトラフルオロエチレン（通称：PTFE）&rは、&7炭素&rと&bフッ素&rからなる高分子化合物です。PVCと同様に、PTFEはプラスチック製回路基板などの製作効率を向上させる用途に使えます。現在では、&3大型化学反応炉&rの素材としても使用されています。\n\nこの生成過程では&3塩素&rも要求されていますが、生成される&a塩化水素&rを電解すれば、&6完全にループ&rさせることができます。\n\n&bフッ素&rは、今後&aウラン&rや&7ナクアダ&rの精製にも使います。\n\n&9Tips：&rこれ以降は、ポリマー類は&dインゴット&rの形で保管しておくのがおすすめです。&3押出機&rを使って、簡単に成形できます。",
 
     "quests.high_voltage.nitrobenzene.title": "ニトロベンゼン",
-    "quests.high_voltage.nitrobenzene.desc": "&aニトロベンゼン&rを作ると、&aベンゼン&rの燃料価が約&64倍&rに向上します。素晴らしいですね。\n\nただし、作るには&d蒸留水&rが必要で、&d硫黄&rを消費します。",
+    "quests.high_voltage.nitrobenzene.subtitle": "かつての栄光は見る影もなく",
+    "quests.high_voltage.nitrobenzene.desc": "TerraFirmaGregでは、&aニトロベンゼン&rと&aベンゼン&rは大幅に弱体化されています。燃料として使うこともできますが、基本的には素材として利用することになるでしょう。\n\nまた、ニトロベンゼンは、作る過程で少しずつ&d硫黄&rを消費していくため注意してください。",
 
     "quests.high_voltage.lcr.title": "大型化学反応炉",
     "quests.high_voltage.lcr.desc.1": "&3大型化学反応炉（通称：LCR）&rは、通常の&3化学反応器&rの大型機械であり、より多くの搬入・搬出スロットを備えています。外装にはPTFE（テフロン）が使われており、これによって通常の化学反応器では扱えないレシピも処理できます。\n\n&3LCR&rでは、一部の&3化学反応器&rのレシピを&6一気に処理することができます&r。以下がその例です：\n\n&9-&r&a二酸化窒素&r（硝酸や四酸化二窒素の製造用）\n&9-&r&a硫酸&r\n&9-&r&aフェノール&r\n&9-&r&aエピクロロヒドリン&r（エポキシ樹脂の製造に必要）\n&9-&r&aエポキシ&r",
@@ -261,6 +262,8 @@
 
     "quests.high_voltage.final_dust.title": "無限の粉製",
     "quests.high_voltage.final_dust.subtitle": "アンリミテッドダストワークス",
-    "quests.high_voltage.final_dust.desc": "&e金星&rに到達するまでは、&7月&rで確保できる&c無限資源&rはこれだけです。\n\nこれらの資源が無限化されていれば、&dGregTech&rをかなり快適に進められるでしょう。&a月面基地&rの維持にも欠かせません。\n\n具体的な用途：\n•&dAE2コンポーネント&rの作成\n•&6レールガンの弾&rの&c無限&r生産\n\n資源が無限化されたことで、いくつかのパッシブラインを組むことができるようになったと思います。そちらに注力してもいいかもしれません。"
+    "quests.high_voltage.final_dust.desc": "&e金星&rに到達するまでは、&7月&rで確保できる&c無限資源&rはこれだけです。\n\nこれらの資源が無限化されていれば、&dGregTech&rをかなり快適に進められるでしょう。&a月面基地&rの維持にも欠かせません。\n\n具体的な用途：\n•&dAE2コンポーネント&rの作成\n•&6レールガンの弾&rの&c無限&r生産\n\n資源が無限化されたことで、いくつかのパッシブラインを組むことができるようになったと思います。そちらに注力してもいいかもしれません。",
 
+    "quests.high_voltage.titanium_greate.title": "Greate-チタニウムエディション",
+    "quests.high_voltage.titanium_greate.desc": "TerraFirmaGregにおいてGreateの要素はこれで最後です。超高電圧にふさわしい超高性能ではありますが...今さら歯車を回したいですか？"
 }

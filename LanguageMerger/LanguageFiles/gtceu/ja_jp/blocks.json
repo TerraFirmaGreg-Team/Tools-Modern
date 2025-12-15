@@ -14,6 +14,7 @@
     "block.gtceu.ostrum_harvester": "オストラムハーベスター",
     "block.gtceu.moon_dust_harvester": "ムーンハーベスター",
     "block.tfg.ostrum_linear_accelerator": "オストラムリニアアクセラレーター",
+    "block.gtceu.coal_liquefaction_tower": "液化塔",
     "block.gtceu.ulv_super_tank": "基本型スーパータンク",
     "block.gtceu.ulv_super_chest": "基本型スーパーチェスト",
     "block.gtceu.ulv_hermetic_casing": "基本気密外装",
@@ -55,6 +56,8 @@
     "gtceu.ostrum_linear_accelerator": "オストラムリニアアクセラレーター",
     "gtceu.bioreactor": "Bioreactor",
     "gtceu.growth_chamber": "Growth Chamber",
+    "gtceu.coal_liquefaction_tower": "液化塔",
+    "gtceu.smr_generator": "Small Modular Turbine",
 
     "gtceu.tooltip.machine.moon_dust_harvester_1": "§7Extraterrestrial Vacuum Cleaner§r",
     "gtceu.tooltip.machine.moon_dust_harvester_2": "§7Harvests infinite Regolith Dust depending on the biome its placed in.§r",
@@ -71,6 +74,6 @@
     "gtceu.tooltip.machine.steam_bloomery_2": "§7Processes Iron-bearing Dusts or Ingots into Raw Iron Blooms.§r",
     "gtceu.tooltip.machine.steam_bloomery_3": "§7Fueling it with Coke or Anthracite will double the output.§r",
     "gtceu.tooltip.machine.steam_bloomery_4": "§7Can process up to 8 recipes at once, which changes how much Steam is required.§r",
-    "gtceu.tooltip.machine.coal_liquefaction_tower_1": "§7Carbon Smoothie Maker§r",
-    "gtceu.tooltip.machine.coal_liquefaction_tower_2": "§7Extracts gas fuels from carbonic solids and creosote§r"
+    "gtceu.tooltip.machine.coal_liquefaction_tower_1": "§7Smoothie Maker§r",
+    "gtceu.tooltip.machine.coal_liquefaction_tower_2": "§7Extracts gas and liquids from carbonic solids§r"
 }

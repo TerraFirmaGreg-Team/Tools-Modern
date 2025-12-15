@@ -7,6 +7,9 @@
   "applied_armorer.attachment.extended_mid_mag_aa_2.name": "§9Fluix Grooved Magazine",
   "applied_armorer.attachment.extended_mid_mag_aa_3.name": "§dFluix Grooved Magazine",
 
+  "applied_armorer.ammo.cluster_quartz_bullet.name": "§bCluster Quartz Shell",
+  "applied_armorer.ammo.etched_quartz_bullet.name": "§bEtched Quartz Bullet",
+  
   "applied_armorer.attachment.si_pricision.name": "§aPrecision Scope",
   "applied_armorer.attachment.si_double_sided_mirror.name": "\"Double Sided Mirror\" Scope",
   "applied_armorer.attachment.si_ms_12.name": "§aMS-12 Scope",

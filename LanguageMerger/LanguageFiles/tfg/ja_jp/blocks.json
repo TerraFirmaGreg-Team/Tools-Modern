@@ -108,8 +108,8 @@
 	"block.tfg.granite_support": "花崗岩の梁",
 	"block.tfg.pyroxenite_support_horizontal": "輝岩の梁",
 	"block.tfg.pyroxenite_support": "輝岩の梁",
-	"block.tfg.Migmatite_support_horizontal": "混成岩の梁",
-	"block.tfg.Migmatite_support": "混成岩の梁",
+	"block.tfg.migmatite_support_horizontal": "混成岩の梁",
+	"block.tfg.migmatite_support": "混成岩の梁",
 	"block.tfg.travertine_support_horizontal": "鍾乳石の梁",
 	"block.tfg.travertine_support": "鍾乳石の梁",
 	"block.tfg.glacian_support": "グラシアンの梁",
@@ -401,6 +401,8 @@
 
 	"block.tfg.rock.raw.stromatolite": "ストロマトライト",
 	"block.tfg.rock.spike.stromatolite": "ストロマトライトのつらら石",
+	"block.tfg.stromatolite_cluster_small": "小さいストロマトライトの塊",
+	"block.tfg.stromatolite_cluster_medium": "大きいストロマトライトの塊",
 
 	"block.tfg.rock.raw.geyserite": "ガイザライト",
 	"block.tfg.rock.spike.geyserite": "ガイザライトのつらら石",
@@ -422,8 +424,8 @@
 	"block.tfg.pile.mars_sand_covering": "粘土質岩の砂",
 	"block.tfg.pile.venus_sand": "粗面岩の砂",
 	"block.tfg.pile.venus_sand_covering": "粗面岩の砂",
-	"block.tfg.pile.Hematitic_sand": "赤鉄質の砂",
-	"block.tfg.pile.Hematitic_sand_covering": "赤鉄質の砂",
+	"block.tfg.pile.hematitic_sand": "赤鉄質の砂",
+	"block.tfg.pile.hematitic_sand_covering": "赤鉄質の砂",
 
 	"block.tfg.lunar_roots": "月光のライトブルーム",
 	"block.tfg.lunar_sprouts": "月光のライトグラス",
@@ -574,7 +576,10 @@
 	"block.tfg.casings.heat_pipe_casing": "ヒートパイプ外装",
 	"block.tfg.glacian_wool_frame": "氷塊羊毛の耐熱フレーム",
 	"block.tfg.aes_insulation_frame": "AES断熱材の耐熱フレーム",
-
+	
+	"block.tfg.machine_casing_power_casing": "Insulated Power Casing",
+	"block.tfg.active_power_transformer": "Active Energy Transformer",
+	
 	"__comment1": "TODO",
 	"__comment2": "block.tfg.corallium_arenicolus_0: Corallium Arenicolus",
 	"__comment3": "block.tfg.corallium_arenicolus_1: Corallium Arenicolus",
@@ -665,6 +670,9 @@
 	"block.tfg.nuclear_turbine": "原子力蒸気タービン",
 	"block.tfg.evaporation_tower": "蒸発塔",
 	"block.tfg.cooling_tower": "Nuclear Cooling Tower",
+
+	"block.tfg.smr_generator": "Small Modular Turbine",
+	"block.tfg.casings.machine_casing_desh_ptfe": "Radiation-Safe Desh Casing",
 
 	"block.tfg.growth_monitor": "Growth Monitor",
 	"block.tfg.sample_rack": "Sample Rack",

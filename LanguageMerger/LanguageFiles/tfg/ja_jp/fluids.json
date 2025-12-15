@@ -1,7 +1,7 @@
 {
-	"fluid.tfg.semiheavy_ammoniacal_water": "アンモニア交じりの半重水",
 	"fluid.tfg.heavy_ammoniacal_water": "アンモニア交じりの重水",
-	"fluid.tfg.sulfur_fumes": "Sulfur Fumes",
+	"fluid.tfg.semiheavy_ammoniacal_water": "アンモニア交じりの半重水",
+	"fluid.tfg.sulfur_fumes": "Dense Sulfuric Fumes",
 	"fluid.tfg.geyser_slurry": "Super Heated Slurry",
 	"fluid.tfg.cryogenized_fluix": "超低温液化フルーシュ"
 }

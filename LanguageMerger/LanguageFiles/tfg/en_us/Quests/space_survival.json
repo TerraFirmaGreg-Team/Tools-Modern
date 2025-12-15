@@ -127,7 +127,7 @@
 
 	"quests.space_survival.spice.title": "Ostrum Deposits",
 	"quests.space_survival.spice.subtitle": "Spice Melange",
-	"quests.space_survival.spice.desc": "&dOstrum Deposits&r are immovable blocks that you can only find in the Martian Deep Desert, far away from any of the more lush areas. They spawn in small blobs, and can be broken to make space for your Ostrum Harvester if they're on a slope. Try using a &6Spyglass&r to find them from a distance!\n\nYou'll have to figure out some long-distance logistics to ship your Ostrum back to your base. (Try a train, Accumulators can transport power!)\n\nOstrum is a crucial resource for both &5EV&r progression and making infinite ores from Mars.",
+	"quests.space_survival.spice.desc": "&dOstrum Deposits&r are immovable blocks that you can only find in the Martian Deep Desert, far away from any of the more lush areas. They spawn in small blobs, and can be broken to make space for your Ostrum Harvester if they're on a slope. Try using a &6Spyglass&r to find them from a distance!\n\nYou'll have to figure out some long-distance logistics to ship your Ostrum back to your base. (Try a train!)\n\nOstrum is a crucial resource for both &5EV&r progression and making infinite ores from Mars.",
 	"quests.space_survival.spice.task": "The spice must flow",
 
 	"quests.space_survival.mars_islands.title": "The Martian Jungles",

@@ -17,23 +17,23 @@
 	"quests.steam_age.horse_crank.title": "Your First Power Source",
 	"quests.steam_age.horse_crank.subtitle": "Make your livestock pay rent",
 	"quests.steam_age.horse_crank.desc.1": "The &3Animal Crank&r is your first accessible source of mechanical power. To use it, place the crank on the center of a 7x7 cleared area and leash an animal to it. Different animals will provide different amounts of power, while the blocks underneath will increase the speed of the output power. The area of multiple cranks can overlap.\n\nYou may need to hold a second lead to attach an animal.",
-	"quests.steam_age.horse_crank.desc.2": "&3Small Animals (4 SU):&r\nWolf, Dog, Pig, Sheep, Goat, Alpaca\n\n&3Medium Animals (6 SU):&r\nCow, Donkey\n\n&3Large Animals (8 SU):&r\nHorse, Mule, Musk Ox, Yak",
+	"quests.steam_age.horse_crank.desc.2": "&3Small Animals (8 SU):&r\nWolf, Dog, Pig, Sheep, Goat, Alpaca\n\n&3Medium Animals (12 SU):&r\nCow, Donkey\n\n&3Large Animals (16 SU):&r\nHorse, Mule, Musk Ox, Yak",
 
 	"quests.steam_age.poor_paths.title": "Poor Paths",
 	"quests.steam_age.poor_paths.subtitle": "This is just dirt",
-	"quests.steam_age.poor_paths.desc": "This is the worst kind of road you could use. The animal crank will operate at 2 RPM.",
+	"quests.steam_age.poor_paths.desc": "This is the worst kind of road you could use. The animal crank will operate at 8 RPM.",
 
 	"quests.steam_age.normal_paths.title": "Medium Paths",
 	"quests.steam_age.normal_paths.subtitle": "Ok, you put a little effort in",
-	"quests.steam_age.normal_paths.desc": "Medium paths are a little better and will let your animals turn the crank at 4 RPM.\n\nNote: You can't have a Dirt Path block directly under the animal crank, so that one will have to be Gravel.",
+	"quests.steam_age.normal_paths.desc": "Medium paths are a little better and will let your animals turn the crank at 16 RPM.\n\nNote: You can't have a Dirt Path block directly under the animal crank, so that one will have to be Gravel.",
 
 	"quests.steam_age.good_paths.title": "Great Paths",
 	"quests.steam_age.good_paths.subtitle": "No horseshoes required!",
-	"quests.steam_age.good_paths.desc": "These are the best kind of paths you could use, letting your crank output at 8 RPM. These kinds of paths also increases the player's move speed too, so they're great to pave your base with!",
+	"quests.steam_age.good_paths.desc": "These are the best kind of paths you could use, letting your crank output at 32 RPM. These kinds of paths also increases the player's move speed too, so they're great to pave your base with!",
 
 	"quests.steam_age.helve_hammer.title": "Helve Hammer",
 	"quests.steam_age.helve_hammer.subtitle": "CLANG... CLANG... CLANG...",
-	"quests.steam_age.helve_hammer.desc": "Does crafting all those plates for a Bloomery look tedious? The &3Helve Hammer&r will automatically (but slowly) flatten double ingots into plates for you. You'll still have to do the welding yourself though. Simply place an anvil directly under the hammer and throw your double ingots onto it, then right-click the hammer to get your plates out.\n\nHigher tier anvils will also require fewer hits to make plates from the previous tier.",
+	"quests.steam_age.helve_hammer.desc": "Does crafting all those plates for a Bloomery look tedious? The &3Helve Hammer&r will automatically (but slowly) flatten double ingots into plates for you. You'll still have to do the welding yourself though. Simply place an anvil directly under the hammer and throw your double ingots onto it by pressing the &2Throw Item key (Default: Q)&r, then right-click the hammer to get your plates out.\n\nHigher tier anvils will also require fewer hits to make plates from the previous tier.",
 
 	"quests.steam_age.water_wheel.title": "Water Wheels",
 	"quests.steam_age.water_wheel.subtitle": "Hope you set up your base near a river!",
@@ -95,7 +95,7 @@
 
 	"quests.steam_age.fluid_pipes.title": "Fluid Pipes",
 	"quests.steam_age.fluid_pipes.subtitle": "Liquids, gases... we don't discriminate",
-	"quests.steam_age.fluid_pipes.desc.1": "&bFluid Pipes&r will transport &7Steam&r between machines for you.\n\nEach Pipe has a certain throughput in mB/t, and a &6Temperature Limit&r. This is relevant right now, as Steam will burn Wooden Pipes. Some pipes have &bspecial&r attributes you don't need to worry about for now.\n\nEach material has several sizes for Pipes. The bigger the Pipe, the &ahigher&r the throughput, but the more &dexpensive&r the craft. For example, a normal &6Bronze Fluid Pipe&r transfers 120 mB/t. (It also has a 1,200 mB internal buffer!)\n\nTo start off, we recommend using Wood pipes for cold fluids, and Bronze ones for hot fluids.",
+	"quests.steam_age.fluid_pipes.desc.1": "&bFluid Pipes&r will transport &7Steam&r between machines for you.\n\nEach Pipe has a certain throughput in mB/t, and a &6Temperature Limit&r. This is relevant right now, as Steam will burn Wooden Pipes. Some pipes have &bspecial&r attributes you don't need to worry about for now.\n\nEach material has several sizes for Pipes. The bigger the Pipe, the &ahigher&r the throughput, but the more &dexpensive&r the craft. For example, a normal &6Bronze Fluid Pipe&r transfers 120 mB/t. (It also has a 1,200 mB internal buffer!)\n\nTo start off, we recommend using Wood pipes for room-temperature fluids, and Bronze ones for hot fluids.",
 	"quests.steam_age.fluid_pipes.desc.2": "&aReminder:&r 1 second = 20 ticks... assuming the server isn't lagging.\n\n&dNote:&r GT6-style Pipes are enabled. It means that placing Pipes connects them only to the block they were placed against. To open more connections, use your Wrench on the pipe.\n\nYou can also shift-right click with your Wrench to disable input from a side. This can help counteract sloshing (liquids travelling in an undesired direction).",
 
 	"quests.steam_age.fluid_drums.title": "Efficient Fluid Storage",
@@ -301,6 +301,6 @@
 
 	"quests.steam_age.supers.title": "Super Chests and Super Tanks",
 	"quests.steam_age.supers.subtitle": "Super Storage Drawers",
-	"quests.steam_age.supers.desc": "This is the &cu&6l&et&ai&bm&9a&5t&4e&r portable item and storage solution if you have a lot of single items or fluids. While these &dBasic&r (&8ULV&r) ones start out relatively small, higher tiers of Super chests and tanks can hold an insane amount of stuff - all in one single block without any regards to temperature or acidity!\n\nLike Drums, Super Tanks and Chests &6keep their contents when broken&r, can be cleared in the crafting grid, and can automatically void any overflow.\n\nIf you hunger for &9even more&r storage, take a look at higher tier Quantum Chests and Tanks or AE2 Storage Cells.",
+	"quests.steam_age.supers.desc": "This is the &cu&6l&et&ai&bm&9a&5t&4e&r portable item and storage solution if you have a lot of single items or fluids. While these &dBasic&r (&8ULV&r) ones start out relatively small, higher tiers of Super chests and tanks can hold an insane amount of stuff - all in one single block without any regards to temperature or acidity!\n\nLike Drums, Super Tanks and Chests &6keep their contents when broken&r, can be cleared in the crafting grid, and can automatically void any overflow. Unlike drums, however, Super Tanks also &asafely contain&r their contents, preventing you from getting burnt, frozen, or floating.\n\nIf you hunger for &9even more&r storage, take a look at higher tier Quantum Chests and Tanks or AE2 Storage Cells.",
 	"quests.steam_age.supers.task": "Any super chest or tank"
 }

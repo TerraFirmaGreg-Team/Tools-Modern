@@ -123,7 +123,7 @@
   
     "quests.metal_age.highcarb_black_steel.title": "黒鋼の材料",
     "quests.metal_age.highcarb_black_steel.subtitle": "質量保存の法則は適用されません",
-    "quests.metal_age.highcarb_black_steel.desc": "最後の2つの金床は、作成に多くの金属を必要とする複雑な合金で作ることができます。\n軟鋼と銑鉄を溶接して高炭素黒鋼を作成し、それを金床で鍛造して黒鋼にすることができます。",
+    "quests.metal_age.highcarb_black_steel.desc": "最後の2つの金床は、作成に多くの金属を必要とする複雑な合金で作ることができます。\n軟鋼と銑鉄を溶接して高炭素黒鋼を作成し、それを金床で鍛造して黒鋼にすることができます。\n\n高圧蒸気式合金精錬炉があれば、黒鋼などの色つき鋼の&6生産効率が2倍&rになります。",
  
     "quests.metal_age.black_steel_anvil.title": "第五の金床:黒鋼",
     "quests.metal_age.black_steel_anvil.subtitle": "蒸気の力をその手の中に！",
@@ -155,11 +155,11 @@
  
     "quests.metal_age.highcarb_red_steel.title": "赤鋼の材料",
     "quests.metal_age.highcarb_red_steel.subtitle": "核分裂反応ってこんな感じだっけ？",
-    "quests.metal_age.highcarb_red_steel.desc": "赤鋼のための高炭素赤鋼は、軟赤鋼と黒鋼を溶接することによって作られます。\nこれを赤鋼にするには、金床で鍛造する必要があります",
+    "quests.metal_age.highcarb_red_steel.desc": "赤鋼のための高炭素赤鋼は、軟赤鋼と黒鋼を溶接することによって作られます。\nこれを赤鋼にするには、金床で鍛造する必要があります。\n\n高圧蒸気式合金精錬炉があれば、赤鋼などの色つき鋼の&6生産効率が2倍&rになります。",
    
     "quests.metal_age.highcarb_blu_steel.title": "青鋼の材料",
     "quests.metal_age.highcarb_blu_steel.subtitle": "このレシピ、ラボアジエがみたらどう思うでしょう",
-    "quests.metal_age.highcarb_blu_steel.desc": "青鋼のための高炭素青鋼は、軟青鋼と黒鋼を溶接することによって作られます。\nこれを青鋼にするには、金床で鍛造する必要があります",
+    "quests.metal_age.highcarb_blu_steel.desc": "青鋼のための高炭素青鋼は、軟青鋼と黒鋼を溶接することによって作られます。\nこれを青鋼にするには、金床で鍛造する必要があります。\n\n高圧蒸気式合金精錬炉があれば、青鋼などの色つき鋼の&6生産効率が2倍&rになります。",
   
     "quests.metal_age.redblu_anvil.title": "第六の金床:赤鋼・青鋼",
     "quests.metal_age.redblu_anvil.subtitle": "おしまい？それともはじまり？",

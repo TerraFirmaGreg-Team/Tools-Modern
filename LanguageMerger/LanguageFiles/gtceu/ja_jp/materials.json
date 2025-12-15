@@ -5,7 +5,7 @@
 	"material.gtceu.liquid_air": "液体空気",
 
 	"__comment1": "Sorry GT, big bang theory doesn't count as a scifi reference",
-	
+
 	"material.gtceu.cooperite": "クーパー鉱",
 	"material.gtceu.armalcolite": "アーマルコライト",
 	"material.gtceu.desh": "デッシュ",
@@ -13,15 +13,17 @@
 	"material.tfg.calorite": "カロライト",
 	"material.tfg.etrium": "エトリウム",
 
+	"material.gtceu.tarkianite": "タキアン鉱",
+
 
 	"material.gtceu.aluminium_silicate": "ケイ酸アルミニウム",
 
 	"material.gtceu.rocket_alloy_t1": "R-AS ロケット合金",
 	"material.gtceu.rocket_alloy_t2": "ASM-4914 チタニウムロケット合金",
 	"material.gtceu.rocket_alloy_t3": "45-Ti タングステンスチールロケット合金",
-  	"material.gtceu.vitrified_asbestos": "ガラス化した石綿",
- 	"material.gtceu.liquid_carbon_dioxide": "液化二酸化炭素",
-	
+	"material.gtceu.vitrified_asbestos": "ガラス化した石綿",
+	"material.gtceu.liquid_carbon_dioxide": "液化二酸化炭素",
+
 	"__comment2": "Nuclear Material",
 
 	"material.gtceu.hot_debrominated_brine": "Hot Debrominated Brine",
@@ -54,21 +56,22 @@
 	"material.gtceu.acidic_bromine_exhaust": "Acidic Bromine Exhaust",
 	"material.gtceu.hot_alkaline_debrominated_brine": "Hot Alkaline Debrominated Brine",
 
-	"material.gtceu.lithium_carbonate":"炭酸リチウム",
-	"material.gtceu.lithium_fluoride":"フッ化リチウム",
-	"material.gtceu.tetrafluoroberyllate":"テトラフルオロベリラート",
-	"material.gtceu.thorium_230":"トリウム230",
-	"material.gtceu.thorium_232":"トリウム232",
-	"material.gtceu.tbu-232_pellet":"TBU 232 Pellet",
-	"material.gtceu.plutonium_pellet":"プルトニウムペレット",
-	"material.gtceu.uranium_pellet":"ウランペレット",
+	"material.gtceu.lithium_carbonate": "炭酸リチウム",
+	"material.gtceu.lithium_fluoride": "フッ化リチウム",
+	"material.gtceu.tetrafluoroberyllate": "テトラフルオロベリラート",
+	"material.gtceu.thorium_230": "トリウム230",
+	"material.gtceu.thorium_232": "トリウム232",
+	"material.gtceu.tbu-232_pellet": "TBU 232 Pellet",
+	"material.gtceu.plutonium_pellet": "プルトニウムペレット",
+	"material.gtceu.uranium_pellet": "ウランペレット",
 	"material.gtceu.thorium_pellet": "トリウムペレット",
 	"material.gtceu.ostrum_iodide": "ヨウ化オストラム",
 
-	"material.gtceu.residual_radioactive_concoction":"残留放射性混合物",
-	"material.gtceu.regolith_vapor":"月面堆積粉塵",
+	"material.gtceu.residual_radioactive_concoction": "残留放射性混合物",
+	"material.gtceu.regolith_vapor": "月面堆積粉塵",
 
-	"material.gtceu.dense_ostrum_vapor":"重質オストラム粉塵",
-	"material.gtceu.lightweight_ostrum_vapor":"軽質オストラム粉塵",
-	"material.gtceu.ostrum_vapor":"オストラム粉塵"
-}
+	"material.gtceu.dense_ostrum_vapor": "重質オストラム粉塵",
+	"material.gtceu.lightweight_ostrum_vapor": "軽質オストラム粉塵",
+	"material.gtceu.ostrum_vapor": "オストラム粉塵"
+	}
+	

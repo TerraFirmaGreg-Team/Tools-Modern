@@ -154,5 +154,16 @@
     "material.tfg.ozone": "臭氧",
     "material.tfg.tin_chloride": "氯化亚锡",
     "material.tfg.cyclohexanone": "环己酮",
-    "material.tfg.cyclohex_diperoxide": "1,1-环己烷二基二氢过氧化物"
+    "material.tfg.cyclohex_diperoxide": "1,1-环己烷二基二氢过氧化物",
+    "material.tfg.aciditic_waste": "酸性废料",
+    "material.tfg.propylene": "丙烯",
+    "material.tfg.tpaoh": "四丙基氢氧化铵",
+    "material.tfg.sodium_silicate": "硅酸钠",
+    "material.tfg.metal_rich_solution": "富金属溶液",
+    "material.tfg.crude_mixed_gas": "粗混合气",
+    "material.tfg.zsm5_gel": "ZSM-5凝胶",
+    "material.tfg.leachate": "铼浸出液",
+    "material.tfg.clean_powder": "纯净铼硅酸盐粉末",
+    "material.tfg.catalyser_powder": "铼/ZSM-5催化剂粉末",
+    "material.tfg.sodium_aluminium": "铝钠合金"
 }

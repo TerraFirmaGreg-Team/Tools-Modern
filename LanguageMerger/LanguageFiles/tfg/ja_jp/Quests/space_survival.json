@@ -22,7 +22,7 @@
 
 	"quests.space_survival.chorus.title": "コーラスフルーツ",
 	"quests.space_survival.chorus.subtitle": "エンド？",
-	"quests.space_survival.chorus.desc": "月面において得られる中で、&5コーラスフルーツ&rはかなり重要なアイテムです。コーラスフルーツからは、窒素が入手できます。コーラスプラントを見つけたら、かならず頂上の花を破壊して回収しましょう。さもなくば、コーラスフラワーは手に入りません。コーラスフラワーを電動グリーンハウスで育てることで、コーラスフルーツを手に入れることができます。これを醸造機に入れるとバイオマスが、発酵槽に入れれば窒素が得られます。バイオマスは、蒸留することで炭素になるため、ロケット燃料の材料にもなります。",
+	"quests.space_survival.chorus.desc": "月面において得られる中で、&5コーラスフルーツ&rはかなり重要なアイテムです。コーラスフルーツからは、窒素が入手できます。コーラスプラントを見つけたら、かならず頂上の花を破壊して回収しましょう。さもなくば、コーラスフラワーは手に入りません。コーラスフラワーを電気温室で育てることで、コーラスフルーツを手に入れることができます。これを醸造機に入れるとバイオマスが、発酵槽に入れれば窒素が得られます。バイオマスは、蒸留することで炭素になるため、ロケット燃料の材料にもなります。",
 
 	"quests.space_survival.rover.title": "スペースローバー",
 	"quests.space_survival.rover.subtitle": "脱出用ビークル",
@@ -31,11 +31,12 @@
 	"quests.space_survival.solar_panels.title": "ソーラーパネル",
 	"quests.space_survival.solar_panels.subtitle": "お天道様は見ているぞ",
 	"quests.space_survival.solar_panels.desc": "月面で使える発電手段はあまり多くありません。そんな中で活躍するのが&eソーラーパネル&rです。\n\n昼間限定にはなりますが、月面のソーラーパネルはノーコストで&932EU/t&r相当の電力を生み出します。地球上での発電量は、月面の8分の1になります。大量に用意して、月に並べておきましょう。",
+    "quests.space_survival.solar_panels.task": "Any FE to EU converter",
 
 	"quests.space_survival.stone_dust_centrifuging.title": "ヘリウム3",
 	"quests.space_survival.stone_dust_centrifuging.subtitle": "声が高くなるやつ",
 	"quests.space_survival.stone_dust_centrifuging.desc.1": "月面には大量の&eヘリウム3&rが存在します。月の石の成分として含まれるヘリウム3は、重要資源のひとつです。主な入手方法は2種類あります。\n\n1.石を粉砕し、遠心分離する。砕石機では生石を無限生産することができるので、これで得られる石を使いましょう。\n\n月面で生産できるのは、斜長岩・ノーライト・響岩の3種です。これらを加工することで、ヘリウム3は無限資源になります。",
-	"quests.space_survival.stone_dust_centrifuging.desc.2": "2.&9液体採掘機&rで掘る。こちらは簡単ですが、副産物は特に得られません。\n\nヘリウム3の用途はいくつか挙げられますが、特に重要なのは呼吸するための空気の確保でしょう。また、ヘリウム3は電動グリーンハウスの肥料としても使用でき、コーラスフルーツの成長を加速することができます。さらには、将来核融合炉が完成すれば、核融合発電の燃料にもなります。",
+	"quests.space_survival.stone_dust_centrifuging.desc.2": "2.&9液体採掘機&rで掘る。こちらは簡単ですが、副産物は特に得られません。\n\nヘリウム3の用途はいくつか挙げられますが、特に重要なのは呼吸するための空気の確保でしょう。また、ヘリウム3は電気温室の肥料としても使用でき、コーラスフルーツの成長を加速することができます。さらには、将来核融合炉が完成すれば、核融合発電の燃料にもなります。",
 	"quests.space_survival.stone_dust_centrifuging.task": "いずれかのアイテム",
 
 	"quests.space_survival.compressed_gases.title": "圧縮空気",
@@ -160,7 +161,7 @@
 
 	"quests.space_survival.mars_tapping.title": "赤い樹液と歪んだ樹液",
 	"quests.space_survival.mars_tapping.subtitle": "樹液集めはお好き？",
-	"quests.space_survival.mars_tapping.desc": "真紅のキノコ、歪んだキノコからは、それぞれ専用の樹液が得られます。\n\n&9ヨウ素&rを作るには、両方の樹液が必要です。ただし、両者は多くの場合別々の場所に生えているため、ある程度探索も必要になるでしょう。真紅のキノコは主に東側で、歪んだキノコは西側でみられます。\n\nちなみに、樹液はGregtechのパイプでも集めることができます。\n\n&9おまけ:&r真紅のキノコからはカヌーを、歪んだキノコからはボートやスループを作成することができます。",
+	"quests.space_survival.mars_tapping.desc": "真紅のキノコ、歪んだキノコからは、それぞれ専用の樹液が得られます。\n\n&9ヨウ素&rを作るには、両方の樹液が必要です。ただし、両者は多くの場合別々の場所に生えているため、ある程度探索も必要になるでしょう。真紅のキノコは主に東側で、歪んだキノコは西側でみられます。それらに対応したエンダーマンを倒すことでも入手することができます。\n\nちなみに、樹液はGregtechのパイプでも集めることができます。\n\n&9おまけ:&r真紅のキノコからはカヌーを、歪んだキノコからはボートやスループを作成することができます。",
 
 	"quests.space_survival.iodine.title": "ヨウ素",
 	"quests.space_survival.iodine.subtitle": "キノコ化学のはじまり",

@@ -185,6 +185,8 @@
     "tfg.tooltip.machine.cooling_tower_1": "§7给空气加热§r",
     "tfg.tooltip.machine.cooling_tower_2": "§7通过向空气散逸余热来给热冷却剂制冷。§r",
     "tfg.tooltip.obsolete.depreciated": "§c已弃用，无法再合成",
+    "tfg.tooltip.antipoison_pill": "§9解毒",
+    "tfg.tooltip.antipoison_tablet": "§9治愈所有有害状态",
     "tfg.tooltip.dna_syringe.empty": "§7一支空注射器。§r",
     "tfg.tooltip.dna_syringe.dirty1": "§7一支使用过的注射器。§r",
     "tfg.tooltip.dna_syringe.dirty2": "§7注意不要用它刺伤任何人...§r",

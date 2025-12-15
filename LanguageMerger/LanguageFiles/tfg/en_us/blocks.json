@@ -576,7 +576,10 @@
 	"block.tfg.casings.heat_pipe_casing": "Heat Pipe Casing",
 	"block.tfg.glacian_wool_frame": "Framed Glacian Wool",
 	"block.tfg.aes_insulation_frame": "Framed AES Insulation",
-
+	
+	"block.tfg.machine_casing_power_casing": "Insulated Power Casing",
+	"block.tfg.active_power_transformer": "Active Energy Transformer",
+	
 	"__comment1": "TODO",
 	"__comment2": "block.tfg.corallium_arenicolus_0: Corallium Arenicolus",
 	"__comment3": "block.tfg.corallium_arenicolus_1: Corallium Arenicolus",

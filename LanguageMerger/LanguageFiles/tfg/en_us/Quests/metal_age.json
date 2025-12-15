@@ -175,5 +175,10 @@
 
     "quests.metal_age.this_is_a_bucket.title": "This... is a Bucket.",
     "quests.metal_age.this_is_a_bucket.subtitle": "Dear God...",
-    "quests.metal_age.this_is_a_bucket.desc": "Congratulations on crafting the Bucket. The Metallurgy Age is officially over.\n\nGo and start working on those Low Voltage components!"
+    "quests.metal_age.this_is_a_bucket.desc": "Congratulations on crafting the Bucket. The Metallurgy Age is officially over.\n\nGo and start working on those Low Voltage components!",
+
+    "quests.metal_age.temperature_protection.title": "Colored Steel Equipment",
+    "quests.metal_age.temperature_protection.subtitle": "Permanent Temperature Protection",
+    "quests.metal_age.temperature_protection.desc": "Tired of holding tongs? The excellent thermal protection properties of colored steel carries over to their equipment!\n\n&9Blue Steel&r equipment can protect against extreme heat, such as holding hot ingots or stepping on pipes full of steam, while &cRed Steel&r equipment does the same but for the cold. Chestplate items protects your inventory, while boot items protect against pipes.\n\nCheck the &6#hot_protection_equipment&r and &b#cold_protection_equipment&r tags for a full list!",
+    "quests.metal_age.temperature_protection.task": "Any red or blue steel equipment"
 }

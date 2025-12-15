@@ -177,19 +177,19 @@
     "item.tfg.food.cooked_crusher_meat": "焼いたクラッシャー肉",
     "item.tfg.food.raw_goober_meat": "生のグーバー肉",
     "item.tfg.food.cooked_goober_meat": "焼いたグーバー肉",
-    "item.tfg.food.raw_long_pig_filet": "生の奇妙な肉",
-    "item.tfg.food.cooked_long_pig_filet": "焼き奇妙な肉",
+    "item.tfg.food.raw_long_pig_filet": "奇妙な肉",
+    "item.tfg.food.cooked_long_pig_filet": "こんがり奇妙な肉",
     "item.tfg.food.raw_surfer_steak": "生のサーファー肉",
     "item.tfg.food.cooked_surfer_steak": "サーファーステーキ",
-    "item.tfg.food.raw_stackatick_chunks": "Raw Stackatick Chunks",
-    "item.tfg.food.raw_stickastackatick": "Raw Stick'a'Stackatick",
-    "item.tfg.food.cooked_stickastackatick": "Cooked Stick'a'Stackatick",
-    "item.tfg.food.raw_cruncher_ribs": "Raw Cruncher Ribs",
-    "item.tfg.food.cooked_cruncher_ribs": "Cooked Cruncher Ribs",
-    "item.tfg.food.raw_dino_nugget": "Prepared Dinosaur Nugget",
-    "item.tfg.food.cooked_dino_nugget": "Beer Battered Dinosaur Nugget",
-    "item.tfg.food.raw_beer_battered_cheese_curds": "Beer Battered Cheese Curds",
-    "item.tfg.food.cooked_beer_battered_cheese_curds": "Fried Beer Battered Cheese Curds",
+    "item.tfg.food.raw_stackatick_chunks": "生のStackatick Chunks",
+    "item.tfg.food.raw_stickastackatick": "生のStick'a'Stackatick",
+    "item.tfg.food.cooked_stickastackatick": "焼いたStick'a'Stackatick",
+    "item.tfg.food.raw_cruncher_ribs": "生のCruncher Ribs",
+    "item.tfg.food.cooked_cruncher_ribs": "焼いたCruncher Ribs",
+    "item.tfg.food.raw_dino_nugget": "衣をつけた恐竜ナゲット",
+    "item.tfg.food.cooked_dino_nugget": "恐竜ナゲットのビール衣揚げ",
+    "item.tfg.food.raw_beer_battered_cheese_curds": "衣をつけたチーズカード",
+    "item.tfg.food.cooked_beer_battered_cheese_curds": "チーズカードのビール衣揚げ",
     "item.tfg.food.raw_fries": "刻んだジャガイモ",
     "item.tfg.food.cooked_fries": "フライドポテト",
     "item.tfg.food.poutine": "プーティン",
@@ -216,7 +216,7 @@
     "item.tfg.sunflower_product": "ヒマワリの花冠",
     "item.tfg.rapeseed_seeds": "キャノーラの種",
     "item.tfg.rapeseed_product": "キャノーラの胚",
-
+    
     "item.tfg.spawn_egg.moon_rabbit": "月ウサギのスポーンエッグ",
     "item.tfg.spawn_egg.surfer": "サーファーのスポーンエッグ",
     "item.tfg.spawn_egg.wraptor": "ラプターのスポーンエッグ",
@@ -288,8 +288,8 @@
     "item.tfg.rocket_cone_t3": "発展型ロケットノーズコーン",
     "item.tfg.rocket_fin_t3": "発展型ロケットフィン",
     "item.tfg.elite_power_thruster": "§a精鋭型パワースラスター",
-    "item.tfg.vｆ": "シリカエアロゲル",
-    "item.tfg.bｆtter_space_suit_fabric": "宇宙服の強化生地",
+    "item.tfg.silica_aerogel": "シリカエアロゲル",
+    "item.tfg.better_space_suit_fabric": "宇宙服の強化生地",
 
     "item.tfg.universal_compost_browns": "茶色の堆肥源",
     "item.tfg.universal_compost_greens": "緑の堆肥源",
@@ -339,8 +339,8 @@
     "item.tfg.linen_thread": "リネンの糸",
     "item.tfg.linen_cloth": "リネン",
 
-    "item.tfg.ulled": "§dウルトラヴァイオレット§fLED",
-    "item.tfg.smd_uv_led": "§fSMD§dウルトラヴァイオレット§fLED",
+    "item.tfg.uv_led": "§dウルトラバイオレット§fLED",
+    "item.tfg.smd_uv_led": "§fSMD§dウルトラバイオレット§fLED",
 
     "item.tfg.empty_dna_syringe": "空の注射器",
     "item.tfg.filled_dna_syringe": "中身入りの注射器",
@@ -406,5 +406,9 @@
     "item.tfg.smooth_endoplasmic_reticula": "滑面小胞体",
     "item.tfg.rough_endoplasmic_reticula": "粗面小胞体",
     "item.tfg.alpha_keratin": "α-ケラチン",
-    "item.tfg.progenitor_cells": "前駆細胞"
+    "item.tfg.progenitor_cells": "前駆細胞",
+
+    "item.tfg.catalyser_pt_re_zsm": "Catalyser Pt-Re ZSM-5",
+    "item.tfg.used_catalyser": "Used Catalyser Pt-Re ZSM-5",
+    "item.tfg.loaded_resin": "Re-Loaded Resin"
 }
