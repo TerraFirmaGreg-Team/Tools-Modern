@@ -476,7 +476,7 @@
     "quests.tfg_tips.firmaciv_info.desc": "&3群峦传说：航海文明&r模组配备了4种不同的导航工具，每一种都能为你提供在世界中所处位置的重要信息。\n包括&d六分仪&r、&d领航员时计&r、&d晴雨表&r和&d指南针&r；关于这些工具的更多信息，请查阅&2野外指南&r。\n\n&3&l背景知识：&r&o默认情况下，Firma:Civ会移除坐标显示，以促使你使用其导航工具。但在此处我们无法这样做，所以，呃，如果你想体验沉浸式角色扮演的话，就用用它们吧。",
     "quests.tfg_tips.warfare.title": "海战",
     "quests.tfg_tips.warfare.subtitle": "全舰火炮齐射！",
-    "quests.tfg_tips.warfare.desc": "你可以为&b单桅纵帆船&r配备&d加农炮&r与炮弹，以便将目标轰成碎片。\n发射加农炮需要先装入&a火药&r、&a粗制纸&r和&a炮弹&r，然后用&c打火石&r点燃引信。",
+    "quests.tfg_tips.warfare.desc": "你可以为&b单桅纵帆船&r配备&d加农炮&r与炮弹，以便将目标轰成碎片。\n发射加农炮需要先装入&a火药&r、&a粗制纸&r和&a炮弹&r，然后用&c打火石&r点燃引信。\n\n没有&b帆船&r？别担心！火炮也可以放置在地面上，并以和在&b帆船&r上同样的方式发射。",
     "quests.tfg_tips.kayak_materials.title": "皮划艇",
     "quests.tfg_tips.kayak_materials.subtitle": "给自己弄艘皮划艇",
     "quests.tfg_tips.kayak_materials.desc": "&d皮划艇&r是第二简单的船，需用&b蜡&r制作&a防水皮&r。作为&c唯一&r可拾取的船只，虽然仅限&d单人乘坐&r，但在钢铁时代的&d单桅纵帆船&r前是最快的船！",
