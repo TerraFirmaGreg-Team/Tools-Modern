@@ -637,7 +637,7 @@
 
     "quests.tfg_tips.warfare.title": "Sea Warfare",
     "quests.tfg_tips.warfare.subtitle": "FIRE ALL CANNONS!",
-    "quests.tfg_tips.warfare.desc": "You can outfit your &bSloop&r with firepower via the &dCannon&r and cannon balls, in case you want to blow something to smithereens.\nTo fire a cannon, you'll need to load it with some &aGunpowder, Unrefined Paper&r and your &aCannon Ball&r. Then light the wick with &cFlint and Steel.&r",
+    "quests.tfg_tips.warfare.desc": "You can outfit your &bSloop&r with firepower via the &dCannon&r and cannon balls, in case you want to blow something to smithereens.\nTo fire a cannon, you'll need to load it with some &aGunpowder, Unrefined Paper&r and your &aCannon Ball&r. Then light the wick with &cFlint and Steel.&r\n\nDon't have a &bSloop&r? Don't worry! Cannons can be placed and fired on the ground the same way you would fire one on a &bSloop&r.",
 
     "quests.tfg_tips.kayak_materials.title": "The Kayak",
     "quests.tfg_tips.kayak_materials.subtitle": "Get yourself that Kayak.",
