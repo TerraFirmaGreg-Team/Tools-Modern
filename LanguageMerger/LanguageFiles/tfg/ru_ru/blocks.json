@@ -561,7 +561,7 @@
 
     "block.tfg.casings.machine_casing_blue_solar_panel": "Корпус для обычных солнечных панелей",
     "block.tfg.casings.machine_casing_green_solar_panel": "Корпус для улучшенных солнечных панелей",
-    "block.tfg.casings.machine_casing_red_solar_panel": "Превосходный корпус для солнечных панелей",
+    "block.tfg.casings.machine_casing_red_solar_panel": "Корпус для превосходных солнечных панелей",
     "block.tfg.machine_casing_aluminium_plated_steel": "Обитый алюминием стальной корпус",
 
     "block.tfg.casings.machine_casing_ultraviolet": "§dУльтрафиолетовый§f корпус",
@@ -671,3 +671,4 @@
     "block.tfg.casings.machine_casing_sterilizing_pipes": "Стерилизующие трубы"
 
 }
+
