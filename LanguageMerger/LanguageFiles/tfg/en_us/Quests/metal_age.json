@@ -92,7 +92,7 @@
 
     "quests.metal_age.fire_bricks.title": "Fire Bricks",
     "quests.metal_age.fire_bricks.subtitle": "For the Blast Furnace",
-    "quests.metal_age.fire_bricks.desc": "Fire Bricks are used in the construction of the Blast Furnace, you need at the very least 4 Bricks to make the furnace.\n\nThe Bricks will require insulation to make sure the process of making steel is effective, you can either place 3 Wrought Iron Sheets around the Fire Bricks, or use Blast Furnace Insulation",
+    "quests.metal_age.fire_bricks.desc": "Fire Bricks are used in the construction of the Blast Furnace, you need at the very least 4 Bricks to make the furnace.\n\nThe Bricks will require insulation to make sure the process of making steel is effective, you can either place 3 Wrought Iron Plates around the Fire Bricks, or use Blast Furnace Insulation",
 
     "quests.metal_age.fully_stacked_blast_furnace.title": "Fully Stacked Blast Furnace",
     "quests.metal_age.fully_stacked_blast_furnace.subtitle": "The completed Blast Furnace",
