@@ -70,7 +70,7 @@
     "quests.metal_age.crucible.desc": "将坩埚放置在木炭炉上方。它带有9个物品栏槽位，可容纳4032mB的流体，包括一个检查你合金化比例的界面。它们在破碎时也会保留其内容物。当放置在高炉下方时，它们也可以收集生铁。\n\n请记住，坩埚会尝试合金化里面的所有东西——它不像匠魂冶炼炉那样将金属分开保存——所以当你不使用它时，保持清洁是一个好主意。",
     "quests.metal_age.fire_bricks.title": "耐火砖",
     "quests.metal_age.fire_bricks.subtitle": "用于高炉",
-    "quests.metal_age.fire_bricks.desc": "耐火砖用于建造高炉，你至少需要4块砖来制作炉子。\n\n这些砖需要隔热以确保炼钢过程有效，你可以在耐火砖周围放置3块锻铁薄板，或者使用高炉隔热材料",
+    "quests.metal_age.fire_bricks.desc": "耐火砖用于建造高炉，你至少需要4块砖来制作炉子。\n\n这些砖需要隔热以确保炼钢过程有效，你可以在耐火砖周围放置3块锻铁薄板，或者使用高炉隔热板。",
     "quests.metal_age.fully_stacked_blast_furnace.title": "全尺寸高炉",
     "quests.metal_age.fully_stacked_blast_furnace.subtitle": "完工的高炉",
     "quests.metal_age.fully_stacked_blast_furnace.desc": "全尺寸的高炉能够一次熔化和处理大量的铁。在可能的情况下把它建得更大是一个好主意，因为你将来需要大量的钢。\n\n在你有了第一个蒸汽合金炉之后，你将能够更便宜地制造更多的耐火砖。",
