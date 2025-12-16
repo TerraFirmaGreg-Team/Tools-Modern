@@ -321,27 +321,27 @@
     "item.tfg.clean_dna_syringe": "Чистый шприц",
     "item.tfg.stainless_steel_needle": "Игла из нержавеющей стали",
 
-    "item.tfg.empty_rod": "Empty Fissile Fuel Rod",
-    "item.tfg.thorium_rod": "Thorium Fuel Rod",
-    "item.tfg.uranium_rod": "Uranium Fuel Rod",
-    "item.tfg.plutonium_rod": "Plutonium Fuel Rod",
-    "item.tfg.tbu_232_rod": "TBU-232 Fuel Rod",
-    "item.tfg.refrigerant_pellet": "Refrigerant Pellet",
-    "item.tfg.graphite_compound": "Graphite Compound",
-    "item.tfg.raw_graphite_briquette": "Raw Graphite Briquette",
-    "item.tfg.faulty_graphite_briquette": "Faulty Graphite Briquette",
-    "item.tfg.washed_graphite_briquette": "Washed Graphite Briquette",
-    "item.tfg.pure_graphite_rod": "Pure Graphite Rod",
-    "item.tfg.impure_graphite_rod": "Impure Graphite Rod",
-    "item.tfg.annealed_graphite_rod": "Annealed Graphite Rod",
-    "item.tfg.impure_annealed_graphite_row": "Impure Annealed Graphite Rod",
-    "item.tfg.moderate_core": "Moderate Core",
-    "item.tfg.impure_moderate_core": "Impure Moderate Core",
-    "item.tfg.moderate_core_frame": "Moderate Core Frame",
-    "item.tfg.impure_moderate_core_frame": "Impure Moderate Core Frame",
-    "item.tfg.graphite_moderator": "Graphite Moderator",
-    "item.tfg.impure_graphite_moderator": "Impure Graphite Moderator",
-    "item.tfg.advanced_polymer_binder": "Advanced Polymer Binder",
+    "item.tfg.empty_rod": "Пустой топливный стержень",
+    "item.tfg.thorium_rod": "Ториевый топливный стержень",
+    "item.tfg.uranium_rod": "Ураниевый топливный стержень",
+    "item.tfg.plutonium_rod": "Плутоневый топливный стержень",
+    "item.tfg.tbu_232_rod": "Ториево-ураниевый (TBU-232) топливный стержень",
+    "item.tfg.refrigerant_pellet": "Охлаждающая гранула",
+    "item.tfg.graphite_compound": "Графитовый компаунд",
+    "item.tfg.raw_graphite_briquette": "Брикет из необработанного графита",
+    "item.tfg.faulty_graphite_briquette": "Бракованный графитовый брикет",
+    "item.tfg.washed_graphite_briquette": "Брикет из промытого графита",
+    "item.tfg.pure_graphite_rod": "Стержень из чистого графита",
+    "item.tfg.impure_graphite_rod": "Стержень из нечистого графита",
+    "item.tfg.annealed_graphite_rod": "Отожженный графитовый стержень",
+    "item.tfg.impure_annealed_graphite_row": "Нечистый отожженный графитовый стержень",
+    "item.tfg.moderate_core": "Стабилизирующее ядро",
+    "item.tfg.impure_moderate_core": "Нечистый стабилизирующее ядро",
+    "item.tfg.moderate_core_frame": "Каркас с стабилизирующее ядром",
+    "item.tfg.impure_moderate_core_frame": "Каркас с нечистым стабилизирующее ядром",
+    "item.tfg.graphite_moderator": "Графитный стабилизатор",
+    "item.tfg.impure_graphite_moderator": "Нечистый графитный стабилизатор",
+    "item.tfg.advanced_polymer_binder": "Усовершенствованное полимерное связующее",
 
     "item.tfg.beaker": "Химический стакан",
     "item.tfg.beaker.filled": "Химический стакан (%s)",
@@ -377,6 +377,7 @@
     "item.tfg.bell_casting_mold": "Отливная форма (Колокол)"
 
 }
+
 
 
 
