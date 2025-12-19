@@ -36,7 +36,7 @@
 
     "quests.stone_age.hydration.title": "Mekanik: Susuzluk",
     "quests.stone_age.hydration.subtitle": "Evet başka dolu olması gereken çubuk...",
-    "quests.stone_age.hydration.desc": "Su çok önemli bir Lehimtır, sadece sussuz kalmamak için değil! Üsünü bir dere yatağına kurman önerilir, böylelikle başka şeylere daha kolay ulaşırsın. Diğer öğeler susuzluğunuzu giderebilir, bazı tür gıda ve sıvılar gibi.\n\nSu daima sen kaşif yaparken bulunmayabilir, ama velakin, içeceklerini taşımanın başka yolları da var. İçmek depodan 100mb(mili kova) harcar.",
+    "quests.stone_age.hydration.desc": "Su çok önemli bir kaynaktır, sadece sussuz kalmamak için değil! Üsünü bir dere yatağına kurman önerilir, böylelikle başka şeylere daha kolay ulaşırsın. Diğer öğeler susuzluğunuzu giderebilir, bazı tür gıda ve sıvılar gibi.\n\nSu daima sen kaşif yaparken bulunmayabilir, ama velakin, içeceklerini taşımanın başka yolları da var. İçmek depodan 100mb(mili kova) harcar.",
 
     "quests.stone_age.leather_flask.title": "Deri Matara",
     "quests.stone_age.leather_flask.subtitle": "Eski inançlı",
@@ -178,7 +178,7 @@
 
     "quests.stone_age.inventory.title": "Erken Depolama Seçenekleri",
     "quests.stone_age.inventory.subtitle": "Tüm çöplerinizi kil kaplarda taşımayı bırakmanın zamanı geldi çattı artık",
-    "quests.stone_age.inventory.desc": "oyunun erken aşamalarında, elinde 4 tane basit depolama çözümü olacak:\n\n&lSandıkt&r: Sandıklar üretmesi en kolay ve etkili yollardan biridir, ama sadece 18 depolama yuvası var ve büyük nesneleri depolayamaz(alet vb.).\n\n&lKasa&r: Kasalar tek depolamalı, en ucuz olanın 27 depolama yuvası var, ama yapması daha pahalı.\n\n&lSupply Cart&r: A Supply Cart has a huge size of 54 Slots and can be carried around with you, but takes up lots of space.\n\n&lLarge Vessels&r:The cheapest to craft, only requiring clay, and are ideal for food preservation. Available in a wide variety of colors too!",
+    "quests.stone_age.inventory.desc": "oyunun erken aşamalarında, elinde 4 tane basit depolama çözümü olacak:\n\n&lSandıkt&r: Sandıklar üretmesi en kolay ve etkili yollardan biridir, ama sadece 18 depolama yuvası var ve büyük nesneleri depolayamaz(alet vb.).\n\n&lKasa&r: Kasalar tek depolamalı, en ucuz olanın 27 depolama yuvası var, ama yapması daha pahalı.\n\n&ltedarik arabası&r: tedarik arabası 54 depolamaya sahip ve kendinle beraber taşıyabilirsin, ama çok fazla yer kaplar.\n\n&lBüyük Kap&r:Yapması en ucuz olanı, sadece kil gerekli, ve depolamak ve gıda ömrünü uzatmanın en iyi yolu. farklı renklerden bile yapabilirsin!",
 
     "quests.stone_age.portable_storage.title": "Taşınabilir Depolama?",
     "quests.stone_age.portable_storage.subtitle": "Çünkü envanterin çöplerle doldurması lanet bir şey",
