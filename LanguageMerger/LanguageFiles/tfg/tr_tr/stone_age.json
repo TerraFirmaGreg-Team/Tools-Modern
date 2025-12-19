@@ -36,7 +36,7 @@
 
     "quests.stone_age.hydration.title": "Mekanik: Susuzluk",
     "quests.stone_age.hydration.subtitle": "Evet başka dolu olması gereken çubuk...",
-    "quests.stone_age.hydration.desc": "Su çok önemli bir kaynaktır, sadece sussuz kalmamak için değil! Üsünü bir dere yatağına kurman önerilir, böylelikle başka şeylere daha kolay ulaşırsın. Diğer öğeler susuzluğunuzu giderebilir, bazı tür gıda ve sıvılar gibi.\n\nSu daima sen kaşif yaparken bulunmayabilir, ama velakin, içeceklerini taşımanın başka yolları da var. İçmek depodan 100mb(mili kova) harcar.",
+    "quests.stone_age.hydration.desc": "Su çok önemli bir Lehimtır, sadece sussuz kalmamak için değil! Üsünü bir dere yatağına kurman önerilir, böylelikle başka şeylere daha kolay ulaşırsın. Diğer öğeler susuzluğunuzu giderebilir, bazı tür gıda ve sıvılar gibi.\n\nSu daima sen kaşif yaparken bulunmayabilir, ama velakin, içeceklerini taşımanın başka yolları da var. İçmek depodan 100mb(mili kova) harcar.",
 
     "quests.stone_age.leather_flask.title": "Deri Matara",
     "quests.stone_age.leather_flask.subtitle": "Eski inançlı",
@@ -128,7 +128,7 @@
     "quests.stone_age.firepit.desc.1": "Şimdi sende biraz odun var, şimdi sırada ilk ve senin Kamp Ateşini yapmakta! Yaratıklar geceleri yüzeyde çıkmazlar, gece dolaşan yırtıcılar uyanık olacak ve etrafta sinsice yeni avını avlanmak dolaşacaklar.\n\nöncelikle ateş başlatıcı yapman lazım, ateş yakmana olanak sağlayan bir alet.",
     "quests.stone_age.firepit.desc.2": "Kamp Ateşini yapmak için, yere en az 1 kütük ve 3 çubuk at, daha sonra attığın yerdeki bloğun üstüne ateş başlatıcı ile ateşle. aynı zamanda saman ekleyerek işi kolaylaştırabilirsinde.\n\nKamp Ateşi sadece ışık ve sıcaklık kaynağı değildir, ama onu meşale yapmak ve çiğ eti pişirmek için de kullanabilirsin. Kamp Ateşinizi onunla etkileşim kurarak ve kullanıcı arayüzüne kütükler ekleyerek yanık tutabilirsiniz.. eğer ateş sönerse, daha fazla odun ekle ve ateş başlatıcı ile ateşle",
 
-    "quests.stone_age.find_clay.title": "Kil Kaynakları",
+    "quests.stone_age.find_clay.title": "Kil kaynakları",
     "quests.stone_age.find_clay.subtitle": "Sana bundan çok fazla lazım olacak",
     "quests.stone_age.find_clay.desc": "Kil, taş devri teknolojisinin önemli bir parçasıdır! Taş Yontamaya benzerler, Killer farklı kalıplara dönüştürürlerek Çukur Fırınına yerleştirirlir ve yakılır, çok çeşitli öğeler oluşturmak içindirler. Taş Alet Edavatlar ve Kil Seramikler, Metallerle nasıl çalışılacağını öğrenene ve işleyene kadar hayatta kalma serüvenizin ana omurgası olacak.\n\nKil toprak içerisinde kendisini belli etirecek şekilde kabarcıklar halinde bulunur, genelikle çimen ile kaplıdırlar. fakat, belli başlı bitkiler, \"Kil Göstergeleri\" olarak bilinirve özelikle kil üzerinde büyürler. İkliminizin hangi tür göstergelerin büyüyebileceğini öğrenmek ve anlamak için Saha Kılavuzunu inceleyiniz.",
 
@@ -154,7 +154,7 @@
 
     "quests.stone_age.make_vessel.title": "Kil Kap",
     "quests.stone_age.make_vessel.subtitle": "İşe yarar küçük Kavanozlar.",
-    "quests.stone_age.make_vessel.desc": "Kil kaplar bir depolama gibi kullanılabilir, belli miktar eşyayı bir slota taşır, ama daha önemlisi, Metaller ile çalışmaya başlamanın ilk aletidir.\n\nKil Kap ile etkileşim kurarak, onun küçük depolamasını açarsın, yani cehverleri koyabileceğin bir yer. The Vessel's tooltip can also tell you what your ores will melt into, which is especially useful when crafting alloys!\n\nPlacing the Vessel in a Çukur Fırını and heating it up allows you to &lmelt&r the metal inside.\n\nIf you're feeling adventurous, you can mix different metal types to create Alloys. Alloys require specific percentage mixtures of metals. While Copper is great immediatly, you could make your very first metal tools with Bronze instead.",
+    "quests.stone_age.make_vessel.desc": "Kil kaplar bir depolama gibi kullanılabilir, belli miktar eşyayı bir slota taşır, ama daha önemlisi, Metaller ile çalışmaya başlamanın ilk aletidir.\n\nKil Kap ile etkileşim kurarak, onun küçük depolamasını açarsın, yani cehverleri koyabileceğin bir yer. Kil kaba koyduğun metallerin içeriğini öğrenmek için açıklamasına bak, bu alaşımları yapmak için çok önemlidir!\n\nÇukur Fırınına Kil kabınızı koyun ve ateşledikten sonra içindeki metali &lEritir&r.\n\neğer farklı şeyler denemek istiyorsan, farklı metalleri kullanarak başka Alaşımlar yapabilirsin. Alaşımlar belli oran ve gerekli metallerin var olması şarttır. Bakır en önemli örnektir, eşyalarını bakırdan yapmak yerine bronzdan yapabilirsin.",
 
     "quests.stone_age.native_ores.title": "Cehverli Çakıl Taşları mı?",
     "quests.stone_age.native_ores.subtitle": "aradığın ilk metale 'bakarsan' zaten hazır.",
@@ -208,7 +208,7 @@
 
     "quests.stone_age.copper_for_anvil.title": "Örs için Bakır",
     "quests.stone_age.copper_for_anvil.subtitle": "bir şekilde ve nasıl oluyorsa o 14 bakır külçeyi elde etmeye başlasan iyi olacak.",
-    "quests.stone_age.copper_for_anvil.desc": "Örsler ucuz değiller! her türden örs 14 külçe istiyor, yani onları kaynak yaparak 7 tane çift külçe yapıyorsun.\n\neğer madenciliğe girişmediysen bu noktada başlamak iyi olacaktır, yoksa domala domala 126 adet küçük bakırı toplamak amelelikten başta bir şey değil.",
+    "quests.stone_age.copper_for_anvil.desc": "Örsler ucuz değiller! her türden örs 14 külçe istiyor, yani onları Lehim yaparak 7 tane çift külçe yapıyorsun.\n\neğer madenciliğe girişmediysen bu noktada başlamak iyi olacaktır, yoksa domala domala 126 adet küçük bakırı toplamak amelelikten başta bir şey değil.",
 
     "quests.stone_age.get_raw_rock.title": "Ham Kaya",
     "quests.stone_age.get_raw_rock.subtitle": "Hayır,bu sadece \"Taş\" değil",
@@ -220,7 +220,7 @@
 
     "quests.stone_age.rock_anvil.title": "Kayadan örs",
     "quests.stone_age.rock_anvil.subtitle": "baltayı taşa vurdun demek",
-    "quests.stone_age.rock_anvil.desc": "Örsler tüm 'erken oyun' metal işleme sanatının ana temel yapısıdır. düzgün bir metal örs oluşturabilmek için, önceki örs kademesini kullanarak külçeleri kaynaklayıp çift külçe yapmanız gerekecek. Bakır 1. kademe olduğunu göz önünde bulundurucaksak, kaya örsünü kullanmak gerekecek. Ham igneous kaya bloğuna Çekiçle sağ tıklayarak Taş Örsünüzü oluşturabilirsiniz.. maleseef ki kaya örsün yapabileceği tek şey bakır külçelerini kaynaklamak - bir şeyler yapmak ve şekil verebilmek için elinizde adam akıllı metal örse ihtiyacınız var olacaktır.",
+    "quests.stone_age.rock_anvil.desc": "Örsler tüm 'erken oyun' metal işleme sanatının ana temel yapısıdır. düzgün bir metal örs oluşturabilmek için, önceki örs kademesini kullanarak külçeleri Lehimleyip çift külçe yapmanız gerekecek. Bakır 1. kademe olduğunu göz önünde bulundurucaksak, kaya örsünü kullanmak gerekecek. Ham igneous kaya bloğuna Çekiçle sağ tıklayarak Taş Örsünüzü oluşturabilirsiniz.. maleseef ki kaya örsün yapabileceği tek şey bakır külçelerini Lehimlamak - bir şeyler yapmak ve şekil verebilmek için elinizde adam akıllı metal örse ihtiyacınız var olacaktır.",
 
     "quests.stone_age.quern.title": "Quern ve Eltaşı",
     "quests.stone_age.quern.subtitle": "Cevher işlemeye ilk ve birinci adım",
@@ -240,11 +240,11 @@
 
     "quests.stone_age.flux.title": "Akı taşları",
     "quests.stone_age.flux.subtitle": "kısaca metal için yapıştırıcı",
-    "quests.stone_age.flux.desc": "akı metalleri birbirine kaynaklamak ve üstünde çalışmaya yarayan bir malzemedir, tabiki başka alanlarda kullanım alanları var.\nbelli başlı taş türleri örnek olarak Chalk, Limestone ve Mermer parçalarına ayırlarak akı taşı elde edilir, ve kabuklu deniz canlılarının kabukları da aynı şekilde.",
+    "quests.stone_age.flux.desc": "akı metalleri birbirine Lehimlemek ve üstünde çalışmaya yarayan bir malzemedir, tabiki başka alanlarda kullanım alanları var.\nbelli başlı taş türleri örnek olarak Chalk, Limestone ve Mermer parçalarına ayırlarak akı taşı elde edilir, ve kabuklu deniz canlılarının kabukları da aynı şekilde.",
 
-    "quests.stone_age.weld_copper_ingots.title": "Bakırı kaynaklamak",
+    "quests.stone_age.weld_copper_ingots.title": "Bakırı Lehimlemek",
     "quests.stone_age.weld_copper_ingots.subtitle": "Bakır Örse çok yakınız",
-    "quests.stone_age.weld_copper_ingots.desc": "Ocağınızı yakın ve en az 2 Bakır Külçe yerleştirin. eşya ipucusuna bakarak sıcaklığını kontrol edin! - yeterli sıcaklığa ulaşınca, \"Çalışılabilir\" gösterecektir, ama bizim \"Kaynaklanabilir\"olana kadar beklememiz lazım, yani metalin erime noktasına yakın bir sıcaklıktır.\n\no sıcaklığa ulaştıklarında, hızlı bir şekilde onları ocaktan çıkar (boş elinde ahşap maşa tutmayı unutma vallah yanarsın!) ve Taş Örsün arayüzüne, biraz akı koy. son olarak, Eğilerek hala metaller sıcak iken sağ tıklayarak birbirinme kaynak yap. Yeni çift külçenizi daha hızlı soğutmak için su veya kar kullanabilirsin.",
+    "quests.stone_age.weld_copper_ingots.desc": "Ocağınızı yakın ve en az 2 Bakır Külçe yerleştirin. eşya ipucusuna bakarak sıcaklığını kontrol edin! - yeterli sıcaklığa ulaşınca, \"Çalışılabilir\" gösterecektir, ama bizim \"Lehimlenebilir\"olana kadar beklememiz lazım, yani metalin erime noktasına yakın bir sıcaklıktır.\n\no sıcaklığa ulaştıklarında, hızlı bir şekilde onları ocaktan çıkar (boş elinde ahşap maşa tutmayı unutma vallah yanarsın!) ve Taş Örsün arayüzüne, biraz akı koy. son olarak, Eğilerek hala metaller sıcak iken sağ tıklayarak birbirinme Lehim yap. Yeni çift külçenizi daha hızlı soğutmak için su veya kar kullanabilirsin.",
 
     "quests.metal_age.copper_anvil.title": "T1 Örs: Bakır",
     "quests.metal_age.copper_anvil.subtitle": "herşey bunu yapmak içindi!",
