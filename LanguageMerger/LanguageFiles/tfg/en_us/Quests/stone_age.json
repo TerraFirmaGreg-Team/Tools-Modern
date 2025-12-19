@@ -206,6 +206,12 @@
     "quests.stone_age.hazards.desc.1": "Besides the monsters, the biggest challenge when mining is dealing with cave-ins. If a Raw stone or ore block has air below it, it's considered 'unsupported' and has a chance to start a cave-in every time a nearby block is mined. Cave roofs are covered with Hardened stone, which won't cause a collapse. To mitigate this, the safest thing you can do is just mine the floor, but if you want to safely mine anything else you'll have to learn how to use support beams! These are crafted with logs and a saw.",
     "quests.stone_age.hazards.desc.2": "The Field Guide has more details and diagrams about how exactly support beams work, but the short version is you'll want to place them down like this within four blocks of each other. Only the top vertical beams will actually support anything, and they have a small radius.",
 
+    "quests.stone_age.medical_conditions.title": "Medical Conditions",
+    "quests.stone_age.medical_conditions.subtitle": "Don't eat the Asbestos",
+    "quests.stone_age.medical_conditions.desc.1": "Be careful what you pick up! Not all ores or dusts are safe to touch, and some will cause a buildup of a &6Medical Condition&r.\n\nEverything &cHazardous&r is written on its tooltip, so if you suddenly notice a debuff appearing, get that item out of your inventory! Putting it inside a container like a small vessel or backpack is safe.\n\nMost of these effects will slowly go away on their own, but if you let them build up long enough, you'll start getting a host of other nasty effects, up to and including &cdeath&r.",
+    "quests.stone_age.medical_conditions.desc.2": "You will eventually need to work with some of these materials, so you have ways to deal with them.\n\nThe best way is to avoid getting any conditions in the first place - a Face Mask and Rubber Gloves will prevent inhalation and contact hazards respectively.\n\nThe second-best way is a cure: check out some of the &aPills, Tablets, and Salvos&r you can craft - they all help cure certain effects (and provide helpful buffs!), though the stronger cures have more annoying side-effects.",
+    "quests.stone_age.medical_conditions.task": "I'm my own doctor",
+
     "quests.stone_age.copper_for_anvil.title": "Copper for the Anvil",
     "quests.stone_age.copper_for_anvil.subtitle": "You better get used to getting 14 ingots of something.",
     "quests.stone_age.copper_for_anvil.desc": "Anvils aren't cheap! Each anvil will require 14 ingots, which are then welded into 7 double ingots.\n\nYou might want to start mining at this point if you haven't already, gathering 126 pieces of small copper is difficult.",
@@ -244,7 +250,7 @@
 
     "quests.stone_age.weld_copper_ingots.title": "Welding Copper",
     "quests.stone_age.weld_copper_ingots.subtitle": "So close to the Copper Anvil",
-    "quests.stone_age.weld_copper_ingots.desc": "Light up your Forge and give it at least 2 Copper Ingots. Keep an eye on their tooltip as they heat up - once they get hot, it'll show \"Can Work\", but we need to wait until they get to \"Can Weld\", which is just before their melting point.\n\nOnce they reach it, quickly pull them out of the forge (while holding some wooden tongs in your off-hand!) and into the Rock Anvil's interface, along with a little bit of flux. Lastly, right-click the anvil while sneaking to weld the two ingots together while they're still hot. You can use water or snow to cool down your new double ingot faster.",
+    "quests.stone_age.weld_copper_ingots.desc": "Light up your Forge and give it at least 2 Copper Ingots. Keep an eye on their tooltip as they heat up - once they get hot, it'll show \"Can Work\", but we need to wait until they get to \"Can Weld\", which is just before their melting point.\n\nOnce they reach it, quickly pull them out of the forge (while holding some &ewooden tongs&r in your off-hand!) and into the Rock Anvil's interface, along with a little bit of flux. Lastly, right-click the anvil while sneaking to weld the two ingots together while they're still hot. You can use water or snow to cool down your new double ingot faster.",
 
     "quests.metal_age.copper_anvil.title": "T1 Anvil: Copper",
     "quests.metal_age.copper_anvil.subtitle": "It's all been building up to this!",

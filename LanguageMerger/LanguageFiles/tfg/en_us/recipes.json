@@ -53,6 +53,7 @@
 	"tfc.recipe.barrel.tfg.barrel.treated_chipboard_composite": "Treating Chipboard Composite",
 
 	"tfc.recipe.barrel.tfg.barrel.soak_hardwood_strip": "Soaking Hardwood Strips",
+	"tfc.recipe.barrel.tfg.barrel.treated_wood_dust": "Treating Wood Dust",
 	"tfc.recipe.barrel.tfg.barrel.treated_wood_planks": "Treating Wood Planks",
 	"tfc.recipe.barrel.tfg.barrel.packed_ice": "Freezing Ice",
 	"tfc.recipe.barrel.tfg.barrel.cooling_water_1": "Cooling Water",
@@ -62,12 +63,21 @@
 	"tfc.recipe.barrel.tfg.sealed_barrel.prepared_leather_gloves": "Soaking Leather Gloves",
 	"tfc.recipe.barrel.tfg.barrel.rapeseed_to_oil": "Extracting Canola Oil",
 	"tfc.recipe.barrel.tfg.barrel.sunflower_to_oil": "Extracting Sunflower Oil",
+	"tfc.recipe.barrel.tfg.barrel.maple_syrup_to_sugar": "Making sugar",
+	"tfc.recipe.barrel.tfg.barrel.birch_syrup_to_sugar": "Making sugar",
+
+	"tfc.recipe.barrel.tfg.barrel.light_concrete": "Solidifying Concrete",
+	"tfc.recipe.barrel.tfg.barrel.reinforced_light_concrete_support": "Solidifying Concrete",
+	"tfc.recipe.barrel.tfg.barrel.dark_concrete": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dark_concrete_support": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.reinforced_dark_concrete_support": "Dyeing",
 
 	"gtceu.aqueous_accumulator": "Aqueous Accumulator",
 	"tfg.food_recipe.brining": "Brining",
 	"tfg.food_recipe.smoking": "Smoking",
 	"tfg.food_recipe.drying": "Drying",
 	"tfg.food_recipe.freeze_drying": "Desiccate",
+    "tfg.food_recipe.deep_frying": "Deep Frying",
 	"tfg.recipe.macerator_warning": "Only outputs first slot until HV",
 
 	"tfg.grapplemod.repair": "Repair recipe, keeps your upgrades. §lNEVER combine two grapples or you'll lose ALL your upgrades!§r",

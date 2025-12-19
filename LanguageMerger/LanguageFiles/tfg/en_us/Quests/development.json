@@ -64,7 +64,7 @@
 
     "quests.development.hull_ev.title": "Craftable in &5EV&r",
     "quests.development.hull_ev.subtitle": "Nano Age",
-    "quests.development.hull_ev.desc": "This is the &9Nano&r Circuit line.\n\nYou may need to go out in &bspace&r to craft them.\n\nStarting from here, circuit progression will follow a pattern:\n\n&9-&r Processor\n&9-&r Assembly\n&9-&r Cupercomputer\n&9-&r Mainframe",
+    "quests.development.hull_ev.desc": "This is the &9Nano&r Circuit line.\n\nYou may need to go out in &bspace&r to craft them.\n\nStarting from here, circuit progression will follow a pattern:\n\n&9-&r Processor\n&9-&r Assembly\n&9-&r Supercomputer\n&9-&r Mainframe",
 
     "quests.development.hull_iv.title": "Craftable in &1IV&r",
     "quests.development.hull_iv.subtitle": "GregTech gets Quantum",

@@ -35,6 +35,9 @@
 		"claystone",
 		"limestone"
 	],
+	"indicator": {
+		"depth": 40
+	},
 	"translations": [
 		{
 			"lang": "en_us",

@@ -8,7 +8,11 @@ namespace MarsBiomes
 	{
 		public static void Main(string[] args)
 		{
-			var modpackDir = CommonUtil.GetModpackDirectory();
+			var options = CommandLineOptions.Parse(args);
+			if (options is null)
+				return;
+
+			var modpackDir = options.ModpackDir!;
 
 			// Read inputs
 
@@ -40,14 +44,12 @@ namespace MarsBiomes
 
 			// Outputs
 
-			var options = new JsonSerializerOptions
+			var serializerOptions = new JsonSerializerOptions
 			{
 				WriteIndented = true
 			};
 
-			var dataDir = CommonUtil.GetKJSDataFolder(modpackDir);
-
-			File.WriteAllText(Path.Combine(dataDir, "ad_astra/dimension/mars.json"), JsonSerializer.Serialize(dim, options));
+			File.WriteAllText(Path.Combine(options.DataDir!, "ad_astra/dimension/mars.json"), JsonSerializer.Serialize(dim, serializerOptions));
 		}
 	}
 }

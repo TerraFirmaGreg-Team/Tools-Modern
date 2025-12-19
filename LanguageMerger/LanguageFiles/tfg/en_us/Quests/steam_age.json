@@ -17,27 +17,31 @@
 	"quests.steam_age.horse_crank.title": "Your First Power Source",
 	"quests.steam_age.horse_crank.subtitle": "Make your livestock pay rent",
 	"quests.steam_age.horse_crank.desc.1": "The &3Animal Crank&r is your first accessible source of mechanical power. To use it, place the crank on the center of a 7x7 cleared area and leash an animal to it. Different animals will provide different amounts of power, while the blocks underneath will increase the speed of the output power. The area of multiple cranks can overlap.\n\nYou may need to hold a second lead to attach an animal.",
-	"quests.steam_age.horse_crank.desc.2": "&3Small Animals (4 SU):&r\nWolf, Dog, Pig, Sheep, Goat, Alpaca\n\n&3Medium Animals (6 SU):&r\nCow, Donkey\n\n&3Large Animals (8 SU):&r\nHorse, Mule, Musk Ox, Yak",
+	"quests.steam_age.horse_crank.desc.2": "&3Small Animals (8 SU):&r\nWolf, Dog, Pig, Sheep, Goat, Alpaca\n\n&3Medium Animals (12 SU):&r\nCow, Donkey\n\n&3Large Animals (16 SU):&r\nHorse, Mule, Musk Ox, Yak",
 
 	"quests.steam_age.poor_paths.title": "Poor Paths",
 	"quests.steam_age.poor_paths.subtitle": "This is just dirt",
-	"quests.steam_age.poor_paths.desc": "This is the worst kind of road you could use. The animal crank will operate at 2 RPM.",
+	"quests.steam_age.poor_paths.desc": "This is the worst kind of road you could use. The animal crank will operate at 8 RPM.",
 
 	"quests.steam_age.normal_paths.title": "Medium Paths",
 	"quests.steam_age.normal_paths.subtitle": "Ok, you put a little effort in",
-	"quests.steam_age.normal_paths.desc": "Medium paths are a little better and will let your animals turn the crank at 4 RPM.\n\nNote: You can't have a Dirt Path block directly under the animal crank, so that one will have to be Gravel.",
+	"quests.steam_age.normal_paths.desc": "Medium paths are a little better and will let your animals turn the crank at 16 RPM.\n\nNote: You can't have a Dirt Path block directly under the animal crank, so that one will have to be Gravel.",
 
 	"quests.steam_age.good_paths.title": "Great Paths",
 	"quests.steam_age.good_paths.subtitle": "No horseshoes required!",
-	"quests.steam_age.good_paths.desc": "These are the best kind of paths you could use, letting your crank output at 8 RPM. These kinds of paths also increases the player's move speed too, so they're great to pave your base with!",
+	"quests.steam_age.good_paths.desc": "These are the best kind of paths you could use, letting your crank output at 32 RPM. These kinds of paths also increases the player's move speed too, so they're great to pave your base with!",
 
 	"quests.steam_age.helve_hammer.title": "Helve Hammer",
 	"quests.steam_age.helve_hammer.subtitle": "CLANG... CLANG... CLANG...",
-	"quests.steam_age.helve_hammer.desc": "Does crafting all those plates for a Bloomery look tedious? The &3Helve Hammer&r will automatically (but slowly) flatten double ingots into plates for you. You'll still have to do the welding yourself though. Simply place an anvil directly under the hammer and throw your double ingots onto it, then right-click the hammer to get your plates out.\n\nHigher tier anvils will also require fewer hits to make plates from the previous tier.",
+	"quests.steam_age.helve_hammer.desc": "Does crafting all those plates for a Bloomery look tedious? The &3Helve Hammer&r will automatically (but slowly) flatten double ingots into plates for you. You'll still have to do the welding yourself though. Simply place an anvil directly under the hammer and throw your double ingots onto it by pressing the &2Throw Item key (Default: Q)&r, then right-click the hammer to get your plates out.\n\nHigher tier anvils will also require fewer hits to make plates from the previous tier.",
 
 	"quests.steam_age.water_wheel.title": "Water Wheels",
 	"quests.steam_age.water_wheel.subtitle": "Hope you set up your base near a river!",
-	"quests.steam_age.water_wheel.desc": "Water wheels provide much more power than the Animal Crank, at the expense of requiring flowing water. You don't have the ability to move water sources yet, so you'll need to find some sort of river or waterfall to power these.\n\nYou can get treated wood by soaking any planks in creosote from your Coke Oven.",
+	"quests.steam_age.water_wheel.desc": "Water wheels provide much more power than the Animal Crank, at the expense of requiring flowing water. You don't have the ability to move water sources yet, so you'll need to find a river to power these. Oceans and Lakes can also provide a little power, but if you're far inland, you're better off looking at building a windmill.\n\nYou can get treated wood by soaking any planks in creosote from your Coke Oven.",
+
+	"quests.steam_age.large_water_wheel.title": "Large Water Wheels",
+	"quests.steam_age.large_water_wheel.subtitle": "Larger, stronger, more expensive",
+	"quests.steam_age.large_water_wheel.desc": "Large water wheels provide four times as much power as the small water wheels, but still require flowing water from a river. Oceans and Lakes can also provide a little power, but if you're far inland, you're better off looking at building a windmill or steam engine.\n\nYou can get treated wood by soaking any planks in creosote from your Coke Oven.",
 
 	"quests.steam_age.windmill.title": "Windmills",
 	"quests.steam_age.windmill.subtitle": "Pairs well with tulips",
@@ -91,12 +95,12 @@
 
 	"quests.steam_age.fluid_pipes.title": "Fluid Pipes",
 	"quests.steam_age.fluid_pipes.subtitle": "Liquids, gases... we don't discriminate",
-	"quests.steam_age.fluid_pipes.desc.1": "&bFluid Pipes&r will transport &7Steam&r between machines for you.\n\nEach Pipe has a certain throughput in mB/t, and a &6Temperature Limit&r. This is relevant right now, as Steam will burn Wooden Pipes. Some pipes have &bspecial&r attributes you don't need to worry about for now.\n\nEach material has several sizes for Pipes. The bigger the Pipe, the &ahigher&r the throughput, but the more &dexpensive&r the craft. For example, a normal &6Bronze Fluid Pipe&r transfers 120 mB/t. (It also has a 1,200 mB internal buffer!)\n\nTo start off, we recommend using Wood pipes for cold fluids, and Bronze ones for hot fluids.",
+	"quests.steam_age.fluid_pipes.desc.1": "&bFluid Pipes&r will transport &7Steam&r between machines for you.\n\nEach Pipe has a certain throughput in mB/t, and a &6Temperature Limit&r. This is relevant right now, as Steam will burn Wooden Pipes. Some pipes have &bspecial&r attributes you don't need to worry about for now.\n\nEach material has several sizes for Pipes. The bigger the Pipe, the &ahigher&r the throughput, but the more &dexpensive&r the craft. For example, a normal &6Bronze Fluid Pipe&r transfers 120 mB/t. (It also has a 1,200 mB internal buffer!)\n\nTo start off, we recommend using Wood pipes for room-temperature fluids, and Bronze ones for hot fluids.",
 	"quests.steam_age.fluid_pipes.desc.2": "&aReminder:&r 1 second = 20 ticks... assuming the server isn't lagging.\n\n&dNote:&r GT6-style Pipes are enabled. It means that placing Pipes connects them only to the block they were placed against. To open more connections, use your Wrench on the pipe.\n\nYou can also shift-right click with your Wrench to disable input from a side. This can help counteract sloshing (liquids travelling in an undesired direction).",
 
 	"quests.steam_age.fluid_drums.title": "Efficient Fluid Storage",
 	"quests.steam_age.fluid_drums.subtitle": "I don't think a wooden barrel can hold molten steel",
-	"quests.steam_age.fluid_drums.desc.1": "&6TFG&r can quickly get &4overwhelming&r with the plethora of fluids it introduces, so you may be looking for a way to store them.\n\nIntroducing... &aDrums&r! They have large internal buffers, and any &aDrum&r can be broken and picked up and will &dkeep the fluid&r inside. A right-click with a Screwdriver allows a Drum to drain its content into another container placed below it.",
+	"quests.steam_age.fluid_drums.desc.1": "&6TFG&r can quickly get &4overwhelming&r with the plethora of fluids it introduces, so you may be looking for a way to store them.\n\nIntroducing... &aDrums&r! They have large internal buffers, and any &aDrum&r can be broken and picked up and will &dkeep the fluid&r inside. A right-click with a Soft Mallet or Screwdriver allows a Drum to drain its content into another container placed below it.",
 	"quests.steam_age.fluid_drums.desc.2": "&l&3Lore:&r&o These drums are actually ported from GregTech 6.",
 
 	"quests.steam_age.boilers.title": "Steam Boilers",
@@ -156,7 +160,7 @@
 
 	"quests.steam_age.glass_tube.title": "Glass Tubes",
 	"quests.steam_age.glass_tube.subtitle": "You'll want a lot of these",
-	"quests.steam_age.glass_tube.desc": "While you could make all of these by hand with glassblowing, it's much more time efficient to create them in your Alloy Smelter with the appropriate mold instead. Need a lot of glass dust? You can either glassblow 16 panes at once to macerate them, or use the Rock Crusher and Forge Hammer to get lots of sand, then add a little Flint dust to turn it into glass dust.",
+	"quests.steam_age.glass_tube.desc": "While you'll need to make your first glass tubes by hand with glassblowing, it'll soon be much more time efficient to create them in your Alloy Smelter with the appropriate mold instead. Need a lot of glass dust? You can either glassblow 16 panes at once to macerate them, or use the Rock Crusher and Forge Hammer to get lots of sand, then add a little Flint dust to turn it into glass dust.",
 
 	"quests.steam_age.treated_planks.title": "Treated Planks",
 	"quests.steam_age.treated_planks.subtitle": "Also known as Treated Plywood",
@@ -190,10 +194,6 @@
 	"quests.steam_age.fuel_sources.subtitle": "Putting the power in steam power",
 	"quests.steam_age.fuel_sources.desc": "The steam engine can accept more liquid fuels than the High Pressure Liquid Boiler. While Creosote or Lava are the easiest to set up at this point, you might also be interested in various plant-based oils like &eSeed Oil&r from Sunflowers or Canola.\n\nCreosote and Lava also don't scale very well once you get into further tiers, while Biofuel can be upgraded into Diesel and then Cetane-Boosted Diesel, so start setting up a big field for plant oils now if that sounds appealing to you!",
 
-	"quests.steam_age.straw.title": "Liquid Fuel Values",
-	"quests.steam_age.straw.subtitle": "Because the mod is missing a JEI tab",
-	"quests.steam_age.straw.desc": "Piping liquid fuels will give you roughly the same amount of power as if you used a GregTech steam turbine or combustion generator, but here's the exact numbers since it's not visible in JEI:\n\n- Steam: 128mB per tick\n- Creosote: 25mB per 88 ticks\n- Lava: 1mB per 20 ticks\n\n- Biomass: 5mB per 70 ticks\n- Seed, Soybean, Olive, and Fish Oil: 25mB per 88 ticks\n\n- Heavy Fuel: 2mB per 210 ticks\n- Sulfuric Heavy Fuel: 5mB per 80 ticks\n- Oil: 32mB per 90 ticks\n- Heavy Oil: 5mB per 88 ticks",
-
 	"quests.steam_age.deployers.title": "Deployers",
 	"quests.steam_age.deployers.subtitle": "Primitive Assembly Line",
 	"quests.steam_age.deployers.desc": "While you could use a single deployer for the rest your time in this chapter, we &3really&r don't recommend it. Setting up a line of deployers along a belt will save heaps of time and sanity, and it's not like you'll be wasting materials either, because you can always reuse them to upgrade your tree farm later.\n\nThese will also make electron tubes significantly cheaper!",
@@ -212,7 +212,7 @@
 
 	"quests.steam_age.resin_boards.title": "Resin-Coated Boards",
 	"quests.steam_age.resin_boards.subtitle": "I guess you could say we're... bored of LaTeX?",
-	"quests.steam_age.resin_boards.desc": "Did you know you can automate latex production through mechanical pumps? Now you do!",
+	"quests.steam_age.resin_boards.desc": "Did you know tree taps can drip directly into GregTech pipes and drums? Now you do!",
 
 	"quests.steam_age.circuit_boards.title": "Electronics #2: Circuit Boards",
 	"quests.steam_age.circuit_boards.subtitle": "The easier component for circuits",
@@ -242,13 +242,13 @@
 	"quests.steam_age.vibrating_table.subtitle": "Identical to the LV Sifter",
 	"quests.steam_age.vibrating_table.desc": "The &3Vibrating Table&r can process gem ores (including coal) in a different way, yielding much more output than anything else you have access to right now. As a bonus, it can also process any gravel ore deposits you may still have. No more sluicing!",
 
-	"quests.steam_age.lathe.title": "Lathe",
-	"quests.steam_age.lathe.subtitle": "You're not gonna believe which LV machine this is the same as",
-	"quests.steam_age.lathe.desc": "The &3Lathe&r can automatically turn a single ingot into two rods, and single bolts into screws. If you're making a lot of those, and you will be, this machine will be a good investment.",
+	"quests.steam_age.lathe.title": "Belt Grinder",
+	"quests.steam_age.lathe.subtitle": "A joint LV Lathe and metal confetti machine",
+	"quests.steam_age.lathe.desc": "The &3Belt Grinder&r can automatically turn a single ingot into two rods, single bolts into screws, polish gems, and a few other things. If you're needing a lot of rods and screws, and you will be, this machine will be a good investment.",
 
 	"quests.steam_age.steel_saw.title": "Steel Mechanical Saw",
 	"quests.steam_age.steel_saw.subtitle": "A stonecutter and LV Cutter in one!",
-	"quests.steam_age.steel_saw.desc": "It's an upgrade to your Basic Mechanical Saw that can also process some metal recipes, like turning rods into four bolts, and cutting blocks into plates. These recipes will all require a fluid to work, but you can just use water for now.\n\nYou can also use this for cheaper Rubber Sheets, if you first use an Alloy Smelter to turn your pulp into a block.",
+	"quests.steam_age.steel_saw.desc": "It's an upgrade to your Basic Mechanical Saw that can also process some metal recipes, like turning rods into four bolts, and cutting blocks into plates. These recipes will all require a fluid to work, but you can just use water for now.\n\nYou can also use this for cheaper Rubber Sheets, if you first use an Alloy Smelter to turn your pulp into a block.\n\nHaven't made Cobalt Brass before? You can either alloy it in a Crucible using anything that melts into Aluminium Silicate, or use a Mixer with Aluminium Dust from ore processing.",
 
 	"quests.steam_age.rolling_mill.title": "Rolling Mill",
 	"quests.steam_age.rolling_mill.subtitle": "The other half of the LV Bender",
@@ -271,7 +271,7 @@
 
 	"quests.steam_age.paper.title": "Paper",
 	"quests.steam_age.paper.subtitle": "Not from sugarcane",
-	"quests.steam_age.paper.desc": "If you haven't made any yet, there's three different ways to get paper without electricity.\n\n1) Craft vellum out of a hide, pumice, and an egg.\n\n2) Weave together papyrus.\n\n3) Craft it out of hardwood through a lengthy process.\n\nYou can later turn wood pulp directly into paper with an LV Chemical Bath.",
+	"quests.steam_age.paper.desc": "If you haven't made any yet, there's three different ways to get paper without electricity.\n\n1) Craft vellum out of a hide, pumice, and an egg.\n\n2) Weave together papyrus.\n\n3) Craft it out of hardwood through a lengthy process.\n\nYou can later turn wood pulp directly into paper with fewer steps.",
 
 	"quests.steam_age.lv_circuit.title": "Your first circuit!",
 	"quests.steam_age.lv_circuit.subtitle": "The dawn of a new age",
@@ -283,7 +283,7 @@
 
 	"quests.steam_age.alternator.title": "Alternators",
 	"quests.steam_age.alternator.subtitle": "Turning stress into power",
-	"quests.steam_age.alternator.desc.1": "If you've got a big steam age set up, you probably don't want to immediately scrap it all just to go back to some boilers and LV Steam Turbines. Instead, the &3Alternator&r will convert the SU from your steam engines into electricity. Each steam engine + alternator should give you 1A of LV! Unfortunately, alternators convert stress into a different electricity system than the one GregTech uses, so you'll need an Energy Converter to turn it into usable LV energy.",
+	"quests.steam_age.alternator.desc.1": "If you've got a big steam age set up, you probably don't want to immediately scrap it all just to go back to some boilers and LV Steam Turbines. Instead, the &3Alternator&r will convert the SU from your steam engines into electricity. Each steam engine + alternator should give you 1A of LV!\n\nUnfortunately, alternators convert stress into a different electricity system (Forge Energy) than the one GregTech uses (Energy Units), so you'll need an Energy Converter to turn it into usable LV energy. Be sure to hit it with a Soft Mallet to convert it to FE to EU mode.",
 	"quests.steam_age.alternator.desc.2": "An example of a steam engine producing 8 amps of LV!\n",
 
 	"quests.steam_age.packager.title": "Create Logistics",
@@ -297,5 +297,10 @@
 	"quests.steam_age.steel_mech_press.title": "Steel Mechanical Press",
 	"quests.steam_age.steel_mech_press.subtitle": "Almost a Forge Hammer",
 	"quests.steam_age.steel_mech_press.desc.1": "The High Pressure Steam Forge Hammer is right around the corner and can do almost everything that this machine can do, but if you're desperate for some higher tier automatic welding recipes, this is your ticket.\n\nIf you're unfamiliar with the Forge Hammer, both it and the Steel Mechanical Press can crush ores (without byproducts), turn rock into cobble into gravel into sand, and crack bricks. However, only the Forge Hammer can provide a &3cheaper recipe for metal plates&r...",
-	"quests.steam_age.steel_mech_press.desc.2": "&l&3Lore:&r&o The Create Mechanical Press used to be a key piece of late steam age progression prior to version 0.9 of TerraFirmaGreg, because it produced plates at an even better ratio of 5 to 4. However, its implementation was actually \"20 percent of the time, you get nothing\", which caused many people to proclaim how much they loved gambling while using it."
+	"quests.steam_age.steel_mech_press.desc.2": "&l&3Lore:&r&o The Create Mechanical Press used to be a key piece of late steam age progression prior to version 0.9 of TerraFirmaGreg, because it produced plates at an even better ratio of 5 to 4. However, its implementation was actually \"20 percent of the time, you get nothing\", which caused many people to proclaim how much they loved gambling while using it.",
+
+	"quests.steam_age.supers.title": "Super Chests and Super Tanks",
+	"quests.steam_age.supers.subtitle": "Super Storage Drawers",
+	"quests.steam_age.supers.desc": "This is the &cu&6l&et&ai&bm&9a&5t&4e&r portable item and storage solution if you have a lot of single items or fluids. While these &dBasic&r (&8ULV&r) ones start out relatively small, higher tiers of Super chests and tanks can hold an insane amount of stuff - all in one single block without any regards to temperature or acidity!\n\nLike Drums, Super Tanks and Chests &6keep their contents when broken&r, can be cleared in the crafting grid, and can automatically void any overflow. Unlike drums, however, Super Tanks also &asafely contain&r their contents, preventing you from getting burnt, frozen, or floating.\n\nIf you hunger for &9even more&r storage, take a look at higher tier Quantum Chests and Tanks or AE2 Storage Cells.",
+	"quests.steam_age.supers.task": "Any super chest or tank"
 }

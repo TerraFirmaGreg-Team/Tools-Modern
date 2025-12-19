@@ -1,11 +1,7 @@
 {
-	"fluid.tfg.nether_slurry": "Незерський шлам",
-	"fluid.tfg.enriched_nether_slurry": "Збагачений незерський шлам",
-	"fluid.tfg.ender_slurry": "Ендерський шлам",
-	"fluid.tfg.enriched_ender_slurry": "Збагачений ендерський шлам",
+	"fluid.tfg.heavy_ammoniacal_water": "Важка аміачна вода",
 	"fluid.tfg.semiheavy_ammoniacal_water": "Термохімічно збагачена амоніачна напівважка вода",
-	"fluid.tfg.heavy_water": "Важка вода",
-	"fluid.tfg.semiheavy_water": "Напівважка Вода",
 	"fluid.tfg.sulfur_fumes": "Сірчані випари",
-	"fluid.tfg.super_heated_slurry": "Супернагрітий шлам"
+	"fluid.tfg.geyser_slurry": "Супернагрітий шлам",
+	"fluid.tfg.cryogenized_fluix": "Кріогенізований флюїкс"
 }

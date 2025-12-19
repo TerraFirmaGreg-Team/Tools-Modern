@@ -1,3 +1,6 @@
 {
-	"block.wan_ancient_beasts.quick_red_sand": "Гематитовий Пливун"
+	"block.wan_ancient_beasts.quick_red_sand": "Гематитовий Пливун",
+	"item.wan_ancient_beasts.toxlacanth": "Сирий токсакант",
+	"item.wan_ancient_beasts.raw_ancient_meat": "Сире стегно пожирача",
+	"item.wan_ancient_beasts.cooked_ancient_meat": "Смажене стегно пожирача"
 }

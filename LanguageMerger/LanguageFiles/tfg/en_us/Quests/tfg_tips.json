@@ -1,17 +1,17 @@
 {
     "__comment1": "#region Starting",
-	
+
     "quests.tfg_tips": "Tips - Survival",
     "quests.tfg_tips.subtitle": "Tips and Tricks to make your life slightly easier.",
 
     "quests.tfg_tips.beginning.title": "Tips and Tricks be here!",
     "quests.tfg_tips.beginning.subtitle": "Dear God that's a lot of branches...",
     "quests.tfg_tips.beginning.desc": "This quest chapter gives you a lot, &o(and we do mean a lot)&r of tips on how to survive and thrive.\n\nEach quest branch representing major mods in &2TerraFirmaGreg&r, with tips to make the most out of them. None of these quests are necessary for progression, although some &omay&r be locked behind main questline tasks.",
-    
-	"__comment2": "#endregion",
+
+    "__comment2": "#endregion",
 
     "__comment3": "#region Portable Storage",
-	
+
     "quests.tfg_tips.portable_storage.title": "Portable Storage Solutions",
     "quests.tfg_tips.portable_storage.subtitle": "Turns out your inventory is quite small.",
     "quests.tfg_tips.portable_storage.desc": "In your travels, you may explore a whole &olot&r and end up picking up a lot of junk. This quest branch provides several options for expanding your on-the-go inventory.",
@@ -25,26 +25,26 @@
     "quests.tfg_tips.maxed_out_toolbelt.desc": "A &dToolbelt&r can hold 7 extra Pouches, that's 9 tools in one belt!",
     "quests.tfg_tips.maxed_out_toolbelt.task": "Obtain a maxed out toolbelt.",
 
-	"quests.tfg_tips.straw_basket.title": "Straw Basket",
-  	"quests.tfg_tips.straw_basket.subtitle": "As simple as it gets",
-  	"quests.tfg_tips.straw_basket.desc": "The &6Straw Basket&r is a simple basket that can be incredibly useful for managing your inventory before better options are available.\n\nSimply knap some straw to get your very own &6Straw Basket&r!",
-  	
-	"quests.tfg_tips.toolbox.title": "Toolboxes",
-  	"quests.tfg_tips.toolbox.subtitle": "A builders dream",
-  	"quests.tfg_tips.toolbox.desc": "The &dToolbox&r has 8 inventory slots which can each hold 4 stacks of items. Additionally, you can use a &ckeybind&r to access your placed &dToolbox&r from a few blocks away. You can even &bdye&r your &dToolbox&r to personalize it!",
-  	
-	"quests.tfg_tips.first_sacks.title": "Storage Sacks",
-  	"quests.tfg_tips.first_sacks.subtitle": "A step up from vessels",
-  	"quests.tfg_tips.first_sacks.desc": "The &6Leather Sack&r and &3Burlap Sack&r are two options for portable storage with their own pros and cons. It is a good idea to view the container info for each one to know how many &ditem slots&r, the &dstack size&r, and the max &ditem size&r for each sack.\n\n&l&3Tip:&r The &4&oField Guide&r has more specific info on some of the special features of the sacks.",
-  	
-	"quests.tfg_tips.special_sacks.title": "Specialized Sacks",
-  	"quests.tfg_tips.special_sacks.subtitle": "Wait, it can hold how much?",
-  	"quests.tfg_tips.special_sacks.desc": "The &2Seed Pouch&r and &9Ore Sack&r are two sacks that can only hold specific types of items, but make up for it with much larger &dstack sizes&r.\n\nThe &2Seed Pouch&r can hold up to &c128&r of &327&r different types of seeds.\n\nThe &9Ore Sack&r can hold up to &c512&r of &39&r different mined resources. That means it can hold items like ores, rocks, powders, and clays!",
-  	
-	"quests.tfg_tips.frame_pack.title": "Frame Pack",
-	"quests.tfg_tips.frame_pack.subtitle": "Options can be good!",
-	"quests.tfg_tips.frame_pack.desc": "The &5Frame Pack&r gives you &318&r slots that can each hold up to &c64&r items. The benefit of the &5Frame Pack&r is that it ignores the default stack size of the items you put into it. That means you can hold up to &c1152&r items in total!",
-	
+    "quests.tfg_tips.straw_basket.title": "Straw Basket",
+    "quests.tfg_tips.straw_basket.subtitle": "As simple as it gets",
+    "quests.tfg_tips.straw_basket.desc": "The &6Straw Basket&r is a simple basket that can be incredibly useful for managing your inventory before better options are available.\n\nSimply knap some straw to get your very own &6Straw Basket&r!",
+
+    "quests.tfg_tips.toolbox.title": "Toolboxes",
+    "quests.tfg_tips.toolbox.subtitle": "A builders dream",
+    "quests.tfg_tips.toolbox.desc": "The &dToolbox&r has 8 inventory slots which can each hold 4 stacks of items. Additionally, you can use a &ckeybind&r to access your placed &dToolbox&r from a few blocks away. You can even &bdye&r your &dToolbox&r to personalize it!",
+
+    "quests.tfg_tips.first_sacks.title": "Storage Sacks",
+    "quests.tfg_tips.first_sacks.subtitle": "A step up from vessels",
+    "quests.tfg_tips.first_sacks.desc": "The &6Leather Sack&r and &3Burlap Sack&r are two options for portable storage with their own pros and cons. It is a good idea to view the container info for each one to know how many &ditem slots&r, the &dstack size&r, and the max &ditem size&r for each sack.\n\n&l&3Tip:&r The &4&oField Guide&r has more specific info on some of the special features of the sacks.",
+
+    "quests.tfg_tips.special_sacks.title": "Specialized Sacks",
+    "quests.tfg_tips.special_sacks.subtitle": "Wait, it can hold how much?",
+    "quests.tfg_tips.special_sacks.desc": "The &2Seed Pouch&r and &9Ore Sack&r are two sacks that can only hold specific types of items, but make up for it with much larger &dstack sizes&r.\n\nThe &2Seed Pouch&r can hold up to &c128&r of &327&r different types of seeds.\n\nThe &9Ore Sack&r can hold up to &c512&r of &39&r different mined resources. That means it can hold items like ores, rocks, powders, and clays!",
+
+    "quests.tfg_tips.frame_pack.title": "Frame Pack",
+    "quests.tfg_tips.frame_pack.subtitle": "Options can be good!",
+    "quests.tfg_tips.frame_pack.desc": "The &5Frame Pack&r gives you &318&r slots that can each hold up to &c64&r items. The benefit of the &5Frame Pack&r is that it ignores the default stack size of the items you put into it. That means you can hold up to &c1152&r items in total!",
+
     "quests.tfg_tips.vessels.title": "Large and Small Vessels",
     "quests.tfg_tips.vessels.subtitle": "Clay can be quite useful",
     "quests.tfg_tips.vessels.desc": "&dSmall Vessels&r have 4 inventory slots while &6Large Vessels&r have 9! The &dSmall Vessel&r is not just for item storage, but is also necessary for smelting and alloying basic metals.\nThe &6Large Vessel&r is heavier to carry, but is great for preserving food.\n\n&l&3Tip:&r&o Large Vessels double as early backpacks!",
@@ -59,17 +59,17 @@
 
     "quests.tfg_tips.backpack_materials.title": "Materials for a Backpack",
     "quests.tfg_tips.backpack_materials.subtitle": "Sleeping bag not included",
-	"quests.tfg_tips.backpack_materials.desc": "There are two options for backpacks: the &5Frame Pack&r or the &3Sophisticated Backpack&r\n\nA &5Frame Pack&r is a dense backpack allowing you to store up to &c64&r items in each slot no &omatter their standard stack size&r.\n\nA &3Sophisticated Backpack&r is the primary way to expand your portable inventory size going forward. The first tier will more than double your normal inventory, and further tiers increase it even more! It also comes with a wide variety of &afunctional upgrades&r, and different parts of it can be dyed different colors!",
-    
-	"quests.tfg_tips.first_backpack.title": "Your First Backpack",
+    "quests.tfg_tips.backpack_materials.desc": "There are two options for backpacks: the &5Frame Pack&r or the &3Sophisticated Backpack&r\n\nA &5Frame Pack&r is a dense backpack allowing you to store up to &c64&r items in each slot no &omatter their standard stack size&r.\n\nA &3Sophisticated Backpack&r is the primary way to expand your portable inventory size going forward. The first tier will more than double your normal inventory, and further tiers increase it even more! It also comes with a wide variety of &afunctional upgrades&r, and different parts of it can be dyed different colors!",
+
+    "quests.tfg_tips.first_backpack.title": "Your First Backpack",
     "quests.tfg_tips.first_backpack.subtitle": "No, the map won't magically appear.",
-  	"quests.tfg_tips.first_backpack.desc": "This is your first &3Sophisticated Backpack.&r It has a total of &c36&r inventory slots and can hold &aone upgrade.&r Check the two branches after this to learn about inventory and backpack upgrades.",
-    
-	"quests.tfg_tips.red_steel_backpack.title": "Red Steel Backpack",
+    "quests.tfg_tips.first_backpack.desc": "This is your first &3Sophisticated Backpack.&r It has a total of &c36&r inventory slots and can hold &aone upgrade.&r Check the two branches after this to learn about inventory and backpack upgrades.",
+
+    "quests.tfg_tips.red_steel_backpack.title": "Red Steel Backpack",
     "quests.tfg_tips.red_steel_backpack.subtitle": "Cooler than a Blue Steel Backpack",
     "quests.tfg_tips.red_steel_backpack.desc": "A &4Red Steel Backpack&r is your first proper backpack inventory upgrade. It has a total slot count of &c54&r and can hold &atwo upgrades.&r",
 
-    "quests.tfg_tips.aluminium_backpack.title": "Aluminium Steel Backpack",
+    "quests.tfg_tips.aluminium_backpack.title": "Aluminium Backpack",
     "quests.tfg_tips.aluminium_backpack.subtitle": "Is it Aluminum or Aluminium?",
     "quests.tfg_tips.aluminium_backpack.desc": "An &bAluminium Backpack&r is your second proper backpack inventory upgrade. It has a total slot count of &c81&r and can hold &athree upgrades.&r",
 
@@ -96,45 +96,102 @@
     "quests.tfg_tips.all_backpack_upgrades.title": "ALL THE UPGRADES",
     "quests.tfg_tips.all_backpack_upgrades.subtitle": "You can't even fit all of these in a single backpack...",
     "quests.tfg_tips.all_backpack_upgrades.desc": "These are all the backpack upgrades &3Sophisticated Backpacks&r has to offer. Can you craft them all?",
-    
-	"__comment4": "#endregion",
+
+    "__comment4": "#endregion",
 
     "__comment5": "#region GT",
-	
+
     "quests.tfg_tips.gt.title": "GregTech",
     "quests.tfg_tips.gt.subtitle": "One third of the modpack's name, after all.",
     "quests.tfg_tips.gt.desc": "&3GregTech&r can be quite intimidating, this quest branch should help you out.",
 
+    "quests.tfg_tips.gt_power_tools.title": "Power Tools",
+    "quests.tfg_tips.gt_power_tools.subtitle": "Men only want one thing and it's f&kuck&ring disgusting",
+    "quests.tfg_tips.gt_power_tools.desc.1": "As with any good tech mod, &5GregTech&r comes with a wide variety of &6tools&r you can use. To operate them, you'll need to &acharge them with energy&r — and there are several ways to do that: place the tool in a &6Battery Buffer&r, in an &denergy slot&r of a machine, or even better, use a &eTurbo Charger&r.\n\nJust remember: you can only charge an item using a power source of &7equal&r or &ahigher tier&r. &cLower-tier sources&r won’t work on higher-tier tools — but don’t worry, &cnothing should explode&r. Probably.",
+    "quests.tfg_tips.gt_power_tools.desc.2": "Most &5GregTech&r tools are crafted from a &6Tool Head&r. Try using &aEMI&r to explore what you can do with them — just remember two important things:\n\n- The &ehigher the Tool Head tier&r, the more &cpowerful&r the tool will be, and the &6larger the battery&r it will use.\n- Not every tool supports every Tool Head tier. For example, the &6Chainsaw&r can only be crafted with a &7LV Tool Head&r.",
+
     "quests.tfg_tips.nano_saber.title": "Nano Saber",
     "quests.tfg_tips.nano_saber.subtitle": "26 Attack Damage when active!",
-    "quests.tfg_tips.nano_saber.desc": "The &6Nano Saber&r is a powerful weapon you’ll be able to unlock once you reach &5EV&r. Simply use &dShift + Right-Click&r to activate the &cbzzzzz mode&r.",
-
-    "quests.tfg_tips.gt_tools.title": "GregTech Tools",
-    "quests.tfg_tips.gt_tools.subtitle": "",
-    "quests.tfg_tips.gt_tools.desc": "Most &5GregTech&r tools are crafted from a &6Tool Head&r. Try using &aEMI&r to explore what you can do with them — just remember two important things:\n\n- The &ehigher the Tool Head tier&r, the more &cpowerful&r the tool will be, and the &6larger the battery&r it will use.\n- Not every tool supports every Tool Head tier. For example, the &6Chainsaw&r can only be crafted with a &7LV Tool Head&r.",
+    "quests.tfg_tips.nano_saber.desc": "The &6Nano Saber&r is a powerful weapon you’ll be able to unlock once you reach late &5EV&r. Simply use &dShift + Right-Click&r to activate the &cbzzzzz mode&r.",
 
     "quests.tfg_tips.magnets.title": "Item Magnets",
-    "quests.tfg_tips.magnets.subtitle": "",
+    "quests.tfg_tips.magnets.subtitle": "2010 called, it wants its juggalo meme back",
     "quests.tfg_tips.magnets.desc": "The &6Item Magnet&r is exactly what you'd expect — a magnet that pulls nearby &6items&r straight to you. &aVery useful&r. What more could you ask for?",
-    
-	"__comment6": "#endregion",
+
+    "quests.tfg_tips.long_distance_items.title": "Long-Distance Item Pipes",
+    "quests.tfg_tips.long_distance_items.subtitle": "Wondering how to move those ores around?",
+    "quests.tfg_tips.long_distance_items.desc": "&3Long-Distance Item Pipes&r can be used to send items across great distances. Place one endpoint at each end, and connect them with pipeline blocks.\n\nThese pipes instantly transfer from the input side to the output side.\n\nThey also have a minimum distance between pipe endpoints, so you can't use these for short-range operations.",
+
+    "quests.tfg_tips.long_distance_fluids.title": "Long-Distance Fluid Pipes",
+    "quests.tfg_tips.long_distance_fluids.subtitle": "Wondering how to move that oil around?",
+    "quests.tfg_tips.long_distance_fluids.desc": "&3Long-Distance Fluid Pipes&r can be used to send fluids across great distances. Place one endpoint at each end, and connect them with pipeline blocks.\n\nThese pipes instantly transfer from the input side to the output side.\n\nThey also have a minimum distance between pipe endpoints, so you can't use these for short-range operations.\n\nThese pipes have a reputation of being &4buggy&r to set up. If they don't seem to work at first, try rotating the endpoints with a &eWrench&r.",
+
+    "quests.tfg_tips.crates.title": "GregTech Storage",
+    "quests.tfg_tips.crates.subtitle": "Earlygame buffering",
+    "quests.tfg_tips.crates.desc": "In theory, Crates are flat upgrades to Chests. A single block space that stores more items - what more could you ask for?\n\nThey're more expensive than regular Chests, and can't be attached to Create contraptions, but can hold any size of item and can &6accept Covers&r, making them perfect candidates for buffers in automation.",
+
+    "quests.tfg_tips.tape.title": "Tape for Crates",
+    "quests.tfg_tips.tape.subtitle": "Moving stuff around",
+    "quests.tfg_tips.tape.desc": "You can right-click a Crate with Tape, which will then make the crate keep its contents when broken, making it easy to move around. This only works once per tape, however.\n\nGood thing it's cheap!",
+
+    "quests.tfg_tips.terminal.subtitle": "Automatic Multiblock Builder",
+    "quests.tfg_tips.terminal.desc": "&bThe Terminal&r has one main purpose, and &awe highly encourage you to craft it&r.\n\nBuilding all these &eMultiblocks&r can be a bit &cintimidating&r, right? Well, here's a tip: use &dShift + Right-Click&r on any &6Multiblock Controller&r to &aautomatically assemble the entire structure&r!\n\nYou might need to &emove around some buses and hatches&r to suit your setup, but overall, this feature will save you a &alot of time&r.",
+
+    "quests.tfg_tips.memory_card.subtitle": "Copy and Paste",
+    "quests.tfg_tips.memory_card.desc": "When you try to &aparallelize your setup&r with more machines, it can be a bother to set all the &einputs&r and &eoutputs&r for each one. Yeah, we're thinking of you, &dSuper Chests&r and &dTanks&r.\n\nIf you ever find yourself needing this little tool, don't hesitate to use it.",
+
+    "quests.tfg_tips.portable_scanner.subtitle": "For the nosiest GregTech players",
+    "quests.tfg_tips.portable_scanner.desc.1": "The &aPortable Scanner&r, or &aTricorder&r, is GTCEu's debug tool.\n\nUsing it will show you a block's details, the details of the energy network, its current status and contents, and its impact on performance.\n\nIt'll also display a percentage of fluid remaining in the fluid vein for the &3Fluid Rigs&r.",
+    "quests.tfg_tips.portable_scanner.desc.2": "&l&3Lore:&r&o This little useful device comes from GregTech 5. It was extremely useful in the early days, because very little information (basically nothing) was given by GUIs or WAILA.",
+
+    "quests.tfg_tips.duct_tape.subtitle": "If you can't fix it with this, use more of it!",
+    "quests.tfg_tips.duct_tape.desc": "You may have realized that most &eMultiblocks&r require a &6Maintenance Hatch&r. Until &6HV&r, where you can get an &aAutomatic Maintenance Hatch&r, you can use this item to fix the hatch without needing to use all of your maintenance tools.\n\nIt can be really useful if you don't want to invest in an &aAuto Maintenance Hatch&r yet, or if you're simply &cnot there yet&r.",
+
+    "quests.tfg_tips.gt_filters.title": "Filters",
+    "quests.tfg_tips.gt_filters.desc": "With &5GregTech&r, you get access to various &6filters&r that help you ease into &aautomation&r. All of them are compatible with different &dCovers&r, which you'll learn more about during the &7LV&r Chapter.\n\nHere, we're introducing two more specific filters that you might find &bhandy&r in certain situations.\n\nTo use a filter, simply apply it as a &dCover&r on any &5GT Machine&r or &6pipe&r.",
+
+    "quests.tfg_tips.smart_item_filter.subtitle": "Knock, knock - who's that? It's MENSA!",
+    "quests.tfg_tips.smart_item_filter.desc.1": "In this quest, we'll bestow upon you &5cursed wisdom&r... the ability to easily automate the Electrolyzer.\n\nThe &9Smart Item Filter&r is a filter that recognises Recipe Maps. When placed on the side of a machine, you can set it to \"&3Electrolyzer&r\" to allow insertion of electrolyzable items specifically. You heard that right - no need to filter manually!\n\nOh, and it only gets &abetter&r. If you combine this bad boy with a &aRobot Arm&r, it'll only supply the &6exact amount&r of items required for a successful recipe to the machine.",
+    "quests.tfg_tips.smart_item_filter.desc.2": "Place the &aRobot Arm&r on your Electrolyzer, open its GUI, then place the &9Smart Filter&r inside. Ensure that the Smart Filter is set to Electrolyzer.\n\nNext, configure it to &d&lImport&r and &d&lSupply Exact&r. Finally, attach any inventory &7(a chest will do)&r onto the side where you placed the &aRobot Arm&r. Ta-dah! You've figured out how to handle &6all&r Electrolyzer recipes!\n\nWhat about the output of the &3Electrolyzer&r? You may want to route the Fluids to several Tanks - or even &3Super Tanks&r if you've gotten that far. We highly recommend that you avoid any methods involving voiding Fluids.&7.&8. except for Water for obvious reasons.",
+    "quests.tfg_tips.smart_item_filter.desc.3": "&9Note:&r The Robot Arm has to facilitate the item transfer for its filtering functionality to work! Inserting directly into the machine &7(for instance, pushing with a Hopper!)&r will ignore the Robot Arm's &dSupply Exact&r setting.",
+
+    "quests.tfg_tips.hazard_materials.title": "Hazardous Materials",
+    "quests.tfg_tips.hazard_materials.subtitle": "Choking Hazard, Ages 3+",
+    "quests.tfg_tips.hazard_materials.desc": "With the new version of &5Gregtech&r, a &chazard system&r has been introduced. By holding &dShift&r while hovering over &cHazardous Materials&r, you can see how they might affect you.\n\nWe strongly advise using proper &6protective equipment&r to keep your &corgans intact&r.",
+
+    "quests.tfg_tips.face_mask.desc": "The &6Face Mask&r will protect you from &cinhaling dangerous dust&r. It’s quite &aeasy to craft&r and should prevent issues when working with &5arsenic&r.",
+
+    "quests.tfg_tips.rubber_gloves.desc": "The &6Gloves&r will obviously protect you from &cskin contact hazards&r. You have two ways to make them: a &7longer and more involved path&r through &2TerrafirmaCraft&r, or a much &aeasier method&r using the &6High Pressure Steam Alloy Smelter&r.",
+
+    "quests.tfg_tips.hazmat.title": "Hazardous Materials Suit",
+    "quests.tfg_tips.hazmat.desc": "The &6Hazardous Materials Suit&r is the best way to protect yourself from &cany kind of harm&r. You’ll be able to craft it once you reach &bMV&r, and &ayou should definitely take the time to do so&r.",
+
+    "quests.tfg_tips.armor.title": "GregTech Armor",
+    "quests.tfg_tips.armor.desc": "With &5GregTech&r comes its own line of armor. Sure, it was cool to wear &7metal plates&r, but now that you're an &bindustrial maniac&r, maybe it's time to check out some &atechnological armor&r.\n\n&5GregTech&r provides two models. The first one becomes available around &6HV&r and offers better protection than anything you've worn before. It's equipped with &estrong insulation&r to withstand Earth's harsh climate, and it may even be upgraded with a &dJetpack&r.\n\nThe second model won't be available until much later — around &1IV&r and &dLuV&r. This one will allow you to &9breathe in space&r using &3oxygen&r.",
+
+    "__comment6": "#endregion",
 
     "__comment7": "#region TFC",
-	
+
     "quests.tfg_tips.terrafirmacraft.title": "TerraFirmaCraft Addons",
     "quests.tfg_tips.terrafirmacraft.subtitle": "The other two thirds of the modpack's name",
     "quests.tfg_tips.terrafirmacraft.desc": "&3TerraFirmaCraft&r is one of the main mods in &2TerraFirmaGreg.&r This branch mostly focuses on some of its survival features and other &dAdd-Ons&r the modpack has, such as &4Aged Alcohol&r and &bCanes.&r",
 
     "quests.tfg_tips.cane.title": "Walking Canes",
     "quests.tfg_tips.cane.subtitle": "You can even whack people with them!",
-    "quests.tfg_tips.cane.desc": "A &dWalking Cane&r allows you to completely ignore any block that slows your movement, such as &asnow&r, as long as you're carrying it in your &cmain&r or &coff-hand.&r\nAs a bonus, it &bincrease step-height.&r In other words, allows you to walk up one block without jumping. The &dIron Cane&r even allows to walk over fences!",
+    "quests.tfg_tips.cane.desc": "A &dWalking Cane&r allows you to completely ignore any block that slows your movement, such as &asnow&r, as long as you're carrying it in your &cmain&r or &coff-hand.&r\n\nAs a bonus, it &bincreases step height&r, which allows you to walk up one block without jumping. The &dIron Cane&r has extra step height that allows you to easily step over fences!",
     "quests.tfg_tips.cane.task": "Any Cane",
 
-	"quests.tfg_tips.hiking.title": "Hiking Boots",
-  	"quests.tfg_tips.hiking.subtitle": "&oThese boots are made for walking",
-  	"quests.tfg_tips.hiking.desc": "&dHiking Boots&r allow you to more easily explore your world! All &dHiking Boots&r allow you to pass through tall grass without resistance. Additionally, each tier of &dHiking Boots&r have progressively more &9armor&r, &9walk speed&r, and &9fall resistance&r along with other boosts.",
-  	"quests.tfg_tips.hiking.task": "Any Hiking Boots",
-	
+    "quests.tfg_tips.hiking.title": "Hiking Boots",
+    "quests.tfg_tips.hiking.subtitle": "&oThese boots are made for walking",
+    "quests.tfg_tips.hiking.desc": "&dHiking Boots&r allow you to more easily explore your world! All &dHiking Boots&r allow you to pass through tall grass without resistance. Additionally, each tier of &dHiking Boots&r have progressively more &9armor&r, &9walk speed&r, and &9fall resistance&r along with other boosts.",
+    "quests.tfg_tips.hiking.task": "Any Hiking Boots",
+
+    "quests.tfg_tips.feeding_troughs.title": "Feeding Troughs",
+    "quests.tfg_tips.feeding_troughs.subtitle": "Metallic Farmhand",
+    "quests.tfg_tips.feeding_troughs.desc": "Feeding Troughs (also known as Grooming Stations) are a way to automatically feed your animals every morning. It even comes with an option to avoid feeding animals that are already at maximum familiarity, in case you don't want to breed them.\n\nHigher tiers come with a higher range of effectiveness.\n\n&3&lTip:&r&o You might not want to put one right next to your fence, otherwise animals will try to use it to escape their pen!",
+    "quests.tfg_tips.feeding_troughs.task": "Any feeding trough",
+
     "quests.tfg_tips.glassblowing.title": "Glassblowing",
     "quests.tfg_tips.glassblowing.subtitle": "Realistic Glassworking!",
     "quests.tfg_tips.glassblowing.desc": "To make any sort of &dGlass Pane&r or &dBlock&r, you'll need a &3glassblowing&r setup.\n\n&3Glassblowing&r will require some sort of &aBlowpipe&r, and a platform made out of glassblowing blocks to pour the molten glass. Check out the &2Field Guide&r for more information on the shape of the platform and what blocks are valid. You'll have access to glassblowing as soon as you can shape &aBrass!&r",
@@ -258,11 +315,11 @@
     "quests.tfg_tips.salvo.subtitle": "Apply directly to the forehead",
     "quests.tfg_tips.salvo.desc": "A &dSalve&r is another type of medicine, usually applied on the skin. These provide a different set of effects compared to &aPills&r and &aTablets&r, such as &cFire Resistance&r and &4Instant Health&r, but require relatively complex chemistry.",
     "quests.tfg_tips.salvo.task": "Any Salve",
-    
-	"__comment8": "#endregion",
+
+    "__comment8": "#endregion",
 
     "__comment9": "#region Misc",
-	
+
     "quests.tfg_tips.misc.title": "Misc Tips",
     "quests.tfg_tips.misc.subtitle": "Even more tips!",
     "quests.tfg_tips.misc.desc": "These are miscellaneous tips, they don't fit in the other categories but are still useful to know about.",
@@ -274,7 +331,7 @@
 
     "quests.tfg_tips.grappling_hook.title": "Grappling Hook",
     "quests.tfg_tips.grappling_hook.subtitle": "This is going to end poorly",
-    "quests.tfg_tips.grappling_hook.desc": "By combining 4 pieces of &aRope Coil&r and a &bWrought Iron Pickaxe Head&r, you can create a &dGrappling Hook!&r An ideal tool for scaling big mountains, exploring large caves and traversing the world. It contains an &eupgrade system&r that allows you to combine and modify your &dHook&r to your leisure.",
+    "quests.tfg_tips.grappling_hook.desc": "By combining 2 pieces of &aRope Coil&r and a &bWrought Iron Pickaxe Head&r, you can create a &dGrappling Hook!&r An ideal tool for scaling big mountains, exploring large caves and traversing the world. It contains an &eupgrade system&r that allows you to combine and modify your &dHook&r to your leisure.",
 
     "quests.tfg_tips.grapple_repair.title": "Grappling Hook Warnings",
     "quests.tfg_tips.grapple_repair.subtitle": "READ ME, OR YOU MAY REGRET IT LATER!",
@@ -435,11 +492,15 @@
     "quests.tfg_tips.self_defense.title": "Self-defense",
     "quests.tfg_tips.self_defense.subtitle": "Got zombies on your lawn?",
     "quests.tfg_tips.self_defense.desc": "Place a &3Cranktrap&r next to a pressure plate, and they'll completely immobilize whatever animal (or monster!) steps on it. Great for catching that elusive animal in the forest, or for defending your home.\n\n&3Barbed Wire&r is completely passive and just inflicts damage to anything that walks through it.",
-    
-	"__comment10": "#endregion",
+
+    "quests.tfg_tips.lightning_rod.title": "Lightning Rod",
+    "quests.tfg_tips.lightning_rod.subtitle": "Undesirable voltage",
+    "quests.tfg_tips.lightning_rod.desc": "As thunderstorms are way more active and violent in TerraFirmaCraft, you might find the frequency of lightning to be rather annoying. To solve that problem completely, you can use a &dLightning Rod&r for the cheap price of 3 copper rods.\n\nThe &dLightning Rod&r can redirect all lightning onto itself in a spherical radius of &3128 blocks&r.\nBeware: It &oredirects&r lightning and doesn't nullify it, so it will still create fires within &33 blocks&r around itself, so place it far away from any flammables.",
+
+    "__comment10": "#endregion",
 
     "__comment11": "#region ArborFirmaCraft",
-	
+
     "quests.tfg_tips.arborfirmacraft.title": "ArborFirmaCraft",
     "quests.tfg_tips.arborfirmacraft.subtitle": "Harvesting the Life-blood of Trees",
     "quests.tfg_tips.arborfirmacraft.desc": "&2ArborFirmaCraft&r is a mod that adds multiple new trees to &3TFG&r: some are variants of existing TFC trees, such as &dAncient Kapok&r, while others are completely new, such as the &aBaobab&r and &aHevea.&r Some of the plank and log textures of these trees may remind you of vanilla tree colors...\n\nThis section will go over &bTree Tapping.&r\nAs a bonus, all &2ArborFirmaCraft&r woods are compatible with &3FirmaLife&r, and &3Firma:Civ&r, we made sure of it!",
@@ -475,13 +536,12 @@
 
     "quests.tfg_tips.create_rubber_ingot.title": "Rubber Ingot",
     "quests.tfg_tips.create_rubber_ingot.subtitle": "Insulate them cables",
+    "quests.tfg_tips.create_rubber_ingot.desc": "Utilizing the &bVacuum Chamber&r and some additional heating, you can process &aLatex&r from various trees into &dRaw Rubber Pulp&r through a specific process. You can then smelt together 3 &dRaw Rubber Pulp&r with a bit of &eSulfur Dust&r in an &bAlloy Smelter&r to create &dRubber Ingots&r, perfect for insulating cables and very much necessary to advance in the &2Voltaic Age&r and beyond...\n\n&9Tip:&r As you progress, there will be several ways to make this process cheaper and easier. Keep checking EMI! You'll be using Rubber for a long time, so it's well worth automating.",
 
-    "quests.tfg_tips.create_rubber_ingot.desc": "Utilizing the &bVacuum Chamber&r and some additional heating, you can process &aLatex&r from various trees into &dRaw Rubber Pulp&r through a specific process. You can then smelt together 3 &dRaw Rubber Pulp&r with a bit of &eSulfur Dust&r in an &bAlloy Smelter&r to create &dRubber Ingots&r, perfect for insulating cables and very much necessary to advance in the &2Voltaic Age&r and beyond...",
-    
-	"__comment12": "#endregion",
+    "__comment12": "#endregion",
 
     "__comment13": "#region Transportation",
-	
+
     "quests.tfg_tips.transportation.title": "Transportation",
     "quests.tfg_tips.transportation.subtitle": "For travelling this vast world",
     "quests.tfg_tips.transportation.desc": "The world is a very big place, you may end up travelling great distances to find specific resources for survival and advancement. The mods in this section will provide with a variety of transportation options.",
@@ -491,8 +551,8 @@
     "quests.tfg_tips.glider.desc": "A &dHang Glider&r can be used to glide along the air. You &ccannot gain altitude&r with this but it can be useful to traverse long distances if you jump from high up.\nGreat synergy with &bJetpacks&r though!",
 
     "quests.tfg_tips.reinforced_glider.title": "Reinforced Glider",
-    "quests.tfg_tips.reinforced_glider.subtitle": "Elytra well spent...?",
-    "quests.tfg_tips.reinforced_glider.desc": "If you combine an &aElytra&r, made in &5EV&r, with a &aHang Glider&r, you'll obtain a &dReinforced Glider.&r It has greater durability and a higher velocity ceiling.",
+    "quests.tfg_tips.reinforced_glider.subtitle": "Light as a feather!",
+    "quests.tfg_tips.reinforced_glider.desc": "A &dReinforced Hang Glider&r is the improved version of a &aHang Glider&r. With an upgraded &aAluminium&r frame and a fabric made of either &aReinforced Fabric&r or &aLightweight Cloth&r, you can now soar through the skies at &cdouble the speed&r!\nIt also has &cmore durability&r than the normal hang glider, and can be &crepaired&r in an assembler.\n\n&3Pro tip:&r\nUsing either &aSilk Cloth&r or &aPhantom Silk&r obtained in the &4Beneath&r reduces the fabric cost by &e2/3rds&r for both crafting and repairing!\nOnce you enter &6HV&r, you can also use &aPolycaprolactam Fabric&r as one of the fabrics with a reduced cost.",
 
     "quests.tfg_tips.immersive_aircraft.title": "Immersive Aircraft",
     "quests.tfg_tips.immersive_aircraft.subtitle": "Fly across the skies, with style.",
@@ -557,7 +617,7 @@
 
     "quests.tfg_tips.biplane.title": "Biplane",
     "quests.tfg_tips.biplane.subtitle": "How come this is smaller than the Economy Plane?",
-    "quests.tfg_tips.biplane.desc": "The &3Biplane&r is a direct upgrade to the &bEconomy Plane&r, crafted using &aHulls, Steam Boilers&r and an &aEnhanced Propeller.&r\n\nIt contains &b16 Inventory Slots&r, &a4 Upgrade Slots&r and &c1 Weapon Slot.&r Unlike the &dEconomy Plane&r, the &3Biplane&r can be &4boosted using rockets via a dedicated slot.&r",
+    "quests.tfg_tips.biplane.desc": "The &3Biplane&r is a direct upgrade to the &bEconomy Plane&r, crafted using &aHulls, Steam-powered Aircraft Engines&r and an &aAluminium Plated Airplane Propeller.&r\n\nIt contains &b16 Inventory Slots&r, &a4 Upgrade Slots&r and &c1 Weapon Slot.&r Unlike the &dEconomy Plane&r, the &3Biplane&r can be &4boosted using rockets via a dedicated slot.&r",
 
     "quests.tfg_tips.scarlet_biplane.title": "Scarlet Biplane",
     "quests.tfg_tips.scarlet_biplane.subtitle": "What a sight to behold",
@@ -577,7 +637,7 @@
 
     "quests.tfg_tips.warfare.title": "Sea Warfare",
     "quests.tfg_tips.warfare.subtitle": "FIRE ALL CANNONS!",
-    "quests.tfg_tips.warfare.desc": "You can outfit your &bSloop&r with firepower via the &dCannon&r and cannon balls, in case you want to blow something to smithereens.\nTo fire a cannon, you'll need to load it with some &aGunpowder, Unrefined Paper&r and your &aCannon Ball&r. Then light the wick with &cFlint and Steel.&r",
+    "quests.tfg_tips.warfare.desc": "You can outfit your &bSloop&r with firepower via the &dCannon&r and cannon balls, in case you want to blow something to smithereens.\nTo fire a cannon, you'll need to load it with some &aGunpowder, Unrefined Paper&r and your &aCannon Ball&r. Then light the wick with &cFlint and Steel.&r\n\nDon't have a &bSloop&r? Don't worry! Cannons can be placed and fired on the ground the same way you would fire one on a &bSloop&r.",
 
     "quests.tfg_tips.kayak_materials.title": "The Kayak",
     "quests.tfg_tips.kayak_materials.subtitle": "Get yourself that Kayak.",
@@ -642,15 +702,20 @@
     "quests.tfg_tips.plow.subtitle": "Large Scale Farming",
     "quests.tfg_tips.plow.desc": "If there ever comes the need to till large sections of land for some megafarms, the &dPlow&r can come in clutch.",
 
-	"quests.tfg_tips.horseshoes.title": "Horseshoes",
-  	"quests.tfg_tips.horseshoes.subtitle": "Fashionable Equine Footwear",
-  	"quests.tfg_tips.horseshoes.desc": "&aHorseshoes&r are an accessory for your equine companions that boost their &9speed&r, &dfall resistance&r, and &cstep height&r at higher tiers.",
-  	"quests.tfg_tips.horseshoes.task": "Any Horseshoes",
-	
+    "quests.tfg_tips.horseshoes.title": "Horseshoes",
+    "quests.tfg_tips.horseshoes.subtitle": "Fashionable Equine Footwear",
+    "quests.tfg_tips.horseshoes.desc": "&aHorseshoes&r are an accessory for your equine companions that boost their &9speed&r, &dfall resistance&r, and &cstep height&r at higher tiers.",
+    "quests.tfg_tips.horseshoes.task": "Any Horseshoes",
+
+    "quests.tfg_tips.hiking_boots.title": "Hiking Boots",
+    "quests.tfg_tips.hiking_boots.subtitle": "🎵 and I would walk five hundred miles",
+    "quests.tfg_tips.hiking_boots.desc": "&aHiking Boots&r prevent tall grass from slowing you down, increase your safe fall height, and can even give you some extra step height and walking speed. They don't provide as much protection as proper metal armor, but if you're not actually fighting something, these are well worth the trade-off!",
+    "quests.tfg_tips.hiking_boots.task": "Any Hiking Boots",
+
     "__comment14": "#endregion",
 
     "__comment15": "#region Firmalife",
-	
+
     "quests.tfg_tips.firmalife.title": "Firmalife",
     "quests.tfg_tips.firmalife.subtitle": "Thrive in TerraFirmaCraft",
     "quests.tfg_tips.firmalife.desc": "&2Firmalife&r is a mod all about extending the agricultural and gastronomic experience in TerraFirmaCraft, with touches of miscellaneous features. Includes things such as decorations, more preservation methods, new foods, bees and a plethora of useful gadgets!",
@@ -673,7 +738,7 @@
 
     "quests.tfg_tips.not_the_bees.title": "Beekeeper Armor",
     "quests.tfg_tips.not_the_bees.subtitle": "NOT THE BEES!",
-    "quests.tfg_tips.not_the_bees.desc": "Bees don't like it when people disrupt them and harvest their precious honey and wax. There are three ways to do it safely:\n\n* &dHarvesting at night time&r\n* &dUsing a campfire&r\n* &dUsing Beekeeper Armor&r",
+    "quests.tfg_tips.not_the_bees.desc": "Bees don't like it when people disrupt them and harvest their precious honey and wax or move their frames around. There are three ways to do it safely:\n\n* &dHarvesting at night time&r\n* &dUsing a campfire&r\n* &dUsing Beekeeper Armor&r",
     "quests.tfg_tips.not_the_bees.task": "I'll use either the Campfire or wait for Nightfall.",
 
     "quests.tfg_tips.honey.title": "Honey",
@@ -811,11 +876,11 @@
     "quests.tfg_tips.cellar_blocks.title": "Cellar Storage",
     "quests.tfg_tips.cellar_blocks.subtitle": "Stuff to put your food in",
     "quests.tfg_tips.cellar_blocks.desc": "&bFood Shelves&r can be used to store virtually any kind of food. &bHangers&r can be used to store &aMeat&r and &aGarlic.&r Food stored in these receive a powerful preservation trait greater than that of &dVessels.&r",
-    
-	"__comment16": "#endregion",
+
+    "__comment16": "#endregion",
 
     "__comment17": "#region Beneath",
-	
+
     "quests.tfg_tips.beneath.title": "The Beneath",
     "quests.tfg_tips.beneath.subtitle": "Journey to the Center of the Earth",
     "quests.tfg_tips.beneath.desc": "Deep, DEEP underground, past the &dBedrock&r, you'll find &4The Beneath&r, a complex network of huge caves filled with dangers and strange flora and fauna. While &4The Beneath&r is completely optional, it contains a lot of resources as well as some quality of life improvements.",
@@ -906,6 +971,34 @@
     "quests.tfg_tips.tools_tips.harvest_basket.subtitle": "For competitive pie bakers.",
     "quests.tfg_tips.tools_tips.harvest_basket.task": "Any #tfg:harvester",
     "quests.tfg_tips.tools_tips.harvest_basket.desc": "&l&2Harvest Baskets&r&r are a new tool made just for &5TFG&r! These baskets can be used to harvest whole trees and bushes of fruit in one right-click! A regular &6Harvest Basket&r has a base durability of &n128&r. But an &3Aluminium Harvest Basket&r takes no damage on use.",
-    
-	"__comment18": "#endregion"
+
+    "quests.tfg_tips.transportation_tips.rnr_plow.title": "Paving Cart",
+    "quests.tfg_tips.transportation_tips.rnr_plow.subtitle": "The Romans would be proud.",
+    "quests.tfg_tips.transportation_tips.rnr_plow.desc": "Roads are wonderful! But sometimes you get a little tired of right-clicking. Instead of building roads for your horse, &3let your horse build roads for you&r!\nThe &dPaving Cart&r is a unique &cAstikor Cart&r developed for TFG. This cart allows you to automatically build &cRnR roads&r with assignable road width and even a randomizer mode.",
+
+    "quests.tfg_tips.tools_tips.mattocks.title": "Mattocks",
+    "quests.tfg_tips.tools_tips.mattocks.subtitle": "A shovel just wont do.",
+    "quests.tfg_tips.tools_tips.mattocks.task0": "Any Mattock",
+    "quests.tfg_tips.tools_tips.mattocks.task1": "Any Road Material",
+    "quests.tfg_tips.tools_tips.mattocks.desc": "&cMattocks&r are your key to developing roads in TFG. They can acquired through casting into a mold like any other TFC tool. To use a mattock change its mode (default-key: &3&lN&r&r) to \"full-block\". \nThen you can right-click on dirt or grass to tamp it down. You can then apply &6crushed base course&r and finally the material of your choice after.",
+
+    "quests.tfg_tips.tools_tips.base_course.title": "Base Course",
+    "quests.tfg_tips.tools_tips.base_course.subtitle": "The foundation of all good roads.",
+    "quests.tfg_tips.tools_tips.base_course.task": "Look at Base Course",
+
+    "quests.tfg_tips.tools_tips.gravel_roads.title": "Gravel Roads",
+    "quests.tfg_tips.tools_tips.gravel_roads.subtitle": "A bumpy ride awaits.",
+    "quests.tfg_tips.tools_tips.gravel_roads.task": "Any Gravel Road Material",
+    "quests.tfg_tips.tools_tips.gravel_roads.desc": "These materials—when applied to base course—form roads which give a &b&l10%%&r&r boost to walking speed.",
+
+    "quests.tfg_tips.tools_tips.brick_roads.title": "Brick Roads",
+    "quests.tfg_tips.tools_tips.brick_roads.subtitle": "Skateboarders beware.",
+    "quests.tfg_tips.tools_tips.brick_roads.task": "Any Brick Road Material",
+    "quests.tfg_tips.tools_tips.brick_roads.desc": "These materials—when applied to base course—form roads which give a &b&l20%%&r&r boost to walking speed.",
+
+    "quests.tfg_tips.tools_tips.concrete_roads.title": "Concrete Roads",
+    "quests.tfg_tips.tools_tips.concrete_roads.subtitle": "Almost worth all the effort.",
+    "quests.tfg_tips.tools_tips.concrete_roads.desc": "&6Wet concrete mix&r can be applied to base course to create roads which give a &b&l30%%&r&r bonus to movement speed. \n\n&4Be careful&r when creating concrete roads. There are a lot of rules to follow to make sure you don't end up with cracked or ruined surfaces. Consult the &3Field Guide&r for detailed instructions.",
+
+    "__comment18": "#endregion"
 }

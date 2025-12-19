@@ -33,5 +33,14 @@
     "biome.tfg.mars/rusticus_hills": "红锈荒野",
     "biome.tfg.mars/sangnum_edge": "赤血边缘",
     "biome.tfg.mars/sangnum_plains": "赤血草原",
-    "biome.tfg.mars/sangnum_hills": "赤血沼地"
+    "biome.tfg.mars/sangnum_hills": "赤血沼地",
+    "biome.tfg.venus/arachnoids": "金星蛛网状地貌",
+    "biome.tfg.venus/fractured_pools": "破裂池",
+    "biome.tfg.venus/fumaroles": "气态喷气孔",
+    "biome.tfg.venus/geysers": "滚烫间歇泉",
+    "biome.tfg.venus/jagged_tablelands": "锯齿状台地",
+    "biome.tfg.venus/salt_flats": "盐滩",
+    "biome.tfg.venus/stromatolite_beach": "叠层石滩",
+    "biome.tfg.venus/sulfuric_ravine": "硫酸峡谷",
+    "biome.tfg.venus/volcanic_mountains": "灼热火山"
 }

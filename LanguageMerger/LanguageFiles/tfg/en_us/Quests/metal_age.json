@@ -92,7 +92,7 @@
 
     "quests.metal_age.fire_bricks.title": "Fire Bricks",
     "quests.metal_age.fire_bricks.subtitle": "For the Blast Furnace",
-    "quests.metal_age.fire_bricks.desc": "Fire Bricks are used in the construction of the Blast Furnace, you need at the very least 4 Bricks to make the furnace.\n\nThe Bricks will require insulation to make sure the process of making steel is effective, you can either place 3 Wrought Iron Sheets around the Fire Bricks, or use Blast Furnace Insulation",
+    "quests.metal_age.fire_bricks.desc": "Fire Bricks are used in the construction of the Blast Furnace, you need at the very least 4 Bricks to make the furnace.\n\nThe Bricks will require insulation to make sure the process of making steel is effective, you can either place 3 Wrought Iron Plates around the Fire Bricks, or use Blast Furnace Insulation",
 
     "quests.metal_age.fully_stacked_blast_furnace.title": "Fully Stacked Blast Furnace",
     "quests.metal_age.fully_stacked_blast_furnace.subtitle": "The completed Blast Furnace",
@@ -112,7 +112,7 @@
 
     "quests.metal_age.steel_goodies.title": "Steel level Mechanical Power",
     "quests.metal_age.steel_goodies.subtitle": "Blow, Crush, and Pipe",
-    "quests.metal_age.steel_goodies.desc": "Steel unlocks a new Greate tier, with increased maximum stress capacity! You can now also make things like the Encased Fan, which can automate ore washing, and the Mechanical Pump, which gives you much more access to fluid logistics.\n\nThe Mechanical Pump is especially useful, as with some smarts, you can easily automate the Blast Furnace.",
+    "quests.metal_age.steel_goodies.desc": "Steel unlocks a new Greate tier, with increased maximum stress capacity! You can now also make things like the Encased Fan, which can automate ore washing, and the Mechanical Pump, which gives you much more access to fluid logistics.\n\nThe Mechanical Pump is especially useful, as with some smarts, you can easily automate the Blast Furnace.\n\nTo power these, you also gain access to the Steam Engine, allowing you to convert fuel and water into huge amounts of mechanical power!",
 
     "quests.metal_age.weak_steel.title": "Weak Steel Ingredients",
     "quests.metal_age.weak_steel.subtitle": "Hope you like math",
@@ -123,15 +123,15 @@
 
     "quests.metal_age.highcarb_black_steel.title": "Black Steel Ingredients",
     "quests.metal_age.highcarb_black_steel.subtitle": "Conservation of matter does not apply",
-    "quests.metal_age.highcarb_black_steel.desc": "The final two anvils are made out of complex alloys that will require a lot of metal to be created. Weak Steel and Pig Iron can be welded to create High Carbon Black Steel, which can then be worked on an anvil into Black Steel.",
+    "quests.metal_age.highcarb_black_steel.desc": "The final two anvils are made out of complex alloys that will require a lot of metal to be created. Weak Steel and Pig Iron can be welded to create High Carbon Black Steel, which can then be worked on an anvil into Black Steel.\n\nOnce you get a Steam Alloy Smelter, use that instead to &6double your output&r.",
 
     "quests.metal_age.black_steel_anvil.title": "T5 Anvil: Black Steel",
     "quests.metal_age.black_steel_anvil.subtitle": "Steam power is within your grasp",
-    "quests.metal_age.black_steel_anvil.desc": "With the Black Steel Anvil you'll now be able to work Black Steel Ingots into different items.\n\nYou've also now opened up a massive new section in the Early Automation chapter related to Steam Power!\n\nFrom here, you can either dive straight into industrialization or finish up the last tier of anvils if you'd like. You can't avoid colored steel forever, though!",
+    "quests.metal_age.black_steel_anvil.desc": "With the Black Steel Anvil you'll now be able to work Black Steel Ingots into different items.\n\nYou've also now opened up a massive new section in the Early Automation chapter related to high pressure Steam Power!\n\nFrom here, you can either dive straight into industrialization or finish up the last tier of anvils if you'd like. You can't avoid colored steel forever, though!",
 
     "quests.metal_age.black_steel_goodies.title": "Black Steel level Mechanical Power",
     "quests.metal_age.black_steel_goodies.subtitle": "The Industrial Revolution and its consequences",
-    "quests.metal_age.black_steel_goodies.desc": "With Black Steel comes Steam Power! Start with small steam boilers and work your way up to a powerful steam engine, fuelling new machines to craft your first electronics.",
+    "quests.metal_age.black_steel_goodies.desc": "With Black Steel comes high pressure Steam Power! Stronger steel allows for more potent and compact steam boilers, fuelling new machines to craft your first electronics.",
 
     "quests.metal_age.red_blu.title": "Red and Blue Steel",
     "quests.metal_age.red_blu.subtitle": "Some of the oldest modded Minecraft fantasy steels",
@@ -154,12 +154,12 @@
     "quests.metal_age.weak_blue_steel.bismuth_bronze": "1 Part Bismuth Bronze",
 
     "quests.metal_age.highcarb_red_steel.title": "Red Steel Ingredients",
-    "quests.metal_age.highcarb_red_steel.subtitle": "Could deleting matter like this power a nuclear bomb?",
-    "quests.metal_age.highcarb_red_steel.desc": "Red Steel first starts as High Carbon Red Steel, which is made by welding Weak Red Steel and Black Steel. It needs to be worked on the Anvil to turn it into Red Steel",
+    "quests.metal_age.highcarb_red_steel.subtitle": "Minecraft is not a physics simulator",
+    "quests.metal_age.highcarb_red_steel.desc": "Red Steel first starts as High Carbon Red Steel, which is made by welding Weak Red Steel and Black Steel. It needs to be worked on the Anvil to turn it into Red Steel.\n\nIf you have a Steam Alloy Smelter, use that instead to &6double your output&r.",
 
     "quests.metal_age.highcarb_blu_steel.title": "Blue Steel Ingredients",
     "quests.metal_age.highcarb_blu_steel.subtitle": "Lavoisier is rolling in his grave",
-    "quests.metal_age.highcarb_blu_steel.desc": "Blue Steel first starts as High Carbon Blue Steel, which is made by welding Weak Blue Steel and Black Steel. It needs to be worked on the Anvil to turn it into Blue Steel",
+    "quests.metal_age.highcarb_blu_steel.desc": "Blue Steel first starts as High Carbon Blue Steel, which is made by welding Weak Blue Steel and Black Steel. It needs to be worked on the Anvil to turn it into Blue Steel.\n\nIf you have a Steam Alloy Smelter, use that instead to &6double your output&r.",
 
     "quests.metal_age.redblu_anvil.title": "T6 Anvil: Red or Blue Steel",
     "quests.metal_age.redblu_anvil.subtitle": "It's over",
@@ -167,7 +167,7 @@
 
     "quests.metal_age.red_steel_flask.title": "Red Steel Flask",
     "quests.metal_age.red_steel_flask.subtitle": "This got nothing on the Iron Flask",
-    "quests.metal_age.red_steel_flask.desc": "The Red Steel Flask is the best Flask available. It may hold the same amount of liquid as an Iron Flask, but the Red Steel Flask never breaks.",
+    "quests.metal_age.red_steel_flask.desc": "The Red Steel Flask is the best Flask available. It may hold the same amount of liquid as an Iron Flask, but the Red Steel Flask never breaks.\n\nFor the Silk, Phantoms can be found all over the Beneath, but are more common in the bottom layer.",
 
     "quests.metal_age.redblu_buckets.title": "Bucket Components",
     "quests.metal_age.redblu_buckets.subtitle": "Bucket Fusion Reactor",
@@ -175,5 +175,10 @@
 
     "quests.metal_age.this_is_a_bucket.title": "This... is a Bucket.",
     "quests.metal_age.this_is_a_bucket.subtitle": "Dear God...",
-    "quests.metal_age.this_is_a_bucket.desc": "Congratulations on crafting the Bucket. The Metallurgy Age is officially over.\n\nGo and start working on those Low Voltage components!"
+    "quests.metal_age.this_is_a_bucket.desc": "Congratulations on crafting the Bucket. The Metallurgy Age is officially over.\n\nGo and start working on those Low Voltage components!",
+
+    "quests.metal_age.temperature_protection.title": "Colored Steel Equipment",
+    "quests.metal_age.temperature_protection.subtitle": "Permanent Temperature Protection",
+    "quests.metal_age.temperature_protection.desc": "Tired of holding tongs? The excellent thermal protection properties of colored steel carries over to their equipment!\n\n&9Blue Steel&r equipment can protect against extreme heat, such as holding hot ingots or stepping on pipes full of steam, while &cRed Steel&r equipment does the same but for the cold. Chestplate items protects your inventory, while boot items protect against pipes.\n\nCheck the &6#hot_protection_equipment&r and &b#cold_protection_equipment&r tags for a full list!",
+    "quests.metal_age.temperature_protection.task": "Any red or blue steel equipment"
 }

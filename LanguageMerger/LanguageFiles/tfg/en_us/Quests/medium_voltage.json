@@ -12,12 +12,12 @@
     "quests.medium_voltage.mv_miner.title": "Automatic Mining",
     "quests.medium_voltage.mv_miner.subtitle": "So are you bored of mining yourself?",
     "quests.medium_voltage.mv_miner.desc.1": "This kind soul&r will mine ores for you when placed above a vein.\n\nVertical range is unlimited below the miner. Horizontal range is displayed in the tooltip.\n\nThe &bMV&r variant may not have the range to mine a full vein, but the &6HV&r variant does, so you may wish hold off for now. Get &eeither&r to complete this Quest.",
-    "quests.medium_voltage.mv_miner.desc.2": "You will need &9Power&r. &aCharged Batteries&r may work, but they tend to run out of power, which is a bit inconvenient.\n\nOur top suggestion is to use a filled &3Drum&r of some kind of fuel &7(if you're using Steam, no dice!)&r and a &3Generator&r.\n\nPlace the Drum above your Generator and right-click it with a &5Screwdriver&r to auto-output into the Generator.",
-    "quests.medium_voltage.mv_miner.desc.3": "&cNote:&r Do not forget to &dchunkload&r all 9 chunks of the ore vein &7(open the map, claim the chunks with ctrl left-click, and enable force loading after claiming them)&r.\n\n&9Tip:&r You can either use an &3ME Chest&r or a &3GT Create&r as the output inventory to make transporting the ores back home a simple task. The &3ME Chest&r can be powered with EU directly but that won't be before some time.",
+    "quests.medium_voltage.mv_miner.desc.2": "You will need &9Power&r. &aCharged Batteries&r may work, but they tend to run out of power, which is a bit inconvenient.\n\nOur top suggestion is to use a filled &3Drum&r of some kind of fuel &7(if you're using Steam, no dice!)&r and a &3Generator&r.\n\nPlace the Drum above your Generator and right-click it with a &5Soft Mallet&r or &5Screwdriver&r to auto-output into the Generator.",
+    "quests.medium_voltage.mv_miner.desc.3": "&cNote:&r Do not forget to &dchunkload&r all 9 chunks of the ore vein &7(open the map, claim the chunks with ctrl left-click, and enable force loading after claiming them)&r.\n\n&9Tip:&r You can either use an &3ME Chest&r, a &3Backpack&r, or a &3GT Crate&r as the output inventory to make transporting the ores back home a simple task. The &3ME Chest&r can be powered with EU directly, by the way.",
     "quests.medium_voltage.mv_miner.task": "Any miner",
 
     "quests.medium_voltage.mv_component.title": "The MV Components",
-    "quests.medium_voltage.mv_component_.subtitle": "Hated crafting these in previous tier?",
+    "quests.medium_voltage.mv_component_.subtitle": "Hated crafting these in the previous tier?",
     "quests.medium_voltage.mv_component.desc": "Here's a list of the components you will need in &bMV&r. To alleviate the pain, be sure to autocraft or &dbulk-craft&r these parts, especially &aMotors&r.\n\nFamiliar with the &aEmitter&r? This tier's Emitter requires a &dFlawless Emerald&r in its recipe, which'll be only attainable with the &3Sifting Machine&r for now.\n\nConveyors, Pumps and Robot Arms are objective upgrades to &7LV&r versions if you use them as covers.",
 
     "quests.medium_voltage.electrolyzer.title": "MV Electrolyzer",
@@ -27,7 +27,7 @@
 
     "quests.medium_voltage.mv_extruder.title": "Advanced Extruder",
     "quests.medium_voltage.mv_extruder.subtitle": "The biggest upgrade you'll make",
-    "quests.medium_voltage.mv_extruder.desc": "We &lSINCERELY&r hope at &cno&r point you made the &7LV&r Extruder, because only the &bMV&r Extruder is actually useful. If you did, immediately &arecycle it&r through the Arc Furnace.\n\nThe Extruder shapes solid materials into (almost!) any form using &aIngots&r. This is a great way to reduce the amount of microcrafting, as well as keeping a high conversion ratio.\n\nThe Extruder can make &6Bolts&r, &6&6Small Gears&r, &6Gears&r, and &6&6Rings&r at the highest efficiency in a single step!\n\nYou may also like to use it for &dPipes&r, &dLong Rods&r, and &dRotors&r.",
+    "quests.medium_voltage.mv_extruder.desc": "We &lSINCERELY&r hope at &cno&r point you made the &7LV&r Extruder, because only the &bMV&r Extruder is actually useful. If you did, immediately &arecycle it&r through the Arc Furnace.\n\nThe Extruder shapes solid materials into (almost!) any form using &aIngots&r. This is a great way to reduce the amount of microcrafting, as well as keeping a high conversion ratio.\n\nThe Extruder can make &6Bolts&r, &6&6Small Gears&r, &6Gears&r, and &6&6Rings&r at the highest efficiency in a single step!\n\nYou may also like to use it for &dPipes&r, &dScrews&r, and &dRotors&r.",
 
     "quests.medium_voltage.mv_chemical_reactor.title": "Advanced Chemical Reactor",
     "quests.medium_voltage.mv_chemical_reactor.subtitle": "Stronger, better, faster",
@@ -57,7 +57,7 @@
 
     "quests.medium_voltage.mv_steel_alloy.title": "Steel Alloys",
     "quests.medium_voltage.mv_steel_alloy.subtitle": "Steel Your Heart",
-    "quests.medium_voltage.mv_steel_alloy.desc": "Vanadiumsteel is required in small quantities in progression. It's &6nearly four times as durable&r as Steel if used in GregTech tools. The Vanadium comes from &aVanadium Magnetite&r, which you may have encountered in Magnetite veins.\n\nOther Steel alloys include Blue Steel, Red Steel, and Black Steel!\n\nTake some Blue Steel free of charge - it's twice as durable as Steel.",
+    "quests.medium_voltage.mv_steel_alloy.desc": "Vanadium steel is required in small quantities in progression. It's &6nearly four times as durable&r as Steel if used in GregTech tools. The Vanadium comes from &aVanadium Magnetite&r, which you may have encountered in Magnetite veins.",
 
     "__comment2": "Plastic Line",
 
@@ -73,7 +73,7 @@
     "quests.medium_voltage.mv_fluid_rig.desc.1": "It's quite the investment to own a &3Fluid Drilling Rig&r, but it is &oby far&r the most prominent &6source of Oil&r.\n\nIt pumps fluids from underneath Bedrock itself. Note that the fluids aren't actually there, instead being simulated.\n\nFluid veins are stored within &cchunk-sized regions&r. Each vein has a different fluid, but they are mostly types of Oil.\n\nYou can't carry out prospecting for fluid veins &oyet&r - this will come at &6HV&r.",
     "quests.medium_voltage.mv_fluid_rig.desc.2": "Each vein generates with a different base yield. This is typically between &d150L&r to &d300L per second&r.\n\nWhen drained, fluid veins will slowly deplete. This will cause the fluid yield to decrease over time until it reaches its depletion yield. At that point, you should move the Rig to a different vein.\n\nA &3Basic Fluid Drilling Rig&r will last for 100,000 operations (with 1 second per operation) until depletion. This is enough for &6well over 10,000&r buckets of Oil. Higher tier Rigs will massively increase the yield, while also decreasing the depletion rate.",
     "quests.medium_voltage.mv_fluid_rig.desc.3": "&lWhat you can find in the &2Overworld&r&l:&r\n\n&9Oil:&r richer in &aLight Fuel&r, the most appreciated variant.\n&9Light Oil:&r richer in &aRefinery Gas&r, usable for power.\n&9Heavy Oil:&r richer in &aHeavy Fuel&r, which has uses that are more niche but notably Toluene.\n&9Raw Oil:&r richer in &aNaphtha&r, the best source of the early-game oil products.\n&9Natural Gas:&r grants &aRefinery Gas&r with no distillation required.\n&9Sea Water:&r grants &aSodium&r and &aChlorine&r, useful later.",
-    "quests.medium_voltage.mv_fluid_rig.desc.4": "&lWhat you can find in the &cNether&r&l:&r\n\n&9Natural Gas:&r grants &aRefinery Gas&r but with higher yield than the Overworld vein.\n&9Lava:&r hopefully, you know what this is.\n\nWhen starting out, you may have to tap randomly until you find something you like. Remember that whatever you pump could also be used to refuel your Fluid Rig.",
+    "quests.medium_voltage.mv_fluid_rig.desc.4": "&lWhat you can find in the &cBeneath&r&l:&r\n\n&9Natural Gas:&r grants &aRefinery Gas&r but with higher yield than the Overworld vein.\n&9Lava:&r hopefully, you know what this is.\n\nWhen starting out, you may have to tap randomly until you find something you like. Remember that whatever you pump could also be used to refuel your Fluid Rig.",
 
     "quests.medium_voltage.mv_oilsands.title": "America Simulator",
     "quests.medium_voltage.mv_oilsands.subtitle": "This quest was sponsored by the US Military",
@@ -103,12 +103,17 @@
     "quests.medium_voltage.mv_distillery.task": "Either an LV or MV Distillery",
 
     "quests.medium_voltage.mv_benzene.title": "The Church of Benzene",
-    "quests.medium_voltage.mv_benzene.subtitle": "In the end, it's always Benzene",
+    "quests.medium_voltage.mv_benzene.subtitle": "In the end, it &lwas&r always Benzene",
     "quests.medium_voltage.mv_benzene.desc.1": "&aBenzene&r is a &9Gas Fuel&r. To skip some frustration, let's check out the two best ways to obtain it.\n\nThe first option is typically &dWood based&r. Put Logs in the &3Pyrolyse Oven&r for &9Wood Tar&r. The Charcoal you obtain can then be processed in &3Extractors&r for even more &9Wood Tar&r, which you &3distill&r for &aBenzene&r.\n\nYour second option is &dHeavy Oil based&r. Put Heavy Oil in a &3Distillery&r for &9Heavy Fuel&r, which you &aseverely steam-crack&r and &3distill&r again for &aBenzene&r.",
-    "quests.medium_voltage.mv_benzene.desc.2": "For information on how to process Oil, check the Light Fuel and Naphtha Quests.\n\nIn general, it is better to prioritize placing down more machines (&dparallelisation&r) over overclocking the recipes. That way, you end up losing less energy processing the resources.\n\n&aBenzene&r is burned in a &3Gas Turbine&r. This power source starts weaker than its &eDiesel&r cousin, but gets a big boost when refined to &6Nitrobenzene&r in &6HV&r. Ultimately, your power source is your choice.",
+    "quests.medium_voltage.mv_benzene.desc.2": "For information on how to process Oil, check the Light Fuel and Naphtha Quests.\n\nIn general, it is better to prioritize placing down more machines (&dparallelisation&r) over overclocking the recipes. That way, you end up losing less energy processing the resources.\n\n&aBenzene&r is burned in a &3Gas Turbine&r at a pretty terrible rate. This power source starts weaker than its &eDiesel&r cousin, but can be enhanced by being refined into &6Reformate Gas&r. Ultimately, your power source is your choice.",
+    "quests.medium_voltage.mv_benzene.desc.3": "&l&3Lore:&r&o Benzene has been one of the most powerful gas fuels since GTCEu - so good that it became a meme. Nowadays, its days are numbered everywhere.",
+
+    "quests.medium_voltage.reformate_gas.title": "The Reformate Church",
+    "quests.medium_voltage.reformate_gas.subtitle": "When one giant falls, a new one arises",
+    "quests.medium_voltage.reformate_gas.desc": "The &8Reformate Gas&r is your new go-to gas fuel at &bMV&r if that's the path you want to take. For perfect efficiency, you only need &61 Liquefaction Tower&r and &62 Pyrolyze Ovens&r, and you can start producing this precious gas non-stop.\n\nOh wait, first you need to find &5Rhenium&r, a new material only found within the hot and dry region of &7TerraFirmaCraft&r. The amounts consumed are so low that one vein should last you to the end of the modpack, or at the very least to &6HV&r, where - with the help of the &6Cracker&r - this gas can become truly infinite.",
 
     "quests.medium_voltage.mv_light_fuel.title": "Light Fuel",
-    "quests.medium_voltage.mv_light_fuel.subtitle": "Turn up the Lights in here, baby",
+    "quests.medium_voltage.mv_light_fuel.subtitle": "Turn up the lights in here, baby",
     "quests.medium_voltage.mv_light_fuel.desc": "Distillating &aOil&r will give you Fuel that you will need to desulfurize.\n\n&aHydrogen Sulfide&r is perfectly &drecycled&r in an &3Electrolyzer&r.\n\nTo automate this process, simply place your &3Chemical Reactor&r and your &3Electrolyzer&r next to each other. Be sure to use your &5Screwdriver&r to &4enable input from the output side&r.\n\n&aLight Fuel&r is a good &9Power&r option, but there's something even greater... check the Quest to the left.",
 
     "quests.medium_voltage.mv_diesel.title": "The Church of Diesel",
@@ -116,6 +121,11 @@
     "quests.medium_voltage.mv_diesel.desc.1": "&aDiesel&r is a &dOil-based &9Combustion Fuel&r.\n\nTo mix &aLight Fuel&r and &aHeavy Fuel&r, the right ratio for &3Distilleries&r is &63:2&r from &dOil&r or &dRaw Oil&r.\n\nThis would necessitate 3 Distilleries for Light Fuel, or 2 Distilleries for Heavy Fuel.",
     "quests.medium_voltage.mv_diesel.desc.2": "You can cut the amount of &dOil&r required &6drastically&r by using &dHeavy Oil&r for &aHeavy Fuel&r specifically. &dOilsands&r is a great option if you wish to go down this route!\n\n&o(For the math nerds, you go from 8.33 Oil -> 6 Diesel, to 5 Oil + 0.4 Heavy Oil -> 6 Diesel)&r\n\n&eNote:&r Do &cnot attempt&r to put Oil in the &3Distillation Tower&r You might think it's a good idea because it gives both Light Fuel and Heavy Fuel. However, this process requires a lot of overclocking to be worth your time, and you will lose more energy than what the byproducts are worth.",
     "quests.medium_voltage.mv_diesel.desc.3": "In general, it is better to prioritize placing down more machines (&dparallelisation&r) over overclocking the recipes. That way, you end up losing less energy processing the resources.\n\n&aDiesel&r is burned in a &3Combustion Generator&r. It can be further refined to &6Cetane-Boosted Diesel&r in &6HV&r. Compared to the other power sources, it is generally more efficient, but a more demanding processing line. If you take the &eOil&r route for &aPolyethylene&r, this can work great with existing infrastructure. Ultimately, the power source you want to use is your choice.",
+
+    "quests.medium_voltage.coal_tower.title": "Liquefaction Tower",
+    "quests.medium_voltage.coal_tower.subtitle": "Who doesn't love new Multiblocks",
+    "quests.medium_voltage.coal_tower.desc.1": "The &bLiquefaction Tower&r is a new &bmultiblock&r used in the process of making &aReformate Gas&r and its byproducts, &7Coal Tar&r and &7Syngas&r. Depending on the &9Coil&r you use, you will get a discount on the &7recipe duration&r of every recipe. Simply use shift-click while hovering on a coil to know its bonuses.\n\nNotice that the &9Liquefaction Tower&r can be boosted by using &8Hydrogen&r, reducing the duration and therefore the cost. Don't forget to set the right &6circuit&r so it works.\n\nBy the way, if you don't know, a second is 20 ticks. So the amount it consumes per tick has to be multiplied by 20 to know how much it consumes per second.",
+    "quests.medium_voltage.coal_tower.desc.2": "&l&3Lore:&r&o The same person who made the Fission Reactor also made the first design of the Liquefaction Tower, isn't it crazy.",
 
     "quests.medium_voltage.mv_jetpack.title": "I Believe I Can Fly",
     "quests.medium_voltage.mv_jetpack.subtitle": "...well, almost Fly",
@@ -155,7 +165,7 @@
     "quests.medium_voltage.mv_aciditic.title": "It will Melt Your Flesh",
     "quests.medium_voltage.mv_aciditic.subtitle": "...if you don't read this quest.",
     "quests.medium_voltage.mv_aciditic.desc.1": "You may notice that some fluids say they are &aAcidic&r, with &9Sulfuric Acid&r being one of them.\n\nThis means that many fluid pipes will not be able to transport them safely!\n\nAt &bMV&r, the cheapest pipes for acid transportation are probably &aGold&r, with the more expensive &aVanadium Steel&r or &aChrome&r pipes taking second and third place.\n\n&aStainless Steel&r or &aPolytetrafluoroethylene&r (try saying that fast) will be valid options once you are in &6HV&r.",
-    "quests.medium_voltage.mv_aciditic.desc.2": "You have three options for acid storage at around this point: &dGlass Vials&r, &dGold Drums&r, or &dSuper Tanks&r. Glass Vials are like &9Fluid Cells&r, and are made to store acids. Gold Drums are self-explanatory. Super Tanks will be unlocked after &9Polyethylene&r, and can store any fluid without restriction.\n\n&cWARNING:&r Acids in the wrong pipes will cause &cvoiding&r, &cpipe burning&r, and high chance of &cdeath&r! Be careful!\n\n&l&3Lore:&r&o The acid transportation and storage mechanics originate from GregTech 6.",
+    "quests.medium_voltage.mv_aciditic.desc.2": "You have three practical options for acid storage at around this point: &dGlass Vials&r, &dGold Drums&r, or &dSuper Tanks&r. Glass Vials are like &9Fluid Cells&r, and are made to store acids. Gold Drums are self-explanatory. Super Tanks can store any fluid without restriction, but are the most expensive.\n\n&cWARNING:&r Acids in the wrong pipes will cause &cvoiding&r, &cpipe burning&r, and high chance of &cdeath&r! Be careful!\n\n&l&3Lore:&r&o The acid transportation and storage mechanics originate from GregTech 6.",
     "quests.medium_voltage.mv_aciditic.task": "I'm an acid professional, don't worry",
 
     "quests.medium_voltage.mv_hydrochloric.title": "Hydrochloric Acid",
@@ -182,10 +192,6 @@
     "quests.medium_voltage.mv_polyethylene.title": "Polyethylene",
     "quests.medium_voltage.mv_polyethylene.subtitle": "Baby's first polymer!",
     "quests.medium_voltage.mv_polyethylene.desc": "If you want to be less fancy, just call it plastic.\n\nFor the polymerization process, add &aOxygen&r, which gives better returns than Air, then solidify like you would with Rubber.\n\n&aPolyethylene (PE)&r is the key to unlocking &6many new things&r. It's commonly used as &dSheets&r, or in &dFluid&r form.\n\n&l&3Lore:&r&o The OreDict and fluid name for Polyethylene in 1.12.2 GTCEu was &bplastic&f, for cross-mod compatibility.",
-
-    "quests.medium_voltage.mv_tank.title": "Super Tank",
-    "quests.medium_voltage.mv_tank.subtitle": "Super Tanks are OP!",
-    "quests.medium_voltage.mv_tank.desc": "No, but seriously.\n\nThis is the &cu&6l&et&ai&bm&9a&5t&4e&r portable Fluid storage solution. &64,000 buckets of storage&r - in one single block without any regards to temperature or acidity!\n\nLike Drums, Super Tanks &6keep their fluids when broken&r, and can be cleared in the crafting grid.\n\nIf you hunger for &9even more&r storage, take a look at higher tier Super Tanks or AE2 Fluid Storage Cells.",
 
     "__comment3": "Circuits",
 
@@ -281,8 +287,8 @@
 
     "quests.medium_voltage.mv_cutter.title": "Advanced Cutter",
     "quests.medium_voltage.mv_cutter.subtitle": "Upgrades, people, upgrades!",
-    "quests.medium_voltage.mv_cutter.desc": "The &3MV Cutter&r is required to cut &7Silicon Boules&r to prepare them for &aLaser Engraving&r.\n\nWe recommend you supply this machine with a steady stream of &dLubricant&r to cut down on the processing time.\n\nLubricant can be &3brewed&r from &eOil&r and &aTalc&r, &2Soapstone&r or &cRedstone&r.\n\n&7Note : You could use the &6Greate&r &7version, it has now a tank to fill with it fluid&r&r",
-    "quests.medium_voltage.mv_cutter.task": "Any Brewery",
+    "quests.medium_voltage.mv_cutter.desc": "The &3MV Cutter&r is required to cut &7Silicon Boules&r to prepare them for &aLaser Engraving&r.\n\nWe recommend you supply this machine with a steady stream of &dLubricant&r to cut down on the processing time.\n\nLubricant can be &3brewed&r from &eOil&r and &aTalc&r, &2Soapstone&r or &cRedstone&r.\n\n&7Note: You could use the &6Greate&r &7version, it has a tank to fill with fluid&r",
+    "quests.medium_voltage.mv_cutter.task": "Any Cutter",
 
     "quests.medium_voltage.mv_laser_engraver.title": "Laser Engraving",
     "quests.medium_voltage.mv_laser_engraver.subtitle": "This is peak technology, this is slow also",
@@ -293,13 +299,13 @@
     "quests.medium_voltage.mv_silicon_boule.desc": "&9Silicon Boules&r are made in the &3EBF&r with half a stack of &aSilicon Dust&r and a pinch of &aGallium Arsenide&r. Their primary purpose is engraving &6Circuit Wafers&r.\n\nAfter making the Boule, process it in the &3Cutter&r to get 16 Silicon Wafers ready for engraving.\n\n&cWarning:&r Each Silicon Boule takes &47.5 minutes&r to make at 120 EU/t, or 1,080,000 EU! If the EBF loses power midway, the recipe will start to &close progress&r.\n\nWith that being said, Silicon Boules take an absolute age to craft, so consider parallelizing the recipe in multiple &3EBF&rs and stockpiling them.",
 
     "quests.medium_voltage.mv_silicon.title": "Silicon Dust",
-    "quests.medium_voltage.mv_silicon.subtitle": "",
+    "quests.medium_voltage.mv_silicon.subtitle": "Sillycon",
     "quests.medium_voltage.mv_silicon.desc.1": "You’ll need to get used to it: in &dGregTech&r, there are always &amultiple ways&r to reach what you want—a philosophy we made sure to preserve in &aTerrafirmaGreg&r.\n\nTo obtain &5Silicon&r, we’ll suggest &ctwo main methods&r so you have clear directions. As always, it’s up to you to figure out what’s &abest for your situation&r.",
     "quests.medium_voltage.mv_silicon.desc.2": "First method: &amining silicon-rich ores&r. Look for &9Mica&r or &9Kyanite&r veins—they also contain &dAluminium&r. Alternatively, you can &aElectrolyze Zeolite Dust&r, found in &9Chalcopyrite&r and &dRealgar&r veins.\n\nSecond method: &eAdvanced but powerful&r. Although more expensive to set up and slower early on, it becomes the &ebest method&r at &6HV&r and beyond. Plus, it generates &9Oxygen&r as a bonus! The idea is simple: &aElectrolyze Silicon Dioxide Dust&r into &9Oxygen&r and &5Silicon&r. You can get &aSilicon Dioxide Dust&r by &9centrifuging Flint Dust&r, which itself comes from &9Flint&r collected by &asifting Gravel&r.\n\nThis setup can become &afully passive&r easily. Try using the &aEMI Recipe Tree&r tool (bottom left of your screen) to plan your builds—it really helps!",
 
     "quests.medium_voltage.mv_ulpic.title": "ULPIC Chips",
     "quests.medium_voltage.mv_ulpic.subtitle": "Pickin' up Chips",
-    "quests.medium_voltage.mv_ulpic.desc": "Using a Sapphire Lens, engrave a Silicon Wafer into an ULPIC Wafer.\n\nThis can be processed in a Cutter for ULPIC Chips, which are important for some multiblock components!\n\nMore specificaly ",
+    "quests.medium_voltage.mv_ulpic.desc": "Using a Sapphire Lens, engrave a Silicon Wafer into an ULPIC Wafer.\n\nThis can be processed in a Cutter for ULPIC Chips, which are important for some multiblock components!\n\nMore specificaly the MV Energy Hatch that you will need to bring your EBF to HV energy tier.",
 
     "quests.medium_voltage.mv_ic.title": "IC Chips",
     "quests.medium_voltage.mv_ic.subtitle": "I C U",
@@ -315,5 +321,9 @@
 
     "quests.medium_voltage.lsb.title": "Getting very steamy",
     "quests.medium_voltage.lsb.subtitle": "If you have unlimited fuel, it can still be good",
-    "quests.medium_voltage.lsb.desc": "If you're &lstill&r running off the &3Large Bronze Boiler&r, you may want to upgrade to the &3Large Steel Boiler&r.\n\nIt's slightly more efficient than the &3LBB&r, and produces &d1800 EU/t worth of Steam&r.\n\nWe'd recommend you try other power options at this point."
+    "quests.medium_voltage.lsb.desc": "If you're &lstill&r running off the &3Large Bronze Boiler&r, you may want to upgrade to the &3Large Steel Boiler&r.\n\nIt's slightly more efficient than the &3LBB&r, and produces &d1800 mB/t of Steam&r.\n\nWe'd recommend you try other power options at this point.",
+
+    "quests.medium_voltage.stainless_greate.title": "Stainless Steel-tier Greate",
+    "quests.medium_voltage.stainless_greate.subtitle": "High Stress",
+    "quests.medium_voltage.stainless_greate.desc": "This quest is just here to let you know that Greate has another upgrade at this point.\n\nYou may find the next tier of Crushing Wheels useful, as they can give the full amount of byproducts, just like the HV Macerator, but also process multiple items at the same time!"
 }

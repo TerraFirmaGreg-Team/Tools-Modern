@@ -4,7 +4,7 @@
 
 	"quests.space_survival.preparations.title": "Pre-Launch Preparations",
 	"quests.space_survival.preparations.subtitle": "Make sure you're ready!",
-	"quests.space_survival.preparations.desc": "Eager to launch into the final frontier? We totally get the enthusiasm but you can't just hurl yourself into space and hope to survive! ^9Preparation&r is key to survival, or you'll just end up back in the Stone Age banging rocks together for a few seconds before suffocating to death.\n\nMake sure you have at least the following:\n- A Space Suit and a full drum of breathable gas\n- A Rocket with another full drum of spare Fuel\n- A Launch Pad so you can return\n- Plenty of food and water\n- A weapon and shield in case the Moon's haunted...",
+	"quests.space_survival.preparations.desc": "Eager to launch into the final frontier? We totally get the enthusiasm but you can't just hurl yourself into space and hope to survive! &9Preparation&r is key to survival, or you'll just end up back in the Stone Age banging rocks together for a few seconds before suffocating to death.\n\nMake sure you have at least the following:\n- A Space Suit and a full drum of breathable gas\n- A Rocket with another full drum of spare Fuel\n- A Launch Pad so you can return\n- Plenty of food and water\n- A weapon and shield in case the Moon's haunted...",
 
 	"quests.space_survival.food.title": "Space Food",
 	"quests.space_survival.food.subtitle": "Long lasting food for long journeys",
@@ -26,21 +26,22 @@
 
 	"quests.space_survival.rover.title": "Space Rover",
 	"quests.space_survival.rover.subtitle": "Your getaway vehicle",
-	"quests.space_survival.rover.desc": "You had to leave your fancy jetpack at home, there's no atmosphere for airplanes, and horses can't survive, so how are you supposed to get around? The &bRover&r is a vehicle that can hold up to two passengers, runs on combustible fuels (Diesels, Gasolines, and Rocket Fuel), and even has an inventory and radio that can play real-world radio stations!",
+	"quests.space_survival.rover.desc": "You had to leave your fancy jetpack at home, there's no atmosphere for airplanes, and horses can't survive, so how are you supposed to get around?\n\nThe &bRover&r is a vehicle that can hold up to two passengers, runs on combustible fuels (Diesels, Gasolines, and Rocket Fuel), and even has an inventory and radio that can play real-world radio stations!",
 
 	"quests.space_survival.solar_panels.title": "Solar Panels",
 	"quests.space_survival.solar_panels.subtitle": "Praise the Sun!",
 	"quests.space_survival.solar_panels.desc": "There are very few energy sources available on the Moon, but these &eSolar Panels&r have a lovely view of the Sun from up here!\n\nOn the moon, each Solar Panel provides the equivalent of &932 EU/t&r during the day with no fuel or upkeep needed, but they only produce an eighth of that down on the Earth's surface. Bring along a whole bunch of them!",
+	"quests.space_survival.solar_panels.task": "Any FE to EU converter",
 
 	"quests.space_survival.stone_dust_centrifuging.title": "Helium-3",
 	"quests.space_survival.stone_dust_centrifuging.subtitle": "Clown gas",
 	"quests.space_survival.stone_dust_centrifuging.desc.1": "The Moon is full of &eHelium-3&r, another important resource, but it's stuck inside the stone! There's two ways to get your hands on some:\n\n1) If you haven't set up any stone dust centrifuging automation before, here's a quick introduction: A Rock Crusher can produce infinite raw stone, which a Macerator crushes into dust for a Centrifuge to process.\n\nHere on the Moon, Anorthosite, Norite, and Phonolite can thus be processed into an infinite source of Helium-3!",
-	"quests.space_survival.stone_dust_centrifuging.desc.2": "2) Pump it out of the ground with a &9Fluid Rig&r This method is simpler, but doesn't come with any useful byproducts.\n\nHelium-3 is used for several things, of which the most important is making more air to breathe via &6Heliox-3&r! You can also use it as \"fertiliser\" for Chorus Fruit in the Electric Greenhouse, and eventually as another fuel for Fusion Power.",
+	"quests.space_survival.stone_dust_centrifuging.desc.2": "2) Pump it out of the ground with a &9Fluid Rig&r This method is simpler, but doesn't come with any useful byproducts.\n\nHelium-3 is used for several things, of which the most important is making more air to breathe via &6Heliox-3&r! You can also use it as \"fertilizer\" for Chorus Fruit in the Electric Greenhouse, and eventually as another fuel for Fusion Power.",
 	"quests.space_survival.stone_dust_centrifuging.task": "Any ",
 
 	"quests.space_survival.compressed_gases.title": "Compressed Breathable Gases",
 	"quests.space_survival.compressed_gases.subtitle": "Because pure Oxygen is deadly",
-	"quests.space_survival.compressed_gases.desc": "Find yourself a little short of breath? You'll need something to breathe up in space, so you'll want to look at producing any of these compressed gases, based off real-world ones used for deep sea diving!\n\nYou can fill your space suit with them the same way you'd fill up a bucket, or if you bring along a &bGas Tank&r you'll be able to \"drink\" from it to replenish your suit without taking it off.\n\n&2Nitrox&r is probably the easiest to produce on Earth, while you can set up &eHeliox-3&r on the Moon.\n\nA full space suit (2000mB) will last about &c20 minutes&r.",
+	"quests.space_survival.compressed_gases.desc": "Find yourself a little short of breath? You'll need something to breathe up in space, so you'll want to look at producing any of these compressed gases, based off real-world ones used for deep sea diving!\n\nYou can fill your space suit with them the same way you'd fill up a bucket, or if you bring along a &bGas Tank&r you'll be able to \"drink\" from it to replenish your suit without taking it off.\n\n&2Nitrox&r is probably the easiest to produce on Earth, while you can set up &eHeliox-3&r on the Moon.\n\nA full space suit (2500mB) will last about &c45 minutes&r.",
 	"quests.space_survival.compressed_gases.task": "Any compressed breathable gas",
 
 	"quests.space_survival.zip_gun.title": "Zip Gun",
@@ -69,13 +70,13 @@
 
 	"quests.space_survival.ammo_railgun.title": "Railgun Ammo",
 	"quests.space_survival.ammo_railgun.subtitle": "You didn't think it would be free?",
-	"quests.space_survival.ammo_railgun.desc.1": "&7Each &6Interplanetary Railgun&r requires a special type of &eammo&r — think of it as a package used to transport items.\nEach launch consumes exactly &cone unit&r of ammo and can send &dthree different stacks&r.\n\nTo load it, you’ll need a &6Railgun Ammo Loader&r as part of your structure.\nYou can insert ammo manually or automate the process.\n\n&9We strongly recommend&r setting up a passive production line to keep your loader filled continuously — this ensures a smooth and reliable logistics chain.",
+	"quests.space_survival.ammo_railgun.desc.1": "&7Each &6Interplanetary Railgun&r requires a special type of &eammo&r — think of it as a package used to transport items.\nEach launch consumes exactly &cone unit&r of ammo and can send &dthree stacks&r of items.\n\nTo load it, you’ll need a &6Railgun Ammo Loader&r as part of your structure.\nYou can insert ammo manually or automate the process.\n\n&9We strongly recommend&r setting up a passive production line to keep your loader filled continuously — this ensures a smooth and reliable logistics chain.",
 	"quests.space_survival.ammo_railgun.desc.2": "There are multiple recipes available to craft ammo:\n\n• Lower-tier recipes are simpler but produce fewer units.\n• Higher-tier recipes yield &amuch more ammo&r, but require more advanced resources and machines.&r\n• Specialized ammo that you can only craft on certain planets. Check the recipes.\n\nPlan your production based on your &3logistics scale&r — interplanetary trade waits for no one!",
 
 	"quests.space_survival.input_bus_railgun.title": "Railgun Input Bus",
 	"quests.space_survival.input_bus_railgun.subtitle": "Sender only",
 	"quests.space_survival.input_bus_railgun.desc.1": "&cIf you haven't read the quest about the &6Interplanetary Logistics Monitor&r &con the left of this one, make sure to check it out first — this quest builds on that knowledge.&r\n\nWhen opening the &6Sender&r logistics screen on the &dInterplanetary Logistics Monitor&r, you'll notice the familiar &9Programmed Circuit&r from GregTech.\nThis circuit number is the core identifier for setting up routing rules.\n\nThe number you assign will apply a specific rule to all Input Buses in your Railgun structure that are configured with that same circuit number.\n\nThis allows you to fine-tune what items are sent where and with which rules, based on the circuit used.",
-	"quests.space_survival.input_bus_railgun.desc.2": "&2How to configure it:&r\n→ Open the GUI of any &9Railgun Input Bus&r\n→ Select the number you want — just like in any other GregTech machine\n\nThis lets you create powerful logic like:\n&7• Circuit 1&r → send to Moon base\n&7• Circuit 2&r → send to Mars\n&7• Circuit 3&r → send to Orbital Station\n\nWith proper circuit setup, you can automate interplanetary trade like a true industrial tycoon!",
+	"quests.space_survival.input_bus_railgun.desc.2": "&2How to configure it:&r\n→ Open the GUI of any &9Railgun Input Bus&r\n→ Select the number you want — just like in any other GregTech machine\n\nThis lets you create powerful logic like:\n&7• Circuit 1&r → send to Moon base\n&7• Circuit 2&r → send to Mars\n&7• Circuit 3&r → send to Orbital Station\n\nWith proper circuit setup, you can automate interplanetary trade like a true industrial tycoon!\n\n&9Note&r: You cannot send anything with the &7#tfg:cannot_launch_in_railgun&r tag.",
 	"quests.space_survival.input_bus_railgun.task": "Any Railgun Input Bus",
 
 	"quests.space_survival.monitor_railgun.title": "Interplanetary Logistics Monitor",
@@ -113,5 +114,110 @@
 	"quests.space_survival.soulbound.title": "Extraterrestrial Death",
 	"quests.space_survival.soulbound.subtitle": "You're a long way from spawn",
 	"quests.space_survival.soulbound.desc.1": "In TerraFirmaGreg, you can set your spawn on any dimension (even The Beneath!), but unless you've got a bunch of extra space suits lying around, respawning on the Moon might complicate things.\n\nFirst of all, you'll definitely want your bed to be inside an oxygenated area, so you don't immediately die as soon as you respawn (though in case of a blackout, you should have enough time to break your bed and reset your spawn).",
-	"quests.space_survival.soulbound.desc.2": "Secondly, you can upgrade each piece of your Space Suit with a &bSoul Pearl&r. This will make them stay equipped when you die!\n\nYou can get these from any of the tougher, hostile Endermen on the Moon.\n\nWe promise it's sci-fi and not magic."
+	"quests.space_survival.soulbound.desc.2": "Secondly, you can upgrade each piece of your Space Suit with a &bSoul Pearl&r. This will make them stay equipped when you die!\n\nYou can get these from any of the tougher, hostile Endermen on the Moon.\n\nWe promise it's sci-fi and not magic.",
+
+	"quests.space_survival.mars_desert.title": "The Martian Desert",
+	"quests.space_survival.mars_desert.subtitle": "Sand, sand everywhere",
+	"quests.space_survival.mars_desert.desc": "The majority of Mars is covered in a vast desert. Not much lives here except the occasional Stackatick, and of course the giant &6Sandworms&r. If this is your first time here, you'll want to find somewhere more hospitable! Otherwise, you'll want to keep searching...",
+	"quests.space_survival.mars_desert.task": "Visit the Martian Deep Desert biome",
+
+	"quests.space_survival.sandworm.title": "The Sandworm",
+	"quests.space_survival.sandworm.subtitle": "SHAI-HULUD",
+	"quests.space_survival.sandworm.desc": "If you make too much noise in the desert, you might attract the attention of the mighty &6Sandworm&r! It's more of an environmental hazard than a boss to kill, so your best way of surviving it is to run away!\n\nIf you manage to hit its head enough times with &bexplosion damage&r, it will leave you alone... for a while.\n\nThankfully, the Sandworm can only damage entities, not buildings, and is only attracted to the &6footsteps of players&r, so any way to keep &byour own feet&r off the ground won't anger it. The atmosphere is too thin for airplanes and hang gliders, but there are other tools...",
+
+	"quests.space_survival.spice.title": "Ostrum Deposits",
+	"quests.space_survival.spice.subtitle": "Spice Melange",
+	"quests.space_survival.spice.desc": "&dOstrum Deposits&r are immovable blocks that you can only find in the Martian Deep Desert, far away from any of the more lush areas. They spawn in small blobs, and can be broken to make space for your Ostrum Harvester if they're on a slope. Try using a &6Spyglass&r to find them from a distance!\n\nYou'll have to figure out some long-distance logistics to ship your Ostrum back to your base. (Try a train!)\n\nOstrum is a crucial resource for both &5EV&r progression and making infinite ores from Mars.",
+	"quests.space_survival.spice.task": "The spice must flow",
+
+	"quests.space_survival.mars_islands.title": "The Martian Jungles",
+	"quests.space_survival.mars_islands.subtitle": "Is that a dinosaur?!",
+	"quests.space_survival.mars_islands.desc": "Dotted around the vast Martian deserts are small \"islands\" of life and vegetation, which are probably where you'll want to set up your base. Surviving here will be much easier than in the desert!",
+
+	"quests.space_survival.semiheavy_ammoniacal_water.title": "Semiheavy Ammoniacal Water",
+	"quests.space_survival.semiheavy_ammoniacal_water.subtitle": "Fancy a drink?",
+	"quests.space_survival.semiheavy_ammoniacal_water.desc": "The water on Mars is &bSemiheavy&r which means it contains one Deuterium atom, and is also full of &aAmmonia&r, a great antifreeze, which is how it can stay liquid despite the very low temperatures.\n\nIt's technically drinkable, but you'll likely want to distill it into normal Water first. You can also move source blocks of Semiheavy Ammoniacal Water around and get more of it via an Aqueous Accumulator, just like regular Water.\n\nYou can also centrifuge the Ammonium Chloride out from it and electrolyze it as a source of &3Nitrogen&r. Easy Nitrox from just one source!",
+
+	"quests.space_survival.heavy_ammoniacal_water.title": "Heavy Ammoniacal Water",
+	"quests.space_survival.heavy_ammoniacal_water.subtitle": "The Cooler Ammoniacal Water",
+	"quests.space_survival.heavy_ammoniacal_water.desc": "&2Heavy Ammoniacal Water&r is another kind of fluid that can only be found deep underground via a Fluid Drilling Rig. You can only find it in these lush areas of Mars, not the desert!\n\nYou can separate it into Heavy Water, which is important for Fission power.",
+
+	"quests.space_survival.mars_poles.title": "The Martian Poles",
+	"quests.space_survival.mars_poles.subtitle": "Cold enough for CO₂ to freeze!",
+	"quests.space_survival.mars_poles.desc": "Is Mars not cold enough for you?\n\nHead up (or down) towards one of its poles at Z=+15000/-5000. If anything's able to live there, surely it must have amazing insulative properties...",
+
+	"quests.space_survival.glacian_ram.title": "Glacian Sheep",
+	"quests.space_survival.glacian_ram.subtitle": "Life at -110 C",
+	"quests.space_survival.glacian_ram.desc": "&dGlacian Rams&r and &dEwes&r can only be found on the Martian poles. You might want to bring a breeding couple back to your base.\n\nGot a long journey? Consider using an AE2 Spatial Storage Cell to carry them around in your pocket.",
+	"quests.space_survival.glacian_ram.task": "Find a Glacian Ram or Ewe",
+
+	"quests.space_survival.glacian_wool.title": "Glacian Wool",
+	"quests.space_survival.glacian_wool.subtitle": "What an incredible insulator!",
+	"quests.space_survival.glacian_wool.desc": "Unlike regular Sheep on Earth, killing a Glacian one will only give you normal Wool. You'll need to build up their familiarity and shear them if you want the special &dGlacian Wool&r.\n\nYou'll need 7 of it for a full Tungstensteel Space Suit, but you can also use it as a great component for your Fission Reactor to increase its maximum heat.\n\nYou can also turn it into regular Wool Yarn and Cloth if you want more of that for some reason.",
+
+	"quests.space_survival.t2_space_suit.title": "Tungstensteel Space Suit",
+	"quests.space_survival.t2_space_suit.subtitle": "Extremophilia!",
+	"quests.space_survival.t2_space_suit.desc": "With this next space suit, you'll be able to survive both the &bcoldest&r and the &chottest&r environments that space can throw at you! It's required to stop you from immediately combusting as soon as you set foot on &6Venus&r and &5Mercury&r.\n\nAs a bonus, it also comes with some extra armor and air capacity!",
+
+	"quests.space_survival.mars_tapping.title": "Crimsene and Warpane",
+	"quests.space_survival.mars_tapping.subtitle": "You LOVE tree tapping!",
+	"quests.space_survival.mars_tapping.desc": "Crimson and Warped Mushrooms can be tree tapped for &4Crimsene&r and &3Warpane&r respectively.\n\nYou'll need both to get started on producing &9Iodine&r, but they don't often grow in the same place, so you might need to travel a bit. Crimson Mushrooms grow more on the East side of Mars, while Warped grow more on the West. You can also obtain the saplings from the corresponding Endermen.\n\nDon't forget that you can tap directly into open GregTech fluid pipes!\n\n&9Tip:&r Want to show off? You can also build a canoe out of Crimson Stems, and build a Rowboat or Sloop out of Warped ones!",
+
+	"quests.space_survival.iodine.title": "The Iodine Line",
+	"quests.space_survival.iodine.subtitle": "Mushroom chemistry!",
+	"quests.space_survival.iodine.desc": "Mix together the Crimsene and Warpane, along with some Krypton from Mars Air Distillation (it's looped) and the heat from your Fission Reactor, and you'll get Iodine!\n\nThis process is slow, but you shouldn't need a lot of it for now, and there will be better methods of obtaining Iodine on further planets.",
+
+	"quests.space_survival.mars_crops.title": "Martian Crops",
+	"quests.space_survival.mars_crops.subtitle": "They give HOW much nutrition?!",
+	"quests.space_survival.mars_crops.desc": "Mars is home to six new crops - three &afruit&r, two &2vegetable&r, and one &6grain&r. They're packed full of nutrients and can be used to prepare similar food to those on Earth, such as sandwiches, soups, and meal bags.\n\nA few of them are toxic if eaten raw, however, so be sure to cook it first!\n\nCheck the Field Guide for full details on how to grow each one. You can grow them in the dirt, in a Firmalife Greenhouse, or in an Electric Greenhouse.",
+	"quests.space_survival.mars_crops.task": "Any Martian Seed",
+
+	"quests.space_survival.bulbkin_pie.title": "Mars Cuisine",
+	"quests.space_survival.bulbkin_pie.subtitle": "Even more culinary atrocities at your disposal",
+	"quests.space_survival.bulbkin_pie.desc": "Wraptor Eggs can be extracted for a Sugar substitute, while Sniffer eggs are full of Cream.\n\n&eBulbkin Pie&r is probably the pinnacle of Mars' food, boasting high amounts of four different kinds of nutrition, at the expense of being a bit of a pain to craft.\n\n&eBeer-Battered Dinosaur Nuggets&r combine the huge protein of dinosaur meat with a little grain, and can also be put in your meal bags.\n\n&9Tip:&r It's not really a food, but you can also mix together Bulbkin Chunks and Alphacene Mushroom Blocks to get Glowstone Dust.",
+
+	"quests.space_survival.soarer.title": "Soarer",
+	"quests.space_survival.soarer.subtitle": "Need a lift?",
+	"quests.space_survival.soarer.desc": "Airplanes don't work on Mars, and your space suit doesn't have a jetpack, so there's no other way to fly, right?\n\nIf you're able to find an elusive &4Soarer&r, you can tame them with raw fish and equip them with a Saddle to glide through the Martian skies with ease.\n\nThey can't fly forever though, indicated by the wing icons on the top left, and will need to land occasionally. Still, they're a great option for long-distance travel, and won't upset the sandworm either!\n\n&9Note&r: Soarers are unable to survive on particularly hot planets such as &6Venus&r.",
+	"quests.space_survival.soarer.task": "Find a Soarer",
+
+	"quests.space_survival.surfer.title": "Surfer",
+	"quests.space_survival.surfer.subtitle": "Need a swim?",
+	"quests.space_survival.surfer.desc": "&bSurfers&r can be found in the small bodies of water. You can tame them by sneaking up to them while they're lying on the shore, and feeding them raw fish. Once tamed, you can equip them with a saddle to swim quickly underwater too.\n\nThis doesn't sound particularly useful on Mars, but remember that you can transport entities around through AE2's Spatial Storage Disks, and there will be a certain oceanic icy moon in the future...\n\n&9Note&r: Surfers are unable to survive on particularly hot planets such as &6Venus&r.",
+	"quests.space_survival.surfer.task": "Find a Surfer",
+
+	"quests.space_survival.sniffer_or_wraptor.title": "Sniffers and Wraptors",
+	"quests.space_survival.sniffer_or_wraptor.subtitle": "Cow and Chicken",
+	"quests.space_survival.sniffer_or_wraptor.desc": "&2Sniffers&r and &dWraptors&r can be found all over Mars and can be domesticated for meat, eggs, and most importantly, their mineral-rich tufts and feathers.\n\nThey eat any Martian crops, and you can automatically breed and feed them with the Feeding Troughs just like on Earth.",
+	"quests.space_survival.sniffer_or_wraptor.task_1": "Find a Sniffer",
+	"quests.space_survival.sniffer_or_wraptor.task_2": "Find a Wraptor",
+
+	"quests.space_survival.mars_nest.title": "Large Thatch Nest",
+	"quests.space_survival.mars_nest.subtitle": "A big nest for big eggs",
+	"quests.space_survival.mars_nest.desc": "You remember how to gather thatch, right?\n\nWarped and Crimson Thatch can be gathered from various small plants, as well as any Warped and Crimson Lamella you happen to find.\n\nJust like birds on Earth, Sniffers and Wraptors require nests to lay their eggs. Only, y'know, much bigger.",
+	"quests.space_survival.mars_nest.task": "Either Nest",
+
+	"quests.space_survival.mineral_rich_wool.title": "Mineral-Rich Wool",
+	"quests.space_survival.mineral_rich_wool.subtitle": "Built up from years of dust storms",
+	"quests.space_survival.mineral_rich_wool.desc": "Once your Sniffers or Wraptors are familiar enough, you can shear them for mineral-rich tufts of fur or feathers.\n\nThese can be melted down in an EBF for an infinite and cheap source of Alkaline Earth Silicate, and are also a required component of &6Bio-AES Reinforced R-Polyurethane Foam.",
+
+	"quests.space_survival.aes_insulation.title": "Multi-Layer Insulated Shielding",
+	"quests.space_survival.aes_insulation.subtitle": "Not an ice cream sandwich",
+	"quests.space_survival.aes_insulation.desc": "This may not be used for much at the moment, but it will be a critical component of your &1IV&r rocket in the future.",
+
+	"quests.space_survival.mars_shields.title": "Advanced Shields",
+	"quests.space_survival.mars_shields.subtitle": "Isn't it about time you upgraded your old metal shield?",
+	"quests.space_survival.mars_shields.desc": "The &3Reinforced Shield&r deals damage back to attackers, like the Thorns enchant in normal Minecraft. Its crafting materials can be found from Crunchers and Eaters.\n\nThe &5Corrupted Shield&r randomly teleports attackers, which can be good for keeping them away from you... but it can also teleport them behind you. You can get the teeth from the Cave Endermen under the surface.\n\nThe &4Ricoshield&r absorbs an amount of damage before releasing a shockwave, hurting anything else nearby. You can find the Kinetic Core as a rare drop from the hostile golems in the Martian caves.",
+	"quests.space_survival.mras_shields.task": "Any Advanced Shield",
+
+
+	"quests.space_survival.mercury.title": "I'm on &5Mercury&r...?",
+	"quests.space_survival.mercury.subtitle": "Wait, what happened here?!",
+	"quests.space_survival.mercury.desc": "&5Mercury&r will be a secondary planet for the upcoming &1IV&r rework in TFG 0.12. Stay tuned!",
+	"quests.space_survival.mercury.task": "Land on Mercury",
+
+	"quests.space_survival.venus.title": "I'm on &6Venus&r!",
+	"quests.space_survival.venus.subtitle": "Cloudy with a chance of sulfuric acid rain",
+	"quests.space_survival.venus.desc": "&6Venus&r will be the primary planet for the upcoming &1IV&r rework in TFG 0.12. Stay tuned!",
+	"quests.space_survival.venus.task": "Land on Venus"
 }

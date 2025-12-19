@@ -62,7 +62,8 @@
 		{
 			"lang": "en_us",
 			"text": "Garnierite & Cobaltite",
-			"info": "Can't find it? Gabbro always spawns below $(thing)Basalt$(), and Gabbro dikes in oceans can be useful too!"
+			"info": "Can't find it? Gabbro always spawns below $(thing)Basalt$(), and Gabbro dikes in oceans can be useful too!",
+			"emi": "Tip: Gabbro is always\\nunderneath Basalt."
 		},
 		{
 			"lang": "pt_br",

@@ -2,16 +2,19 @@ import os
 from typing import Set, Any, Tuple, NamedTuple, Literal, Union
 from glob import glob
 
+# https://github.com/vberlier/nbtlib/blob/main/docs/Usage.ipynb
 from nbtlib import nbt
-from nbtlib.tag import String as StringTag, Int as IntTag
+from nbtlib.tag import String as StringTag, Int as IntTag, List as ListTag, Compound as CompoundTag
 
-STRUCTURES_DIR = '../../kubejs/data/minecraft/structures'
-STRUCTURES_DIR_MC = 'A:/minecraft/data/minecraft/structures'
+#STRUCTURES_DIR = '../../kubejs/data/minecraft/structures'
+#STRUCTURES_DIR_MC = 'A:/minecraft/data/minecraft/structures'
+STRUCTURES_DIR = 'C:/Users/Pyritie/source/repos/TerraFirmaGreg-Team/Modpack-Modern/kubejs/data/tfg/structures/trees'
 
 def main():
-	bastion_structures = glob(STRUCTURES_DIR_MC + '/bastion/**/*.nbt', recursive=True)
-	#find_blocks(bastion_structures)
-	replace_blocks(bastion_structures)
+	#bastion_structures = glob(STRUCTURES_DIR_MC + '/bastion/**/*.nbt', recursive=True)
+	structures = glob(STRUCTURES_DIR + '/*.nbt', recursive=True)
+	#find_blocks(structures)
+	replace_blocks(structures)
 	pass
 
 
@@ -34,7 +37,7 @@ def replace_blocks(structures):
 			if name == 'minecraft:chest':
 				block['Name'] = StringTag('tfc:wood/chest/mangrove')
 				dirty = True
-			if name == 'minecraft:basalt':
+			elif name == 'minecraft:basalt':
 				block['Name'] = StringTag('minecraft:deepslate_bricks')
 				dirty = True
 			elif name == 'minecraft:polished_basalt':
@@ -56,16 +59,34 @@ def replace_blocks(structures):
 				block['Name'] = StringTag('minecraft:brown_mushroom')
 				dirty = True
 
+			elif name == 'betterend:mossy_glowshroom_bark':
+				block['Name'] = StringTag('tfg:glacian_wood')
+				dirty = True
+			elif name == 'betterend:mossy_glowshroom_cap':
+				block['Name'] = StringTag('species:alphacene_moss_block')
+				dirty = True
+			elif name == 'betterend:mossy_glowshroom_hymenophore':
+				block['Name'] = StringTag('tfg:glacian_leaves')
+				block['Properties'] = CompoundTag({"persistent": StringTag("true")})
+				dirty = True
+			elif name == 'betterend:mossy_glowshroom_fur':
+				block['Name'] = StringTag('betterend:glacian_hymenophore')
+				dirty = True
+			elif name == 'betterend:mossy_glowshroom_log':
+				block['Name'] = StringTag('tfg:glacian_log')
+				dirty = True
+
 		if dirty:
 			print('Modified: ' + f)
 			save(struct, f)
 
 
 def save(struct, f):
-	result_dir = f.replace(STRUCTURES_DIR_MC, STRUCTURES_DIR)
-	result_folder = os.path.dirname(result_dir)
-	os.makedirs(result_folder, exist_ok=True)
-	struct.save(result_dir)
+	#result_dir = f.replace(STRUCTURES_DIR_MC, STRUCTURES_DIR)
+	#result_folder = os.path.dirname(result_dir)
+	#os.makedirs(result_folder, exist_ok=True)
+	#struct.save(result_dir)
+	struct.save(f)
 
 if __name__ == '__main__':
 	main()

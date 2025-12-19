@@ -4,7 +4,7 @@
 
     "quests.tfg.welcome.title": "Welcome to TerraFirmaGreg!",
     "quests.tfg.welcome.subtitle": "Survival Modpack As It Should've Been",
-    "quests.tfg.welcome.desc": "Thank you for starting TerraFirmaGreg Modern!\n\nIn this modpack, you will be put to the task of taking control of untouched wilderness and turning it to an industrial wonderland. Start from humble beginning picking up rocks, and end while traversing interstellar space!",
+    "quests.tfg.welcome.desc": "Thank you for starting TerraFirmaGreg Modern!\n\nIn this modpack, you will be put to the task of taking control of untouched wilderness and turning it to an industrial wonderland. Start from a humble beginning picking up rocks, and end while traversing interstellar space!",
 
     "quests.tfg.create_team.title": "How to create a team?",
     "quests.tfg.create_team.subtitle": "Do you play with friends?",
@@ -12,7 +12,10 @@
 
     "quests.tfg.capture_territory.title": "How to capture territory?",
     "quests.tfg.capture_territory.subtitle": "And how to load chunks in your territory",
-    "quests.tfg.capture_territory.desc": "If you play on a server, you might want to claim your territory so other players can't interfere. Use the Open Claims key (default \"Ctrl+M\") to open the window, then left-click to claim a chunk and right-click to unclaim them. There is a limit to this, so you can't claim everything. You can shift-left-click on a chunk to forceload (aka \"chunk load\") it, and shift-right-click to un-forceload it. Claiming chunks will include your whole team, if you're using one.",
+    "quests.tfg.capture_territory.desc": "If you play on a server, you might want to claim your territory so other players can't interfere. Use the Open Claims key (default \"Ctrl+M\") to open the window, then left-click to claim a chunk and right-click to unclaim them.\n\nThere is a limit to this, so you can't claim everything. You can shift-left-click on a chunk to forceload (aka \"chunk load\") it, and shift-right-click to un-forceload it. Claiming chunks will include your whole team, if you're using one.",
+
+    "quests.tfg.chunk_limit.title": "How to increase my chunkload limit?",
+    "quests.tfg.chunk_limit.desc": "If you're playing on a server, by default you only have a small amount of forceload chunks available.\n\nServer owners can customize this (check the README.txt file!), but if you've got operator permissions (or have cheats enabled), you can also use &a/ftbchunks admin extra_force_load_chunks @p set X&r, where X is the new limit.",
 
     "quests.tfg.field_guide.title": "Important information about quests!",
     "quests.tfg.field_guide.subtitle": "I need to read more?",

@@ -6,7 +6,7 @@
 		"rarity": 180,
 		"density": 0.35,
 		"min_y": -64,
-		"max_y": 26,
+		"max_y": 32,
 		"size": 28,
 		"height": 8
 	},
@@ -34,7 +34,8 @@
 		"rhyolite",
 		"basalt",
 		"andesite",
-		"dacite"
+		"dacite",
+		"diorite"
 	],
 	"translations": [
 		{

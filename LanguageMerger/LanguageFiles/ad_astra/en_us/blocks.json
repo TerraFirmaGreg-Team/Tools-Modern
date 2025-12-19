@@ -1,5 +1,6 @@
 {
 	"block.ad_astra.oxygen_distributor": "Breathable Air Distributor",
+	"block.ad_astra.infernal_spire_block": "Infernal Spire",
 
 	"block.ad_astra.moon_sand": "Lunar Sand",
 	"block.ad_astra.moon_stone": "Raw Anorthosite",
@@ -25,6 +26,9 @@
 	"block.ad_astra.moon_deepslate": "Raw Norite",
 	"block.ad_astra.cheese_block": "Moon Cheese Block",
 	"block.ad_astra.moon_cheese_ore": "Anorthosite Cheese Ore",
+	"block.ad_astra.glacian_log": "Glacian Stem",
+	"block.ad_astra.stripped_glacian_log": "Stripped Glacian Stem",
+	"block.ad_astra.glacian_leaves": "Glacian Lamella",
 
 	"block.ad_astra.mars_sand": "Argillite Sand",
 	"block.ad_astra.mars_stone": "Raw Argillite",
@@ -46,8 +50,8 @@
 	"block.ad_astra.polished_mars_stone_slab": "Polished Argillite Slab",
 	"block.ad_astra.polished_mars_stone_stairs": "Polished Argillite Stairs",
 
-	"block.ad_astra.conglomerate": "Martian Conglomerate",
-	"block.ad_astra.polished_conglomerate": "Polished Martian Conglomerate",
+	"block.ad_astra.conglomerate": "Mesa Caprock",
+	"block.ad_astra.polished_conglomerate": "Polished Mesa Caprock",
 
 	"block.ad_astra.venus_sand": "Trachyte Sand",
 	"block.ad_astra.venus_stone": "Raw Trachyte",
@@ -111,5 +115,7 @@
 	"block.ad_astra.cracked_glacio_stone_bricks": "Cracked Phonolite Bricks",
 	"block.ad_astra.polished_glacio_stone": "Polished Phonolite",
 	"block.ad_astra.polished_glacio_stone_slab": "Polished Phonolite Slab",
-	"block.ad_astra.polished_glacio_stone_stairs": "Polished Phonolite Stairs"
+	"block.ad_astra.polished_glacio_stone_stairs": "Polished Phonolite Stairs",
+
+	"block.ad_astra.glacio_globe": "Europa Globe"
 }

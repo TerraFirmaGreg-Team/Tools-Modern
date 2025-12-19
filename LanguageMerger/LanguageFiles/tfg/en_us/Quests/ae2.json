@@ -121,7 +121,14 @@
     "quests.ae2.cutting_knife.desc": "These are tools for easily renaming all of your ME components. Why would you want to do this? If you rename your Pattern Providers, their names will show up in the Pattern Terminal, which can be very handy for keeping track of which Pattern Provider is connected to which machine.\n\nFor example &oSmall Gear Extruder&r as a name for the Pattern Provider would let you easily know that this Extruder contains a Small Gear mold, so you should only put Small Gear patterns in it.",
     "quests.ae2.cutting_knife.task": "Either cutting knife",
 
-    "quests.ae2.programmed_circuit_card.desc": "Insert one of these into your Pattern Providers, and if your recipe has a programmed circuit, the attached GregTech machine will automatically change its circuit to the one in the recipe. How useful is that?!",
+    "quests.ae2.pattern_box.desc": "The Pattern Box can carry around all your Blank and Encoded Patterns in one inventory slot, and they will be visible in any AE2 device UI as long as the box is somewhere in your inventory.",
+
+    "quests.ae2.wireless_access.title": "ME Wireless Network",
+    "quests.ae2.wireless_access.subtitle": "Get Free WiFi Anywhere You Go",
+    "quests.ae2.wireless_access.desc": "Once you've made it to &5EV&r, you'll gain access to the ME Wireless Access Point, which basically acts like a WiFi Router for your ME network. Connect it to a central point in your base, shove as many Wireless Booster cards as you want to increase its range (and power draw), and then link a Wireless Terminal to it.\n\nOnce you have Epoxy and Rhodium, you'll be able to combine all of your Wireless Terminals together via a Universal Terminal!",
+
+    "quests.ae2.interplanetary_wireless.subtitle": "Forgot something at home?",
+    "quests.ae2.interplanetary_wireless.desc": "You can upgrade your Wireless Terminal with this special Card, allowing access to your network from any distance, even on different worlds! Sounds too good to be true? There's a major catch — transferring items uses a huge amount of energy.\n\nYou can sort of get around this with some Energy Cards and a battery in your inventory set to Discharge Mode, but it should work well enough for those times when you accidentally left something at your base on Earth and don't want to fly all the way back.\n\nFor proper automated transfer, you'll need a Railgun.",
 
     "__comment5": "Right (IV)",
 

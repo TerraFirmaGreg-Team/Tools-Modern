@@ -1,23 +1,29 @@
 {
 	"material.gtceu.ice": "Ice Slush",
 	"material.gtceu.damascus_steel": "Swine-steel",
+	"material.gtceu.air": "Earth Air",
+	"material.gtceu.liquid_air": "Liquid Earth Air",
 
 	"__comment1": "Sorry GT, big bang theory doesn't count as a scifi reference",
-	
+
 	"material.gtceu.cooperite": "Cooperite",
 	"material.gtceu.armalcolite": "Armalcolite",
 	"material.gtceu.desh": "Desh",
 	"material.gtceu.ostrum": "Ostrum",
-	"material.gtceu.calorite": "Calorite",
-	"material.gtceu.etrium": "Etrium",
+	"material.tfg.calorite": "Calorite",
+	"material.tfg.etrium": "Etrium",
+
+	"material.gtceu.tarkianite": "Tarkianite",
+
 
 	"material.gtceu.aluminium_silicate": "Aluminium Silicate",
 
 	"material.gtceu.rocket_alloy_t1": "R-Aluminosteel Rocket Alloy",
+	"material.gtceu.rocket_alloy_t2": "ASM 4914 Titanium Rocket Alloy",
 	"material.gtceu.rocket_alloy_t3": "45-Ti Tungstensteel Rocket Alloy",
-  	"material.gtceu.vitrified_asbestos": "Vitrified Asbestos",
- 	"material.gtceu.liquid_carbon_dioxide": "Liquid Carbon Dioxide",
-	
+	"material.gtceu.vitrified_asbestos": "Vitrified Asbestos",
+	"material.gtceu.liquid_carbon_dioxide": "Liquid Carbon Dioxide",
+
 	"__comment2": "Nuclear Material",
 
 	"material.gtceu.hot_debrominated_brine": "Hot Debrominated Brine",
@@ -50,20 +56,21 @@
 	"material.gtceu.acidic_bromine_exhaust": "Acidic Bromine Exhaust",
 	"material.gtceu.hot_alkaline_debrominated_brine": "Hot Alkaline Debrominated Brine",
 
-	"material.gtceu.lithium_carbonate":"Lithium Carbonate",
-	"material.gtceu.lithium_fluoride":"Lithium Fluoride",
-	"material.gtceu.tetrafluoroberyllate":"Tetrafluoroberyllate",
-	"material.gtceu.thorium_230":"Thorium 230",
-	"material.gtceu.thorium_232":"Thorium 232",
-	"material.gtceu.tbu-232_pellet":"TBU 232 Pellet",
-	"material.gtceu.plutonium_pellet":"Plutonium Pellet",
-	"material.gtceu.uranium_pellet":"Uranium Pellet",
-	"material.gtceu.thorium_pellet":"Thorium Pellet",
+	"material.gtceu.lithium_carbonate": "Lithium Carbonate",
+	"material.gtceu.lithium_fluoride": "Lithium Fluoride",
+	"material.gtceu.tetrafluoroberyllate": "Tetrafluoroberyllate",
+	"material.gtceu.thorium_230": "Thorium 230",
+	"material.gtceu.thorium_232": "Thorium 232",
+	"material.gtceu.tbu-232_pellet": "TBU 232 Pellet",
+	"material.gtceu.plutonium_pellet": "Plutonium Pellet",
+	"material.gtceu.uranium_pellet": "Uranium Pellet",
+	"material.gtceu.thorium_pellet": "Thorium Pellet",
+	"material.gtceu.ostrum_iodide": "Ostrum Iodide",
 
-	"material.gtceu.residual_radioactive_concoction":"Residual Radioactive Concoction",
-	"material.gtceu.regolith_vapor":"Regolith Vapor",
+	"material.gtceu.residual_radioactive_concoction": "Residual Radioactive Concoction",
+	"material.gtceu.regolith_vapor": "Regolith Vapor",
 
-	"material.gtceu.dense_ostrum_vapor":"Dense Ostrum Vapor",
-	"material.gtceu.lightweight_ostrum_vapor":"Lightweight Ostrum Vapor",
-	"material.gtceu.ostrum_vapor":"Ostrum Vapor"
+	"material.gtceu.dense_ostrum_vapor": "Dense Ostrum Vapor",
+	"material.gtceu.lightweight_ostrum_vapor": "Lightweight Ostrum Vapor",
+	"material.gtceu.ostrum_vapor": "Ostrum Vapor"
 }

@@ -1,0 +1,80 @@
+{
+	"id": "normal_tarkianite",
+	"dimension": "earth",
+	"type": "tfc:pipe_vein",
+	"config": {
+		"rarity": 140,
+		"density": 0.35,
+		"min_y": 20,
+		"max_y": 120,
+		"height": 60,
+		"radius": 10,
+		"min_skew": 6,
+		"max_skew": 18,
+		"max_slant": 4
+	},
+	"ores": [
+		{
+			"ore": "tarkianite",
+			"weight": 35
+		},
+		{
+			"ore": "oilsands",
+			"weight": 35
+		},
+		{
+			"ore": "borax",
+			"weight": 20
+		},
+		{
+			"ore": "trona",
+			"weight": 10
+		}
+	],
+	"rocks": [
+		"gabbro",
+		"granite",
+		"diorite",
+		"schist",
+		"gneiss",
+		"quartzite",
+		"phyllite",
+		"slate",
+		"marble",
+		"dacite",
+		"rhyolite",
+		"andesite",
+		"basalt",
+		"shale",
+		"claystone",
+		"limestone",
+		"conglomerate",
+		"dolomite",
+		"chert",
+		"chalk"
+	],
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Tarkianite & Oilsands",
+			"info": "Only appears in deserts to the $(thing)South-West$(), with a minimum temperature of 7°C and a maximum rainfall of 100mm.",
+			"emi": "Only in dry climates.\\nMin temp: 7°C\\nMax rainfall: 100mm"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Tarcianita e Areias Petrolíferas"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Таркианит и Нефтеносный песок"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Таркіаніт та Нафтові піски"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "塔基安矿, 油砂"
+		}
+	]
+}

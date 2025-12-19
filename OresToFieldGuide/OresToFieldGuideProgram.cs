@@ -19,6 +19,8 @@ namespace OresToFieldGuide
 			"uk_ua", // Ukranian
 			"pt_br", // Brazilian Portuguese
 			"zh_cn", // Simplified Chinese
+			"fr_fr", // French
+			//"ja_jp", // Japanese
 		];
 
 		private readonly JsonSerializerOptions m_jsonOptions = new()
@@ -209,11 +211,13 @@ namespace OresToFieldGuide
 					{
 						vein.TranslatedNames[locale] = translation.Text;
 						vein.TranslatedInfo[locale] = translation.Info;
+						vein.TranslatedEmi[locale] = translation.Emi;
 					}
 					else
 					{
 						vein.TranslatedNames[locale] = vein.TranslatedNames[s_fallbackLocale];
 						vein.TranslatedInfo[locale] = vein.TranslatedInfo[s_fallbackLocale];
+						vein.TranslatedEmi[locale] = vein.TranslatedEmi[s_fallbackLocale];
 					}
 				}
 
@@ -629,7 +633,30 @@ namespace OresToFieldGuide
 					{
 						sb.Append($"new OreVeinInfoRecipe.WeightedBlock(\"{value.OreID}\", {(int) (value.WeightPercent ?? 0)}),");
 					}
-					sb.AppendLine("}),");
+					sb.AppendLine("},");
+
+					if (vein.TranslatedEmi.Any() && !string.IsNullOrWhiteSpace(vein.TranslatedEmi["en_us"]))
+					{
+						sb.Append($"\t\t\t\tnew String[] {{");
+						
+						var split = vein.TranslatedEmi["en_us"]!.Split("\\n");
+						for (int i = 0; i < split.Length; i++)
+						{
+							sb.Append($"\"ore_vein.tfg.{vein.ID}.emi.{i}\"");
+							if (i + 1 < split.Length)
+							{
+								sb.Append(", ");
+							}
+						}
+
+						sb.Append("}");
+					}
+					else
+					{
+						sb.Append("\t\t\t\tnull");
+					}
+
+					sb.AppendLine("),");
 				}
 			}
 			sb.AppendLine("\t};");
@@ -646,13 +673,34 @@ namespace OresToFieldGuide
 				var sb = new StringBuilder();
 				sb.AppendLine("{");
 				sb.AppendLine("\t\"__comment__\": \"DO NOT TRANSLATE THIS FILE. Translate the OresToFieldGuide/data/veins files instead.\",");
+
+				var lastVein = m_veinDict.Values.Last().Last();
 				foreach (var veins in m_veinDict.Values)
 				{
 					foreach (var vein in veins)
 					{
 						if (vein.TranslatedNames.TryGetValue(locale, out string? value))
 						{
-							sb.AppendLine($"\t\"ore_vein.tfg.{vein.ID}\": \"{value}\",");
+							sb.Append($"\t\"ore_vein.tfg.{vein.ID}\": \"{value}\"");
+
+							if (vein.TranslatedEmi.TryGetValue(locale, out string? info) && !string.IsNullOrWhiteSpace(info))
+							{
+								int i = 0;
+								foreach (var split in info.Split("\\n"))
+								{
+									sb.AppendLine(",");
+									sb.Append($"\t\"ore_vein.tfg.{vein.ID}.emi.{i++}\": \"{split}\"");
+								}
+							}
+
+							if (vein == lastVein)
+							{
+								sb.AppendLine();
+							}
+							else
+							{
+								sb.AppendLine(",");
+							}
 						}
 					}
 				}

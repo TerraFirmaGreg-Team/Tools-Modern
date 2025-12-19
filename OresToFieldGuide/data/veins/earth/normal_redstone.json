@@ -35,7 +35,8 @@
 		{
 			"lang": "en_us",
 			"text": "Redstone, Cinnabar, & Ruby",
-			"info": "Can't find it? Granite always spawns below $(thing)Rhyolite$(), and looking in oceans can be useful too!"
+			"info": "Can't find it? Granite always spawns below $(thing)Rhyolite$(), and looking in oceans can be useful too!",
+			"emi": "Tip: Granite is always\\nunderneath Rhyolite."
 		},
 		{
 			"lang": "pt_br",

@@ -223,6 +223,9 @@
 	"block.tfg.uv_gas_pressurizer": "§3Pressurizador de Gás Supremo§r",
 
 	"block.tfg.fluid.semiheavy_ammoniacal_water": "Água Amoniacal Semipesada",
+	"block.tfg.fluid.sulfur_fumes": "Fumos de Enxofre",
+	"block.tfg.fluid.geyser_slurry": "Lama Superaquecida",
+
 	"block.tfg.grass.mars_dirt": "Terra Marciana",
 	"block.tfg.grass.mars_clay_dirt": "Terra de Argila Marciana",
 	"block.tfg.grass.mars_farmland": "Terra Arada Marciana",
@@ -285,8 +288,8 @@
 	"block.tfg.rapeseed_wild": "Canola Silvestre",
 	"block.tfg.rapeseed_dead": "Canola Morta",
 	"block.tfg.flax": "Linho",
-  	"block.tfg.flax_wild": "Linho Silvestre",
-  	"block.tfg.flax_dead": "Linho Morto",
+	"block.tfg.flax_wild": "Linho Silvestre",
+	"block.tfg.flax_dead": "Linho Morto",
 
 	"block.tfg.casings.machine_casing_iron_desh": "Invólucro de Máquina de Desh",
 	"block.tfg.casings.machine_casing_stainless_evaporation": "Invólucro de Máquina Evaporadora de Aço Inox",
