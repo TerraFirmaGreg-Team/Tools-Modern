@@ -25,7 +25,7 @@
     "quests.steam_age.good_paths.desc": "这是你能使用的最好的路面，能让的曲柄输出32RPM。这类小路也会增加玩家的移动速度，所以用它们铺设你的基地很棒！",
     "quests.steam_age.helve_hammer.title": "杠杆锤",
     "quests.steam_age.helve_hammer.subtitle": "哐……哐……哐……",
-    "quests.steam_age.helve_hammer.desc.1": "觉得为锻铁炉制作所有那些板件很繁琐吗？&3杠杆锤&r 会自动（但缓慢地）将双锭锻造成板件给你。不过，焊接仍然需要你自己完成。只需在锤子正下方放置一个砧，并将你的双锭扔上去，然后右键单击锤子取出你的板件。\n\n更高级的砧也需要更少的锻打次数来用前一级的材料制作板件。",
+    "quests.steam_age.helve_hammer.desc.1": "觉得为锻铁炉制作所有那些板件很繁琐吗？&3杠杆锤&r 会自动（但缓慢地）将双锭锻造成板件给你。不过，焊接仍然需要你自己完成。只需在锤子正下方放置一个砧，按&2丢弃物品键（默认为Q）&r将双锭扔到上面，最后右键点击锤头即可取出板材。\n\n更高级的砧也能以更少的锤击次数，将前一级的材料加工成板件。",
     "quests.steam_age.helve_hammer.desc.2": "记得使用齿轮来提高它的速度！\n\n起初它可能不起眼，但一旦你能用钢制齿轮和传动轴将其速度提升至256 RPM，杠杆锤的效率就会真正显现出来。",
     "quests.steam_age.multiblock_tank.title": "多方块储罐",
     "quests.steam_age.multiblock_tank.subtitle": "海量流体存储方案",
