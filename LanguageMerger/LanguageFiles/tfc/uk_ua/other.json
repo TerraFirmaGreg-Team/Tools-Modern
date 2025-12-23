@@ -3,5 +3,5 @@
     "tfc.recipe.barrel.tfg.barrel.gouda_wheel": "Колесо Гауда",
     "tfc.recipe.barrel.tfg.barrel.feta_wheel": "Колесо Фети",
     "tfc.recipe.barrel.tfg.barrel.shosha_wheel": "Колесо Шоша",
-    "tfc.field_guide.book_landing_text": "Вітаю, мандрівнику! Ця книга стане джерелом усього, що тобі потрібно знати, досліджуючи світ TerraFirmaCraft (TFC) у $(bold)TerraFirmaGreg$().$(br)Ця книга доступна будь-коли через іконку праворуч у твоєму інвентарі.$(br)Онлайн-версію цього посібника можна знайти $(bold)$(l:https://terrafirmagreg-team.github.io/Field-Guide-Modern/en_us/)тут$().$(br)Натисни на $(italic)Індекс записів$() і почни вводити, щоб $(bold)шукати$()."
+    "tfc.field_guide.book_landing_text": "Вітаю, мандрівнику! Ця книга стане джерелом усього, що тобі потрібно знати, досліджуючи світ TerraFirmaCraft (TFC) у $(bold)TerraFirmaGreg$().$(br)Ця книга доступна будь-коли через іконку праворуч у твоєму інвентарі.$(br)Онлайн-версію цього посібника можна знайти $(bold)$(l:https://terrafirmagreg-team.github.io/Field-Guide-Modern/uk_ua/)тут$().$(br)Натисни на $(italic)Індекс записів$() і почни вводити, щоб $(bold)шукати$()."
 }
