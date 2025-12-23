@@ -626,7 +626,7 @@
 
     "quests.tfg_tips.scarlet_biplane.title": "Scarlet Biplane",
     "quests.tfg_tips.scarlet_biplane.subtitle": "What a sight to behold",
-    "quests.tfg_tips.scarlet_biplane.desc": "The &3Scarlet Biplane&r is one of the two final upgrades for &bPlanes&r, requiring &6HV&r components.\n\nIt contains &b27 Inventory Slots&r, &a4 Upgrade Slots&r, &c2 Weapon Slots&r, and also a &4Booster Slot&r, just like the regular biplane.\n\nWhile expensive, the &3Scarlet Biplane&r makes up for it with increased durability, increased max speed, and overall swag.",
+    "quests.tfg_tips.scarlet_biplane.desc": "The &3Scarlet Biplane&r is one of the two final upgrades for &bPlanes&r, requiring &bMV&r components.\n\nIt contains &b27 Inventory Slots&r, &a4 Upgrade Slots&r, &c2 Weapon Slots&r, and also a &4Booster Slot&r, just like the regular biplane.\n\nWhile expensive, the &3Scarlet Biplane&r makes up for it with increased durability, increased max speed, and overall swag.",
 
     "quests.tfg_tips.aluminium_hopper.title": "Aluminium Hopper",
     "quests.tfg_tips.aluminium_hopper.subtitle": "So light it floats on water!",
