@@ -184,7 +184,7 @@
     "item.tfg.food.cooked_beer_battered_cheese_curds": "Смажені сирні шматочки в пивному клярі",
     "item.tfg.food.raw_fries": "Сира картопля фрі",
     "item.tfg.food.cooked_fries": "Картопля фрі",
-    "item.tfg.food.poutine": "Пут'ін",
+    "item.tfg.food.poutine": "Путін",
     "item.tfg.food.brioche_dough": "Тісто бріош",
     "item.tfg.food.brioche_bun": "Булочка бріош",
     "item.tfg.food.raw_burger_patty": "Сира котлета для бургера",
@@ -232,7 +232,7 @@
     "item.tfg.marker.mercury_orbit": "Орбіта Меркурія",
     "item.tfg.marker.glacio_orbit": "Орбіта Європи",
     "item.tfg.railgun_ammo_shell": "Снаряд для рейкотрона",
-    "item.tfg.sulfur_fumes_bucket": "Відро з сірчаними випарами",
+    "item.tfg.sulfur_fumes_bucket": "Відро з густими сірчаними випарами",
     "item.tfg.geyser_slurry_bucket": "Відро з перегрітою пульпою",
     "item.tfg.cryogenized_fluix_bucket": "Відро кріофлюїксу",
     "item.tfg.fluix_bucket": "Відро з рідким флюїксом",
@@ -371,5 +371,14 @@
     "item.tfg.smooth_endoplasmic_reticula": "Гладка ендоплазматична сітка",
     "item.tfg.rough_endoplasmic_reticula": "Шорстка ендоплазматична сітка",
     "item.tfg.alpha_keratin": "α-Кератин",
-    "item.tfg.progenitor_cells": "Клітини попередники"
+    "item.tfg.progenitor_cells": "Клітини попередники",
+    "item.tfg.catalyser_pt_re_zsm": "Каталізатор Pt-Re ZSM-5",
+    "item.tfg.used_catalyser": "Використаний каталізатор Pt-Re ZSM-5",
+    "item.tfg.loaded_resin": "Перезаряджена смола",
+    "item.tfg.rod_mold": "Форма для вогняного стрижня",
+    "item.tfg.small_gear_mold": "Форма для малої вогняної шестерні",
+    "item.tfg.nugget_mold": "Форма для самородка",
+    "item.tfg.unfired_rod_mold": "Невипалена форма для вогняного стрижня",
+    "item.tfg.unfired_small_gear_mold": "Невипалена форма для малої вогняної шестерні",
+    "item.tfg.unfired_nugget_mold": "Невипалена форма для самородка"
 }
