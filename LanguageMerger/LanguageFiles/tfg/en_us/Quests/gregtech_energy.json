@@ -154,7 +154,7 @@
     "quests.gregtech_energy.large_solar_t3.desc": "The final tier is the &6Large Solar Array MK III&r. It works the same way as the MK II, but its new Solar Coolant requires the addition of &aArgon&r and &bSilica Aerogel&r.\n\nYou should already be familiar with &bSilica Aerogel&r — you used it in your &dRocket Tier 3&r.\nHowever, it's much harder to produce on the Moon, and you may need a constant supply shipped from &aEarth&r.\n\nWe’ll let you decide how to handle this logistical challenge — whether it’s through automation, or interplanetary transport, the choice is yours.\n\n&eHigh-tech energy&r demands &chigh-level infrastructure&r. Plan wisely!",
 
     "quests.gregtech_energy.solar_panel.subtitle": "Light in the Dark",
-    "quests.gregtech_energy.solar_panel.desc": "The Solar Panel will be your first source of power on the Moon.\n\nThey produce 32 EU/t during daytime, but keep in mind they actually generate FE, so you’ll need a Converter to transform it into EU.\n\nYou can use one LV Converter for 1 Solar Panel, or an &bMV Converter&r for up to 4 Solar Panels.",
+    "quests.gregtech_energy.solar_panel.desc": "The Solar Panel will be your first source of power on the Moon.\n\nThey produce 32 EU/t during daytime, but keep in mind they actually generate FE, so you’ll need a Converter to transform it into EU.\n\nYou can use up to 4 Solar Panels on an &bMV Converter&r.",
 
     "__comment4": "Stocking Energy",
 
