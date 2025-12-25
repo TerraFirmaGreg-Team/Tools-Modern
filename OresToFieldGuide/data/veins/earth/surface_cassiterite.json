@@ -12,11 +12,15 @@
 	"ores": [
 		{
 			"ore": "cassiterite",
-			"weight": 60
+			"weight": 55
 		},
 		{
 			"ore": "tin",
-			"weight": 40
+			"weight": 35
+		},
+		{
+			"ore": "saltpeter",
+			"weight": 10
 		}
 	],
 	"rocks": [
@@ -27,12 +31,14 @@
 	"indicator": {
 		"rarity": 12,
 		"depth": 60,
-		"underground_rarity": 1,
-		"underground_count": 1,
 		"blocks": [
 			{
 				"block": "tfc:ore/small_cassiterite",
-				"weight": 100
+				"weight": 90
+			},
+			{
+				"block": "gtceu:saltpeter_indicator",
+				"weight": 10
 			}
 		]
 	},

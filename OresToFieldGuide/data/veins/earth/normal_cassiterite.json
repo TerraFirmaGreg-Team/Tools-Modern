@@ -12,13 +12,17 @@
 	"ores": [
 		{
 			"ore": "cassiterite",
-			"weight": 40,
+			"weight": 35,
 			"block_weight": 1
 		},
 		{
 			"ore": "tin",
-			"weight": 60,
+			"weight": 55,
 			"block_weight": 1
+		},
+		{
+			"ore": "saltpeter",
+			"weight": 10
 		}
 	],
 	"rocks": [
@@ -32,7 +36,11 @@
 		"blocks": [
 			{
 				"block": "tfc:ore/small_cassiterite",
-				"weight": 100
+				"weight": 90
+			},
+			{
+				"block": "gtceu:saltpeter_indicator",
+				"weight": 10
 			}
 		]
 	},

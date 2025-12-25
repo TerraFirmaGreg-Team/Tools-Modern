@@ -41,9 +41,7 @@
 	],
 	"indicator": {
 		"rarity": 12,
-		"depth": 60,
-		"underground_rarity": 1,
-		"underground_count": 1
+		"depth": 60
 	},
 	"translations": [
 		{
