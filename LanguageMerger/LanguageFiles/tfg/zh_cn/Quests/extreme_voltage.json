@@ -188,7 +188,7 @@
     "quests.extreme_voltage.nano_ev.desc": "如果你能实现&b纳米CPU&r的规模化高效生产，这类电路的实际制造成本或将低于等量&b微型处理器&r。当&c裂变生产线&r实现全自动化后，这些电路将成为高端设备制造的极致经济之选。\n\n同时请注意，从现在起你可以使用高级贴片元件了！",
     "quests.extreme_voltage.nano_iv.subtitle": "更接近LuV技术了",
     "quests.extreme_voltage.nano_iv.desc": "这些&1IV&r电路仍然需要一个&b纳米CPU芯片&r，就此而言其成本并未低于&b微型处理器&r。\n\n但它们是迈向更高技术层级的必备要素。",
-    "quests.extreme_voltage.nano_luv.subtitle": "你的第一批IV电路",
+    "quests.extreme_voltage.nano_luv.subtitle": "你的第一批LuV电路",
     "quests.extreme_voltage.nano_luv.desc": "恭喜你成功解锁新一代电路！这些&dLuV电路&r目前用途不多——在完成&b铂系生产线&r前你无法制造任何&dLuV机器&r，但它们对制作新型&dAE2&r工具与组件仍具有重要价值。\n\n大部分相关配方需在&1IV组装机&r中完成，请确保已备好该设备。",
     "quests.extreme_voltage.me_part.title": "ME多方块部件",
     "quests.extreme_voltage.me_part.subtitle": "将格雷科技直接连接到你的AE2网络",

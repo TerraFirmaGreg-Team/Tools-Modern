@@ -12,7 +12,7 @@
     "quests.high_voltage.chem_bath.desc": "&3HV化学浸洗机&r可使用&a化学染料&r对透镜进行&d染色&r。这将使你能够蚀刻更多类型的晶圆，并冷却其他类型的热锭。",
     "quests.high_voltage.maintenance_hatches.title": "高级维护",
     "quests.high_voltage.maintenance_hatches.subtitle": "我成了维护员，胶带的吞噬者",
-    "quests.high_voltage.maintenance_hatches.desc.1": "现已解锁两种&3新型维护仓&r。这两种维护仓在首次装入多方块结构时&6无需维护&r。\n\n&3自动维护仓&r功能简单直接——它能&6永久性&r消除维护需求。\n\n&3可配置维护仓&r则更有趣。你可以将其配置为缩短&a10%%&r配方耗时，但代价是维护需求速度提升至三倍（相当于&d16现实小时&r的运行周期）。若用于多方块发电机，则可延长配方耗时，间接提升10%%燃料效率！\n\n&9提示：&r将胶带放入维护仓可自动修复故障。",
+    "quests.high_voltage.maintenance_hatches.desc.1": "现已解锁两种&3新型维护仓&r。\n\n&3自动维护仓&r功能简单直接——它能&6永久性&r消除维护需求。\n\n&3可配置维护仓&r则更有趣。你可以将其配置为缩短&a10%%&r配方耗时，但代价是维护需求速度提升至三倍（相当于&d16现实小时&r的运行周期）。若用于多方块发电机，则可延长配方耗时，间接提升10%%燃料效率！\n\n&9提示：&r将胶带放入维护仓可自动修复故障。",
     "quests.high_voltage.maintenance_hatches.desc.2": "&l&3背景知识：&r&o自动维护仓的纹理与机制源自TecTech——最初为”格雷科技：新视野（GT:NH）“整合包开发的附属模组。\n\n&o若你随我们坚持游玩至后期阶段，将会接触到更多来自TecTech的内容。",
     "quests.high_voltage.hv_components.title": "高压组件",
     "quests.high_voltage.hv_components.subtitle": "我们称之为“乐趣”",
