@@ -192,6 +192,11 @@
     "quests.tfg_tips.feeding_troughs.desc": "Feeding Troughs (also known as Grooming Stations) are a way to automatically feed your animals every morning. It even comes with an option to avoid feeding animals that are already at maximum familiarity, in case you don't want to breed them.\n\nHigher tiers come with a higher range of effectiveness.\n\n&3&lTip:&r&o You might not want to put one right next to your fence, otherwise animals will try to use it to escape their pen!",
     "quests.tfg_tips.feeding_troughs.task": "Any feeding trough",
 
+    "quests.tfg_tips.scraping_knives.title": "Scraping Knives",
+    "quests.tfg_tips.scraping_knives.subtitle": "The Cooler Scraping",
+    "quests.tfg_tips.scraping_knives.desc": "Tired of scraping each section of your hides, paper, or flax by hand? Try making a Scraping Knife!\n\nA basic copper or bronze scraping knife can scrape a full line of material at a time, with higher tier knives being capable of scraping more lines.",
+    "quests.tfg_tips.scraping_knives.task": "Any Scraping Knife",
+
     "quests.tfg_tips.glassblowing.title": "Glassblowing",
     "quests.tfg_tips.glassblowing.subtitle": "Realistic Glassworking!",
     "quests.tfg_tips.glassblowing.desc": "To make any sort of &dGlass Pane&r or &dBlock&r, you'll need a &3glassblowing&r setup.\n\n&3Glassblowing&r will require some sort of &aBlowpipe&r, and a platform made out of glassblowing blocks to pour the molten glass. Check out the &2Field Guide&r for more information on the shape of the platform and what blocks are valid. You'll have access to glassblowing as soon as you can shape &aBrass!&r",
@@ -617,7 +622,7 @@
 
     "quests.tfg_tips.scarlet_biplane.title": "Scarlet Biplane",
     "quests.tfg_tips.scarlet_biplane.subtitle": "What a sight to behold",
-    "quests.tfg_tips.scarlet_biplane.desc": "The &3Scarlet Biplane&r is one of the two final upgrades for &bPlanes&r, requiring &6HV&r components.\n\nIt contains &b27 Inventory Slots&r, &a4 Upgrade Slots&r, &c2 Weapon Slots&r, and also a &4Booster Slot&r, just like the regular biplane.\n\nWhile expensive, the &3Scarlet Biplane&r makes up for it with increased durability, increased max speed, and overall swag.",
+    "quests.tfg_tips.scarlet_biplane.desc": "The &3Scarlet Biplane&r is one of the two final upgrades for &bPlanes&r, requiring &bMV&r components.\n\nIt contains &b27 Inventory Slots&r, &a4 Upgrade Slots&r, &c2 Weapon Slots&r, and also a &4Booster Slot&r, just like the regular biplane.\n\nWhile expensive, the &3Scarlet Biplane&r makes up for it with increased durability, increased max speed, and overall swag.",
 
     "quests.tfg_tips.aluminium_hopper.title": "Aluminium Hopper",
     "quests.tfg_tips.aluminium_hopper.subtitle": "So light it floats on water!",

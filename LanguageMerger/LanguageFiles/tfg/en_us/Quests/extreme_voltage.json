@@ -250,7 +250,7 @@
     "quests.extreme_voltage.nano_iv.subtitle": "Getting closer to LuV technology",
     "quests.extreme_voltage.nano_iv.desc": "These &1IV&r Circuits still require one &bNano CPU Chip&r, so in that regard they aren’t actually cheaper than the &bMicroprocessors&r.\n\nHowever, they will be essential for progressing toward the next tier of technology.",
 
-    "quests.extreme_voltage.nano_luv.subtitle": "Your first IV circuits",
+    "quests.extreme_voltage.nano_luv.subtitle": "Your first LuV circuits",
     "quests.extreme_voltage.nano_luv.desc": "Congrats on successfully reaching a new tier of circuits! These &dLuV&r Circuits won’t have much use just yet, as you can’t craft any &dLuV&r machines before completing the &bPlatline&r, but they’ll still be valuable for crafting new &dAE2&r tools and components.\n\nMost of these recipes will require an &1IV&r Assembler, so be sure you have one ready.",
 
     "quests.extreme_voltage.me_part.title": "ME Multiblock Parts",
