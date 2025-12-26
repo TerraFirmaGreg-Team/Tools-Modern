@@ -122,7 +122,6 @@
     "item.tfg.food.cooked_limpet": "Жареное мясо рудовичка",
     "item.tfg.food.raw_moon_rabbit": "Сырая лунная крольчатина",
     "item.tfg.food.cooked_moon_rabbit": "Жареная лунная крольчатина",
-    "item.tfg.spawn_egg.moon_rabbit": "Яйцо призыва лунного кролика",
     "item.tfg.food.freeze_dried.red_grapes": "Лиофилизированный красный виноград",
     "item.tfg.food.freeze_dried.white_grapes": "Лиофилизированный белый виноград",
     "item.tfg.food.freeze_dried.glow_berries": "Лиофилизированные светящиеся ягоды",
@@ -161,10 +160,8 @@
 
     "item.tfg.food.raw_glacian_mutton": "Сырая гласианская баранина",
     "item.tfg.food.cooked_glacian_mutton": "Приготовленная гласианская баранина",
-    "item.tfg.spawn_egg.glacian_ram": "Яйцо призыва гласианского барана",
     "item.tfg.food.raw_sniffer_beef": "Сырое мясо нюхача",
     "item.tfg.food.cooked_sniffer_beef": "Приготовленное мясо нюхача",
-    "item.tfg.spawn_egg.sniffer": "Яйцо призыва нюхача",
     "item.tfg.food.raw_wraptor": "Сырое мясо ираптора",
     "item.tfg.food.cooked_wraptor": "Приготовленное мясо ираптора",
     "item.tfg.food.raw_springling_collar": "Сырая шейка долгошея",
@@ -190,12 +187,40 @@
     "item.tfg.food.cooked_cruncher_ribs": "Приготовленное ребрышки кусача",
     "item.tfg.food.raw_dino_nugget": "Сырые наггетсы из динозавра",
     "item.tfg.food.cooked_dino_nugget": "Приготовленные наггетсы из динозавра в пивном кляре",
+    "item.tfg.food.raw_beer_battered_cheese_curds": "Сырые сырные шарики в пивном кляре",
+    "item.tfg.food.cooked_beer_battered_cheese_curds": "Жареные сырные шарики в пивном кляре",
+    "item.tfg.food.raw_fries": "Сырой картофель фри",
+    "item.tfg.food.cooked_fries": "Картофель фри",
+    "item.tfg.food.poutine": "Путин",
+    "item.tfg.food.brioche_dough": "Тесто для бриошей",
+    "item.tfg.food.brioche_bun": "Булочка бриош",
+    "item.tfg.food.raw_burger_patty": "Сырая котлета для бургера",
+    "item.tfg.food.cooked_burger_patty": "Бургерная котлета",
+    "item.tfg.food.slice_of_cheese": "Кусочек \"сыррра\"",
+    "item.tfg.food.hamburger": "Гамбургер",
+    "item.tfg.food.cheeseburger": "Чизбургер",
+    "item.tfg.food.oatmeal": "Овсянка",
+    "item.tfg.food.raw_instant_mac": "Неприготовленные макароны с сыром быстрого приготовления",
+    "item.tfg.food.cooked_instant_mac": "Макароны с сыром быстрого приготовления",
+
+    "item.tfg.spice.bay_leaf": "Лавровый лист",
+    "item.tfg.spice.cardamom_pods": "Стручки кардамона",
+    "item.tfg.spice.cilantro_leaves": "Листья кинзы",
+    "item.tfg.spice.cumin_seeds": "Семена тмина",
+    "item.tfg.spice.oregano_leaves": "Листья орегано",
+    "item.tfg.spice.allspice": "Пименто",
 
     "item.tfg.roasted_sunflower_seeds": "Обжаренные семена подсолнуха",
     "item.tfg.sunflower_seeds": "Семена подсолнуха",
     "item.tfg.sunflower_product": "Шляпка подсолнуха",
     "item.tfg.rapeseed_seeds": "Семена канолы",
     "item.tfg.rapeseed_product": "Стручок канолы",
+
+    "item.tfg.spawn_egg.moon_rabbit": "Яйцо призыва лунного кролика",
+    "item.tfg.spawn_egg.surfer": "Яйцо призыва сёрфера",
+    "item.tfg.spawn_egg.wraptor": "Яйцо призыва ираптора",
+    "item.tfg.spawn_egg.glacian_ram": "Яйцо призыва гласианского барана",
+    "item.tfg.spawn_egg.sniffer": "Яйцо призыва нюхача",
 
     "item.tfg.flintlock_mechanism": "Ударно-кремнёвый замок",
     "item.tfg.advanced_clockwork_mechanism": "Продвинутый шестерёнчатый агрегат",
@@ -374,7 +399,27 @@
     "item.tfg.lamp_casting_mold": "Отливная форма (Фонарь)",
     "item.tfg.trapdoor_casting_mold": "Отливная форма (Люк)",
     "item.tfg.chain_casting_mold": "Отливная форма (Цепь)",
-    "item.tfg.bell_casting_mold": "Отливная форма (Колокол)"
+    "item.tfg.bell_casting_mold": "Отливная форма (Колокол)",
+
+    "item.tfg.rnr_plow": "Тележка для мощения",
+    "item.tfg.cobalt_brass_wheel": "Колесо (Кобальтовая латунь)",
+
+    "item.tfg.cellulose_matrix": "Целлюлозная матрица",
+    "item.tfg.smooth_endoplasmic_reticula": "Гладкая эндоплазматическая ретикула",
+    "item.tfg.rough_endoplasmic_reticula": "Шероховатая эндоплазматическая ретикула",
+    "item.tfg.alpha_keratin": "α-Кератин",
+    "item.tfg.progenitor_cells": "Клетки-предшественники",
+
+    "item.tfg.catalyser_pt_re_zsm": "Катализатор Pt-Re ZSM-5",
+    "item.tfg.used_catalyser": "Использованный катализатор Pt-Re ZSM-5",
+    "item.tfg.loaded_resin": "Насыщенная рением смола",
+
+    "item.tfg.rod_mold": "Огнеупорная форма стержня",
+    "item.tfg.small_gear_mold": "Огнеупорная форма маленькой шестерни",
+    "item.tfg.nugget_mold": "Форма самородка",
+    "item.tfg.unfired_rod_mold": "Необоженная огнеупорная форма стержня",
+    "item.tfg.unfired_small_gear_mold": "Необоженная огнеупорная форма маленькой шестерни",
+    "item.tfg.unfired_nugget_mold": "Необоженная форма самородка"
 
 }
 

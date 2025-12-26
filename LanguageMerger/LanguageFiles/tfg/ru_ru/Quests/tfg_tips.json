@@ -144,6 +144,7 @@
     "quests.tfg_tips.memory_card.subtitle": "Ctrl+C Ctrl+V",
     "quests.tfg_tips.memory_card.desc": "Когда ты пытаешься &aраспараллелить свою систему&r, добавляя больше машин, настройка всех &eвходов&r и &eвыходов&r для каждой из них может сильно раздражать. Да-да, мы смотрим на вас, &dСупер сундуки&r и &dСупер резервуары&r.\n\nЕсли тебе когда-нибудь понадобится этот небольшой инструмент, не стесняйся им пользоваться.",
 
+    "quests.tfg_tips.portable_scanner.title":"Портативный сканер",
     "quests.tfg_tips.portable_scanner.subtitle": "Для любопытных игроков GregTech",
     "quests.tfg_tips.portable_scanner.desc.1": "&aПортативный сканер&r, он же &aТрикодер&r, — это отладочный инструмент GTCEu.\n\nПри использовании он покажет тебе информацию о блоке, данные об энергетической сети, его текущее состояние и содержимое, а также влияние на производительность.\n\nТакже он отображает процент оставшейся жидкости в жиле для &3жидкостных буровых установок&r.",
     "quests.tfg_tips.portable_scanner.desc.2": "&l&3Предистория:&r&o Этот маленький полезный девайс пришёл из GregTech 5. В ранние времена он был крайне полезен, потому что GUI и WAILA давали очень мало информации (по сути — почти никакой).",
@@ -225,7 +226,7 @@
     "quests.tfg_tips.tallow.task": "Ведро жира",
 
     "quests.tfg_tips.olive_oil.title": "Топливо для фонаря: Оливковое масло",
-    "quests.tfg_tips.olive_oil.subtitle": "Чуточкуо'ливковогомасла",
+    "quests.tfg_tips.olive_oil.subtitle": "Чуточку оливкового масла",
     "quests.tfg_tips.olive_oil.desc": "&dОливковое масло&r можно использовать в качестве топлива. Хотя его и сложнее получить по сравнению с другими, но полного фонаря хватает на целых &c83&r дня!\n\n&3&lСовет:&r&o Доступ к электрическим механизмам уже на уровне &7LV&r значительно упростит обработку.",
     "quests.tfg_tips.olive_oil.task": "Ведро оливкового масла",
 
@@ -955,7 +956,7 @@
     "quests.tfg_tips.tools_tips.seed_oil.task": "Любое ведро растительного масла",
 
     "quests.tfg_tips.tools_tips.soybean_oil.title": "Топливо для фонаря: Соевое масло",
-    "quests.tfg_tips.tools_tips.soybean_oil.subtitle": "фонарь на белковой диете",
+    "quests.tfg_tips.tools_tips.soybean_oil.subtitle": "Фонарь на белковой диете",
     "quests.tfg_tips.tools_tips.soybean_oil.desc": "&dСоевое масло&r горит так же долго как и растительон масло — &c72&r дня. ",
     "quests.tfg_tips.tools_tips.soybean_oil.task": "Любое ведро соевого масла",
 
