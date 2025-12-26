@@ -741,6 +741,9 @@ namespace OresToFieldGuide
 
 				foreach (var vein in veins)
 				{
+					if (vein.VisualOnly == true)
+						continue;
+
 					builder.AppendLine($"\tevent.add('{dimension.VeinTag}', 'tfg:{dimension.ID}/vein/{vein.ID}')");
 				}
 
