@@ -3,6 +3,7 @@
 	"material.tfg.vulcanized_latex": "Vulcanized Latex",
 	"material.tfg.fluix": "Fluix",
 	"material.tfg.conifer_pitch": "Conifer Pitch",
+	"material.tfg.pyrogallol": "Pyrogallol",
 
 	"material.gtceu.lactose": "Lactose",
 
@@ -163,7 +164,7 @@
 	"material.tfg.organic_stabilizer": "Organic Stabilizer",
 	"material.tfg.inert_dust_fraction": "Inert Fraction",
 	"material.tfg.recovered_ionic_complex": "Recovered Ionic Complex",
-	
+
 	"material.tfg.glucose": "Glucose",
 	"material.tfg.galactose": "Galactose",
 	"material.tfg.fructose": "Fructose",
@@ -173,7 +174,7 @@
 	"material.tfg.linolenic_acid": "α-Linolenic Acid",
 	"material.tfg.isosorbide_ln": "Isosorbide Linolenate",
 	"material.tfg.epox_isosorbide_ln": "Epoxidized Isosorbide Linolenate",
-	
+
 	"material.tfg.ozone": "Ozone",
 	"material.tfg.tin_chloride": "Stannous Chloride",
 	"material.tfg.cyclohexanone": "Cyclohexanone",
