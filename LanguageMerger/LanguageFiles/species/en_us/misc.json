@@ -1,0 +1,10 @@
+{
+	"__comment__": "These are mini tameable sulfur creepers, so you can give them a cute name",
+
+	"entity.species.trooper": "Sulfie",
+	"subtitles.entity.species.trooper.death": "Sulfie dies",
+	"subtitles.entity.species.trooper.hurt": "Sulfie hurts",
+	"subtitles.entity.species.trooper.step": "Sulfie trots",
+	"subtitles.entity.species.trooper.uproot": "Sulfie uproots",
+	"subtitles.entity.species.trooper.plant": "Sulfie plants"
+}
