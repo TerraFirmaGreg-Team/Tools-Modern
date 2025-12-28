@@ -109,7 +109,7 @@
 
     "quests.high_voltage.ender_pearls.title": "Ender Pearls",
     "quests.high_voltage.ender_pearls.subtitle": "Sci-fi gemstones, or something",
-    "quests.high_voltage.ender_pearls.desc": "You won't find any Endermen dropping Ender Pearls in TFG.\nEven the ones lurking in the Beneath won’t help you there.\n\nInstead, your only option for now is to craft them yourself:\n\nCombine &2Beryllium Dust&r and &2Potassium Dust&r in a &6HV&r Mixer to create the elusive &5Ender Dust&r.\n\nOnce that's done, throw it into an &8Implosion Compressor&r and recreate the iconic Ender Pearl — GregTech style.",
+    "quests.high_voltage.ender_pearls.desc": "You won't find any Endermen dropping Ender Pearls in TFG.\nEven the ones lurking in the Beneath won’t help you there.\n\nInstead, your only option for now is to craft them yourself:\n\nCombine &2Beryllium Dust&r and &2Potassium Dust&r in a &6HV&r Mixer to create the elusive &5Ender Dust&r.\n\nOnce that's done, throw it into an &7Implosion Compressor&r and recreate the iconic Ender Pearl — GregTech style.",
 
     "quests.high_voltage.boules.title": "Phosphorus Boules",
     "quests.high_voltage.boules.subtitle": "That's dope, bro!",
@@ -158,7 +158,7 @@
     "quests.high_voltage.hv_hull.subtitle": "Soon to be a minestronaut",
     "quests.high_voltage.hv_hull.desc.1": "&2We hope you're getting the hang of &9GregTech&r, because now it's time to push your skills a bit further.\nIn this chapter, you'll unlock &eadvanced multiblocks&r, &ecomplex processes&r, and even take your first steps onto the &fMoon&r!\n\n&6For this chapter, you have two main goals :&r\n- Craft your first &5EV&r Machine Hull\n- Begin your journey to the &fMoon&r\n\nUnlocking the Moon will also grant access to &bCertus Quartz&r, paving the way for &dApplied Energistics 2&r. You’re free to tackle these objectives in any order you prefer.",
     "quests.high_voltage.hv_hull.desc.2": "To craft the &5EV&r Machine Hull:\n- Build your first &aCleanroom&r\n- Construct a &bVacuum Freezer&r to cool hot ingots\n- Process &9Rutile&r into &7Titanium&r\n\nYou'll find plenty of &9Rutile&r on the &fMoon&r, but it can also be located in &eBauxite&r veins in the &aOverworld&r.",
-    "quests.high_voltage.hv_hull.desc.3": "To reach the Moon:\n- Craft a generous amount of &6Rocket Alloy&r\n- Create your first &eEnder Eye&r using the &3Chemical Bath&r and the &8Implosion Compressor&r\n- Prepare all the &bequipment&r you'll need to &bbreathe in space&r\n\nGetting the &bVacuum Freezer&r and &6better coils&r will speed up &6Rocket Alloy&r production, but they’re not mandatory.\n\n&dChoose your path!&r",
+    "quests.high_voltage.hv_hull.desc.3": "To reach the Moon:\n- Craft a generous amount of &6Rocket Alloy&r\n- Create your first &eEnder Eye&r using the &3Chemical Bath&r and the &7Implosion Compressor&r\n- Prepare all the &bequipment&r you'll need to &bbreathe in space&r\n\nGetting the &bVacuum Freezer&r and &6better coils&r will speed up &6Rocket Alloy&r production, but they’re not mandatory.\n\n&dChoose your path!&r",
 
     "quests.high_voltage.nichrome.title": "Nichrome Ingots",
     "quests.high_voltage.nichrome.subtitle": "It doesn't have much use",
@@ -249,7 +249,7 @@
 
     "quests.high_voltage.regolith_vapor.title": "Regolith Vapor",
     "quests.high_voltage.regolith_vapor.subtitle": "The little something to make dusts into ores",
-    "quests.high_voltage.regolith_vapor.desc": "To process your &bRegolith Dust&r, you’ll need &bRegolith Vapor&r — and setting it up is a bit more involved.\n\nHere’s what you’ll need:\n\n• &7Lunar Sand&r — obtainable infinitely with a &6Rock Breaker&r.\n• &eCarbon Dioxide&r — produced from &9Oxygen&r and &8Carbon Dust&r (easy, thanks to the infinite &bDiamond Dust&r you’ll be getting).\n• &9Nitrogen&r — acquired through the cultivation of &dChorus Fruits&r.\n\nTip: You can loop your &9Oxygen&r through &bSilicon Dioxide&r, which also gives you a steady bonus of &eSilicon Dust&r — a very useful side product.",
+    "quests.high_voltage.regolith_vapor.desc": "To process your &bRegolith Dust&r, you’ll need &bRegolith Vapor&r — and setting it up is a bit more involved.\n\nHere’s what you’ll need:\n\n• &7Lunar Sand&r — obtainable infinitely with a &6Rock Breaker&r.\n• &eCarbon Dioxide&r — produced from &9Oxygen&r and &7Carbon Dust&r (easy, thanks to the infinite &bDiamond Dust&r you’ll be getting).\n• &9Nitrogen&r — acquired through the cultivation of &dChorus Fruits&r.\n\nTip: You can loop your &9Oxygen&r through &bSilicon Dioxide&r, which also gives you a steady bonus of &eSilicon Dust&r — a very useful side product.",
     "quests.high_voltage.regolith_vapor.task": "Got it",
 
     "quests.high_voltage.regolith_dust.title": "Regolith for each biomes",

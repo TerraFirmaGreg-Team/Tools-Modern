@@ -61,7 +61,7 @@
 
 	"quests.low_voltage.lv_gas_turbine.title": "The Gas Turbine",
 	"quests.low_voltage.lv_gas_turbine.subtitle": "It needs more circuits but less materials",
-	"quests.low_voltage.lv_gas_turbine.desc": "With the help of &7Syngas&r, you now have a viable way to use the &8Gas Turbine&r at &7LV&r. They work exactly like the other &6generators&r but should be a tiny bit cheaper than the &6Combustion Generator&r.",
+	"quests.low_voltage.lv_gas_turbine.desc": "With the help of &7Syngas&r, you now have a viable way to use the &cGas Turbine&r at &7LV&r. They work exactly like the other &6generators&r but should be a tiny bit cheaper than the &6Combustion Generator&r.",
 
 	"quests.low_voltage.lv_gas_syngas.title": "Syngas",
 	"quests.low_voltage.lv_gas_syngas.subtitle": "Not Wood Gas",

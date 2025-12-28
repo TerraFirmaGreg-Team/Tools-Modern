@@ -61,7 +61,7 @@
 
 	"quests.low_voltage.lv_gas_turbine.title": "ガスタービン発電",
 	"quests.low_voltage.lv_gas_turbine.subtitle": "ちょっと背伸びした発電",
-	"quests.low_voltage.lv_gas_turbine.desc": "&7合成ガス&rがあれば、&7LV&rでも&8ガスタービン&rを実用的に使うことができます。他の&6発電機&rと扱いはほとんど変わりませんが、&6燃焼発電機&rよりもわずかにコストパフォーマンスの面で優れています。",
+	"quests.low_voltage.lv_gas_turbine.desc": "&7合成ガス&rがあれば、&7LV&rでも&7ガスタービン&rを実用的に使うことができます。他の&6発電機&rと扱いはほとんど変わりませんが、&6燃焼発電機&rよりもわずかにコストパフォーマンスの面で優れています。",
 
 	"quests.low_voltage.lv_gas_syngas.title": "合成ガス",
 	"quests.low_voltage.lv_gas_syngas.subtitle": "木質ガスじゃないよ",
