@@ -24,7 +24,7 @@
     "quests.high_voltage.hv_components.desc.1": "Just like &bMV&r, you'll need to make higher-tier components.\n\nThe painful &dFlawless Gems&r have been replaced with slightly-more-painful &dVitrified Ender Pearls&r. Also notice that the &aMotors&r require &d2x Silver Cables&r.\n&aHulls&r and &aMachines&r use &dGold Cables&r.\n\nFinally, a use for that stockpile of Gold!",
     "quests.high_voltage.hv_components.desc.2": "&9&lTips to make life less painful:&r\n\n- Use &dElectrotine decomposition&r and &dOre Processing&r for &eElectrum&r.\n- Use the &3Chemical Bath&r with &dMercury&r for &eGold&r and &eSilver&r from a wide variety of ores.",
 
-    "quests.high_voltage.assembler.title": "HV Assembling Machine",
+    "quests.high_voltage.assembler.title": "HV Assembler",
     "quests.high_voltage.assembler.desc": "The &3HV Assembler&r is the next step in progression, but also unlocks a handful of useful utilities - check around this quest for more.\n\nYou will need this &6HV Assembler&r to make your &dRocket&r.",
 
     "quests.high_voltage.lenses.title": "I see the world in colour",
@@ -35,7 +35,7 @@
 
     "quests.high_voltage.hv_energy_hatch.title": "Upgrade your EBF II",
     "quests.high_voltage.hv_energy_hatch.subtitle": "Noticing a pattern here?",
-    "quests.high_voltage.hv_energy_hatch.desc": "The &aLow Power Integrated Circuit&r requires an &3HV Cutting Machine&r inside your &3Cleanroom&r.\n\n&3HV Energy Hatches&r will be nice additions so you can run your Multiblocks (mainly your Electric Blast Furnace and Large Chemical Reactor) directly off a &6HV&r line.",
+    "quests.high_voltage.hv_energy_hatch.desc": "The &aLow Power Integrated Circuit&r requires an &3HV Cutter&r inside your &3Cleanroom&r.\n\n&3HV Energy Hatches&r will be nice additions so you can run your Multiblocks (mainly your Electric Blast Furnace and Large Chemical Reactor) directly off a &6HV&r line.",
 
     "quests.high_voltage.chem_reactor.title": "High Voltage Chemistry",
     "quests.high_voltage.chem_reactor.desc": "The &3HV Chemical Reactor&r unlocks a ton of new recipes. Ah, who doesn't love the ever-growing demand on more advanced Chemistry?\n\n&9Note:&r We've actually unlocked a ton of new content by reaching &6HV&r. However, not every processing line or item is crucial right now. It'd make the &6HV&r chapter far too dense if we included everything!\n\nYou could still check out the &5EV&r Chapter if you want to push yourself.",

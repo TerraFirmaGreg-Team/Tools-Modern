@@ -18,7 +18,12 @@
 
     "quests.extreme_voltage.ev_components.title": "Extreme Voltage Components",
     "quests.extreme_voltage.ev_components.subtitle": "The \"Fun\" will never stop",
-    "quests.extreme_voltage.ev_components.desc": "&7By now, you should be getting used to the pattern with every new Energy Tier comes a fresh batch of components.&r\n\nThe &5EV&r tier comes with a few twists - first, &eNeodymium&r. You might already have some stored from your earlier mining trips, but you’ll also find it in large quantities when processing &eMonazite Ore&r.\n\nSecondly, Sensors and Emitters require &bCryogenized Fluix Pearls&r. Hopefully your &dMoon&r infrastructure is up and running to supply them efficiently.\n\nLastly, Motors require Kanthal wire. If you've been diligently upgrading your EBF, these should be significantly faster to craft than when you made them in MV (and you can recycle your old coils too!), but the Alloy Blast Smelter will be able to make this even faster.",
+    "quests.extreme_voltage.ev_components.desc": "&7By now, you should be getting used to the pattern: with every new Energy Tier comes a fresh batch of components.&r\n\nThe &5EV&r tier comes with a few twists - first, &eNeodymium&r. You might already have some stored from your earlier mining trips, but you’ll also find it in large quantities when processing &eMonazite Ore&r.\n\nSecondly, Sensors and Emitters require &bCryogenized Fluix Pearls&r. Hopefully your &dMoon&r infrastructure is up and running to supply them efficiently.\n\nLastly, Motors require Kanthal wire. If you've been diligently upgrading your EBF, these should be significantly faster to craft than when you made them in MV (and you can recycle your old coils too!), but the Alloy Blast Smelter will be able to make this even faster.",
+
+    "quests.extreme_voltage.assembler.title": "EV Assembler",
+    "quests.extreme_voltage.assembler.subtitle": "Last step before some Extreme power generation!",
+    "quests.extreme_voltage.assembler.desc.1": "You know what to do with this by now, but this is a good time to give you a heads up that now is the time to scale up your factory if you haven't already done so.\n\nTake your time to set up AE2 all over your base, making it print you dozens of new machines to keep your factory running at tip-top shape, because if you don't, the rest of EV is going to hit you like a brick wall.\n\nDon't wait to find out the hard way!",
+    "quests.extreme_voltage.assembler.desc.2": "At the very least, here's what we recommend before pushing further into EV:\n\n&9-&r Passive production of Rubber, Polyethylene, Oxygen, Hydrogen, Nitrogen, and Chlorine\n&9-&r At least two general-purpose EBFs, and a few LCRs\n&9-&r AE2 patterns for a circuit of every tier and most of the common crafting components like motors, pumps, plates, and wires\n&9-&r A dedicated ore processing setup\n&9-&r A couple EV amps worth of power generation (see the below quests)\n\nYou can do it, you've made it this far already!",
 
     "quests.extreme_voltage.t2_rocket.title": "Rocket 2: Titanium Boogaloo",
     "quests.extreme_voltage.t2_rocket.subtitle": "This one's purple",
@@ -295,8 +300,8 @@
     "quests.extreme_voltage.wood_distillation.desc.3": "It's also possible to use a \"full combo\" of 4 &3DTs&r - input &aCharcoal Byproducts&r into a first tower, splitting into &aWood Tar&r, &aWood Gas&r and &aWood Vinegar&r.\n\nThis isn't the most efficient cost-to-production ratio, but the option is there if you get bored.",
     "quests.extreme_voltage.wood_distillation.task": "Any of these",
 
-    "quests.extreme_voltage.new_qol.title": "New QoL?",
-    "quests.extreme_voltage.new_qol.desc": "Here's some useful tools that you've unlocked with the EV Assembler.",
+    "quests.extreme_voltage.new_qol.title": "New quality of life tools?",
+    "quests.extreme_voltage.new_qol.desc": "Here's some useful gadgets that you've unlocked with the EV Assembler.",
 
     "quests.extreme_voltage.building_gadgets.title": "Building Gadgets",
     "quests.extreme_voltage.building_gadgets.subtitle": "Paving over beautiful landscapes with just one press of a button!",
