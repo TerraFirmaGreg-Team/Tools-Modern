@@ -500,7 +500,7 @@
 
     "quests.tfg_tips.steam_upgrades.title": "Aircraft Upgrades: Steam",
     "quests.tfg_tips.steam_upgrades.subtitle": "Immersive Aircraft meets GregTech Tiering!",
-    "quests.tfg_tips.steam_upgrades.desc": "The second kind of aircraft upgrades are the &dTiered Upgrades.&r These are made to match the &3GregTech&r tiering system, going from &8Steam&r up to &5EV.&r\n\nSteam upgrades are the easiest and earliest to craft, requiring at the very least knowledge of &bBlack Steel.&r\n\n&dSteam-powered Aircraft Engines&r are used in the creation of more sophisticated aircrafts such as the &eBiplane&r and the &cWarship.&r",
+    "quests.tfg_tips.steam_upgrades.desc": "The second kind of aircraft upgrades are the &dTiered Upgrades.&r These are made to match the &3GregTech&r tiering system, going from &7Steam&r up to &5EV.&r\n\nSteam upgrades are the easiest and earliest to craft, requiring at the very least knowledge of &bBlack Steel.&r\n\n&dSteam-powered Aircraft Engines&r are used in the creation of more sophisticated aircrafts such as the &eBiplane&r and the &cWarship.&r",
     "quests.tfg_tips.steam_upgrades.task": "Any steam tier aircraft upgrade",
 
     "quests.tfg_tips.lv_upgrades.title": "Aircraft Upgrades: LV",
@@ -882,7 +882,7 @@
 
     "quests.tfg_tips.tools_tips.tools.title": "Tools",
     "quests.tfg_tips.tools_tips.tools.subtitle": "It's all a hammer anyways.",
-    "quests.tfg_tips.tools_tips.tools.desc": "The only thing seperating man from animal is our use of &l&bTools&r&r. &8&oExcept for apes, monkeys, dolphins, crows, otters, octo.......&r&r Use your skills and tools to make the most of this world, and &5save yourself&r some effort.",
+    "quests.tfg_tips.tools_tips.tools.desc": "The only thing seperating man from animal is our use of &l&bTools&r&r. &7&oExcept for apes, monkeys, dolphins, crows, otters, octo.......&r&r Use your skills and tools to make the most of this world, and &5save yourself&r some effort.",
 
     "quests.tfg_tips.tools_tips.seed_oil.title": "Lamp Fuel: Seed Oil",
     "quests.tfg_tips.tools_tips.seed_oil.subtitle": "Smells good when it burns.",

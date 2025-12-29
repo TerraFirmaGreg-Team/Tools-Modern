@@ -15,6 +15,10 @@
     "quests.extreme_voltage.ev_components.title": "超高压组件",
     "quests.extreme_voltage.ev_components.subtitle": "“乐趣”永不停歇",
     "quests.extreme_voltage.ev_components.desc": "&7到现在，你应该已经习惯了每个新能量等级都伴随一批新组件的模式了。&r\n\n&5EV&r等级有一些变化——首先是&e钕&r。你可能在早期挖矿旅行中已经储存了一些，但在处理&e独居石矿石&r时也会发现大量钕。\n\n其次，传感器和发射器需要&b低温福鲁伊克斯珍珠&r。希望你的&d月球&r基础设施已经建成并能有效供应它们。\n\n最后，电机需要坎塔尔合金线缆。如果你一直在勤勉地升级你的电力高炉，制造它们应该比在MV时快得多（而且你还可以回收旧线圈！），但合金冶炼炉能使其更快。",
+    "quests.extreme_voltage.assembler.title": "EV组装机",
+    "quests.extreme_voltage.assembler.subtitle": "开启EV发电前的最后冲刺！",
+    "quests.extreme_voltage.assembler.desc.1": "至此，这台机器的用法你应该已经了然于胸。现在正是提醒你的最佳时机：如果还没行动，请立刻着手扩建你的工厂。\n\n是时候在你的基地全面部署AE2自动化了，让它为你源源不断地生产出数十台新机器，确保整条生产线以最高效率运转。否则，EV阶段接下来的挑战，会像一堵高墙般让你寸步难行。\n\n千万别等到撞了南墙才后悔！",
+    "quests.extreme_voltage.assembler.desc.2": "在我们深入探讨EV阶段之前，以下是我们推荐的最低准备清单：\n\n&9-&r建立橡胶、聚乙烯、氧气、氢气、氮气与氯气的自动化产线\n&9-&r至少备好两台电力高炉和多台大型化学反应釜\n&9-&r在AE2中为所有等级的电路，以及马达、泵、板材、线缆等常用部件制作好样板\n&9-&r搭建一套专用的矿物处理系统\n&9-&r准备好能满足数安EV级电力需求的发电阵列（详见后续任务）\n\n你绝对能做到，毕竟一路闯关至此，早已证明你的实力！",
     "quests.extreme_voltage.t2_rocket.title": "火箭2：钛合金狂欢",
     "quests.extreme_voltage.t2_rocket.subtitle": "这个是紫色的",
     "quests.extreme_voltage.t2_rocket.desc": "这款新型火箭应该不难组装，但你会注意到材料成本相比之前的型号有明显提升。\n\n升级后的&6火箭合金&r现在需要同时使用&b蒸馏水&r和&b低温福鲁伊克斯&r进行冷却处理。\n\n请确保已完善搭建&e钛&r生产线，后续阶段将需要大量钛材！建立连续生产线会为你免去不少麻烦。",
@@ -222,8 +226,8 @@
     "quests.extreme_voltage.wood_distillation.desc.2": "这三种是&a木醋酸&r蒸馏的重要产物：\n\n&9-&r 乙酸：用于制造更多丙酮\n\n&9-&r 甲醇：一种中等重要的碳氢化合物\n\n&9-&r 丙酮：用于环氧树脂和汽油",
     "quests.extreme_voltage.wood_distillation.desc.3": "也可以使用4个&3蒸馏塔&r的“完全组合”——将&a木炭副产品&r输入第一个塔，分离成&a木焦油&r、&a木煤气&r和&a木醋酸&r。\n\n虽然这不是最优的成本效益比，但如果你觉得无聊，这个选项也是存在的。",
     "quests.extreme_voltage.wood_distillation.task": "以下任何一个",
-    "quests.extreme_voltage.new_qol.title": "生活品质全新升级",
-    "quests.extreme_voltage.new_qol.desc": "这里是你通过EV组装机解锁的一些实用工具。",
+    "quests.extreme_voltage.new_qol.title": "提升生活品质的新工具？",
+    "quests.extreme_voltage.new_qol.desc": "这里是你通过EV组装机解锁的一些实用小工具。",
     "quests.extreme_voltage.building_gadgets.title": "建筑小帮手",
     "quests.extreme_voltage.building_gadgets.subtitle": "一键搞定美景铺路！",
     "quests.extreme_voltage.building_gadgets.desc": "想要进一步扩展你的工厂建设吗？想一键粘贴另一个多方块结构吗？还是觉得那座山遮挡了你的视线？\n\n建筑小帮手 (Building Gadgets) 套件非你莫属——这套工具不仅能实现上述所有需求，更能超越你的想象。它们将成为你未来建设的完美工具，还配备了详尽的手册！",
@@ -255,5 +259,5 @@
     "quests.extreme_voltage.btx_loop.title": "回收使废催化剂",
     "quests.extreme_voltage.btx_loop.subtitle": "尽可能多地回收利用",
     "quests.extreme_voltage.btx_loop.desc.1": "这条生产链的最后一部分是回收废催化剂。整个过程相当简单，主要的挑战将是维持&a强化环氧树脂板&r和&e胶水&r的持续供应。\n\n如果你的&2树脂采集系统&r仍在运行，它应该足以生产制作胶水所需的所有树脂。或者，对原木使用&b提取机&r也是一个完全可行的选择。这种方法稍微更&c耗电&r，但选择完全取决于你的基础设施。",
-    "quests.extreme_voltage.btx_loop.desc.2": "关于&9稀盐酸&r的一点说明：它可以很容易地通过&b水&r与&a氯气&r反应制得。你可以储存&d次氯酸&r，或选择电解它以回收&f一半的氯气&r。\n\n至于&6硫酸&r，你应该已经通过&e石油化工蒸馏&r装置获得了无限的硫磺来源。如果还没有，我们强烈建议你尽快解决这个问题。此外，生产&b重整气&r时获得的&8煤焦油&r可以重新转化为&2硫化氢&r，并最终精炼回&6硫&r。"
+    "quests.extreme_voltage.btx_loop.desc.2": "关于&9稀盐酸&r的一点说明：它可以很容易地通过&b水&r与&a氯气&r反应制得。你可以储存&d次氯酸&r，或选择电解它以回收&f一半的氯气&r。\n\n至于&6硫酸&r，你应该已经通过&e石油化工蒸馏&r装置获得了无限的硫磺来源。如果还没有，我们强烈建议你尽快解决这个问题。此外，生产&b重整气&r时获得的&7煤焦油&r可以重新转化为&2硫化氢&r，并最终精炼回&6硫&r。"
 }
