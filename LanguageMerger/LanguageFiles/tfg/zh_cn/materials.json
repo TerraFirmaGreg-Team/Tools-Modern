@@ -163,7 +163,7 @@
     "material.tfg.crude_mixed_gas": "粗混合气",
     "material.tfg.zsm5_gel": "ZSM-5凝胶",
     "material.tfg.leachate": "铼浸出液",
-    "material.tfg.clean_powder": "纯净铼硅酸盐粉末",
-    "material.tfg.catalyser_powder": "铼/ZSM-5催化剂粉末",
+    "material.tfg.clean_powder": "纯净铼硅酸盐",
+    "material.tfg.catalyser_powder": "铼/ZSM-5催化剂",
     "material.tfg.sodium_aluminium": "铝钠合金"
 }
