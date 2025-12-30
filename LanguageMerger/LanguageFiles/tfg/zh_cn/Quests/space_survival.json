@@ -1,6 +1,6 @@
 {
-    "quests.space_survival": "提示与技巧-太空生存篇",
-    "quests.space_survival.subtitle": "那个尚未被资本主义腐蚀的地方……太空！",
+    "quests.moon": "月球",
+    "quests.moon.subtitle": "那个尚未被资本主义腐蚀的地方……太空！",
     "quests.space_survival.preparations.title": "发射前准备",
     "quests.space_survival.preparations.subtitle": "确保你准备好了！",
     "quests.space_survival.preparations.desc": "渴望飞向最后的边疆？我们完全理解你的热情，但你不能就这么把自己扔进太空然后指望能活下来！&9准备&r是生存的关键，否则你只会回到石器时代，敲几下石头然后窒息而死。\n\n确保你至少拥有以下物品：\n-一套航天服和一满桶可呼吸气体\n-一枚火箭和另一满桶备用燃料\n-一个发射台，以便你能返回\n-充足的食物和水\n-一件武器和盾牌，以防月球闹鬼……",
@@ -92,6 +92,8 @@
     "quests.space_survival.soulbound.subtitle": "你离出生点很远了",
     "quests.space_survival.soulbound.desc.1": "在TerraFirmaGreg整合包中，你可以在任何维度（甚至包括&6幽冥之地&r！）设置重生点，但除非你备有大量多余的&9航天服&r，否则在月球重生可能会引发一系列连锁问题。\n\n首要，你的床必须放置在&a充氧区域&r内部，否则重生瞬间将立即因窒息死亡（不过若发生停电事故，你仍应有足够时间破坏床具并重新设置重生点）。",
     "quests.space_survival.soulbound.desc.2": "其次，你可以用一个“灵魂宝珠”升级你的每一件航天服。这样在你死亡时它们也会保持穿戴状态！\n\n你可以从月球上任何更强大且具有攻击性的末影人身上获取这些灵魂宝珠。\n\n我们保证这是科幻设定，而非魔法元素。",
+    "quests.mars": "火星求生",
+    "quests.mars.subtitle": "流沙静候，征程伊始",
     "quests.space_survival.mars_desert.title": "火星荒漠",
     "quests.space_survival.mars_desert.subtitle": "沙，到处都是沙",
     "quests.space_survival.mars_desert.desc": "火星的绝大部分地表都被广袤无垠的沙漠覆盖。除偶尔出没的叠爪兽与巨型&6沙虫&r外，这片土地几乎荒无人烟。若是初临此地，你应当寻找更适宜生存的区域！否则…唯有在这无垠沙海中继续探寻……",

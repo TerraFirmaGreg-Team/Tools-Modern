@@ -65,6 +65,8 @@
 	"tfc.recipe.barrel.tfg.barrel.sunflower_to_oil": "Extracting Sunflower Oil",
 	"tfc.recipe.barrel.tfg.barrel.maple_syrup_to_sugar": "Making sugar",
 	"tfc.recipe.barrel.tfg.barrel.birch_syrup_to_sugar": "Making sugar",
+	"tfc.recipe.barrel.tfg.barrel.develop_black_and_white_film": "Developing film",
+	"tfc.recipe.barrel.tfg.barrel.develop_color_film": "Developing film",
 
 	"tfc.recipe.barrel.tfg.barrel.light_concrete": "Solidifying Concrete",
 	"tfc.recipe.barrel.tfg.barrel.reinforced_light_concrete_support": "Solidifying Concrete",
@@ -77,7 +79,7 @@
 	"tfg.food_recipe.smoking": "Smoking",
 	"tfg.food_recipe.drying": "Drying",
 	"tfg.food_recipe.freeze_drying": "Desiccate",
-    "tfg.food_recipe.deep_frying": "Deep Frying",
+	"tfg.food_recipe.deep_frying": "Deep Frying",
 	"tfg.recipe.macerator_warning": "Only outputs first slot until HV",
 
 	"tfg.grapplemod.repair": "Repair recipe, keeps your upgrades. §lNEVER combine two grapples or you'll lose ALL your upgrades!§r",

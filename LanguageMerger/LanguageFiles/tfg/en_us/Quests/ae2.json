@@ -181,7 +181,7 @@
 
     "quests.ae2.cell_component_16m.desc": "This one can only be made on the &cMoon&r and nowhere else. It will also require a Cleanroom environment, so if you don’t want to bother with a Cleanroom on the &cMoon&r, you should make the &7Cleaning Maintenance Hatch&r.\n\nIt will also need some research. Refer to the &cZPM&r Chapter if you don’t know what that means.",
 
-    "quests.ae2.cell_component_64m.desc": "The &c64M MEGA Storage Component&r is the biggest one you can make in &8TerraFirmaGreg&r. Honestly, we believe you'll never need it, but it’s there for completionists.",
+    "quests.ae2.cell_component_64m.desc": "The &c64M MEGA Storage Component&r is the biggest one you can make in &cTerraFirmaGreg&r. Honestly, we believe you'll never need it, but it’s there for completionists.",
 
     "quests.ae2.oversize_interface.desc": "The &dME Oversize Interface&r is a &dME Extended Interface&r but each slot can hold 16x more items or fluids. If you have processes that need huge quantities, this could be your go-to.",
 

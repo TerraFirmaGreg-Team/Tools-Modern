@@ -276,10 +276,6 @@
     "quests.tfg_tips.grappling_hook.subtitle": "This is going to end poorly",
     "quests.tfg_tips.grappling_hook.desc": "By combining 2 pieces of &aRope Coil&r and a &bWrought Iron Pickaxe Head&r, you can create a &dGrappling Hook!&r An ideal tool for scaling big mountains, exploring large caves and traversing the world. It contains an &eupgrade system&r that allows you to combine and modify your &dHook&r to your leisure.",
 
-    "quests.tfg_tips.grapple_repair.title": "Grappling Hook Warnings",
-    "quests.tfg_tips.grapple_repair.subtitle": "READ ME, OR YOU MAY REGRET IT LATER!",
-    "quests.tfg_tips.grapple_repair.desc": "All your &dGrappling Hook&r &aupgrades&r are stored as NBT Data inside the item. This means trying to repair your hook using &canother&r Grappling Hook &l&cWILL destroy all your upgrades!&r\n\nInstead, you should place your &dGrappling Hook&r and some &bWrought Iron Dust&r in a &3Workbench&r to repair it.\n\nAlso, don't use your Grappling Hook when traveling between the Overworld and Beneath, it's rather deadly.",
-
     "quests.tfg_tips.grapple_upgrades.title": "Upgrading your Grappling Hook",
     "quests.tfg_tips.grapple_upgrades.subtitle": "Balanced around TFG, of course!",
     "quests.tfg_tips.grapple_upgrades.desc.1": "Upgrading your &dGrappling Hook&r consists of adding or removing items to it via the &3Workbench&r.&r\n\nTo see all the upgrades you can apply to your &dGrappling Hook&r, you can press the \"Usage\" key in &2EMI.&r\nEach of the custom recipes will contain text describing what changes are being applied.",
@@ -392,8 +388,8 @@
 
     "quests.tfg_tips.camera_attachments.title": "Camera Attachments",
     "quests.tfg_tips.camera_attachments.subtitle": "Improve your Camera",
-    "quests.tfg_tips.camera_attachments.desc": "By interacting with the &dCamera&r while sneaking, you'll open the camera GUI. This not only allows you to place your desired &aFilm Roll&r, it allows you to attach addons to your camera with new functionalities.\n\n&dRedstone Lamp&r: Works as a flashlight, illuminating dark environments.\n&dSpyglass&r: Enables zooming, letting you take pictures of objects far away.",
-    "quests.tfg_tips.camera_attachments.task": "A Redstone Lamp or a Spyglass",
+    "quests.tfg_tips.camera_attachments.desc": "By interacting with the &dCamera&r while sneaking, you'll open the camera GUI. This not only allows you to place your desired &aFilm Roll&r, it allows you to attach addons to your camera with new functionalities.\n\n&dToggleable Light Source&r: Works as a flash bulb, illuminating dark environments.\n&dSpyglass&r: Enables zooming, letting you take pictures of objects far away.",
+    "quests.tfg_tips.camera_attachments.task": "A Toggleable Light Source or a Spyglass",
 
     "quests.tfg_tips.filters.title": "Color Filters",
     "quests.tfg_tips.filters.subtitle": "Changing the look of your photos.",
@@ -410,7 +406,7 @@
 
     "quests.tfg_tips.developing_film.title": "Developing Films",
     "quests.tfg_tips.developing_film.subtitle": "Pretend you're a printer",
-    "quests.tfg_tips.developing_film.desc": "Once you've taken your pictures you can begin &adevelopment&r by soaking the films in &bWater.&r Afterwards, you'll need to craft a &dLightroom&r.\n\nThe lightroom is used to develop film, needing a strong light source above the block, and the following four dyes: &3Cyan&r, &5Magenta&r, &eYellow&r and &0Black&r, known as CMYK.\n&0Black and White Film&r will only need &0Black Dye&r while &dColored Film&r will need the entire &3C&5M&eY&0K&r set.\n\nIf you fancy more interesting processing, you can work with the &cChromatic Process...&r",
+    "quests.tfg_tips.developing_film.desc": "Once you've taken your pictures you can begin &adevelopment&r by soaking the films in the appropriate &bDeveloper&r. Afterwards, you'll need to craft a &dLightroom&r.\n\nThe lightroom is used to develop film, needing a strong light source above the block, and the following four dyes: &3Cyan&r, &5Magenta&r, &eYellow&r and &0Black&r, known as CMYK.\n&0Black and White Film&r will only need &0Black Dye&r while &dColored Film&r will need the entire &3C&5M&eY&0K&r set.\n\nIf you fancy more interesting processing, you can work with the &cChromatic Process...&r",
 
     "quests.tfg_tips.photo.title": "Your first Photo",
     "quests.tfg_tips.photo.subtitle": "Congratulations!",
@@ -504,7 +500,7 @@
 
     "quests.tfg_tips.steam_upgrades.title": "Aircraft Upgrades: Steam",
     "quests.tfg_tips.steam_upgrades.subtitle": "Immersive Aircraft meets GregTech Tiering!",
-    "quests.tfg_tips.steam_upgrades.desc": "The second kind of aircraft upgrades are the &dTiered Upgrades.&r These are made to match the &3GregTech&r tiering system, going from &8Steam&r up to &5EV.&r\n\nSteam upgrades are the easiest and earliest to craft, requiring at the very least knowledge of &bBlack Steel.&r\n\n&dSteam-powered Aircraft Engines&r are used in the creation of more sophisticated aircrafts such as the &eBiplane&r and the &cWarship.&r",
+    "quests.tfg_tips.steam_upgrades.desc": "The second kind of aircraft upgrades are the &dTiered Upgrades.&r These are made to match the &3GregTech&r tiering system, going from &7Steam&r up to &5EV.&r\n\nSteam upgrades are the easiest and earliest to craft, requiring at the very least knowledge of &bBlack Steel.&r\n\n&dSteam-powered Aircraft Engines&r are used in the creation of more sophisticated aircrafts such as the &eBiplane&r and the &cWarship.&r",
     "quests.tfg_tips.steam_upgrades.task": "Any steam tier aircraft upgrade",
 
     "quests.tfg_tips.lv_upgrades.title": "Aircraft Upgrades: LV",
@@ -886,7 +882,7 @@
 
     "quests.tfg_tips.tools_tips.tools.title": "Tools",
     "quests.tfg_tips.tools_tips.tools.subtitle": "It's all a hammer anyways.",
-    "quests.tfg_tips.tools_tips.tools.desc": "The only thing seperating man from animal is our use of &l&bTools&r&r. &8&oExcept for apes, monkeys, dolphins, crows, otters, octo.......&r&r Use your skills and tools to make the most of this world, and &5save yourself&r some effort.",
+    "quests.tfg_tips.tools_tips.tools.desc": "The only thing seperating man from animal is our use of &l&bTools&r&r. &7&oExcept for apes, monkeys, dolphins, crows, otters, octo.......&r&r Use your skills and tools to make the most of this world, and &5save yourself&r some effort.",
 
     "quests.tfg_tips.tools_tips.seed_oil.title": "Lamp Fuel: Seed Oil",
     "quests.tfg_tips.tools_tips.seed_oil.subtitle": "Smells good when it burns.",

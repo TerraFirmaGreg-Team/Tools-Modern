@@ -2,6 +2,7 @@
 	"id": "normal_tarkianite",
 	"dimension": "earth",
 	"type": "tfc:pipe_vein",
+	"visual_only": true,
 	"config": {
 		"rarity": 140,
 		"density": 0.35,

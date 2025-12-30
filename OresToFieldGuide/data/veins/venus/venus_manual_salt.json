@@ -1,0 +1,60 @@
+﻿{
+	"id": "venus_manual_salt",
+	"dimension": "venus",
+	"type": "tfc:disc_vein",
+	"visual_only": true,
+	"config": {
+		"rarity": 100,
+		"density": 0.2,
+		"min_y": 40,
+		"max_y": 65,
+		"size": 20,
+		"height": 6
+	},
+	"ores": [
+		{
+			"ore": "salt",
+			"weight": 50
+		},
+		{
+			"ore": "rock_salt",
+			"weight": 20
+		},
+		{
+			"ore": "lepidolite",
+			"weight": 15
+		},
+		{
+			"ore": "spodumene",
+			"weight": 15
+		}
+	],
+	"rocks": [
+		"dripstone",
+		"venus_stone",
+		"basalt",
+		"rhyolite",
+		"dacite",
+		"andesite"
+	],
+	"indicator": {
+		"rarity": 20,
+		"depth": 30
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Salts & Spodumene",
+			"info": "Only appears in the $(thing)Salt Flats$() biome.",
+			"emi": "Only in Salt Flats."
+		},
+		{
+			"lang": "zh_cn",
+			"text": "盐, 锂辉石"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Солі і Сподумен"
+		}
+	]
+}

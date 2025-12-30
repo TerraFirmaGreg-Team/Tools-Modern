@@ -47,7 +47,7 @@
     "quests.low_voltage.lv_seeds.task": "油菜或向日葵",
     "quests.low_voltage.lv_gas_turbine.title": "燃气轮机",
     "quests.low_voltage.lv_gas_turbine.subtitle": "它需要更多电路，但更少材料",
-    "quests.low_voltage.lv_gas_turbine.desc": "借助&7合成气&r，你现在拥有了在&7LV&r阶段使用&8燃气轮机&r的可行方案。它们与其他&6发电机&r工作原理完全相同，但应比&6内燃机&r略微节省材料。",
+    "quests.low_voltage.lv_gas_turbine.desc": "借助&7合成气&r，你现在拥有了在&7LV&r阶段使用&c燃气轮机&r的可行方案。它们与其他&6发电机&r工作原理完全相同，但应比&6内燃机&r略微节省材料。",
     "quests.low_voltage.lv_gas_syngas.title": "合成气",
     "quests.low_voltage.lv_gas_syngas.subtitle": "并非木煤气",
     "quests.low_voltage.lv_gas_syngas.desc": "制造&7合成气&r非常简单。你只需为每台&6酿造室&r或&6真空腔室&r配备&b3座焦炉&r。然后借助&b机械动力树场&r收集&7木材&r以最大程度降低能耗，就能享受这种虽弱但易于生产的&7气体燃料&r了。",

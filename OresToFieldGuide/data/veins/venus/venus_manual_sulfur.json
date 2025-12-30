@@ -1,0 +1,63 @@
+﻿{
+	"id": "venus_manual_sulfur",
+	"dimension": "venus",
+	"type": "tfc:cluster_vein",
+	"visual_only": true,
+	"config": {
+		"rarity": 100,
+		"density": 0.2,
+		"min_y": 40,
+		"max_y": 65,
+		"size": 15
+	},
+	"ores": [
+		{
+			"ore": "sulfur",
+			"weight": 50
+		},
+		{
+			"ore": "pyrite",
+			"weight": 35
+		},
+		{
+			"ore": "sphalerite",
+			"weight": 15
+		}
+	],
+	"rocks": [
+		"dripstone",
+		"venus_stone",
+		"basalt",
+		"rhyolite",
+		"dacite",
+		"andesite"
+	],
+	"indicator": {
+		"rarity": 20,
+		"depth": 30
+	},
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Sulfur & Pyrite",
+			"info": "Only appears in the $(thing)Sulfuric Ravines$() biome.",
+			"emi": "Only in Sulfuric Ravine."
+		},
+		{
+			"lang": "pt_br",
+			"text": "Enxofre e Pirita"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Сера и Пирит"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Сірка та Пірит"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "硫, 黄铁矿"
+		}
+	]
+}

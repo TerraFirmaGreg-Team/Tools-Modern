@@ -1,5 +1,7 @@
 {
     "block.create.netherite_backtank": "Рюкзак із синьої сталі",
+    "block.create.shadow_casing": "Обшивка з чорної сталі",
+    "block.create.refined_radiance_casing": "Світна обшивка",
     "__comment1": "Industrial iron",
     "block.create.industrial_iron_block": "Промисловий Сталевий Блок",
     "block.create.weathered_iron_block": "Блок Вивітреної Сталі",

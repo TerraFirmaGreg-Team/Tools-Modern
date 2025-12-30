@@ -1,0 +1,12 @@
+{
+    "item.species.wicked_mask": "伪装工具包",
+    "item.species.wicked_swapper": "换位珠",
+    "item.species.wicked_treat": "宠物零食",
+    "subtitles.item.species.wicked_mask.link": "伪装工具包：绑定",
+    "subtitles.item.species.wicked_mask.equip": "伪装工具包：粘黏声",
+    "subtitles.item.species.wicked_swapper.throw": "换位珠：掷空",
+    "subtitles.item.species.wicked_swapper.fail": "换位珠：落地",
+    "subtitles.item.species.wicked_swapper.teleport": "换位珠：换位",
+    "advancements.species.wicked_mask_wither.description": "使用伪装工具包伪装成凋零",
+    "item.species.trooper_spawn_egg": "硫力怕刷怪蛋"
+}

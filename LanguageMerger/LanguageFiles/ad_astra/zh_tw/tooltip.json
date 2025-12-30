@@ -1,0 +1,22 @@
+{
+    "info.ad_astra.solar_panel": "白天利用陽光產生能量。注意：能量產量會依所在星球的環境條件而有所不同。",
+    "tooltip.ad_astra.energy": "%s FE / %s FE",
+    "tooltip.ad_astra.energy_generation_per_tick": "每刻產生 %s FE",
+    "tooltip.ad_astra.energy_in": "輸入：%s FE/t",
+    "tooltip.ad_astra.energy_out": "輸出：%s FE/t",
+    "tooltip.ad_astra.energy_per_tick": "%s FE/t",
+    "tooltip.ad_astra.energy_transfer_tick": "傳輸：%s FE/t",
+    "tooltip.ad_astra.energy_use_per_tick": "每刻消耗 %s FE",
+    "tooltip.ad_astra.max_energy_in": "最大輸入：%s FE/t",
+    "tooltip.ad_astra.max_energy_out": "最大輸出：%s FE/t",
+    "tooltip.ad_astra.max_generation": "最大產生：%s FE/t",
+    "tooltip.ad_astra.max_fluid_in": "最大輸入：%s mB/t",
+    "tooltip.ad_astra.max_fluid_out": "最大輸出：%s mB/t",
+    "tooltip.ad_astra.fluid": "%s mB / %s mB %s",
+    "tooltip.ad_astra.fluid_generation_per_iteration": "每次迭代產生 %s mB",
+    "tooltip.ad_astra.fluid_in": "輸入：%s mB/t",
+    "tooltip.ad_astra.fluid_out": "輸出：%s mB/t",
+    "tooltip.ad_astra.fluid_per_tick": "%s mB/t",
+    "tooltip.ad_astra.fluid_transfer_tick": "傳輸：%s mB/t",
+    "tooltip.ad_astra.fluid_use_per_iteration": "每次迭代消耗 %s mB"
+}

@@ -3,6 +3,7 @@
 	"material.tfg.vulcanized_latex": "Vulcanized Latex",
 	"material.tfg.fluix": "Fluix",
 	"material.tfg.conifer_pitch": "Conifer Pitch",
+	"material.tfg.pyrogallol": "Pyrogallol",
 
 	"material.gtceu.lactose": "Lactose",
 
@@ -163,7 +164,7 @@
 	"material.tfg.organic_stabilizer": "Organic Stabilizer",
 	"material.tfg.inert_dust_fraction": "Inert Fraction",
 	"material.tfg.recovered_ionic_complex": "Recovered Ionic Complex",
-	
+
 	"material.tfg.glucose": "Glucose",
 	"material.tfg.galactose": "Galactose",
 	"material.tfg.fructose": "Fructose",
@@ -173,21 +174,20 @@
 	"material.tfg.linolenic_acid": "α-Linolenic Acid",
 	"material.tfg.isosorbide_ln": "Isosorbide Linolenate",
 	"material.tfg.epox_isosorbide_ln": "Epoxidized Isosorbide Linolenate",
-	
+
 	"material.tfg.ozone": "Ozone",
 	"material.tfg.tin_chloride": "Stannous Chloride",
 	"material.tfg.cyclohexanone": "Cyclohexanone",
 	"material.tfg.cyclohex_diperoxide": "1,1-Cyclohexanediyl Dihydroperoxide",
 
-	"material.tfg.aciditic_waste": "Aciditic Waste",
-	"material.tfg.propylene": "Propylene",
+	"material.tfg.aciditic_waste": "Acidic Epoxy Waste",
 	"material.tfg.tpaoh": "Tetrapropylammonium Hydroxide",
 	"material.tfg.sodium_silicate": "Sodium Silicate",
-	"material.tfg.metal_rich_solution": "Metal Rich Solution",
+	"material.tfg.metal_rich_solution": "Leachate Metal-Rich Solution",
 	"material.tfg.crude_mixed_gas": "Crude Mixed Gas",
 	"material.tfg.zsm5_gel": "ZSM-5 Gel",
 	"material.tfg.leachate": "Rhenium Leachate",
-	"material.tfg.clean_powder": "Re-Silicate Clean Powder",
-	"material.tfg.catalyser_powder": "Catalyser Re ZSM-5 Powder",
+	"material.tfg.clean_powder": "Re-Silicate Clean",
+	"material.tfg.catalyser_powder": "Rhenium ZSM-5 Catalyzer",
 	"material.tfg.sodium_aluminium": "Sodium Aluminium"
 }

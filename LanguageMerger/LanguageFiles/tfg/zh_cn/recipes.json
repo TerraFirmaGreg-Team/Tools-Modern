@@ -63,6 +63,8 @@
     "tfc.recipe.barrel.tfg.barrel.sunflower_to_oil": "提取葵花籽油",
     "tfc.recipe.barrel.tfg.barrel.maple_syrup_to_sugar": "制糖",
     "tfc.recipe.barrel.tfg.barrel.birch_syrup_to_sugar": "制糖",
+    "tfc.recipe.barrel.tfg.barrel.develop_black_and_white_film": "冲洗胶卷",
+    "tfc.recipe.barrel.tfg.barrel.develop_color_film": "冲洗胶卷",
     "tfc.recipe.barrel.tfg.barrel.light_concrete": "混凝土固化",
     "tfc.recipe.barrel.tfg.barrel.reinforced_light_concrete_support": "混凝土固化",
     "tfc.recipe.barrel.tfg.barrel.dark_concrete": "染色",

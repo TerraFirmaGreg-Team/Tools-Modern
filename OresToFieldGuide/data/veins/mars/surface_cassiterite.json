@@ -41,11 +41,20 @@
 		"basalt",
 		"dacite"
 	],
+
 	"indicator": {
 		"rarity": 15,
 		"depth": 40,
-		"underground_rarity": 1,
-		"underground_count": 1
+		"blocks": [
+			{
+				"block": "tfc:ore/small_cassiterite",
+				"weight": 90
+			},
+			{
+				"block": "gtceu:saltpeter_indicator",
+				"weight": 10
+			}
+		]
 	},
 	"translations": [
 		{

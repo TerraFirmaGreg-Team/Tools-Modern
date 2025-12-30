@@ -138,5 +138,8 @@
 	"ore_vein.tfg.nether_sulfur": "Сера и Пирит",
 	"ore_vein.tfg.nether_sylvite": "Сильвин",
 	"ore_vein.tfg.nether_tetrahedrite": "Тетраэдрит",
-	"ore_vein.tfg.nether_topaz": "Топаз и Халькозин"
+	"ore_vein.tfg.nether_topaz": "Топаз и Халькозин",
+	"ore_vein.tfg.venus_manual_salt": "Salts & Spodumene",
+	"ore_vein.tfg.venus_manual_salt.emi.0": "Only in Salt Flats.",
+	"ore_vein.tfg.venus_manual_sulfur": "Сера и Пирит"
 }
