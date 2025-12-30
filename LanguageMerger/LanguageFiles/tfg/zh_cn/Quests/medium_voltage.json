@@ -31,7 +31,7 @@
     "quests.medium_voltage.mv_mixer.desc": "若想深入&bMV&r阶段，请从这里开始。\n\n&3MV搅拌机&r产出的粉末具有重要用途。",
     "quests.medium_voltage.mv_energy.title": "在MV阶段发电",
     "quests.medium_voltage.mv_energy.subtitle": "事情即将变得棘手",
-    "quests.medium_voltage.mv_energy.desc.1": "你好！欢迎来到&bMV能源生产&r。\n\n本章节将为你介绍维持&bMV机器&r稳定运行的各种供电方案。\n\n由于不会在每个章节都重复说明，我们强烈建议你&a仔细阅读格雷科技能源的专题章节&r以深入了解能源系统运作原理。\n\n目前你有&a三种主要选择&r：\n\n&7-使用&bMV发电机&r直接产生&bMV级电能&r\n\n&7-通过变压器将&7LV&r电能升压&r，&7LV&r与&bMV&r的转换比例为&e4:1&r\n\n&7-通过&d交流发电机&r将RF转化为&bMV电能&r\n",
+    "quests.medium_voltage.mv_energy.desc.1": "你好！欢迎来到&bMV能源生产&r。\n\n本章节将为你介绍维持&bMV机器&r稳定运行的各种供电方案。\n\n由于不会在每个章节都重复说明，我们强烈建议你&a仔细阅读格雷科技能源的专题章节&r以深入了解能源系统运作原理。\n\n目前你有&a三种主要选择&r：\n\n&7-使用&bMV发电机&r直接产生&bMV级电能&r\n\n&7-通过变压器将&7LV&r电能升压&r，&7LV&r与&bMV&r的转换比例为&e4:1&r\n\n&7-通过&d交流发电机&r将RF转化为&bMV电能&r\n\n",
     "quests.medium_voltage.mv_energy.desc.2": "更高级的发电机将按比例提升燃料消耗以匹配其发电率，同时保持燃料燃烧时长与能量产出总量不变。&3进阶蒸汽轮机&r每秒消耗&d5120mB蒸汽&r，等效于&d256mB/t&r。\n\n本任务只需获得&e任意一种&r发电机即可完成，但建议优先选择&3进阶蒸汽轮机&r。",
     "quests.medium_voltage.mv_energy.desc.3": "&bMV&r阶段提供了几种新的发电方案。选中发电机后按下&4U&r键可查看哪些燃料属于&a燃油&r或&a燃气&r。\n\n本章节左上角的任务将指引你获取高效发电方案。\n\n若你坚持使用&9蒸汽&r发电，可能需要配备&3大型锅炉&r。",
     "quests.medium_voltage.mv_energy.desc.4": "&3变压器&r能安全实现不同电压等级间的升压与降压。它们将接收到的电力转换为比输入电压高或低一个等级的等量电力。\n\n除了驱动不同电压等级的机器外，变压器还能用于长距离电力传输——因为更高电压下线路损耗的影响更小。这和现实世界如出一辙！",

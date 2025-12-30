@@ -256,7 +256,7 @@
     "quests.extreme_voltage.btx_catalyser.title": "铂-铼/ZSM-5催化剂",
     "quests.extreme_voltage.btx_catalyser.subtitle": "多么复杂的名字",
     "quests.extreme_voltage.btx_catalyser.desc": "要制作&e铂-铼/ZSM-5催化剂&r，你需要建立&a碱&r、&a钠&r和&d下界石英&r的无限来源，以及&a氨&r和&a乙醇&r。&b铝&r将被完全循环利用，而其他材料只能部分回收。\n\n如果你不确定&d下界石英&r的来源，可以看看从&e沙子&r开始的配方链。另一方面，&a钠&r可以通过处理&b海水&r轻松获得，而碱可以通过草木灰获取。\n\n最后，将所有东西与一些&5铂&r和&5铼&r混合，即可得到你的&e催化剂&r。好消息是，铂和铼在此过程中都会被完全回收，因此无需担心，你只需要开采一次即可。",
-    "quests.extreme_voltage.btx_loop.title": "回收使废催化剂",
+    "quests.extreme_voltage.btx_loop.title": "回收废催化剂",
     "quests.extreme_voltage.btx_loop.subtitle": "尽可能多地回收利用",
     "quests.extreme_voltage.btx_loop.desc.1": "这条生产链的最后一部分是回收废催化剂。整个过程相当简单，主要的挑战将是维持&a强化环氧树脂板&r和&e胶水&r的持续供应。\n\n如果你的&2树脂采集系统&r仍在运行，它应该足以生产制作胶水所需的所有树脂。或者，对原木使用&b提取机&r也是一个完全可行的选择。这种方法稍微更&c耗电&r，但选择完全取决于你的基础设施。",
     "quests.extreme_voltage.btx_loop.desc.2": "关于&9稀盐酸&r的一点说明：它可以很容易地通过&b水&r与&a氯气&r反应制得。你可以储存&d次氯酸&r，或选择电解它以回收&f一半的氯气&r。\n\n至于&6硫酸&r，你应该已经通过&e石油化工蒸馏&r装置获得了无限的硫磺来源。如果还没有，我们强烈建议你尽快解决这个问题。此外，生产&b重整气&r时获得的&7煤焦油&r可以重新转化为&2硫化氢&r，并最终精炼回&6硫&r。"
