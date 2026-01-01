@@ -126,7 +126,7 @@
 
     "quests.ore_proc.thermal_centrifuge.title": "The Thermal Centrifuge",
     "quests.ore_proc.thermal_centrifuge.subtitle": "The go-to for most purified ores",
-    "quests.ore_proc.thermal_centrifuge.desc": "For all your other Purified Ores that doesn't need special treatment, it's best to run them through the &dThermal Centrifuge&r. This machine can produce byproducts at a reliable rate, while only using electricity. It's quite slow, however, so we suggest making multiple machines.",
+    "quests.ore_proc.thermal_centrifuge.desc": "For all your other Purified Ores that doesn't need special treatment, it's best to run them through the &dThermal Centrifuge&r. This machine can produce byproducts at a reliable rate, without needing any other ingredients. It's quite slow, however, so we suggest either making multiple machines or the steam parallel multiblock.",
     "quests.ore_proc.thermal_centrifuge.task": "Any Thermal Centrifuge",
 
     "quests.ore_proc.sifter.title": "The Sifter",

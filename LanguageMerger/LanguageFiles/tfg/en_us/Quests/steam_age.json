@@ -116,14 +116,14 @@
 
 	"quests.steam_age.steam_bloomery.title": "Steam Bloomery",
 	"quests.steam_age.steam_bloomery.subtitle": "The Bloomery's uncle",
-	"quests.steam_age.steam_bloomery.desc": "You're always going to need a lot of Wrought Iron, so why not automate your Bloomery? The next closest way to automate wrought iron is way off in LV. The Steam Bloomery is a new multiblock that'll automate your old TFC bloomery, and do it faster too! Like with the Coke Oven, you can press the JEI 'Uses' key (defaults to \"U\") to show the multiblock preview tab. Click on individual blocks to see what's valid in each location.",
+	"quests.steam_age.steam_bloomery.desc": "You're always going to need a lot of Wrought Iron, so why not automate your Bloomery? The next closest way to automate wrought iron is way off in LV.\n\nThe &3Steam Bloomery&r is a new multiblock that'll automate your old TFC bloomery, and do it faster too!\n\nLike with the Coke Oven, you can press the JEI 'Uses' key (defaults to \"U\") to show the multiblock preview tab. Click on individual blocks to see what's valid in each location.",
 
 	"quests.steam_age.steam_furnace.title": "Steam Furnace",
 	"quests.steam_age.steam_furnace.subtitle": "The Steam Furnace furnaces...",
 	"quests.steam_age.steam_furnace.desc": "Want to quickly smelt something into an ingot? The &3Steam Furnace&r does just that! It can turn many ores and dusts quickly into their ingot form, at the expense of not getting any byproducts.",
 
 	"quests.steam_age.steam_oven.title": "Steam Oven",
-	"quests.steam_age.steam_oven.subtitle": "The Steam Grinder's big brother",
+	"quests.steam_age.steam_oven.subtitle": "The Steam Furnace's big brother",
 	"quests.steam_age.steam_oven.desc.1": "&o...or little brother. Don't let him know!&r\n\nThe &3Steam Oven&r is a great multiblock option if you need &6effortlessly smelt large quantities of items.&r No more lines of furnaces that you have to manually empty and refuel!\n\nIt effectively behaves as a parallel furnace, smelting up to 8 items at a time for a low cost of Steam.",
 	"quests.steam_age.steam_oven.desc.2": "&l&3Lore:&r&o This Multiblock - despite being very similar to its brother, the Steam Grinder - isn't ported from a GregTech version or addon. Its actual progenitor is the Steam Oven from Railcraft, which dates back to 1.4.7!",
 
@@ -307,5 +307,17 @@
 	"quests.steam_age.supers.title": "Super Chests and Super Tanks",
 	"quests.steam_age.supers.subtitle": "Super Storage Drawers",
 	"quests.steam_age.supers.desc": "This is the &cu&6l&et&ai&bm&9a&5t&4e&r portable item and storage solution if you have a lot of single items or fluids. While these &dBasic&r (&8ULV&r) ones start out relatively small, higher tiers of Super chests and tanks can hold an insane amount of stuff - all in one single block without any regards to temperature or acidity!\n\nLike Drums, Super Tanks and Chests &6keep their contents when broken&r, can be cleared in the crafting grid, and can automatically void any overflow. Unlike drums, however, Super Tanks also &asafely contain&r their contents, preventing you from getting burnt, frozen, or floating.\n\nIf you hunger for &9even more&r storage, take a look at higher tier Quantum Chests and Tanks or AE2 Storage Cells.",
-	"quests.steam_age.supers.task": "Any super chest or tank"
+	"quests.steam_age.supers.task": "Any super chest or tank",
+
+	"quests.steam_age.steam_presser.title": "Steam Presser",
+	"quests.steam_age.steam_presser.subtitle": "The Steam Forge Hammer's aunt",
+	"quests.steam_age.steam_presser.desc": "The &3Steam Presser&r is a multiblock parallel version of the Forge Hammer.\n\nIf you're doing something where the forge hammer is a bottleneck, this upgrade might be useful. Otherwise, skip it.",
+
+	"quests.steam_age.steam_fuser.title": "Steam Fuser",
+	"quests.steam_age.steam_fuser.subtitle": "The Steam Alloy Smelter's cousin (twice removed)",
+	"quests.steam_age.steam_fuser.desc": "The &3Steam Fuser&r is a bigger and badder version of the Steam Alloy Smelter. Making a lot of alloys and need them fast? You'd like one of these!",
+
+	"quests.steam_age.steam_squasher.title": "Steam Squasher",
+	"quests.steam_age.steam_squasher.subtitle": "The Steam Compressor's childhood friend",
+	"quests.steam_age.steam_squasher.desc": "Need a lot of things compressed at the same time? The &3Steam Squasher&r is a multiblock parallel Compressor that may prove useful."
 }

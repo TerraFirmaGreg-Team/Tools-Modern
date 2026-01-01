@@ -130,12 +130,16 @@
     "quests.ae2.interplanetary_wireless.subtitle": "Forgot something at home?",
     "quests.ae2.interplanetary_wireless.desc": "You can upgrade your Wireless Terminal with this special Card, allowing access to your network from any distance, even on different worlds! Sounds too good to be true? There's a major catch — transferring items uses a huge amount of energy.\n\nYou can sort of get around this with some Energy Cards and a battery in your inventory set to Discharge Mode, but it should work well enough for those times when you accidentally left something at your base on Earth and don't want to fly all the way back.\n\nFor proper automated transfer, you'll need a Railgun.",
 
+    "quests.ae2.universal_circuits.title": "Universal Circuits",
+    "quests.ae2.universal_circuits.subtitle": "Oh so THAT's what these are for!",
+    "quests.ae2.universal_circuits.desc": "Ever wondered what the point of the Universal Circuit items was? Besides nice quest icons, they're primarily used for AE2!\n\nAE2 doesn't handle item tags in patterns well, so the universal circuits are designed to be used in any patterns that require circuits. This way, whenever you unlock a new kind of circuit, you only need to add one pattern to convert the new circuit into the universal one, instead of updating &oall&r of your old patterns!",
+
     "__comment5": "Right (IV)",
 
     "quests.ae2.iv.title": "IV Tier AE2",
     "quests.ae2.iv.desc": "This entire branch becomes fully unlockable once you reach &1IV&r.",
 
-    "quests.ae2.accumulation_press.desc": "To get this &eNew Inscriber Press&r, you will need to invest a bit.\n\nFirst, you must upgrade your Implosion Compressor with &1two IV Energy Hatches&r.\n\nThen, get yourself a new IV Laser Engraver if you don't already have one.\n\nAnd finally, prepare a lot of Industrial TNT — it’s the &conly one that works&r for this process.\n\nPlan carefully, as this step is quite demanding!",
+    "quests.ae2.accumulation_press.desc": "To get this &eNew Inscriber Press&r, you will need to invest a bit.\n\nFirst, you must upgrade your Implosion Compressor with &5two EV Energy Hatches&r.\n\nThen, get yourself a new IV Laser Engraver if you don't already have one.\n\nAnd finally, prepare a lot of Industrial TNT — it’s the &conly one that works&r for this process.\n\nPlan carefully, as this step is quite demanding!",
 
     "quests.ae2.accumulation_processor.desc": "The &eAccumulation Processor&r will require a large amount of Silicon for each craft.\n\nWe hope you already have a dedicated EBF producing Silicon, or at least a strong infrastructure to manufacture it quickly.\n\nPrepare accordingly, as you’ll need plenty of it!",
 
@@ -186,6 +190,4 @@
     "quests.ae2.oversize_interface.desc": "The &dME Oversize Interface&r is a &dME Extended Interface&r but each slot can hold 16x more items or fluids. If you have processes that need huge quantities, this could be your go-to.",
 
     "quests.ae2.assembler_matrix.desc": "The &6Assembler Matrix&r is basically a customizable multiblock Molecular Assembler. The requirements for this quest should let you build one that we deem quite strong enough. You could add more layers of &bPattern Core&r or &aCraft Core&r if you want to.\n\nAs usual, check the in-game guide for detailed informations."
-
-
 }
