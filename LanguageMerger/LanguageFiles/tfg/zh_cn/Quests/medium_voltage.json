@@ -225,7 +225,7 @@
     "quests.medium_voltage.mv_jetpack_2.desc": "这款喷气背包可实现飞行功能，但需消耗能量。\n\n充电方式与电池相同。\n\n按&4H&r（默认）启用悬停模式。\n\n&o&7（是是是，喷气背包本该靠推进剂工作——你们总爱吹毛求疵。）&r",
     "quests.medium_voltage.mv_cutter.title": "进阶切割机",
     "quests.medium_voltage.mv_cutter.subtitle": "升级，大伙，升级啊！",
-    "quests.medium_voltage.mv_cutter.desc": "&3MV切割机&r用于切割&7单晶硅&r，为后续的&a激光蚀刻机&r做准备。\n\n建议持续供应&d润滑剂&r以大幅缩短加工时间。\n\n润滑剂可通过&e石油&r与&a滑石&r、&2皂石&r或&c红石&r通过&3酿造室&r制备。\n\n&7注：也可选用&6格雷机械&r版本的切割机，它可以用流体储罐来填充液体&r",
+    "quests.medium_voltage.mv_cutter.desc": "&3MV切割机&r用于切割&7单晶硅&r，为后续的&a激光蚀刻机&r做准备。\n\n建议持续供应&d润滑剂&r以大幅缩短加工时间。\n\n润滑剂可通过&e石油&r与&a滑石&r、&2皂石&r或&c红石&r通过&3酿造室&r制备。",
     "quests.medium_voltage.mv_cutter.task": "任何切割机",
     "quests.medium_voltage.mv_laser_engraver.title": "激光蚀刻机",
     "quests.medium_voltage.mv_laser_engraver.subtitle": "这是顶尖技术，这也很慢",

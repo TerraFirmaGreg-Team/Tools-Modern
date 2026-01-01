@@ -112,7 +112,7 @@
     "quests.gregtech_energy.lce_fuel.subtitle": "污染者的最爱",
     "quests.gregtech_energy.lce_fuel.desc.1": "所有这些燃料均用于&6内燃发电机&r——此处按效率从低到高排列。\n\n在游戏早期阶段，我们建议从柴油或生物柴油起步。待发展到&6HV&r阶段后，可通过将柴油与氮气、氢气及氧气混合，升级使用&6高十六烷值柴油&r。",
     "quests.gregtech_energy.lce_fuel.desc.2": "当你达到&5EV&r阶段并建造&6蒸馏塔&r后，就可以转而使用汽油和高辛烷值汽油了。切勿过早尝试——油类需要被妥善分馏，使用普通蒸馏室来处理是极不经济的。\n\n为此，你需要结合原油分馏与一些有机化合物加工。所幸，一台热解炉和一座蒸馏塔即可流畅地处理全部流程。\n\n如果你能稳定供应高辛烷值汽油，仅靠内燃发电机就足以完成整个整合包的进程。",
-    "quests.gregtech_energy.lce_fuel.task": "我足够了",
+    "quests.gregtech_energy.lce_fuel.task": "我都懂了",
     "quests.gregtech_energy.large_solar.subtitle": "巨大的简易能源",
     "quests.gregtech_energy.large_solar.desc.1": "若你计划在月球上建立更大型的基地，大型太阳能阵列MK I将是你的不二之选。\n\n它对于&bAE2&r自动化处理流水线尤其有用，同时也能为你的月壤采集器提供电力。\n\n别忘了，你可以使用格雷科技终端，通过潜行右键点击控制器，来瞬间搭建这个多方块结构。\n\n只需将鼠标指向控制器并按&eU&r键，即可查看可用的合成配方。",
     "quests.gregtech_energy.large_solar.desc.2": "&6大型太阳能阵列MKI&r拥有&92种不同的工作模式&r：\n\n&9•被动模式&r—\n该模式会缓慢消耗&d光伏板&r。这意味着若你一次性投入一组光伏板，在基地建设阶段尚可维持，但无法永久运行。该模式仅在白天产生&62AHV&r的电流——足以支撑基础系统运转，但远非最优解。\n\n&9•主动模式&r—\n若想&a最大化能量产出&r，则需管理冷却剂。这将要求你的月球基地具备更完善的设施，但回报是可获得&52AEV&r的电流！\n\n另有针对更高阶需求的MKII与MKIII版本，需使用更先进的冷却剂。",

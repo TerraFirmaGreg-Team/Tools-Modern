@@ -5,5 +5,9 @@
     "subtitles.entity.species.trooper.hurt": "硫力怕：受伤",
     "subtitles.entity.species.trooper.step": "硫力怕：小步疾跑",
     "subtitles.entity.species.trooper.uproot": "硫力怕：拔根而起",
-    "subtitles.entity.species.trooper.plant": "硫力怕：扎根"
+    "subtitles.entity.species.trooper.plant": "硫力怕：扎根",
+    "effect.species.iron_will": "击退抗性",
+    "effect.species.iron_will.description": "免疫一切击退。",
+    "effect.species.snatched": "超级迅捷",
+    "effect.species.snatched.description": "根据等级提升移动速度。使受影响的实体从外观上看起来更高更瘦。"
 }
