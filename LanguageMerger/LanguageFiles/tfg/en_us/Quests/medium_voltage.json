@@ -288,7 +288,7 @@
 
     "quests.medium_voltage.mv_cutter.title": "Advanced Cutter",
     "quests.medium_voltage.mv_cutter.subtitle": "Upgrades, people, upgrades!",
-    "quests.medium_voltage.mv_cutter.desc": "The &3MV Cutter&r is required to cut &7Silicon Boules&r to prepare them for &aLaser Engraving&r.\n\nWe recommend you supply this machine with a steady stream of &dLubricant&r to cut down on the processing time.\n\nLubricant can be &3brewed&r from &eOil&r and &aTalc&r, &2Soapstone&r or &cRedstone&r.\n\n&7Note: You could use the &6Greate&r &7version, it has a tank to fill with fluid&r",
+    "quests.medium_voltage.mv_cutter.desc": "The &3MV Cutter&r is required to cut &7Silicon Boules&r to prepare them for &aLaser Engraving&r.\n\nWe recommend you supply this machine with a steady stream of &dLubricant&r to cut down on the processing time.\n\nLubricant can be &3brewed&r from &eOil&r and &aTalc&r, &2Soapstone&r or &cRedstone&r.",
     "quests.medium_voltage.mv_cutter.task": "Any Cutter",
 
     "quests.medium_voltage.mv_laser_engraver.title": "Laser Engraving",
