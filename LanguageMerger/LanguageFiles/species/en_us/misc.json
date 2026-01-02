@@ -6,5 +6,11 @@
 	"subtitles.entity.species.trooper.hurt": "Sulfie hurts",
 	"subtitles.entity.species.trooper.step": "Sulfie trots",
 	"subtitles.entity.species.trooper.uproot": "Sulfie uproots",
-	"subtitles.entity.species.trooper.plant": "Sulfie plants"
+	"subtitles.entity.species.trooper.plant": "Sulfie plants",
+
+
+	"effect.species.iron_will": "Knockback Resistance",
+	"effect.species.iron_will.description": "Prevents all knockback.",
+	"effect.species.snatched": "Super Speed",
+	"effect.species.snatched.description": "Grants faster Movement Speed scaling with levels. Makes affected entities taller and thinner."
 }
