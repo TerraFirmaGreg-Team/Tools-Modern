@@ -23,7 +23,7 @@
 	"block.minecraft.mossy_stone_bricks_stairs": "Mossy Reconstituted Stone Bricks Stairs",
 	"block.minecraft.mossy_stone_bricks_slab": "Mossy Reconstituted Stone Bricks Slab",
 	"block.minecraft.mossy_stone_bricks_wall": "Mossy Reconstituted Stone Bricks Wall",
-	"block.minecraft.chiseled_stone_bricks": "Chiseled Reconstituted Stone Bricks",	
+	"block.minecraft.chiseled_stone_bricks": "Chiseled Reconstituted Stone Bricks",
 
 	"block.minecraft.chiseled_deepslate": "Chiseled Migmatite",
 	"block.minecraft.cobbled_deepslate": "Migmatite Cobble",
@@ -87,10 +87,10 @@
 	"block.minecraft.weeping_vines": "Crimson Vines",
 
 	"block.minecraft.red_sand": "Hematitic Sand",
-	"block.minecraft.red_sandstone": "Hematitic Sandstone",
-	"block.minecraft.red_sandstone_stairs": "Hematitic Sandstone Stairs",
-	"block.minecraft.red_sandstone_slab": "Hematitic Sandstone Slab",
-	"block.minecraft.red_sandstone_wall": "Hematitic Sandstone Wall",
+	"block.minecraft.red_sandstone": "Raw Hematitic Sandstone",
+	"block.minecraft.red_sandstone_stairs": "Raw Hematitic Sandstone Stairs",
+	"block.minecraft.red_sandstone_slab": "Raw Hematitic Sandstone Slab",
+	"block.minecraft.red_sandstone_wall": "Raw Hematitic Sandstone Wall",
 	"block.minecraft.chiseled_red_sandstone": "Chiseled Hematitic Sandstone",
 	"block.minecraft.smooth_red_sandstone": "Smooth Hematitic Sandstone",
 	"block.minecraft.smooth_red_sandstone_stairs": "Smooth Hematitic Sandstone Stairs",
