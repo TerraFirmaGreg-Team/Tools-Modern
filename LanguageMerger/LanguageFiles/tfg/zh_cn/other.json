@@ -233,5 +233,7 @@
     "tfg.gui.max_energy_per_tick_amps.prefix": "最大EU/t：",
     "tfg.gui.consumes": "消耗：",
     "tfg.gui.per_cycle": "每周期",
-    "tfg.gui.cycle_duration": "周期时长："
+    "tfg.gui.cycle_duration": "周期时长：",
+    "tfg.emi.bacon_requirement": "培根 - 必须先对生猪肉进行烟熏处理",
+    "tag.item.tfg.dried_fruit": "干果"
 }
