@@ -146,9 +146,9 @@
 	"material.tfg.btx_fuel": "БТК",
 
 	"material.tfg.critical_steam": "Критический пар",
-	"material.tfg.americium_241": "Америций-241",
-	"material.tfg.californium_252": "Калифорний-252",
-	"material.tfg.neptunium_237": "Нептуний-237",
+	"material.tfg.americium_241": "Америций 241",
+	"material.tfg.californium_252": "Калифорний 252",
+	"material.tfg.neptunium_237": "Нептуний 237",
 	"material.tfg.mixed_radioactive_fluid": "Смешанная радиоактивная жидкость",
 	"material.tfg.degraded_solvent_stream": "Деградированный поток растворителя",
 	"material.tfg.boron_enriched_coolant": "Хладагент обогащенный бором",

@@ -146,9 +146,9 @@
 	"material.tfg.btx_fuel": "BTX Fuel",
 
 	"material.tfg.critical_steam": "Critical Steam",
-	"material.tfg.americium_241": "Americium-241",
-	"material.tfg.californium_252": "Californium-252",
-	"material.tfg.neptunium_237": "Neptunium-237",
+	"material.tfg.americium_241": "Americium 241",
+	"material.tfg.californium_252": "Californium 252",
+	"material.tfg.neptunium_237": "Neptunium 237",
 	"material.tfg.mixed_radioactive_fluid": "Mixed Radioactive Fluid",
 	"material.tfg.degraded_solvent_stream": "Degraded Solvent Stream",
 	"material.tfg.boron_enriched_coolant": "Boron Enriched Coolant",
