@@ -53,6 +53,10 @@
     "effect.tfg.berylliosis_warning": "Berylliosis",
     "effect.tfg.methanol_poisoning_warning": "Methanol Poisoning",
     "effect.tfg.carbon_monoxide_poisoning_warning": "Carbon Monoxide Poisoning",
+    "effect.tfg.radioactive_warning": "Irradiated",
+
+    "gtceu.medical_condition.radioactive": "§4Irradiated",
+    "symptom.tfg.glowing": "Glowing",
 
     "tfg.greate.uls_limit": "§432§r (§8ULS§r)",
     "tfg.greate.ls_limit": "§f128§r (§7LS§r)",
