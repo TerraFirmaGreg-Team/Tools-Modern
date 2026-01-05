@@ -42,15 +42,15 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Pitchblende, Thorium, & Hematite"
+			"text": "Pitchblende & Thorianite, & Hematite"
 		},
 		{
 			"lang": "zh_cn",
-			"text": "沥青铀矿, 钍矿, 赤铁矿"
+			"text": "沥青铀矿, 方钍石, 赤铁矿"
 		},
 		{
 			"lang": "uk_ua",
-			"text": "Настуран, Торій і Гематит"
+			"text": "Настуран, Торіаніт і Гематит"
 		}
 	]
 }
