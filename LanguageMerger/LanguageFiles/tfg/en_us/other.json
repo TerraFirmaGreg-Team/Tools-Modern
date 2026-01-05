@@ -42,8 +42,8 @@
     "effect.tfg.warming": "§6Warming",
     "effect.tfg.instant_radiation": "Instant Radiation",
     "effect.tfg.chemical_burns_warning": "Suffering Chemical Burns",
-    "effect.tfg.poison_warning": "Toxic Material",
-    "effect.tfg.weak_poison_warning": "Weakly Toxic Material",
+    "effect.tfg.poison_warning": "Poisonous Material",
+    "effect.tfg.weak_poison_warning": "Weakly Poisonous Material",
     "effect.tfg.irritant_warning": "Irritant Material",
     "effect.tfg.nausea_warning": "Nauseous Material",
     "effect.tfg.carcinogen_warning": "Carcinogenic Material",
@@ -55,7 +55,7 @@
     "effect.tfg.carbon_monoxide_poisoning_warning": "Carbon Monoxide Poisoning",
     "effect.tfg.radioactive_warning": "Irradiated",
 
-    "gtceu.medical_condition.radioactive": "§4Irradiated",
+    "gtceu.medical_condition.radioactive": "§4Radioactive",
     "symptom.tfg.glowing": "Glowing",
 
     "tfg.greate.uls_limit": "§432§r (§8ULS§r)",
