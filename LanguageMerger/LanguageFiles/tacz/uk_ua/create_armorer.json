@@ -2,7 +2,10 @@
   "create_armorer.attachment.extended_mag_ca_1.name": "Інваровий магазин",
   "create_armorer.attachment.extended_mag_ca_2.name": "Магазин із мідним покриттям",
   "create_armorer.attachment.extended_mag_ca_3.name": "Магазин із латунним покриттям",
-  "create_armorer.ammo.rbapb.name": "Римований патрон із плоским зарядом",
+  "create_armorer.ammo.slap.name": "Куля SLAP",
+  "create_armorer.ammo.rbapb.name": "Куля з фланцем з тупим наконечником",
+  "create_armorer.gun.pistol_auto_stress": "Напівавтоматичний пістолет \"Стрес\"",
   "create_armorer.gun.mg_platemag_flywheel": "\"Маховиковий\" кулемет",
-  "create_armorer.gun.rifle_assult_crane": "\"Кранова\" штурмова гвинтівка"
+  "create_armorer.gun.rifle_assult_crane": "\"Кранова\" штурмова гвинтівка",
+  "create_armorer.gun.sniper_semi_clockwork": "Гвинтівка \"Клокворк\""
 }

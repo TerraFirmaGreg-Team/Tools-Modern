@@ -6,7 +6,7 @@
     "quests.development.explanation.desc.1": "格雷科技的&l电路发展进程&r起初可能看起来令人生畏，但其实没那么糟。\n\n首先，你需要明白相同等级的电路是可以互换的。例如，制作一个&6HV&r&6搅拌机&r，你可以使用任何&6HV等级&r的电路。",
     "quests.development.explanation.desc.2": "现在，我们来谈谈&l进程&r。你可能已经注意到，每个电路在其图标上都有一个颜色代码和一个名称。例如，所有的&a量子处理器&r都是&a绿色&r的，并且在&1IV级&r电路组装机中制作。要制作一个，你首先需要前一级的电路——这就是为什么，要制作你的第一个&dLuV&r&d电路&r（纳米处理器主机），你必须从制作一个纳米处理器开始，并逐步完成每一个&7步骤&r。在这个例子中，这需要三个步骤。\n\n这就是为什么每一行中最右侧的&6电路&r在&a制作&r上总是更实惠：它们需要更少的&7步骤&r。",
     "quests.development.explanation.desc.3": "此外，我们还添加了&l通用电路&r。它们可以用任何等级的&6电路&r——无论是&1IV级&r、&dLuV级&r、&3UV级&r还是其他任何等级——&a合成&r而来，并且在与应用能源2（AE2）进行&9自动化&r时极其有用。请尝试在你所有的&f样板&r中都使用&l通用电路&r进行编码，这样，每当你升级到更好的电路时，你就不必重新制作所有的&f样板&r——只需要重新制作那些用于合成通用电路的样板即可。",
-    "quests.development.explanation.task": "好的，我读完了全部三页",
+    "quests.development.explanation.task": "OK，这三页我全都读过了",
     "quests.development.ulv.title": "&8ULV&r电路",
     "quests.development.ulv.subtitle": "",
     "quests.development.ulv.desc": "在这一行你可以看到蒸汽时代，或者说&8ULV&r等级的等效电路。",

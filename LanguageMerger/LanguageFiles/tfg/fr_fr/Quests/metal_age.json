@@ -40,12 +40,12 @@
 
     "quests.metal_age.coke_oven.title": "Coke Oven",
     "quests.metal_age.coke_oven.subtitle": "Finally, No More Charcoal Piles",
-    "quests.metal_age.coke_oven.desc.1": "The Coke Oven is your first GregTech multiblock! It allows you to automatically create Charcoal and other powerful combustibles. The Coke Oven will burn one Log into one Charcoal and 250mb of Creosote, which is an important chemical used wood treating.\n\nIf you craft the main Coke Oven block and press the JEI 'Uses' key on it (defaults to \"U\"), you'll find the tab called \"Multiblock Info\", which shows you how to build the Coke Oven in the world.\n\nYou can also just place the Controller block in the world, and interact with it while sneaking to create a Hologram of blocks missing.",
+    "quests.metal_age.coke_oven.desc.1": "The Coke Oven is your first GregTech multiblock! It allows you to automatically create Charcoal and other powerful combustibles. The Coke Oven will burn one Log into one Charcoal and 250mb of Creosote, which is an important chemical used in wood treating and as an early fuel.\n\nIf you craft the main Coke Oven block and press the JEI 'Uses' key on it (defaults to \"U\"), you'll find the tab called \"Multiblock Info\", which shows you how to build the Coke Oven in the world.\n\nYou can also just place the Controller block in the world, and interact with it while sneaking to create a Hologram of blocks missing.",
     "quests.metal_age.coke_oven.desc.2": "Coke Ovens can be fully automated using a Coke Oven Hatch. The Hatch is placed on the sides of the Oven and work as both Inputs and Outputs for both Items and Liquids.\n\nYou can easly create a simple, one way Coke Oven by using a Crate for the input, a Chest for the output, and a Drum, Barrel, or Large Wooden Tank to collect the Creosote. Unlike Chests, Crates are able to store large objects such as Logs. You can also sneak and right-click GregTech pipes with a wrench to make them one-way.",
 
     "quests.metal_age.wrought_iron_goodies.title": "Wrought Iron level Mechanical Power",
     "quests.metal_age.wrought_iron_goodies.subtitle": "What's this \"Andesite Alloy\" you speak of?",
-    "quests.metal_age.wrought_iron_goodies.desc": "With Wrought Iron you've unlocked access to the Metal Casing, the foundation of many of Create's mechanical blocks such as Gearboxes. Some of the more advanced ones will require Steel, but it's possible to build a fully automatic tree and crop farm at this point.\n\nCreosote is used to create Treated Wood Planks, which can be crafted into Waterwheels and Windmills, a significant improvement over animal power.",
+    "quests.metal_age.wrought_iron_goodies.desc": "With Wrought Iron you've unlocked access to the Metal Casing, the foundation of many of Create's mechanical blocks such as Gearboxes. Some of the more advanced ones will require Steel, but it's possible to build a partially automatic tree and crop farm at this point.\n\nCreosote is used to create Treated Wood Planks, which can be crafted into Waterwheels and Windmills, a significant improvement over animal power.",
 
     "quests.metal_age.fire_clay_ingredients.title": "Fire Clay Ingredients",
     "quests.metal_age.fire_clay_ingredients.subtitle": "The TerraFirmaCraft Rite of Passage.",
@@ -88,11 +88,11 @@
 
     "quests.metal_age.crucible.title": "Crucible",
     "quests.metal_age.crucible.subtitle": "Melt metals like a pro",
-    "quests.metal_age.crucible.desc": "The Crucible is placed on top of a Forge. It comes with 9 inventory slots and has a capacity for 4032mB of fluid, including an interface to check your alloying ratios. They also retain their contents when broken. They can also collect Pig Iron when placed below a Blast Furnace.\n\nKeep in mind that the crucible WILL try to alloy everything inside it - it does not keep metals separate like a TC Smeltery - so it's a good idea to keep it clean when you aren't using it.",
+    "quests.metal_age.crucible.desc": "The Crucible is placed on top of a Forge. It comes with 9 inventory slots and has a capacity for 4608mB of fluid, including an interface to check your alloying ratios. They also retain their contents when broken. They can also collect Pig Iron when placed below a Blast Furnace.\n\nKeep in mind that the crucible WILL try to alloy everything inside it - it does not keep metals separate like a TC Smeltery - so it's a good idea to keep it clean when you aren't using it.",
 
     "quests.metal_age.fire_bricks.title": "Fire Bricks",
     "quests.metal_age.fire_bricks.subtitle": "For the Blast Furnace",
-    "quests.metal_age.fire_bricks.desc": "Fire Bricks are used in the construction of the Blast Furnace, you need at the very least 4 Bricks to make the furnace.\n\nThe Bricks will require insulation to make sure the process of making steel is effective, you can either place 3 Wrought Iron Sheets around the Fire Bricks, or use Blast Furnace Insulation",
+    "quests.metal_age.fire_bricks.desc": "Fire Bricks are used in the construction of the Blast Furnace, you need at the very least 4 Bricks to make the furnace.\n\nThe Bricks will require insulation to make sure the process of making steel is effective, you can either place 3 Wrought Iron Plates around the Fire Bricks, or use Blast Furnace Insulation",
 
     "quests.metal_age.fully_stacked_blast_furnace.title": "Fully Stacked Blast Furnace",
     "quests.metal_age.fully_stacked_blast_furnace.subtitle": "The completed Blast Furnace",

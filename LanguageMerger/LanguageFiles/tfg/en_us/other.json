@@ -42,8 +42,8 @@
     "effect.tfg.warming": "§6Warming",
     "effect.tfg.instant_radiation": "Instant Radiation",
     "effect.tfg.chemical_burns_warning": "Suffering Chemical Burns",
-    "effect.tfg.poison_warning": "Toxic Material",
-    "effect.tfg.weak_poison_warning": "Weakly Toxic Material",
+    "effect.tfg.poison_warning": "Poisonous Material",
+    "effect.tfg.weak_poison_warning": "Weakly Poisonous Material",
     "effect.tfg.irritant_warning": "Irritant Material",
     "effect.tfg.nausea_warning": "Nauseous Material",
     "effect.tfg.carcinogen_warning": "Carcinogenic Material",
@@ -53,6 +53,10 @@
     "effect.tfg.berylliosis_warning": "Berylliosis",
     "effect.tfg.methanol_poisoning_warning": "Methanol Poisoning",
     "effect.tfg.carbon_monoxide_poisoning_warning": "Carbon Monoxide Poisoning",
+    "effect.tfg.radioactive_warning": "Irradiated",
+
+    "gtceu.medical_condition.radioactive": "§4Radioactive",
+    "symptom.tfg.glowing": "Glowing",
 
     "tfg.greate.uls_limit": "§432§r (§8ULS§r)",
     "tfg.greate.ls_limit": "§f128§r (§7LS§r)",
@@ -77,7 +81,7 @@
     "trim_material.tfc.salt_tfc": "salt",
     "trim_material.tfc.sapphire_tfc": "Sapphire",
     "trim_material.tfc.sodalite_tfc": "Sodalite",
-    "trim_material.tfc.coke_tfc": "Coke",
+    "trim_material.tfc.armalcolite_tfc": "Armalcolite",
     "trim_material.tfc.spessartine_tfc": "Spessartine",
     "trim_material.tfc.topaz_tfc": "Topaz",
     "trim_material.tfc.uvarovite_tfc": "Uvarovite",
@@ -187,10 +191,11 @@
     "tfg.tooltip.hotornot_cold_equipment": "§7Provides protection from all §bcold§7 items, fluids, and pipes.§r",
     "tfg.tooltip.hotornot_floating_equipment": "§7Provides protection from all §elighter-than-air§7 gases.§r",
 
-    "tfg.tooltip.machine.one_energy_hatch": "Accepts exactly §6One§r Energy Hatch",
-    "tfg.tooltip.machine.two_energy_hatches": "Accepts up to §6Two§r Energy Hatches",
+    "tfg.tooltip.machine.one_energy_hatch": "Accepts exactly §6One§r Energy Hatch.",
+    "tfg.tooltip.machine.two_energy_hatches": "Accepts up to §6Two§r Energy Hatches.",
     "tfg.tooltip.machine.subtick": "This machine supports §2Subticking§r!",
-    "tfg.tooltip.machine.coil_energy_discount": "Every coil after §6Cupronickel§r reduces energy usage by §r10%§7.§r",
+    "tfg.tooltip.machine.coil_energy_discount": "Every coil after §6Cupronickel§r reduces energy usage by 10%.",
+    "tfg.tooltip.machine.coil_speed_discount": "§6Cupronickel§r coils process 75% slower. Every coil after §3Kanthal§r increases processing speed by 50%.",
     "tfg.tooltip.machine.bioreactor_1": "§7Chemistry meets Biology§r",
     "tfg.tooltip.machine.bioreactor_2": "§7Combines organic and inorganic ingredients to produce synthetic biological products.§r",
     "tfg.tooltip.machine.growth_chamber_1": "§7Growing new life§r",
@@ -264,5 +269,8 @@
     "tfg.gui.max_energy_per_tick_amps.prefix": "Max EU/t:",
     "tfg.gui.consumes": "Consumes: ",
     "tfg.gui.per_cycle": "per cycle",
-    "tfg.gui.cycle_duration": "Cycle duration: "
+    "tfg.gui.cycle_duration": "Cycle duration: ",
+
+    "tfg.emi.bacon_requirement": "Bacon - The Raw Pork must be smoked first",
+    "tag.item.tfg.dried_fruit": "Dried Fruit"
 }

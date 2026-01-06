@@ -1,6 +1,6 @@
 {
-	"quests.space_survival": "Tips - Space Survival",
-	"quests.space_survival.subtitle": "The one place that hasn't been corrupted by capitalism... Space!",
+	"quests.moon": "The Moon",
+	"quests.moon.subtitle": "The one place that hasn't been corrupted by capitalism... Space!",
 
 	"quests.space_survival.preparations.title": "Pre-Launch Preparations",
 	"quests.space_survival.preparations.subtitle": "Make sure you're ready!",
@@ -115,6 +115,9 @@
 	"quests.space_survival.soulbound.subtitle": "You're a long way from spawn",
 	"quests.space_survival.soulbound.desc.1": "In TerraFirmaGreg, you can set your spawn on any dimension (even The Beneath!), but unless you've got a bunch of extra space suits lying around, respawning on the Moon might complicate things.\n\nFirst of all, you'll definitely want your bed to be inside an oxygenated area, so you don't immediately die as soon as you respawn (though in case of a blackout, you should have enough time to break your bed and reset your spawn).",
 	"quests.space_survival.soulbound.desc.2": "Secondly, you can upgrade each piece of your Space Suit with a &bSoul Pearl&r. This will make them stay equipped when you die!\n\nYou can get these from any of the tougher, hostile Endermen on the Moon.\n\nWe promise it's sci-fi and not magic.",
+
+	"quests.mars": "Surviving Mars",
+	"quests.mars.subtitle": "The shifting sands await",
 
 	"quests.space_survival.mars_desert.title": "The Martian Desert",
 	"quests.space_survival.mars_desert.subtitle": "Sand, sand everywhere",

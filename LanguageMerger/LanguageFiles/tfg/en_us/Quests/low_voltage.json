@@ -1,13 +1,13 @@
 {
 	"__comment1": "Starting",
-	
+
 	"quests.low_voltage": "&7LV&r - Low Voltage",
 	"quests.low_voltage.subtitle": "Tame electricity and begin your GregTech journey",
 
 	"quests.low_voltage.lv_machine_hull.title": "Your second machine hull",
 	"quests.low_voltage.lv_machine_hull.subtitle": "It's time to get into electricity",
 	"quests.low_voltage.lv_machine_hull.desc.1": "You're getting real close to your &6first LV Machine&r and the beginning of the electric age! If you haven't made any &4Red Steel&r yet, you'll now have to, but in return you will get &6new ways&r to improve your production.\n\nThis is the GregTech philosophy: &6the further you progress, the better the new recipes become&r.\n\nTry to make at least 3 or 4 casings to begin.",
-	"quests.low_voltage.lv_machine_hull.desc.2": "For some players, reaching a new tier is marked by crafting the first &6circuit&r, for others it's the &6machine hull&r or the &6energy hatch&r. You can use whatever works best for you, but for the sake of organization, these quests will use the machine hull.",
+	"quests.low_voltage.lv_machine_hull.desc.2": "For some players, reaching a new tier is marked by crafting the first &6circuit&r, for others it's the &6machine hull&r or the &6energy hatch&r. You can use whatever works best for you, but for the sake of organization, these quests will use the machine hull.\n\nLost on where to start? We recommend looking for machines that will make everything else cheaper, starting with the thing you hate the most.",
 
 	"quests.low_voltage.lv_machine_casing.title": "LV Machine Casing for Create?",
 	"quests.low_voltage.lv_machine_casing.subtitle": "More options!",
@@ -22,7 +22,14 @@
 	"quests.low_voltage.lv_age_progression.desc": "&7LV&r will require you to craft a lot of different machines! Here's a friendly tip if you're struggling to set goals: pick an item in a later quest and go backwards from there.\n\nWith that in mind... why don't we start with a &5Fusion Controller&r? Never mind, slightly too ambitious - let's check a closer goal instead. Ah, yes, the &3Electric Blast Furnace&r - the main end goal of &7LV&r - should be a good target.\n\nThe EBF is &aexpensive&r, which is why you should initially focus on machines to make components and materials cheaper. Our quests will try to will guide you in the right direction.\n\nOther important goals are crafting the &3LV Assembler&r, making your first &aMV Circuits&r and getting your first &bCircuit Assembler&r.",
 	"quests.low_voltage.lv_age_progression.task": "I... might have some sense of direction now",
 
-	"quests.low_voltage.lv_steam_turbine.title": "Electricity Generation",
+	"quests.low_voltage.lost.title": "Lost?",
+	"quests.low_voltage.lost.subtitle": "This is all very overwhelming",
+	"quests.low_voltage.lost.desc.1": "Getting into &7LV&r opens up a LOT of options, so it's easy to get lost. Here's our recommendations:\n\n1) Set up a source of power. Check the quests on the bottom right, there's several options, all are viable. Don't cheap out, build multiple generators!\n\nBe sure to &eread the GregTech Energy quest chapter&r so you get a good understanding of how EU, Volts, Amps, and Cable Loss all work.",
+	"quests.low_voltage.lost.desc.2": "2) Focus on machines that make building more machines cheaper.\n\nThe Polarizer is a super cheap machine that can magnetize rods for basically free. If you didn't craft the Steam Age equivalents, set up a Bender, Wiremill, Lathe, and Cutter. These quests are all on the top left.\n\nAfter that, focus on making Rubber cheaper with a Chemical Reactor and Fluid Solidifier (left), and making electronic components cheaper with an Assembler (bottom).\n\nOnce everything's at its cheapest, make sure you craft components in batches to save you lots of time.",
+	"quests.low_voltage.lost.desc.3": "3) Build a canner and make some batteries (top right). Battery buffers will help a lot with the growth of your factory, and the Ore Prospector is an absolute game changer.\n\n4) &7LV&r has two main end goals, the &aCircuit Assembler&r and the &aElectric Blast Furnace&r. You should now be ready to tackle those.",
+	"quests.low_voltage.lost.task": "I know what to do now!",
+
+	"quests.low_voltage.lv_steam_turbine.title": "The Steam Turbine",
 	"quests.low_voltage.lv_steam_turbine.subtitle": "You must construct additional turbines",
 	"quests.low_voltage.lv_steam_turbine.desc.1": "The &3Steam Turbine&r is one of the only generators you can realistically use in &7LV&r. &2Later, you'll unlock more interesting Power options&r, such as natural gases or petrols.\n\nWhen provided Steam, the turbine will output EU at a ratio of &d2 mB = 1 EU&r.",
 	"quests.low_voltage.lv_steam_turbine.desc.2": "If you're using a single &3Steam Turbine&r, you only need &a1x Tin Cables&r. On the other hand, if you upgrade to &32 Steam Turbines&r, you should use &a2x Tin Cables&r - else they may end up &cburning&r.\n\nThis is because of the &9Amperage&r mechanic... but that will be explained later so you can enjoy playing. Don't worry!",
@@ -30,7 +37,7 @@
 	"quests.low_voltage.lbb.title": "Large Bronze Boiler",
 	"quests.low_voltage.lbb.subtitle": "Boom, boom, boom, boom",
 	"quests.low_voltage.lbb.desc.1": "The &3Large Boiler&r is an &6optional&r big-boy variant of the Small Boilers. It runs off solid or liquid fuel.\n\nIf you want Steam-based power production, this is an alternative to the Create Steam Engine. Later power options are listed in the &bMV&r chapter.\n\nMake sure you set it up so it never runs out of water like your Small Boilers, otherwise it'll &cexplode&r!.",
-	"quests.low_voltage.lbb.desc.2": "Once fully heated up, the &3LBB&r produces 800 Steam per tick, which is &d400EU/t&r after conversion, or 12.5 Basic Steam Turbines. Such (relatively!) immense power comes at the cost of &la lot&r of burnable fuel. &5With this in consideration&r, the GUI lets you &9throttle&r the Boiler down to 25 percent power for 200 Steam per tick. That's &d100EU/t&r, or slightly above 3 Basic Steam Turbines.\n\nWe recommend holding off making this until you're ready to power your EBF.",
+	"quests.low_voltage.lbb.desc.2": "Once fully heated up, the &3LBB&r produces 800 Steam per tick, which is &d400EU/t&r after conversion, or 12.5 Basic Steam Turbines. Such (relatively!) immense power comes at the cost of &la lot&r of burnable fuel. &5With this in consideration&r, the GUI lets you &9throttle&r the Boiler down to 25 percent power for 200 Steam per tick. That's &d100EU/t&r, or slightly above 3 Basic Steam Turbines.\n\nWe recommend holding off making this until you're ready to power your EBF, or if you have a lot of steam multiblocks.",
 	"quests.low_voltage.lbb.desc.3": "In TerraFirmaGreg, you have a few options for fuel. You can use a Hose Pulley to pull Lava out of a deep underground lake, or set up a tree farm into a coke oven for Charcoal and Creosote. Lastly, there are huge surface-level Coal veins that you can extract with some automated mining machines and turn into Coke and significantly more Creosote than charcoal.\n\nIf you go the tree farm route, you'll need three coke ovens to power a full-throttle LBB.",
 
 	"quests.low_voltage.lv_polariser.title": "Basic Polarizer",
@@ -61,7 +68,7 @@
 
 	"quests.low_voltage.lv_gas_turbine.title": "The Gas Turbine",
 	"quests.low_voltage.lv_gas_turbine.subtitle": "It needs more circuits but less materials",
-	"quests.low_voltage.lv_gas_turbine.desc": "With the help of &7Syngas&r, you now have a viable way to use the &8Gas Turbine&r at &7LV&r. They work exactly like the other &6generators&r but should be a tiny bit cheaper than the &6Combustion Generator&r.",
+	"quests.low_voltage.lv_gas_turbine.desc": "With the help of &7Syngas&r, you now have a viable way to use the &cGas Turbine&r at &7LV&r. They work exactly like the other &6generators&r but should be a tiny bit cheaper than the &6Combustion Generator&r.",
 
 	"quests.low_voltage.lv_gas_syngas.title": "Syngas",
 	"quests.low_voltage.lv_gas_syngas.subtitle": "Not Wood Gas",
@@ -113,9 +120,9 @@
 
 	"quests.low_voltage.universal_cell.title": "Better bucket",
 	"quests.low_voltage.universal_cell.subtitle": "You can see inside, unlike those drums...",
-	"quests.low_voltage.universal_cell.desc.1": "Cells are an alternative form of Fluid storage. All Cell types with the same type and amount of Fluid inside them &6stack&r. They can be automatically filled with a &3Canning Machine&r.\n\nCells hold &done bucket&r of Fluid.",
+	"quests.low_voltage.universal_cell.desc.1": "Cells are an alternative form of Fluid storage. All Cell types with the same type and amount of Fluid inside them &6stack&r. They can be automatically filled with a &3Canning Machine&r.\n\nFluid Cells hold &done bucket&r of Fluid.\n\nNot sold on them yet? Unlike drums and buckets, cells &asafely contain&r their contents, preventing you from getting burnt, frozen, or floating.",
 	"quests.low_voltage.universal_cell.desc.2": "Universal Cells hold up to &done bucket&r, but also can store &9fractions&r of Buckets. They're particularly ideal if you want to store leftover Fluid without crafting a whole Drum. \n\nCells made from higher tier materials can hold even more fluid, but &9Drums&r and &9Super Tanks&r will hold more by then.\n\nLike Drums, Cells can be placed into a crafting grid to clear their contents.",
-	"quests.low_voltage.universal_cell.task": "",
+	"quests.low_voltage.universal_cell.task": "Any cell",
 
 	"quests.low_voltage.machine_auto_output_behaviour.title": "Machine Auto-Output Behaviour",
 	"quests.low_voltage.machine_auto_output_behaviour.subtitle": "Let's learn.",
@@ -130,7 +137,7 @@
 	"quests.low_voltage.programmed_circuits.task": "I got it, I don't need to craft circuits",
 
 	"__comment5": "Converyor",
-	
+
 	"quests.low_voltage.lv_conveyor.title": "LV Conveyor Module",
 	"quests.low_voltage.lv_conveyor.subtitle": "A crafting component, but also a cover!",
 	"quests.low_voltage.lv_conveyor.desc": "Less common as a component, but used in a number of critical machines.\n\nWhen placed on a machine, conveyor modules will transfer items. You can configure them to import or export.\n\nThey can also accept various &9Item Filters&r.",
@@ -213,7 +220,7 @@
 
 	"quests.low_voltage.lv_mixer.title": "Basic Mixer",
 	"quests.low_voltage.lv_mixer.subtitle": "The Mixer mixes...",
-	"quests.low_voltage.lv_mixer.desc": "Using the mixer will &6significantly speed up&r the process of making colored steel, especially the &4red steel&r for your machine hulls. Even if you don't think you need it now, you'll find it &6essential&r later on.",
+	"quests.low_voltage.lv_mixer.desc": "Using the mixer will &6significantly speed up&r the process of making colored steel, especially the &4red steel&r for your machine hulls. Even if you don't think you need it now, you'll find it &6essential&r later on.\n\nYou're used to alloying things in a Crucible, but for any new alloys (as well as all of the old ones), the GregTech way of alloying is to &amix together dusts&r and then heat them into ingots or extract them into fluids. Don't look at the Alloy Blast Smelter in JEI, that's not until &5EV&r.",
 	"quests.low_voltage.lv_mixer.task": "From Create or GregTech",
 
 	"quests.low_voltage.soldering_alloy.title": "Soldering Alloy",
@@ -238,7 +245,7 @@
 
 	"quests.low_voltage.lv_diode.title": "Diode",
 	"quests.low_voltage.lv_diode.subtitle": "Don't be swayed by EMI!",
-	"quests.low_voltage.lv_diode.desc": "Don't let JEI fool you... there's only one possible recipe right now for this Primitive Diode -- the liquid glass one.\n\nDiodes have a infamously &4nasty recipe&r, but they will become cheaper and more convenient once you can obtain &ePolyethylene&r.\n\nThis is required for &dMV Circuits&r.",
+	"quests.low_voltage.lv_diode.desc": "Don't let JEI fool you... there's only two possible recipes right now for this Primitive Diode -- the liquid glass ones.\n\nDiodes have a infamously &4nasty recipe&r, but they will become cheaper and more convenient once you can obtain &ePolyethylene&r.\n\nThis is required for &dMV Circuits&r.",
 
 	"quests.low_voltage.1_mv_circuit.title": "First MV Circuit!",
 	"quests.low_voltage.1_mv_circuit.subtitle": "Does that mean we're at MV yet?",
@@ -365,5 +372,9 @@
 
 	"quests.low_voltage.oil.title": "Found Oil early?",
 	"quests.low_voltage.oil.subtitle": "For LV overachievers",
-	"quests.low_voltage.oil.desc": "If you've found any Oilsands ores or Oil spouts (in deserts) in your travels, you can actually start using a little bit of it in LV.\n\nYou can either convert it into Heavy Fuel and put it in your boilers, or better yet, use it to make a little &bPolyethylene&r!\n\nThe details of this are in the MV chapter, but at this point you can use the polyethylene to make a few things such as cheaper Machine Hulls and Diodes."
+	"quests.low_voltage.oil.desc": "If you've found any Oilsands ores or Oil spouts (in deserts) in your travels, you can actually start using a little bit of it in LV.\n\nYou can either convert it into Heavy Fuel and put it in your boilers, or better yet, use it to make a little &bPolyethylene&r!\n\nThe details of this are in the MV chapter, but at this point you can use the polyethylene to make a few things such as cheaper Machine Hulls and Diodes.",
+
+	"quests.low_voltage.glowstone.title": "Permanent Lighting",
+	"quests.low_voltage.glowstone.subtitle": "A roundabout way of inventing light bulbs",
+	"quests.low_voltage.glowstone.desc": "Looking for some cheap, permanent light sources? Now that you've got an LV Extractor (and soon an LV Fluid Solidifer), you can put all that &6Glowstone Dust&r you found in The Beneath to work. Ran out? You can make more in a Mixer.\n\nCheck out JEI for all the new light sources you can make with both liquid glowstone and glowstone blocks. GregTech also has some made with glowstone dust in an assembler.\n\nAs a bonus, you can also use liquid glowstone as an infinite fuel for your lamps!"
 }

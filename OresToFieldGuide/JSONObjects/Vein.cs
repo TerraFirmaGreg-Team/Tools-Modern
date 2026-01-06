@@ -22,6 +22,9 @@ namespace OresToFieldGuide
 		[JsonPropertyName("type")]
 		public required string Type { get; set; }
 
+		[JsonPropertyName("visual_only")]
+		public bool? VisualOnly { get; set; }
+
 		/// <summary>
 		/// The Configuration for the Vein
 		/// </summary>

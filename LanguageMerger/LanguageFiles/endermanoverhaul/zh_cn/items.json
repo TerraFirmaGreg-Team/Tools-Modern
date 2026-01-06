@@ -1,5 +1,5 @@
 {
-    "item.endermanoverhaul.nether_wastes_enderman_spawn_egg": "洞穴末影人刷怪蛋",
+    "item.endermanoverhaul.nether_wastes_enderman_spawn_egg": "狂躁末影人刷怪蛋",
     "item.endermanoverhaul.dark_oak_enderman_spawn_egg": "灰烬末影人刷怪蛋",
     "item.endermanoverhaul.mushroom_fields_enderman_spawn_egg": "蘑菇末影人刷怪蛋",
     "item.endermanoverhaul.swamp_enderman_spawn_egg": "覆苔末影人刷怪蛋",
@@ -8,5 +8,7 @@
     "item.endermanoverhaul.windswept_hills_enderman_spawn_egg": "月海末影人刷怪蛋",
     "item.endermanoverhaul.end_enderman_spawn_egg": "男中音合唱末影人刷怪蛋",
     "item.endermanoverhaul.end_islands_enderman_spawn_egg": "女高音合唱末影人刷怪蛋",
-    "item.endermanoverhaul.spirit_spawn_egg": "彗星刷怪蛋"
+    "item.endermanoverhaul.spirit_spawn_egg": "彗星刷怪蛋",
+    "item.endermanoverhaul.desert_enderman_spawn_egg": "迷失末影人刷怪蛋",
+    "item.endermanoverhaul.savanna_enderman_spawn_egg": "沙地末影人刷怪蛋"
 }

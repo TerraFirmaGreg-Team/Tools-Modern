@@ -1,16 +1,4 @@
 {
-
-
-
-
-
-    "__comment": "DO NOT TRANSLATE YET, STILL UNDER CONSTRUCTION",
-
-
-
-
-
-
     "quests.extreme_voltage": "&5EV&r - Extreme Voltage",
     "quests.extreme_voltage.subtitle": "Reach Mars, discover Nuclear Fission, and build new massive multiblocks",
 
@@ -30,7 +18,12 @@
 
     "quests.extreme_voltage.ev_components.title": "Extreme Voltage Components",
     "quests.extreme_voltage.ev_components.subtitle": "The \"Fun\" will never stop",
-    "quests.extreme_voltage.ev_components.desc": "&7By now, you should be getting used to the pattern with every new Energy Tier comes a fresh batch of components.&r\n\nThe &5EV&r tier comes with a few twists - first, &eNeodymium&r. You might already have some stored from your earlier mining trips, but you’ll also find it in large quantities when processing &eMonazite Ore&r.\n\nSecondly, Sensors and Emitters require &bCryogenized Fluix Pearls&r. Hopefully your &dMoon&r infrastructure is up and running to supply them efficiently.\n\nLastly, Motors require Kanthal wire. If you've been diligently upgrading your EBF, these should be significantly faster to craft than when you made them in MV (and you can recycle your old coils too!), but the Alloy Blast Smelter will be able to make this even faster.",
+    "quests.extreme_voltage.ev_components.desc": "&7By now, you should be getting used to the pattern: with every new Energy Tier comes a fresh batch of components.&r\n\nThe &5EV&r tier comes with a few twists - first, &eNeodymium&r. You might already have some stored from your earlier mining trips, but you’ll also find it in large quantities when processing &eMonazite Ore&r.\n\nSecondly, Sensors and Emitters require &bCryogenized Fluix Pearls&r. Hopefully your &dMoon&r infrastructure is up and running to supply them efficiently.\n\nLastly, Motors require Kanthal wire. If you've been diligently upgrading your EBF, these should be significantly faster to craft than when you made them in MV (and you can recycle your old coils too!), but the Alloy Blast Smelter will be able to make this even faster.",
+
+    "quests.extreme_voltage.assembler.title": "EV Assembler",
+    "quests.extreme_voltage.assembler.subtitle": "Last step before some Extreme power generation!",
+    "quests.extreme_voltage.assembler.desc.1": "You know what to do with this by now, but this is a good time to give you a heads up that now is the time to scale up your factory if you haven't already done so.\n\nTake your time to set up AE2 all over your base, making it print you dozens of new machines to keep your factory running at tip-top shape, because if you don't, the rest of EV is going to hit you like a brick wall.\n\nDon't wait to find out the hard way!",
+    "quests.extreme_voltage.assembler.desc.2": "At the very least, here's what we recommend before pushing further into EV:\n\n&9-&r Passive production of Rubber, Polyethylene, Oxygen, Hydrogen, Nitrogen, and Chlorine\n&9-&r At least two general-purpose EBFs, and a few LCRs\n&9-&r AE2 patterns for a circuit of every tier and most of the common crafting components like motors, pumps, plates, and wires\n&9-&r A dedicated ore processing setup\n&9-&r A couple EV amps worth of power generation (see the below quests)\n\nYou can do it, you've made it this far already!",
 
     "quests.extreme_voltage.t2_rocket.title": "Rocket 2: Titanium Boogaloo",
     "quests.extreme_voltage.t2_rocket.subtitle": "This one's purple",
@@ -71,8 +64,8 @@
 
     "quests.extreme_voltage.important_info.title": "Before starting",
     "quests.extreme_voltage.important_info.subtitle": "Not an easy place to start",
-    "quests.extreme_voltage.important_info.desc.1": "Before you start building your base on &cMars&r, here are a few important tips to help you settle in successfully.&r\n\nWhile exploring, you might come across &6Martian Ruins&r containing &eAtomic Casings&r and &eHigh Temperature Smelting Casings&r. These won’t replace the massive number you’ll need later, but they can give you a small head start while scouting for the perfect base location.&r",
-    "quests.extreme_voltage.important_info.desc.2": "When it comes to your Martian infrastructure, there are two main approaches:&r\n\n• &aPreparation-focused&r: Build everything required for your full &6Fission Line&r before establishing your base. This means an enormous material investment, but allows you to be self-sufficient once operational.\n\n• &aProgressive setup&r: Start smaller with your &6Nuclear Fuel Factory&r, your first &6Fission Reactor&r (running on &eThorium&r), and a &6Nuclear Turbine&r. This route is faster to start, but managing energy will be rough until your fission system stabilizes.\n\nEither way, we always recommend having an exploration mission before you start settling down!",
+    "quests.extreme_voltage.important_info.desc.1": "Before you start building your base on &cMars&r, here are a few important tips to help you settle in successfully.&r\n\nBefore crafting up an entire base to carry in your pocket, we always recommend having an exploration mission before you start setting down!",
+    "quests.extreme_voltage.important_info.desc.2": "When it comes to your Martian infrastructure, there are two main approaches:&r\n\n• &aPreparation-focused&r: Build everything required for your full &6Fission Line&r before establishing your base. This means an enormous material investment, but allows you to be self-sufficient once operational.\n\n• &aProgressive setup&r: Start smaller with your &6Nuclear Fuel Factory&r, your first &6Fission Reactor&r (running on &eThorium&r), and a &6Nuclear Turbine&r. This route is faster to start, but managing energy will be rough until your fission system stabilizes.",
     "quests.extreme_voltage.important_info.desc.3": "Because every kind of combustion-based energy won't work on Mars, you’ll want to bring a good stock of &bLapotron Crystals&r to power your first recipes and oxygen systems.\n\nWe also strongly recommend setting up a &6Distillation Tower&r. &eMartian Air&r can be processed into breathable &bAir&r and several other useful gases. Alternatively, everything for Compressed Nitrox can come from the local Semiheavy Ammoniacal Water.\n\nSurvival on Mars isn’t about luck, it’s about preparation!",
     "quests.extreme_voltage.important_info.task": "It's Marsing Time",
 
@@ -262,7 +255,7 @@
     "quests.extreme_voltage.nano_iv.subtitle": "Getting closer to LuV technology",
     "quests.extreme_voltage.nano_iv.desc": "These &1IV&r Circuits still require one &bNano CPU Chip&r, so in that regard they aren’t actually cheaper than the &bMicroprocessors&r.\n\nHowever, they will be essential for progressing toward the next tier of technology.",
 
-    "quests.extreme_voltage.nano_luv.subtitle": "Your first IV circuits",
+    "quests.extreme_voltage.nano_luv.subtitle": "Your first LuV circuits",
     "quests.extreme_voltage.nano_luv.desc": "Congrats on successfully reaching a new tier of circuits! These &dLuV&r Circuits won’t have much use just yet, as you can’t craft any &dLuV&r machines before completing the &bPlatline&r, but they’ll still be valuable for crafting new &dAE2&r tools and components.\n\nMost of these recipes will require an &1IV&r Assembler, so be sure you have one ready.",
 
     "quests.extreme_voltage.me_part.title": "ME Multiblock Parts",
@@ -307,8 +300,8 @@
     "quests.extreme_voltage.wood_distillation.desc.3": "It's also possible to use a \"full combo\" of 4 &3DTs&r - input &aCharcoal Byproducts&r into a first tower, splitting into &aWood Tar&r, &aWood Gas&r and &aWood Vinegar&r.\n\nThis isn't the most efficient cost-to-production ratio, but the option is there if you get bored.",
     "quests.extreme_voltage.wood_distillation.task": "Any of these",
 
-    "quests.extreme_voltage.new_qol.title": "New QoL?",
-    "quests.extreme_voltage.new_qol.desc": "Here's some useful tools that you've unlocked with the EV Assembler.",
+    "quests.extreme_voltage.new_qol.title": "New quality of life tools?",
+    "quests.extreme_voltage.new_qol.desc": "Here's some useful gadgets that you've unlocked with the EV Assembler.",
 
     "quests.extreme_voltage.building_gadgets.title": "Building Gadgets",
     "quests.extreme_voltage.building_gadgets.subtitle": "Paving over beautiful landscapes with just one press of a button!",
@@ -319,7 +312,7 @@
 
     "quests.extreme_voltage.radiation.title": "Dealing with Radiation",
     "quests.extreme_voltage.radiation.subtitle": "Extra Spicy Materials",
-    "quests.extreme_voltage.radiation.desc.1": "While GregTech doesn't have any sort of \"ambient radiation\" like some other mods do, &aradioactive materials&r are still dangerous to the player when held! This applies to any item that says it's &eCarcinogenic&r and is caused by &eAny Contact&r.\n\nThere's a few ways to mitigate this, and the easiest is to just avoid contact with the items in the first place - move them around with pipes, backpacks, or even Small Vessels. The less time you have them in your inventory, the better!",
+    "quests.extreme_voltage.radiation.desc.1": "While GregTech doesn't have any sort of \"ambient radiation\" like some other mods do, &aradioactive materials&r are still dangerous to the player when held! This applies to any item that says it's &4Radioactive&r and is caused by &eAny Contact&r.\n\nThere's a few ways to mitigate this, and the easiest is to just avoid contact with the items in the first place - move them around with pipes, backpacks, or even Small Vessels. The less time you have them in your inventory, the better!",
     "quests.extreme_voltage.radiation.desc.2": "Besides this, you'll want some other ways to protect yourself. Wearing equipment tagged as &e#ppe_armor&r in all four slots will protect you from radiation. However, this will still damage the equipment over time (at a rate equivalent to how much the radiation would affect you), &oexcept&r for the &6Hazardous Material Suit&r, which will never take damage from it.\n\nThe downside is that the hazmat suit isn't a space suit, so on Mars it's up to you whether you want to set up an enclosed Oxygenated base for the hazmat suit, or just take the durability damage on your space suit.",
     "quests.extreme_voltage.radiation.desc.3": "Lastly, you can check your radiation poisoning at any time with the &a/medical_condition query&r command. If it gets too high, you will start taking occasional damage or just suddenly die, so you want to prevent it.\n\nThe only other way to treat it is to craft and eat &bRad Away&r pills, which will each remove 50%% of the build-up.",
     "quests.extreme_voltage.radiation.task": "Safety First!",
@@ -336,5 +329,19 @@
     "quests.extreme_voltage.large_generators.desc": "The various single-block generators only go up to HV, so from here on, you'll have to use multiblocks to generate more power. Two of the best options at EV are the &dLarge Gas Turbine&r and &dLarge Combustion Engine&r, so head over to the GregTech Energy chapter to learn more about them.",
 
     "quests.extreme_voltage.large_centrifuge.subtitle": "Material Carousel",
-    "quests.extreme_voltage.large_centrifuge.desc": "The &6Large Centrifugal Unit&r is a mandatory multiblock for your Fission Line.\n\nIt supports up to &52x EV Energy Hatches&r, allowing it to process &1IV-tier&r recipes using the same mechanic as the EBF, so it should feel familiar.\n\nThis machine can operate in two modes: &bCentrifuge&r and &6Thermal Centrifuge&r. You can easily switch between them directly in the controller interface, but unfortunately can't be controlled with AE2 or other automation.\n\nWith this upgrade, you can finally bring your &aore processing&r to a whole new level of speed."
+    "quests.extreme_voltage.large_centrifuge.desc": "The &6Large Centrifugal Unit&r is a mandatory multiblock for your Fission Line.\n\nIt supports up to &52x EV Energy Hatches&r, allowing it to process &1IV-tier&r recipes using the same mechanic as the EBF, so it should feel familiar.\n\nThis machine can operate in two modes: &bCentrifuge&r and &6Thermal Centrifuge&r. You can easily switch between them directly in the controller interface, but unfortunately can't be controlled with AE2 or other automation.\n\nWith this upgrade, you can finally bring your &aore processing&r to a whole new level of speed.",
+
+    "quests.extreme_voltage.btx.title": "BTX Fuel",
+    "quests.extreme_voltage.btx.subtitle": "Long lost cousin of Nitrobenzene",
+    "quests.extreme_voltage.btx.desc.1": "The &eBTX Fuel&r is an upgrade over &eReformate Gas&r, being around five times more potent per mB. The process is much more tedious, but it provides a significant upgrade for running your &6Large Gas Turbines&r. Like its predecessor, this fuel is fully renewable and can be produced entirely through &aTree Processing&r.\n\nTo explain how &eBTX Fuel&r is made, we divide its processing into three parts: the &bBTX Fuel crafting&r itself, the crafting of the &eCatalyst&r, and finally how to loop &eRhenium&r and &ePlatinum&r.",
+    "quests.extreme_voltage.btx.desc.2": "Let’s start with the &bBTX Fuel&r crafting. You will need to mix &eReformate Gas&r with the &eCatalyst&r and a small amount of &ePropene&r. A new processing path allows you to produce &eMethanol&r from &eSyngas&r, which can then be distilled into the required Propene. This is a good way to reuse the Syngas generated during &eReformate Gas&r production.\n\nOnce that is done, distilling &eWood Tar&r in a &6Distillation Tower&r will provide everything else you need to complete the mix. Simple enough. In the next quests, we will cover how to craft the &eCatalyst&r and how to recycle it efficiently.",
+
+    "quests.extreme_voltage.btx_catalyser.title": "Platinum-Rhenium ZSM-5 Catalyzer",
+    "quests.extreme_voltage.btx_catalyser.subtitle": "What a complex name",
+    "quests.extreme_voltage.btx_catalyser.desc": "To craft the &ePlatinum-Rhenium ZSM-5 Catalyzer&r, you will need to set up infinite sources of &aLye&r, &aSodium&r, and &dNether Quartz&r, as well as &aAmmonia&r and &aEthanol&r. The &bAluminum&r will be fully looped, while the other materials will only be partially recovered.\n\nIf you are unsure about &dNether Quartz&r, take a look at the recipe chain starting from &eSand&r. &aSodium&r, on the other hand, can be obtained easily from &bSea Water&r processing, and Lye can be from Wood Ash.\n\nFinally, mix everything together with some &5Platinum&r and &5Rhenium&r to obtain your &eCatalyst&r. The good news is that both Platinum and Rhenium are fully recycled in this process, so there is no need to worry - you will only have to mine them once.",
+
+    "quests.extreme_voltage.btx_loop.title": "Recycling the Used Catalyzer",
+    "quests.extreme_voltage.btx_loop.subtitle": "Getting back as much as you can",
+    "quests.extreme_voltage.btx_loop.desc.1": "The last part of this chain consists in recycling your Used Catalyzer. The overall process is fairly straightforward, and the main challenge will be maintaining a continuous supply of &aReinforced Epoxy Resin Plates&r and &eGlue&r.\n\nIf you still have your &2tapping system&r in place, it should be more than sufficient to produce all the resin required to craft your Glue. Alternatively, using an &bExtractor&r on logs is also a perfectly viable option. This method is slightly more &cpower-hungry&r, but the choice is entirely up to you depending on your infrastructure.",
+    "quests.extreme_voltage.btx_loop.desc.2": "A small remark regarding &9Diluted Hydrochloric Acid&r: it can be easily produced by reacting &bWater&r with &aChlorine&r. You could store your &dHypochlorous Acid&r, or &7Electrolyze&r it if you wish to recover &fhalf of your Chlorine&r.\n\nAs for &6Sulfuric Acid&r, you should already have access to an &ainfinite source of Sulfur&r through your &ePetrochemical Distillation&r setup. If this is not yet the case, we strongly advise you to address this as soon as possible. Alternatively, the &7Coal Tar&r obtained while producing &bReformate Gas&r can be reconverted into &2Hydrogen Sulfide&r and ultimately refined back into &6Sulfur&r."
 }

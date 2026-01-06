@@ -140,6 +140,7 @@
     "quests.tfg_tips.memory_card.subtitle": "Copy and Paste",
     "quests.tfg_tips.memory_card.desc": "When you try to &aparallelize your setup&r with more machines, it can be a bother to set all the &einputs&r and &eoutputs&r for each one. Yeah, we're thinking of you, &dSuper Chests&r and &dTanks&r.\n\nIf you ever find yourself needing this little tool, don't hesitate to use it.",
 
+    "quests.tfg_tips.portable_scanner.title": "Tricoder",
     "quests.tfg_tips.portable_scanner.subtitle": "For the nosiest GregTech players",
     "quests.tfg_tips.portable_scanner.desc.1": "The &aPortable Scanner&r, or &aTricorder&r, is GTCEu's debug tool.\n\nUsing it will show you a block's details, the details of the energy network, its current status and contents, and its impact on performance.\n\nIt'll also display a percentage of fluid remaining in the fluid vein for the &3Fluid Rigs&r.",
     "quests.tfg_tips.portable_scanner.desc.2": "&l&3Lore:&r&o This little useful device comes from GregTech 5. It was extremely useful in the early days, because very little information (basically nothing) was given by GUIs or WAILA.",
@@ -152,7 +153,7 @@
 
     "quests.tfg_tips.smart_item_filter.subtitle": "Knock, knock - who's that? It's MENSA!",
     "quests.tfg_tips.smart_item_filter.desc.1": "In this quest, we'll bestow upon you &5cursed wisdom&r... the ability to easily automate the Electrolyzer.\n\nThe &9Smart Item Filter&r is a filter that recognises Recipe Maps. When placed on the side of a machine, you can set it to \"&3Electrolyzer&r\" to allow insertion of electrolyzable items specifically. You heard that right - no need to filter manually!\n\nOh, and it only gets &abetter&r. If you combine this bad boy with a &aRobot Arm&r, it'll only supply the &6exact amount&r of items required for a successful recipe to the machine.",
-    "quests.tfg_tips.smart_item_filter.desc.2": "Place the &aRobot Arm&r on your Electrolyzer, open its GUI, then place the &9Smart Filter&r inside. Ensure that the Smart Filter is set to Electrolyzer.\n\nNext, configure it to &d&lImport&r and &d&lSupply Exact&r. Finally, attach any inventory &7(a chest will do)&r onto the side where you placed the &aRobot Arm&r. Ta-dah! You've figured out how to handle &6all&r Electrolyzer recipes!\n\nWhat about the output of the &3Electrolyzer&r? You may want to route the Fluids to several Tanks - or even &3Super Tanks&r if you've gotten that far. We highly recommend that you avoid any methods involving voiding Fluids.&7.&8. except for Water for obvious reasons.",
+    "quests.tfg_tips.smart_item_filter.desc.2": "Place the &aRobot Arm&r on your Electrolyzer, open its GUI, then place the &9Smart Filter&r inside. Ensure that the Smart Filter is set to Electrolyzer.\n\nNext, configure it to &d&lImport&r and &d&lSupply Exact&r. Finally, attach any inventory &7(a chest will do)&r onto the side where you placed the &aRobot Arm&r. Ta-dah! You've figured out how to handle &6all&r Electrolyzer recipes!\n\nWhat about the output of the &3Electrolyzer&r? You may want to route the Fluids to several Tanks - or even &3Super Tanks&r if you've gotten that far. We highly recommend that you avoid any methods involving voiding Fluids.&7.&7. except for Water for obvious reasons.",
     "quests.tfg_tips.smart_item_filter.desc.3": "&9Note:&r The Robot Arm has to facilitate the item transfer for its filtering functionality to work! Inserting directly into the machine &7(for instance, pushing with a Hopper!)&r will ignore the Robot Arm's &dSupply Exact&r setting.",
 
     "quests.tfg_tips.hazard_materials.title": "Hazardous Materials",
@@ -191,6 +192,11 @@
     "quests.tfg_tips.feeding_troughs.subtitle": "Metallic Farmhand",
     "quests.tfg_tips.feeding_troughs.desc": "Feeding Troughs (also known as Grooming Stations) are a way to automatically feed your animals every morning. It even comes with an option to avoid feeding animals that are already at maximum familiarity, in case you don't want to breed them.\n\nHigher tiers come with a higher range of effectiveness.\n\n&3&lTip:&r&o You might not want to put one right next to your fence, otherwise animals will try to use it to escape their pen!",
     "quests.tfg_tips.feeding_troughs.task": "Any feeding trough",
+
+    "quests.tfg_tips.scraping_knives.title": "Scraping Knives",
+    "quests.tfg_tips.scraping_knives.subtitle": "The Cooler Scraping",
+    "quests.tfg_tips.scraping_knives.desc": "Tired of scraping each section of your hides, paper, or flax by hand? Try making a Scraping Knife!\n\nA basic copper or bronze scraping knife can scrape a full line of material at a time, with higher tier knives being capable of scraping more lines.",
+    "quests.tfg_tips.scraping_knives.task": "Any Scraping Knife",
 
     "quests.tfg_tips.glassblowing.title": "Glassblowing",
     "quests.tfg_tips.glassblowing.subtitle": "Realistic Glassworking!",
@@ -333,10 +339,6 @@
     "quests.tfg_tips.grappling_hook.subtitle": "This is going to end poorly",
     "quests.tfg_tips.grappling_hook.desc": "By combining 2 pieces of &aRope Coil&r and a &bWrought Iron Pickaxe Head&r, you can create a &dGrappling Hook!&r An ideal tool for scaling big mountains, exploring large caves and traversing the world. It contains an &eupgrade system&r that allows you to combine and modify your &dHook&r to your leisure.",
 
-    "quests.tfg_tips.grapple_repair.title": "Grappling Hook Warnings",
-    "quests.tfg_tips.grapple_repair.subtitle": "READ ME, OR YOU MAY REGRET IT LATER!",
-    "quests.tfg_tips.grapple_repair.desc": "All your &dGrappling Hook&r &aupgrades&r are stored as NBT Data inside the item. This means trying to repair your hook using &canother&r Grappling Hook &l&cWILL destroy all your upgrades!&r\n\nInstead, you should place your &dGrappling Hook&r and some &bWrought Iron Dust&r in a &3Workbench&r to repair it.\n\nAlso, don't use your Grappling Hook when traveling between the Overworld and Beneath, it's rather deadly.",
-
     "quests.tfg_tips.grapple_upgrades.title": "Upgrading your Grappling Hook",
     "quests.tfg_tips.grapple_upgrades.subtitle": "Balanced around TFG, of course!",
     "quests.tfg_tips.grapple_upgrades.desc.1": "Upgrading your &dGrappling Hook&r consists of adding or removing items to it via the &3Workbench&r.&r\n\nTo see all the upgrades you can apply to your &dGrappling Hook&r, you can press the \"Usage\" key in &2EMI.&r\nEach of the custom recipes will contain text describing what changes are being applied.",
@@ -449,7 +451,7 @@
 
     "quests.tfg_tips.camera_attachments.title": "Camera Attachments",
     "quests.tfg_tips.camera_attachments.subtitle": "Improve your Camera",
-    "quests.tfg_tips.camera_attachments.desc": "By interacting with the &dCamera&r while sneaking, you'll open the camera GUI. This not only allows you to place your desired &aFilm Roll&r, it allows you to attach addons to your camera with new functionalities.\n\n&dRedstone Lamp&r: Works as a flashlight, illuminating dark environments.\n&dSpyglass&r: Enables zooming, letting you take pictures of objects far away.",
+    "quests.tfg_tips.camera_attachments.desc": "By interacting with the &dCamera&r while sneaking, you'll open the camera GUI. This not only allows you to place your desired &aFilm Roll&r, it allows you to attach addons to your camera with new functionalities.\n\n&dToggleable Light Source&r: Works as a flash bulb, illuminating dark environments.\n&dSpyglass&r: Enables zooming, letting you take pictures of objects far away.",
     "quests.tfg_tips.camera_attachments.task": "A Redstone Lamp or a Spyglass",
 
     "quests.tfg_tips.filters.title": "Color Filters",
@@ -467,7 +469,7 @@
 
     "quests.tfg_tips.developing_film.title": "Developing Films",
     "quests.tfg_tips.developing_film.subtitle": "Pretend you're a printer",
-    "quests.tfg_tips.developing_film.desc": "Once you've taken your pictures you can begin &adevelopment&r by soaking the films in &bWater.&r Afterwards, you'll need to craft a &dLightroom&r.\n\nThe lightroom is used to develop film, needing a strong light source above the block, and the following four dyes: &3Cyan&r, &5Magenta&r, &eYellow&r and &0Black&r, known as CMYK.\n&0Black and White Film&r will only need &0Black Dye&r while &dColored Film&r will need the entire &3C&5M&eY&0K&r set.\n\nIf you fancy more interesting processing, you can work with the &cChromatic Process...&r",
+    "quests.tfg_tips.developing_film.desc": "Once you've taken your pictures you can begin &adevelopment&r by soaking the films in the appropriate &bDeveloper&r. Afterwards, you'll need to craft a &dLightroom&r.\n\nThe lightroom is used to develop film, needing a strong light source above the block, and the following four dyes: &3Cyan&r, &5Magenta&r, &eYellow&r and &0Black&r, known as CMYK.\n&0Black and White Film&r will only need &0Black Dye&r while &dColored Film&r will need the entire &3C&5M&eY&0K&r set.\n\nIf you fancy more interesting processing, you can work with the &cChromatic Process...&r",
 
     "quests.tfg_tips.photo.title": "Your first Photo",
     "quests.tfg_tips.photo.subtitle": "Congratulations!",
@@ -564,7 +566,7 @@
 
     "quests.tfg_tips.steam_upgrades.title": "Aircraft Upgrades: Steam",
     "quests.tfg_tips.steam_upgrades.subtitle": "Immersive Aircraft meets GregTech Tiering!",
-    "quests.tfg_tips.steam_upgrades.desc": "The second kind of aircraft upgrades are the &dTiered Upgrades.&r These are made to match the &3GregTech&r tiering system, going from &8Steam&r up to &5EV.&r\n\nSteam upgrades are the easiest and earliest to craft, requiring at the very least knowledge of &bBlack Steel.&r\n\n&dSteam-powered Aircraft Engines&r are used in the creation of more sophisticated aircrafts such as the &eBiplane&r and the &cWarship.&r",
+    "quests.tfg_tips.steam_upgrades.desc": "The second kind of aircraft upgrades are the &dTiered Upgrades.&r These are made to match the &3GregTech&r tiering system, going from &7Steam&r up to &5EV.&r\n\nSteam upgrades are the easiest and earliest to craft, requiring at the very least knowledge of &bBlack Steel.&r\n\n&dSteam-powered Aircraft Engines&r are used in the creation of more sophisticated aircrafts such as the &eBiplane&r and the &cWarship.&r",
     "quests.tfg_tips.steam_upgrades.task": "Any steam tier aircraft upgrade",
 
     "quests.tfg_tips.lv_upgrades.title": "Aircraft Upgrades: LV",
@@ -621,7 +623,7 @@
 
     "quests.tfg_tips.scarlet_biplane.title": "Scarlet Biplane",
     "quests.tfg_tips.scarlet_biplane.subtitle": "What a sight to behold",
-    "quests.tfg_tips.scarlet_biplane.desc": "The &3Scarlet Biplane&r is one of the two final upgrades for &bPlanes&r, requiring &6HV&r components.\n\nIt contains &b27 Inventory Slots&r, &a4 Upgrade Slots&r, &c2 Weapon Slots&r, and also a &4Booster Slot&r, just like the regular biplane.\n\nWhile expensive, the &3Scarlet Biplane&r makes up for it with increased durability, increased max speed, and overall swag.",
+    "quests.tfg_tips.scarlet_biplane.desc": "The &3Scarlet Biplane&r is one of the two final upgrades for &bPlanes&r, requiring &bMV&r components.\n\nIt contains &b27 Inventory Slots&r, &a4 Upgrade Slots&r, &c2 Weapon Slots&r, and also a &4Booster Slot&r, just like the regular biplane.\n\nWhile expensive, the &3Scarlet Biplane&r makes up for it with increased durability, increased max speed, and overall swag.",
 
     "quests.tfg_tips.aluminium_hopper.title": "Aluminium Hopper",
     "quests.tfg_tips.aluminium_hopper.subtitle": "So light it floats on water!",
@@ -637,7 +639,7 @@
 
     "quests.tfg_tips.warfare.title": "Sea Warfare",
     "quests.tfg_tips.warfare.subtitle": "FIRE ALL CANNONS!",
-    "quests.tfg_tips.warfare.desc": "You can outfit your &bSloop&r with firepower via the &dCannon&r and cannon balls, in case you want to blow something to smithereens.\nTo fire a cannon, you'll need to load it with some &aGunpowder, Unrefined Paper&r and your &aCannon Ball&r. Then light the wick with &cFlint and Steel.&r",
+    "quests.tfg_tips.warfare.desc": "You can outfit your &bSloop&r with firepower via the &dCannon&r and cannon balls, in case you want to blow something to smithereens.\nTo fire a cannon, you'll need to load it with some &aGunpowder, Unrefined Paper&r and your &aCannon Ball&r. Then light the wick with &cFlint and Steel.&r\n\nDon't have a &bSloop&r? Don't worry! Cannons can be placed and fired on the ground the same way you would fire one on a &bSloop&r.",
 
     "quests.tfg_tips.kayak_materials.title": "The Kayak",
     "quests.tfg_tips.kayak_materials.subtitle": "Get yourself that Kayak.",
@@ -946,7 +948,7 @@
 
     "quests.tfg_tips.tools_tips.tools.title": "Tools",
     "quests.tfg_tips.tools_tips.tools.subtitle": "It's all a hammer anyways.",
-    "quests.tfg_tips.tools_tips.tools.desc": "The only thing seperating man from animal is our use of &l&bTools&r&r. &8&oExcept for apes, monkeys, dolphins, crows, otters, octo.......&r&r Use your skills and tools to make the most of this world, and &5save yourself&r some effort.",
+    "quests.tfg_tips.tools_tips.tools.desc": "The only thing seperating man from animal is our use of &l&bTools&r&r. &7&oExcept for apes, monkeys, dolphins, crows, otters, octo.......&r&r Use your skills and tools to make the most of this world, and &5save yourself&r some effort.",
 
     "quests.tfg_tips.tools_tips.seed_oil.title": "Lamp Fuel: Seed Oil",
     "quests.tfg_tips.tools_tips.seed_oil.subtitle": "Smells good when it burns.",

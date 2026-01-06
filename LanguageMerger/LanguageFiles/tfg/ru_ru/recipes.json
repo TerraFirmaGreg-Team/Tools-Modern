@@ -78,7 +78,7 @@
     "tfg.food_recipe.freeze_drying": "Лиофилизация",
     "tfg.recipe.macerator_warning": "Only outputs first slot until HV",
 
-    "tfg.grapplemod.repair": "Рецепт починки, сохраняет ваши улучшения. §НИКОГДА не объединяйте две крюк-кошки или вы потеряете ВСЕ ваши улучшения!§r",
+    "tfg.grapplemod.repair": "Рецепт починки, сохраняет ваши улучшения. §rНИКОГДА не объединяйте две крюк-кошки или вы потеряете ВСЕ ваши улучшения!§r",
     "tfg.grapplemod.upgrades.maxlen": "Increases §lMax Length§r by 20, up to 200.",
     "tfg.grapplemod.downgrades.maxlen": "Decreases §lMax Length§r by 20, down to 20. (Jute Rope is Returned).",
     "tfg.grapplemod.upgrades.motor.lv": "Enables the §lMotor§r Upgrade, automatically reeling you in.\n§lMotorMaxSpeed§r set to 1\n§lMotorAcceleration§r set to 0.125",
@@ -127,4 +127,5 @@
     "tfg.grapplemod.downgrades.vertical_throwing_angle": "Decreases the §lVertical Throwing Angle§r of the hook by 5°, down to 0°.",
     "tfg.grapplemod.upgrades.angle": "Increases the §lHorizontal Angle§r for throwing your §lDouble Hooks§r by 5°, up to 90°.\nOnly accessible with a §lDouble Hook§r installed.",
     "tfg.grapplemod.downgrades.angle": "Decreases the §lHorizontal Angle§r for throwing your §lDouble Hooks§r by 5°, down to 5°°.\nOnly accessible with a §lDouble Hook§r installed."
+
 }

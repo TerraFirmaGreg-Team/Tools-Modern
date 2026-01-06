@@ -33,5 +33,14 @@
     "biome.tfg.mars/rusticus_hills": "Верес Рустікуса",
     "biome.tfg.mars/sangnum_edge": "Край Санґнум",
     "biome.tfg.mars/sangnum_plains": "Прерія Санґнум",
-    "biome.tfg.mars/sangnum_hills": "Болото Санґнум"
+    "biome.tfg.mars/sangnum_hills": "Болото Санґнум",
+    "biome.tfg.venus/arachnoids": "Венеріанські арахноїди",
+    "biome.tfg.venus/fractured_pools": "Розколоті басейни",
+    "biome.tfg.venus/fumaroles": "Газоподібні фумароли",
+    "biome.tfg.venus/geysers": "Пекучий Гейзер",
+    "biome.tfg.venus/jagged_tablelands": "Зубчасті плоскогір'я",
+    "biome.tfg.venus/salt_flats": "Соляні рівнини",
+    "biome.tfg.venus/stromatolite_beach": "Строматолітовий пляж",
+    "biome.tfg.venus/sulfuric_ravine": "Сірчаний яр",
+    "biome.tfg.venus/scorching_volcanoes": "Палючі вулкани"
 }

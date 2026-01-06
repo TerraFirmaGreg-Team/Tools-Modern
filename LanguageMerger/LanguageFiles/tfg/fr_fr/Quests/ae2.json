@@ -131,7 +131,7 @@
     "quests.ae2.iv.title": "IV Tier AE2",
     "quests.ae2.iv.desc": "This entire branch becomes fully unlockable once you reach &1IV&r.",
 
-    "quests.ae2.accumulation_press.desc": "To get this &eNew Inscriber Press&r, you will need to invest a bit.\n\nFirst, you must upgrade your Implosion Compressor with &1two IV Energy Hatches&r.\n\nThen, get yourself a new IV Laser Engraver if you don't already have one.\n\nAnd finally, prepare a lot of Industrial TNT — it’s the &conly one that works&r for this process.\n\nPlan carefully, as this step is quite demanding!",
+    "quests.ae2.accumulation_press.desc": "To get this &eNew Inscriber Press&r, you will need to invest a bit.\n\nFirst, you must upgrade your Implosion Compressor with &5two EV Energy Hatches&r.\n\nThen, get yourself a new IV Laser Engraver if you don't already have one.\n\nAnd finally, prepare a lot of Industrial TNT — it’s the &conly one that works&r for this process.\n\nPlan carefully, as this step is quite demanding!",
 
     "quests.ae2.accumulation_processor.desc": "The &eAccumulation Processor&r will require a large amount of Silicon for each craft.\n\nWe hope you already have a dedicated EBF producing Silicon, or at least a strong infrastructure to manufacture it quickly.\n\nPrepare accordingly, as you’ll need plenty of it!",
 
@@ -156,7 +156,7 @@
 
     "quests.ae2.extended_io_port.desc": "This upgrade will let you &atransfer faster&r while also offering &6more upgrade slots&r if needed.",
 
-    "quests.ae2.extended_molecular_assembler.desc": "The upgrade of the &bMolecular Assembler&r.\n\nIt runs &68 crafting jobs&r at the same time and goes &62 times faster&r.\n\nEven though you can only use it with a normal &bPattern Provider&r, it will be a &agreat upgrade&r before you get the &dMatrix Multiblock&r a bit later on.",
+    "quests.ae2.extended_molecular_assembler.desc": "The upgrade of the &bMolecular Assembler&r.\n\nIt runs &68 crafting jobs&r at the same time and goes &62 times faster&r.\n\nIt will be a &agreat upgrade&r before you get the &dMatrix Multiblock&r a bit later on.",
 
     "quests.ae2.wireless.desc": "The &aME Wireless Connector&r is your go-to if you don't want to put down massive lines of &bME Cables&r. They effectively work like short-range Quantum Tunnels, but have a limited range and don't work across dimensions. That would be too easy, wouldn't it?\n\nDon't forget to check the in-game guide with &eG&r to learn about how they work and their limitations.",
 
@@ -177,7 +177,7 @@
 
     "quests.ae2.cell_component_16m.desc": "This one can only be made on the &cMoon&r and nowhere else. It will also require a Cleanroom environment, so if you don’t want to bother with a Cleanroom on the &cMoon&r, you should make the &7Cleaning Maintenance Hatch&r.\n\nIt will also need some research. Refer to the &cZPM&r Chapter if you don’t know what that means.",
 
-    "quests.ae2.cell_component_64m.desc": "The &c64M MEGA Storage Component&r is the biggest one you can make in &8TerraFirmaGreg&r. Honestly, we believe you'll never need it, but it’s there for completionists.",
+    "quests.ae2.cell_component_64m.desc": "The &c64M MEGA Storage Component&r is the biggest one you can make in &cTerraFirmaGreg&r. Honestly, we believe you'll never need it, but it’s there for completionists.",
 
     "quests.ae2.oversize_interface.desc": "The &dME Oversize Interface&r is a &dME Extended Interface&r but each slot can hold 16x more items or fluids. If you have processes that need huge quantities, this could be your go-to.",
 

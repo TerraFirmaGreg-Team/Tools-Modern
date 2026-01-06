@@ -15,7 +15,7 @@
 	"arsenicosis": "$(t:Requires Face Mask)Arsenicosis (Inhalation)$(/t)",
 	"asbestosis": "$(t:Requires Face Mask)Asbestosis (Inhalation)$(/t)",
 	"berylliosis": "$(t:Requires Rubber Gloves)Berylliosis (Skin Contact)$(/t)",
-	"carcinogenic": "$(t:Requires Full Protection)Carcinogenic (Any Contact)$(/t)",
+	"carcinogenic": "$(t:Requires Full Protection)Radioactive (Any Contact)$(/t)",
 	"weak_poison": "$(t:Requires Face Mask)Weakly Poisonous (Inhalation)$(/t)",
 	"irritant": "$(t:Requires Rubber Gloves)Irritant (Skin Contact)$(/t)",
 
