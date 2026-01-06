@@ -3,6 +3,7 @@
 	"material.tfg.vulcanized_latex": "加硫処理ラテックス",
 	"material.tfg.fluix": "フルーシュ",
 	"material.tfg.conifer_pitch": "針葉樹液",
+	"material.tfg.pyrogallol": "ピロガロール",
 
 	"material.gtceu.lactose": "ラクトース",
 
@@ -142,7 +143,7 @@
 	"material.tfg.reformed_aromatic_feedstock": "改質芳香族原料",
 	"material.tfg.reformate_gas": "改質ガス",
 	"material.tfg.cracker_off_gas": "接触改質されたオフガス",
-	"material.tfg.btx_fuel": "BTXガス",
+	"material.tfg.btx_fuel": "BTX燃料",
 
 	"material.tfg.critical_steam": "Critical Steam",
 	"material.tfg.americium_241": "アメリシウム241",
@@ -163,7 +164,7 @@
 	"material.tfg.organic_stabilizer": "Organic Stabilizer",
 	"material.tfg.inert_dust_fraction": "Inert Fraction",
 	"material.tfg.recovered_ionic_complex": "Recovered Ionic Complex",
-	
+
 	"material.tfg.glucose": "グルコース",
 	"material.tfg.galactose": "ガラクトース",
 	"material.tfg.fructose": "フルクトース",
@@ -173,21 +174,20 @@
 	"material.tfg.linolenic_acid": "α-リノレン酸",
 	"material.tfg.isosorbide_ln": "Isosorbide Linolenate",
 	"material.tfg.epox_isosorbide_ln": "Epoxidized Isosorbide Linolenate",
-	
-	"material.tfg.ozone": "Ozone",
+
+	"material.tfg.ozone": "オゾン",
 	"material.tfg.tin_chloride": "Stannous Chloride",
 	"material.tfg.cyclohexanone": "Cyclohexanone",
 	"material.tfg.cyclohex_diperoxide": "1,1-Cyclohexanediyl Dihydroperoxide",
 
-	"material.tfg.aciditic_waste": "Aciditic Waste",
-	"material.tfg.propylene": "Propylene",
+	"material.tfg.aciditic_waste": "酸性エポキシ廃棄物",
 	"material.tfg.tpaoh": "Tetrapropylammonium Hydroxide",
-	"material.tfg.sodium_silicate": "Sodium Silicate",
-	"material.tfg.metal_rich_solution": "Metal Rich Solution",
+	"material.tfg.sodium_silicate": "ケイ酸ナトリウム",
+	"material.tfg.metal_rich_solution": "Leachate Metal-Rich Solution",
 	"material.tfg.crude_mixed_gas": "Crude Mixed Gas",
 	"material.tfg.zsm5_gel": "ZSM-5 Gel",
-	"material.tfg.leachate": "Rhenium Leachate",
-	"material.tfg.clean_powder": "Re-Silicate Clean Powder",
-	"material.tfg.catalyser_powder": "Catalyser Re ZSM-5 Powder",
-	"material.tfg.sodium_aluminium": "Sodium Aluminium"
+	"material.tfg.leachate": "レニウム浸出液",
+	"material.tfg.clean_powder": "Re-Silicate Clean",
+	"material.tfg.catalyser_powder": "レニウム ZSM-5触媒",
+	"material.tfg.sodium_aluminium": "アルミン酸ナトリウム"
 }

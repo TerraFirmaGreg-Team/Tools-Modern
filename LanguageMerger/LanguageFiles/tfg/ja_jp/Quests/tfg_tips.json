@@ -140,6 +140,7 @@
     "quests.tfg_tips.memory_card.subtitle": "コピー＆ペースト",
     "quests.tfg_tips.memory_card.desc": "大量の機械で&a並列化した構成&rを作ろうとすると、各機械ごとに&e入力&rや&e出力&rをいちいち設定するのが面倒になるでしょう。&dスーパーチェスト&r・&dタンク&rなんかは特に。\n\n必要だと感じたらためらわず使いましょう。",
 
+    "quests.tfg_tips.portable_scanner.title": "ポータブルスキャナー",
     "quests.tfg_tips.portable_scanner.subtitle": "どしたん？話聞こか？",
     "quests.tfg_tips.portable_scanner.desc.1": "&aポータブルスキャナー&r（または&aトリコーダー&r）は、GTCEuにおけるデバッグ用ツールです。\n\nこれを使うと、ブロックの詳細情報、エネルギーネットワークの状況、現在の状態や内部内容、そしてパフォーマンスへの影響まで確認できます。\n\nさらに、&3液体採掘機&rを使う際には、その液体脈にどれだけ液体が残っているかを％表示で確認することもできます。",
     "quests.tfg_tips.portable_scanner.desc.2": "&l&3余談：&r&oこの小型で便利な装置はGT5から来たものだよ。当時は、GUIやWAILAから得られる情報がほとんど（というより全く）無かったから、非常に重宝されていました。",
@@ -148,11 +149,11 @@
     "quests.tfg_tips.duct_tape.desc": "多くの&eマルチブロック&rには&6メンテナンスハッチ&rが必要だということに、おそらくお気づきかと思います。&6HV&rに到達して&a自動メンテナンスハッチ&rを入手できるようになるまでは、このアイテムを使うことで、メンテナンスツールを使わずにハッチを修理できます。\n\nまだ&a自動メンテナンスハッチ&rに投資したくない場合や、単純にまだ&cそこに到達していない&r場合には、とても役立つアイテムです。",
 
     "quests.tfg_tips.gt_filters.title": "フィルター",
-    "quests.tfg_tips.gt_filters.desc": "&5GregTech&rには、&a自動化&rをスムーズに進めるための様々な&6フィルター&rが存在します。これらはすべて、&dカバー&rと組み合わせて使用することができます。（カバーの詳細な説明は&「7LV&r」の章のクエストに載っています。）\n\nここでは、特定の状況で&b便利&rに使える、さらに2種類の特化フィルターをご紹介します。\n\nフィルターを使う場合は、&5機械またはカバーのGUI内で取り付ける&rか、もしくは&6機械やパイプ&rに&dカバー&rとして取り付けることができます。",
+    "quests.tfg_tips.gt_filters.desc": "&5GregTech&rには、&a自動化&rをスムーズに進めるための様々な&6フィルター&rが存在します。これらはすべて、&dカバー&rと組み合わせて使用することができます。（カバーの詳細な説明は「&7LV&r」の章のクエストに載っています。）\n\nここでは、特定の状況で&b便利&rに使える、さらに2種類の特化フィルターをご紹介します。\n\nフィルターを使う場合は、&5機械またはカバーのGUI内で取り付ける&rか、もしくは&6機械やパイプ&rに&dカバー&rとして取り付けることができます。",
 
-    "quests.tfg_tips.smart_item_filter.subtitle": "Knock, knock - who's that? It's MENSA!",
+    "quests.tfg_tips.smart_item_filter.subtitle": "偏差値999",
     "quests.tfg_tips.smart_item_filter.desc.1": "このクエストでは、あなたに&5禁断の知識&r――すなわち、電解槽を簡単に自動化する能力を授けましょう。\n\n&9スマートアイテムフィルター&rは、機械で動作するレシピを認識できるフィルターです。機械の側面に取り付けて「&3電解槽&r」を指定すれば、電解可能なアイテムだけを自動で投入するよう設定できます。そうです、もう手動でフィルタリングする必要はありません！\n\nさらに&aもっと便利&rにすることもできますよ！このフィルターを&aロボットアーム&rと組み合わせると、機械がレシピを成立させるために必要な&6ぴったりの量&rだけを供給するようになってくれます。",
-    "quests.tfg_tips.smart_item_filter.desc.2": "&aロボットアーム&rを電解槽に取り付け、ロボットアームのGUIを開いて&9スマートフィルター&rをセットします。スマートフィルターが電解槽に設定されていることを確認してくださいね。\n\n次に、動作モードを「&d&lモード：搬入&r」と「&d&l供給モード&r」に設定します。最後に、&aロボットアーム&rを取り付けた側面に、インベントリ（&7チェストなどで十分です&r）を接続してください。これで&6すべて&rの電解槽レシピの処理に対応しました！\n\nでは、&3電解槽&rの排出物はどうしましょう？液体は複数のタンクへ、あるいは進行度次第では&3スーパータンク&rへ流すと良いでしょう。液体を破棄するような方法は極力避けることを強くおすすめいたします。&7.&8.まあ、水なんかは別ですが。",
+    "quests.tfg_tips.smart_item_filter.desc.2": "&aロボットアーム&rを電解槽に取り付け、ロボットアームのGUIを開いて&9スマートフィルター&rをセットします。スマートフィルターが電解槽に設定されていることを確認してくださいね。\n\n次に、動作モードを「&d&lモード：搬入&r」と「&d&l供給モード&r」に設定します。最後に、&aロボットアーム&rを取り付けた側面に、インベントリ（&7チェストなどで十分です&r）を接続してください。これで&6すべて&rの電解槽レシピの処理に対応しました！\n\nでは、&3電解槽&rの排出物はどうしましょう？液体は複数のタンクへ、あるいは進行度次第では&3スーパータンク&rへ流すと良いでしょう。液体を破棄するような方法は極力避けることを強くおすすめいたします。&7.&7.まあ、水なんかは別ですが。",
     "quests.tfg_tips.smart_item_filter.desc.3": "&9注意：&rロボットアームのフィルタリング機能を正しく動作させるには、必ずロボットアーム自身がアイテム搬入を担当している必要があります！\n\n機械へ直接アイテムを入れてしまう（&7例：ホッパーなどによる搬入&r）と、ロボットアームの&d供給モード&r設定は無視されてしまいますのでご注意ください。",
 
     "quests.tfg_tips.hazard_materials.title": "危険物",
@@ -191,6 +192,11 @@
     "quests.tfg_tips.feeding_troughs.subtitle": "規則正しい牧場",
     "quests.tfg_tips.feeding_troughs.desc": "給餌箱（別名Grooming Stations）は、動物に毎朝自動で餌を与える便利な仕組みです。繁殖を望まない場合には、親密度が最大の動物には給餌しない設定にもできます。\n\nティアが上がるほど、対応できる範囲が広くなり、より多くの動物を管理できます。\n\n&3&lTip：&r&o柵のすぐそばに設置すると、動物がそこを足場にして脱走を試みることがあるため、少し距離を置いて設置することを推奨します。",
     "quests.tfg_tips.feeding_troughs.task": "Any feeding trough",
+
+    "quests.tfg_tips.scraping_knives.title": "剥ぎ取りナイフ",
+    "quests.tfg_tips.scraping_knives.subtitle": "剝ぎ取り名人",
+    "quests.tfg_tips.scraping_knives.desc": "革や紙、亜麻を一部分ずつ手作業で削るのにうんざりしていませんか？そんなときは剝ぎ取りナイフ(Scraping_Knife)を作ってみてください！\n\n基本的な銅製または青銅製の剝ぎ取りナイフであれば、一度に素材を1列分削ることができ、より上位のナイフでは、さらに多くの列を同時に削ることが可能になります。",
+    "quests.tfg_tips.scraping_knives.task": "Any Scraping Knife",
 
     "quests.tfg_tips.glassblowing.title": "ガラス吹き",
     "quests.tfg_tips.glassblowing.subtitle": "リアルなガラス細工体験！",
@@ -333,10 +339,6 @@
     "quests.tfg_tips.grappling_hook.subtitle": "スタイリッシュ！",
     "quests.tfg_tips.grappling_hook.desc": "&aRope_Coil&r2つと&b錬鉄製つるはしヘッド&rを組み合わせることで、&dグラップリングフック&rを作成できます。\n大きな山を登ったり、大きな洞窟を探索したり、世界中を冒険するのに非常に有用な道具です。\n&eアップグレード&rすることができ、&dフックの部品&rを自由に組み合わせて改造することができます。",
 
-    "quests.tfg_tips.grapple_repair.title": "グラップリングフックの警告",
-    "quests.tfg_tips.grapple_repair.subtitle": "これを読まないと後悔するかもしれません！",
-    "quests.tfg_tips.grapple_repair.desc": "&dグラップリングフック&rの&aアップグレード&rはすべて、アイテム内にNBTデータとして保存されます。つまり、&c別の&rグラップリングフックを使用してフックを修理しようとすると、&l&cすべてのアップグレードが破壊されます！&r\n\n代わりに、&dグラップリングフック&rと&b錬鉄の粉&rを&3作業台&rに置いて修理する必要があります。\n\nまた、オーバーワールドとBeneathの間を移動するときにグラップリングフックを使用しないでください。非常に危険です。",
-
     "quests.tfg_tips.grapple_upgrades.title": "グラップリングフックのアップグレード",
     "quests.tfg_tips.grapple_upgrades.subtitle": "TFGによる抜群の調整",
     "quests.tfg_tips.grapple_upgrades.desc.1": "&dグラップリングフック&rは、&3作業台&rでアイテムを追加または削除することで改造することができます。&r\n\n&dグラップリングフック&rに適用できるすべてのアップグレードは、&2EMI&rで用途を表示キーを押すことで確認できます。\nレシピには、どのような変更が適用されているかを説明するテキストが載っています。",
@@ -449,8 +451,8 @@
 
     "quests.tfg_tips.camera_attachments.title": "カメラアタッチメント",
     "quests.tfg_tips.camera_attachments.subtitle": "カメラをカスタマイズ",
-    "quests.tfg_tips.camera_attachments.desc": "スニークしながら&dカメラ&rを操作すると、カメラGUIが開きます。これにより、目的の&aフィルムロール&rを入れるだけでなく、追加機能をカメラに取り付けることができます。\n\n&dレッドストーンランプ&r:フラッシュライトとして機能し、暗い環境を照らします。\n&d望遠鏡&r:ズームを有効にし、遠くの写真を撮ることができます。",
-    "quests.tfg_tips.camera_attachments.task": "レッドストーンランタンまたは望遠鏡",
+    "quests.tfg_tips.camera_attachments.desc": "スニークしながら&dカメラ&rを操作すると、カメラGUIが開きます。これにより、目的の&aフィルムロール&rを入れるだけでなく、追加機能をカメラに取り付けることができます。\n\n&d切り替え可能な光源&r:フラッシュとして機能し、暗い環境を照らします。\n&d望遠鏡&r:ズームを有効にし、遠くの写真を撮ることができます。",
+    "quests.tfg_tips.camera_attachments.task": "ランプまたは望遠鏡",
 
     "quests.tfg_tips.filters.title": "カラーフィルター",
     "quests.tfg_tips.filters.subtitle": "写真の外観を変更する。",
@@ -467,7 +469,7 @@
 
     "quests.tfg_tips.developing_film.title": "フィルムの現像",
     "quests.tfg_tips.developing_film.subtitle": "あなたがプリンターです",
-    "quests.tfg_tips.developing_film.desc": "写真を撮ったら、フィルムを&b水&rに浸して&a現像&rを開始できます。その後、&d暗室&rを作成する必要があります。\n\n暗室はフィルムを現像するために使用され、ブロックの上に強い光源と、&3シアン&r、&5マゼンタ&r、&eイエロー&r、&0ブラック&r、の4つの染料が必要です。(これはCMYKとして知られています。)\n&0白黒フィルム&rには&0黒染料&rのみが必要ですが、&dカラーフィルム&rには&3C&5M&eY&0K&rセットの全てが必要です。\n\nさらに面白い処理をしたい場合は、&cクロマテック加工&rを使用できます...",
+    "quests.tfg_tips.developing_film.desc": "写真を撮ったら、フィルムを適切な&b現像液&rに浸して&a現像&rを開始できます。その後、&d暗室&rを作成する必要があります。\n\n暗室はフィルムを現像するために使用され、ブロックの上に強い光源と、&3シアン&r、&5マゼンタ&r、&eイエロー&r、&0ブラック&r、の4つの染料が必要です。(これはCMYKとして知られています。)\n&0白黒フィルム&rには&0黒染料&rのみが必要ですが、&dカラーフィルム&rには&3C&5M&eY&0K&rセットの全てが必要です。\n\nさらに面白い処理をしたい場合は、&cクロマテック加工&rを使用できます...",
 
     "quests.tfg_tips.photo.title": "最初の写真",
     "quests.tfg_tips.photo.subtitle": "おめでとうございます！",
@@ -564,7 +566,7 @@
 
     "quests.tfg_tips.steam_upgrades.title": "航空機のアップグレード:蒸気時代",
     "quests.tfg_tips.steam_upgrades.subtitle": "Immersive AircraftがGregTechに対応！",
-    "quests.tfg_tips.steam_upgrades.desc": "航空機アップグレードには&dグレード&rがあります。これは&3GregTech&rの階層化システムに合わせて、&8蒸気時代&rから&5EV時代&rまでのものがあります。\n\n蒸気時代のアップグレードは最も簡単で、最も早く作成できます。作るには&bブラックスチール&rが必要になります。\n\n&d蒸気機関のエンジン&rは、&e複葉機&rや&c飛行艦&rなどの洗練された航空機の作成にも使用されます。",
+    "quests.tfg_tips.steam_upgrades.desc": "航空機アップグレードには&dグレード&rがあります。これは&3GregTech&rの階層化システムに合わせて、&7蒸気時代&rから&5EV時代&rまでのものがあります。\n\n蒸気時代のアップグレードは最も簡単で、最も早く作成できます。作るには&bブラックスチール&rが必要になります。\n\n&d蒸気機関のエンジン&rは、&e複葉機&rや&c飛行艦&rなどの洗練された航空機の作成にも使用されます。",
     "quests.tfg_tips.steam_upgrades.task": "スチームティアの航空機アップグレード",
 
     "quests.tfg_tips.lv_upgrades.title": "航空機のアップグレード:LV",
@@ -637,7 +639,7 @@
 
     "quests.tfg_tips.warfare.title": "海上戦",
     "quests.tfg_tips.warfare.subtitle": "全弾発射！",
-    "quests.tfg_tips.warfare.desc": "粉々に吹き飛ばしたい相手がいたら、&bSloop&rに&dCannon&rとCannonballを取りつけましょう。\nCannonを発射するには、&a火薬、未精製の紙&r、&aCannonball&rを装填する必要があります。そして、&c火打石と打ち金&rで芯に火をつけます。",
+    "quests.tfg_tips.warfare.desc": "粉々に吹き飛ばしたい相手がいたら、&bSloop&rに&dCannon&rとCannonballを取りつけましょう。\nCannonを発射するには、&a火薬、未精製の紙&r、&aCannonball&rを装填する必要があります。そして、&c火打石と打ち金&rで芯に火をつけます。\n\n大砲は作ったけど&bSloop&rが無いって？大丈夫！大砲はそのまま地面においてぶっ放すことができるんだ！これで敵船を沈めたらきっとスッキリするぞー！",
 
     "quests.tfg_tips.kayak_materials.title": "カヤック",
     "quests.tfg_tips.kayak_materials.subtitle": "カヤックを作ろう",
@@ -946,7 +948,7 @@
 
     "quests.tfg_tips.tools_tips.tools.title": "ツール",
     "quests.tfg_tips.tools_tips.tools.subtitle": "どう使うか",
-    "quests.tfg_tips.tools_tips.tools.desc": "人間と動物を隔てる唯一のものは、&l&b道具&r&rの使用です。&8&oサル、イルカ、カラス、ラッコ、タコを例外として...&r&r\n道具と技術を駆使して、&5できる限り楽に&r進めましょう。",
+    "quests.tfg_tips.tools_tips.tools.desc": "人間と動物を隔てる唯一のものは、&l&b道具&r&rの使用です。&7&oサル、イルカ、カラス、ラッコ、タコを例外として...&r&r\n道具と技術を駆使して、&5できる限り楽に&r進めましょう。",
 
     "quests.tfg_tips.tools_tips.seed_oil.title": "ランタン燃料:種油",
     "quests.tfg_tips.tools_tips.seed_oil.subtitle": "生まれるはずだった命の輝き",

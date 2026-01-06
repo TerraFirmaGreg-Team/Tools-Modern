@@ -126,7 +126,7 @@
 
     "quests.ore_proc.thermal_centrifuge.title": "熱遠心分離機",
     "quests.ore_proc.thermal_centrifuge.subtitle": "鉱石精製のエキスパート",
-    "quests.ore_proc.thermal_centrifuge.desc": "特別な処理が必要ではない鉱石は、&d熱遠心分離機&rで処理するのが最適です。この機械は電力だけで安定的に副産物を生み出せますが、動作は遅めです。そのため、複数台設置して並行処理するのが良いでしょう。",
+    "quests.ore_proc.thermal_centrifuge.desc": "特別な処理が必要ではない鉱石は、&d熱遠心分離機&rで処理するのが最適です。この機械は他の材料を必要とせず、安定して副産物を生産できます。ただし動作はかなり遅いため、複数台を用意するか、蒸気式マルチブロックを建設することをおすすめします。",
     "quests.ore_proc.thermal_centrifuge.task": "Any Thermal Centrifuge",
 
     "quests.ore_proc.sifter.title": "選別機",

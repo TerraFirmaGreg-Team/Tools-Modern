@@ -1,6 +1,6 @@
 {
 	"material.gtceu.ice": "氷泥",
-	"material.gtceu.damascus_steel": "Swine-steel",
+	"material.gtceu.damascus_steel": "豚鋼",
 	"material.gtceu.air": "空気",
 	"material.gtceu.liquid_air": "液体空気",
 
@@ -14,6 +14,7 @@
 	"material.tfg.etrium": "エトリウム",
 
 	"material.gtceu.tarkianite": "タキアン鉱",
+	"material.gtceu.thorium": "トリアナイト",
 
 
 	"material.gtceu.aluminium_silicate": "ケイ酸アルミニウム",
@@ -66,6 +67,9 @@
 	"material.gtceu.uranium_pellet": "ウランペレット",
 	"material.gtceu.thorium_pellet": "トリウムペレット",
 	"material.gtceu.ostrum_iodide": "ヨウ化オストラム",
+	"material.gtceu.americium": "アメリシウム243",
+	"material.gtceu.uranium": "ウラン238",
+	"material.gtceu.plutonium": "プルトニウム239",
 
 	"material.gtceu.residual_radioactive_concoction": "残留放射性混合物",
 	"material.gtceu.regolith_vapor": "月面堆積粉塵",
@@ -73,5 +77,4 @@
 	"material.gtceu.dense_ostrum_vapor": "重質オストラム粉塵",
 	"material.gtceu.lightweight_ostrum_vapor": "軽質オストラム粉塵",
 	"material.gtceu.ostrum_vapor": "オストラム粉塵"
-	}
-	
+}
