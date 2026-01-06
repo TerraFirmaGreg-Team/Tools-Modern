@@ -60,9 +60,9 @@
 
     "tfg.greate.uls_limit": "§432§r (§8ULS§r)",
     "tfg.greate.ls_limit": "§f128§r (§7LS§r)",
-    "tfg.greate.windmill_hint_1": "Windmills are affected by relative",
-    "tfg.greate.windmill_hint_2": "elevation and the amount of empty",
-    "tfg.greate.windmill_hint_3": "space around them.",
+    "tfg.greate.windmill_hint_1": "На работу ветряной мельницы влияют",
+    "tfg.greate.windmill_hint_2": "относительная высота и количество",
+    "tfg.greate.windmill_hint_3": "свободного места вокруг неё.",
 
     "trim_material.tfc.almandine_tfc": "Альмадин",
     "trim_material.tfc.andradite_tfc": "Андрадит",
