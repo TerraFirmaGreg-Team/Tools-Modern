@@ -1,5 +1,5 @@
 {
-	"id": "mars_sapphire",
+	"id": "mars_gold",
 	"dimension": "mars",
 	"type": "tfc:cluster_vein",
 	"config": {
@@ -53,6 +53,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Золото, Електротин і Боксит"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Золото, Электротин & Боксит"
 		}
 	]
 }
