@@ -474,6 +474,11 @@
 	"block.tfg.glacian_leaves": "Glacian Lamella",
 	"block.tfg.glacian_leaves_fallen": "Small Glacian Lamella",
 
+    "block.tfg.crimson_wart_block": "Crimson Wart Block",
+    "block.tfg.warped_wart_block": "Warped Wart Block",
+    "block.tfg.aeronos_cap": "Aeronos Cap",
+    "block.tfg.strophar_cap": "Strophar Cap",
+
 	"block.tfg.marker.moon": "The Moon",
 	"block.tfg.marker.mars": "Mars",
 	"block.tfg.marker.venus": "Venus",
