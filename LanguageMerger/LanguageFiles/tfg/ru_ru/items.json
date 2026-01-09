@@ -333,7 +333,7 @@
     "item.tfg.flax_product": "Льняной стебель",
     "item.tfg.flax_bundle": "Связка льна",
     "item.tfg.flax_line": "Волокна льна",
-    "item.tfg.flax_tow": "Kьняные очёски",
+    "item.tfg.flax_tow": "Льняные очёски",
     "item.tfg.flax_waste": "Костра льна",
     "item.tfg.bundled_scraped_flax": "Связка костры льна",
     "item.tfg.linen_thread": "Льные нитки",
@@ -424,6 +424,7 @@
     "item.tfg.unfired_nugget_mold": "Необоженная форма самородка"
 
 }
+
 
 
 
