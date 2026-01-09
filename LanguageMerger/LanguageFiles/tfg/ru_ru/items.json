@@ -23,6 +23,8 @@
     "item.tfg.invisibility_salvo": "Мазь невидимости",
     "item.tfg.luck_salvo": "Мазь везения",
     "item.tfg.resistance_salvo": "Мазь сопротивления",
+    "item.tfg.paracetamol_pill": "Таблетка парацетамола",
+    "item.tfg.rad_away_pill": "Таблетка Антирадина",
     "item.tfg.paraffin_wax": "Парафин",
     "item.tfg.flint_arrow_head": "Наконечник стрелы из кремня",
     "item.tfg.fletching": "Оперение",
@@ -395,7 +397,7 @@
     "item.tfg.wet_white_chalk": "Мокрый белый мелок",
     "item.tfg.wet_blue_chalk": "Мокрый синий мелок",
     "item.tfg.wet_purple_chalk": "Мокрый фиолетовый мелок",
-    
+
     "item.tfg.lamp_casting_mold": "Отливная форма (Фонарь)",
     "item.tfg.trapdoor_casting_mold": "Отливная форма (Люк)",
     "item.tfg.chain_casting_mold": "Отливная форма (Цепь)",

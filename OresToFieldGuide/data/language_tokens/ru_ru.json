@@ -7,24 +7,24 @@
 	"height": "Высота",
 	"radius": "Радиус",
 	"stone_types": "Виды камней",
-	"indicator_depth": "Индикатор Max Depth",
+	"indicator_depth": "Максимальная высота индикатора",
 	"percentage": "Процент руды",
 	"formula": "Формула",
 
 	"hazard": "Ядовит",
-	"arsenicosis": "$(t:Requires Face Mask)Arsenicosis (Inhalation)$(/t)",
-	"asbestosis": "$(t:Requires Face Mask)Asbestosis (Inhalation)$(/t)",
-	"berylliosis": "$(t:Requires Rubber Gloves)Berylliosis (Skin Contact)$(/t)",
-	"carcinogenic": "$(t:Requires Full Protection)Carcinogenic (Any Contact)$(/t)",
-	"weak_poison": "$(t:Requires Face Mask)Weakly Poisonous (Inhalation)$(/t)",
-	"irritant": "$(t:Requires Rubber Gloves)Irritant (Skin Contact)$(/t)",
+	"arsenicosis": "$(t:Требуется Медицинская маска)Отравление мышьяком (Вдыхание вредных веществ)$(/t)",
+	"asbestosis": "$(t:Требуется Медицинская маска)Асбестоз (Вдыхание вредных веществ)$(/t)",
+	"berylliosis": "$(t:Требуется Резиновые перчатки)Беррилиоз (Контакт с кожей)$(/t)",
+	"carcinogenic": "$(t:Требуется Полная защита)Канцерогенный (При любом контакте)$(/t)",
+	"weak_poison": "$(t:Требуется Медицинская маска)Слабо ядовитый (Вдыхание вредных веществ)$(/t)",
+	"irritant": "$(t:Требуется Резиновые перчатки)Раздражитель (Контакт с кожей)$(/t)",
 
 	"tfc:cluster_vein": "кластерная жила",
 	"tfc:pipe_vein": "трубчатая жила",
 	"tfc:disc_vein": "дискообразная жила",
 
-	"vein_index": "Vein Index",
-	"ore_index": "Ore Index",
-	"ore_index_format": "This is the $(thing)Ore Index$() for $(thing){0}$(). All ores are sorted alphabetically and then by richest to poorest vein type. You can click on them to learn more information about each vein.",
-	"vein_index_format": "This is the $(thing)Vein Index$() for $(thing){0}$(). Each Vein has details regarding its rarity, density, vein type, height found, sizes, what stones it spawns on, and more."
+	"vein_index": "Каталог жил",
+	"ore_index": "Каталог руд",
+	"ore_index_format": "Это $(thing)Каталог руд$()$(thing)на Земле$(). Все руды отсортированы в алфавитном порядке, а затем по типу жил — от самых богатых к самым бедным. Вы можете нажать на любую из них, чтобы узнать больше информации о каждой жиле.",
+	"vein_index_format": "Это $(thing)Каталог жил$() для $(thing){0}$(). Для каждой жилы имеется подробная информация о ее редкости, плотности, виде, высоте, размерах, типах камней, в которых она встречается, и многом другом."
 }

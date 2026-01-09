@@ -88,7 +88,7 @@
 
     "quests.metal_age.crucible.title": "Cadinho",
     "quests.metal_age.crucible.subtitle": "Derretendo mais um 'cadinho'",
-    "quests.metal_age.crucible.desc": "O Cadinho é colocado no topo de uma Forja. Ele possui 9 espaços de inventário e tem a capacidade pra aguentar 4032mB de fluido, incluindo uma inteface para mostrar as proporções das ligas dentro dele. Ele também retém seus conteúdos quando quebrado. Além disso, ele pode coletar Ferro Gusa quando colocado debaixo de um Alto-Forno.\n\nTenha em mente que o Cadinho VAI tentar fazer ligas de tudo que for colocado dentro dele - ele não mantém os metais separados como uma Fundição (Smeltery) do Tinker's - então é uma boa ideia deixá-lo limpo quando você não for usá-lo.",
+    "quests.metal_age.crucible.desc": "O Cadinho é colocado no topo de uma Forja. Ele possui 9 espaços de inventário e tem a capacidade pra aguentar 4608mB de fluido, incluindo uma inteface para mostrar as proporções das ligas dentro dele. Ele também retém seus conteúdos quando quebrado. Além disso, ele pode coletar Ferro Gusa quando colocado debaixo de um Alto-Forno.\n\nTenha em mente que o Cadinho VAI tentar fazer ligas de tudo que for colocado dentro dele - ele não mantém os metais separados como uma Fundição (Smeltery) do Tinker's - então é uma boa ideia deixá-lo limpo quando você não for usá-lo.",
 
     "quests.metal_age.fire_bricks.title": "Tijolos Refratários",
     "quests.metal_age.fire_bricks.subtitle": "Para o Alto-Forno",

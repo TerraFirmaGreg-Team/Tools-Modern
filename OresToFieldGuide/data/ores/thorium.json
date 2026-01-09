@@ -1,33 +1,33 @@
 {
-  "id": "thorium",
-  "formula": "Th",
-  "ore_block": "gtceu:raw_thorium_block",
-  "indicator": "gtceu:thorium_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Thorium",
-      "info": "$(thing)Source of$(): Thorium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Tório",
-      "info": "$(thing)Fonte de$(): Tório"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Торий",
-      "info": "$(thing)Хромит$(): Торий"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Торій",
-      "info": "$(thing)Джерело$(): Торію"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "钍矿",
-      "info": "$(thing)来源$(): 钍"
-    }
-  ]
+    "id": "thorium",
+    "formula": "ThO₂",
+    "ore_block": "gtceu:raw_thorium_block",
+    "indicator": "gtceu:thorium_indicator",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Thorianite",
+            "info": "$(thing)Source of$(): Thorium"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Torianita",
+            "info": "$(thing)Fonte de$(): Tório"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Торианит",
+            "info": "$(thing)Хромит$(): Торий"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Торіаніт",
+            "info": "$(thing)Джерело$(): Торію"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "方钍石",
+            "info": "$(thing)来源$(): 钍"
+        }
+    ]
 }

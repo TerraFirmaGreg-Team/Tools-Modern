@@ -1,5 +1,5 @@
 {
-	"quests.space_survival": "宇宙のあるきかた～無事に生還するために",
+	"quests.moon": "月",
 	"quests.space_survival.subtitle": "人の手がまだ及んでいない、人類最後の秘境……それは宇宙！",
 
 	"quests.space_survival.preparations.title": "出発に先立って",
@@ -115,6 +115,9 @@
 	"quests.space_survival.soulbound.subtitle": "スポーン地点を求めて三千里",
 	"quests.space_survival.soulbound.desc.1": "TerraFirmaGregでは、あらゆるディメンションをリスポーン地点に設定することができます。しかし、月面にリスポーンしてしまった場合、近くに予備の宇宙服が無ければ、大変なことになります。\n\n月面をスポーン地点にする場合は、必ず酸素のある場所をリスポーン地点に設定しましょう。さもなければ、復活しても窒息でリスキルされ続けることになります。(一応、死ぬまでに多少時間があるため、ベッドを破壊して初期スポーン地点に戻ることは可能です)",
 	"quests.space_survival.soulbound.desc.2": "また、&bソウルパール&rで宇宙服を強化することで、死んでも宇宙服が手元に残るようにすることができます。\n\n月面にいる特殊なエンダーマンを倒すことで、ソウルパールを入手できます。\n\nTFGは工業パックなのに、魔術みたいな要素がありますね。",
+
+	"quests.mars": "火星",
+	"quests.mars.subtitle": "テラフォーマークラフト",
 
 	"quests.space_survival.mars_desert.title": "火星の砂漠",
 	"quests.space_survival.mars_desert.subtitle": "砂の世界",

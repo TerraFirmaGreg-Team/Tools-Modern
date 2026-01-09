@@ -2,25 +2,28 @@
 	"id": "venus",
 	"sort_order": 4,
 	"dimension_id": "ad_astra:venus",
-	"ore_index_icon": "gtceu:sulfur_dust",
+	"ore_index_icon": "vintageimprovements:sulfur",
 	"vein_index_icon": "gtceu:venus_stone_sulfur_ore",
 	"vein_tag": "tfg:venus_veins",
 	"name_translations": {
 		"en_us": "Venus",
 		"pt_br": "Venus",
 		"uk_ua": "Venus",
-		"zh_cn": "金星"
+		"zh_cn": "金星",
+		"ru_ru": "Венера"
 	},
 	"ore_index_translations": {
 		"en_us": "Venus Ore Index",
 		"pt_br": "Venus Ore Index",
 		"uk_ua": "Venus Ore Index",
-		"zh_cn": "金星矿物索引"
+		"zh_cn": "金星矿物索引",
+		"ru_ru": "Каталог руд Венеры"
 	},
 	"vein_index_translations": {
 		"en_us": "Venus Vein Index",
 		"pt_br": "Venus Vein Index",
 		"uk_ua": "Venus Vein Index",
-		"zh_cn": "金星矿脉索引"
+		"zh_cn": "金星矿脉索引",
+		"ru_ru": "Каталог жил Венеры"
 	}
 }

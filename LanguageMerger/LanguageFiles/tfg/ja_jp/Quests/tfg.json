@@ -14,7 +14,7 @@
     "quests.tfg.capture_territory.subtitle": "それとチャンクロードのしかた",
     "quests.tfg.capture_territory.desc": "マルチプレイをしているとき、他のプレイヤーに邪魔されないように自分の領地を確保したいと思うことがあるかもしれません。そんな時はOpen_Claimキー(デフォルトだとCtrl+M)を使ってウィンドウを開き、左クリックでチャンクを確保、右クリックで解放することができます。\n\nただし、これには制限があります。世界のすべてを領地にすることはできないですよ。また、Shift+左クリックでチャンクロード状態にすることもできます。Shift+右クリックで解除することができます。そして、これらは同じチーム内で共有されます。",
 
-    "quests.tfg.chunk_limit.title": "How to increase my chunkload limit?",
+    "quests.tfg.chunk_limit.title": "チャンクロード制限の増やし方",
     "quests.tfg.chunk_limit.desc": "サーバーで遊んでいる場合、デフォルトのフォースロード設定できるチャンク数はかなり少なく抑えられています。\n\nサーバー管理者であれば、README.txtに従ってこの上限を変更できます。また、自分にOP権限がある、あるいはチートをオンにしている場合は、「&a/ftbchunks admin extra_force_load_chunks @p set X&r」というコマンドを使えば、自分のフォースロード上限をXの値に設定できます。",
 
     "quests.tfg.field_guide.title": "クエストに関する重要な情報！",

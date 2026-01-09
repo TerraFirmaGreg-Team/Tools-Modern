@@ -3,5 +3,7 @@
 	"fluid.tfg.semiheavy_ammoniacal_water": "アンモニア交じりの半重水",
 	"fluid.tfg.sulfur_fumes": "Dense Sulfuric Fumes",
 	"fluid.tfg.geyser_slurry": "Super Heated Slurry",
-	"fluid.tfg.cryogenized_fluix": "超低温液化フルーシュ"
+	"fluid.tfg.cryogenized_fluix": "超低温液化フルーシュ",
+	"fluid.tfg.bw_photographic_developer": "白黒写真用現像液",
+	"fluid.tfg.color_photographic_developer": "カラー写真用現像液"
 }
