@@ -1,0 +1,73 @@
+ChemConverter
+- Developed by GameStar
+- Designed to work with GT Mol Draw by Maddie (RubenVerg)
+	-https://www.curseforge.com/minecraft/mc-mods/gregtech-molecule-drawings
+
+
+Getting Started:
+- The first step is to find out what your molecule looks like. I recommend either https://www.chemspider.com/ or https://pubchem.ncbi.nlm.nih.gov/
+- Then you will need to get your structure in the proper format, that being a v2000 .mol file. To do this you have a few options:
+	- Websites like PubChem allow you to "download coordinates," typically an SDF file will be reported as a v2000 .mol
+	- My preferred option is to use a drawing app like https://moldraw.com/
+- Then you can replace the contents of the MolView.mol file in this folder with the new 
+- You can then run the ChemFileConverter.py program
+- The properly named file will appear in the output folder
+- This file needs to be put in the assets/<namespace>/molecules folder, with namespace being the namespace the material is registered in.
+
+
+Things to Consider:
+
+- Add implicit hydrogens to oxygen
+Many molecule visualizer programs will add H to molecules that would otherwise be negatively charged. This is not however reflected in the coordinates in a .mol file. This option automatically adds these hydrogens to all oxygens with 1 or fewer bonds.
+
+- Supported bond types
+Currently these bonds are automatically recognized by the program: Single, Double, Triple, Single/Dotted, Outward, Inward
+In some specific cases a "thick" bond is needed to indicate depth, for example a Haworth Projection. While not supported by the converter they are supported by the GT Mol Draw API.  
+
+- Parenthesis drawing
+Parens are a very useful tool for indicating charge on large molecules or repeating segments in a polymer. While the converter does not support their automatic creation, they are easy to manually add.
+Below are some examples of how parens can be used.
+
+"Charge"
+{
+	"sup": "+",
+	"atoms": [
+		0,
+		1,
+		2,
+		3
+	],
+	"type": "parens"
+},
+
+"Polymer"
+{
+	"sub": "n",
+	"atoms": [
+		0,
+		1,
+		2,
+		3
+	],
+	"type": "parens"
+},
+
+- Charged atoms
+How the API handles charges is difficult for this converter to deal with. The easiest way to add one is to copy it from an existing file. 
+Here is an example of what one looks like.
+
+{
+	"type": "atom",
+	"element": {
+		"symbol": "Na⁺",
+		"color": {
+			"color": -5546766,
+			"optional": true
+		},
+		"material": "gtceu:sodium"
+	},
+	"index": 2,
+	"x": -0.5,
+	"y": 0.0
+},
+
