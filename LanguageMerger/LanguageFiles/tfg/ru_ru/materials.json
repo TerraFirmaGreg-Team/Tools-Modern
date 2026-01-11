@@ -29,6 +29,15 @@
     "material.tfg.mercury_stone": "Коматиит",
     "material.tfg.glacio_stone": "Фонолит",
 
+    "material.tfg.sedimentary_clastic": "Обломочный осадок",
+	"material.tfg.sedimentary_carbonate": "Карбонатный осадок",
+	"material.tfg.sedimentary_organic": "Органогенный осадок",
+	"material.tfg.metamorphic": "Метаморфическая порода",
+	"material.tfg.igneous_ultramafic": "Ультраосновная магматическая порода",
+	"material.tfg.igneous_mafic": "Основная магматическая порода",
+	"material.tfg.igneous_intermediate": "Средняя магматическая порода",
+	"material.tfg.igneous_felsic": "Кислая магматическая порода",
+
     "material.gtceu.thermochemically_treated_hardwood": "Термохимически обработанная твёрдая древесина",
     "material.gtceu.hardwood": "Твёрдая древесина",
 
@@ -98,7 +107,7 @@
     "material.tfg.tetrafluoroethane": "Тетрафторэтан",
 
     "material.tfg.thermally_conductive_fluid": "Теплопроводящая жидкость",
-    
+
     "__comment1": "Like Crimson and Warped nether trees, but made to sound more like chemicals",
     "material.tfg.crimsene": "Багреллий",
     "material.tfg.warpane": "Искажеллий",
@@ -164,7 +173,7 @@
 	"material.tfg.organic_stabilizer": "Органический стабилизатор",
 	"material.tfg.inert_dust_fraction": "Инертная фракция",
 	"material.tfg.recovered_ionic_complex": "Восстановленный ионный комплекс",
-	
+
 	"material.tfg.glucose": "Глюкоза",
 	"material.tfg.galactose": "Галактоза",
 	"material.tfg.fructose": "Фруктоза",
@@ -174,7 +183,7 @@
 	"material.tfg.linolenic_acid": "α-линоленовая кислота",
 	"material.tfg.isosorbide_ln": "Изосорбид соли линоленовой кислоты",
 	"material.tfg.epox_isosorbide_ln": "Эпоксидированный изосорбид соли линоленовой кислоты",
-	
+
 	"material.tfg.ozone": "Озон",
 	"material.tfg.tin_chloride": "Двуххлористое олово",
 	"material.tfg.cyclohexanone": "Циклогексанон",

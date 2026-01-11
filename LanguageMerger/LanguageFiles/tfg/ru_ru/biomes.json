@@ -10,7 +10,7 @@
     "biome.tfg.nether/gneiss_caves": "Глубокие пещеры",
     "biome.tfg.nether/granite_caves": "Глубокие пещеры",
     "biome.tfg.nether/schist_caves": "Глубокие пещеры",
-    
+
     "biome.tfg.moon/lunar_asurine_dense": "Кварцевые поля",
     "biome.tfg.moon/lunar_asurine_sparse": "Азуриновые поля",
     "biome.tfg.moon/lunar_chorus_dense": "Хорусовые дебри",
@@ -35,5 +35,15 @@
     "biome.tfg.mars/rusticus_hills": "Рустиксовые холмы",
     "biome.tfg.mars/sangnum_edge": "Сангнумовая грань",
     "biome.tfg.mars/sangnum_plains": "Сангнумовая прерия",
-    "biome.tfg.mars/sangnum_hills": "Сангнумовый верещатник"
+    "biome.tfg.mars/sangnum_hills": "Сангнумовый верещатник",
+
+    "biome.tfg.venus/arachnoids": "Арахноидные поля Венеры",
+    "biome.tfg.venus/fractured_pools": "Разломные чаши",
+    "biome.tfg.venus/fumaroles": "Газовые фумаролы",
+    "biome.tfg.venus/geysers": "Палящие гейзеры",
+    "biome.tfg.venus/jagged_tablelands": "Зубчатое плато",
+    "biome.tfg.venus/salt_flats": "Соляные равнины",
+    "biome.tfg.venus/stromatolite_beach": "Строматолитовый пляж",
+    "biome.tfg.venus/sulfuric_ravine": "Сернистое ущелье",
+    "biome.tfg.venus/scorching_volcanoes": "Палящие вулканы"
 }

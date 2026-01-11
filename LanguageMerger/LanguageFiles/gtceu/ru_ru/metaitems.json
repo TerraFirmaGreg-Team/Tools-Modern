@@ -21,14 +21,6 @@
 
     "gtceu.recipe.category.ingot_molding": "Material Molding",
 
-
-    "gtceu.jei.bedrock_ore.moon_asbestos": "Лунный асбест",
-    "gtceu.jei.bedrock_ore.moon_mica": "Лунная слюда",
-    "gtceu.jei.bedrock_ore.moon_tin": "Лунное олово",
-    "gtceu.jei.bedrock_ore.moon_certus": "Лунный истинный кварц",
-    "gtceu.jei.bedrock_ore.moon_magnetite": "Лунный магнетит",
-    "gtceu.jei.bedrock_ore.moon_copper": "Лунный халькопирит",
-
     "tooltip.moldraw.shift_view_molecule": "§7§oЗажми Shift для молекулярной структуры§r",
 	"tooltip.moldraw.shift_view_alloy": "§7§oЗажми Shift для состава сплава§r"
 }
