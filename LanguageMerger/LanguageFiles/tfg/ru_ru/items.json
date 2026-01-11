@@ -157,7 +157,7 @@
     "item.tfg.food.freeze_dried.shadow_berry": "Лиофилизированная нокс-ягода",
     "item.tfg.food.freeze_dried.cave_pumpkin": "Лиофилизированная лукыквенная мякоть",
     "item.tfg.food.calorie_paste": "Калорийная паста",
-    "item.tfg.food.meal_bag": "Лиофилизированное мясо",
+    "item.tfg.food.meal_bag": "Пакет с лиофилизированной едой",
     "item.tfg.food.ice_soup": "Ледяной суп",
 
     "item.tfg.food.raw_glacian_mutton": "Сырая гласианская баранина",
@@ -424,6 +424,7 @@
     "item.tfg.unfired_nugget_mold": "Необоженная форма самородка"
 
 }
+
 
 
 

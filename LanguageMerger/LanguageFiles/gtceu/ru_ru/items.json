@@ -18,9 +18,9 @@
     "item.gtceu.blackstone_dust": "Пироксенит (Пыль)",
     "item.gtceu.small_blackstone_dust": "Пироксенит (Крохотная кучка пыли)",
     "item.gtceu.tiny_blackstone_dust": "Пироксенит (Маленькая кучка пыли)",
-    "item.gtceu.netherrack_dust": "Keratophyre Dust",
-    "item.gtceu.small_netherrack_dust": "Small Pile of Keratophyre Dust",
-    "item.gtceu.tiny_netherrack_dust": "Tiny Pile of Keratophyre Dust",
+    "item.gtceu.netherrack_dust": "Кератофировая пыль",
+    "item.gtceu.small_netherrack_dust": "Кератофир (Крохотная кучка пыли)",
+    "item.gtceu.tiny_netherrack_dust": "Кератофир (Маленькая кучка пыли)",
 
     "item.gtceu.iron_ring": "Серый чугун (Кольцо)",
     "item.gtceu.small_iron_gear": "Серый чугун (Маленькая шестерня)",
@@ -59,18 +59,18 @@
     "item.gtceu.naquadah_credit": "§7262,144 Credits",
     "item.gtceu.neutronium_credit": "§72,097,152 Credits",
 
-    "item.gtceu.wood_plate": "Medium Density Fiberboard",
+    "item.gtceu.wood_plate": "МДФ доска",
 
-    "item.gtceu.chipped_salt_gem": "Chipped Salt Crystal",
-    "item.gtceu.chipped_rock_salt_gem": "Chipped Rock Salt Crystal",
-    "item.gtceu.flawed_salt_gem": "Flawed Salt Crystal",
-    "item.gtceu.flawed_rock_salt_gem": "Flawed Rock Salt Crystal",
-    "item.gtceu.salt_gem": "Salt Crystal",
-    "item.gtceu.rock_salt_gem": "Rock Salt Crystal",
-    "item.gtceu.exquisite_salt_gem": "Exquisite Salt Crystal",
-    "item.gtceu.exquisite_rock_salt_gem": "Exquisite Rock Salt Crystal",
-    "item.gtceu.flawless_salt_gem": "Flawless Salt Crystal",
-    "item.gtceu.flawless_rock_salt_gem": "Flawless Rock Salt Crystal",
+    "item.gtceu.chipped_salt_gem": "Соль (Осколок)",
+    "item.gtceu.chipped_rock_salt_gem": "Каменная соль (Осколок)",
+    "item.gtceu.flawed_salt_gem": "Соль (Необработанный)",
+    "item.gtceu.flawed_rock_salt_gem": "Каменная соль (Необработанный)",
+    "item.gtceu.salt_gem": "Соль (Кристалл)",
+    "item.gtceu.rock_salt_gem": "Каменная соль (Кристалл)",
+    "item.gtceu.exquisite_salt_gem": "Соль (Безупречный)",
+    "item.gtceu.exquisite_rock_salt_gem": "Каменная соль (Безупречный)",
+    "item.gtceu.flawless_salt_gem": "Соль (Изысканный)",
+    "item.gtceu.flawless_rock_salt_gem": "Каменная соль (Изысканный)",
 
     "item.gtceu.sticky_resin": "Липкая смола"
 }

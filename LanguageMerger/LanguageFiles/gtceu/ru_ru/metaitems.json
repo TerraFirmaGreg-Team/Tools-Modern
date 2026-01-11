@@ -2,13 +2,13 @@
     "metaitem.dust.tooltip.purify": "Бросьте в источник воды или нажмите ПКМ по котлу, для получения чистой пыли",
     "metaitem.crushed.tooltip.purify": "Бросьте в источник воды или нажмите ПКМ по котлу, для получения очищенной руды",
 
-    "item.gtceu.tool.behavior.silk_ice": "§dSculptor:§r Silk harvests Packed Ice",
-    "item.gtceu.tool.butchery_knife.tooltip": "§cButcher:§r Butchers animals for more meat",
+    "item.gtceu.tool.behavior.silk_ice": "§dСкульптор:§r добывает плотный лёд шелковым касанием",
+    "item.gtceu.tool.butchery_knife.tooltip": "§cМясник:§r убивай животных для большего кол-ва мяся",
     "item.gtceu.tool.tooltip.repair_info": "",
     "item.gtceu.tool.tooltip.repair_material": "",
 
-    "gtceu.machine.lp_steam_extractor.tooltip": "§7Does not extract fluids",
-    "gtceu.machine.hp_steam_extractor.tooltip": "§7Does not extract fluids",
+    "gtceu.machine.lp_steam_extractor.tooltip": "§7Не извлекает жидкости",
+    "gtceu.machine.hp_steam_extractor.tooltip": "§7Не извлекает жидкости",
 
     "gtceu.jei.bedrock_fluid.moon_helium": "Lunar Helium",
     "gtceu.jei.bedrock_fluid.moon_helium_3": "Lunar Helium-3",
@@ -27,5 +27,8 @@
     "gtceu.jei.bedrock_ore.moon_tin": "Лунное олово",
     "gtceu.jei.bedrock_ore.moon_certus": "Лунный истинный кварц",
     "gtceu.jei.bedrock_ore.moon_magnetite": "Лунный магнетит",
-    "gtceu.jei.bedrock_ore.moon_copper": "Лунный халькопирит"
+    "gtceu.jei.bedrock_ore.moon_copper": "Лунный халькопирит",
+
+    "tooltip.moldraw.shift_view_molecule": "§7§oЗажми Shift для молекулярной структуры§r",
+	"tooltip.moldraw.shift_view_alloy": "§7§oЗажми Shift для состава сплава§r"
 }
