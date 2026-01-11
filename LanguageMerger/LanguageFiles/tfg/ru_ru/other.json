@@ -82,6 +82,7 @@
     "trim_material.tfc.sapphire_tfc": "Сапфир",
     "trim_material.tfc.sodalite_tfc": "Содалит",
     "trim_material.tfc.coke_tfc": "Кокс",
+    "trim_material.tfc.armalcolite_tfc": "Армальколит",
     "trim_material.tfc.spessartine_tfc": "Спасерит",
     "trim_material.tfc.topaz_tfc": "Топаз",
     "trim_material.tfc.uvarovite_tfc": "Уваровит",
@@ -213,7 +214,7 @@
     "tfg.tooltip.dna_syringe.dirty2": "Будьте осторожны, чтобы никого этим не ткнуть...",
     "tfg.tooltip.dna_syringe.full": "Образец ДНК: ",
     "tfg.tooltip.dna_syringe.explain": "ПКМ по мобу, чтобы получить образец ДНК. Поместите в меню крафта, чтобы очистить содержимое.",
-    
+
     "tfg.tooltip.antipoison_pill": "§9Лечит отравление",
     "tfg.tooltip.antipoison_tablet": "§9Лечит все активные вредные эффекты.",
 
@@ -243,7 +244,7 @@
 
     "tfg.tooltip.component.smr_generator_1": "§eПроиводит:§r 4096 EU/t",
     "tfg.tooltip.component.smr_generator_2": "Предназначен для производства энергии из sCO2 с использованием малого модульного реактора.\n Используйте смазку и Ускоритель для повышения эффективности и управления охлаждением ММР.",
-    
+
     "tfg.gui.refrigerator.unify_dates.enabled": "Объединение сроков годности: §aВкл.",
     "tfg.gui.refrigerator.unify_dates.disabled": "Объединение сроков годности: §cВыкл.",
     "tfg.machine.food_refrigerator_power_usage": "§7Потребляет§r %s EU/t §7во время работы, чтобы сохранить вашу еду.§r",
