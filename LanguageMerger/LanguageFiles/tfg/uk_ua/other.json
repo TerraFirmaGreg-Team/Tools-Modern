@@ -35,8 +35,8 @@
     "effect.tfg.warming": "§6Розігрів",
     "effect.tfg.instant_radiation": "Миттєве випромінювання",
     "effect.tfg.chemical_burns_warning": "Отримання хімічних опіків",
-    "effect.tfg.poison_warning": "Токсична речовина",
-    "effect.tfg.weak_poison_warning": "Слаботоксична речовина",
+    "effect.tfg.poison_warning": "Отруйний матеріал",
+    "effect.tfg.weak_poison_warning": "Слабоотруйний матеріал",
     "effect.tfg.irritant_warning": "Подразнювальна речовина",
     "effect.tfg.nausea_warning": "Нудотна речовина",
     "effect.tfg.carcinogen_warning": "Канцерогенна речовина",
@@ -46,6 +46,9 @@
     "effect.tfg.berylliosis_warning": "Бериліоз",
     "effect.tfg.methanol_poisoning_warning": "Отруєння метанолом",
     "effect.tfg.carbon_monoxide_poisoning_warning": "Отруєння монооксидом вуглецю",
+    "effect.tfg.radioactive_warning": "Опромінений",
+    "gtceu.medical_condition.radioactive": "§4Радіоактивний",
+    "symptom.tfg.glowing": "Світіння",
     "tfg.greate.uls_limit": "§432§r (§8ULS§r)",
     "tfg.greate.ls_limit": "§f128§r (§7LS§r)",
     "tfg.greate.windmill_hint_1": "Вітряки залежать від відносної",
@@ -100,7 +103,7 @@
     "trim_material.tfc.pyrite_tfc": "Пірит",
     "trim_material.tfc.redx_tfc": "RedX",
     "tfg.emi.ore_veins.rock_types": "Зустрічається в типах порід:",
-    "tfg.emi.ore_veins.rarity": "Рідкість: 1/%d",
+    "tfg.emi.ore_veins.rarity": "Рідкість: %d",
     "tfg.emi.ore_veins.density": "Щільність: %d",
     "tfg.emi.ore_veins.y_ranges": "Рівень Y: %d до %d",
     "tfg.emi.ore_veins.size": "Розмір: %d",
@@ -232,5 +235,7 @@
     "tfg.gui.max_energy_per_tick_amps.prefix": "Макс. EU/т: ",
     "tfg.gui.consumes": "Споживає: ",
     "tfg.gui.per_cycle": "за цикл",
-    "tfg.gui.cycle_duration": "Тривалість циклу: "
+    "tfg.gui.cycle_duration": "Тривалість циклу: ",
+    "tfg.emi.bacon_requirement": "Бекон — Сиру свинину спершу потрібно закоптити",
+    "tag.item.tfg.dried_fruit": "Сухофрукт"
 }

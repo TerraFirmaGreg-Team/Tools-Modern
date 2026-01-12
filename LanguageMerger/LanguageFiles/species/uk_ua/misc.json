@@ -1,0 +1,13 @@
+{
+	"__comment__": "Це маленькі приручувані сірчані кріпери, тож ви можете дати їм миле ім’я",
+	"entity.species.trooper": "Сульфі",
+	"subtitles.entity.species.trooper.death": "Сульфі помирає",
+	"subtitles.entity.species.trooper.hurt": "Сульфі отримує ушкодження",
+	"subtitles.entity.species.trooper.step": "Сульфі чвалює",
+	"subtitles.entity.species.trooper.uproot": "Сульфі виривається",
+	"subtitles.entity.species.trooper.plant": "Сульфі садить",
+	"effect.species.iron_will": "Спротив відкиданню",
+	"effect.species.iron_will.description": "Запобігає будь-якому відкиданню.",
+	"effect.species.snatched": "Супер швидкість",
+	"effect.species.snatched.description": "Надає швидший рух, що масштабується з рівнями. Робить уражені сутності вищими та стрункішими."
+}

@@ -1,5 +1,5 @@
 {
-	"item.endermanoverhaul.nether_wastes_enderman_spawn_egg": "Яйце виклику Глибокопечерного Ендермена",
+	"item.endermanoverhaul.nether_wastes_enderman_spawn_egg": "Яйце виклику Вогняного Ендермена",
 	"item.endermanoverhaul.dark_oak_enderman_spawn_egg": "Яйце виклику Попелястого Ендермена",
 	"item.endermanoverhaul.mushroom_fields_enderman_spawn_egg": "Яйце виклику Грибного Ендермена",
 	"item.endermanoverhaul.swamp_enderman_spawn_egg": "Яйце виклику Мохового Ендермена",
@@ -8,5 +8,7 @@
 	"item.endermanoverhaul.windswept_hills_enderman_spawn_egg": "Яйце виклику Ендермена з Місячного Моря",
 	"item.endermanoverhaul.end_enderman_spawn_egg": "Яйце виклику Баритонового Хорового Ендермена",
 	"item.endermanoverhaul.end_islands_enderman_spawn_egg": "Яйце виклику Сопрано-Хорового Ендермена",
-	"item.endermanoverhaul.spirit_spawn_egg": "Яйце виклику Комети"
+	"item.endermanoverhaul.spirit_spawn_egg": "Яйце виклику Комети",
+	"item.endermanoverhaul.desert_enderman_spawn_egg": "Яйце виклику Загубленого Ендермена",
+	"item.endermanoverhaul.savanna_enderman_spawn_egg": "Яйце виклику Піщяного Ендермена"
 }
