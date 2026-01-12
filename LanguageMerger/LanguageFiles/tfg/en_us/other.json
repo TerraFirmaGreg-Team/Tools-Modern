@@ -153,8 +153,9 @@
     "tfg.tooltip.obsolete.fridge": "§4Obsolete§f: Replaced by the TFG Refrigerator, you can craft it from this one by placing this in a crafting table!",
     "tfg.tooltip.blaze_burner": "§cSuperheat§r §7with Coke, Anthracite, or Flawless and Exquisite coal gems.",
     "tfg.tooltip.machine.perfect_overclock": "This machine has §2Perfect Overclocking§r!",
-    "tfg.tooltip.machine.parallel": "Can parallelize with Parallel Control Hatches.",
-    "tfg.tooltip.machine.customize_interior": "§7The interior is customizable! Check the multiblock preview in JEI.",
+    "tfg.tooltip.machine.parallel": "Can §dParallelize§r with Parallel Control Hatches.",
+    "tfg.tooltip.machine.customize_interior": "§7The interior is customizable! Check the multiblock preview in EMI.",
+    "tfg.tooltip.machine.customize_greenhouse": "§7This multiblocks walls can use any valid §eIron Greenhouse§7 tier blocks. Check the multiblock preview in EMI.",
     "tfg.tooltip.armor.copper_diving_suit_warmth": "§7Warmth: -1",
     "tfg.tooltip.armor.copper_diving_suit_insulation": "§7Insulation: +1",
     "tfg.tooltip.armor.netherite_diving_suit_warmth": "§7Warmth: -2",
@@ -201,10 +202,14 @@
     "tfg.tooltip.machine.growth_chamber_2": "§7Contains everything needed for Biological Engineering.§r",
     "tfg.tooltip.machine.evaporation_tower_1": "§7Not to be confused with the Distillation Tower§r",
     "tfg.tooltip.machine.evaporation_tower_2": "§7Gets rid of excess solvent to condense solutions.§r",
-    "tfg.tooltip.machine.electric_greenhouse_1": "§7Putting the Factory in Factory Farming§r",
-    "tfg.tooltip.machine.electric_greenhouse_2": "§7Uses water to grow trees, crops, and other plants. Can be sped up with fertilizer. Faster and easier than other ways of growing plants, at the cost of energy.§r",
+    "tfg.tooltip.machine.electric_greenhouse_1": "§7§oPutting the Factory in Factory Farming§r",
+    "tfg.tooltip.machine.electric_greenhouse_2": "§7Grow crops all year round with electricity! The Electric Greenhouse can accept fertilizer to enhance growth or be looped with the Pisciculture Fishery for ultimate efficiency.§r",
     "tfg.tooltip.machine.cooling_tower_1": "§7Heating up the Atmosphere§r",
     "tfg.tooltip.machine.cooling_tower_2": "§7Cools the hot coolant by dissipitating excess heat to the atmosphere.§r",
+    "tfg.tooltip.machine.hydroponics_facility_1": "§7§oFarming the loOOng way§r",
+    "tfg.tooltip.machine.hydroponics_facility_2": "§7The upgraded form of the EGH! The Hydroponics Facility boosts greenhouse output chances and has no restricions on being oxygenated.§r",
+    "tfg.tooltip.machine.pisciculture_fishery_1": "§7§o1 Fish, 2 Fish...§r",
+    "tfg.tooltip.machine.pisciculture_fishery_2": "§7Pisciculture Fisheries are not only a source of fresh fish but also vital in boosting greenhouse production through §3Aquaponics.§7 The structure can be filled with any fluid tagged as §o#tfg:pisciculture_fishery_fluids§r",
 
     "tfg.tooltip.obsolete.depreciated": "§cDeprecated, cannot be crafted any more",
 
@@ -257,6 +262,18 @@
     "tfg.tooltip.fake_nutrition_info_listener": "§7§oHold (Shift) for Nutrition Info",
     "tfg.tooltip.fake_nutrition_info": "§7Nutrition:",
     "tfg.tooltip.cheese_slice_microplastics": "§b- Microplastics: 1.9",
+
+    "tfg.tooltip.recipe_condition.oxygenated.true": "§bIn Oxygenated Environment",
+    "tfg.tooltip.recipe_condition.oxygenated.false": "§5In De-oxygenated Environment",
+    "tfg.tooltip.recipe_condition.climate_rain": "Rainfall mm",
+    "tfg.tooltip.recipe_condition.climate_temp": "Climate °C",
+    "tfg.tooltip.recipe_condition.gravity": "Gravity m/s²",
+
+    "tfg.tooltip.firmalife_greenhouse.oxygen_required": "§cAn oxygenated environment is required!",
+    "tfg.tooltip.firmalife_greenhouse.oxygen_required.block": "§7An oxygenated environment is required to function as a greenhouse in space.",
+
+    "tfg.tooltip.grow_light_disapointment": "§7No. This will not increase your crop growth speed...",
+    "tfg.tooltip.rotten_voiding_cover": "§7The Rotten Voiding Cover works just like an Item Voiding Cover but only targets and destroys §cRotten Items.",
 
     "tfg.gui.menu.field_guide_splash_text": "Tip: Read the field guide!!!",
     "tfg.gui.menu.ram_usage": "RAM:",

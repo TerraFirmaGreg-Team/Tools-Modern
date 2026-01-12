@@ -266,5 +266,10 @@
     "quests.high_voltage.final_dust.desc": "This is all the &cinfinite resources&r you can obtain on the &7Moon&r before unlocking the more advanced processing available on &eVenus&r.\n\nWith these, you should have everything you need to keep progressing through &dGregTech&r — especially to secure the &amaintenance&r of your Moon Base.\n\nThese resources are essential for:\n• Crafting &dAE2 components&r\n• Producing an &cinfinite&r supply of &6Railgun Ammo&r\n\nPassive automation is now within your reach — take the step and make it happen!",
 
     "quests.high_voltage.titanium_greate.title": "Titanium-tier Greate",
-    "quests.high_voltage.titanium_greate.desc": "This is the final tier of Greate that's accessible in TerraFirmaGreg. The only \"extreme\" it's doing is being extremely optional."
+    "quests.high_voltage.titanium_greate.desc": "This is the final tier of Greate that's accessible in TerraFirmaGreg. The only \"extreme\" it's doing is being extremely optional.",
+
+    "quests.high_voltage.pisciculture.title": "Pisciculture Fishery",
+    "quests.high_voltage.pisciculture.subtitle": "A multiblock for pollock.",
+    "quests.high_voltage.pisciculture.desc.1": "The &bPisciculture Fishery&r is not only your one stop shop for infinite fish, but also a supporting multiblock in the &3Aquaponics Loop&r. A circular loop of recipes between the Pisciculture fishery and the &2Electric Greenhouse&r which boosts each others yields and if done properly--Will require no external inputs.",
+    "quests.high_voltage.pisciculture.desc.2": "&5Note:&r The structure can be filled with any liquid with the fluid tag &o&7#tfg:pisciculture_fishery_fluids&r&r. But, be aware that some fluids will freeze in space and that some recipes may not run if the multiblock controller is not in an &noxygenated environment&r."
 }

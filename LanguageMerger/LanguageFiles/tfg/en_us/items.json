@@ -419,5 +419,9 @@
     "item.tfg.nugget_mold": "Nugget Mold",
     "item.tfg.unfired_rod_mold": "Unfired Fire Rod Mold",
     "item.tfg.unfired_small_gear_mold": "Unfired Fire Small Gear Mold",
-    "item.tfg.unfired_nugget_mold": "Unfired Nugget Mold"
+    "item.tfg.unfired_nugget_mold": "Unfired Nugget Mold",
+
+    "item.tfg.fish_roe": "%s Roe",
+    "item.tfg.rotten_voiding_cover": "Rotten Voiding Cover",
+    "item.tfg.flora_pellets": "Flora Pellets"
 }
