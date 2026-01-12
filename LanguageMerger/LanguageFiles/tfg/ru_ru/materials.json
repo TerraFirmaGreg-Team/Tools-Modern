@@ -198,5 +198,9 @@
 	"material.tfg.leachate": "Рениевый фильтрат",
 	"material.tfg.clean_powder": "Силикатированный очищенный рениумный порошок",
 	"material.tfg.catalyser_powder": "Катализаторный рениумный порошок ZSM-5",
-	"material.tfg.sodium_aluminium": "Алюминат натрия"
+	"material.tfg.sodium_aluminium": "Алюминат натрия",
+
+    "material.tfg.chloroplasts": "Хлоропласты",
+	"material.tfg.nitrate_rich_water": "Нитратный раствор",
+	"material.tfg.nitrate_rich_semiheavy_ammoniacal_water": "Полуконцентрированный нитратно-аммиачный раствор"
 }
