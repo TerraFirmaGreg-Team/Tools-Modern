@@ -219,10 +219,10 @@
     "block.tfg.rock.mossy_cobble_moon_stairs": "Ступеньки из замшелого анортозитового булыжника",
     "block.tfg.rock.mossy_cobble_moon_slab": "Плита из замшелого анортозитового булыжника",
     "block.tfg.rock.mossy_cobble_moon_wall": "Ограда из замшелого анортозитового булыжника",
-    "block.tfg.rock.mossy_bricks_moon_stone": "Замшелые анортозитовые кирпичи",
-    "block.tfg.rock.mossy_bricks_moon_stone_stairs": "Ступеньки из замшелых анортозитовых кирпичей",
+    "block.tfg.rock.mossy_bricks_moon": "Замшелые анортозитовые кирпичи",
+    "block.tfg.rock.mossy_bricks_moon_stairs": "Ступеньки из замшелых анортозитовых кирпичей",
     "block.tfg.rock.mossy_bricks_moon_stone_slab": "Плита из замшелых анортозитовых кирпичей",
-    "block.tfg.rock.mossy_bricks_moon_stone_wall": "Ограда из замшелых анортозитовых кирпичей",
+    "block.tfg.rock.mossy_bricks_moon_wall": "Ограда из замшелых анортозитовых кирпичей",
     "block.tfg.rock.chiseled_bricks_moon_wall": "Ограда из резного анортозита",
     "block.tfg.rock.gravel_moon": "Анортозитовый гравий",
     "block.tfg.spike.moon_stone_spike": "Анортозитовый сталагмит",
@@ -380,7 +380,7 @@
     "block.tfg.spike.permafrost_spike": "Сталагмит многолетней мерзлоты",
     "block.tfg.loose.permafrost": "Кусок многолетней мерзлоты",
     "block.tfg.rock.aqueduct_permafrost": "Акведук из многолетней мерзлоты",
-    
+
     "block.tfg.rock.hardened_red_granite": "Укреплённый красный гранит",
     "block.tfg.rock.red_granite_stairs": "Ступеньки из красного гранита",
     "block.tfg.rock.red_granite_slab": "Плита из красного гранита",
@@ -699,6 +699,34 @@
     "tfg.block_entity.large_nest_box": "Большой насест",
     "block.tfg.large_nest_box_warped": "Большой искажённый насест",
 
+	"block.tfg.cultivation_monitor": "Монитор культивации",
+	"block.tfg.egh_planter": "Садовый высаживатель",
+	"block.tfg.grow_light": "Лампа роста",
+	"block.tfg.casings.machine_casing_egh": "Корпус садового модуля",
+	"block.tfg.pisciculture_core": "Центробежный ротор для рыбоводства",
+
+	"block.tfg.casings.greenhouse.treated_wood_greenhouse_casing_0": "§nБезупречная§r Вощёная деревянная стена теплицы",
+	"block.tfg.casings.greenhouse.treated_wood_greenhouse_casing_1": "§nВертикальная§r Вощёная деревянная стена теплицы",
+	"block.tfg.casings.greenhouse.treated_wood_greenhouse_casing_2": "§nГоризонтальная§r Вощёная деревянная стена теплицы",
+	"block.tfg.casings.greenhouse.treated_wood_greenhouse_casing_3": "§nNubio§r Вощёная деревянная стена теплицы",
+	"block.tfg.casings.greenhouse.treated_wood_greenhouse_casing_4": "§nУкрашенная§r Вощёная деревянная стена теплицы",
+	"block.tfg.casings.greenhouse.copper_greenhouse_casing_0": "§nБезупречная§r Медная стена теплицы",
+	"block.tfg.casings.greenhouse.copper_greenhouse_casing_1": "§nВертикальная§r Медная стена теплицы",
+	"block.tfg.casings.greenhouse.copper_greenhouse_casing_2": "§nГоризонтальная§r Медная стена теплицы",
+	"block.tfg.casings.greenhouse.copper_greenhouse_casing_3": "§nNubio§r Медная стена теплицы",
+	"block.tfg.casings.greenhouse.copper_greenhouse_casing_4": "§nУкрашенная§r Медная стена теплицы",
+	"block.tfg.casings.greenhouse.iron_greenhouse_casing_0": "§nБезупречная§r Железная стена теплицы",
+	"block.tfg.casings.greenhouse.iron_greenhouse_casing_1": "§nВертикальная§r Железная стена теплицы",
+	"block.tfg.casings.greenhouse.iron_greenhouse_casing_2": "§nГоризонтальная§r Железная стена теплицы",
+	"block.tfg.casings.greenhouse.iron_greenhouse_casing_3": "§nNubio§r Железная стена теплицы",
+	"block.tfg.casings.greenhouse.iron_greenhouse_casing_4": "§nУкрашенная§r Железная стена теплицы",
+	"block.tfg.casings.greenhouse.stainless_greenhouse_casing_0": "§nБезупречная§r Стена теплицы из нержавеющей стали",
+	"block.tfg.casings.greenhouse.stainless_greenhouse_casing_1": "§nВертикальная§r Стена теплицы из нержавеющей стали",
+	"block.tfg.casings.greenhouse.stainless_greenhouse_casing_2": "§nГоризонтальная§r Стена теплицы из нержавеющей стали",
+	"block.tfg.casings.greenhouse.stainless_greenhouse_casing_3": "§nNubio§r Стена теплицы из нержавеющей стали",
+	"block.tfg.casings.greenhouse.stainless_greenhouse_casing_4": "§nУкрашенная§r Стена теплицы из нержавеющей стали",
+
+
     "block.tfg.titanium_concrete": "Бетон на титановых арматурных стержнях",
     "block.tfg.polished_titanium_concrete": "Полированный бетон на титановых арматурных стержнях",
     "block.tfg.titanium_concrete_tile": "Плитка из бетона на титановых арматурных стержнях",
@@ -723,4 +751,3 @@
 	"block.tfg.moderate_core_frame": "Каркас с ядром стабилизатора",
 	"block.tfg.impure_moderate_core_frame": "Каркас с нечистым ядром стабилизатора"
 }
-
