@@ -201,7 +201,7 @@
     "quests.low_voltage.lv_greenhouse.title": "电力温室",
     "quests.low_voltage.lv_greenhouse.subtitle": "&mKubejs&r……不，是Java的力量",
     "quests.low_voltage.lv_greenhouse.desc.1": "若你更偏爱格雷科技机器而非机械动力装置，&3电力温室&r这座多方块结构便能为你稳定供应&a原木&r等作物。它还有一个独特优势：可以培育更多群峦传说中的装饰性植物！",
-    "quests.low_voltage.lv_greenhouse.desc.2": "&9注意：&r此结构的墙体可自定义，能使用任意有效的“铁制温室方块”。更多可用方块请查看EMI的多方块预览。电力温室还有若干强化途径，包括使用肥料，或在&c高压阶段&r接入&3水培循环&r。",
+    "quests.low_voltage.lv_greenhouse.desc.2": "&9注意：&r此结构的墙体可自定义，能使用任意有效的“铁制温室方块”。更多可用方块请查看EMI的多方块预览。电力温室还有若干强化途径，包括使用肥料，或在&cHV阶段&r接入&3水培循环&r。",
     "quests.low_voltage.lv_greenhouse.desc.3": "&l&3背景知识：&r&o此多方块最初为GTCEu社区包而创建，亦可见于GTCEu开发者文档。为契合群峦较慢的树木生长速度，其运作速度已被大幅调低——但在TFGv0.9之前，每个配方甚至需要近一小时！\n\n在TFGv0.11中，它被彻底重制：拥有全新配方、全新结构、以水培设施形式出现的MK2版本，以及由RubenVerg制作的专属渲染效果。\n\n本任务最初的副标题是“Kubejs的力量”，因为当时它是用Kubejs这一开发工具包制作自定义机器的范例。但如今，为完善支持群峦传说的食物属性，整个结构已完全转为Java实现。",
     "__comment15": "离心机",
     "quests.low_voltage.lv_centrifuge.title": "基础离心机",
