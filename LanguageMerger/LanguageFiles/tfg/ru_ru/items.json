@@ -364,6 +364,10 @@
     "item.tfg.impure_graphite_rod": "Стержень из нечистого графита",
     "item.tfg.annealed_graphite_rod": "Отожженный графитовый стержень",
     "item.tfg.impure_annealed_graphite_rod": "Нечистый отожженный графитовый стержень",
+    "item.tfg.moderate_core": "Стабилизирующее ядро",
+    "item.tfg.impure_moderate_core": "Нечистый стабилизирующее ядро",
+    "item.tfg.moderate_core_frame": "Каркас с стабилизирующее ядром",
+    "item.tfg.impure_moderate_core_frame": "Каркас с нечистым стабилизирующее ядром",
     "item.tfg.graphite_moderator": "Графитный стабилизатор",
     "item.tfg.impure_graphite_moderator": "Нечистый графитный стабилизатор",
     "item.tfg.advanced_polymer_binder": "Усовершенствованное полимерное связующее",
@@ -422,7 +426,8 @@
     "item.tfg.unfired_nugget_mold": "Необоженная форма самородка",
 
     "item.tfg.fish_roe": "Икра %s",
-    "item.tfg.rotten_voiding_cover": "Улучшение удаления гнили",
+    "item.tfg.rotten_voiding_cover": "Удаление гнили(Улучшение)",
     "item.tfg.flora_pellets": "Растительные гранулы"
 }
+
 
