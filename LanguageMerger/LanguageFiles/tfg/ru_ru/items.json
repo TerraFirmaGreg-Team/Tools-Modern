@@ -45,6 +45,7 @@
     "item.tfg.conifer_rosin": "Хвойная канифоль",
     "item.tfg.hardwood_strip": "Полоска твердой древесины",
     "item.tfg.soaked_hardwood_strip": "Пропитанная полоска твердой древесины",
+    "item.tfg.soaked_unrefined_paper": "Пропитанная необработанная бумага",
     "item.tfg.prepared_leather_gloves": "Подготовленные кожаные перчатки",
     "item.tfg.latex_soaked_gloves": "Пропитанные латексом перчатки",
     "item.tfg.unfired_chalk": "Необожженная палочка мела",
@@ -261,7 +262,8 @@
     "item.tfg.compressed_heliox_3_bucket": "Ведро (Гелиокс-3)",
     "item.tfg.compressed_trimix_bucket": "Ведро (50/30/20 Тримикс)",
     "item.tfg.compressed_trimix_3_bucket": "Ведро (50/30/20 Тримикс-3)",
-    "item.tfg.semiheavy_ammoniacal_water_bucket": "Ведро (Полутяжелая аммиачная вода)",
+    "item.tfg.heavy_ammoniacal_water_bucket": "Ведро (Концентрированный аммиачный раствор)",
+    "item.tfg.semiheavy_ammoniacal_water_bucket": "Ведро (Умеренно-концентрированный аммиачный раствор)",
 
     "item.tfg.harvest_basket": "Лукошко",
     "item.tfg.aluminium_harvest_basket": "Лукошко (Алюминий)",
@@ -361,11 +363,7 @@
     "item.tfg.pure_graphite_rod": "Стержень из чистого графита",
     "item.tfg.impure_graphite_rod": "Стержень из нечистого графита",
     "item.tfg.annealed_graphite_rod": "Отожженный графитовый стержень",
-    "item.tfg.impure_annealed_graphite_row": "Нечистый отожженный графитовый стержень",
-    "item.tfg.moderate_core": "Стабилизирующее ядро",
-    "item.tfg.impure_moderate_core": "Нечистый стабилизирующее ядро",
-    "item.tfg.moderate_core_frame": "Каркас с стабилизирующее ядром",
-    "item.tfg.impure_moderate_core_frame": "Каркас с нечистым стабилизирующее ядром",
+    "item.tfg.impure_annealed_graphite_rod": "Нечистый отожженный графитовый стержень",
     "item.tfg.graphite_moderator": "Графитный стабилизатор",
     "item.tfg.impure_graphite_moderator": "Нечистый графитный стабилизатор",
     "item.tfg.advanced_polymer_binder": "Усовершенствованное полимерное связующее",
@@ -421,13 +419,10 @@
     "item.tfg.nugget_mold": "Форма самородка",
     "item.tfg.unfired_rod_mold": "Необоженная огнеупорная форма стержня",
     "item.tfg.unfired_small_gear_mold": "Необоженная огнеупорная форма маленькой шестерни",
-    "item.tfg.unfired_nugget_mold": "Необоженная форма самородка"
+    "item.tfg.unfired_nugget_mold": "Необоженная форма самородка",
 
+    "item.tfg.fish_roe": "Икра %s",
+    "item.tfg.rotten_voiding_cover": "Улучшение удаления гнили",
+    "item.tfg.flora_pellets": "Растительные гранулы"
 }
-
-
-
-
-
-
 

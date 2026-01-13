@@ -3,6 +3,7 @@
     "fluid.tfg.semiheavy_ammoniacal_water": "Полутяжёлая аммиачная вода",
     "fluid.tfg.sulfur_fumes": "Пары серы",
     "fluid.tfg.geyser_slurry": "Метастабильный шлам",
-    "fluid.tfg.cryogenized_fluix": "Криогенный флюис"
-
+    "fluid.tfg.cryogenized_fluix": "Криогенный флюис",
+	"fluid.tfg.bw_photographic_developer": "Проявитель для чёрно-белой фотографии",
+	"fluid.tfg.color_photographic_developer": "Проявитель для цветной фотографии"
 }
