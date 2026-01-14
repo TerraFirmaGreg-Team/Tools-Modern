@@ -24,7 +24,7 @@
 
     "quests.metal_age.bloomery.title": "Bloomery",
     "quests.metal_age.bloomery.subtitle": "Required if you seek the Iron Age.",
-    "quests.metal_age.bloomery.desc": "The Bloomery is a Multiblock from TerraFirmaCraft that allows you to create Wrought Iron. Melting iron in a forge will produce Cast Iron, which is brittle and nowhere near as strong or durable as Wrought Iron.\n\nThe Bloomery is expensive, so it will be worth investing some time into setting up automatic plate production and ore processing.\n\nThe Field Guide contains a detailed entry on how the Bloomery works and the correct ratios of iron and charcoal that it needs.",
+    "quests.metal_age.bloomery.desc": "The Bloomery is a Multiblock from TerraFirmaCraft that allows you to create Wrought Iron. Melting iron in a forge will produce Cast Iron, which is brittle and nowhere near as strong or durable as Wrought Iron.\n\nThe Bloomery is expensive, so it will be worth investing some time into setting up automatic plate production and ore processing.\n\nThe Field Guide contains a detailed entry on how the Bloomery works and the correct ratios of iron and fuel that it needs.",
 
     "quests.metal_age.mining.title": "Mining in the Metallurgy Age",
     "quests.metal_age.mining.subtitle": "ROCK AND STONE!",
