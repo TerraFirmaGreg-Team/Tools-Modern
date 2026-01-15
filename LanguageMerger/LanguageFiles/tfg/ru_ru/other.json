@@ -156,6 +156,7 @@
     "tfg.tooltip.machine.perfect_overclock": "Эта машина имеет §2Идеальное ускорение§r!",
     "tfg.tooltip.machine.parallel": "Возможно распараллеливание с помощью люков контроля параллелей.",
     "tfg.tooltip.machine.customize_interior": "§7Интерьер можно настроить! Ознакомьтесь с многоблочным предварительным просмотром в JEI.",
+    "tfg.tooltip.machine.customize_greenhouse": "§7Стены этого мультиблока могут быть любым подходящим блоком для §eЖелезной теплицы§7. Проверь multiblock preview в EMI.",
     "tfg.tooltip.armor.copper_diving_suit_warmth": "§7Терморегуляция: -1",
     "tfg.tooltip.armor.copper_diving_suit_insulation": "§7Термоизоляция: +1",
     "tfg.tooltip.armor.netherite_diving_suit_warmth": "§7Терморегуляция: -2",
@@ -202,10 +203,14 @@
     "tfg.tooltip.machine.growth_chamber_2": "§7Содержит все необходимое для биоинженерных работ.§r",
     "tfg.tooltip.machine.evaporation_tower_1": "§7Не путать с ректификационной колонной.§r",
     "tfg.tooltip.machine.evaporation_tower_2": "§7Удаляет избыток растворителя для конденсации растворов.§r",
-    "tfg.tooltip.machine.electric_greenhouse_1": "§7Внедрение промышленная фермы в завод§r",
+    "tfg.tooltip.machine.electric_greenhouse_1": "§7§oВнедрение промышленная фермы в завод§r",
     "tfg.tooltip.machine.electric_greenhouse_2": "§7Использует воду для выращивания деревьев, сельскохозяйственных культур и других растений. Процесс можно ускорить с помощью удобрений. Выращивание растений происходит быстрее и проще, чем другими способами, но за счет затрат энергии.§r",
     "tfg.tooltip.machine.cooling_tower_1": "§7Нагревание атмосферы§r",
     "tfg.tooltip.machine.cooling_tower_2": "§7Охлаждает горячую охлаждающую жидкость, рассеивая избыточное тепло в атмосферу.§r",
+    "tfg.tooltip.machine.hydroponics_facility_1": "§7§oФермерство доООлгим путем§r",
+    "tfg.tooltip.machine.hydroponics_facility_2": "§7Усовершенствованная версия электротеплицы! Гидропонная установка имеет большие шансы выходных предметов и не имеет ограничений к насыщению кислородом.§r",
+    "tfg.tooltip.machine.pisciculture_fishery_1": "§7§o1-ая Рыбка, 2-ая Рыбка...§r",
+    "tfg.tooltip.machine.pisciculture_fishery_2": "§7Промышленный рыболов является не только источником свежей рыбы, но и играет важную роль в увеличении производства в теплицах благодаря §3аквапонике§7. Структура может быть заполнена любой жидкостью с тегом §o#tfg:pisciculture_fishery_fluids",
 
     "tfg.tooltip.obsolete.depreciated": "§cDeprecated, cannot be crafted any more",
 
@@ -258,6 +263,18 @@
     "tfg.tooltip.fake_nutrition_info_listener": "§7§oУдерживайте (Shift) для получения информации о питательности",
     "tfg.tooltip.fake_nutrition_info": "§7Питательность:",
     "tfg.tooltip.cheese_slice_microplastics": "§b- Микропластик: 1.9",
+
+    "tfg.tooltip.recipe_condition.oxygenated.true": "§bВ насыщенной кислородом среде",
+    "tfg.tooltip.recipe_condition.oxygenated.false": "§5В условиях недостатка кислорода",
+    "tfg.tooltip.recipe_condition.climate_rain": "Осадки мм",
+    "tfg.tooltip.recipe_condition.climate_temp": "Климат °C",
+    "tfg.tooltip.recipe_condition.gravity": "Гравитация m/s²",
+
+    "tfg.tooltip.firmalife_greenhouse.oxygen_required": "§cНеобходима среда, насыщенная кислородом!",
+    "tfg.tooltip.firmalife_greenhouse.oxygen_required.block": "§7Необходима среда, насыщенная кислородом, так каа теплица в космосе.",
+
+    "tfg.tooltip.grow_light_disapointment": "§7Нет. Это не ускорит рост ваших растений...",
+    "tfg.tooltip.rotten_voiding_cover": "§7Удаление гнили(Улучшение) работает как Удаление предметов(Улучшение), но уничтожает только §cГнилые предметы.",
 
     "tfg.gui.menu.field_guide_splash_text": "Совет: Читай полевое руководство!!!",
     "tfg.gui.menu.ram_usage": "RAM:",

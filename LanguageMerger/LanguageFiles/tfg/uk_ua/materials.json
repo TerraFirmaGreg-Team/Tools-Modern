@@ -25,6 +25,14 @@
 	"material.tfg.venus_stone": "Трахіт",
 	"material.tfg.mercury_stone": "Коматіїт",
 	"material.tfg.glacio_stone": "Фоноліт",
+	"material.tfg.sedimentary_clastic": "Осадовий уламок",
+	"material.tfg.sedimentary_carbonate": "Карбонатний осад",
+	"material.tfg.sedimentary_organic": "Органогенний осад",
+	"material.tfg.metamorphic": "Метаморфічний",
+	"material.tfg.igneous_ultramafic": "Магматична ультраоснова",
+	"material.tfg.igneous_mafic": "Магматична основа",
+	"material.tfg.igneous_intermediate": "Магматичний інтермедіат",
+	"material.tfg.igneous_felsic": "Фельзична магматична",
 	"material.gtceu.thermochemically_treated_hardwood": "Термохімічно Оброблена Тверда Деревина",
 	"material.gtceu.hardwood": "Тверда деревина",
 	"material.gtceu.asurine": "Азурин",
@@ -165,5 +173,8 @@
 	"material.tfg.leachate": "Ренійний фільтрат",
 	"material.tfg.clean_powder": "Повторно силікатне очищення",
 	"material.tfg.catalyser_powder": "Реній каталізатор ZSM-5",
-	"material.tfg.sodium_aluminium": "Натрій алюміній"
+	"material.tfg.sodium_aluminium": "Натрій алюміній",
+	"material.tfg.chloroplasts": "Хлоропласти",
+	"material.tfg.nitrate_rich_water": "Вода, багата на нітрати",
+	"material.tfg.nitrate_rich_semiheavy_ammoniacal_water": "Вода, багата на нітрати, напівважка, аміачна"
 }

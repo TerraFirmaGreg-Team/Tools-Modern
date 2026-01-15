@@ -40,6 +40,9 @@
     "block.gtceu.overworld_marker": "Земля",
     "block.gtceu.the_nether_marker": "Бездна",
 
+    "block.tfg.hydroponics_facility": "Гидропонная установка",
+    "block.tfg.pisciculture_fishery": "Промышленный рыболов",
+
     "__comment1": "these are used for recipes",
     
     "gtceu.greenhouse": "Электрическая теплица",
@@ -62,6 +65,8 @@
     "gtceu.growth_chamber": "Ростовая камера",
     "gtceu.coal_liquefaction_tower": "Башня сжижения угля",
     "gtceu.smr_generator": "Малая модульная турбина",
+    "gtceu.hydroponics_facility": "Гидропонная установка",
+    "gtceu.pisciculture_fishery": "Промышленный рыболов",
 
     "gtceu.tooltip.machine.moon_dust_harvester_1": "§7Внеземной пылесос§r",
     "gtceu.tooltip.machine.moon_dust_harvester_2": "§7Бесконечно добывает реголитовую пыль в зависимости от биома.§r",

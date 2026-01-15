@@ -382,5 +382,8 @@
     "item.tfg.nugget_mold": "Форма для самородка",
     "item.tfg.unfired_rod_mold": "Невипалена форма для вогняного стрижня",
     "item.tfg.unfired_small_gear_mold": "Невипалена форма для малої вогняної шестерні",
-    "item.tfg.unfired_nugget_mold": "Невипалена форма для самородка"
+    "item.tfg.unfired_nugget_mold": "Невипалена форма для самородка",
+    "item.tfg.fish_roe": "%s Ікра",
+    "item.tfg.rotten_voiding_cover": "Гнила покривка Поглинання",
+    "item.tfg.flora_pellets": "Пелети з флори"
 }
