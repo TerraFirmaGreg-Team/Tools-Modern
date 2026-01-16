@@ -133,7 +133,7 @@
     "tfg.tooltip.yeast_starter": "§7用干果制成",
     "tfg.tooltip.beehive": "§7需要填满空框，并周围种植花朵，以吸引蜜蜂。",
     "tfg.tooltip.obsolete.tree_tap": "§4已淘汰§f：已被 AFC 树汁导管取代，你可以通过把这个物品放在工作台上制作出它！",
-    "tfg.tooltip.obsolete.fridge": "§4已过时§f：已被TFG冰箱取代，你可以通过将这个物品放在工作台上制作出它！",
+    "tfg.tooltip.obsolete.fridge": "§4已过时§f：已被TFG的电冰箱取代，你可以将这个物品放在工作台上制作出电冰箱！",
     "tfg.tooltip.blaze_burner": "§c超高温§r §7使用焦炭、无烟煤或完美与精致的煤炭宝石。",
     "tfg.tooltip.machine.perfect_overclock": "这台机器具有§2完美超频§r！",
     "tfg.tooltip.machine.parallel": "通过并行控制仓让机器实现§d并行处理§r。",
