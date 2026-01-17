@@ -1,33 +1,33 @@
 {
-  "id": "salt",
-  "formula": "NaCl",
-  "ore_block": "gtceu:raw_salt_block",
-  "indicator": "gtceu:salt_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Salt",
-      "info": "$(thing)Source of$(): Sodium, Chlorine"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Sal",
-      "info": "$(thing)Fonte de$(): Sódio, Cloro"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Соль",
-      "info": "$(thing)Хромит$(): Натрий, Хлор"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Сіль",
-      "info": "$(thing)Джерело$(): Натрію, Хлору"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "盐",
-      "info": "$(thing)来源$(): 钠, 氯"
-    }
-  ]
+	"id": "salt",
+	"formula": "NaCl",
+	"ore_block": "gtceu:raw_salt_block",
+	"indicator": "gtceu:salt_indicator",
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Halite",
+			"info": "$(thing)Source of$(): Sodium, Chlorine"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Sal",
+			"info": "$(thing)Fonte de$(): Sódio, Cloro"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Галит",
+			"info": "$(thing)Хромит$(): Натрий, Хлор"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Галіт",
+			"info": "$(thing)Джерело$(): Натрію, Хлору"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "岩晶",
+			"info": "$(thing)来源$(): 钠, 氯"
+		}
+	]
 }

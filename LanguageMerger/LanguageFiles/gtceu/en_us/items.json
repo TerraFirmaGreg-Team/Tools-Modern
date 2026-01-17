@@ -61,6 +61,9 @@
 
 	"item.gtceu.wood_plate": "Medium Density Fiberboard",
 
+	"item.gtceu.salt_dust": "Salt",
+	"item.gtceu.small_salt_dust": "Small Pile of Salt",
+	"item.gtceu.tiny_salt_dust": "Tiny Pile of Salt",
 	"item.gtceu.chipped_salt_gem": "Chipped Salt Crystal",
 	"item.gtceu.flawed_salt_gem": "Flawed Salt Crystal",
 	"item.gtceu.salt_gem": "Salt Crystal",
