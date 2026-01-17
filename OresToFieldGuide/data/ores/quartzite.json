@@ -6,12 +6,12 @@
   "translations": [
     {
       "lang": "en_us",
-      "text": "Quartzite",
+      "text": "Quartz",
       "info": "$(thing)Used for$(): LV components"
     },
     {
       "lang": "pt_br",
-      "text": "Quartzito",
+      "text": "Quartz",
       "info": "$(thing)Usado para$(): Componentes LV"
     },
     {
