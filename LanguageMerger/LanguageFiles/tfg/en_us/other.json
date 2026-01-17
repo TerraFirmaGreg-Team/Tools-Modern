@@ -288,5 +288,8 @@
     "tfg.gui.cycle_duration": "Cycle duration: ",
 
     "tfg.emi.bacon_requirement": "Bacon - The Raw Pork must be smoked first",
-    "tag.item.tfg.dried_fruit": "Dried Fruit"
+    "tag.item.tfg.dried_fruit": "Dried Fruit",
+
+    "tfg.nuclear.average_heat.text": "Heat: From %s to %s",
+    "tfg.nuclear.skip": ""
 }
