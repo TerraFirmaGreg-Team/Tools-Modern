@@ -5,5 +5,8 @@
     "item.immersive_aircraft.improved_landing_gear": "Шасси (Чёрная сталь)",
     "item.immersive_aircraft.hull_reinforcement": "Усиление корпуса (Чёрная сталь)",
     
-    "item.immersive_aircraft.bamboo_hopper": "Воронка (Алюминий)"
+    "item.immersive_aircraft.bamboo_hopper": "Воронка (Алюминий)",
+
+    "item.immersive_aircraft.gyroscope_dials": "Продвинутый гироскоп",
+    "item.immersive_aircraft.gyroscope_hud": "Электронный гироскоп"
 }

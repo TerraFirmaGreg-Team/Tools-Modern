@@ -1,0 +1,32 @@
+{
+	"metaitem.dust.tooltip.purify": "Deja remojar en agua para obtener polvo limpio",
+    "metaitem.crushed.tooltip.purify": "Deja remojar en agua para obtener la mena purificada",
+
+	"item.gtceu.tool.behavior.silk_ice": "§dEscultor:§r Recolecta Hielo Compacto",
+    "item.gtceu.tool.butchery_knife.tooltip": "§cCarnicero:§r Carnea animales para recibir más carne",
+	"item.gtceu.tool.tooltip.repair_info": "",
+	"item.gtceu.tool.tooltip.repair_material": "",
+
+    "gtceu.machine.lp_steam_extractor.tooltip": "§7No extrae fluídos",
+    "gtceu.machine.hp_steam_extractor.tooltip": "§7No extrae fluídos",
+
+    "gtceu.jei.bedrock_fluid.nether_natural_gas_deposit": "Depósito de Gas Natural del Más Allá",
+
+    "gtceu.jei.bedrock_fluid.moon_helium": "Depósito de Helio Lunar",
+    "gtceu.jei.bedrock_fluid.moon_helium_3": "Depósito de Helio-3 Lunar",
+    "gtceu.jei.bedrock_fluid.moon_argon": "Depósito de Argón Lunar",
+
+    "gtceu.jei.bedrock_fluid.semiheavy_ammoniacal_water": "Depósito de Agua Semi-densa Amoníaca Marciano",
+    "gtceu.jei.bedrock_fluid.liquid_carbon_dioxide": "Depósito de Dióxido de Carbono Líquido Marciano",
+    "gtceu.jei.bedrock_fluid.heavy_ammoniacal_water": "Depósito de Agua Densa Amoníaca Marciano",
+    "gtceu.jei.bedrock_fluid.liquid_ice": "Depósito de Hielo Marciano",
+
+    "gtceu.recipe.category.ingot_molding": "Moldeado de Materiales",
+
+    "block.gtceu.wire_coil.tooltip_pyro": "§8Horno de Pirólisis, Torre de Liquefacción y Fábrica de Combustible Nuclear:§r",
+    "block.gtceu.wire_coil.tooltip_cracking": "§8Unidad de Cracking, Recolectores Lunar y de Ostreum:§r",
+
+    "tooltip.moldraw.shift_view_molecule": "§7§oMantén (Shift) para Estructura Molecular§r",
+    "tooltip.moldraw.shift_view_alloy": "§7§oMantén (Shift) para Composición de Aleación§r"
+
+}
