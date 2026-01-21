@@ -1,10 +1,10 @@
 {
-	"rarity": "$(t:The chance of a vein generating per chunk. Lower numbers are more common.)Rarity$(/t)",
+	"rarity": "$(t:The chance of a vein generating per chunk. Smaller bottom numbers are more common.)Rarity$(/t)",
 	"chunks": "chunks",
 	"density": "$(t:The percentage of blocks in a vein that are ores instead of stone. A bigger percentage means more ores.)Density$(/t)",
 	"type": "$(t:The shape of the vein.)Type$(/t)",
-	"y": "Y",
-	"size": "Size",
+	"y": "$(t:The Y levels that the vein can generate between.)Y$(/t)",
+	"size": "$(t:The average diameter of the vein)Size$(/t)",
 	"height": "Height",
 	"radius": "Radius",
 	"stone_types": "Stone Types",
