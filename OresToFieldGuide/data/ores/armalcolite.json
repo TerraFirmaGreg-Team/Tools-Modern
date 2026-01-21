@@ -15,6 +15,11 @@
       "info": "$(thing)Fonte de$(): Magnésio, Rutilo, Titânio"
     },
     {
+      "lang": "ru_ru",
+      "text": "Армаколит",
+      "info": "$(thing)Используется для$(): Магний, Рутил, Титан"
+    },
+    {
       "lang": "uk_ua",
       "text": "Армолколіт",
       "info": "$(thing)Джерело$(): Магнію, Рутилу, Титану"

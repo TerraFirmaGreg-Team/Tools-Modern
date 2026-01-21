@@ -15,6 +15,11 @@
       "info": "$(thing)Fonte de$(): Ferro, Titânio, Nitrogênio"
     },
     {
+      "lang": "ru_ru",
+      "text": "Деш",
+      "info": "$(thing)Используется для$(): Железо, Титан, Азот"
+    },
+    {
       "lang": "uk_ua",
       "text": "Деш",
       "info": "$(thing)Джерело$(): Заліза, Титану, Азоту"
