@@ -377,10 +377,11 @@ namespace OresToFieldGuide
 
 				pageBuilder.ThingMacro(tokens["rarity"]);
 				pageBuilder.Append($": 1/{vein.Config.Rarity}");
+				pageBuilder.ThingMacro(tokens["chunks"]);
 				pageBuilder.LineBreak();
 
 				pageBuilder.ThingMacro(tokens["density"]);
-				pageBuilder.Append($": {vein.Config.Density * 100}%");
+				pageBuilder.Append($": {Math.Round(vein.Config.Density * 100)}%");
 				pageBuilder.LineBreak();
 
 				pageBuilder.ThingMacro(tokens["type"]);
