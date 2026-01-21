@@ -1,0 +1,19 @@
+{
+    "gtceu.tooltip.machine.moon_dust_harvester_1": "§7Внеземной пылесос§r",
+    "gtceu.tooltip.machine.moon_dust_harvester_2": "§7Бесконечно добывает реголитовую пыль в зависимости от биома.§r",
+    "gtceu.tooltip.machine.ostrum_harvester_1": "§7Юридически обособленный сборщик пряности§r",
+    "gtceu.tooltip.machine.ostrum_harvester_2": "§7Собирает бесконечное количество острумовой пыли, если поставлен на месторождение острума.§r",
+    "gtceu.tooltip.machine.ostrum_harvester_3": "§7Для работы требуется буровой раствор.§r",
+    "gtceu.tooltip.machine.ostrum_linear_accelerator_1": "§7Бозон Хиггса в сделку не входил.§r",
+    "gtceu.tooltip.machine.ostrum_linear_accelerator_2": "§7Разлагает пыль Острума на составляющие. Требует различных жидкостей из ядерной линии.§r",
+    "gtceu.tooltip.machine.heat_exchanger_1": "§7Нагревание жидкостей с другими горячими жидкостями§r",
+    "gtceu.tooltip.machine.heat_exchanger_2": "§7Передает тепло от одной жидкости к другой.§r",
+    "gtceu.tooltip.machine.nuclear_fuel_factory_1": "§7Производство особо опасных стержней§r",
+    "gtceu.tooltip.machine.nuclear_fuel_factory_2": "§7Обрабатывает радиоактивный материал в ядерное топливо.§r",
+    "gtceu.tooltip.machine.steam_bloomery_1": "§7Улучшите свой горн с помощью возможностей пара!§r",
+    "gtceu.tooltip.machine.steam_bloomery_2": "§7Перерабатывает железосодержащую пыль или слитки в крицу.§r",
+    "gtceu.tooltip.machine.steam_bloomery_3": "§7Рецепты с коксом или антрацитом удвоят производительность.§r",
+    "gtceu.tooltip.machine.steam_parallel": "§7Может обрабатывать до 8 рецептов одновременно, что влияет на количество необходимого пара§r",
+    "gtceu.tooltip.machine.coal_liquefaction_tower_1": "§7Аппарат для приготовления смузи§r",
+    "gtceu.tooltip.machine.coal_liquefaction_tower_2": "§7Извлекает газы и жидкости из твердого угля§r"
+}

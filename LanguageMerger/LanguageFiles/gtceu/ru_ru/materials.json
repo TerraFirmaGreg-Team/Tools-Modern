@@ -7,14 +7,19 @@
 	"__comment1": "Sorry GT, big bang theory doesn't count as a scifi reference",
 
 	"material.gtceu.cooperite": "Куперит",
+	"material.gtceu.rock_salt": "Сильвин",
+	"material.gtceu.salt": "Галит",
+	"material.gtceu.quartzite": "Кварц",
+
 	"material.gtceu.armalcolite": "Армалколит",
 	"material.gtceu.desh": "Деш",
 	"material.gtceu.ostrum": "Острум",
 	"material.tfg.calorite": "Калорит",
 	"material.tfg.etrium": "Этриум",
-	"material.gtceu.rock_salt": "Сильвин",
-	"material.gtceu.salt": "Галит",
 
+	"material.gtceu.tarkianite": "Таркианит",
+	"material.gtceu.thorium": "Торианит",
+	"material.gtceu.dimethylbenzene": "Ксилол",
 
 	"material.gtceu.aluminium_silicate": "Алюмосиликат",
 

@@ -61,6 +61,9 @@
 
     "item.gtceu.wood_plate": "МДФ доска",
 
+    "item.gtceu.salt_dust": "Соль",
+    "item.gtceu.small_salt_dust": "Соль(Маленькая кучка пыли)",
+	"item.gtceu.tiny_salt_dust": "Соль(Крохотная кучка пыли)",
     "item.gtceu.chipped_salt_gem": "Соль (Осколок)",
     "item.gtceu.flawed_salt_gem": "Соль (Необработанный)",
     "item.gtceu.salt_gem": "Соль (Кристалл)",
