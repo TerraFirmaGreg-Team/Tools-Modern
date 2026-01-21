@@ -1,13 +1,14 @@
 {
-	"rarity": "Rarity",
-	"density": "Density",
-	"type": "Type",
+	"rarity": "$(t:The chance of a vein generating per chunk. Lower numbers are more common.)Rarity$(/t)",
+	"chunks": "chunks",
+	"density": "$(t:The percentage of blocks in a vein that are ores instead of stone. A bigger percentage means more ores.)Density$(/t)",
+	"type": "$(t:The shape of the vein.)Type$(/t)",
 	"y": "Y",
 	"size": "Size",
 	"height": "Height",
 	"radius": "Radius",
 	"stone_types": "Stone Types",
-	"indicator_depth": "Indicator Max Depth",
+	"indicator_depth": "$(t:If the distance between the surface and the ore vein is larger than this number, the ore vein will not generate surface indicators.)Indicator Max Depth$(/t)",
 	"percentage": "Percentage",
 	"formula": "Formula",
 
@@ -15,13 +16,14 @@
 	"arsenicosis": "$(t:Requires Face Mask)Arsenicosis (Inhalation)$(/t)",
 	"asbestosis": "$(t:Requires Face Mask)Asbestosis (Inhalation)$(/t)",
 	"berylliosis": "$(t:Requires Rubber Gloves)Berylliosis (Skin Contact)$(/t)",
-	"carcinogenic": "$(t:Requires Full Protection)Radioactive (Any Contact)$(/t)",
+	"carcinogenic": "$(t:Requires Full Protection)Carcinogenic (Any Contact)$(/t)",
+	"radioactive": "$(t:Requires Full Protection)Radioactive (Any Contact)$(/t)",
 	"weak_poison": "$(t:Requires Face Mask)Weakly Poisonous (Inhalation)$(/t)",
 	"irritant": "$(t:Requires Rubber Gloves)Irritant (Skin Contact)$(/t)",
 
-	"tfc:cluster_vein": "Cluster Vein",
-	"tfc:pipe_vein": "Pipe Vein",
-	"tfc:disc_vein": "Disc Vein",
+	"tfc:cluster_vein": "$(t:Mostly round shaped)Cluster Vein$(/t)",
+	"tfc:pipe_vein": "$(t:Tall and narrow)Pipe Vein$(/t)",
+	"tfc:disc_vein": "$(t:Wide and flat)Disc Vein$(/t)",
 
 	"ore_index_format": "This is the $(thing)Ore Index$() for $(thing){0}$(). All ores are sorted alphabetically and then by richest to poorest vein type. You can click on them to learn more information about each vein.",
 	"vein_index_format": "This is the $(thing)Vein Index$() for $(item){0}$(). Each Vein has details regarding its rarity, density, vein type, height found, sizes, what stones it spawns in, and more."

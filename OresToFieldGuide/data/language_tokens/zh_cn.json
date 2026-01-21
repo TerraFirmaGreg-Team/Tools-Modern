@@ -1,5 +1,6 @@
 {
 	"rarity": "稀有度",
+	"chunks": "区块",
 	"density": "密度",
 	"type": "类型",
 	"y": "Y 坐标",

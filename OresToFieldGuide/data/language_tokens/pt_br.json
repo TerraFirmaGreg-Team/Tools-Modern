@@ -1,5 +1,6 @@
 {
 	"rarity": "Raridade",
+	"chunks": "chunks",
 	"density": "Densidade",
 	"type": "Tipo",
 	"y": "Y",
