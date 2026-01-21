@@ -1,7 +1,7 @@
 {
   "id": "pitchblende",
   "formula": "(UO₂)₃ThPb",
-  "hazard": "carcinogenic",
+  "hazard": "radioactive",
   "ore_block": "gtceu:raw_pitchblende_block",
   "indicator": "gtceu:pitchblende_indicator",
   "translations": [

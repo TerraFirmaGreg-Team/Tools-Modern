@@ -11,12 +11,12 @@
 		},
 		{
 			"lang": "pt_br",
-			"text": "Sal",
+			"text": "Halita",
 			"info": "$(thing)Fonte de$(): Sódio, Cloro"
 		},
 		{
 			"lang": "ru_ru",
-			"text": "Соль",
+			"text": "Галит",
 			"info": "$(thing)Используется для$(): Натрий, Хлор"
 		},
 		{
@@ -26,7 +26,7 @@
 		},
 		{
 			"lang": "zh_cn",
-			"text": "岩盐",
+			"text": "石鹽",
 			"info": "$(thing)来源$(): 钠, 氯"
 		}
 	]

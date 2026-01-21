@@ -1,7 +1,7 @@
 {
   "id": "uraninite",
   "formula": "UO₂",
-  "hazard": "carcinogenic",
+  "hazard": "radioactive",
   "ore_block": "gtceu:raw_uraninite_block",
   "indicator": "gtceu:uraninite_indicator",
   "translations": [

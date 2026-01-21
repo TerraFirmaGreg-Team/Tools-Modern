@@ -1,6 +1,7 @@
 {
     "id": "thorium",
     "formula": "ThO₂",
+    "hazard": "radioactive",
     "ore_block": "gtceu:raw_thorium_block",
     "indicator": "gtceu:thorium_indicator",
     "translations": [

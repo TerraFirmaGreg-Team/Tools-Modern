@@ -1,33 +1,33 @@
 {
-  "id": "rock_salt",
-  "formula": "KCl",
-  "ore_block": "gtceu:raw_rock_salt_block",
-  "indicator": "gtceu:rock_salt_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Sylvite",
-      "info": "$(thing)Source of$(): Potassium, Chlorine"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Sal-gema",
-      "info": "$(thing)Fonte de$(): Potássio, Cloro"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Каменная соль",
-      "info": "$(thing)Используется для$(): Калий, Хлор"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Кам’яна сіль",
-      "info": "$(thing)Джерело$(): Калію, Хлору"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "岩盐",
-      "info": "$(thing)来源$(): 钾, 氯"
-    }
-  ]
+	"id": "rock_salt",
+	"formula": "KCl",
+	"ore_block": "gtceu:raw_rock_salt_block",
+	"indicator": "gtceu:rock_salt_indicator",
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Sylvite",
+			"info": "$(thing)Source of$(): Potassium, Chlorine, Fertilizer"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Silvita",
+			"info": "$(thing)Fonte de$(): Potássio, Cloro, Fertilizante"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Сильвин",
+			"info": "$(thing)Используется для$(): Калий, Хлор, Удобрения"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Сильвін",
+			"info": "$(thing)Джерело$(): Калію, Хлору, Добрива"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "钾石盐",
+			"info": "$(thing)来源$(): 钾, 氯, 肥料"
+		}
+	]
 }
