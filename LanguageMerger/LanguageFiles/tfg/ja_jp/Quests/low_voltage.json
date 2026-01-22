@@ -1,6 +1,6 @@
 {
 	"__comment1": "Starting",
-	
+
 	"quests.low_voltage": "&7LV&r - 低電圧時代",
 	"quests.low_voltage.subtitle": "どんな元素も無駄にしない優しい工業mod",
 
@@ -137,7 +137,7 @@
 	"quests.low_voltage.programmed_circuits.task": "I got it, I don't need to craft circuits",
 
 	"__comment5": "Converyor",
-	
+
 	"quests.low_voltage.lv_conveyor.title": "LVコンベアーモジュール",
 	"quests.low_voltage.lv_conveyor.subtitle": "Createのコンベアーとずいぶん違うな",
 	"quests.low_voltage.lv_conveyor.desc": "これはカバーとしての役割がメインになりますが、いくつかの機械の部品にもなります。\n\n機械やパイプやクレートなどに取り付けると、アイテムの搬出をしてくれます。取り付けると、搬出入の設定も可能です。\n\nさらに、さまざまな&9アイテムフィルター&rを取り付けて制御することもできます。",
@@ -257,10 +257,10 @@
 	"quests.low_voltage.lv_circuit_assembler.desc.2": "&l&3余談：&r&o回路作成機は、歴代のGregTechで登場したり姿を消したりしてたんだ。GT5では登場せず、GT5Unofficialで再び追加された。GTCEでは見送られて、GTCEuではまた登場して...神出鬼没だね。",
 
 	"quests.low_voltage.lv_greenhouse.title": "電気温室",
-	"quests.low_voltage.lv_greenhouse.subtitle": "KubeJSは全てを解決する",
-	"quests.low_voltage.lv_greenhouse.desc.1": "マルチブロック機械である&3電気温室&rは、Createに頼らず、電気の力で&a木&rや作物を安定して生産できる便利な設備です。さらに、TFCの装飾用植物なども栽培できます！\n\nこの機械は数少ない&2パーフェクトオーバークロック(POC)&r対応の装置のひとつです。POCの場合は入力電圧のティアが上がるたびに実行速度がx4ずつ上昇していきます(通常はx2ずつです)！",
-	"quests.low_voltage.lv_greenhouse.desc.2": "&9注意:&rMVレシピを実行するには、&bMV&rエネルギーハッチを1個、または&7LV&rエネルギーハッチを2個設置する必要があります。マルチブロック機械は、同じティアの電力を4A分合わせることで1つ上位のティア相当として扱われます。\n\nEMIでレシピが&bMV&rと表示されている場合、コントローラー画面の表示が&bMV&r以上になっていないと動作しません。\n\n&9注意：&rこの装置を組み立てるには大量の&7スチール&rが必要です。スチールは&3EBF&rによって簡単に作成できるようになります。",
-	"quests.low_voltage.lv_greenhouse.desc.3": "&l&3余談：&r&oこのマルチブロック機械は、もともとGTCEu_Community_Pack用に開発されたもので、いまはGTCEuの開発者向けドキュメントにも掲載されているよ。TFCでの植物の成長速度に合わせて動作がかなり遅めに調整されてるんだけど、TFGの0.9以前のバージョンでは、なんと1レシピにほぼ1時間もかかってたんだ！",
+	"quests.low_voltage.lv_greenhouse.subtitle": "KubeJSは全てを解決...してた",
+	"quests.low_voltage.lv_greenhouse.desc.1": "マルチブロック機械である&3電気温室&rは、Createに頼らず、電気の力で&a木&rや作物を安定して生産できる便利な設備です。さらに、TFCの装飾用植物なども栽培できます！",
+	"quests.low_voltage.lv_greenhouse.desc.2": "&9注意：&rこのマルチブロックは、壁面に任意の鉄の温室ブロックを使うことができます。使用可能なブロックの詳細についてはEMIのマルチブロック情報を確認してください。電気温室（EGH）は、肥料の使用や、後の&cHV&r段階で&3アクアポニックス・ループ&rを導入するなど、いくつかの方法でより効率的に動かすことも可能です。&r",
+	"quests.low_voltage.lv_greenhouse.desc.3": "&l&3余談：&r&oこのマルチブロック機械は、もともとGTCEu_Community_Pack用に開発されたもので、いまはGTCEuの開発者向けドキュメントにも掲載されているよ。TFCでの植物の成長速度に合わせて動作がかなり遅めに調整されてるんだけど、TFGの0.9以前のバージョンでは、なんと1レシピにほぼ1時間もかかってたんだ！\n\nTFGの0.11では、レシピと構造が改変されて、さらに「水耕栽培施設」という第二形態の追加だったりRubenVergさんによるカスタムレンダーとかもあって、完全に一から作り直されたんだ。\n\nそんでこのクエストの元のサブタイトルは「KubeJSは全てを解決する」だったんだ。これは当初、この機械がKubejsで作られたカスタムマシン――つまり開発キットの実例だったからね。でも今では、TFCの食品特性を正しくサポートするために、全部Javaで実装されてるんだって。",
 
 	"__comment15": "Centrifuge",
 
@@ -339,7 +339,7 @@
 	"quests.low_voltage.lv_ebf.subtitle": "GregTechの中心で、愛を叫ぶ",
 	"quests.low_voltage.lv_ebf.desc.1": "このクエストでは&3工業用電気炉&r(通称：EBF)の基本的な仕組みを学べます。一つ上のクエストでは、マルチブロック構造の仕組みを解説するので、そちらも忘れずにチェックしましょう。\n\nさて、&3EBF&rはあなたにとって&e初めての電動大型機械&rです！おめでとうございます！\nEBFは高温で素材を加工するために使います。\n\nEBFを使えば、&aアルミニウム&rを作って&d&bMV時代&rへ進めます。また、&7スチール&rを&6TFCの高炉&rよりも速く作れるので、愛着がなければ、もう時代遅れなTFCの鍛冶場を取り壊しても問題ありません。",
 	"quests.low_voltage.lv_ebf.desc.2": "EBFはかなりの電力を必要とする機械です。稼働には最低&9120EU/t&rが必要で、これは&7LV&r発電機約4基分に相当します。\n\nEBFと蓄電器の近くに新しく発電機を用意して、専用の発電ラインを作ることを検討しましょう。ケーブルによる電力損失には注意してください。",
-    "quests.low_voltage.lv_ebf.desc.3": "EBFが点滅したり、必要な量の電力を受け取れていなかったりしませんか？その場合、おそらく&eケーブルによる電力損失&rが発生しています。詳しくは「GregTechの電力システム」の章を読んで、この仕組みを理解しておくと良いでしょう。\n\n発電機はできるだけEBFの近くに配置し、適切なケーブルを使ってください。上の画像のように配置した2倍錫ケーブルを使うことをおすすめします。",
+	"quests.low_voltage.lv_ebf.desc.3": "EBFが点滅したり、必要な量の電力を受け取れていなかったりしませんか？その場合、おそらく&eケーブルによる電力損失&rが発生しています。詳しくは「GregTechの電力システム」の章を読んで、この仕組みを理解しておくと良いでしょう。\n\n発電機はできるだけEBFの近くに配置し、適切なケーブルを使ってください。上の画像のように配置した2倍錫ケーブルを使うことをおすすめします。",
 
 	"quests.low_voltage.multiblock_tech.title": "マルチブロック構造について",
 	"quests.low_voltage.multiblock_tech.subtitle": "デカいことはいいことだ",
@@ -365,7 +365,7 @@
 	"quests.low_voltage.mv_hull.subtitle": "MVへの入り口",
 	"quests.low_voltage.mv_hull.desc1": "よくぞここまで来ましたね！&bMVマシン筐体&r、&b改良型電子回路&r、&6基本型回路作成機&rがあれば、正真正銘、MV時代に到達です！\n\nこれが&6GregTech&rの基本的な流れです。新しいティアに進むたびに、新たな&6素材&rや&6化学物質&rを使って、より高度な&6機械&rを作っていくことになります。\nこんなにすばらしい体験をすることができるなんて、羨ましい限りです。",
 	"quests.low_voltage.mv_hull.desc2": "&bMV&rに進む前に、&6TFG&rでは、&6Create&rのマシンを使ってインフラを補強することも可能です。アルミニウム製のシャフトや歯車はスチール製のものより許容応力が4倍あるので、それらを活用すればマシンをより高速に、安全に稼働させられます。",
-	
+
 	"quests.low_voltage.aluminium_greate.title": "Greate-アルミニウムの世界",
 	"quests.low_voltage.aluminium_greate.subtitle": "中応力（Medium Stress）の時代",
 	"quests.low_voltage.aluminium_greate.desc": "前回のアップグレードから少し時間が経ちましたが、ここでさらに上位のGreateの機構が使えるようになります。以前と同様に、アルミニウム製のものはスチール製のものよりも &b4倍&rの応力容量があります。\n\nこの先からは、Greateに全く触れずとも進められますが、もしGreateに愛着がある場合は、この機会にこれまで使っていた機構を取り換えることをおすすめします。\n\n応力供給をさらに強化したいなら&e蒸気エンジン&rの利用や、&9Create Additions&rの&e電動モーター&rを使ってEUをSUに変換することなどもできます。",

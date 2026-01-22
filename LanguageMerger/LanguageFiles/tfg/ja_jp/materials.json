@@ -29,6 +29,15 @@
 	"material.tfg.mercury_stone": "コマチアイト",
 	"material.tfg.glacio_stone": "響岩",
 
+	"material.tfg.sedimentary_clastic": "砕屑堆積岩",
+	"material.tfg.sedimentary_carbonate": "炭酸塩堆積岩",
+	"material.tfg.sedimentary_organic": "有機質堆積岩",
+	"material.tfg.metamorphic": "変成岩",
+	"material.tfg.igneous_ultramafic": "超苦鉄質火成岩",
+	"material.tfg.igneous_mafic": "塩基性火成岩",
+	"material.tfg.igneous_intermediate": "中間質火成岩",
+	"material.tfg.igneous_felsic": "珪長質岩",
+
 	"material.gtceu.thermochemically_treated_hardwood": "熱処理済みの堅木",
 	"material.gtceu.hardwood": "堅木",
 
@@ -181,13 +190,17 @@
 	"material.tfg.cyclohex_diperoxide": "1,1-Cyclohexanediyl Dihydroperoxide",
 
 	"material.tfg.aciditic_waste": "酸性エポキシ廃棄物",
-	"material.tfg.tpaoh": "Tetrapropylammonium Hydroxide",
+	"material.tfg.tpaoh": "テトラプロピルアンモニウムヒドロキシド",
 	"material.tfg.sodium_silicate": "ケイ酸ナトリウム",
 	"material.tfg.metal_rich_solution": "Leachate Metal-Rich Solution",
-	"material.tfg.crude_mixed_gas": "Crude Mixed Gas",
-	"material.tfg.zsm5_gel": "ZSM-5 Gel",
+	"material.tfg.crude_mixed_gas": "粗製混合ガス",
+	"material.tfg.zsm5_gel": "ZSM-5ゲル",
 	"material.tfg.leachate": "レニウム浸出液",
 	"material.tfg.clean_powder": "Re-Silicate Clean",
 	"material.tfg.catalyser_powder": "レニウム ZSM-5触媒",
-	"material.tfg.sodium_aluminium": "アルミン酸ナトリウム"
+	"material.tfg.sodium_aluminium": "アルミン酸ナトリウム",
+
+	"material.tfg.chloroplasts": "葉緑体",
+	"material.tfg.nitrate_rich_water": "富栄養水",
+	"material.tfg.nitrate_rich_semiheavy_ammoniacal_water": "富栄養化したアンモニア交じりの半重水"
 }

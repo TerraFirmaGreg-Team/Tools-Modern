@@ -878,6 +878,7 @@
     "quests.tfg_tips.cellar_blocks.title": "貯蔵庫での保管方法",
     "quests.tfg_tips.cellar_blocks.subtitle": "食品の集合住宅",
     "quests.tfg_tips.cellar_blocks.desc": "&b食品棚&rは、あらゆる食品を保管できます。&b吊るし棚&rは、&a肉&rと&aニンニク&rを保管するために使用できます。\nここに保管された食品は、&d壺&rよりも強力な保存特性を受け取ります。",
+    "quests.tfg_tips.cellar_blocks.task": "Any food shelf or hanger",
 
     "__comment16": "#endregion",
 
@@ -893,7 +894,7 @@
 
     "quests.tfg_tips.beneath_temp_management.title": "体温管理:冷却手段",
     "quests.tfg_tips.beneath_temp_management.subtitle": "隙を見て冷却",
-    "quests.tfg_tips.beneath_temp_management.desc": "&4Beneath&rは、気温が高いため、体を冷却する手段として&a水&rを持っていきましょう。\n一時的な基地を作る予定がある場合は、極地地域で採掘した&b氷塊&rを持っていくといいでしょう。",
+    "quests.tfg_tips.beneath_temp_management.desc": "&4Beneath&rは、気温が高いため、体を冷却する手段として&a水&rや&a液化氷泥&rを持っていきましょう。\n一時的な基地を作る予定がある場合は、極地地域で採掘した&b氷塊&rを持っていくといいでしょう。",
 
     "quests.tfg_tips.beneath_clothes.title": "体温管理:服装",
     "quests.tfg_tips.beneath_clothes.subtitle": "クールビズ",

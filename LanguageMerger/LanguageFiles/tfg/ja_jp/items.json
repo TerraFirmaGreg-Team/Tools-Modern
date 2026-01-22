@@ -59,22 +59,18 @@
 
     "item.tfg.brick.deepslate": "混成岩のレンガ",
     "item.tfg.brick.dripstone": "鍾乳石のレンガ",
-    "item.tfg.loose.moon_stone": "斜長岩の小石",
     "item.tfg.brick.moon_stone": "斜長岩のレンガ",
-    "item.tfg.loose.moon_deepslate": "ノーライトの小石",
     "item.tfg.brick.moon_deepslate": "ノーライトのレンガ",
-    "item.tfg.loose.mars_stone": "粘土質岩の小石",
     "item.tfg.brick.mars_stone": "粘土質岩のレンガ",
-    "item.tfg.loose.venus_stone": "粗面岩の小石",
     "item.tfg.brick.venus_stone": "粗面岩のレンガ",
-    "item.tfg.loose.mercury_stone": "コマチアイトの小石",
     "item.tfg.brick.mercury_stone": "コマチアイトのレンガ",
-    "item.tfg.loose.glacio_stone": "響岩の小石",
     "item.tfg.brick.glacio_stone": "響岩のレンガ",
-    "item.tfg.loose.permafrost": "永久凍土の小石",
     "item.tfg.brick.permafrost": "永久凍土のレンガ",
-    "item.tfg.loose.red_granite": "赤色花崗岩の小石",
     "item.tfg.brick.red_granite": "赤色花崗岩のレンガ",
+    "item.tfg.brick.sandy_jadestone": "ランプロアイトのレンガ",
+    "item.tfg.brick.flavolite": "イグニンブライトのレンガ",
+    "item.tfg.brick.scoria": "スコリアのレンガ",
+    "item.tfg.brick.scorchia": "スコーチアのレンガ",
 
     "item.tfg.terra_firma_greg": "TerraFirmaGreg",
 
@@ -414,10 +410,14 @@
     "item.tfg.used_catalyser": "白金-レニウム ZSM-5触媒（使用済み）",
     "item.tfg.loaded_resin": "レニウム吸着樹脂",
 
-    "item.tfg.rod_mold": "Fire Rod Mold",
-    "item.tfg.small_gear_mold": "Fire Small Gear Mold",
-    "item.tfg.nugget_mold": "Nugget Mold",
-    "item.tfg.unfired_rod_mold": "Unfired Fire Rod Mold",
-    "item.tfg.unfired_small_gear_mold": "Unfired Fire Small Gear Mold",
-    "item.tfg.unfired_nugget_mold": "Unfired Nugget Mold"
+    "item.tfg.rod_mold": "耐火の棒の型",
+    "item.tfg.small_gear_mold": "耐火の小さい歯車の型",
+    "item.tfg.nugget_mold": "塊の型",
+    "item.tfg.unfired_rod_mold": "未焼成の耐火の棒の型",
+    "item.tfg.unfired_small_gear_mold": "未焼成の耐火の小さい歯車の型",
+    "item.tfg.unfired_nugget_mold": "未焼成の塊の型",
+
+    "item.tfg.fish_roe": "%sの魚卵",
+    "item.tfg.rotten_voiding_cover": "腐敗物消去カバー",
+    "item.tfg.flora_pellets": "フローラペレット"
 }
