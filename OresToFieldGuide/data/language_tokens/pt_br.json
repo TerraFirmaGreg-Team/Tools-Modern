@@ -17,6 +17,7 @@
 	"asbestosis": "$(t:Requer Máscara Facial)Asbestose (Inalação)$(/t)",
 	"berylliosis": "$(t:Requer Luvas de Borracha)Beriliose (Contato com a Pele)$(/t)",
 	"carcinogenic": "$(t:Requer Proteção Completa)Carcinogênico (Qualquer Contato)$(/t)",
+	"radioactive": "$(t:Requer Proteção Completa)Radioativo (Qualquer Contato)$(/t)",
 	"weak_poison": "$(t:Requer Máscara Facial)Pouco Venenoso (Inalação)$(/t)",
 	"irritant": "$(t:Requer Luvas de Borracha)Irritante (Contato com a Pele)$(/t)",
 

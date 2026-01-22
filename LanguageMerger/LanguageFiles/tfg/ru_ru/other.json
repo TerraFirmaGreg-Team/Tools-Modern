@@ -203,7 +203,7 @@
     "tfg.tooltip.machine.growth_chamber_2": "§7Содержит все необходимое для биоинженерных работ.§r",
     "tfg.tooltip.machine.evaporation_tower_1": "§7Не путать с ректификационной колонной.§r",
     "tfg.tooltip.machine.evaporation_tower_2": "§7Удаляет избыток растворителя для конденсации растворов.§r",
-    "tfg.tooltip.machine.electric_greenhouse_1": "§7§oВнедрение промышленная фермы в завод§r",
+    "tfg.tooltip.machine.electric_greenhouse_1": "§7§oВнедрение промышленной фермы в завод§r",
     "tfg.tooltip.machine.electric_greenhouse_2": "§7Использует воду для выращивания деревьев, сельскохозяйственных культур и других растений. Процесс можно ускорить с помощью удобрений. Выращивание растений происходит быстрее и проще, чем другими способами, но за счет затрат энергии.§r",
     "tfg.tooltip.machine.cooling_tower_1": "§7Нагревание атмосферы§r",
     "tfg.tooltip.machine.cooling_tower_2": "§7Охлаждает горячую охлаждающую жидкость, рассеивая избыточное тепло в атмосферу.§r",
