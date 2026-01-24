@@ -1,0 +1,27 @@
+{
+	"__comment1": "Fix typo",
+	
+	"info.ad_astra.solar_panel": "Genera energía solar durante el día. La energía generada es dependiente del planeta.",
+	
+	"__comment2": "Replaces the emojis with FE and mB",
+	
+	"tooltip.ad_astra.energy": "%s FE / %s FE",
+	"tooltip.ad_astra.energy_generation_per_tick": "Genera %s FE por tick",
+	"tooltip.ad_astra.energy_in": "Entrada: %s FE/t",
+	"tooltip.ad_astra.energy_out": "Salida: %s FE/t",
+	"tooltip.ad_astra.energy_per_tick": "%s FE/t",
+	"tooltip.ad_astra.energy_transfer_tick": "Transferencia: %s FE/t",
+	"tooltip.ad_astra.energy_use_per_tick": "Usa %s FE por tick",
+	"tooltip.ad_astra.max_energy_in": "Entrada máxima: %s FE/t",
+	"tooltip.ad_astra.max_energy_out": "Salida máxima: %s FE/t",
+	"tooltip.ad_astra.max_generation": "Máximo: %s FE/t",
+	"tooltip.ad_astra.max_fluid_in": "Entrada máxima: %s mB/t",
+	"tooltip.ad_astra.max_fluid_out": "Salida máxima: %s mB/t",
+	"tooltip.ad_astra.fluid": "%s mB / %s mB %s",
+	"tooltip.ad_astra.fluid_generation_per_iteration": "Genera %s mB por iteración",
+	"tooltip.ad_astra.fluid_in": "Entrada: %s mB/t",
+	"tooltip.ad_astra.fluid_out": "Salida: %s mB/t",
+	"tooltip.ad_astra.fluid_per_tick": "%s mB/t",
+	"tooltip.ad_astra.fluid_transfer_tick": "Transferencia: %s mB/t",
+	"tooltip.ad_astra.fluid_use_per_iteration": "Usa %s mB por iteración"
+}
