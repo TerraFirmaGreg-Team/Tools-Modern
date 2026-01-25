@@ -1,0 +1,9 @@
+{
+	"entity.ad_astra.corrupted_lunarian": "Zombi lunar",
+	"entity.ad_astra.martian_raptor": "Ave de presa esquelética",
+
+	"entity.ad_astra.tier_1_rocket": "Cohete de R-Aluminacero",
+	"entity.ad_astra.tier_2_rocket": "Cohete de titanio ASM 4914",
+	"entity.ad_astra.tier_3_rocket": "Cohete de acero de tungsteno 45-Ti",
+	"entity.ad_astra.tier_1_rover": "Astromóvil"
+}
