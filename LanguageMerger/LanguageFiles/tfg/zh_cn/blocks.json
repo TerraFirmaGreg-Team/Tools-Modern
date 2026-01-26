@@ -771,5 +771,7 @@
     "block.tfg.moderate_core": "慢化堆芯",
     "block.tfg.impure_moderate_core": "不纯慢化堆芯",
     "block.tfg.moderate_core_frame": "慢化堆芯框架",
-    "block.tfg.impure_moderate_core_frame": "不纯慢化堆芯框架"
+    "block.tfg.impure_moderate_core_frame": "不纯慢化堆芯框架",
+    "tfg.block_entity.artisan_table": "工匠台",
+    "block.tfg.artisan_table": "工匠台"
 }

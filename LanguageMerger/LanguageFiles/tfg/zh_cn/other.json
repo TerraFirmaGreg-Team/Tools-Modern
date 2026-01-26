@@ -221,6 +221,8 @@
     "tfg.tooltip.component.nuclear_turbine_2": "每个高于 §5EV§r 阶段的转子支架 §7可提升§r 10% 效率，并使 EU/t 产出翻倍。",
     "tfg.tooltip.component.smr_generator_1": "§e基础产出：§r 4096 EU/t",
     "tfg.tooltip.component.smr_generator_2": "专为利用超临界二氧化碳与小模块化反应堆发电而设计。\n使用润滑剂与加速剂可提升其效率，并管理反应堆的冷却回路。",
+    "tfg.tooltip.show_recipes": "显示配方",
+    "emi.category.tfg.artisan_table": "工匠台",
     "tfg.gui.refrigerator.unify_dates.enabled": "过期日期统一：§a开",
     "tfg.gui.refrigerator.unify_dates.disabled": "过期日期统一：§a关",
     "tfg.machine.food_refrigerator_power_usage": "§7工作时消耗§r %s EU/t §7以保持食物新鲜。§r",
