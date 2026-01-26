@@ -249,7 +249,7 @@
 
     "quests.high_voltage.regolith_vapor.title": "月面堆積粉塵",
     "quests.high_voltage.regolith_vapor.subtitle": "宇宙塵",
-    "quests.high_voltage.regolith_vapor.desc": "&b岩屑&rを処理するには、&b月面堆積粉塵&rが必要になります。ただし、その準備には少し手間がかかります。\n\n必要なものは以下の通りです：\n\n• &7月の砂&r——&6破砕機&rを使えば無限に入手できます。\n• &e二酸化炭素&r——&9酸素&rと&7炭素&r（&bダイヤモンドの粉&rから入手可能）から生成できます。\n•&9窒素&r——&dコーラスフルーツ&rの栽培によって生成できます。\n\nTips：を&b二酸化ケイ素&rから&9酸素&rを取り出す過程で、安定した量の&eケイ素&rを副産物として得られます。非常に便利な副収入源ですね。",
+    "quests.high_voltage.regolith_vapor.desc": "&b岩屑&rを処理するには、&b月面堆積粉塵&rが必要になります。ただし、その準備には少し手間がかかります。\n\n必要なものは以下の通りです：\n\n• &7瑠璃岩の粉&r——&6破砕機&rを使えば無限に入手できます。\n• &e二酸化炭素&r——&9酸素&rと&7炭素&r（&bダイヤモンドの粉&rから入手可能）から生成できます。\n•&9窒素&r——&dコーラスフルーツ&rの栽培によって生成できます。\n\nTips：を&b二酸化ケイ素&rから&9酸素&rを取り出す過程で、安定した量の&eケイ素&rを副産物として得られます。非常に便利な副収入源ですね。",
     "quests.high_voltage.regolith_vapor.task": "Got it",
 
     "quests.high_voltage.regolith_dust.title": "バイオームごとの岩屑",
@@ -266,5 +266,10 @@
     "quests.high_voltage.final_dust.desc": "&e金星&rに到達するまでは、&7月&rで確保できる&c無限資源&rはこれだけです。\n\nこれらの資源が無限化されていれば、&dGregTech&rをかなり快適に進められるでしょう。&a月面基地&rの維持にも欠かせません。\n\n具体的な用途：\n•&dAE2コンポーネント&rの作成\n•&6レールガンの弾&rの&c無限&r生産\n\n資源が無限化されたことで、いくつかのパッシブラインを組むことができるようになったと思います。そちらに注力してもいいかもしれません。",
 
     "quests.high_voltage.titanium_greate.title": "Greate-チタニウムエディション",
-    "quests.high_voltage.titanium_greate.desc": "TerraFirmaGregにおいてGreateの要素はこれで最後です。超高電圧にふさわしい超高性能ではありますが...今さら歯車を回したいですか？"
+    "quests.high_voltage.titanium_greate.desc": "TerraFirmaGregにおいてGreateの要素はこれで最後です。超高電圧にふさわしい超高性能ではありますが...今さら歯車を回したいですか？",
+
+    "quests.high_voltage.pisciculture.title": "養殖場",
+    "quests.high_voltage.pisciculture.subtitle": "頭がよくなる",
+    "quests.high_voltage.pisciculture.desc.1": "&b養殖場&rは無限に魚を入手できる施設であり、&3アクアポニックス・ループ&rに必要なマルチブロックでもあります。これは養殖場と&2電気温室&rの間でレシピが循環し、互いの生産量を強化し合う構造です。正しく構築すれば、外部からの投入物を一切必要としません。",
+    "quests.high_voltage.pisciculture.desc.2": "&5注記：&rこの構造物は、液体タグ&o&7#tfg:pisciculture_fishery_fluids&r&rを持つ任意の液体で満たすことができます。ただし、一部の液体は宇宙空間だと凍結すること、またマルチブロックコントローラーが&n酸素のある環境&rに設置されていない場合、実行できないレシピがある点に注意してください。"
 }

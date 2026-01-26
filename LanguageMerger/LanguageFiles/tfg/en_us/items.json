@@ -32,6 +32,7 @@
     "item.tfg.phantom_thread": "Phantom Thread",
     "item.tfg.polycaprolactam_fabric": "Polycaprolactam Fabric",
     "item.tfg.polycaprolactam_string": "Polycaprolactam String",
+
     "item.tfg.space_suit_fabric": "Space Suit Fabric",
     "item.tfg.vitrified_pearl": "Vitrified Ender Pearl",
     "item.tfg.fishing_net.wood": "Wood Fishing Net",
@@ -419,5 +420,7 @@
 
     "item.tfg.fish_roe": "%s Roe",
     "item.tfg.rotten_voiding_cover": "Rotten Voiding Cover",
-    "item.tfg.flora_pellets": "Flora Pellets"
+    "item.tfg.flora_pellets": "Flora Pellets",
+
+    "item.tfg.magnesia_refractory_brick_ingot": "Resin-Bonded Magnesia Refractory Brick"
 }

@@ -267,7 +267,7 @@
 
     "quests.medium_voltage.mv_kanthal_coil.title": "カンタルコイル",
     "quests.medium_voltage.mv_kanthal_coil.subtitle": "熱い！熱い！",
-    "quests.medium_voltage.mv_kanthal_coil.desc": "&3カンタルコイル&rは重要なアイテムです。これを用いることで、&3EBF&rの温度を&d2700K&rまで上げられるようになります。温度が上がることで、新たなレシピが解禁されるほか、従来の精錬を&e高速&rで行うことが可能となります。詳しくは&aエネルギー&r関連のクエストを参照してください。\n\nなお、複数種類のコイルを混ぜて使うことは不可能です。",
+    "quests.medium_voltage.mv_kanthal_coil.desc": "&3カンタルコイル&rは重要なアイテムです。これを用いることで、&3EBF&rの温度を&d2700K&rまで上げられるようになります。温度が上がることで、新たなレシピが解禁されるほか、従来の精錬を&e高速&rで行うことが可能となります。詳しくは&a「GregTechの電力システム」&rのクエストを参照してください。\n\nなお、複数種類のコイルを混ぜて使うことは不可能です。",
 
     "quests.medium_voltage.mv_kanthal_ingot.title": "カンタル",
     "quests.medium_voltage.mv_kanthal_ingot.subtitle": "今、カンタルがアツい！",

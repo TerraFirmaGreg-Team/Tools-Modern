@@ -10,7 +10,7 @@
 	"item.gtceu.tiny_thermochemically_treated_hardwood_dust": "極小の熱処理済み堅木のパルプ",
 	"item.gtceu.small_thermochemically_treated_hardwood_dust": "小さな熱処理済み堅木のパルプ",
 	"item.gtceu.thermochemically_treated_hardwood_dust": "熱処理済み堅木のパルプ",
-	"item.gtceu.tool.behavior.canoe_creator": "§5Boater: §fCan Create Canoes",
+	"item.gtceu.tool.behavior.canoe_creator": "§5船乗り: §fカヌーを作ることができる",
 
 	"item.gtceu.deepslate_dust": "混成岩の粉",
 	"item.gtceu.small_deepslate_dust": "小さな混成岩の粉",
@@ -61,6 +61,9 @@
 
 	"item.gtceu.wood_plate": "繊維板",
 
+	"item.gtceu.salt_dust": "塩",
+	"item.gtceu.small_salt_dust": "小さな塩",
+	"item.gtceu.tiny_salt_dust": "極小の塩",
 	"item.gtceu.chipped_salt_gem": "欠けた塩の結晶",
 	"item.gtceu.flawed_salt_gem": "傷のある塩の結晶",
 	"item.gtceu.salt_gem": "塩の結晶",

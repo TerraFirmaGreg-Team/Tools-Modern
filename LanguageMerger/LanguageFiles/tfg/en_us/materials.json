@@ -202,5 +202,13 @@
 
 	"material.tfg.chloroplasts": "Chloroplasts",
 	"material.tfg.nitrate_rich_water": "Nitrate Rich Water",
-	"material.tfg.nitrate_rich_semiheavy_ammoniacal_water": "Nitrate Rich Semiheavy Ammoniacal Water"
+	"material.tfg.nitrate_rich_semiheavy_ammoniacal_water": "Nitrate Rich Semiheavy Ammoniacal Water",
+
+	"material.tfg.weak_red_steel": "Weak Red Steel",
+	"material.tfg.weak_blue_steel": "Weak Blue Steel",
+	"material.tfg.refractory_clay": "Refractory Clay",
+	"material.tfg.bakelite": "Bakelite",
+	"material.tfg.phenolic_resin": "Phenolic Resin",
+	"material.tfg.magnesium_hydroxide": "Magnesium Hydroxide",
+	"material.tfg.magnesia_refractory_brick": "Resin-Bonded Magnesia Refractory Brick"
 }

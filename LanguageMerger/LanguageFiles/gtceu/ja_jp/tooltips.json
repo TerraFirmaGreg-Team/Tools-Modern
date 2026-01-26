@@ -1,0 +1,19 @@
+{
+    "gtceu.tooltip.machine.moon_dust_harvester_1": "§7吸引力の変わらない、ただ一つの収集機§r",
+    "gtceu.tooltip.machine.moon_dust_harvester_2": "§7設置したバイオームに応じて、さまざまな岩屑の粉を無限に収集します。§r",
+    "gtceu.tooltip.machine.ostrum_harvester_1": "§7ここ掘れワンワン！§r",
+    "gtceu.tooltip.machine.ostrum_harvester_2": "§7オストラムの混じった砂の上に設置すれば、オストラムの粉を無限に収集してくれます。§r",
+    "gtceu.tooltip.machine.ostrum_harvester_3": "§7稼働には採掘油が必要です。§r",
+    "gtceu.tooltip.machine.ostrum_linear_accelerator_1": "§7ヒッグス粒子は関係なし§r",
+    "gtceu.tooltip.machine.ostrum_linear_accelerator_2": "§7オストラムを粉塵にまで砕き、様々な鉱石を生産します。核分裂ラインからの生産物を必要とします。§r",
+    "gtceu.tooltip.machine.heat_exchanger_1": "§7高温の液体による液体の加熱に§r",
+    "gtceu.tooltip.machine.heat_exchanger_2": "§7一方の液体の熱をもう一方の液体に送ります。§r",
+    "gtceu.tooltip.machine.nuclear_fuel_factory_1": "§7危険な熱い棒§r",
+    "gtceu.tooltip.machine.nuclear_fuel_factory_2": "§7放射性物質を燃料棒に加工します。§r",
+    "gtceu.tooltip.machine.steam_bloomery_1": "§7塊鉄炉を蒸気の力でアップグレードしよう！§r",
+    "gtceu.tooltip.machine.steam_bloomery_2": "§7鉄系の粉もしくはインゴットを塊鉄に加工します。§r",
+    "gtceu.tooltip.machine.steam_bloomery_3": "§7コークスか無煙炭を燃料にすると生産速度が2倍になります。§r",
+    "gtceu.tooltip.machine.steam_parallel": "§7一度に最大8つのレシピを実行でき、その分多くの蒸気が必要になります。§r",
+    "gtceu.tooltip.machine.coal_liquefaction_tower_1": "§7昇華塔でもある§r",
+    "gtceu.tooltip.machine.coal_liquefaction_tower_2": "§7炭素系固形物からガスと液体を抽出します。§r"
+}

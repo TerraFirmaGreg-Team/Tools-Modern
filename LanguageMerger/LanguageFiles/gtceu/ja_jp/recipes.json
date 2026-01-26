@@ -1,0 +1,26 @@
+{
+	"__comment1": "these are used for recipes",
+
+    "gtceu.greenhouse": "電気温室",
+    "gtceu.steam_bloomery": "蒸気式塊鉄炉",
+    "gtceu.food_oven": "電気オーブン",
+    "gtceu.food_processor": "自動調理",
+    "gtceu.large_solar_panel": "大型ソーラーアレイMK I",
+    "gtceu.large_solar_panel_tier2": "大型ソーラーアレイMK II",
+    "gtceu.large_solar_panel_tier3": "大型ソーラーアレイMK III",
+    "gtceu.gas_pressurizer": "ガス圧縮機",
+    "gtceu.nuclear_fuel_factory": "核燃料形成機",
+    "gtceu.nuclear_turbine": "原子力蒸気タービン",
+    "gtceu.heat_exchanger": "熱交換機",
+    "gtceu.fission_reactor": "核分裂炉",
+    "gtceu.evaporation_tower": "蒸発塔",
+    "gtceu.ostrum_harvester": "オストラムハーベスター",
+    "gtceu.moon_dust_harvester": "ムーンハーベスター",
+    "gtceu.ostrum_linear_accelerator": "オストラムリニアアクセラレーター",
+    "gtceu.bioreactor": "Bioreactor",
+    "gtceu.growth_chamber": "Growth Chamber",
+    "gtceu.coal_liquefaction_tower": "液化塔",
+	"gtceu.smr_generator": "Small Modular Turbine",
+	"gtceu.hydroponics_facility": "水耕栽培施設",
+	"gtceu.pisciculture_fishery": "養殖場"
+}

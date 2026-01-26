@@ -190,6 +190,7 @@
     "tfg.tooltip.hotornot_hot_equipment": "§7Provides protection from all §6hot§7 items, fluids, and pipes.§r",
     "tfg.tooltip.hotornot_cold_equipment": "§7Provides protection from all §bcold§7 items, fluids, and pipes.§r",
     "tfg.tooltip.hotornot_floating_equipment": "§7Provides protection from all §elighter-than-air§7 gases.§r",
+    "tfg.tooltip.polycaprolactam": "Also known as Nylon",
 
     "tfg.tooltip.machine.one_energy_hatch": "Accepts exactly §6One§r Energy Hatch.",
     "tfg.tooltip.machine.two_energy_hatches": "Accepts up to §6Two§r Energy Hatches.",
@@ -248,6 +249,10 @@
 
     "tfg.tooltip.component.smr_generator_1": "§eBase Production:§r 4096 EU/t",
     "tfg.tooltip.component.smr_generator_2": "Dedicated to produce power from sCO2 and the Small Modular Reactor.\n Use Lubricant and Booster to increase its efficiency and manage the cooling loop of the SMR.",
+
+    "tfg.tooltip.show_recipes": "Show Recipes",
+
+    "emi.category.tfg.artisan_table": "Artisan Table",
 
     "tfg.gui.refrigerator.unify_dates.enabled": "Expiration Date Unification is: §aOn",
     "tfg.gui.refrigerator.unify_dates.disabled": "Expiration Date Unification is: §cOff",

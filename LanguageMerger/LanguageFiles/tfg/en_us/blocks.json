@@ -823,5 +823,8 @@
 	"block.tfg.moderate_core": "Moderate Core",
 	"block.tfg.impure_moderate_core": "Impure Moderate Core",
 	"block.tfg.moderate_core_frame": "Moderate Core Frame",
-	"block.tfg.impure_moderate_core_frame": "Impure Moderate Core Frame"
+	"block.tfg.impure_moderate_core_frame": "Impure Moderate Core Frame",
+
+	"tfg.block_entity.artisan_table": "Artisan Table",
+	"block.tfg.artisan_table": "Artisan Table"
 }

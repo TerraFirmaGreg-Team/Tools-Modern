@@ -7,6 +7,10 @@
 	"__comment1": "Sorry GT, big bang theory doesn't count as a scifi reference",
 
 	"material.gtceu.cooperite": "クーパー鉱",
+	"material.gtceu.rock_salt": "カリ岩塩",
+	"material.gtceu.salt": "岩塩",
+	"material.gtceu.quartzite": "クォーツ",
+
 	"material.gtceu.armalcolite": "アーマルコライト",
 	"material.gtceu.desh": "デッシュ",
 	"material.gtceu.ostrum": "オストラム",
@@ -15,7 +19,7 @@
 
 	"material.gtceu.tarkianite": "タキアン鉱",
 	"material.gtceu.thorium": "トリアナイト",
-
+	"material.gtceu.dimethylbenzene": "キシレン",
 
 	"material.gtceu.aluminium_silicate": "ケイ酸アルミニウム",
 
