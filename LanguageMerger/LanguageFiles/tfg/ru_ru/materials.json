@@ -202,6 +202,14 @@
 
     "material.tfg.chloroplasts": "Хлоропласты",
 	"material.tfg.nitrate_rich_water": "Нитратный раствор",
-	"material.tfg.nitrate_rich_semiheavy_ammoniacal_water": "Полутяжёлый нитратно-аммиачный раствор"
+	"material.tfg.nitrate_rich_semiheavy_ammoniacal_water": "Полутяжёлый нитратно-аммиачный раствор",
+    
+	"material.tfg.weak_red_steel": "Сырая красная сталь",
+	"material.tfg.weak_blue_steel": "Сырая синяя сталь",
+	"material.tfg.refractory_clay": "Огнеупорная глина",
+	"material.tfg.bakelite": "Бакелит",
+	"material.tfg.phenolic_resin": "Фенольная смола",
+	"material.tfg.magnesium_hydroxide": "Гидроксид магния",
+	"material.tfg.magnesia_refractory_brick": "Склеенный смолой магнезиальный огнеупорный кирпич"
 }
 
