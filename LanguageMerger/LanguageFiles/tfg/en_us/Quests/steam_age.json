@@ -12,7 +12,8 @@
 
 	"quests.steam_age.basic_millstone.title": "Automatic Ore Processing",
 	"quests.steam_age.basic_millstone.subtitle": "No more querning",
-	"quests.steam_age.basic_millstone.desc": "The &3Millstone&r is an automatic version of the Quern. You can throw whatever you'd like into the top, and then right-click to take your crushed items back out. It's pretty slow if you connect it directly to your Animal Crank, but you can use gear ratios to increase its speed.\n\nYou will only receive the output in the first slot. The other slots are part of a GregTech mechanic that won't be relevant until much later (&6HV&r).",
+	"quests.steam_age.basic_millstone.desc.1": "The &3Millstone&r is an automatic version of the Quern. You can throw whatever you'd like into the top, and then right-click to take your crushed items back out. It's pretty slow if you connect it directly to your Animal Crank, but you can use gear ratios to increase its speed.\n\nYou will only receive the output in the first slot. The other slots are part of a GregTech mechanic that won't be relevant until much later (&6HV&r).",
+	"quests.steam_age.basic_millstone.desc.2": "&l&3Lore:&r&o The millstone can't be used to process grains into flour because Create doesn't understand TFC's food expiry system, which previously led to all sorts of bugs involving rotten items becoming fresh and vice versa. Until you're able to get the Food Processor in &7LV&r, you can still crush your grains via a Mortar in a crafting grid.",
 
 	"quests.steam_age.horse_crank.title": "Your First Power Source",
 	"quests.steam_age.horse_crank.subtitle": "Make your livestock pay rent",
@@ -262,7 +263,7 @@
 
 	"quests.steam_age.steel_mixer.title": "Steel Mechanical Mixer",
 	"quests.steam_age.steel_mixer.subtitle": "An earlier LV Mixer",
-	"quests.steam_age.steel_mixer.desc": "The &3Steel Mechanical Mixer&r is the other best steam age machine you can make -- it can mix together your colored steel dusts at a much more efficient rate than the Crucible! It can do a large number of other recipes too, including some that involve gases... don't think about it too much.\n\nYou can use either a Charcoal Forge or a Blaze Burner for the recipes that require heating, and a Mechanical Arm can automatically refuel either.",
+	"quests.steam_age.steel_mixer.desc": "The &3Steel Mechanical Mixer&r is the other best steam age machine you can make -- it can mix together your black steel dusts at a much more efficient rate than the Crucible! Unfortunately, it can't make red or blue steel dusts directly, but it can make their &aweak versions&r.\n\nIt can do a large number of other recipes too, including some that involve gases... don't think about it too much.\n\nYou can use either a Charcoal Forge or a Blaze Burner for the recipes that require heating, and a Mechanical Arm can automatically refuel either.",
 
 	"quests.steam_age.potin.title": "Potin Seller...",
 	"quests.steam_age.potin.subtitle": "...I'm going into battle, and I need only your finest Potin.",
@@ -288,7 +289,7 @@
 
 	"quests.steam_age.alternator.title": "Alternators",
 	"quests.steam_age.alternator.subtitle": "Turning stress into power",
-	"quests.steam_age.alternator.desc.1": "If you've got a big steam age set up, you probably don't want to immediately scrap it all just to go back to some boilers and LV Steam Turbines. Instead, the &3Alternator&r will convert the SU from your steam engines into electricity. Each steam engine + alternator should give you 1A of LV!\n\nUnfortunately, alternators convert stress into a different electricity system (Forge Energy) than the one GregTech uses (Energy Units), so you'll need an Energy Converter to turn it into usable LV energy. Be sure to hit it with a Soft Mallet to convert it to FE to EU mode.",
+	"quests.steam_age.alternator.desc.1": "If you've got a big steam age set up, you probably don't want to immediately scrap it all just to go back to some boilers and LV Steam Turbines. Instead, the &3Alternator&r will convert the SU from your steam engines into electricity. Each steam engine + alternator should give you 1A of &7LV&r!\n\nUnfortunately, alternators convert stress into a different electricity system (Forge Energy) than the one GregTech uses (Energy Units), so you'll need an Energy Converter to turn it into usable &7LV&r energy. Be sure to hit it with a Soft Mallet to convert it to &aFE to EU&r mode.",
 	"quests.steam_age.alternator.desc.2": "An example of a steam engine producing 8 amps of LV!\n",
 
 	"quests.steam_age.packager.title": "Create Logistics",
