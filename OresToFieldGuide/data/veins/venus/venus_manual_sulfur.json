@@ -34,7 +34,10 @@
 	],
 	"indicator": {
 		"rarity": 20,
-		"depth": 30
+		"depth": 30,
+		"blocks": [
+
+		]
 	},
 	"translations": [
 		{

@@ -544,7 +544,7 @@ namespace OresToFieldGuide
 				{
 					foreach (var existingPath in Directory.EnumerateFiles(configuredVeinDir))
 					{
-						if (veins.Any(v => v.ID == Path.GetFileNameWithoutExtension(existingPath) && v.VisualOnly == true))
+						if (veins.Any(v => v.ID == Path.GetFileNameWithoutExtension(existingPath)))
 							continue;
 
 						File.Delete(existingPath);
@@ -557,9 +557,6 @@ namespace OresToFieldGuide
 
 				foreach (var vein in veins)
 				{
-					if (vein.VisualOnly == true)
-						continue;
-
 					var feature = new VeinConfiguredFeature(vein, m_rockDict, m_oreDict);
 					string json = JsonSerializer.Serialize(feature, m_jsonOptions);
 					File.WriteAllText(Path.Combine(configuredVeinDir, vein.ID + ".json"), json);
