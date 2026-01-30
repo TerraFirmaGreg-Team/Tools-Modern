@@ -38,6 +38,10 @@
 
     "entity.tfg.rnr_plow": "Тележка для мощения",
 
+    "entity.tfg.tier_1_double_rocket": "Лёгкая двухместная ракета R (алюмосталь)",
+    "entity.tfg.tier_2_double_rocket": "Прочная двухместная ракета ASM 4914 (титан)",
+    "entity.tfg.tier_3_double_rocket": "Тяжёлая двухместная ракета 45-Ti (вольфрамосталь)",
+
     "effect.tfg.cooling": "§bОхлаждение",
     "effect.tfg.warming": "§6Согревание",
     "effect.tfg.instant_radiation": "Мгновенное радиоактивное излучение",
