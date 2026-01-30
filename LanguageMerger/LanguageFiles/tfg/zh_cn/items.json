@@ -382,5 +382,8 @@
     "item.tfg.fish_roe": "%s鱼卵",
     "item.tfg.rotten_voiding_cover": "腐烂物销毁覆盖板",
     "item.tfg.flora_pellets": "植物颗粒",
-    "item.tfg.magnesia_refractory_brick_ingot": "树脂结合镁质耐火砖"
+    "item.tfg.magnesia_refractory_brick_ingot": "树脂结合镁质耐火砖",
+    "item.tfg.tier_1_double_rocket": "R型铝钢双人火箭",
+    "item.tfg.tier_2_double_rocket": "ASM 4914 钛合金双人火箭",
+    "item.tfg.tier_3_double_rocket": "45-Ti 钨钢双人火箭"
 }
