@@ -5,7 +5,7 @@
 	"config": {
 		"rarity": 370,
 		"density": 0.3,
-		"min_y": -20,
+		"min_y": -30,
 		"max_y": 0,
 		"size": 60
 	},
@@ -29,15 +29,10 @@
 		}
 	],
 	"rocks": [
-		"mars_stone",
-		"venus_stone",
 		"red_granite",
+		"gabbro",
 		"diorite",
-		"conglomerate",
-		"chert",
-		"chalk",
-		"basalt",
-		"dacite"
+		"granite"
 	],
 	"translations": [
 		{

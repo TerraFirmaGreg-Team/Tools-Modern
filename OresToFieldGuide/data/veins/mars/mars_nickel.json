@@ -37,7 +37,8 @@
 		"limestone",
 		"chalk",
 		"basalt",
-		"dacite"
+		"dacite",
+		"quartzite"
 	],
 	"indicator": {
 		"rarity": 15,

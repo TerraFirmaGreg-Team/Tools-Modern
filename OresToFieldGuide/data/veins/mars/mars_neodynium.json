@@ -36,7 +36,8 @@
 		"dolomite",
 		"chert",
 		"chalk",
-		"basalt"
+		"basalt",
+		"quartzite"
 	],
 	"indicator": {
 		"rarity": 20,
