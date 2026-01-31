@@ -222,5 +222,7 @@
 	"material.tfg.bakelite": "Bakelite",
 	"material.tfg.phenolic_resin": "Phenolic Resin",
 	"material.tfg.magnesium_hydroxide": "Magnesium Hydroxide",
-	"material.tfg.magnesia_refractory_brick": "Resin-Bonded Magnesia Refractory Brick"
+	"material.tfg.magnesia_refractory_brick": "Resin-Bonded Magnesia Refractory Brick",
+
+	"material.tfg.nichromium_iodomethylate": "Nichromium Iodomethylate"
 }

@@ -326,5 +326,9 @@
 
     "quests.medium_voltage.stainless_greate.title": "Stainless Steel-tier Greate",
     "quests.medium_voltage.stainless_greate.subtitle": "High Stress",
-    "quests.medium_voltage.stainless_greate.desc": "This quest is just here to let you know that Greate has another upgrade at this point.\n\nYou may find the next tier of Crushing Wheels useful, as they can give the full amount of byproducts, just like the HV Macerator, but also process multiple items at the same time!"
+    "quests.medium_voltage.stainless_greate.desc": "This quest is just here to let you know that Greate has another upgrade at this point.\n\nYou may find the next tier of Crushing Wheels useful, as they can give the full amount of byproducts, just like the HV Macerator, but also process multiple items at the same time!",
+
+    "quests.medium_voltage.terminal_dismantler.title": "Dismantler Terminal",
+    "quests.medium_voltage.terminal_dismantler.subtitle": "When your wrench isn't fast enough",
+    "quests.medium_voltage.terminal_dismantler.desc": "The &8Dismantler&r is an amazing tool, allowing you to dismantle your multiblocks instantly by simply shift-right-clicking the controller, though be wary that the Multiblock must be fully formed to be completely dismantled."
 }
