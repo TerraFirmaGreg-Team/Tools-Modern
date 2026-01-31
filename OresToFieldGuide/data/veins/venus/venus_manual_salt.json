@@ -39,7 +39,33 @@
 	],
 	"indicator": {
 		"rarity": 20,
-		"depth": 30
+		"depth": 30,
+		"blocks": [
+			{
+				"block": "gtceu:rock_salt_indicator",
+				"weight": 5
+			},
+			{
+				"block": "gtceu:rock_salt_bud_indicator",
+				"weight": 5
+			},
+			{
+				"block": "gtceu:salt_indicator",
+				"weight": 40
+			},
+			{
+				"block": "gtceu:salt_bud_indicator",
+				"weight": 40
+			},
+			{
+				"block": "gtceu:lepidolite_indicator",
+				"weight": 5
+			},
+			{
+				"block": "gtceu:spodumene_indicator",
+				"weight": 5
+			}
+		]
 	},
 	"translations": [
 		{

@@ -4,6 +4,8 @@
     "material.tfg.vulcanized_latex": "Вулканизированный латекс",
     "material.tfg.fluix": "Флюис",
     "material.tfg.conifer_pitch": "Хвойная смола",
+	"material.tfg.pyrogallol": "Пирогаллол",
+
 
     "material.gtceu.lactose": "Лактоза",
 
@@ -203,7 +205,7 @@
     "material.tfg.chloroplasts": "Хлоропласты",
 	"material.tfg.nitrate_rich_water": "Нитратный раствор",
 	"material.tfg.nitrate_rich_semiheavy_ammoniacal_water": "Полутяжёлый нитратно-аммиачный раствор",
-    
+
 	"material.tfg.weak_red_steel": "Сырая красная сталь",
 	"material.tfg.weak_blue_steel": "Сырая синяя сталь",
 	"material.tfg.refractory_clay": "Огнеупорная глина",
@@ -212,4 +214,3 @@
 	"material.tfg.magnesium_hydroxide": "Гидроксид магния",
 	"material.tfg.magnesia_refractory_brick": "Склеенный смолой магнезиальный огнеупорный кирпич"
 }
-

@@ -176,5 +176,12 @@
     "material.tfg.sodium_aluminium": "铝钠合金",
     "material.tfg.chloroplasts": "叶绿体",
     "material.tfg.nitrate_rich_water": "富硝酸水",
-    "material.tfg.nitrate_rich_semiheavy_ammoniacal_water": "富硝酸半重氨水"
+    "material.tfg.nitrate_rich_semiheavy_ammoniacal_water": "富硝酸半重氨水",
+    "material.tfg.weak_red_steel": "脆红钢",
+    "material.tfg.weak_blue_steel": "脆蓝钢",
+    "material.tfg.refractory_clay": "耐火黏土",
+    "material.tfg.bakelite": "电木",
+    "material.tfg.phenolic_resin": "酚醛树脂",
+    "material.tfg.magnesium_hydroxide": "氢氧化镁",
+    "material.tfg.magnesia_refractory_brick": "树脂结合镁质耐火砖"
 }
