@@ -424,5 +424,9 @@
     "item.tfg.rotten_voiding_cover": "Rotten Voiding Cover",
     "item.tfg.flora_pellets": "Flora Pellets",
 
-    "item.tfg.magnesia_refractory_brick_ingot": "Resin-Bonded Magnesia Refractory Brick"
+    "item.tfg.magnesia_refractory_brick_ingot": "Resin-Bonded Magnesia Refractory Brick",
+
+    "item.tfg.tier_1_double_rocket": "R-Aluminosteel Two-Person Rocket",
+    "item.tfg.tier_2_double_rocket": "ASM 4914 Titanium Two-Person Rocket",
+    "item.tfg.tier_3_double_rocket": "45-Ti Tungstensteel Two-Person Rocket"
 }

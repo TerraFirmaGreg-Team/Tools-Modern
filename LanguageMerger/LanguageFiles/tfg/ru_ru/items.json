@@ -59,22 +59,18 @@
 
     "item.tfg.brick.deepslate": "Мигматитовый кирпич",
     "item.tfg.brick.dripstone": "Травертиновый кирпич",
-    "item.tfg.loose.moon_stone": "Камешек анортозита",
     "item.tfg.brick.moon_stone": "Анортозитовый кирпич",
-    "item.tfg.loose.moon_deepslate": "Камешек норита",
     "item.tfg.brick.moon_deepslate": "Норитовый кирпич",
-    "item.tfg.loose.mars_stone": "Камешек аргиллита",
     "item.tfg.brick.mars_stone": "Аргиллитовый кирпич",
-    "item.tfg.loose.venus_stone": "Камушек трахита",
     "item.tfg.brick.venus_stone": "Трахитовый кирпич",
-    "item.tfg.loose.mercury_stone": "Камушек коматиита",
     "item.tfg.brick.mercury_stone": "Коматиитовый кирпич",
-    "item.tfg.loose.glacio_stone": "Камушек фонолита",
     "item.tfg.brick.glacio_stone": "Фонолитовый кирпич",
-    "item.tfg.loose.permafrost": "Permafrost Chunk",
     "item.tfg.brick.permafrost": "Кирпич вечной мерзлоты",
-    "item.tfg.loose.red_granite": "Камушек красного гранита",
     "item.tfg.brick.red_granite": "Кирпич красного гранита",
+    "item.tfg.brick.sandy_jadestone": "Лампроитовый кирпич",
+    "item.tfg.brick.flavolite": "Игнимбритовый кирпич",
+    "item.tfg.brick.scoria": "Кирпич из пепла",
+    "item.tfg.brick.scorchia": "Кирпич из тёмного пепла",
 
     "item.tfg.terra_firma_greg": "TerraFirmaGreg",
 
@@ -423,7 +419,12 @@
 
     "item.tfg.fish_roe": "Икра %s",
     "item.tfg.rotten_voiding_cover": "Удаление гнили(Улучшение)",
-    "item.tfg.flora_pellets": "Растительные гранулы"
+    "item.tfg.flora_pellets": "Растительные гранулы",
+
+    "item.tfg.magnesia_refractory_brick_ingot": "Склеенный смолой магнезиальный огнеупорный кирпич",
+
+    "item.tfg.tier_1_double_rocket": "Лёгкая двухместная ракета R (алюмосталь)",
+    "item.tfg.tier_2_double_rocket": "Прочная двухместная ракета ASM 4914 (титан)",
+    "item.tfg.tier_3_double_rocket": "Тяжёлая двухместная ракета 45-Ti (вольфрамосталь)"
+
 }
-
-
