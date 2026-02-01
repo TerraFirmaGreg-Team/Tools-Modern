@@ -37,7 +37,8 @@
 		"claystone",
 		"limestone",
 		"chert",
-		"chalk"
+		"chalk",
+		"quartzite"
 	],
 	"indicator": {
 		"rarity": 20,

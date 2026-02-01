@@ -195,6 +195,7 @@
     "tfg.tooltip.hotornot_cold_equipment": "§7Provides protection from all §bcold§7 items, fluids, and pipes.§r",
     "tfg.tooltip.hotornot_floating_equipment": "§7Provides protection from all §elighter-than-air§7 gases.§r",
     "tfg.tooltip.polycaprolactam": "Also known as Nylon",
+    "tfg.tooltip.vessel_warning": "§cHeating an overfilled vessel will void any overflow and may ruin your alloying!§r",
 
     "tfg.tooltip.machine.one_energy_hatch": "Accepts exactly §6One§r Energy Hatch.",
     "tfg.tooltip.machine.two_energy_hatches": "Accepts up to §6Two§r Energy Hatches.",

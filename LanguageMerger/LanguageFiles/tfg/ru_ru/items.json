@@ -421,6 +421,10 @@
     "item.tfg.rotten_voiding_cover": "Удаление гнили(Улучшение)",
     "item.tfg.flora_pellets": "Растительные гранулы",
 
-    "item.tfg.magnesia_refractory_brick_ingot": "Склеенный смолой магнезиальный огнеупорный кирпич"
+    "item.tfg.magnesia_refractory_brick_ingot": "Склеенный смолой магнезиальный огнеупорный кирпич",
+
+    "item.tfg.tier_1_double_rocket": "Лёгкая двухместная ракета R (алюмосталь)",
+    "item.tfg.tier_2_double_rocket": "Прочная двухместная ракета ASM 4914 (титан)",
+    "item.tfg.tier_3_double_rocket": "Тяжёлая двухместная ракета 45-Ti (вольфрамосталь)"
 
 }

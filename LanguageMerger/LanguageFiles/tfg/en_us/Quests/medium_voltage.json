@@ -22,7 +22,7 @@
 
     "quests.medium_voltage.electrolyzer.title": "MV Electrolyzer",
     "quests.medium_voltage.electrolyzer.subtitle": "We made it to MV, and, well...",
-    "quests.medium_voltage.electrolyzer.desc.1": "&bThis one should look familiar&r—you’ve seen it before.\n&2We highly recommend crafting it as soon as possible,&r as it will unlock a wide range of new &7Aluminium&r sources.\n\nUntil now, your only method was &9electrolyzing Sapphire&r to obtain &7Aluminium Dust&r.\nBut with the &bMV&r Electrolyzer, a whole new world of resources opens up.",
+    "quests.medium_voltage.electrolyzer.desc.1": "&bThis one should look familiar&r—you’ve seen it before.\n&2We highly recommend crafting it as soon as possible,&r as it will unlock a wide range of new &7Aluminium&r sources.\n\nUntil now, you were limited to electrolyzing Sapphire or ore processing byproducts to obtain &7Aluminium Dust&r.\nBut with the &bMV&r Electrolyzer, a whole new world of resources opens up.",
     "quests.medium_voltage.electrolyzer.desc.2": "&6Here are some key materials to look for:&r\n&9Ruby&r – Grants both &7Aluminium&r and &5Chromium&r.\n&9Pyrope&r – Often found alongside Sapphire veins.\n&9Lepidolite&r – Offers a generous selection of valuable byproducts.\n&9Sodalite&r – Comes with &3Chlorine&r and &bSilicon&r.\n&9Topaz&r – Yields both &3Fluorine&r and &7Aluminium&r in solid quantities.\n\n&2And that’s just the beginning!&r Use &aEMI&r to explore even more options—we promise, there’s a lot to discover.\n\n&cOh, and by the way:&r Electrolyzing Clay is now gated behind &6HV&r. \n&7We’re not sorry.&r",
 
     "quests.medium_voltage.mv_extruder.title": "Advanced Extruder",

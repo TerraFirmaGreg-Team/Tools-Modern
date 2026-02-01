@@ -45,7 +45,8 @@
 		"limestone",
 		"conglomerate",
 		"dolomite",
-		"dacite"
+		"dacite",
+		"quartzite"
 	],
 	"indicator": {
 		"rarity": 20,
