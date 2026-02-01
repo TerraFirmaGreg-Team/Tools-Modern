@@ -40,7 +40,7 @@
 
     "quests.metal_age.toolbelt.title": "Toolbelt",
     "quests.metal_age.toolbelt.subtitle": "Free up your inventory!",
-    "quests.metal_age.toolbelt.desc": "Put one of these in your &6Belt Slot&r and you'll free up a whole row of your inventory!\n\nYou can swap tools at any time by pressing the &aSwap Tool&r (default: X) keybind to open a radial menu.",
+    "quests.metal_age.toolbelt.desc": "Put one of these in your &6Belt Slot&r and you'll free up a whole row of your inventory!\n\nYou can swap tools at any time by pressing the &aSwap Tool&r (default: X) keybind to open a radial menu.\n\nToolbelts can be upgraded with eight pouches to hold 9 items total.",
 
     "quests.metal_age.coke_oven.title": "Coke Oven",
     "quests.metal_age.coke_oven.subtitle": "Finally, No More Charcoal Piles",
