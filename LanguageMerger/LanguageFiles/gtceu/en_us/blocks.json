@@ -42,5 +42,8 @@
     "block.tfg.growth_chamber": "Growth Chamber",
     "block.tfg.single_itemstack_bus": "Limiting Input Bus",
     "block.tfg.hydroponics_facility": "Hydroponics Facility",
-    "block.tfg.pisciculture_fishery": "Pisciculture Fishery"
+    "block.tfg.pisciculture_fishery": "Pisciculture Fishery",
+
+    "__comment1": "these are used for recipes"
+
 }

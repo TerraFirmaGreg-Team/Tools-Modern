@@ -815,6 +815,7 @@
 
 	"block.tfg.smr_generator": "Small Modular Turbine",
 	"block.tfg.casings.machine_casing_desh_ptfe": "Radiation-Safe Desh Casing",
+	"block.tfg.uv_smr_fluid_import_hatch": "SMT Input Hatch",
 
 	"block.tfg.growth_monitor": "Growth Monitor",
 	"block.tfg.sample_rack": "Sample Rack",
@@ -825,6 +826,7 @@
 	"block.tfg.moderate_core_frame": "Moderate Core Frame",
 	"block.tfg.impure_moderate_core_frame": "Impure Moderate Core Frame",
 
+	"block.tfg.heat_battery_mk1": "Heat Battery",
 	"tfg.block_entity.artisan_table": "Artisan Table",
 	"block.tfg.artisan_table": "Artisan Table"
 }

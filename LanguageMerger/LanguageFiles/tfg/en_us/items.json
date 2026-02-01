@@ -348,10 +348,12 @@
     "item.tfg.stainless_steel_needle": "Stainless Steel Needle",
 
     "item.tfg.empty_rod": "Empty Fissile Fuel Rod",
+    "item.tfg.empty_rod_t2": "Empty Beryllium Fissile Fuel Rod",
+    "item.tfg.empty_rod_t3": "Empty Zirconium Fissile Fuel Rod",
     "item.tfg.thorium_rod": "Thorium Fuel Rod",
     "item.tfg.uranium_rod": "Uranium Fuel Rod",
     "item.tfg.plutonium_rod": "Plutonium Fuel Rod",
-    "item.tfg.tbu_232_rod": "TBU-232 Fuel Rod",
+    "item.tfg.tbu_232_rod": "T-Rod Fuel",
     "item.tfg.refrigerant_pellet": "Refrigerant Pellet",
     "item.tfg.graphite_compound": "Graphite Compound",
     "item.tfg.raw_graphite_briquette": "Raw Graphite Briquette",

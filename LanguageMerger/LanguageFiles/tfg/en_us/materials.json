@@ -85,6 +85,7 @@
 	"material.tfg.soaked_silica_gel": "Acetone Soaked Silica Gel",
 
 	"material.tfg.heavy_water": "Heavy Water",
+	"material.tfg.warm_water": "Warm Water",
 	"material.tfg.semiheavy_water": "Semiheavy Water",
 	"material.tfg.nuclear_residue": "Nuclear Residue",
 	"material.tfg.oxidized_nuclear_residue": "Oxidized Nuclear Residue",
@@ -158,6 +159,7 @@
 	"material.tfg.americium_241": "Americium 241",
 	"material.tfg.californium_252": "Californium 252",
 	"material.tfg.neptunium_237": "Neptunium 237",
+	"material.tfg.tbu_waste": "T Waste",
 	"material.tfg.mixed_radioactive_fluid": "Mixed Radioactive Fluid",
 	"material.tfg.degraded_solvent_stream": "Degraded Solvent Stream",
 	"material.tfg.boron_enriched_coolant": "Boron Enriched Coolant",
@@ -169,10 +171,20 @@
 	"material.tfg.residual_sludge": "Residual Sludge",
 	"material.tfg.sodium_fluoride": "Sodium Fluoride",
 	"material.tfg.trace_catalyst_salt_e": "Trace Catalyst Salt E",
-	"material.tfg.copper_trace_catalyst_dust": "Copper Trace Catalyst",
+	"material.tfg.copper_trace_catalyst": "Copper Trace Catalyst",
 	"material.tfg.organic_stabilizer": "Organic Stabilizer",
 	"material.tfg.inert_dust_fraction": "Inert Fraction",
 	"material.tfg.recovered_ionic_complex": "Recovered Ionic Complex",
+	"material.tfg.boron_10_hydroxide": "Boron-10 Hydroxide",
+	"material.tfg.sodium_deuteroxide": "Sodium Deuteroxide",
+	"material.tfg.boron_thrichloride": "Boron Trichloride",
+	"material.tfg.enriched_boron_thrichloride": "Enriched Boron Trichloride",
+	"material.tfg.booster_t3": "NYI",
+	"material.tfg.radioactive_effluent": "Radioactive Effluent",	
+	"material.tfg.high_grade_isotopic_solvent": "High Grade Isotopic Solvent",
+	"material.tfg.degraded_high_grade_isotopic_solvent": "Degraded High Grade Isotopic Solvent",
+	"material.tfg.spent_ticl4_doped_supercritical_co2": "Hot TiCl₄ Doped Supercritical CO₂",
+	"material.tfg.ticl4_doped_supercritical_co2": "TiCl₄ Doped Supercritical CO₂",
 
 	"material.tfg.glucose": "Glucose",
 	"material.tfg.galactose": "Galactose",
@@ -210,5 +222,7 @@
 	"material.tfg.bakelite": "Bakelite",
 	"material.tfg.phenolic_resin": "Phenolic Resin",
 	"material.tfg.magnesium_hydroxide": "Magnesium Hydroxide",
-	"material.tfg.magnesia_refractory_brick": "Resin-Bonded Magnesia Refractory Brick"
+	"material.tfg.magnesia_refractory_brick": "Resin-Bonded Magnesia Refractory Brick",
+
+	"material.tfg.nichromium_iodomethylate": "Nichromium Iodomethylate"
 }
