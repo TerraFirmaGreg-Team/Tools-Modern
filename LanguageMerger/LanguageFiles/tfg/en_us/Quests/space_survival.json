@@ -181,13 +181,23 @@
 
 	"quests.space_survival.soarer.title": "Soarer",
 	"quests.space_survival.soarer.subtitle": "Need a lift?",
-	"quests.space_survival.soarer.desc": "Airplanes don't work on Mars, and your space suit doesn't have a jetpack, so there's no other way to fly, right?\n\nIf you're able to find an elusive &4Soarer&r, you can tame them with raw fish and equip them with a Saddle to glide through the Martian skies with ease.\n\nThey can't fly forever though, indicated by the wing icons on the top left, and will need to land occasionally. Still, they're a great option for long-distance travel, and won't upset the sandworm either!\n\n&9Note&r: Soarers are unable to survive on particularly hot planets such as &6Venus&r.",
+	"quests.space_survival.soarer.desc": "Airplanes don't work on Mars, and your space suit doesn't have a jetpack, so there's no other way to fly, right?\n\nIf you're able to find an elusive &4Soarer&r, you can tame them with Raw Fish and equip them with a Saddle to glide through the Martian skies with ease.\n\nThey can't fly forever though, indicated by the wing icons on the top left, and will need to land occasionally. (You can feed them more Raw Fish to speed up their recovery.)\n\nStill, they're a great option for long-distance travel, and won't upset the sandworm either!\n\n&9Note&r: Soarers are unable to survive on particularly hot planets such as &6Venus&r.",
 	"quests.space_survival.soarer.task": "Find a Soarer",
 
 	"quests.space_survival.surfer.title": "Surfer",
 	"quests.space_survival.surfer.subtitle": "Need a swim?",
 	"quests.space_survival.surfer.desc": "&bSurfers&r can be found in the small bodies of water. You can tame them by sneaking up to them while they're lying on the shore, and feeding them raw fish. Once tamed, you can equip them with a saddle to swim quickly underwater too.\n\nThis doesn't sound particularly useful on Mars, but remember that you can transport entities around through AE2's Spatial Storage Disks, and there will be a certain oceanic icy moon in the future...\n\n&9Note&r: Surfers are unable to survive on particularly hot planets such as &6Venus&r.",
 	"quests.space_survival.surfer.task": "Find a Surfer",
+
+	"quests.space_survival.charger.title": "Charger",
+	"quests.space_survival.charger.subtitle": "Chaaaaaaaaarge!",
+	"quests.space_survival.charger.desc": "&bChargers&r are large green herbivores that can be found roaming around. You can tame them with any Martian crop, but don't feed them &cBeetroot&r...\n\nOnce tamed, you can equip them with a saddle and Armor for some extra defence, hold down Spacebar to charge forward in a straight line (dealing extra damage and knockback), or press the &eSpecial Ability&r keybind (default &9C&r) for a headbutt attack.\n\nFeeding them more Martian crops will restore their health.\n\n&9Note&r: Surfers are unable to survive on particularly hot planets such as &6Venus&r.",
+	"quests.space_survival.charger.task": "Find a Charger",
+
+	"quests.space_survival.snatcher.title": "Snatcher",
+	"quests.space_survival.snatcher.subtitle": "Yoink!",
+	"quests.space_survival.snatcher.desc": "&bSnatchers&r are passive animals that like to steal your stuff! Attack them to retrieve your items, or feed them Raw Fish to tame them.\n\nOnce tamed, you can carry them on your back and equip them with a wooden chest for a little extra inventory space. Press the &eSpecial Ability&r keybind (default &9C&r) to throw them, and they will steal the contents of a nearby chest and bring it to you.\n\nFeeding them more Raw Fish will restore their health.\n\n&9Note&r: Surfers are unable to survive on particularly hot planets such as &6Venus&r.",
+	"quests.space_survival.snatcher.task": "Find a Snatcher",
 
 	"quests.space_survival.sniffer_or_wraptor.title": "Sniffers and Wraptors",
 	"quests.space_survival.sniffer_or_wraptor.subtitle": "Cow and Chicken",
@@ -206,7 +216,7 @@
 
 	"quests.space_survival.aes_insulation.title": "Multi-Layer Insulated Shielding",
 	"quests.space_survival.aes_insulation.subtitle": "Not an ice cream sandwich",
-	"quests.space_survival.aes_insulation.desc": "This may not be used for much at the moment, but it will be a critical component of your &1IV&r rocket in the future.",
+	"quests.space_survival.aes_insulation.desc": "This is used for a few components in &1IV&r.",
 
 	"quests.space_survival.mars_shields.title": "Advanced Shields",
 	"quests.space_survival.mars_shields.subtitle": "Isn't it about time you upgraded your old metal shield?",
