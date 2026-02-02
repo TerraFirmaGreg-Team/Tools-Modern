@@ -300,6 +300,8 @@
     "tfg.emi.bacon_requirement": "Bacon - The Raw Pork must be smoked first",
     "tag.item.tfg.dried_fruit": "Dried Fruit",
 
+    "tfg.clientmessage.spatialioblocked.claimedchunks": "Spatial IO blocked: Region contains chunks claimed by another team",
+  
     "tfg.nuclear.average_heat.text": "Heat: From %s to %s",
     "tfg.nuclear.skip": "",
 
