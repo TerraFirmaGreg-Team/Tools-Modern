@@ -1,14 +1,14 @@
 {
-    "quests.tasktype.checkmark": "Click here to complete this quest/task",
-    "quests.tasktype.item.any": "Any of this item:",
-    "quests.tasktype.lookat": "Look at a:",
-    "quests.tasktype.travelto": "Travel to:",
+    "quests.tasktype.checkmark": "Haz clic aquí para completar esta misión/tarea",
+    "quests.tasktype.item.any": "Cualquiera de este ítem:",
+    "quests.tasktype.lookat": "Mirar un:",
+    "quests.tasktype.travelto": "Viajar a:",
 
-    "quests.groups.primitive": "Primitive Age",
-    "quests.groups.voltaic_age": "Voltaic Age",
-    "quests.groups.space_age": "Space Age",
-    "quests.groups.interstellar": "Interstellar Age",
-    "quests.groups.technological_help": "Technological Help",
-    "quests.groups.tips": "Tips",
-    "quests.groups.space_survival": "Space Survival"
+    "quests.groups.primitive": "Edad Primitiva",
+    "quests.groups.voltaic_age": "Edad Voltaica",
+    "quests.groups.space_age": "Era Espacial",
+    "quests.groups.interstellar": "Edad Interestelar",
+    "quests.groups.technological_help": "Ayuda Tecnológica",
+    "quests.groups.tips": "Consejos",
+    "quests.groups.space_survival": "Supervivencia Espacial"
 }
