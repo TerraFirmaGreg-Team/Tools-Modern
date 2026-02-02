@@ -197,4 +197,5 @@
     "quests.ae2.oversize_interface.desc": "The &dME Oversize Interface&r is a &dME Extended Interface&r but each slot can hold 16x more items or fluids. If you have processes that need huge quantities, this could be your go-to.",
 
     "quests.ae2.assembler_matrix.desc": "The &6Assembler Matrix&r is basically a customizable multiblock Molecular Assembler. The requirements for this quest should let you build one that we deem quite strong enough. You could add more layers of &bPattern Core&r or &aCraft Core&r if you want to.\n\nAs usual, check the in-game guide for detailed informations."
+
 }
