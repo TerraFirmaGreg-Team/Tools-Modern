@@ -1,38 +1,200 @@
 {
-  "quests.ae2": "Applied Energistics 2",
-  "quests.ae2.subtitle": "La herramienta más potente para ayudarte con GregTech, desbloqueada tras tu primer viaje a la Luna",
+    "quests.ae2": "Applied Energistics 2",
+    "quests.ae2.subtitle": "La herramienta más potente para ayudarte con GregTech, desbloqueada tras tu primer viaje a la Luna",
 
-  "__comment2": "Izquierda (inicio)",
+    "__comment2": "Izquierda (primeros pasos)",
 
-  "quests.ae2.certus_quartz.title": "Cuarzo Certus",
-  "quests.ae2.certus_quartz.subtitle": "Un pequeño paso para ti, un gran salto para la logística",
-  "quests.ae2.certus_quartz.desc": "Con tu primer paso en la Luna obtienes acceso a tu primera veta de &bCuarzo Certus&r.\nNo te preocupes, son bastante comunes y deberían ser fáciles de encontrar, aunque contar con un buen prospector de minerales nunca está de más.\n\nYa sea que decidas instalar un minero o extraer manualmente una veta completa, asegúrate de recolectar una buena cantidad, ya que la necesitarás para avanzar en AE2.",
-  "quests.ae2.certus_quartz.task": "Mineral de Cuarzo Certus",
+    "quests.ae2.certus_quartz.title": "Cuarzo Certus",
+    "quests.ae2.certus_quartz.subtitle": "Un pequeño paso para ti, un gran salto para la logística",
+    "quests.ae2.certus_quartz.desc": "Con tu primer paso en la Luna llega el acceso a tu primera veta de &bCuarzo Certus&r.\nNo te preocupes, son bastante comunes y fáciles de localizar, aunque tener un buen Prospector de Menas no vendría mal.\n\nYa sea que decidas instalar un minero o excavar manualmente una veta completa, asegúrate de reunir una gran cantidad, ya que la necesitarás para progresar en AE2.",
+    "quests.ae2.certus_quartz.task": "Mena de Cuarzo Certus",
 
-  "quests.ae2.polarizer.title": "Polarizador",
-  "quests.ae2.polarizer.subtitle": "La redstone no es suficiente",
-  "quests.ae2.polarizer.desc": "Uno de tus recursos principales para Applied Energistics 2 será el &bCuarzo Certus Cargado&r.\n\nPara obtenerlo, en realidad solo existe un método: el Polarizador &6HV&r.\n\nNotarás rápidamente lo lento que es este proceso, por lo que se recomienda encarecidamente dedicar un Polarizador exclusivamente a esta tarea.\n\nPuede parecer caro o intimidante al principio, pero no te preocupes: vale totalmente la pena.\n\nAdemás, recuerda no cargar todo tu Cuarzo Certus.\nNecesitarás algunos sin cargar para objetos como el Núcleo de Aniquilación, así que mantén siempre una pequeña reserva.",
+    "quests.ae2.polarizer.title": "Polarizador",
+    "quests.ae2.polarizer.subtitle": "El Redstone no es suficiente",
+    "quests.ae2.polarizer.desc": "Uno de tus recursos principales para Applied Energistics 2 será el &bCuarzo Certus Cargado&r.\n\nPara obtenerlo, solo hay un método: el Polarizador &6HV&r.\n\nRápidamente notarás cuánto tarda esta receta, así que se recomienda encarecidamente dedicar un Polarizador exclusivamente a esta tarea.\n\nPuede parecer caro o desalentador al principio, pero no te preocupes: vale totalmente la pena.\n\n¡Además, recuerda no cargar todo tu Cuarzo Certus!\nNecesitarás algunos sin cargar para objetos como el Núcleo de Aniquilación, así que mantén siempre una pequeña reserva a mano.",
 
-  "quests.ae2.hv_machines.title": "Los tres mosqueteros",
-  "quests.ae2.hv_machines.subtitle": "¿O eran cuatro?",
-  "quests.ae2.hv_machines.desc": "El &eTamiz&r se utiliza para procesar minerales y aumentar el rendimiento de Cuarzo Certus, Cuarcita, Cuarzo del Nether, Rubí y Armalcolita, todos esenciales para AE2. Alternativamente, puedes fundir los minerales directamente en un Horno si tienes prisa, pero perderás muchos recursos gratuitos.\n\nLa segunda máquina, el &eMezclador&r, es el único método para crear &dCristales Fluix&r (más sobre esto en la siguiente misión). No olvides que también puedes usar el Mezclador de Greate como una máquina de nivel &6HS&r.\n\nEn tercer lugar, el &eGrabador Láser&r puede combinar gemas de menor calidad en Exquisitas, lo que te dará un mejor rendimiento de Fluix.\n\nPor último, ten en cuenta que un &eAutoclave&r puede ayudarte a generar aún más gemas a partir de polvos. Cuando tengas los recursos, fabricar uno te facilitará mucho la vida.",
-  "quests.ae2.hv_machines.task": "¿Greate o GregTech?",
+    "quests.ae2.hv_machines.title": "Los Tres Mosqueteros",
+    "quests.ae2.hv_machines.subtitle": "¿O son cuatro?",
+    "quests.ae2.hv_machines.desc": "El &eTamizador&r (Sifter) se usa en el procesamiento de menas para aumentar el rendimiento de Cuarzo Certus, Cuarcita, Cuarzo del Nether, Rubí y Armalcolita, todos esenciales para AE2. Alternativamente, puedes fundir las menas directamente en un Horno si tienes prisa, pero perderás muchos recursos gratis al hacerlo.\n\nLa segunda máquina, el &eMezclador&r (Mixer), es tu único método para crear &dCristales de Fluix&r (más sobre esto en la siguiente misión). No olvides que también puedes usar el Greate Mixer como una máquina de tier &6HS&r.\n\nEn tercer lugar, un &eGrabador Láser&r puede combinar gemas de menor calidad en gemas Exquisitas, lo que te dará mejores rendimientos de Fluix.\n\nPor último, ten en cuenta que un &eAutoclave&r puede ayudarte a generar aún más gemas a partir de polvos. Una vez que tengas los recursos, fabricar uno te facilitará la vida significativamente.",
+    "quests.ae2.hv_machines.task": "¿Greate o GregTech?",
 
-  "quests.ae2.fluix_crystal.subtitle": "Cristal energético",
-  "quests.ae2.fluix_crystal.desc": "Como puedes ver, hay varias formas de crear Cristales Fluix usando un Mezclador.\n\nCuanto mayor sea la pureza de las gemas de entrada, mejor será el rendimiento, por eso recomendamos fabricar un &eTamiz&r antes.\n\nNecesitarás una cantidad enorme de Cristales Fluix, especialmente porque la &5versión líquida&r se utiliza en la mayoría de las recetas de Applied Energistics 2.\n\nPrepárate, ¡vas a necesitar muchos!",
+    "quests.ae2.fluix_crystal.subtitle": "Cristal Energético",
+    "quests.ae2.fluix_crystal.desc": "Como puedes ver, hay múltiples formas de crear Cristales de Fluix usando un Mezclador.\n\nCuanto mayor sea la pureza de las gemas de entrada, mejor será el rendimiento; por eso recomendamos fabricar un &eTamizador&r antes.\n\nNecesitarás una cantidad masiva de Cristales de Fluix, especialmente porque la &5versión líquida&r se usa en la mayoría de las recetas de Applied Energistics 2.\n\n¡Así que prepárate, vas a necesitar muchísimos!",
 
-  "quests.ae2.extractor.title": "Extractor de fluidos",
-  "quests.ae2.extractor.subtitle": "El valioso fluix",
-  "quests.ae2.extractor.desc": "La mayoría de tus Cristales Fluix se convertirán en &5Fluix Líquido&r.\nSin embargo, asegúrate de guardar algunos en forma de cristal para recetas ocasionales que lo requieran específicamente.\n\nCualquier &eExtractor&r servirá para esta tarea, no necesitas nada sofisticado.",
-  "quests.ae2.extractor.task": "Cualquier extractor",
+    "quests.ae2.extractor.title": "Extractor de Fluidos",
+    "quests.ae2.extractor.subtitle": "El preciado fluix",
+    "quests.ae2.extractor.desc": "La mayoría de tus Cristales de Fluix se convertirán en &5Fluix Líquido&r.\nSin embargo, asegúrate de guardar algunos en forma de cristal para la receta ocasional que lo requiera específicamente.\n\nCualquier &eExtractor&r servirá para el trabajo; no hace falta nada sofisticado.",
+    "quests.ae2.extractor.task": "Cualquier Extractor",
 
-  "quests.ae2.fluix_liquid.title": "Fluix líquido",
-  "quests.ae2.fluix_liquid.subtitle": "La Luna es muy rentable",
-  "quests.ae2.fluix_liquid.desc": "Te dijimos que necesitarías una enorme cantidad de Fluix Líquido… pero no mencionamos que existe una forma de aumentar drásticamente el rendimiento por cristal.\n\nPresentamos: &bFluix Criogenizado&r, un fluido ultra frío que solo puede fabricarse en la Luna usando un &bCongelador al Vacío&r. ¡Simplemente combina Fluix Líquido con Helio-3!\n\nEste fluido especial puede usarse como sustituto en casi todas las recetas que requieren Fluix Líquido, pero solo cuando fabricas en la Luna.\n\nLas recetas de AE2 en la Luna tienen enormes beneficios: menor costo energético, menos componentes necesarios, o a veces ambos.\n\nNo es estrictamente obligatorio… todavía. Pero establecer una segunda base ahora facilitará mucho tu progreso futuro.",
+    "quests.ae2.fluix_liquid.title": "Fluix Líquido",
+    "quests.ae2.fluix_liquid.subtitle": "La Luna es muy barata",
+    "quests.ae2.fluix_liquid.desc": "Te dijimos que necesitarías una vasta cantidad de Fluix Líquido... pero no mencionamos que hay una forma de aumentar drásticamente el rendimiento por cada Cristal de Fluix.\n\nPresentamos: el &bFluix Criogenizado&r, un fluido ultra frío que solo se puede fabricar en la Luna usando un &bCongelador al Vacío&r (Vacuum Freezer). ¡Simplemente combina Fluix Líquido con Helio-3!\n\nEste fluido especial puede usarse como sustituto en casi todas las recetas que requieren Fluix Líquido, pero solo cuando fabriques en la Luna.\n\nLas recetas de AE2 basadas en la Luna tienen grandes beneficios: costos de energía reducidos, menos componentes necesarios, ¡o ambos! Invertir en una base lunar adecuada para la producción de AE2 valdrá mucho la pena, especialmente en el early game.\n\nNo es estrictamente obligatorio... todavía. Pero establecer una segunda base ahora facilitará tu progresión futura, ya que la infraestructura planetaria será esencial más adelante. Así que... ¿por qué no adelantarse?",
 
-  "quests.ae2.ae_processor.title": "Procesadores",
-  "quests.ae2.ae_processor.subtitle": "Componentes de AE2",
-  "quests.ae2.ae_processor.desc": "Los tres &eProcesadores&r se usarán ampliamente en las recetas de Applied Energistics 2.\n\nEsto también te da una gran oportunidad de ver lo efectivas que pueden ser las recetas lunares para fabricarlos.\n\nAl final, la decisión es tuya: construye tu infraestructura donde más te acomode.",
+    "quests.ae2.ae_processor.title": "Procesadores",
+    "quests.ae2.ae_processor.subtitle": "Componentes de AE2",
+    "quests.ae2.ae_processor.desc": "Los tres &eProcesadores&r se usarán extensamente en las recetas de Applied Energistics 2.\n\nEsto también te da una excelente oportunidad para ver qué tan efectivas pueden ser las recetas de la &3Luna&r para fabricarlos.\n\nPero al final, la elección es tuya: construye tu infraestructura donde mejor te convenga.",
 
-  "...": "TRADUCCIÓN CONTINÚA IGUAL PARA EL RESTO DEL ARCHIVO"
+    "quests.ae2.forming_press.title": "Prensa de Formado",
+    "quests.ae2.forming_press.subtitle": "Lo pequeño también es bueno",
+    "quests.ae2.forming_press.desc": "Para obtener los circuitos impresos, necesitarás fabricar la Prensa de Formado (Forming Press) &6HV&r.\n\n¿La buena noticia? Tiene múltiples ranuras de entrada, lo que significa que puedes insertar todas tus prensas de circuitos a la vez; una sola Prensa de Formado es suficiente para manejar cada tipo de circuito impreso.",
+
+    "quests.ae2.ae_press.title": "Prensa de Inscriptor",
+    "quests.ae2.ae_press.subtitle": "Búsqueda del tesoro",
+    "quests.ae2.ae_press.desc": "Una de las últimas cosas que necesitarás antes de sumergirte de lleno en Applied Energistics 2 es recolectar las 4 &ePrensas&r.\n\nPara obtenerlas, debes localizar un &eMeteorito de AE2&r en la &3Luna&r; parecerán esferas oscuras en el fondo de grandes cráteres. Por suerte, no son especialmente raros, y un solo meteorito contendrá las cuatro prensas.\n\n&cTen cuidado&r: estos meteoritos suelen estar custodiados, ¡así que equípate bien, trae un prospector de menas si tienes uno y buena caza!",
+
+    "__comment3": "Centro",
+
+    "quests.ae2.ae_guide.title": "Bienvenido a AE2",
+    "quests.ae2.ae_guide.subtitle": "¡Otro libro gratis para tu colección!",
+    "quests.ae2.ae_guide.desc": "¡Aquí estás, listo para comenzar tu infraestructura de &bAE2&r!\n\nEste capítulo te guiará principalmente sobre lo que puedes y no puedes fabricar todavía.\nTambién destacaremos los objetos más importantes en los que deberías enfocarte.\n\nSin embargo, para entender completamente Applied Energistics 2, recomendamos encarecidamente usar el atajo de teclado &bG&r (similar al sistema Ponder de Create) o abrir la &bGuía ME&r que entregamos como recompensa en esta misión. Es el mejor tutorial dentro del juego para AE2.\nAlternativamente, mira videos online sobre AE2 en la versión &61.20.1&r para explicaciones más detalladas. ¡AE2 es un mod muy popular, así que hay montones de tutoriales!\n\n&dConsejo pro&r: Muchas recetas de &bAE2&r tienen recetas lunares alternativas que son mucho más baratas. Una vez más, invertir en tu base lunar te recompensará enormemente durante todo el juego.",
+
+    "__comment4": "Arriba (HV)",
+
+    "quests.ae2.hv.title": "AE2 Tier HV",
+    "quests.ae2.hv.desc": "¡Toda esta rama es completamente desbloqueable en &6HV&r!",
+
+    "quests.ae2.ae_controller.subtitle": "El corazón de tu red ME",
+    "quests.ae2.ae_controller.desc": "Para empezar, necesitarás dar energía a tu &bRed ME&r. Estos son los dos bloques de &bAE2&r que pueden aceptar energía &bEU&r directamente.\n\nRecomendamos encarecidamente fabricar un &bControlador ME&r, ya que los &bcanales&r están habilitados en TerraFirmaGreg, y el &bControlador ME&r es la mejor manera de gestionar múltiples canales de forma eficiente.\n\n¡Este es también un buen momento para usar la guía del juego (presiona &aU&r sobre un &bControlador ME&r) o ver videos sobre &bAE2&r en la versión 1.20.1 para aprender más!",
+
+    "quests.ae2.drive.subtitle": "El cerebro de la red",
+    "quests.ae2.drive.desc": "Necesitarás almacenar tus discos y, gracias al addon &bMEGA&r, ahora tienes una opción extra.\n\nDeberías empezar con una &bUnidad ME&r (ME Drive). Puede almacenar hasta &e10&r discos y consume &e4 EU/t&r. Esta será tu solución de almacenamiento principal.\n\nLa otra opción es la &bBahía de Células ME&r (ME Cell Dock). Solo almacena &e1&r disco pero consume solo &e1 EU/t&r, y se puede colocar directamente en un cable como si fuera una cubierta. Esto la hace muy útil para las &aSub-redes&r.",
+
+    "quests.ae2.cell_housing.desc": "La &bCarcasa de Célula ME&r existe en dos versiones: una para &aObjetos&r y otra para &9Fluidos&r.\n\nPuedes extraer su Componente de Almacenamiento usando un &eEmpaquetador&r (Packer) o simplemente haciendo Shift + Clic derecho mientras sostienes la célula de almacenamiento en tu mano.",
+
+    "quests.ae2.cables.title": "Cables de Fluix",
+    "quests.ae2.cables.subtitle": "Las arterias de la red",
+    "quests.ae2.cables.desc": "Tus cables básicos para conectar tu infraestructura de &bAE2&r.\n\nRecuerda que los cables normales solo transportan &e8 Canales&r, mientras que los &6Cables Densos&r pueden transportar hasta &a32 Canales&r.\n\nBuenas noticias: ¡en &2TFG&r puedes fabricar directamente los &9Cables Inteligentes&r (Smart Cables)! Son muy útiles porque muestran un &eindicador visual&r del número de canales utilizados.",
+
+    "quests.ae2.terminals.subtitle": "¿Los... dedos? de la red",
+    "quests.ae2.terminals.desc": "Estas terminales son obligatorias para acceder a tu Red ME y para configurar tu sistema de fabricación automática.",
+
+    "quests.ae2.molecular_assembler.desc": "El &9Ensamblador Molecular&r es básicamente tu mesa de crafteo automática.\n\nPuedes usarlo para fabricación pasiva o combinarlo con un &9Proveedor de Patrones&r (Pattern Provider).\n\nComo siempre, consulta la guía del juego usando &eG&r para aprender más.",
+
+    "quests.ae2.crafting_unit.subtitle": "¿El segundo? cerebro de la red",
+    "quests.ae2.crafting_unit.desc": "La &dUnidad de Fabricación&r funciona igual que la &bCarcasa de Célula ME&r.\n\nUsa un &6Empaquetador&r para que sea funcional; por sí sola no sirve de nada, aunque puedes usarla para completar multibloques.\n\nEs tu estructura obligatoria para ejecutar la fabricación automática de &bAE2&r.\n\nComo de costumbre, usa la guía de &bAE2&r para aprender más sobre la &dCPU de Fabricación&r.",
+
+    "quests.ae2.crafting_storage.title": "Almacenamiento de Fabricación",
+    "quests.ae2.crafting_storage.desc": "Estos son obligatorios para cualquier tipo de auto-crafteo; cuanto más grande sea el almacenamiento, más grande será la cadena de recetas que se puede realizar con una sola petición. También puedes colocar varios uno al lado del otro para sumar su tamaño de almacenamiento.\n\nUsa la guía del juego para más detalles; lo explicará mucho mejor de lo que podríamos hacerlo en una misión.\n\n¡Tómate tu tiempo para leerla, es un gran recurso!",
+    "quests.ae2.crafting_storage.task": "Cualquier almacenamiento de fabricación",
+
+    "quests.ae2.pattern_provider.title": "Proveedor de Patrones ME",
+    "quests.ae2.pattern_provider.subtitle": "Estos le dicen a tus máquinas cómo fabricar cosas",
+    "quests.ae2.pattern_provider.desc": "El &9Proveedor de Patrones&r es un bloque moderno de &bAE2&r. Si solo conoces AE2 en versiones antiguas de Minecraft, este es el bloque donde ahora pones tus patrones en lugar de una Interfaz.\n\nPuede enviar objetos al inventario conectado tras una petición de crafteo, y si envías objetos de vuelta hacia él, los mandará de regreso a tu almacenamiento ME.\n\nSi los conectas a tus máquinas de GregTech, ¡asegúrate de seleccionar la opción \"Allow Input From Output Face\" en ellas para poder meter y sacar objetos por el mismo lado!\n\nComo siempre, consulta la guía del juego usando &eG&r para aprender más.",
+    "quests.ae2.pattern_provider.task": "Cualquier Proveedor de Patrones",
+
+    "quests.ae2.pattern.subtitle": "Instrucciones de fabricación",
+    "quests.ae2.pattern.desc": "Cada uno de estos le dice a tu sistema ME cómo fabricar un objeto específico. Necesitarás uno para cada receta, así que vale la pena buscar la forma más eficiente de fabricar toneladas de estos.\n\nPara limpiar un Patrón, simplemente haz Shift + Clic derecho con ellos.\n\nUsa la guía del juego para detalles completos sobre cómo usarlos, solo recuerda configurar el tipo de patrón a \"Procesamiento\" (Processing) para cualquier receta que vaya a máquinas de GregTech.",
+
+    "quests.ae2.interface.subtitle": "Me rindo con la analogía de las partes del cuerpo",
+    "quests.ae2.interface.desc": "La &dInterfaz ME&r es una de tus herramientas fundamentales para sacar o meter objetos o fluidos en tu red.\n\nSi solo has usado AE2 en versiones viejas de Minecraft, ten en cuenta que ahora estas solo hacen que el contenido de la red esté disponible pasivamente para que otras cosas lo extraigan, y no empujan objetos ni guardan patrones activamente. Para eso querrás el Proveedor de Patrones.\n\nLa Interfaz ME puede hacer demasiadas cosas para listarlas aquí, así que consulta la guía del juego con &eG&r para aprender más.",
+
+    "quests.ae2.interface_automation.title": "Automatización con Interfaces",
+    "quests.ae2.interface_automation.desc": "La mejor manera de mover objetos y fluidos pasivamente por tu base es a través de la &bInterfaz ME&r. Como las Interfaces no empujan su contenido, necesitarás poner una cubierta (cover) en tu máquina o tubería.\n\nRecuerda habilitar la opción &eAllow Input&r en la cara de salida (Output face) en la GUI de tu máquina GregTech para poder empujar y tirar desde el mismo lado.\n\nUsar filtros en tus cubiertas también puede ser una forma útil de que varias máquinas extraigan de la misma Interfaz.\n\nPara evitar llenar demasiado las ranuras de entrada de una máquina, deberás usar una cubierta de Brazo Robótico (Robot Arm) en modo &eKeep Exact&r con un filtro.\n\nLa entrada de fluidos no tiene este problema, ya que llenará una sola ranura automáticamente.",
+
+    "quests.ae2.crafting_accelerator.desc": "Simplemente usa la guía del juego; lo explicará mucho mejor de lo que podríamos hacerlo en una misión.\n\n¡Tómate tu tiempo para leerla, es un gran recurso!",
+
+    "quests.ae2.export_bus.title": "Bus de Exportación",
+    "quests.ae2.export_bus.desc": "El &dBus de Exportación ME&r es una herramienta potente para sacar objetos o fluidos de tu &dRed ME&r.\nUna vez que puedas fabricarlos, deberías mirar especialmente los de &eExtendedAE&r, ya que pueden ser de gran ayuda para algunas automatizaciones.\n\n&cNota importante&r: Estos tienen mucho más &4impacto en los TPS&r que las Interfaces ME, por lo que es mejor usarlos con moderación.",
+    "quests.ae2.export_bus.task": "Cualquier Bus de Exportación",
+
+    "quests.ae2.import_bus.desc": "El &dBus de Importación ME&r es una forma de meter objetos y fluidos en tu &dRed ME&r. También podrías simplemente empujar objetos y fluidos a una Interfaz o Proveedor de Patrones para obtener el mismo resultado, por lo que los Buses de Importación son más de nicho.\n\n&cNota importante&r: Estos tienen mucho más &4impacto en los TPS&r que las Interfaces ME, por lo que es mejor usarlos con moderación.",
+
+    "quests.ae2.storage_bus.desc": "El &bBus de Almacenamiento ME&r es como le dices a tu red ME que existen objetos y fluidos almacenados fuera de las Unidades ME. Pueden ser muy potentes combinados con Super Tanks y Super Chests; solo asegúrate de darle al Bus de Almacenamiento una &ePrioridad&r más alta que a tu Unidad (Drive), y particiónalo para el objeto o fluido que quieras guardar, para que tu red intente poner las cosas allí primero.\n\nLos Buses de Almacenamiento también son esenciales para configurar Sub-redes; consulta la guía del juego para más detalles sobre cómo funcionan.\n\nAdemás, &aExtended AE&r trae muchas variantes de Buses de Almacenamiento que pueden ser útiles más adelante. Por ejemplo, podrías decirle a tu red que \"almacene\" todos tus &6lingotes calientes&r en tu Congelador al Vacío.",
+    "quests.ae2.storage_bus.task": "Cualquier variante de Bus de Almacenamiento",
+
+    "quests.ae2.cell_component_1k.desc": "El &bComponente de Almacenamiento&r será una parte central de tu progresión en &aAE2&r, y pueden ser bastante caros, aunque los necesites para fabricar tus &bCélulas de Almacenamiento&r.\n\nEl &eComponente de Almacenamiento ME de 1k&r es lo suficientemente simple como para no tener una receta lunar especializada, pero todos los demás sí la tienen, y como los componentes se vuelven exponencialmente más caros... ¿ya te hemos convencido de hacer una base lunar?",
+
+    "quests.ae2.cell_component_4k.desc": "Mira cómo el &eComponente de Almacenamiento de 4k&r tiene una receta tremendamente más barata en la &dLuna&r. Esto será una tendencia constante: las recetas lunares siempre usarán un tier de circuito inferior al de las recetas normales.",
+
+    "quests.ae2.cell_component_16k.desc": "El &eComponente de Almacenamiento de 16k&r empieza a ser exponencialmente más caro, así que ahora puedes empezar a ver el ahorro de tener una base lunar.\n\nTienes una base lunar, ¿verdad?",
+
+    "quests.ae2.p2p.title": "Túneles P2P",
+    "quests.ae2.p2p.desc": "Los canales están habilitados aquí por defecto, así que quizás quieras aprender sobre &dP2P&r. Son esencialmente una forma de condensar múltiples canales en un solo canal, permitiéndote transportar cientos de ellos por toda tu base a través de un solo cable.\n\nComo siempre, te aconsejamos usar la guía del juego para información detallada, y también hay muchos tutoriales en video que te resultarán útiles.\n\nTambién recomendamos fabricar la &bTarjeta de Memoria Avanzada&r de &dBetter P2P&r lo antes posible. Será de gran ayuda cuando tengas muchos túneles P2P diferentes que gestionar. Incluso puedes colocar un montón de &dEntradas ME P2P&r en tu Controlador ME con antelación y conectarlas a una salida cuando lo necesites.",
+    "quests.ae2.p2p.task": "Cualquier Túnel P2P",
+
+    "quests.ae2.cell_workbench.desc": "El &bBanco de Trabajo de Células&r (Cell Workbench) se usa para personalizar tus células de almacenamiento.\n\nPuedes darles filtros de &aLista Blanca&r/&cLista Negra&r o particiones, o añadir mejoras como la &4Tarjeta de Destrucción por Desbordamiento&r (Overflow Destruction Card), ¡pero ten cuidado con esta última!\n\nEl &bPuerto de E/S&r (IO Port) se usa para \"desfragmentar\" tus unidades, si tienes los mismos objetos repartidos en varios discos.",
+
+    "quests.ae2.requester.desc.1": "El &aSolicitador ME&r (ME Requester) puede ser una de tus &6herramientas más potentes&r si quieres construir tu automatización basada en &eauto-crafteo&r y no en producción pasiva.\n\nPuede enviar lotes de peticiones de crafteo de un objeto cuando tu red tiene menos de una cantidad especificada.\n\nSi estás usando muchas &dMejoras de Fabricación&r, sería mejor usar esta máquina, ya que tendrá mucho menos impacto en tus &cTPS&r.",
+    "quests.ae2.requester.desc.2": "También ten en cuenta que puedes configurar tus CPUs de Fabricación para que se dediquen a crafteos iniciados por el jugador, peticiones automáticas o ninguno, lo cual es útil para evitar que tus Solicitadores acaparen todas tus CPUs.\n\nSi quieres, también puedes fabricar una &bTerminal&r especializada para tener acceso a todos tus Solicitadores desde un solo lugar.",
+
+    "quests.ae2.emitters.desc": "Los &bEmisores&r y el &bBus de Conmutación&r (Toggle Bus) son tu forma de gestionar señales de &cRedstone&r en &bAE2&r.\n\n¡El Emisor de Nivel es especialmente útil para configurar producción pasiva cuando se combina con la cubierta Machine Controller de GregTech!\n\nConsulta la guía del juego para información más detallada.",
+
+    "quests.ae2.batteries.desc": "Estas son las baterías para tu Red ME. Puede que no las necesites al principio, pero tenlas en cuenta: tu consumo de energía podría subir rápidamente, y un apagón en tu Red ME puede ser una situación realmente peligrosa.",
+
+    "quests.ae2.cutting_knife.title": "Cuchillos de Corte",
+    "quests.ae2.cutting_knife.desc": "Estas son herramientas para renombrar fácilmente todos tus componentes ME. ¿Por qué querrías hacer esto? Si renombras tus Proveedores de Patrones, sus nombres aparecerán en la Terminal de Patrones, lo cual es muy útil para saber qué Proveedor de Patrones está conectado a qué máquina.\n\nPor ejemplo, el nombre &oExtrusora de Engranajes Pequeños&r para el Proveedor de Patrones te permitiría saber fácilmente que esta extrusora contiene el molde de engranajes pequeños, por lo que solo deberías poner patrones de engranajes pequeños en ella.",
+    "quests.ae2.cutting_knife.task": "Cualquier cuchillo de corte",
+
+    "quests.ae2.pattern_box.desc": "La Caja de Patrones puede transportar todos tus Patrones en Blanco y Codificados en una sola ranura de inventario, y serán visibles en la interfaz de cualquier dispositivo de AE2 siempre que la caja esté en tu inventario.",
+
+    "quests.ae2.wireless_access.title": "Red Inalámbrica ME",
+    "quests.ae2.wireless_access.subtitle": "Consigue WiFi gratis dondequiera que vayas",
+    "quests.ae2.wireless_access.desc": "Una vez que llegues a &5EV&r, tendrás acceso al Punto de Acceso Inalámbrico ME, que básicamente actúa como un router WiFi para tu red ME. Conéctalo a un punto central de tu base, mete tantas tarjetas de Mejora Inalámbrica como quieras para aumentar su alcance (y consumo de energía) y luego vincula una Terminal Inalámbrica a él.\n\n¡Una vez que tengas Epoxi y Rodio, podrás combinar todas tus Terminales Inalámbricas mediante una Terminal Universal!",
+
+    "quests.ae2.interplanetary_wireless.subtitle": "¿Olvidaste algo en casa?",
+    "quests.ae2.interplanetary_wireless.desc": "¡Puedes mejorar tu Terminal Inalámbrica con esta tarjeta especial, permitiendo el acceso a tu red desde cualquier distancia, incluso en mundos diferentes! ¿Suena demasiado bueno para ser verdad? Hay un gran inconveniente: transferir objetos usa una cantidad masiva de energía.\n\nPuedes mitigar esto un poco con Tarjetas de Energía y una batería en tu inventario configurada en modo Descarga, pero debería funcionar lo suficiente para esos momentos en los que accidentalmente dejaste algo en tu base de la Tierra y no quieres volar todo el camino de vuelta.\n\nPara una transferencia automatizada adecuada, necesitarás un Railgun.",
+
+    "quests.ae2.universal_circuits.title": "Circuitos Universales",
+    "quests.ae2.universal_circuits.subtitle": "¡Ah, para ESTO sirven!",
+    "quests.ae2.universal_circuits.desc": "¿Alguna vez te has preguntado para qué sirven los objetos de Circuito Universal? ¡Además de ser iconos de misión bonitos, se usan principalmente para AE2!\n\nAE2 no maneja bien las etiquetas de objetos (tags) en los patrones, por lo que los circuitos universales están diseñados para usarse en cualquier patrón que requiera circuitos. De esta forma, cuando desbloquees un nuevo tipo de circuito, solo tendrás que añadir un patrón para convertir el nuevo circuito en el universal, ¡en lugar de actualizar &otodos&r tus viejos patrones!",
+
+    "quests.ae2.stock_bridge.title": "Puente de Existencias AE",
+    "quests.ae2.stock_bridge.desc": "Si invertiste mucho en la red logística de Create, podrías desesperarte ante la idea de tener que desmantelarlo todo para reemplazarlo con AE2. El &bStock Bridge&r actúa como un puente entre tu red ME y la de Create. Consulta su Ponder para aprender cómo configurarlo.\n\nAun así, recomendamos pasar eventualmente cualquier configuración antigua a AE2, principalmente porque es mucho más ligero para el rendimiento del juego.",
+
+    "__comment5": "Derecha (IV)",
+
+    "quests.ae2.iv.title": "AE2 Tier IV",
+    "quests.ae2.iv.desc": "Toda esta rama se vuelve completamente desbloqueable una vez que alcances &1IV&r.",
+
+    "quests.ae2.accumulation_press.desc": "Para obtener esta &enueva Prensa de Inscriptor&r, tendrás que invertir un poco.\n\nPrimero, debes mejorar tu Compresor de Implosión con &5dos Escotillas de Energía EV&r.\n\nLuego, consíguete un nuevo Grabador Láser IV si aún no tienes uno.\n\nY finalmente, prepara mucho TNT Industrial; es el &cúnico que funciona&r para este proceso.\n\n¡Planifica con cuidado, ya que este paso es bastante exigente!",
+
+    "quests.ae2.accumulation_processor.desc": "El &eProcesador de Acumulación&r requerirá una gran cantidad de Silicio para cada fabricación.\n\nEsperamos que ya tengas un EBF dedicado produciendo Silicio, o al menos una infraestructura sólida para fabricarlo rápidamente.\n\n¡Prepárate adecuadamente, ya que necesitarás mucho!",
+
+    "quests.ae2.mega_crafting.desc": "Estas son una mejora genial para tu &bCPU de Fabricación&r.\n\nAyudarán a acelerar tu auto-crafteo y te permitirán manejar trabajos más grandes con facilidad.",
+
+    "quests.ae2.mega_battery.desc": "Una &ebatería más grande&r para una red más grande. ¡No hay más!",
+
+    "quests.ae2.extended_pattern_access.desc": "La &eTerminal de Patrones Extendida&r es una mejora maravillosa para gestionar todos tus patrones de forma más fácil.\n\nObtienes &6más opciones de búsqueda&r para tus patrones, y con la cantidad que deberías tener ahora, será una gran mejora de calidad de vida.\n\nFabrica la versión de \"mejora\" para simplemente hacer Shift + Clic derecho en tus proveedores de patrones existentes para mejorarlos sin tener que sacar todos los patrones.",
+    "quests.ae2.extended_pattern_access.task": "Cualquier componente o la mejora",
+
+    "quests.ae2.extended_interface.desc": "Aquí están, tus &bInterfaces&r más grandes con una mejora para que ni siquiera necesites desconectarlas para actualizarlas.\n\n¡Estarás muy contento con ellas!",
+    "quests.ae2.extended_interface.task": "Cualquier componente o la mejora",
+
+    "quests.ae2.extended_patprov.desc": "Aquí están, tus &bProveedores de Patrones&r más grandes con una mejora para que ni siquiera necesites desconectarlas para actualizarlas.\n\n¡Estarás muy contento con ellos!",
+    "quests.ae2.extended_patprov.task": "Cualquier componente o la mejora",
+
+    "quests.ae2.extended_drive.desc": "La &dUnidad ME Extendida&r &6duplicará&r la cantidad de &eCélulas de Almacenamiento&r que puede contener.\n\nTambién puedes fabricar la &emejora&r para simplemente hacer &aClic Derecho&r en tus Unidades ME existentes sin tener que sacar tus discos, y no te costará más.",
+    "quests.ae2.extended_drive.task": "Cualquier componente o la mejora",
+
+    "quests.ae2.extended_import_export.desc": "Estos son ocho veces más rápidos que sus homólogos normales. ¡Disfrútalo!",
+    "quests.ae2.extended_import_export.task": "Cualquier componente o la mejora",
+
+    "quests.ae2.extended_io_port.desc": "Esta mejora te permitirá &atransferir más rápido&r a la vez que ofrece &6más ranuras de mejora&r si las necesitas.",
+
+    "quests.ae2.extended_molecular_assembler.desc": "La mejora del &bEnsamblador Molecular&r.\n\nEjecuta &68 trabajos de crafteo&r al mismo tiempo y va &62 veces más rápido&r.\n\nSerá una &agran mejora&r antes de conseguir el &dMultibloque Matrix&r un poco más adelante.",
+
+    "quests.ae2.wireless.desc": "El &aConector Inalámbrico ME&r es tu opción ideal si no quieres colocar líneas masivas de &bCables ME&r. Funcionan como Túneles Cuánticos de corto alcance, pero tienen un rango limitado y no funcionan entre dimensiones. Eso sería demasiado fácil, ¿verdad?\n\nNo olvides consultar la guía del juego con &eG&r para aprender cómo funcionan y sus limitaciones.",
+
+    "quests.ae2.mega_cell_housing.desc": "Estas &bCarcasas de Célula&r funcionan igual que las básicas, pero las necesitarás para fabricar los discos más grandes de &dMEGA&r.",
+
+    "quests.ae2.cell_component_64k.desc": "Ahora que tienes Circuitos &1IV&r, puedes fabricar este enorme &5Componente de Almacenamiento&r. ¿No te alegras de haber hecho una base lunar?",
+
+    "quests.ae2.cell_component_256k.desc": "El &cComponente de Almacenamiento ME de 256k&r es el último que puedes fabricar con un Ensamblador normal, y es tan grande que quizás nunca necesites los tamaños superiores.\n\nA menos que aceptes el desafío, por supuesto.",
+
+    "__comment6": "Abajo (LuV)",
+
+    "quests.ae2.luv.title": "AE2 Tier LuV",
+    "quests.ae2.luv.desc": "Esta rama se vuelve desbloqueable una vez que alcances &dLuV&r.",
+
+    "quests.ae2.cell_component_1m.desc": "Los &3Componentes de Almacenamiento MEGA&r necesitarán una &bLínea de Ensamblaje&r. Ten en cuenta que la receta no lunar debe fabricarse dentro de una Sala Limpia (Cleanroom), o puedes usar una Escotilla de Mantenimiento de Limpieza si tienes acceso a una.\n\nSin embargo, no hay necesidad de eso en la Luna.",
+
+    "quests.ae2.cell_component_4m.desc": "Simplemente más grande y más caro.",
+
+    "quests.ae2.cell_component_16m.desc": "Este solo se puede fabricar en la &cLuna&r y en ningún otro lugar. También requerirá un entorno de Sala Limpia, así que si no quieres molestarte con una Sala Limpia en la &cLuna&r, deberías fabricar la &7Escotilla de Mantenimiento de Limpieza&r.\n\nTambién necesitará algo de investigación. Consulta el capítulo de &cZPM&r si no sabes qué significa eso.",
+
+    "quests.ae2.cell_component_64m.desc": "El &cComponente de Almacenamiento MEGA de 64M&r es el más grande que puedes fabricar en &cTerraFirmaGreg&r. Honestamente, creemos que nunca lo necesitarás, pero está ahí para los completistas.",
+
+    "quests.ae2.oversize_interface.desc": "La &dInterfaz Sobredimensionada ME&r es una &dInterfaz Extendida ME&r pero cada ranura puede contener 16 veces más objetos o fluidos. Si tienes procesos que necesitan cantidades ingentes, esta podría ser tu solución.",
+
+    "quests.ae2.assembler_matrix.desc": "La &6Matriz de Ensamblado&r es básicamente un Ensamblador Molecular multibloque personalizable. Los requisitos de esta misión deberían permitirte construir uno que consideramos bastante potente. Podrías añadir más capas de &bPattern Core&r o &aCraft Core&r si quisieras.\n\nComo siempre, consulta la guía del juego para información detallada."
 }
