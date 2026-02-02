@@ -30,14 +30,13 @@
 		"basalt",
 		"rhyolite",
 		"dacite",
-		"andesite"
+		"andesite",
+		"flavolite",
+		"sandy_jadestone"
 	],
 	"indicator": {
 		"rarity": 20,
-		"depth": 30,
-		"blocks": [
-
-		]
+		"depth": 30
 	},
 	"translations": [
 		{
