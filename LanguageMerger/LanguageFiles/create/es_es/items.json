@@ -1,0 +1,17 @@
+{
+    "item.create.netherite_diving_helmet.tooltip.summary": "Junto a un _Tanque trasero de acero azul_, esto puede protegerte del _calor extremo_. Para ser efectivo, _piernas y pies_ deben estar cubiertas con un _equipamiento de buceo de acero azul_.",
+    "item.create.netherite_backtank": "Tanque tracero de acero azul",
+    "item.create.netherite_diving_helmet": "Casco de buceo de acero azul",
+    "item.create.netherite_diving_boots": "Botas de buceo de acero azul",
+
+    "item.create.copper_sheet": "Placa de cobre",
+    "item.create.brass_sheet": "Placa de latón",
+    "item.create.golden_sheet": "Placa de oro",
+
+    "item.create.crushed_raw_gold": "Mena de oro purificada",
+    "item.create.crushed_raw_copper": "Mena de cobre purificada",
+    "item.create.crushed_raw_zinc": "Mena de zinc purificada",
+    "item.create.crushed_raw_silver": "Mena de plata purificada",
+    "item.create.crushed_raw_tin": "Mena de estaño purificada",
+    "item.create.crushed_raw_lead": "Mena de plomo purificada"
+}
