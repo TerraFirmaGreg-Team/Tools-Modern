@@ -17,6 +17,7 @@
     "quests.gregtech_energy.transformer.title": "The Super Transformer",
     "quests.gregtech_energy.transformer.subtitle": "Better than Optimus Prime",
     "quests.gregtech_energy.transformer.desc": "For every problem, GregTech has a multiblock solution. Enter the &dActive Transformer&r.\n\nThis beast is your ultimate transformer. It can transform energy between any tiers — from &aLV&r to &cUHV&r — without caring about amps or a mess of single block transformers.\n\nBut that's not even the best part: it can transmit energy using Laser Pipes.\n&7•&r Lasers send absurd amounts of Amps.\n&7•&r No loss. No cables. Just pure energy.\n&7•&r Only one catch: it &chas to be in a perfectly straight line&r.\n\nWhen cables feel weak, &luse lasers.",
+    "quests.gregtech_energy.transformer.task": "Any Laser Hatch from EV to IV",
 
     "quests.gregtech_energy.moving_wire.title": "Moving with wires",
     "quests.gregtech_energy.moving_wire.subtitle": "Funky to place",
