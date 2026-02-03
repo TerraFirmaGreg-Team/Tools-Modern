@@ -43,7 +43,7 @@
 
 	"quests.low_voltage.link_chapter.title": "Explain energy to me",
 	"quests.low_voltage.link_chapter.subtitle": "There is a whole chapter about energy",
-	"quests.low_voltage.link_chapter.desc": "It might look like a lot of reading, but it's important to understand if you want to avoid accidents and get the most out of your power generation.\n\nGregTech's energy system (EU, Energy Units) works differently to FE (Forge Energy), the system used by almost every other mod.\n\nThere's four ways to generate power in LV, and all are viable options. If you're new to GregTech, Steam is the easiest but falls off fast as you progress to further tiers. Gas fuel is more complicated to produce, but has the cheapest generators. Combustion is somewhere in between.\n\nHere's a link to the energy chapter",
+	"quests.low_voltage.link_chapter.desc": "GregTech's energy system (EU, Energy Units) works differently to FE (Forge Energy), the system used by almost every other mod, so we've dedicated a chapter of the questbook to talk about it.\n\nIt might look like a lot of reading, but it's important to understand if you want to avoid accidents and get the most out of your power generation.\n\nThere's four ways to generate power in LV, and all are viable options. If you're new to GregTech, Steam is the easiest but falls off fast as you progress to further tiers. Gas fuel is more complicated to produce, but has the cheapest generators. Combustion is somewhere in between.\n\nHere's a link to the energy chapter",
 	"quests.low_voltage.link_chapter.task": "I read it",
 
 	"quests.low_voltage.lv_combuston_gen.title": "The Combustion Generator",
