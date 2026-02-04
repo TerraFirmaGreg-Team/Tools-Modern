@@ -24,6 +24,8 @@
 	"ore_vein.tfg.normal_copper": "Медь и Халькопирит",
 	"ore_vein.tfg.normal_garnet_tin": "Гранатовый и Касситеритовый песок",
 	"ore_vein.tfg.normal_garnierite": "Гарниерит и Кобальтит",
+	"ore_vein.tfg.normal_garnierite.emi.0": "Подсказка: Габбро всегда находится",
+	"ore_vein.tfg.normal_garnierite.emi.1": "под Базальтом.",
 	"ore_vein.tfg.normal_gold": "Золото, Лимонит и Гематит",
 	"ore_vein.tfg.normal_graphite": "Графит и Алмаз",
 	"ore_vein.tfg.normal_gypsum": "Гипс и Кальцит",
@@ -39,6 +41,8 @@
 	"ore_vein.tfg.normal_olivine": "Бентонит и Оливин",
 	"ore_vein.tfg.normal_quartz": "Кварцы",
 	"ore_vein.tfg.normal_redstone": "Редстоун, Киноварь и Рубин",
+	"ore_vein.tfg.normal_redstone.emi.0": "Подсказка: Гранит всегда находится",
+	"ore_vein.tfg.normal_redstone.emi.1": "под Риолитом.",
 	"ore_vein.tfg.normal_salt": "Соли и Бура",
 	"ore_vein.tfg.normal_saltpeter": "Селитра и Электротин",
 	"ore_vein.tfg.normal_silver": "Серебро, Галена и Свинец",
@@ -145,7 +149,8 @@
 	"ore_vein.tfg.nether_sulfur": "Сера и Пирит",
 	"ore_vein.tfg.nether_tetrahedrite": "Тетраэдрит",
 	"ore_vein.tfg.nether_topaz": "Топаз и Халькозин",
-	"ore_vein.tfg.venus_manual_salt": "Salts & Spodumene",
-	"ore_vein.tfg.venus_manual_salt.emi.0": "Only in Salt Flats.",
-	"ore_vein.tfg.venus_manual_sulfur": "Сера и Пирит"
+	"ore_vein.tfg.venus_manual_salt": "Соли и Cподумен",
+	"ore_vein.tfg.venus_manual_salt.emi.0": "Только в Соляных равнинах.",
+	"ore_vein.tfg.venus_manual_sulfur": "Сера и Пирит",
+	"ore_vein.tfg.venus_manual_sulfur.emi.0": "Только в Сернистом ущелье."
 }
