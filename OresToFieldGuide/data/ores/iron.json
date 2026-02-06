@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "铁矿",
       "info": "$(thing)熔化$(): 铸铁"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Eisen",
+      "info": "$(thing)Schmelzt in$(): Gusseisen"
     }
   ]
 }
