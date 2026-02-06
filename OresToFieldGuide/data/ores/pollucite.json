@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "铯榴石",
       "info": "$(thing)来源$(): 铯, 铝"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Pollucit",
+      "info": "$(thing)Quelle von$(): Cäsium, Aluminium"
     }
   ]
 }
