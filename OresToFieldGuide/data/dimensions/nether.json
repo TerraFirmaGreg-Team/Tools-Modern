@@ -10,20 +10,23 @@
 		"pt_br": "As Profundezas",
 		"uk_ua": "Безодня",
 		"zh_cn": "下界",
-		"ru_ru": "Бездна"
+		"ru_ru": "Бездна",
+		"de_de": "Die Unterwelt"
 	},
 	"ore_index_translations": {
 		"en_us": "The Beneath Ore Index",
 		"pt_br": "Índice de Minérios das Profundezas",
 		"uk_ua": "Індекс Руд Безодні",
 		"zh_cn": "下界矿物索引",
-		"ru_ru": "Каталог руд Бездны"
+		"ru_ru": "Каталог руд Бездны",
+		"de_de": "Die Unterwelt Erzindex"
 	},
 	"vein_index_translations": {
 		"en_us": "The Beneath Vein Index",
 		"pt_br": "Índice de Veios das Profundezas",
 		"uk_ua": "Індекс Жил безодні",
 		"zh_cn": "下界矿脉索引",
-		"ru_ru": "Каталог жил Бездны"
+		"ru_ru": "Каталог жил Бездны",
+		"de_de": "Die Unterwelt Aderindex"
 	}
 }
