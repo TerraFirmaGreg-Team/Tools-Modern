@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "蓝金石",
       "info": "$(thing)来源$(): 铝, 钙, 钠"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Lasurit",
+      "info": "$(thing)Quelle von$(): Aluminium, Calcium, Natrium"
     }
   ]
 }
