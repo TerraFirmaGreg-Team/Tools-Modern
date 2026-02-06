@@ -29,6 +29,11 @@
       "lang": "zh_cn",
       "text": "石棉",
       "info": "$(thing)来源$(): 镁, 肺癌"
+    },
+    {
+      "lang": "de_de",
+      "text": "Asbest",
+      "info": "$(thing)Quelle von$(): Magnesium, Lungenkrebs"
     }
   ]
 }
