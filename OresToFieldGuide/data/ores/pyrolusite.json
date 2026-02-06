@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "软锰矿",
       "info": "$(thing)来源$(): 锰"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Pyrolusit",
+      "info": "$(thing)Quelle von$(): Mangan"
     }
   ]
 }
