@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "沸石",
       "info": "$(thing)来源$(): 铝, 氧"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Zeolith",
+      "info": "$(thing)Quelle von$(): Aluminium, Sauerstoff"
     }
   ]
 }
