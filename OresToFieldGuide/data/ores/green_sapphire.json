@@ -32,7 +32,7 @@
     {
       "lang": "de_de",
       "text": "Grüner Saphir",
-      "info": "$(thing)Schmelzt in$(): Aluminium"
+      "info": "$(thing)Quelle von$(): Aluminium"
     }
   ]
 }
