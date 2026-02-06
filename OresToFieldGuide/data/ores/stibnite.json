@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "辉锑矿",
       "info": "$(thing)熔化$(): 锑"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Stibnit",
+      "info": "$(thing)Schmelzt in$(): Antimonie"
     }
   ]
 }
