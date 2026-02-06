@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "花岗岩矿砂",
       "info": "$(thing)熔化$(): 铸铁"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Granitischer Mineralsand",
+      "info": "$(thing)Schmelzt in$(): Gusseisen"
     }
   ]
 }
