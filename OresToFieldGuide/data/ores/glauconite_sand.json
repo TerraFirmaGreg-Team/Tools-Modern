@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "海绿石矿砂",
       "info": "$(thing)来源$(): 镁, 铝"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Glaukonitsand",
+      "info": "$(thing)Quelle von$(): Magnesium, Aluminium"
     }
   ]
 }
