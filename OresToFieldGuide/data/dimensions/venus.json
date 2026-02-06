@@ -10,20 +10,23 @@
 		"pt_br": "Venus",
 		"uk_ua": "Venus",
 		"zh_cn": "金星",
-		"ru_ru": "Венера"
+		"ru_ru": "Венера",
+		"de_de": "Venus"
 	},
 	"ore_index_translations": {
 		"en_us": "Venus Ore Index",
 		"pt_br": "Venus Ore Index",
 		"uk_ua": "Venus Ore Index",
 		"zh_cn": "金星矿物索引",
-		"ru_ru": "Каталог руд Венеры"
+		"ru_ru": "Каталог руд Венеры",
+		"de_de": "Venus Erzindex"
 	},
 	"vein_index_translations": {
 		"en_us": "Venus Vein Index",
 		"pt_br": "Venus Vein Index",
 		"uk_ua": "Venus Vein Index",
 		"zh_cn": "金星矿脉索引",
-		"ru_ru": "Каталог жил Венеры"
+		"ru_ru": "Каталог жил Венеры",
+		"de_de": "Venus Aderindex"
 	}
 }
