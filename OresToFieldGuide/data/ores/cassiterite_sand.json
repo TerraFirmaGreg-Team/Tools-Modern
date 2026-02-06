@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "锡石矿砂",
       "info": "$(thing)熔化$(): 锡"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Kassiteritsand",
+      "info": "$(thing)Schmelzt in$(): Zinn"
     }
   ]
 }
