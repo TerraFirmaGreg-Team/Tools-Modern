@@ -23,7 +23,7 @@
 
 	"tfc:cluster_vein": "$(t:Meistens rundförmig)Klumpenader$(/t)",
 	"tfc:pipe_vein": "$(t:Hoch und schmal)Rohrader$(/t)",
-	"tfc:disc_vein": "$(t:Breit und flach)Scheibennader$(/t)",
+	"tfc:disc_vein": "$(t:Breit und flach)Scheibenader$(/t)",
 
 	"ore_index_format": "Dies ist der $(thing)Erzindex$() für $(thing){0}$(). Alle Erze sind zuerst alphabetisch und danach von reichen nach armen Adertypen sortiert. Du kannst sie anklicken, um mehr über jede Ader zu erfahren.",
 	"vein_index_format": "Dies ist der $(thing)Erzindex$() für $(item){0}$(). Jede Ader hat Details über Seltenheit, Dichte, Adertyp, gefundene Höhe, Größen, in welchen Gesteinen sie vorkommt und noch viel mehr."
