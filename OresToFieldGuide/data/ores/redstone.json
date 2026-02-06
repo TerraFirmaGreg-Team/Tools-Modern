@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "红石",
       "info": "$(thing)熔化$(): 红石"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Redstone",
+      "info": "$(thing)Schmelzt in$(): Redstone"
     }
   ]
 }
