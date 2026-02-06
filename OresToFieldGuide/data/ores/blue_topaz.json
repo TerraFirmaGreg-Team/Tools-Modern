@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "蓝黄玉",
       "info": "$(thing)来源$(): 铝, 氟"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Blautopas",
+      "info": "$(thing)Quelle von$(): Aluminium, Fluor"
     }
   ]
 }
