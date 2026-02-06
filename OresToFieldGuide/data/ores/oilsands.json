@@ -27,6 +27,11 @@
       "lang": "zh_cn",
       "text": "油砂",
       "info": "$(thing)来源$(): 自由 \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Ölsand",
+      "info": "$(thing)Quelle von$(): Demokratie & Freiheit \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
     }
   ]
 }
