@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "蓝晶石",
       "info": "$(thing)来源$(): 铝"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Kyanit",
+      "info": "$(thing)Quelle von$(): Aluminium"
     }
   ]
 }
