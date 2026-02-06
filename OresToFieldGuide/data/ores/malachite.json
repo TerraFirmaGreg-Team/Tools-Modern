@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "孔雀石",
       "info": "$(thing)熔化$(): 铜"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Malachit",
+      "info": "$(thing)Schmelzt in$(): Kupfer"
     }
   ]
 }
