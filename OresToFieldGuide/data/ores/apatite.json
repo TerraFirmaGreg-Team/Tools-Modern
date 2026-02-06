@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "磷灰石",
       "info": "$(thing)来源$(): 钙, 磷, 林业PTSD"
+    },
+    {
+      "lang": "de_de",
+      "text": "Apatit",
+      "info": "$(thing)Quelle von$(): Calcium, Phosphor, Wald-PTSD"
     }
   ]
 }
