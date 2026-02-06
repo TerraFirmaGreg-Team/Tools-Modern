@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "白钨矿",
       "info": "$(thing)来源$(): 钨"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Scheelit",
+      "info": "$(thing)Quelle von$(): Wolfram"
     }
   ]
 }
