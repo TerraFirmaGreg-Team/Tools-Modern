@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "锂云母",
       "info": "$(thing)来源$(): 钾, 锂, 铝, 氟"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Lepidolith",
+      "info": "$(thing)Quelle von$(): Kalium, Lithium, Aluminium, Fluor"
     }
   ]
 }

@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "塔基安矿",
       "info": "$(thing)来源$(): 铼, 钼"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Tarkianit",
+      "info": "$(thing)Quelle von$(): Rhenium, Molybdän"
     }
   ]
 }

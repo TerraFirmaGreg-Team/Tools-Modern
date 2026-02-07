@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "绿宝石",
       "info": "$(thing)用于$(): MV组件, 标签过滤卡"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Smaragd",
+      "info": "$(thing)Verwendet für$(): MV Komponenten, Gegenstandsfilter"
     }
   ]
 }

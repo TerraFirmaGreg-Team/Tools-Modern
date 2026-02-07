@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "红宝石",
       "info": "$(thing)来源$(): 铬, 铝"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Rubin",
+      "info": "$(thing)Quelle von$(): Chrom, Aluminium"
     }
   ]
 }

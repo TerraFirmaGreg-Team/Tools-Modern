@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "戴斯矿",
       "info": "$(thing)来源$(): 铁, 钛, 氮"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Desh",
+      "info": "$(thing)Quelle von$(): Eisen, Titan, Stickstoff"
     }
   ]
 }

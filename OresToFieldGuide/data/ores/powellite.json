@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "钼钨钙矿",
       "info": "$(thing)来源$(): 钼"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Powellit",
+      "info": "$(thing)Quelle von$(): Molybdän"
     }
   ]
 }

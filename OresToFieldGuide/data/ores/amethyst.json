@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "紫水晶",
       "info": "$(thing)来源$(): 铁"
+    },
+    {
+      "lang": "de_de",
+      "text": "Amethyst",
+      "info": "$(thing)Quelle von$(): Eisen"
     }
   ]
 }

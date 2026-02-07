@@ -1,0 +1,30 @@
+{
+	"rarity": "$(t:Die Chance, dass eine Ader pro Chunk generiert wird. Kleinere und untere Zahlen sind häufiger.)Seltenheit$(/t)",
+	"chunks": "Chunks",
+	"density": "$(t:Der Prozentsatz von Blöcken in einer Ader, die Erze anstelle von Stein sind. Eine höherer Prozentsatz heißt mehr Erze.)Dichte$(/t)",
+	"type": "$(t:Die Form einer Ader.)Typ$(/t)",
+	"y": "$(t:Die Y-Höhen, zwischen denen die Ader generieren kann.)Y$(/t)",
+	"size": "$(t:Der durchschnittliche Durchmesser der Ader)Größe$(/t)",
+	"height": "Höhe",
+	"radius": "Radius",
+	"stone_types": "Gesteinsarten",
+	"indicator_depth": "$(t:Wenn die Distanz zwischen der Oberfläche und der Erzader größer als diese Zahl ist, werden keine Indikatoren an der Oberfläche generiert.)Indikator Maximale Tiefe$(/t)",
+	"percentage": "Prozentsatz",
+	"formula": "Formel",
+
+	"hazard": "Gefahr",
+	"arsenicosis": "$(t:Benötigt Atemschutzmaske)Arsenikose (Einatmung)$(/t)",
+	"asbestosis": "$(t:Benötigt Atemschutzmaske)Asbestose (Einatmung)$(/t)",
+	"berylliosis": "$(t:Benötigt Gummihandschuhe)Berylliose (Hautkontakt)$(/t)",
+	"carcinogenic": "$(t:Benötigt Vollschutz)Karzinogen (Beliebiger Kontakt)$(/t)",
+	"radioactive": "$(t:Benötigt Vollschutz)Radioaktiv (Beliebiger Kontakt)$(/t)",
+	"weak_poison": "$(t:Benötigt Atemschutzmaske)Leicht Giftig (Einatmung)$(/t)",
+	"irritant": "$(t:Benötigt Gummihandschuhe)Reizend (Hautkontakt)$(/t)",
+
+	"tfc:cluster_vein": "$(t:Meistens rundförmig)Klumpenader$(/t)",
+	"tfc:pipe_vein": "$(t:Hoch und schmal)Rohrader$(/t)",
+	"tfc:disc_vein": "$(t:Breit und flach)Scheibenader$(/t)",
+
+	"ore_index_format": "Dies ist der $(thing)Erzindex$() für $(thing){0}$(). Alle Erze sind zuerst alphabetisch und danach von reichen nach armen Adertypen sortiert. Du kannst sie anklicken, um mehr über jede Ader zu erfahren.",
+	"vein_index_format": "Dies ist der $(thing)Erzindex$() für $(item){0}$(). Jede Ader hat Details über Seltenheit, Dichte, Adertyp, gefundene Höhe, Größen, in welchen Gesteinen sie vorkommt und noch viel mehr."
+}

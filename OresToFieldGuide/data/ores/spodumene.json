@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "锂辉石",
       "info": "$(thing)来源$(): 锂, 铝"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Spodumen",
+      "info": "$(thing)Quelle von$(): Lithium, Aluminium"
     }
   ]
 }

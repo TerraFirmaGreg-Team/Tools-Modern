@@ -27,6 +27,11 @@
       "lang": "zh_cn",
       "text": "黄色石榴石",
       "info": "$(thing)来源$(): 钙铁榴石, 钙铝榴石, 钙铬榴石"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Gelber Granat",
+      "info": "$(thing)Quelle von$(): Andradit, Grossular, Uwarowit"
     }
   ]
 }

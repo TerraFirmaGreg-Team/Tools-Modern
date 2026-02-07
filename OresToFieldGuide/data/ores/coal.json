@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "煤炭",
       "info": "$(thing)用于$(): 燃料, 蒸馏"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Kohle",
+      "info": "$(thing)Verwendet für$(): Treibstoff, Destillation"
     }
   ]
 }

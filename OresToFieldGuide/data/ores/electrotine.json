@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "蓝石",
       "info": "$(thing)来源$(): 金, 银, 红石"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Electrotin",
+      "info": "$(thing)Quelle von$(): Gold, Silber, Redstone"
     }
   ]
 }

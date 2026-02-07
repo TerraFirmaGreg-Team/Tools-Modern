@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "钛铁矿",
       "info": "$(thing)来源$(): 铁, 钛"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Ilmenit",
+      "info": "$(thing)Quelle von$(): Eisen, Titan"
     }
   ]
 }

@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "斑铜矿",
       "info": "$(thing)熔化$(): 铜"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Bornit",
+      "info": "$(thing)Quelle von$(): Kupfer"
     }
   ]
 }

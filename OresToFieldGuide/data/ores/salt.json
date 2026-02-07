@@ -28,6 +28,11 @@
 			"lang": "zh_cn",
 			"text": "石鹽",
 			"info": "$(thing)来源$(): 钠, 氯"
-		}
+		},    
+        {
+            "lang": "de_de",
+            "text": "Halit",
+            "info": "$(thing)Quelle von$(): Natrium, Chlor"
+        }
 	]
 }

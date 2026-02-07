@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "硼砂",
       "info": "$(thing)来源$(): 钠, 硼"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Borax",
+      "info": "$(thing)Quelle von$(): Natrium, Bor"
     }
   ]
 }

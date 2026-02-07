@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "铁铝榴石",
       "info": "$(thing)来源$(): 铝, 铁"
+    },
+    {
+      "lang": "de_de",
+      "text": "Almandin",
+      "info": "$(thing)Quelle von$(): Aluminium, Eisen"
     }
   ]
 }

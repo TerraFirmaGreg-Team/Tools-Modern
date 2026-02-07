@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "膨润土",
       "info": "$(thing)来源$(): 钠, 镁"
+    },
+    {
+      "lang": "de_de",
+      "text": "Bentonit",
+      "info": "$(thing)Quelle von$(): Natrium, Magnesium"
     }
   ]
 }

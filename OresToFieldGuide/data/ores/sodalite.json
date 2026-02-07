@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "方钠石",
       "info": "$(thing)来源$(): 铝, 钠"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Sodalith",
+      "info": "$(thing)Quelle von$(): Aluminium, Natrium"
     }
   ]
 }

@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "辉铜矿",
       "info": "$(thing)来源$(): 铜"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Chalkosin",
+      "info": "$(thing)Quelle von$(): Kupfer"
     }
   ]
 }

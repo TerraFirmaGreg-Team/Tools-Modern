@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "钼铅矿",
       "info": "$(thing)来源$(): 铅, 钼"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Wulfenit",
+      "info": "$(thing)Quelle von$(): Blei, Molybdän"
     }
   ]
 }

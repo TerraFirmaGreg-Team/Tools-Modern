@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "天然碱",
       "info": "$(thing)来源$(): 钠"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Trona",
+      "info": "$(thing)Quelle von$(): Natrium"
     }
   ]
 }

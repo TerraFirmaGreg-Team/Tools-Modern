@@ -10,20 +10,24 @@
 		"pt_br": "Terra",
 		"uk_ua": "Земля",
 		"zh_cn": "地球",
-		"ru_ru": "Земли"
+		"ru_ru": "Земли",
+		"de_de": "Erde"
 	},
 	"ore_index_translations": {
 		"en_us": "Earth Ore Index",
 		"pt_br": "Índice de Minérios da Terra",
 		"uk_ua": "Індекс Земних Руд",
 		"zh_cn": "地球矿物索引",
-		"ru_ru": "Каталог руд Земли"
+		"ru_ru": "Каталог руд Земли",
+		"de_de": "Erde Erzindex"
+		
 	},
 	"vein_index_translations": {
 		"en_us": "Earth Vein Index",
 		"pt_br": "Índice de Veios da Terra",
 		"uk_ua": "Індекс Земних Жил",
 		"zh_cn": "地球矿脉索引",
-		"ru_ru": "Каталог жил Земли"
+		"ru_ru": "Каталог жил Земли",
+		"de_de": "Erde Aderindex"
 	}
 }

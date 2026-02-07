@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "石英岩",
       "info": "$(thing)用于$(): LV组件"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Quarz",
+      "info": "$(thing)Verwendet für$(): LV Komponenten"
     }
   ]
 }

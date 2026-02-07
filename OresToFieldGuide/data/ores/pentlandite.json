@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "镍黄铁矿",
       "info": "$(thing)熔化$(): 镍"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Pentlandit",
+      "info": "$(thing)Schmelzt in$(): Nickel"
     }
   ]
 }

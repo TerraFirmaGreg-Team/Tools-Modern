@@ -27,6 +27,11 @@
       "lang": "zh_cn",
       "text": "红色石榴石",
       "info": "$(thing)来源$(): 镁铝榴石, 铁铝榴石, 锰铝榴石"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Roter Granat",
+      "info": "$(thing)Quelle von$(): Pyrop, Almandin, Spessartin"
     }
   ]
 }

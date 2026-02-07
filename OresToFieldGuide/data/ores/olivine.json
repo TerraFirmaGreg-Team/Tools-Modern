@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "橄榄石",
       "info": "$(thing)来源$(): 镁, 铁"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Olivin",
+      "info": "$(thing)Quelle von$(): Magnesium, Eisen"
     }
   ]
 }

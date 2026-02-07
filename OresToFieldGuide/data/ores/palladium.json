@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "钯矿",
       "info": "$(thing)来源$(): 钯"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Palladium",
+      "info": "$(thing)Quelle von$(): Palladium"
     }
   ]
 }

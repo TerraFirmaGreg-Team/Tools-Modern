@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "原生铜",
       "info": "$(thing)熔化$(): 铜"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Natives Kupfer",
+      "info": "$(thing)Schmelzt in$(): Kupfer"
     }
   ]
 }

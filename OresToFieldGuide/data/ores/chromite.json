@@ -29,6 +29,11 @@
       "lang": "zh_cn",
       "text": "铬铁矿",
       "info": "$(thing)来源$(): 铬"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Chromit",
+      "info": "$(thing)Quelle von$(): Chrom"
     }
   ]
 }

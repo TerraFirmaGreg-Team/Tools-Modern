@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "赛特斯石英矿",
       "info": "$(thing)用于$(): Applied Energistics 2"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Certus Quarz",
+      "info": "$(thing)Verwendet für$(): Applied Energistics 2"
     }
   ]
 }

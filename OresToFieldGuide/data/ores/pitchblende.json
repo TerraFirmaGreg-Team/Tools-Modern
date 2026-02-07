@@ -29,6 +29,11 @@
       "lang": "zh_cn",
       "text": "沥青铀矿",
       "info": "$(thing)来源$(): 铀, 钍, 铅"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Pechblende",
+      "info": "$(thing)Quelle von$(): Uran, Thorium, Blei"
     }
   ]
 }

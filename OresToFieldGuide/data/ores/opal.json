@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "蛋白石",
       "info": "$(thing)来源$(): 硅, 氧"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Opal",
+      "info": "$(thing)Quelle von$(): Silicium, Sauerstoff"
     }
   ]
 }

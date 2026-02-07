@@ -29,6 +29,11 @@
       "lang": "zh_cn",
       "text": "辉钴矿",
       "info": "$(thing)来源$(): 钴, 砷"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Kobaltit",
+      "info": "$(thing)Quelle von$(): Kobalt, Arsen"
     }
   ]
 }

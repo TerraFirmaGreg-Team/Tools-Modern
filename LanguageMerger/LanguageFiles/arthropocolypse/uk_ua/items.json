@@ -8,22 +8,5 @@
 	"item.arthropocolypse.ice_crawler_meat": "Сирий жук обсидіановий палеофедон",
 	"item.arthropocolypse.cooked_ice_crawler_meat": "Приготований жук обсидіановий палеофедон",
 	"item.arthropocolypse.energy_bar": "Комахи смаколики",
-	"item.arthropocolypse.beetle_fragment": "Фрагмент хітину",
-	"block.arthropocolypse.beetle_fragment_block": "Блок хітину",
-	"block.arthropocolypse.beetle_fragment_block_bricks": "Цегла з хітину",
-	"block.arthropocolypse.chiseled_beetle_fragment_block": "Різьблений блок хітину",
-	"block.arthropocolypse.polished_beetle_fragment_block": "Полірований блок хітину",
-	"block.arthropocolypse.tiled_beetle_fragment_block": "Плитковий блок хітину",
-	"block.arthropocolypse.beetle_fragment_block_stairs": "Сходи з хітинового блоку",
-	"block.arthropocolypse.beetle_fragment_block_bricks_stairs": "Сходи з хітинової цегли",
-	"block.arthropocolypse.polished_beetle_fragment_block_stairs": "Сходи з полірованого хітину",
-	"block.arthropocolypse.tiled_beetle_fragment_block_stairs": "Сходи з плиткового хітину",
-	"block.arthropocolypse.beetle_fragment_block_slab": "Плита з хітинового блоку",
-	"block.arthropocolypse.beetle_fragment_block_bricks_slab": "Плита з хітинової цегли",
-	"block.arthropocolypse.polished_beetle_fragment_block_slab": "Плита з полірованого хітину",
-	"block.arthropocolypse.tiled_beetle_fragment_block_slab": "Плита з плиткового хітину",
-	"block.arthropocolypse.beetle_fragment_block_wall": "Стіна з хітинового блоку",
-	"block.arthropocolypse.beetle_fragment_block_bricks_wall": "Стіна з хітинової цегли",
-	"block.arthropocolypse.polished_beetle_fragment_block_wall": "Стіна з полірованого хітину",
-	"block.arthropocolypse.tiled_beetle_fragment_block_wall": "Стіна з плиткового хітину"
+	"item.arthropocolypse.beetle_fragment": "Фрагмент хітину"
 }

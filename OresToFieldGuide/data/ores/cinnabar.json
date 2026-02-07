@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "朱砂",
       "info": "$(thing)来源$(): 水银"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Zinnober",
+      "info": "$(thing)Quelle von$(): Quecksilber"
     }
   ]
 }

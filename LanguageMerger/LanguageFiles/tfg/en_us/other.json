@@ -295,7 +295,7 @@
     "tag.item.tfg.dried_fruit": "Dried Fruit",
 
     "tfg.clientmessage.spatialioblocked.claimedchunks": "Spatial IO blocked: Region contains chunks claimed by another team",
-  
+
     "tfg.nuclear.average_heat.text": "Heat: From %s to %s",
     "tfg.nuclear.skip": "",
 
@@ -312,6 +312,6 @@
     "tfg.machine.aux_exchanger.speed_modifier.desc": "Recipe speed based on battery temperature",
     "tfg.machine.aux_exchanger.heat_unavailable": "Heat information unavailable",
     "tfg.machine.aux_echanger.output.title": "=== Output ===",
-    
+
     "tfg.multiblock.turbine.obstructed": "Your turbine is obstructed, check under and inside the chimney that there is nothing blocking it"
 }

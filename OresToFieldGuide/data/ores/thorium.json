@@ -29,6 +29,11 @@
             "lang": "zh_cn",
             "text": "方钍石",
             "info": "$(thing)来源$(): 钍"
-        }
+        },    
+        {
+            "lang": "de_de",
+            "text": "Thorianit",
+            "info": "$(thing)Quelle von$(): Thorium"
+         }
     ]
 }

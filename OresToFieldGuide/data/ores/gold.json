@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "原生金",
       "info": "$(thing)熔化$(): 金"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Natives Gold",
+      "info": "$(thing)Schmelzt in$(): Gold"
     }
   ]
 }

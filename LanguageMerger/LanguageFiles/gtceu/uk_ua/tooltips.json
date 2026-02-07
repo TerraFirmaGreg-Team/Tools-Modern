@@ -1,0 +1,20 @@
+{
+	"gtceu.tooltip.machine.moon_dust_harvester_1": "§7Позаземний пилосос§r",
+	"gtceu.tooltip.machine.moon_dust_harvester_2": "§7Збирає нескінченну кількість реголітового пилу залежно від біома, в якому він розміщений.§r",
+	"gtceu.tooltip.machine.ostrum_harvester_1": "§7Юридично відмінний пряний повзун§r",
+	"gtceu.tooltip.machine.ostrum_harvester_2": "§7Видобуває нескінченний пил оструму, якщо розміщено над родовищем оструму.§r",
+	"gtceu.tooltip.machine.ostrum_harvester_3": "§7Потребує бурової рідини для роботи.§r",
+	"gtceu.tooltip.machine.ostrum_linear_accelerator_1": "§7Бозон Хіггса не входить у комплект§r",
+	"gtceu.tooltip.machine.ostrum_linear_accelerator_2": "§7Розкладає острумовий пил на його компоненти. Потребує різні рідини з лінії поділу.§r",
+	"gtceu.tooltip.machine.ostrum_linear_accelerator_3": "§7Не можна розганяти, використовуйте §eТепло§r§7 та §eТемпературу§r§7 від сусідньої §bТеплової батареї§r§7 для роботи.§r",
+	"gtceu.tooltip.machine.heat_exchanger_1": "§7Нагрівання рідин іншими гарячими рідинами§r",
+	"gtceu.tooltip.machine.heat_exchanger_2": "§7Передає тепло від однієї рідини до іншої.§r",
+	"gtceu.tooltip.machine.nuclear_fuel_factory_1": "§7Виробляє додатково пікантні стрижні§r",
+	"gtceu.tooltip.machine.nuclear_fuel_factory_2": "§7Переробляє необроблений радіоактивний матеріал у подільне паливо.§r",
+	"gtceu.tooltip.machine.steam_bloomery_1": "§7Покращуйте свою домницю силою пари!§r",
+	"gtceu.tooltip.machine.steam_bloomery_2": "§7Переробляє пил або злитки, що містять залізо, у необроблені залізні криці.§r",
+	"gtceu.tooltip.machine.steam_bloomery_3": "§7Використання коксу або антрациту як пального подвоїть продуктивність.§r",
+	"gtceu.tooltip.machine.steam_parallel": "§7Може обробляти до 8 рецептів одночасно, що змінює кількість необхідної пари.§r",
+	"gtceu.tooltip.machine.coal_liquefaction_tower_1": "§7Фруктовий міксер§r",
+	"gtceu.tooltip.machine.coal_liquefaction_tower_2": "§7Видобуває гази та рідини з вуглецевих твердих речовин§r"
+}

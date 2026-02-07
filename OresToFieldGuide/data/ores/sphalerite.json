@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "闪锌矿",
       "info": "$(thing)熔化$(): 锌"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Sphalerit",
+      "info": "$(thing)Schmelzt in$(): Zink"
     }
   ]
 }

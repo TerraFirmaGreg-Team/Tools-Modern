@@ -29,6 +29,11 @@
       "lang": "zh_cn",
       "text": "铍矿",
       "info": "$(thing)来源$(): 铍"
+    },
+    {
+      "lang": "de_de",
+      "text": "Beryllium",
+      "info": "$(thing)Quelle von$(): Beryllium"
     }
   ]
 }
