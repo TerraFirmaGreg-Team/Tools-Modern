@@ -186,6 +186,7 @@
     "block.tfg.loose.dripstone": "Камешек травертина",
     "block.tfg.rock.aqueduct_dripstone": "Травертиновый акведук",
 
+	"block.tfg.rock.hardened_crackrack": "Укрeплённый каратофир",
     "block.tfg.rock.crackrack_stairs": "Кератофировые ступеньки",
     "block.tfg.rock.crackrack_slab": "Кератофировая плита",
     "block.tfg.rock.crackrack_wall": "Кератофировая ограда",
@@ -814,6 +815,7 @@
 
     "block.tfg.smr_generator": "Малая модульная турбина",
 	"block.tfg.casings.machine_casing_desh_ptfe": "Радиационно-безопасный корпус из деша",
+	"block.tfg.uv_smr_fluid_import_hatch": "SMT Входной люк для жидкости",
 
     "block.tfg.growth_monitor": "Монитор роста",
     "block.tfg.sample_rack": "Стойка для образцов",
@@ -824,7 +826,12 @@
 	"block.tfg.moderate_core_frame": "Каркас с ядром стабилизатора",
 	"block.tfg.impure_moderate_core_frame": "Каркас с нечистым ядром стабилизатора",
 
+    "block.tfg.copper_sandy": "Диоксид кремния, связанный медью",
+	"block.tfg.copper_sandy_frame": "Каркас из диоксида кремния, связанного медь",
+	"block.tfg.beryllium_sandy": "Диоксид кремния, связанный бериллием",
+	"block.tfg.beryllium_sandy_frame": "Каркас из диоксида кремния, связанного бериллием",
+
+	"block.tfg.heat_battery_mk1": "Тепловая батарея Mk1",
     "tfg.block_entity.artisan_table": "Ремесленный стол",
 	"block.tfg.artisan_table": "Ремесленный стол"
 }
-
