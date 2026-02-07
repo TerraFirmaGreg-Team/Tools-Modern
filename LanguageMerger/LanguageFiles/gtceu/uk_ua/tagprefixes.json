@@ -34,5 +34,7 @@
     "tagprefix.marble": "Мармурова %s руда",
     "tagprefix.deepslate": "Мігматитова %s руда",
     "tagprefix.pyroxenite": "Піроксенітова %s руда",
-    "tagprefix.dripstone": "Травертинова %s руда"
+    "tagprefix.dripstone": "Травертинова %s руда",
+    "tagprefix.sandy_jadestone": "%s руда лампроїту",
+    "tagprefix.flavolite": "%s руда ігнімбриту"
 }
