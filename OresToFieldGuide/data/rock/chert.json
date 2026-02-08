@@ -6,7 +6,8 @@
 		"pt_br": "Cherte",
 		"ru_ru": "Кремнистый сланец",
 		"uk_ua": "Кременистий сланець",
-		"zh_cn": "燧石"
+		"zh_cn": "燧石",
+        "de_de": "Hornstein"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/chert"

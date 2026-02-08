@@ -61,6 +61,10 @@
 		{
 			"lang": "ru_ru",
 			"text": "Соли & Сподумен"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Salts & Spodumen"
+        }
 	]
 }

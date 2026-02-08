@@ -6,7 +6,8 @@
 		"pt_br": "Quartzito",
 		"ru_ru": "Кварцит",
 		"uk_ua": "Кварцит",
-		"zh_cn": "石英岩"
+		"zh_cn": "石英岩",
+        "de_de": "Quarzit"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/quartzite"

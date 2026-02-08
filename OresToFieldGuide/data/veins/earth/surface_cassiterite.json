@@ -62,6 +62,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "锡石矿 (地表)"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Kassiterit (Oberfläche)"
+        }
 	]
 }

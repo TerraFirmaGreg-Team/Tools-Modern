@@ -58,6 +58,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "铜矿, 黄铜矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Kupfer & Chalkopyrit"
+        }
 	]
 }

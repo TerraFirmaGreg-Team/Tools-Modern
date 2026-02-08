@@ -8,7 +8,8 @@
 		"ru_ru": "Лампроит",
 		"uk_ua": "Лампроїт",
 		"zh_cn": "天然煌斑岩",
-		"ja_jp": "ランプロアイト"
+		"ja_jp": "ランプロアイト",
+        "de_de": "Lamproit"
 	},
 	"replaceable_blocks": [
 		"betterend:sandy_jadestone"

@@ -58,6 +58,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "蓝晶石, 云母, 铝土矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Kyanit, Glimmer, & Bauxit"
+        }
 	]
 }

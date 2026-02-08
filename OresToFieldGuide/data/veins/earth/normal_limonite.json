@@ -56,6 +56,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "褐铁矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Limonit"
+        }
 	]
 }

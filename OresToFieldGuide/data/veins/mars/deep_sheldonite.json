@@ -50,6 +50,10 @@
 		{
 			"lang": "ru_ru",
 			"text": "Борнит & Куперит"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Bornit & Cooperit"
+        }
 	]
 }

@@ -58,6 +58,12 @@
 			"lang": "zh_cn",
 			"text": "红石, 朱砂, 红宝石",
 			"info": "找不到吗？花岗岩总是生成在$(thing)流纹岩$()的下方，而且在海洋中寻找也可能有用！"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Redstone, Zinnober, & Rubin",
+            "info": "Kannst es nicht finden? Granit erscheint immer unter $(thing)Rhyolith$(), und im Ozean zu schauen kann auch nützlich sein!",
+            "emi": "Tipp: Granit ist immer\\nunter Rhyolith."
+        }
 	]
 }

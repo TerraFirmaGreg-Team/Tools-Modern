@@ -61,6 +61,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "磁铁矿, 钒"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Magnetit & Vanadium"
+        }
 	]
 }

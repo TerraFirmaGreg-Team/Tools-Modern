@@ -89,6 +89,12 @@
 		{
 			"lang": "zh_cn",
 			"text": "盐, 锂辉石"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Salze & Spodumen",
+            "info": "Erscheint nur im $(thing)Salzebenen$() Biom.",
+			"emi": "Nur in Salzebenen."
+        }
 	]
 }

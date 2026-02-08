@@ -8,7 +8,8 @@
 		"ru_ru": "Игнимбрит",
 		"uk_ua": "Iгнімбрит",
 		"zh_cn": "天然熔灰岩",
-		"ja_jp": "イグニンブライト"
+		"ja_jp": "イグニンブライト",
+        "de_de": "Ignimbrit"
 	},
 	"replaceable_blocks": [
 		"betterend:flavolite"

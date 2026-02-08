@@ -43,6 +43,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "无烟煤"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Anthrazit"
+        }
 	]
 }

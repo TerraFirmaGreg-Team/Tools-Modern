@@ -6,7 +6,8 @@
 		"pt_br": "Fonolito",
 		"ru_ru": "Фонолит",
 		"uk_ua": "Фоноліт",
-		"zh_cn": "响岩"
+		"zh_cn": "响岩",
+        "de_de": "Phonolith"
 	},
 	"replaceable_blocks": [
 		"ad_astra:glacio_stone"

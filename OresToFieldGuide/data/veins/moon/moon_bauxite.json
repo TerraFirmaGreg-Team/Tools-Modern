@@ -56,6 +56,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "铝土矿, 钛铁矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Bauxit & Ilmenit"
+        }
 	]
 }

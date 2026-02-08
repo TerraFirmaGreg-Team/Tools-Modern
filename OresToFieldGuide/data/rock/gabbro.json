@@ -6,7 +6,8 @@
 		"pt_br": "Gabro",
 		"ru_ru": "Габбро",
 		"uk_ua": "Габро",
-		"zh_cn": "辉长岩"
+		"zh_cn": "辉长岩",
+        "de_de": "Gabbro"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/gabbro"

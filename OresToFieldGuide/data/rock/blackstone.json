@@ -6,7 +6,8 @@
 		"pt_br": "Piroxenito",
 		"ru_ru": "Пироксенит",
 		"uk_ua": "Піроксеніти",
-		"zh_cn": "辉石岩"
+		"zh_cn": "辉石岩",
+        "de_de": "Pyroxenit"
 	},
 	"replaceable_blocks": [
 		"minecraft:blackstone",

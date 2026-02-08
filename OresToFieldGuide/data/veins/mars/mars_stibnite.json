@@ -66,6 +66,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "黝铜矿 (普通)"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Tetrahedrit (Normal)"
+        }
 	]
 }

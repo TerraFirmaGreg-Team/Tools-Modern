@@ -78,6 +78,12 @@
 		{
 			"lang": "zh_cn",
 			"text": "塔基安矿, 油砂"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Tarkianit & Ölsand",
+            "info": "Erscheint nur in $(thing)süd-westlichen$() Wüsten, mit einer minimalen Temperatur von 7°C und einem maximalen Niederschlag von 100mm.",
+            "emi": "Nur in trockenen Klimatas.\\nMin. Temp: 7°C\\nMax. Niederschlag: 100mm"
+        }
 	]
 }

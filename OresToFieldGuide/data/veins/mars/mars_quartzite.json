@@ -60,6 +60,10 @@
 		{
 			"lang": "ru_ru",
 			"text": "Кварцит, Асбест & Барит"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Quarzit, Asbest, & Baryt"
+        }
 	]
 }

@@ -61,6 +61,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "硝石, 蓝石"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Saltpeter & Electrotin"
+        }
 	]
 }
