@@ -65,6 +65,10 @@
 		{
 			"lang": "ru_ru",
 			"text": "Альмандин & Сапфир"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Almandin & Saphir"
+        }
 	]
 }

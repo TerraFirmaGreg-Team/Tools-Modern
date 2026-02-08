@@ -64,6 +64,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "锡石矿 (普通)"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Kassiterit (Normal)"
+        }
 	]
 }

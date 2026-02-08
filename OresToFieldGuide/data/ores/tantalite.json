@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "钽铁矿",
       "info": "$(thing)来源$(): 锰, 钽"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Tantalit",
+      "info": "$(thing)Quelle von$(): Mangan, Tantal"
     }
   ]
 }

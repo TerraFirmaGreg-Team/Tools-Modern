@@ -53,6 +53,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "红石, 朱砂, 红宝石"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Redstone, Zinnober, & Rubin"
+        }
 	]
 }

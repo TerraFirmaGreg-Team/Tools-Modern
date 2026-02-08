@@ -71,6 +71,10 @@
 		{
 			"lang": "ru_ru",
 			"text": "Сфалерит & Галена"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Sphalerit & Galenit"
+        }
 	]
 }

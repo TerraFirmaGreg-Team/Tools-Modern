@@ -46,6 +46,10 @@
 		{
 			"lang": "ru_ru",
 			"text": "Уранинит, Торианит, & Уранит"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Pechblende, Thorianit, & Uraninit"
+        }
 	]
 }

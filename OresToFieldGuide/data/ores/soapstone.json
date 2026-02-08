@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "皂石",
       "info": "$(thing)来源$(): 镁"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Speckstein",
+      "info": "$(thing)Quelle von$(): Magnesium"
     }
   ]
 }

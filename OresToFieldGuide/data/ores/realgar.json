@@ -29,6 +29,11 @@
       "lang": "zh_cn",
       "text": "雄黄",
       "info": "$(thing)来源$(): 砷"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Realgar",
+      "info": "$(thing)Quelle von$(): Arsen"
     }
   ]
 }

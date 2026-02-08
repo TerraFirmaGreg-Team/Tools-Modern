@@ -6,7 +6,8 @@
 		"pt_br": "Norito",
 		"ru_ru": "Норит",
 		"uk_ua": "Норит",
-		"zh_cn": "苏长岩"
+		"zh_cn": "苏长岩",
+        "de_de": "Norit"
 	},
 	"replaceable_blocks": [
 		"ad_astra:moon_deepslate"

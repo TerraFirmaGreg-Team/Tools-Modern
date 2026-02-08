@@ -77,12 +77,24 @@
 			"emi": "Only in Salt Flats."
 		},
 		{
-			"lang": "zh_cn",
-			"text": "盐, 锂辉石"
+			"lang": "ru_ru",
+			"text": "Соли и Cподумен",
+			"info": "Встречается только в $(thing)Соляных равнинах$().",
+			"emi": "Только в Соляных равнинах."
 		},
 		{
 			"lang": "uk_ua",
 			"text": "Солі і Сподумен"
-		}
+		},
+		{
+			"lang": "zh_cn",
+			"text": "盐, 锂辉石"
+		},
+        {
+            "lang": "de_de",
+            "text": "Salze & Spodumen",
+            "info": "Erscheint nur im $(thing)Salzebenen$() Biom.",
+			"emi": "Nur in Salzebenen."
+        }
 	]
 }

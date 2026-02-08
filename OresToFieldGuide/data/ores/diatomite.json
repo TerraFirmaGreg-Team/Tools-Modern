@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "硅藻土",
       "info": "$(thing)来源$(): 铁, 铝"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Kieselgur",
+      "info": "$(thing)Quelle von$(): Eisen, Aluminium"
     }
   ]
 }

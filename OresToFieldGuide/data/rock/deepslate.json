@@ -6,7 +6,8 @@
 		"pt_br": "Migmatito",
 		"ru_ru": "Мигматит",
 		"uk_ua": "Мігматит",
-		"zh_cn": "混合岩"
+		"zh_cn": "混合岩",
+        "de_de": "Migmatit"
 	},
 	"replaceable_blocks": [
 		"minecraft:deepslate",

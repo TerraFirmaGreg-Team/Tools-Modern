@@ -63,6 +63,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "赛特斯石英矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Certus Quarz"
+        }
 	]
 }

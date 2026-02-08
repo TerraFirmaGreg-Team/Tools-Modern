@@ -27,6 +27,11 @@
       "lang": "zh_cn",
       "text": "青金石",
       "info": "$(thing)来源$(): 蓝金石, 方钠石, 黄铁矿, 方解石"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Lapis",
+      "info": "$(thing)Quelle von$(): Lasurit, Sodalith, Pyrit, Calcit"
     }
   ]
 }

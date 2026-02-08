@@ -73,6 +73,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "石榴石, 锡石矿砂"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Granat & Kassiterit Sand"
+        }
 	]
 }

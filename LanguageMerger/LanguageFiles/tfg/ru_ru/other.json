@@ -42,6 +42,8 @@
     "entity.tfg.tier_2_double_rocket": "Прочная двухместная ракета ASM 4914 (титан)",
     "entity.tfg.tier_3_double_rocket": "Тяжёлая двухместная ракета 45-Ti (вольфрамосталь)",
 
+    "curios.identifier.face": "Лицо",
+
     "effect.tfg.cooling": "§bОхлаждение",
     "effect.tfg.warming": "§6Согревание",
     "effect.tfg.instant_radiation": "Мгновенное радиоактивное излучение",
@@ -195,7 +197,7 @@
     "tfg.tooltip.hotornot_cold_equipment": "§7Дает защиту от всех §bхолодных§7 предметов, жидкостей и труб.§r",
     "tfg.tooltip.hotornot_floating_equipment": "§7Дает защиту от всех §eлегче воздуха§7 газов.§r",
     "tfg.tooltip.polycaprolactam": "Также известный как Нейлон",
-
+    "tfg.tooltip.vessel_warning": "§cНагрев переполненного сосуда приведёт к потере излишков и может испортить ваш сплав!§r",
 
     "tfg.tooltip.machine.one_energy_hatch": "Принимает ровно §6один§r энергетический разъём.",
     "tfg.tooltip.machine.two_energy_hatches": "Принимает до §6двух§r энергетических разъёма.",
@@ -240,14 +242,6 @@
     "tfg.tooltip.wireless_card_1": "Обеспечивает беспроводное соединение на любом расстоянии, даже с других планет!",
     "tfg.tooltip.wireless_card_2": "Передача предметов через терминал по-прежнему возможна, но с очень высокими затратами энергии.",
     "tfg.tooltip.wireless_card_3": "Используйте §dРельсотрон§r для удовлетворения ваших межпланетных логистических потребностей.",
-
-    "tfg.tooltip.component.blue_ice": "Может быть размещен в ядерный реактор для увелечения максимального тепла на §90.5§r",
-    "tfg.tooltip.component.aes_insulation_frame": "Может быть размещен в ядерный реактор для увелечения максимального тепла на §91§r",
-    "tfg.tooltip.component.glacian_fur": "Может быть размещен в ядерный реактор для увелечения максимального тепла на §92§r",
-    "tfg.tooltip.component.impure_moderate_core_frame": "Может быть размещен в ядерный реактор для увелечения максимального тепла на §95§r",
-    "tfg.tooltip.component.moderate_core_frame": "Может быть размещен в ядерный реактор для увелечения максимального тепла на §910§r",
-    "tfg.tooltip.component.dry_ice": "Может использоваться в ядерном реакторе для его охлаждения; требуется держатель материала",
-    "tfg.tooltip.component.refrigerant_pellet": "Может использоваться в ядерном реакторе для его охлаждения; требуется держатель материала",
 
     "tfg.tooltip.component.nuclear_turbine_1": "§eПроиводит:§r 4096 EU/t",
     "tfg.tooltip.component.nuclear_turbine_2": "Каждый держатель ротора выше §5EV§r §7добавляет§r 10% эффективности и умножает EU/t на 2.",
@@ -298,5 +292,26 @@
     "tfg.gui.cycle_duration": "Длительность цикла: ",
 
     "tfg.emi.bacon_requirement": "Бекон - Сырую свинину сначала нужно закоптить",
-    "tag.item.tfg.dried_fruit": "Сушеный фрукт"
+    "tag.item.tfg.dried_fruit": "Сушеный фрукт",
+
+    "tfg.clientmessage.spatialioblocked.claimedchunks": "Spatial IO заблокирован: регион содержит чанки, заявленные другой командой",
+
+    "tfg.nuclear.average_heat.text": "Тепло: от %s до %s",
+    "tfg.nuclear.skip": "",
+
+    "tfg.machine.aux_exchanger.heat.title": "=== Информация о тепле ===",
+    "tfg.machine.aux_exchanger.recipe_temperature": "Температура рецепта: ",
+    "tfg.machine.aux_exchanger.recipe_temperature.desc": "Температура, требуемая этим рецептом",
+    "tfg.machine.aux_exchanger.battery_temperature": "Температура батареи: ",
+    "tfg.machine.aux_exchanger.battery_temperature.desc": "Текущая температура тепловой батареи",
+    "tfg.machine.aux_exchanger.hu_consumed": "HU потреблено: ",
+    "tfg.machine.aux_exchanger.hu_consumed.desc": "Единиц тепла потребляется за цикл рецепта",
+    "tfg.machine.aux_exchanger.total_hu": "Всего HU доступно: ",
+    "tfg.machine.aux_exchanger.total_hu.desc": "Общее количество единиц тепла, запасённое в тепловой батарее",
+    "tfg.machine.aux_exchanger.speed_modifier": "Модификатор скорости: ",
+    "tfg.machine.aux_exchanger.speed_modifier.desc": "Скорость работы рецепта в зависимости от температуры батареи",
+    "tfg.machine.aux_exchanger.heat_unavailable": "Информация о тепле недоступна",
+    "tfg.machine.aux_echanger.output.title": "=== Выход ===",
+
+    "tfg.multiblock.turbine.obstructed": "Турбина заблокирована. Проверьте, чтобы под дымоходом и внутри него ничего не мешало"
 }

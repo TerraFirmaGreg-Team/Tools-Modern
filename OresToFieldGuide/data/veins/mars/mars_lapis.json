@@ -55,6 +55,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "青金石, 蓝金石, 方钠石"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Lapis, Lasurit, & Sodalith"
+        }
 	]
 }

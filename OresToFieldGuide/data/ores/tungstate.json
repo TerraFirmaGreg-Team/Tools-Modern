@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "钨酸锂",
       "info": "$(thing)来源$(): 钨, 锂"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Wolframat",
+      "info": "$(thing)Quelle von$(): Wolfram, Lithium"
     }
   ]
 }

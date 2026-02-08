@@ -28,6 +28,11 @@
 			"lang": "zh_cn",
 			"text": "钾石盐",
 			"info": "$(thing)来源$(): 钾, 氯, 肥料"
-		}
+		},    
+        {
+            "lang": "de_de",
+            "text": "Sylvin",
+            "info": "$(thing)Quelle von$(): Kalium, Chlor, Dünger"
+        }
 	]
 }

@@ -53,6 +53,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "石英"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Quarz"
+        }
 	]
 }

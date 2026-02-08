@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "烧绿石",
       "info": "$(thing)来源$(): 铌"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Pyrochlor",
+      "info": "$(thing)Quelle von$(): Niob"
     }
   ]
 }

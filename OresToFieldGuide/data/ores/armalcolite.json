@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "阿姆阿尔柯尔矿",
       "info": "$(thing)来源$(): 镁, 金红石, 钛"
+    },
+    {
+      "lang": "de_de",
+      "text": "Armalcolit",
+      "info": "$(thing)Quelle von$(): Magnesium, Rutil, Titan"
     }
   ]
 }

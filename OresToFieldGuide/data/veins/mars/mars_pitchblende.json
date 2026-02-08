@@ -56,6 +56,10 @@
 		{
 			"lang": "ru_ru",
 			"text": "Уранит, Торий & Гематит"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Pechblende & Thorianit, & Hematit"
+        }
 	]
 }

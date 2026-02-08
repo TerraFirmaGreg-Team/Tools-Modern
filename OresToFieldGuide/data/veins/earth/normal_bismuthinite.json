@@ -63,6 +63,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "辉铋矿 (普通)"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Bismut (Normal)"
+        }
 	]
 }

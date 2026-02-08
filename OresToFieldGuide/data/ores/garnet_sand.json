@@ -27,6 +27,11 @@
       "lang": "zh_cn",
       "text": "石榴石矿砂",
       "info": "$(thing)来源$(): 铁铝榴石, 钙铁榴石, 钙铝榴石, 镁铝榴石, 锰铝榴石, 钙铬榴石"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Granatsand",
+      "info": "$(thing)Quelle von$(): Almandin, Andradit, Grossular, Pyrop, Spessartin, Uwarowit"
     }
   ]
 }

@@ -60,6 +60,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "赤铁矿, 针铁矿, 红宝石"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Hematit, Goethit, & Rubin"
+        }
 	]
 }

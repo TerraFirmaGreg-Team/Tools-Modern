@@ -6,7 +6,8 @@
 		"pt_br": "Folhelho",
 		"ru_ru": "Сланец",
 		"uk_ua": "Глинистий сланець",
-		"zh_cn": "页岩"
+		"zh_cn": "页岩",
+        "de_de": "Schieferstein"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/shale"

@@ -46,6 +46,10 @@
 		{
 			"lang": "ru_ru",
 			"text": "Редстоун & Хром"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Redstone & Chromit"
+        }
 	]
 }

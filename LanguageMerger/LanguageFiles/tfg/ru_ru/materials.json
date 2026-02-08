@@ -87,12 +87,18 @@
     "material.tfg.soaked_silica_gel": "Наполненный ацетоном силикагель",
 
     "material.tfg.heavy_water": "Тяжёлая вода",
+	"material.tfg.warm_water": "Тёплая вода",
     "material.tfg.semiheavy_water": "Полутяжелая вода",
     "material.tfg.nuclear_residue": "Ядерные отходы",
     "material.tfg.oxidized_nuclear_residue": "Окисленные ядерные отходы",
     "material.tfg.refined_nuclear_residue": "Переработанные ядерные отходы",
     "material.tfg.mars_air": "Марсианский воздух",
     "material.tfg.liquid_mars_air": "Жидкий марсианский воздух",
+
+    "material.tfg.raw_rich_brine": "Сырой насыщенный рассол",
+	"material.tfg.basic_bromine_exhaust": "Основные выбросы брома",
+	"material.tfg.brominated_iodine_vapor": "Бромированный йодный пар",
+	"material.tfg.hot_iodine_brine": "Горячий йодный рассол",
 
     "material.tfg.certus_regolith": "Кварцевый реголит",
     "material.tfg.goethe_regolith": "Гётитовый реголит",
@@ -160,6 +166,7 @@
 	"material.tfg.americium_241": "Америций 241",
 	"material.tfg.californium_252": "Калифорний 252",
 	"material.tfg.neptunium_237": "Нептуний 237",
+	"material.tfg.tbu_waste": "Отходы торий-урана",
 	"material.tfg.mixed_radioactive_fluid": "Смешанная радиоактивная жидкость",
 	"material.tfg.degraded_solvent_stream": "Деградированный поток растворителя",
 	"material.tfg.boron_enriched_coolant": "Хладагент обогащенный бором",
@@ -171,10 +178,23 @@
 	"material.tfg.residual_sludge": "Остаточный осадок",
 	"material.tfg.sodium_fluoride": "Фтористый натрий",
 	"material.tfg.trace_catalyst_salt_e": "Следовая каталитическая соль E",
-	"material.tfg.copper_trace_catalyst_dust": "Медный следовой катализатор",
+	"material.tfg.copper_trace_catalyst": "Следовая каталитическая медь",
 	"material.tfg.organic_stabilizer": "Органический стабилизатор",
 	"material.tfg.inert_dust_fraction": "Инертная фракция",
 	"material.tfg.recovered_ionic_complex": "Восстановленный ионный комплекс",
+	"material.tfg.boron_10_hydroxide": "Гидроксид бора-10",
+	"material.tfg.sodium_deuteroxide": "Дейтерооксид натрия",
+	"material.tfg.boron_thrichloride": "Трихлорид бора",
+	"material.tfg.enriched_boron_thrichloride": "Обогащённый трихлорид бора",
+	"material.tfg.booster_t3": "NYI",
+	"material.tfg.radioactive_effluent": "Радиоактивный эффлюент",
+	"material.tfg.high_grade_isotopic_solvent": "Высококачественный изотопный растворитель",
+	"material.tfg.degraded_high_grade_isotopic_solvent": "Деградировавший высококачественный изотопный растворитель",
+	"material.tfg.spent_ticl4_doped_supercritical_co2": "Отработанный сверхкритический CO₂, легированный TiCl₄",
+	"material.tfg.ticl4_doped_supercritical_co2": "Сверхкритический CO₂, легированный TiCl₄",
+	"material.tfg.flibe": "FLiBe",
+	"material.tfg.dirty_flibe": "Загрязнённый FLiBe",
+	"material.tfg.hot_flibe": "Горячий FLiBe",
 
 	"material.tfg.glucose": "Глюкоза",
 	"material.tfg.galactose": "Галактоза",
@@ -212,5 +232,8 @@
 	"material.tfg.bakelite": "Бакелит",
 	"material.tfg.phenolic_resin": "Фенольная смола",
 	"material.tfg.magnesium_hydroxide": "Гидроксид магния",
-	"material.tfg.magnesia_refractory_brick": "Склеенный смолой магнезиальный огнеупорный кирпич"
+	"material.tfg.magnesia_refractory_brick": "Склеенный смолой магнезиальный огнеупорный кирпич",
+
+	"material.tfg.nichromium_iodomethylate": "Nichromium Iodomethylate"
+
 }

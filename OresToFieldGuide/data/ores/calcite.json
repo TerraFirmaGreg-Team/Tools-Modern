@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "方解石",
       "info": "$(thing)来源$(): 钙"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Kalzit",
+      "info": "$(thing)Quelle von$(): Calcium"
     }
   ]
 }

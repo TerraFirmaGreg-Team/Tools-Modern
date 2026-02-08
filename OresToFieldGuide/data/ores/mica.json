@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "云母",
       "info": "$(thing)来源$(): 钾, 铝, 氟"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Glimmer",
+      "info": "$(thing)Quelle von$(): Kalium, Aluminium, Fluor"
     }
   ]
 }

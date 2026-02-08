@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "黄玉",
       "info": "$(thing)来源$(): 铝, 氟"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Topas",
+      "info": "$(thing)Quelle von$(): Aluminium, Fluor"
     }
   ]
 }

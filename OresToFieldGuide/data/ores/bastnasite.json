@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "氟碳镧铈矿",
       "info": "$(thing)来源$(): 铈, 氟"
+    },
+    {
+      "lang": "de_de",
+      "text": "Bastnäsit",
+      "info": "$(thing)Quelle von$(): Cer, Fluor"
     }
   ]
 }

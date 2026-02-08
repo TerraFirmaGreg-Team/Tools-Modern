@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "钻石",
       "info": "$(thing)用于$(): 研磨机, AE2"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Diamant",
+      "info": "$(thing)Verwendet für$(): Mazeratoren, AE2"
     }
   ]
 }

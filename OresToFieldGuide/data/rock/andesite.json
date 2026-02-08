@@ -6,8 +6,9 @@
 		"pt_br": "Andesito",
 		"ru_ru": "Андезит",
 		"uk_ua": "Андезит",
-		"zh_cn": "安山岩"
-	},
+		"zh_cn": "安山岩",
+        "de_de": "Andesit"
+    },
 	"replaceable_blocks": [
 		"tfc:rock/raw/andesite"
 	]

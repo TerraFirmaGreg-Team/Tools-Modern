@@ -57,6 +57,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "戴斯矿, 钛铁矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Desh & Ilmenit"
+        }
 	]
 }

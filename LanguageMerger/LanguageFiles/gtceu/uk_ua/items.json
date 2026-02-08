@@ -51,5 +51,13 @@
 	"item.gtceu.osmium_credit": "§732,768 Кредитів",
 	"item.gtceu.naquadah_credit": "§7262,144 Кредитів",
 	"item.gtceu.neutronium_credit": "§72,097,152 Кредити",
-	"item.gtceu.wood_plate": "ДВП середньої щільності"
+	"item.gtceu.wood_plate": "ДВП середньої щільності",
+	"item.gtceu.salt_dust": "Сіль",
+	"item.gtceu.small_salt_dust": "Мала купка солі",
+	"item.gtceu.tiny_salt_dust": "Крихітна купка солі",
+	"item.gtceu.chipped_salt_gem": "Уламок кристалу солі",
+	"item.gtceu.flawed_salt_gem": "Дефектний кристал солі",
+	"item.gtceu.salt_gem": "Кристал солі",
+	"item.gtceu.exquisite_salt_gem": "Вишуканий кристал солі",
+	"item.gtceu.flawless_salt_gem": "Бездоганний кристал солі"
 }

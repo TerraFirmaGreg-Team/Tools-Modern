@@ -29,6 +29,11 @@
       "lang": "zh_cn",
       "text": "晶质铀矿",
       "info": "$(thing)来源$(): 铀"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Uranit",
+      "info": "$(thing)Quelle von$(): Uran"
     }
   ]
 }

@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "硫",
       "info": "$(thing)来源$(): 硫"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Schwefel",
+      "info": "$(thing)Quelle von$(): Schwefel"
     }
   ]
 }

@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "无烟煤",
       "info": "$(thing)用于$(): 燃料"
+    },
+    {
+      "lang": "de_de",
+      "text": "Anthrazit",
+      "info": "$(thing)Verwendet für$(): Treibstoff"
     }
   ]
 }

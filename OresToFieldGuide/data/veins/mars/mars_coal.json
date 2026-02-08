@@ -67,6 +67,10 @@
 		{
 			"lang": "ru_ru",
 			"text": "Уголь & Гематит"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Kohle & Hematit"
+        }
 	]
 }

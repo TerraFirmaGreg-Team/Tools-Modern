@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "漂白土",
       "info": "$(thing)来源$(): 镁"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Bleicherde",
+      "info": "$(thing)Quelle von$(): Magnesium"
     }
   ]
 }

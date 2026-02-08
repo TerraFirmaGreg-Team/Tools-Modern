@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "磷酸三钙",
       "info": "$(thing)来源$(): 钙, 磷"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Tricalciumphosphat",
+      "info": "$(thing)Quelle von$(): Calcium, Phosphor"
     }
   ]
 }

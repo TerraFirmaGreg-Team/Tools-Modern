@@ -6,7 +6,8 @@
 		"pt_br": "Anortosito",
 		"ru_ru": "Анортозит",
 		"uk_ua": "Анортозит",
-		"zh_cn": "斜长岩"
+		"zh_cn": "斜长岩",
+        "de_de": "Anorthosit"
 	},
 	"replaceable_blocks": [
 		"ad_astra:moon_stone"

@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "石膏",
       "info": "$(thing)用于$(): 雪花石膏砖块(可染色)"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Gips",
+      "info": "$(thing)Verwendet für$(): (färbbare) Alabasterziegel"
     }
   ]
 }

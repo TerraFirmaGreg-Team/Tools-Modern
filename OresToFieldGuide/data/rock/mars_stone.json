@@ -6,7 +6,8 @@
 		"pt_br": "Argilita",
 		"ru_ru": "Аргиллит",
 		"uk_ua": "Аргіліт",
-		"zh_cn": "泥板岩"
+		"zh_cn": "泥板岩",
+        "de_de": "Argillit"
 	},
 	"replaceable_blocks": [
 		"ad_astra:mars_stone"

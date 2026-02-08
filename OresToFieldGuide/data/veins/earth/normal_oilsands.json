@@ -45,6 +45,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "油砂"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Ölsand"
+        }
 	]
 }

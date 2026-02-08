@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "锰铝榴石",
       "info": "$(thing)来源$(): 锰, 铝"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Spessartin",
+      "info": "$(thing)Quelle von$(): Mangan, Aluminium"
     }
   ]
 }

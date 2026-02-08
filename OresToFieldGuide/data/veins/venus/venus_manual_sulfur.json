@@ -51,7 +51,9 @@
 		},
 		{
 			"lang": "ru_ru",
-			"text": "Сера и Пирит"
+			"text": "Сера и Пирит",
+			"info": "Встречается только в $(thing)Сернистых ущельях$().",
+			"emi": "Только в Сернистом ущелье."
 		},
 		{
 			"lang": "uk_ua",
@@ -60,6 +62,12 @@
 		{
 			"lang": "zh_cn",
 			"text": "硫, 黄铁矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Schwefel & Pyrit",
+            "info": "Erscheint nur im $(thing)Schwefelschlucht$() Biom.",
+			"emi": "Nur in Schwefelschlucht."
+        }
 	]
 }

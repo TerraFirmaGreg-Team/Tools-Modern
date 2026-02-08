@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "钼矿",
       "info": "$(thing)来源$(): 钼"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Molybdän",
+      "info": "$(thing)Quelle von$(): Molybdän"
     }
   ]
 }

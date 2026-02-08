@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "原生银",
       "info": "$(thing)熔化$(): 银"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Natives Silber",
+      "info": "$(thing)Schmelzt in$(): Silber"
     }
   ]
 }

@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "锂矿",
       "info": "$(thing)来源$(): 锂"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Lithium",
+      "info": "$(thing)Quelle von$(): Lithium"
     }
   ]
 }

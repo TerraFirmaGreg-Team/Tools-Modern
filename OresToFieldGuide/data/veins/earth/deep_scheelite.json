@@ -49,6 +49,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "白钨矿, 钨酸锂"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Scheelit & Wolframate"
+        }
 	]
 }

@@ -6,7 +6,8 @@
 		"pt_br": "Diorito",
 		"ru_ru": "Диорит",
 		"uk_ua": "Діорит",
-		"zh_cn": "闪长岩"
+		"zh_cn": "闪长岩",
+        "de_de": "Diorit"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/diorite"

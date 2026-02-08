@@ -29,6 +29,11 @@
       "lang": "zh_cn",
       "text": "铅矿",
       "info": "$(thing)熔化$(): 铅"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Blei",
+      "info": "$(thing)Schmelzt in$(): Blei"
     }
   ]
 }

@@ -63,6 +63,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "绿宝石, 铍矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Smaragd & Beryllium"
+        }
 	]
 }

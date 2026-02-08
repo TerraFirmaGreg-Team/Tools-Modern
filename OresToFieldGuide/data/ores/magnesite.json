@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "菱镁矿",
       "info": "$(thing)来源$(): 镁"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Magnesit",
+      "info": "$(thing)Quelle von$(): Magnesium"
     }
   ]
 }

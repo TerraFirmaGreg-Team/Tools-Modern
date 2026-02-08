@@ -56,6 +56,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "皂石, 滑石, 天然碱"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Speckstein, Talk, & Trona"
+        }
 	]
 }

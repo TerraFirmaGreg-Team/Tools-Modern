@@ -6,7 +6,8 @@
 		"pt_br": "Riolito",
 		"ru_ru": "Риолит",
 		"uk_ua": "Ріоліт",
-		"zh_cn": "流纹岩"
+		"zh_cn": "流纹岩",
+        "de_de": "Rhyolith"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/rhyolite"

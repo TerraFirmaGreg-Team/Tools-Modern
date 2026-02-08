@@ -65,6 +65,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "锰矿, 钽矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Mangan & Tantal"
+        }
 	]
 }

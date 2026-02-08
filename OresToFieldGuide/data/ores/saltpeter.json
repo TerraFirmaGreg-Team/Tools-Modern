@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "硝石",
       "info": "$(thing)来源$(): 钾, 氮"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Saltpeter",
+      "info": "$(thing)Quelle von$(): Kalium, Stickstoff"
     }
   ]
 }

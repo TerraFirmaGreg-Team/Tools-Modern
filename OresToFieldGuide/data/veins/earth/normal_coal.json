@@ -53,6 +53,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "煤炭"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Kohle"
+        }
 	]
 }

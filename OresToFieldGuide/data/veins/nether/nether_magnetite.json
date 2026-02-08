@@ -62,6 +62,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "铬铁矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Chromit"
+        }
 	]
 }

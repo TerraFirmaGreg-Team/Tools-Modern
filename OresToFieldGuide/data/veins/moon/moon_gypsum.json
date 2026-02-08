@@ -58,6 +58,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "石膏, 方解石"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Gips & Kalzit"
+        }
 	]
 }

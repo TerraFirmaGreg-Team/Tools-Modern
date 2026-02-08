@@ -74,6 +74,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "石墨, 钻石"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Graphit & Diamant"
+        }
 	]
 }

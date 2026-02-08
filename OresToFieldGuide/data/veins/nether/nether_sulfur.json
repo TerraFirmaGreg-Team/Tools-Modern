@@ -55,6 +55,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "硫, 黄铁矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Schwefel & Pyrit"
+        }
 	]
 }

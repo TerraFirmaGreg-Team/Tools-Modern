@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "辉铋矿",
       "info": "$(thing)熔化$(): 铋"
+    },
+    {
+      "lang": "de_de",
+      "text": "Bismut",
+      "info": "$(thing)Quelle von$(): Bismut"
     }
   ]
 }

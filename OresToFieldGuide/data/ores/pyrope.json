@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "镁铝榴石",
       "info": "$(thing)来源$(): 铝, 镁"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Pyrop",
+      "info": "$(thing)Quelle von$(): Aluminium, Magnesium"
     }
   ]
 }

@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "石墨",
       "info": "$(thing)用于$(): $(l:mechanics/fire_clay)耐火粘土$(), 石墨烯"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Graphit",
+      "info": "$(thing)Verwendet für$(): $(l:mechanics/fire_clay)Schamotte$(), Graphen"
     }
   ]
 }

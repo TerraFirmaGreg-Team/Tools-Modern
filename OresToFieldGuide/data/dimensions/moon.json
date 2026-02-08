@@ -10,20 +10,23 @@
 		"pt_br": "A Lua",
 		"uk_ua": "Місяць",
 		"zh_cn": "月球",
-		"ru_ru": "Луна"
+		"ru_ru": "Луна",
+		"de_de": "Der Mond"
 	},
 	"ore_index_translations": {
 		"en_us": "Moon Ore Index",
 		"pt_br": "Índice de Minérios da Lua",
 		"uk_ua": "Індекс Місячних Руд",
 		"zh_cn": "月球矿物索引",
-		"ru_ru": "Каталог руд Луны"
+		"ru_ru": "Каталог руд Луны",
+		"de_de": "Mond Erzindex"
 	},
 	"vein_index_translations": {
 		"en_us": "Moon Vein Index",
 		"pt_br": "Índice de Veios da Lua",
 		"uk_ua": "Індекс Місячних Жил",
 		"zh_cn": "月球矿脉索引",
-		"ru_ru": "Каталог жил Луны"
+		"ru_ru": "Каталог жил Луны",
+		"de_de": "Mond Aderindex"
 	}
 }

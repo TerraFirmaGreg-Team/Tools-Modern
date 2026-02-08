@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "独居石",
       "info": "$(thing)来源$(): 磷, 稀土"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Monazit",
+      "info": "$(thing)Quelle von$(): Phosphor, Seltene Erden"
     }
   ]
 }

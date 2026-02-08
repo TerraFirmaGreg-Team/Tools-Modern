@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "钒磁铁矿",
       "info": "$(thing)来源$(): 铁, 钒"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Vanadium Magnetit",
+      "info": "$(thing)Quelle von$(): Eisen, Vanadium"
     }
   ]
 }

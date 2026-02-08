@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "黄褐铁矿",
       "info": "$(thing)熔化$(): 铸铁"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Gelbes Limonit",
+      "info": "$(thing)Schmelzt in$(): Gusseisen"
     }
   ]
 }

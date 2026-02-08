@@ -6,7 +6,8 @@
 		"pt_br": "Filito",
 		"ru_ru": "Филлит",
 		"uk_ua": "Філіт",
-		"zh_cn": "千枚岩"
+		"zh_cn": "千枚岩",
+        "de_de": "Phyllit"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/phyllite"

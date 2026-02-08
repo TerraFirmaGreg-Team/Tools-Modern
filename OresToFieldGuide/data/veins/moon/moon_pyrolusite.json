@@ -58,6 +58,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "软锰矿 & 钴矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Pyrolusit and Kobalt"
+        }
 	]
 }

@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "铂矿",
       "info": "$(thing)熔化$(): 铂"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Platin",
+      "info": "$(thing)Schmelzt in$(): Platin"
     }
   ]
 }

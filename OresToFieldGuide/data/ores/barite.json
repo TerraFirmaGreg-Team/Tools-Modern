@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "重晶石",
       "info": "$(thing)来源$(): 钡"
+    },
+    {
+      "lang": "de_de",
+      "text": "Baryt",
+      "info": "$(thing)Quelle von$(): Barium"
     }
   ]
 }

@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "钙铝榴石",
       "info": "$(thing)来源$(): 钙, 铝"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Grossular",
+      "info": "$(thing)Quelle von$(): Calcium, Aluminium"
     }
   ]
 }

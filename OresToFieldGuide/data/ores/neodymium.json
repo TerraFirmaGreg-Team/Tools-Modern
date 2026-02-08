@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "钕矿",
       "info": "$(thing)来源$(): 钕"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Neodym",
+      "info": "$(thing)Quelle von$(): Neodym"
     }
   ]
 }
