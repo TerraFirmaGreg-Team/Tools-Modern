@@ -203,5 +203,12 @@
     "material.tfg.phenolic_resin": "酚醛树脂",
     "material.tfg.magnesium_hydroxide": "氢氧化镁",
     "material.tfg.magnesia_refractory_brick": "树脂结合镁质耐火砖",
-    "material.tfg.nichromium_iodomethylate": "碘甲基镍铬合金"
+    "material.tfg.nichromium_iodomethylate": "碘甲基镍铬合金",
+    "material.tfg.sulfur_dichloride": "二氯化硫",
+    "material.tfg.thionyl_chloride": "氯化亚砜",
+    "material.tfg.p_toluenesulfonic_acid": "对甲苯磺酸",
+    "material.tfg.redstone_nitrate": "硝酸红石",
+    "material.tfg.redstone_chloride": "氯化红石",
+    "material.tfg.redstone_tri_p_toluenesulfonate": "三对甲苯磺酸红石",
+    "material.tfg.sodium_nitrate": "硝酸钠"
 }
