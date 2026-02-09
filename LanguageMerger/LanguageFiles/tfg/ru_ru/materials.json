@@ -234,6 +234,14 @@
 	"material.tfg.magnesium_hydroxide": "Гидроксид магния",
 	"material.tfg.magnesia_refractory_brick": "Склеенный смолой магнезиальный огнеупорный кирпич",
 
-	"material.tfg.nichromium_iodomethylate": "Nichromium Iodomethylate"
+	"material.tfg.nichromium_iodomethylate": "Нихромиум йодометилат",
+
+	"material.tfg.sulfur_dichloride": "Дихлорид серы",
+    "material.tfg.thionyl_chloride": "Тионилхлорид",
+    "material.tfg.p_toluenesulfonic_acid": "n-Толуолсульфокислота",
+    "material.tfg.redstone_nitrate": "Нитрат редстоуна",
+    "material.tfg.redstone_chloride": "Хлорид редстоуна",
+    "material.tfg.redstone_tri_p_toluenesulfonate": "Три-n-толуолсульфонат редстоуна",
+    "material.tfg.sodium_nitrate": "Нитрат натрия"
 
 }
