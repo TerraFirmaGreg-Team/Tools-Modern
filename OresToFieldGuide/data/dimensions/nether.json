@@ -19,7 +19,7 @@
 		"uk_ua": "Індекс Руд Безодні",
 		"zh_cn": "下界矿物索引",
 		"ru_ru": "Каталог руд Бездны",
-		"de_de": "Die Unterwelt Erzindex"
+		"de_de": "Unterwelt Erzindex"
 	},
 	"vein_index_translations": {
 		"en_us": "The Beneath Vein Index",
@@ -27,6 +27,6 @@
 		"uk_ua": "Індекс Жил безодні",
 		"zh_cn": "下界矿脉索引",
 		"ru_ru": "Каталог жил Бездны",
-		"de_de": "Die Unterwelt Aderindex"
+		"de_de": "Unterwelt Aderindex"
 	}
 }
