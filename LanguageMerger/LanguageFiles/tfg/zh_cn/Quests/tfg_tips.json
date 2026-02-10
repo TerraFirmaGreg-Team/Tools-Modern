@@ -716,7 +716,7 @@
     "quests.tfg_tips.trowel.desc": "&4抹刀&r是为建筑者设计的工具，能&b随机部署&r快捷栏内的方块。它还可使用砖块等材料为&5道路与屋顶&r模组的道路生成随机化铺装效果。",
     "quests.tfg_tips.lunchbox.title": "午餐盒",
     "quests.tfg_tips.lunchbox.subtitle": "口袋中的冰箱！",
-    "quests.tfg_tips.lunchbox.desc": "午餐盒有9格食物槽，保持冷藏和更长保质期。\n冷藏午餐盒比普通午餐盒效果更强，但需提供冰或随时间解冻的单元。",
+    "quests.tfg_tips.lunchbox.desc": "午餐盒有9格食物槽，保持冷藏和更长保质期。\n冷藏午餐盒比普通午餐盒效果更强，但需提供冰或随时间解冻的单元。\n\n虽然用冰泥制作浮冰可能有些困难，但如果你有一把&n足够精密&r的锯子，就能直接精准采集普通的冰块了！",
     "quests.tfg_tips.lunchbox.task.1": "任何午餐盒",
     "quests.tfg_tips.lunchbox.task.2": "任何冰块",
     "quests.tfg_tips.lunchbox.task.3": "任何装有液态冰渣的单元",
