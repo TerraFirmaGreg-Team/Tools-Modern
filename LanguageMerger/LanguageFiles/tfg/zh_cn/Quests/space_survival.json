@@ -27,7 +27,7 @@
     "quests.space_survival.solar_panels.task": "任何FE->EU能量转换器",
     "quests.space_survival.stone_dust_centrifuging.title": "氦-3",
     "quests.space_survival.stone_dust_centrifuging.subtitle": "小丑气体",
-    "quests.space_survival.stone_dust_centrifuging.desc.1": "月球充满了&e氦-3&r，这是另一种重要资源，但它被困在石头里！有两种方法可以获取：\n\n1)如果你之前没有建设任何石粉离心自动化，这里有个快速介绍：碎岩机可以生产无限的原石，研磨机将其粉碎成粉供离心机处理。\n\n在月球上，斜长岩、苏长岩和响岩可以被加工成无限的氦-3来源！",
+    "quests.space_survival.stone_dust_centrifuging.desc.1": "月球充满了&e氦-3&r，这是另一种重要资源，但它被困在石头里！有两种方法可以获取：\n\n1)如果你之前没有建设任何自动化石头生产线，这里有个快速介绍：碎岩机可以生产无限的原石，研磨机将其粉碎成粉供离心机处理。\n\n在月球上，&9皓蓝石&r可以被加工成无限的氦-3来源！",
     "quests.space_survival.stone_dust_centrifuging.desc.2": "2)使用&9流体钻机&r将其从地下泵出。这种方法更简单，但没有任何有用的副产品。\n\n氦-3有多种用途，其中最重要的是通过&6氦氧混合气-3&r制造更多可呼吸的空气！你也可以在电力温室中将其用作紫颂果的“肥料”，并最终作为聚变能的另一种燃料。",
     "quests.space_survival.stone_dust_centrifuging.task": "任何石粉",
     "quests.space_survival.compressed_gases.title": "压缩可呼吸气体",
