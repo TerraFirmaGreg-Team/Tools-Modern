@@ -203,5 +203,12 @@
 	"material.tfg.phenolic_resin": "Фенолова смола",
 	"material.tfg.magnesium_hydroxide": "Гідроксид магнію",
 	"material.tfg.magnesia_refractory_brick": "Вогнетривка цегла з магнезії, зв’язаної смолою",
-	"material.tfg.nichromium_iodomethylate": "Йодометилат ніхрому"
+	"material.tfg.nichromium_iodomethylate": "Йодометилат ніхрому",
+	"material.tfg.sulfur_dichloride": "Дихлорид Сульфуру",
+	"material.tfg.thionyl_chloride": "Тіонілхлорид",
+	"material.tfg.p_toluenesulfonic_acid": "p-Толуенсульфонова Кислота",
+	"material.tfg.redstone_nitrate": "Нітрат Редстоуна",
+	"material.tfg.redstone_chloride": "Хлорид Редстоуна",
+	"material.tfg.redstone_tri_p_toluenesulfonate": "Три-p-Толуенсульфонат Редстоуна",
+	"material.tfg.sodium_nitrate": "Нітрат Натрію"
 }
