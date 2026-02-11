@@ -1,7 +1,7 @@
 {
 	"__comment1": "Fix typo",
 	
-	"info.ad_astra.solar_panel": "Generiert Energie von der Sonne. Die generierte Energie abhängig von dem Planeten ist.",
+	"info.ad_astra.solar_panel": "Generiert Energie von der Sonne. Die generierte Energie ist abhängig vom Planeten.",
 	
 	"__comment2": "Replaces the emojis with FE and mB",
 	

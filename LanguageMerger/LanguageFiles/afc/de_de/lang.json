@@ -3,6 +3,7 @@
   "item.afc.wood.boat.baobab": "Baobabboot",
   "item.afc.wood.chest_minecart.baobab": "Baobabtruhenlore",
   "item.tfc.wood.support.baobab": "Baobabstütze",
+
   "block.afc.wood.planks.baobab": "Baobabbretter",
   "block.afc.wood.vertical_support.baobab": "Baobab Vertikale Stütze",
   "block.afc.wood.horizontal_support.baobab": "Baobab Horizontalee Stütze",
@@ -41,10 +42,12 @@
   "block.afc.wood.planks.baobab_workbench": "Baobabwerkbank",
   "block.afc.wood.planks.baobab_loom": "Baobabwebstuhl",
   "block.afc.wood.planks.baobab_sign": "Baobabschild",
+
   "item.afc.wood.lumber.cypress": "Zypressenbauholz",
   "item.afc.wood.boat.cypress": "Zypressenboot",
   "item.afc.wood.chest_minecart.cypress": "Zypressentruhenlore",
   "item.tfc.wood.support.cypress": "Zypressenstütze",
+
   "block.afc.wood.planks.cypress": "Zypressenbretter",
   "block.afc.wood.vertical_support.cypress": "Zypressen Vertikale Stütze",
   "block.afc.wood.horizontal_support.cypress": "Zypressen Horizontale Stütze",
@@ -83,10 +86,12 @@
   "block.afc.wood.planks.cypress_workbench": "Zypressenwerkbank",
   "block.afc.wood.planks.cypress_loom": "Zypressenwebstuhl",
   "block.afc.wood.planks.cypress_sign": "Zypressenschild",
+
   "item.afc.wood.lumber.eucalyptus": "Eukalyptusbauholz",
   "item.afc.wood.boat.eucalyptus": "Eukalyptusboot",
   "item.afc.wood.chest_minecart.eucalyptus": "Eukalyptustruhe Minecart",
   "item.tfc.wood.support.eucalyptus": "Eukalyptusstütze",
+
   "block.afc.wood.planks.eucalyptus": "Eukalyptusbretter",
   "block.afc.wood.vertical_support.eucalyptus": "Eukalyptus Vertikale Stütze",
   "block.afc.wood.horizontal_support.eucalyptus": "Eukalyptus Horizontale Stütze",
@@ -125,10 +130,12 @@
   "block.afc.wood.planks.eucalyptus_workbench": "Eukalyptuswerkbank",
   "block.afc.wood.planks.eucalyptus_loom": "Eukalyptuswebstuhl",
   "block.afc.wood.planks.eucalyptus_sign": "Eukalyptusschild",
+
   "item.afc.wood.lumber.fig": "Feigenbauholz",
   "item.afc.wood.boat.fig": "Feigenboot",
   "item.afc.wood.chest_minecart.fig": "Feigentruhe Minecart",
   "item.tfc.wood.support.fig": "Feigenstütze",
+
   "block.afc.wood.planks.fig": "Feigenbretter",
   "block.afc.wood.vertical_support.fig": "Feigen Vertikale Stütze",
   "block.afc.wood.horizontal_support.fig": "Feigen Horizontale Stütze",
@@ -167,10 +174,12 @@
   "block.afc.wood.planks.fig_workbench": "Feigenwerkbank",
   "block.afc.wood.planks.fig_loom": "Feigenwebstuhl",
   "block.afc.wood.planks.fig_sign": "Feigenschild",
+
   "item.afc.wood.lumber.hevea": "Kautschukbauholz",
   "item.afc.wood.boat.hevea": "Kautschukboot",
   "item.afc.wood.chest_minecart.hevea": "Kautschuktruhe Minecart",
   "item.tfc.wood.support.hevea": "Kautschukstütze",
+
   "block.afc.wood.planks.hevea": "Kautschukbretter",
   "block.afc.wood.vertical_support.hevea": "Kautschuk Vertikale Stütze",
   "block.afc.wood.horizontal_support.hevea": "Kautschuk Horizontale Stütze",
@@ -209,10 +218,12 @@
   "block.afc.wood.planks.hevea_workbench": "Kautschukwerkbank",
   "block.afc.wood.planks.hevea_loom": "Kautschukwebstuhl",
   "block.afc.wood.planks.hevea_sign": "Kautschukschild",
+
   "item.afc.wood.lumber.mahogany": "Mahagonibauholz",
   "item.afc.wood.boat.mahogany": "Mahagoniboot",
   "item.afc.wood.chest_minecart.mahogany": "Mahagonitruhe Minecart",
   "item.tfc.wood.support.mahogany": "Mahagonistütze",
+
   "block.afc.wood.planks.mahogany": "Mahagonibretter",
   "block.afc.wood.vertical_support.mahogany": "Mahagoni Vertikale Stütze",
   "block.afc.wood.horizontal_support.mahogany": "Mahagoni Horizontale Stütze",
@@ -254,10 +265,12 @@
   "block.afc.wood.planks.mahogany_workbench": "Mahagoniwerkbank",
   "block.afc.wood.planks.mahogany_loom": "Mahagoniwebstuhl",
   "block.afc.wood.planks.mahogany_sign": "Mahagonischild",
+
   "item.afc.wood.lumber.teak": "Teakbauholz",
   "item.afc.wood.boat.teak": "Teakboot",
   "item.afc.wood.chest_minecart.teak": "Teaktruhe Minecart",
   "item.tfc.wood.support.teak": "Teakstütze",
+
   "block.afc.wood.planks.teak": "Teakbretter",
   "block.afc.wood.vertical_support.teak": "Teak Vertikale Stütze",
   "block.afc.wood.horizontal_support.teak": "Teak Horizontale Stütze",
@@ -296,10 +309,12 @@
   "block.afc.wood.planks.teak_workbench": "Teakwerkbank",
   "block.afc.wood.planks.teak_loom": "Teakwebstuhl",
   "block.afc.wood.planks.teak_sign": "Teakschild",
+
   "item.afc.wood.lumber.tualang": "Tualangbauholz",
   "item.afc.wood.boat.tualang": "Tualangboot",
   "item.afc.wood.chest_minecart.tualang": "Tualangtruhe Minecart",
   "item.tfc.wood.support.tualang": "Tualangstütze",
+
   "block.afc.wood.planks.tualang": "Tualangbretter",
   "block.afc.wood.vertical_support.tualang": "Tualang Vertikale Stütze",
   "block.afc.wood.horizontal_support.tualang": "Tualang Horizontale Stütze",
@@ -338,10 +353,12 @@
   "block.afc.wood.planks.tualang_workbench": "Tualangwerkbank",
   "block.afc.wood.planks.tualang_loom": "Tualangwebstuhl",
   "block.afc.wood.planks.tualang_sign": "Tualangschild",
+
   "item.afc.wood.lumber.ipe": "Ipebauholz",
   "item.afc.wood.boat.ipe": "Ipeboot",
   "item.afc.wood.chest_minecart.ipe": "Ipetruhe Minecart",
   "item.tfc.wood.support.ipe": "Ipestütze",
+
   "block.afc.wood.planks.ipe": "Ipebretter",
   "block.afc.wood.vertical_support.ipe": "Ipe Vertikale Stütze",
   "block.afc.wood.horizontal_support.ipe": "Ipe Horizontale Stütze",
@@ -380,10 +397,12 @@
   "block.afc.wood.planks.ipe_workbench": "Ipewerkbank",
   "block.afc.wood.planks.ipe_loom": "Ipewebstuhl",
   "block.afc.wood.planks.ipe_sign": "Ipeschild",
+
   "item.afc.wood.lumber.ironwood": "Eisenholzbauholz",
   "item.afc.wood.boat.ironwood": "Eisenholzboot",
   "item.afc.wood.chest_minecart.ironwood": "Eisenholztruhe Minecart",
   "item.tfc.wood.support.ironwood": "Eisenholzstütze",
+
   "block.afc.wood.planks.ironwood": "Eisenholzbretter",
   "block.afc.wood.vertical_support.ironwood": "Eisenholz Vertikale Stütze",
   "block.afc.wood.horizontal_support.ironwood": "Eisenholz Horizontale Stütze",
@@ -422,190 +441,238 @@
   "block.afc.wood.planks.ironwood_workbench": "Eisenholzwerkbank",
   "block.afc.wood.planks.ironwood_loom": "Eisenholzwebstuhl",
   "block.afc.wood.planks.ironwood_sign": "Eisenholzschild",
+
   "block.afc.wood.leaves.live_oak": "Lebende Eichenblätter",
   "block.afc.wood.sapling.live_oak": "Lebender Eichensetzling",
   "block.afc.wood.potted_sapling.live_oak": "Eingetopfter Lebender Eichensetzling",
   "block.afc.wood.fallen_leaves.live_oak": "Lebende Eichelaub",
+
   "block.afc.wood.leaves.redcedar": "Zedernblätter",
   "block.afc.wood.sapling.redcedar": "Zedernsetzling",
   "block.afc.wood.potted_sapling.redcedar": "Eingetopfter Zedernsetzling",
   "block.afc.wood.fallen_leaves.redcedar": "Zederlaub",
+
   "block.afc.wood.leaves.balsam_fir": "Balsam-Tannenblätter",
   "block.afc.wood.sapling.balsam_fir": "Balsam-Tannensetzling",
   "block.afc.wood.potted_sapling.balsam_fir": "Eingetopfter Balsam-Tannensetzling",
   "block.afc.wood.fallen_leaves.balsam_fir": "Balsam Tannelaub",
+
   "block.afc.wood.leaves.tamarack": "Lärchenblätter",
   "block.afc.wood.sapling.tamarack": "Lärchensetzling",
   "block.afc.wood.potted_sapling.tamarack": "Eingetopfter Lärchensetzling",
   "block.afc.wood.fallen_leaves.tamarack": "Lärchelaub",
+
   "block.afc.wood.leaves.black_spruce": "Schwarz-Fichtenblätter",
   "block.afc.wood.sapling.black_spruce": "Schwarz-Fichtensetzling",
   "block.afc.wood.potted_sapling.black_spruce": "Eingetopfter Schwarz-Fichtensetzling",
   "block.afc.wood.fallen_leaves.black_spruce": "Schwarz-Fichtelaub",
+
   "block.afc.wood.leaves.mahogany": "Mahagoniblätter",
   "block.afc.wood.sapling.mahogany": "Mahagonisetzling",
   "block.afc.wood.potted_sapling.mahogany": "Eingetopfter Mahagonisetzling",
   "block.afc.wood.fallen_leaves.mahogany": "Mahagonilaub",
+
   "block.afc.wood.leaves.gum_arabic": "Gummiarabikumblätter",
   "block.afc.wood.sapling.gum_arabic": "Gummiarabikumsetzling",
   "block.afc.wood.potted_sapling.gum_arabic": "Eingetopfter Gummiarabikumsetzling",
   "block.afc.wood.fallen_leaves.gum_arabic": "Gummiarabikumlaub",
+
   "block.afc.wood.leaves.hevea": "Kautschukblätter",
   "block.afc.wood.sapling.hevea": "Kautschuksetzling",
   "block.afc.wood.potted_sapling.hevea": "Eingetopfter Kautschuksetzling",
   "block.afc.wood.fallen_leaves.hevea": "Kautschuklaub",
+
   "block.afc.wood.leaves.tualang": "Tualangblätter",
   "block.afc.wood.sapling.tualang": "Tualangsetzling",
   "block.afc.wood.potted_sapling.tualang": "Eingetopfter Tualangsetzling",
   "block.afc.wood.fallen_leaves.tualang": "Tualanglaub",
+
   "block.afc.wood.leaves.baobab": "Baobabblätter",
   "block.afc.wood.sapling.baobab": "Baobabsetzling",
   "block.afc.wood.potted_sapling.baobab": "Eingetopfter Baobabsetzling",
   "block.afc.wood.fallen_leaves.baobab": "Baobablaub",
+
   "block.afc.wood.leaves.acacia_koa": "Koa-Akazienblätter",
   "block.afc.wood.sapling.acacia_koa": "Koa-Akaziensetzling",
   "block.afc.wood.potted_sapling.acacia_koa": "Eingetopfter Koa-Akaziensetzling",
   "block.afc.wood.fallen_leaves.acacia_koa": "Koa-Akazielaub",
+
   "block.afc.wood.leaves.mpingo_blackwood": "Grenadillblätter",
   "block.afc.wood.sapling.mpingo_blackwood": "Grenadillsetzling",
   "block.afc.wood.potted_sapling.mpingo_blackwood": "Eingetopfter Grenadillsetzling",
   "block.afc.wood.fallen_leaves.mpingo_blackwood": "Grenadilllaub",
+
   "block.afc.wood.leaves.mountain_fir": "Bergfichtenblätter",
   "block.afc.wood.sapling.mountain_fir": "Bergfichtensetzling",
   "block.afc.wood.potted_sapling.mountain_fir": "Eingetopfter Bergfichtensetzling",
   "block.afc.wood.fallen_leaves.mountain_fir": "Bergfichtenlaub",
+
   "block.afc.wood.leaves.scrub_hickory": "Buschhickoryblätter",
   "block.afc.wood.sapling.scrub_hickory": "Buschhickorysetzling",
   "block.afc.wood.potted_sapling.scrub_hickory": "Eingetopfter Buschhickorysetzling",
   "block.afc.wood.fallen_leaves.scrub_hickory": "Buschhickorylaub",
+
   "block.afc.wood.leaves.bigleaf_maple": "Oregon-Ahornblätter",
   "block.afc.wood.sapling.bigleaf_maple": "Oregon-Ahornsetzling",
   "block.afc.wood.potted_sapling.bigleaf_maple": "Eingetopfter Oregon-Ahornsetzling",
   "block.afc.wood.fallen_leaves.bigleaf_maple": "Oregon-Ahornlaub",
+
   "block.afc.wood.leaves.weeping_maple": "Trauer-Ahornblätter",
   "block.afc.wood.sapling.weeping_maple": "Trauer-Ahornsetzling",
   "block.afc.wood.potted_sapling.weeping_maple": "Eingetopfter Trauer-Ahornsetzling",
   "block.afc.wood.fallen_leaves.weeping_maple": "Trauer-Ahornlaub",
+
   "block.afc.wood.leaves.black_oak": "Schwarzeichenblätter",
   "block.afc.wood.sapling.black_oak": "Schwarzeichensetzling",
   "block.afc.wood.potted_sapling.black_oak": "Eingetopfter Schwarzeichensetzling",
   "block.afc.wood.fallen_leaves.black_oak": "Schwarzeichenlaub",
+
   "block.afc.wood.leaves.stone_pine": "Steinkiefernblätter",
   "block.afc.wood.sapling.stone_pine": "Steinkiefernsetzling",
   "block.afc.wood.potted_sapling.stone_pine": "Eingetopfter Steinkiefernsetzling",
   "block.afc.wood.fallen_leaves.stone_pine": "Steinkiefernlaub",
+
   "block.afc.wood.leaves.red_pine": "Rot-Kiefernblätter",
   "block.afc.wood.sapling.red_pine": "Rot-Kiefernsetzling",
   "block.afc.wood.potted_sapling.red_pine": "Eingetopfter Rot-Kiefernsetzling",
   "block.afc.wood.fallen_leaves.red_pine": "Rot-Kiefernlaub",
+
   "block.afc.wood.leaves.giant_rosewood": "Riesen-Rosenholzblätter",
   "block.afc.wood.sapling.giant_rosewood": "Riesen-Rosenholzsetzling",
   "block.afc.wood.potted_sapling.giant_rosewood": "Eingetopfter Riesen-Rosenholzsetzling",
   "block.afc.wood.fallen_leaves.giant_rosewood": "Riesen-Rosenholzlaub",
+
   "block.afc.wood.leaves.coast_spruce": "Küsten-Fichtenblätter",
   "block.afc.wood.sapling.coast_spruce": "Küsten-Fichtensetzling",
   "block.afc.wood.potted_sapling.coast_spruce": "Eingetopfter Küsten-Fichtensetzling",
   "block.afc.wood.fallen_leaves.coast_spruce": "Küsten-Fichtenlaub",
+
   "block.afc.wood.leaves.sitka_spruce": "Sitka-Fichtenblätter",
   "block.afc.wood.sapling.sitka_spruce": "Sitka-Fichtensetzling",
   "block.afc.wood.potted_sapling.sitka_spruce": "Eingetopfter Sitka-Fichtensetzling",
   "block.afc.wood.fallen_leaves.sitka_spruce": "Sitka-Fichtenlaub",
+
   "block.afc.wood.leaves.atlas_cedar": "Atlas-Zedernblätter",
   "block.afc.wood.sapling.atlas_cedar": "Atlas-Zedernsetzling",
   "block.afc.wood.potted_sapling.atlas_cedar": "Eingetopfter Atlas-Zedernsetzling",
   "block.afc.wood.fallen_leaves.atlas_cedar": "Atlas-Zedernlaub",
+
   "block.afc.wood.leaves.weeping_willow": "Echte Trauerweidenblätter",
   "block.afc.wood.sapling.weeping_willow": "Echte Trauerweidensetzling",
   "block.afc.wood.potted_sapling.weeping_willow": "Eingetopfter Echte Trauerweidensetzling",
   "block.afc.wood.fallen_leaves.weeping_willow": "Echte Trauerweidenlaub",
+
   "block.afc.wood.leaves.rainbow_eucalyptus": "Regenbogenbaumblätter",
   "block.afc.wood.sapling.rainbow_eucalyptus": "Regenbogenbaumsetzling",
   "block.afc.wood.potted_sapling.rainbow_eucalyptus": "Eingetopfter Regenbogenbaumsetzling",
   "block.afc.wood.fallen_leaves.rainbow_eucalyptus": "Regenbogenbaumlaub",
+
   "block.afc.wood.leaves.mountain_ash": "Ebereschenblätter",
   "block.afc.wood.sapling.mountain_ash": "Ebereschensetzling",
   "block.afc.wood.potted_sapling.mountain_ash": "Eingetopfter Ebereschensetzling",
   "block.afc.wood.fallen_leaves.mountain_ash": "Ebereschenlaub",
+
   "block.afc.wood.leaves.weeping_cypress": "Tränen-Zypressenblätter",
   "block.afc.wood.sapling.weeping_cypress": "Tränen-Zypressensetzling",
   "block.afc.wood.potted_sapling.weeping_cypress": "Eingetopfter Tränen-Zypressensetzling",
   "block.afc.wood.fallen_leaves.weeping_cypress": "Tränen-Zypressenlaub",
+
   "block.afc.wood.leaves.bald_cypress": "Echte Sumpfzypressenblätter",
   "block.afc.wood.sapling.bald_cypress": "Echte Sumpfzypressensetzling",
   "block.afc.wood.potted_sapling.bald_cypress": "Eingetopfter Echte Sumpfzypressensetzling",
   "block.afc.wood.fallen_leaves.bald_cypress": "Echte Sumpfzypressenlaub",
+
   "block.afc.wood.leaves.coast_redwood": "Küstenmammutbaumblätter",
   "block.afc.wood.sapling.coast_redwood": "Küstenmammutbaumsetzling",
   "block.afc.wood.potted_sapling.coast_redwood": "Eingetopfter Küstenmammutbaumsetzling",
   "block.afc.wood.fallen_leaves.coast_redwood": "Küstenmammutbaumlaub",
+
   "block.afc.wood.leaves.rubber_fig": "Gummifeigenblätter",
   "block.afc.wood.sapling.rubber_fig": "Gummifeigensetzling",
   "block.afc.wood.potted_sapling.rubber_fig": "Eingetopfter Gummifeigensetzling",
   "block.afc.wood.fallen_leaves.rubber_fig": "Gummifeigenlaub",
+
   "block.afc.wood.leaves.sapele_mahogany": "Sapeliblätter",
   "block.afc.wood.sapling.sapele_mahogany": "Sapelisetzling",
   "block.afc.wood.potted_sapling.sapele_mahogany": "Eingetopfter Sapelisetzling",
   "block.afc.wood.fallen_leaves.sapele_mahogany": "Sapelilaub",
+
   "block.afc.wood.leaves.small_leaf_mahogany": "Westindische Mahagoniblätter",
   "block.afc.wood.sapling.small_leaf_mahogany": "Westindischer Mahagonisetzling",
   "block.afc.wood.potted_sapling.small_leaf_mahogany": "Eingetopfter Westindischer Mahagonisetzling",
   "block.afc.wood.fallen_leaves.small_leaf_mahogany": "Westindisches Mahagonilaub",
+
   "block.afc.wood.leaves.red_silk_cotton": "Asiatische Kapokbaumblätter",
   "block.afc.wood.sapling.red_silk_cotton": "Asiatischer Kapokbaumsetzling",
   "block.afc.wood.potted_sapling.red_silk_cotton": "Eingetopfter Asiatischer Kapokbaumsetzling",
   "block.afc.wood.fallen_leaves.red_silk_cotton": "Asiatische Kapokbaumlaub",
+
   "block.afc.wood.leaves.shisham_rosewood": "Sheeshamblätter",
   "block.afc.wood.sapling.shisham_rosewood": "Sheeshamsetzling",
   "block.afc.wood.potted_sapling.shisham_rosewood": "Eingetopfter Sheeshamsetzling",
   "block.afc.wood.fallen_leaves.shisham_rosewood": "Sheeshamlaub",
+
   "block.afc.wood.leaves.mulga_blackwood": "Mulgablätter",
   "block.afc.wood.sapling.mulga_blackwood": "Mulgasetzling",
   "block.afc.wood.potted_sapling.mulga_blackwood": "Eingetopfter Mulgasetzling",
   "block.afc.wood.fallen_leaves.mulga_blackwood": "Mulgalaub",
+
   "block.afc.wood.leaves.poplar": "Pappelblätter",
   "block.afc.wood.sapling.poplar": "Pappelsetzling",
   "block.afc.wood.potted_sapling.poplar": "Eingetopfter Pappelsetzling",
   "block.afc.wood.fallen_leaves.poplar": "Pappellaub",
+
   "block.afc.wood.leaves.iroko_teak": "Iroko Teakblätter",
   "block.afc.wood.sapling.iroko_teak": "Iroko Teaksetzling",
   "block.afc.wood.potted_sapling.iroko_teak": "Eingetopfter Iroko Teaksetzling",
   "block.afc.wood.fallen_leaves.iroko_teak": "Iroko Teaklaub",
+
   "block.afc.wood.leaves.flame_of_the_forest": "Malabar-Lackbaumblätter",
   "block.afc.wood.sapling.flame_of_the_forest": "Malabar-Lackbaumsetzling",
   "block.afc.wood.potted_sapling.flame_of_the_forest": "Eingetopfter Malabar-Lackbaumsetzling",
   "block.afc.wood.fallen_leaves.flame_of_the_forest": "Malabar-Lackbaumlaub",
+
   "block.afc.wood.leaves.lebombo_ironwood": "Lebombo Eisenholzblätter",
   "block.afc.wood.sapling.lebombo_ironwood": "Lebombo Eisenholzsetzling",
   "block.afc.wood.potted_sapling.lebombo_ironwood": "Eingetopfter Lebombo Eisenholzsetzling",
   "block.afc.wood.fallen_leaves.lebombo_ironwood": "Lebombo Eisenholzlaub",
+
   "block.afc.wood.leaves.horsetail_ironwood": "Kängurubaumblätter",
   "block.afc.wood.sapling.horsetail_ironwood": "Kängurubaumsetzling",
   "block.afc.wood.potted_sapling.horsetail_ironwood": "Eingetopfter Kängurubaumsetzling",
   "block.afc.wood.fallen_leaves.horsetail_ironwood": "Kängurubaumlaub",
+
   "block.afc.wood.leaves.jaggery_palm": "Jaggery Palmenblätter",
   "block.afc.wood.sapling.jaggery_palm": "Jaggery Palmensetzling",
   "block.afc.wood.potted_sapling.jaggery_palm": "Eingetopfter Jaggery Palmensetzling",
   "block.afc.wood.fallen_leaves.jaggery_palm": "Jaggery Palmenlaub",
+
   "block.afc.wood.log.black_oak": "Schwarzeichenbaumstamm",
   "block.afc.wood.wood.black_oak": "Schwarzeichenholz",
   "block.afc.wood.twig.black_oak": "Schwarzeichenzweig",
+
   "block.afc.wood.log.redcedar": "Zedernbaumstamm",
   "block.afc.wood.wood.redcedar": "Zedernholz",
   "block.afc.wood.twig.redcedar": "Zedernzweig",
   "block.afc.wood.log.rainbow_eucalyptus": "Regenbogenbaumbaumstamm",
   "block.afc.wood.wood.rainbow_eucalyptus": "Regenbogenbaumholz",
   "block.afc.wood.twig.rainbow_eucalyptus": "Regenbogenbaumzweig",
+
   "block.afc.wood.log.gum_arabic": "Gummiarabikumbaumstamm",
   "block.afc.wood.wood.gum_arabic": "Gummiarabikumholz",
   "block.afc.wood.twig.gum_arabic": "Gummiarabikumzweig",
+
   "block.afc.wood.log.rubber_fig": "Gummifeigenbaumstamm",
   "block.afc.wood.wood.rubber_fig": "Gummifeigenholz",
   "block.afc.wood.twig.rubber_fig": "Gummifeigenzweig",
+
   "block.afc.wood.log.poplar": "Pappelbaumstamm",
   "block.afc.wood.wood.poplar": "Pappelholz",
   "block.afc.wood.twig.poplar": "Pappelzweig",
+
   "block.afc.wood.log.ancient_baobab": "Antiker Baobabbaumstamm",
   "block.afc.wood.wood.ancient_baobab": "Antikes Baobabholz",
+
   "block.afc.wood.planks.hanging_sign.copper.baobab": "Kupfer Baobab Hängeschild",
   "block.afc.wood.planks.hanging_sign.bronze.baobab": "Bronze Baobab Hängeschild",
   "block.afc.wood.planks.hanging_sign.black_bronze.baobab": "Schwarzbronze Baobab Hängeschild",
@@ -615,9 +682,12 @@
   "block.afc.wood.planks.hanging_sign.black_steel.baobab": "Schwarzstahl Baobab Hängeschild",
   "block.afc.wood.planks.hanging_sign.red_steel.baobab": "Rotstahl Baobab Hängeschild",
   "block.afc.wood.planks.hanging_sign.blue_steel.baobab": "Blaustahl Baobab Hängeschild",
+
   "entity.afc.boat.baobab": "Baobabboot",
+
   "block.afc.wood.log.ancient_cypress": "Antiker Zypressebaumstamm",
   "block.afc.wood.wood.ancient_cypress": "Antikes Zypresseholz",
+
   "block.afc.wood.planks.hanging_sign.copper.cypress": "Kupfer Zypresse Hängeschild",
   "block.afc.wood.planks.hanging_sign.bronze.cypress": "Bronze Zypresse Hängeschild",
   "block.afc.wood.planks.hanging_sign.black_bronze.cypress": "Schwarzbronze Zypresse Hängeschild",
@@ -627,9 +697,12 @@
   "block.afc.wood.planks.hanging_sign.black_steel.cypress": "Schwarzstahl Zypresse Hängeschild",
   "block.afc.wood.planks.hanging_sign.red_steel.cypress": "Rotstahl Zypresse Hängeschild",
   "block.afc.wood.planks.hanging_sign.blue_steel.cypress": "Blaustahl Zypresse Hängeschild",
+
   "entity.afc.boat.cypress": "Zypresseboot",
+
   "block.afc.wood.log.ancient_eucalyptus": "Antiker Eukalyptusbaumstamm",
   "block.afc.wood.wood.ancient_eucalyptus": "Antikes Eukalyptusholz",
+
   "block.afc.wood.planks.hanging_sign.copper.eucalyptus": "Kupfer Eukalyptus Hängeschild",
   "block.afc.wood.planks.hanging_sign.bronze.eucalyptus": "Bronze Eukalyptus Hängeschild",
   "block.afc.wood.planks.hanging_sign.black_bronze.eucalyptus": "Schwarzbronze Eukalyptus Hängeschild",
@@ -639,9 +712,12 @@
   "block.afc.wood.planks.hanging_sign.black_steel.eucalyptus": "Schwarzstahl Eukalyptus Hängeschild",
   "block.afc.wood.planks.hanging_sign.red_steel.eucalyptus": "Rotstahl Eukalyptus Hängeschild",
   "block.afc.wood.planks.hanging_sign.blue_steel.eucalyptus": "Blaustahl Eukalyptus Hängeschild",
+
   "entity.afc.boat.eucalyptus": "Eukalyptusboot",
+
   "block.afc.wood.log.ancient_fig": "Antiker Feigenbaumstamm",
   "block.afc.wood.wood.ancient_fig": "Antikes Feigenholz",
+
   "block.afc.wood.planks.hanging_sign.copper.fig": "Kupfer Feigen Hängeschild",
   "block.afc.wood.planks.hanging_sign.bronze.fig": "Bronze Feigen Hängeschild",
   "block.afc.wood.planks.hanging_sign.black_bronze.fig": "Schwarzbronze Feigen Hängeschild",
@@ -651,9 +727,12 @@
   "block.afc.wood.planks.hanging_sign.black_steel.fig": "Schwarzstahl Feigen Hängeschild",
   "block.afc.wood.planks.hanging_sign.red_steel.fig": "Rotstahl Feigen Hängeschild",
   "block.afc.wood.planks.hanging_sign.blue_steel.fig": "Blaustahl Feigen Hängeschild",
+
   "entity.afc.boat.fig": "Feigenboot",
+
   "block.afc.wood.log.ancient_hevea": "Antiker Kautschukbaumstamm",
   "block.afc.wood.wood.ancient_hevea": "Antikes Kautschukholz",
+
   "block.afc.wood.planks.hanging_sign.copper.hevea": "Kupfer Kautschuk Hängeschild",
   "block.afc.wood.planks.hanging_sign.bronze.hevea": "Bronze Kautschuk Hängeschild",
   "block.afc.wood.planks.hanging_sign.black_bronze.hevea": "Schwarzbronze Kautschuk Hängeschild",
@@ -663,9 +742,12 @@
   "block.afc.wood.planks.hanging_sign.black_steel.hevea": "Schwarzstahl Kautschuk Hängeschild",
   "block.afc.wood.planks.hanging_sign.red_steel.hevea": "Rotstahl Kautschuk Hängeschild",
   "block.afc.wood.planks.hanging_sign.blue_steel.hevea": "Blaustahl Kautschuk Hängeschild",
+
   "entity.afc.boat.hevea": "Kautschukboot",
+
   "block.afc.wood.log.ancient_mahogany": "Antiker Mahagonibaumstamm",
   "block.afc.wood.wood.ancient_mahogany": "Antikes Mahagoniholz",
+
   "block.afc.wood.planks.hanging_sign.copper.mahogany": "Kupfer Mahagoni Hängeschild",
   "block.afc.wood.planks.hanging_sign.bronze.mahogany": "Bronze Mahagoni Hängeschild",
   "block.afc.wood.planks.hanging_sign.black_bronze.mahogany": "Schwarzbronze Mahagoni Hängeschild",
@@ -675,9 +757,12 @@
   "block.afc.wood.planks.hanging_sign.black_steel.mahogany": "Schwarzstahl Mahagoni Hängeschild",
   "block.afc.wood.planks.hanging_sign.red_steel.mahogany": "Rotstahl Mahagoni Hängeschild",
   "block.afc.wood.planks.hanging_sign.blue_steel.mahogany": "Blaustahl Mahagoni Hängeschild",
+
   "entity.afc.boat.mahogany": "Mahagoniboot",
+
   "block.afc.wood.log.ancient_teak": "Antiker Teakbaumstamm",
   "block.afc.wood.wood.ancient_teak": "Antikes Teakholz",
+
   "block.afc.wood.planks.hanging_sign.copper.teak": "Kupfer Teak Hängeschild",
   "block.afc.wood.planks.hanging_sign.bronze.teak": "Bronze Teak Hängeschild",
   "block.afc.wood.planks.hanging_sign.black_bronze.teak": "Schwarzbronze Teak Hängeschild",
@@ -687,9 +772,12 @@
   "block.afc.wood.planks.hanging_sign.black_steel.teak": "Schwarzstahl Teak Hängeschild",
   "block.afc.wood.planks.hanging_sign.red_steel.teak": "Rotstahl Teak Hängeschild",
   "block.afc.wood.planks.hanging_sign.blue_steel.teak": "Blaustahl Teak Hängeschild",
+
   "entity.afc.boat.teak": "Teakboot",
+
   "block.afc.wood.log.ancient_tualang": "Antiker Tualangbaumstamm",
   "block.afc.wood.wood.ancient_tualang": "Antikes Tualangholz",
+
   "block.afc.wood.planks.hanging_sign.copper.tualang": "Kupfer Tualang Hängeschild",
   "block.afc.wood.planks.hanging_sign.bronze.tualang": "Bronze Tualang Hängeschild",
   "block.afc.wood.planks.hanging_sign.black_bronze.tualang": "Schwarzbronze Tualang Hängeschild",
@@ -699,9 +787,12 @@
   "block.afc.wood.planks.hanging_sign.black_steel.tualang": "Schwarzstahl Tualang Hängeschild",
   "block.afc.wood.planks.hanging_sign.red_steel.tualang": "Rotstahl Tualang Hängeschild",
   "block.afc.wood.planks.hanging_sign.blue_steel.tualang": "Blaustahl Tualang Hängeschild",
+
   "entity.afc.boat.tualang": "Tualangboot",
+
   "block.afc.wood.log.ancient_ipe": "Antiker Ipebaumstamm",
   "block.afc.wood.wood.ancient_ipe": "Antikes Ipeholz",
+
   "block.afc.wood.planks.hanging_sign.copper.ipe": "Kupfer Ipe Hängeschild",
   "block.afc.wood.planks.hanging_sign.bronze.ipe": "Bronze Ipe Hängeschild",
   "block.afc.wood.planks.hanging_sign.black_bronze.ipe": "Schwarzbronze Ipe Hängeschild",
@@ -711,9 +802,12 @@
   "block.afc.wood.planks.hanging_sign.black_steel.ipe": "Schwarzstahl Ipe Hängeschild",
   "block.afc.wood.planks.hanging_sign.red_steel.ipe": "Rotstahl Ipe Hängeschild",
   "block.afc.wood.planks.hanging_sign.blue_steel.ipe": "Blaustahl Ipe Hängeschild",
+
   "entity.afc.boat.ipe": "Ipeboot",
+
   "block.afc.wood.log.ancient_ironwood": "Antiker Eisenholzbaumstamm",
   "block.afc.wood.wood.ancient_ironwood": "Antikes Eisenholzholz",
+
   "block.afc.wood.planks.hanging_sign.copper.ironwood": "Kupfer Eisenholz Hängeschild",
   "block.afc.wood.planks.hanging_sign.bronze.ironwood": "Bronze Eisenholz Hängeschild",
   "block.afc.wood.planks.hanging_sign.black_bronze.ironwood": "Schwarzbronze Eisenholz Hängeschild",
@@ -723,7 +817,9 @@
   "block.afc.wood.planks.hanging_sign.black_steel.ironwood": "Schwarzstahl Eisenholz Hängeschild",
   "block.afc.wood.planks.hanging_sign.red_steel.ironwood": "Rotstahl Eisenholz Hängeschild",
   "block.afc.wood.planks.hanging_sign.blue_steel.ironwood": "Blaustahl Eisenholz Hängeschild",
+
   "entity.afc.boat.ironwood": "Eisenholzboot",
+
   "block.afc.wood.log.ancient_black_oak": "Antiker Schwarzeichenbaumstamm",
   "block.afc.wood.wood.ancient_black_oak": "Antikes Schwarzeichenholz",
   "block.afc.wood.log.ancient_gum_arabic": "Antiker Gummiarabikumbaumstamm",
@@ -770,30 +866,37 @@
   "block.afc.wood.wood.ancient_white_cedar": "Antikes Weißzedernholz",
   "block.afc.wood.log.ancient_willow": "Antiker Weidenbaumstamm",
   "block.afc.wood.wood.ancient_willow": "Antikes Weidenholz",
+
   "block.afc.wood.sapling.ipe": "Gelber Ipesetzling",
   "block.afc.wood.potted_sapling.ipe": "Eingetopfter Gelber Ipesetzling",
   "block.afc.wood.leaves.ipe": "Gelbe Ipeblätter",
   "block.afc.wood.fallen_leaves.ipe": "Gelbes Ipelaub",
+
   "block.afc.wood.sapling.ironwood": "Königs Eisenholzsetzling",
   "block.afc.wood.potted_sapling.ironwood": "Eingetopfter Königs Eisenholzsetzling",
   "block.afc.wood.fallen_leaves.ironwood": "Königs Eisenholzlaub",
   "block.afc.wood.leaves.ironwood": "Königs Eisenholzblätter",
+
   "block.afc.wood.sapling.cypress": "Schlanke Zypressesetzling",
   "block.afc.wood.potted_sapling.cypress": "Eingetopfter Schlanke Zypressesetzling",
   "block.afc.wood.fallen_leaves.cypress": "Schlanke Zypresselaub",
   "block.afc.wood.leaves.cypress": "Schlanke Zypresseblätter",
+
   "block.afc.wood.sapling.teak": "Wahre Teaksetzling",
   "block.afc.wood.potted_sapling.teak": "Eingetopfter Wahre Teaksetzling",
   "block.afc.wood.fallen_leaves.teak": "Wahre Teaklaub",
   "block.afc.wood.leaves.teak": "Wahre Teakblätter",
+
   "block.afc.wood.sapling.eucalyptus": "Blauer Eukalyptussetzling",
   "block.afc.wood.potted_sapling.eucalyptus": "Eingetopfter Blauer Eukalyptussetzling",
   "block.afc.wood.fallen_leaves.eucalyptus": "Blauer Eukalyptuslaub",
   "block.afc.wood.leaves.eucalyptus": "Blauer Eukalyptusblätter",
+
   "block.afc.wood.sapling.fig": "Rostige Feigensetzling",
   "block.afc.wood.potted_sapling.fig": "Eingetopfter Rostige Feigensetzling",
   "block.afc.wood.fallen_leaves.fig": "Rostige Feigenlaub",
   "block.afc.wood.leaves.fig": "Rostige Feigenblätter",
+
   "block.afc.tree_tap": "Zapfhahn",
   "item.afc.rubber_bar": "Gummibarren",
   "item.afc.maple_sugar": "Ahornzucker",

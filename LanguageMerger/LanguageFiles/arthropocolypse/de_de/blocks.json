@@ -1,0 +1,19 @@
+{
+	"block.arthropocolypse.beetle_fragment_block": "Chitinblock",
+	"block.arthropocolypse.beetle_fragment_block_bricks": "Chitinziegel",
+	"block.arthropocolypse.chiseled_beetle_fragment_block": "Gemeißelter Chitinbllock",
+	"block.arthropocolypse.polished_beetle_fragment_block": "Polierter Chitinbllock",
+	"block.arthropocolypse.tiled_beetle_fragment_block": "Gekachelter Chitinblock",
+	"block.arthropocolypse.beetle_fragment_block_stairs": "Chitinblocktreppe",
+	"block.arthropocolypse.beetle_fragment_block_bricks_stairs": "Chitinziegeltreppe",
+	"block.arthropocolypse.polished_beetle_fragment_block_stairs": "Polierte Chitintreppe",
+	"block.arthropocolypse.tiled_beetle_fragment_block_stairs": "Gekachelte Chitintreppe",
+	"block.arthropocolypse.beetle_fragment_block_slab": "Chitinblockstufe",
+	"block.arthropocolypse.beetle_fragment_block_bricks_slab": "Chitinziegelstufe",
+	"block.arthropocolypse.polished_beetle_fragment_block_slab": "Polierte Chitinstufe",
+	"block.arthropocolypse.tiled_beetle_fragment_block_slab": "Gekachelte Chitinstufe",
+	"block.arthropocolypse.beetle_fragment_block_wall": "Chitinblockwand",
+	"block.arthropocolypse.beetle_fragment_block_bricks_wall": "Chitinziegelwand",
+	"block.arthropocolypse.polished_beetle_fragment_block_wall": "Polierte Chitinwand",
+	"block.arthropocolypse.tiled_beetle_fragment_block_wall": "Gekachelte Chitinwand"
+}
