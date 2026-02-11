@@ -18,5 +18,6 @@
     "tfg.tooltip.component.dry_ice": "可作为裂变反应堆的输入物以冷却反应堆，需要材料支架",
     "tfg.tooltip.component.refrigerant_pellet": "可作为裂变反应堆的输入物以冷却反应堆，需要材料支架",
     "tfg.tooltip.component.sandy_copper_frame": "可放置于储热单元内部以提升其储热能力",
-    "tfg.tooltip.component.sandy_beryllium_frame": "可放置于储热单元内部以提升其储热能力"
+    "tfg.tooltip.component.sandy_beryllium_frame": "可放置于储热单元内部以提升其储热能力",
+    "tfg.tooltip.tool_behaviour.silk_ice": "§d雕刻家+:§r 可用精准采集获取冰块"
 }

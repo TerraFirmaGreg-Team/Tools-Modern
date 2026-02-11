@@ -54,6 +54,12 @@
 		{
 			"lang": "zh_cn",
 			"text": "油砂"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Wüsten Ölsand",
+            "info": "Erscheint nur in $(thing)westlichen$() Wüsten, mit einem maximalen Niederschlag von 120mm.",
+            "emi": "Nur in trockenen Klimatas.\\nMax. Niederschlag: 120mm"
+        }
 	]
 }

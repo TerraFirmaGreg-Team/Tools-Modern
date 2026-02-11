@@ -6,7 +6,8 @@
 		"pt_br": "Dacito",
 		"ru_ru": "Дацит",
 		"uk_ua": "Дацит",
-		"zh_cn": "英安岩"
+		"zh_cn": "英安岩",
+        "de_de": "Dazit"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/dacite"

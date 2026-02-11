@@ -55,6 +55,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "晶质铀矿, 沥青铀矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Uraninit & Pechblende"
+        }
 	]
 }

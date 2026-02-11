@@ -6,7 +6,8 @@
 		"pt_br": "Xisto",
 		"ru_ru": "Аспидный сланец",
 		"uk_ua": "Аспідний сланець",
-		"zh_cn": "片岩"
+		"zh_cn": "片岩",
+        "de_de": "Kristallschiefer"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/schist"

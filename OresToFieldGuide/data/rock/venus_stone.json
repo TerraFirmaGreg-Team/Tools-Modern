@@ -6,7 +6,8 @@
 		"pt_br": "Traquito",
 		"ru_ru": "Трахит",
 		"uk_ua": "Трахіт",
-		"zh_cn": "粗面岩"
+		"zh_cn": "粗面岩",
+        "de_de": "Trachyt"
 	},
 	"replaceable_blocks": [
 		"ad_astra:venus_stone"

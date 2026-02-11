@@ -6,7 +6,8 @@
 		"pt_br": "Travertino",
 		"ru_ru": "Травертин",
 		"uk_ua": "Травертин",
-		"zh_cn": "石灰华"
+		"zh_cn": "石灰华",
+        "de_de": "Travertin"
 	},
 	"replaceable_blocks": [
 		"minecraft:dripstone_block"

@@ -52,6 +52,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "矿砂"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Mineralsand"
+        }
 	]
 }

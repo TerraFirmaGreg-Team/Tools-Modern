@@ -56,6 +56,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "膨润土, 橄榄石"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Bentonit & Olivin"
+        }
 	]
 }

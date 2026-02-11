@@ -62,6 +62,12 @@
 		{
 			"lang": "zh_cn",
 			"text": "硫, 黄铁矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Schwefel & Pyrit",
+            "info": "Erscheint nur im $(thing)Schwefelschlucht$() Biom.",
+			"emi": "Nur in Schwefelschlucht."
+        }
 	]
 }

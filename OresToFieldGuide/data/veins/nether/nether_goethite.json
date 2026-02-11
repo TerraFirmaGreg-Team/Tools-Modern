@@ -60,6 +60,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "针铁矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Goethit"
+        }
 	]
 }

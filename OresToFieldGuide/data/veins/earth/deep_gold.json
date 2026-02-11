@@ -58,6 +58,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "金矿 (深层)"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Gold (Tief)"
+        }
 	]
 }

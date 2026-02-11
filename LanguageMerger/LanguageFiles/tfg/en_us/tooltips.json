@@ -24,5 +24,6 @@
     "tfg.tooltip.component.refrigerant_pellet": "Can be used as an input in the Fission Reactor to cool it down, requires a Material Holder",
 
     "tfg.tooltip.component.sandy_copper_frame": "Can be placed inside a Heat Battery to increase its storage ability",
-    "tfg.tooltip.component.sandy_beryllium_frame": "Can be placed inside a Heat Battery to increase its storage ability"
+    "tfg.tooltip.component.sandy_beryllium_frame": "Can be placed inside a Heat Battery to increase its storage ability",
+    "tfg.tooltip.tool_behaviour.silk_ice": "§dSculptor+:§r Silk harvests all Ice Blocks"
 }

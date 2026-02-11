@@ -6,7 +6,8 @@
 		"pt_br": "Calcário",
 		"ru_ru": "Известняк",
 		"uk_ua": "Вапняк",
-		"zh_cn": "石灰岩"
+		"zh_cn": "石灰岩",
+        "de_de": "Kalkstein"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/limestone"

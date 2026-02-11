@@ -53,6 +53,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "硫铂矿, 斑铜矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Cooperit & Bornit"
+        }
 	]
 }

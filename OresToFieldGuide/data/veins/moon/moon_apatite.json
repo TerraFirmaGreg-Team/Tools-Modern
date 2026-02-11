@@ -56,6 +56,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "磷灰石, 烧绿石"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Apatit & Pyrochlor"
+        }
 	]
 }

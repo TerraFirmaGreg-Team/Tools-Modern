@@ -85,6 +85,12 @@
 			"lang": "zh_cn",
 			"text": "硅镁镍矿, 辉钴矿",
 			"info": "找不到吗？辉长岩总是生成在$(thing)玄武岩$()的下方，而且在海洋中的辉长岩岩脉也可能有用！"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Garnierit & Kobaltit",
+            "info": "Kannst es nicht finden? Gabbro erscheint immer unter $(thing)Basalt$(), und Gabbrodeiche im Ozean können auch nützlich sein!",
+            "emi": "Tipp: Gabbro ist immer\\nunter Basalt."
+        }
 	]
 }

@@ -6,7 +6,8 @@
 		"pt_br": "Giz",
 		"ru_ru": "Мел",
 		"uk_ua": "Крейда",
-		"zh_cn": "白垩岩"
+		"zh_cn": "白垩岩",
+        "de_de": "Kalk"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/chalk"

@@ -884,6 +884,16 @@
     "quests.tfg_tips.cellar_blocks.desc": "&bFood Shelves&r can be used to store virtually any kind of food. &bHangers&r can be used to store &aMeat&r and &aGarlic.&r Food stored in these receive a powerful preservation trait greater than that of &dVessels.&r",
     "quests.tfg_tips.cellar_blocks.task": "Any food shelf or hanger",
 
+    "quests.tfg_tips.composter.title": "Composter",
+    "quests.tfg_tips.composter.subtitle": "Turning your rotten produce into plant food!",
+    "quests.tfg_tips.composter.desc": "The &bComposter&r is a block that allows you to transform certain plant material into &dCompost&r! A potent fertilizer for plants which will increase their &aoverall yield&r.\n\nThere are two types of compostables, &aGreens&r and &6Browns&r, check the Field Guide for more information!",
+
+    "quests.tfg_tips.universal_compost.title": "Universal Compost",
+    "quests.tfg_tips.universal_compost.subtitle": "Because it's convenient",
+    "quests.tfg_tips.universal_compost.desc": "Tired of having a chest full of &dcompostables&r, and not knowing which is which? With some work, you can turn any compostable item into an &d&nUniversal Compost&r! These Universal Compostables count as &none&r item in the composting process of their respective color.\n\nIf you don't want to speedrun carpal tunnel, you can bundle four universal composts into a &d&nBag&r, these bags only stack up to sixteen but count as &nfour&r items in the composting process.",
+    "quests.tfg_tips.universal_compost.task.1": "Any colored Universal Compost",
+    "quests.tfg_tips.universal_compost.task.2": "Any colored Bag of Universal Compost",
+
     "__comment16": "#endregion",
 
     "__comment17": "#region Beneath",
@@ -940,7 +950,7 @@
 
     "quests.tfg_tips.lunchbox.title": "Lunch Box",
     "quests.tfg_tips.lunchbox.subtitle": "A refrigerator in your pocket!",
-    "quests.tfg_tips.lunchbox.desc": "Lunch boxes have 9 slots for food, keeping it cold and longer lasting.\nThe Cooling Lunchbox has a stronger effect than the regular one, but needs to be provided with ice or cells that will thaw over time.",
+    "quests.tfg_tips.lunchbox.desc": "Lunch boxes have 9 slots for food, keeping it cold and longer lasting.\nThe Cooling Lunchbox has a stronger effect than the regular one, but needs to be provided with ice or cells that will thaw over time.\n\nWhile creating Packed Ice from Ice Shavings might be difficult, if you have a &nsophisticated enough&r saw, you'll be able to silk harvest regular ice directly!",
     "quests.tfg_tips.lunchbox.task.1": "Any Lunch Box",
     "quests.tfg_tips.lunchbox.task.2": "Any Ice Block",
     "quests.tfg_tips.lunchbox.task.3": "Any Cell containing Liquid Ice Slush",

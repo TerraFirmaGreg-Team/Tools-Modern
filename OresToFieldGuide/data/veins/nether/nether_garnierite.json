@@ -63,6 +63,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "硅镁镍矿, 辉钴矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Garnierit & Kobaltit"
+        }
 	]
 }

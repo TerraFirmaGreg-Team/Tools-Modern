@@ -62,6 +62,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "锂辉石, 锂云母"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Spodumen & Lepidolith"
+        }
 	]
 }

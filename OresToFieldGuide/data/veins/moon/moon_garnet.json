@@ -55,6 +55,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "紫水晶, 蛋白石, 石榴石"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Amethyst, Opal, & Granat"
+        }
 	]
 }

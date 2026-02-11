@@ -59,6 +59,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "闪锌矿, 硫"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Sphalerit & Schwefel"
+        }
 	]
 }

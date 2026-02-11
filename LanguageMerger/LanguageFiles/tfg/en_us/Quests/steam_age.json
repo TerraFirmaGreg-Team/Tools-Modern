@@ -82,7 +82,7 @@
 
 	"quests.steam_age.steel_encased_fan.title": "Encased Fan",
 	"quests.steam_age.steel_encased_fan.subtitle": "Great for hot days",
-	"quests.steam_age.steel_encased_fan.desc": "The &3Encased Fan&r is the final step in your first fully automatic ore processing line, so you no longer need to clean your impure dusts by hand. Point the fan at your dusts with a water source between, and they'll be gleaming in no time. As a bonus, it'll give you some extra byproducts too! It might be tricky to move a water source right now, but you can build around an existing part of a river or lake.",
+	"quests.steam_age.steel_encased_fan.desc": "The &3Encased Fan&r is the final step in your first fully automatic ore processing line, so you no longer need to clean your impure dusts by hand.\n\nGreate's Encased Fans work a little differently than in base Create. Instead of placing a water source in front of the fan, you'll need to pump water into the encased fan block itself. Be sure to set the number on the fan to &31&r!\n\nNext, place your crushed ore or dusts on a Depot or Belt in front of the fan (the floor will NOT work!), and they'll be gleaming in no time. As a bonus, it'll give you some &3extra byproducts&r too!",
 
 	"quests.steam_age.steel_millstone.title": "Steel Millstone",
 	"quests.steam_age.steel_millstone.subtitle": "A worthwhile upgrade",

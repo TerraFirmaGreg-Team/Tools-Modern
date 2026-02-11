@@ -6,7 +6,8 @@
 		"pt_br": "Granito",
 		"ru_ru": "Гранит",
 		"uk_ua": "Граніт",
-		"zh_cn": "花岗岩"
+		"zh_cn": "花岗岩",
+        "de_de": "Granit"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/granite"

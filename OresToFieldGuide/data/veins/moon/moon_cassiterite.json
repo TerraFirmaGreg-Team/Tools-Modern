@@ -73,6 +73,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "锡石矿, 黄铜矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Cassiterit & Chalkopyrit"
+        }
 	]
 }

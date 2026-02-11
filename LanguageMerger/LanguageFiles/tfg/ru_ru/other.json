@@ -42,6 +42,8 @@
     "entity.tfg.tier_2_double_rocket": "Прочная двухместная ракета ASM 4914 (титан)",
     "entity.tfg.tier_3_double_rocket": "Тяжёлая двухместная ракета 45-Ti (вольфрамосталь)",
 
+    "curios.identifier.face": "Лицо",
+
     "effect.tfg.cooling": "§bОхлаждение",
     "effect.tfg.warming": "§6Согревание",
     "effect.tfg.instant_radiation": "Мгновенное радиоактивное излучение",

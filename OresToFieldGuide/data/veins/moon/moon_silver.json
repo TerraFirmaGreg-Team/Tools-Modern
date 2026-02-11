@@ -58,6 +58,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "银矿, 方铅矿, 铅矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Silber, Galenit, & Blei"
+        }
 	]
 }

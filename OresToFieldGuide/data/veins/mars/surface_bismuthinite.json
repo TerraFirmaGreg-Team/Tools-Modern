@@ -72,6 +72,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "辉铋矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Bismut"
+        }
 	]
 }

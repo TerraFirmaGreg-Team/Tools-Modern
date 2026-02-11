@@ -6,7 +6,8 @@
 		"pt_br": "Dolomito",
 		"ru_ru": "Доломит",
 		"uk_ua": "Доломіт",
-		"zh_cn": "白云岩"
+		"zh_cn": "白云岩",
+        "de_de": "Dolomit"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/dolomite"

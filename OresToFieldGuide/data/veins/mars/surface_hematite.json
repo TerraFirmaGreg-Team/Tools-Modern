@@ -72,6 +72,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "赤铁矿, 褐铁矿"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Hematit & Limonit"
+        }
 	]
 }

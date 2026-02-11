@@ -57,6 +57,10 @@
 		{
 			"lang": "ru_ru",
 			"text": "Золото, Электротин & Боксит"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Gold, Elektrotin, & Bauxit"
+        }
 	]
 }

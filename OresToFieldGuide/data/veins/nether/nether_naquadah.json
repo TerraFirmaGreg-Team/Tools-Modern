@@ -43,6 +43,10 @@
 		{
 			"lang": "zh_cn",
 			"text": "硅岩"
-		}
+		},
+        {
+            "lang": "de_de",
+            "text": "Naquadah"
+        }
 	]
 }
