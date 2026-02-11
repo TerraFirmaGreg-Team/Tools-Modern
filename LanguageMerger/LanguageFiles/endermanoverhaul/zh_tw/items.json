@@ -1,12 +1,14 @@
 {
-    "item.endermanoverhaul.nether_wastes_enderman_spawn_egg": "洞穴末影人生怪蛋",
-    "item.endermanoverhaul.dark_oak_enderman_spawn_egg": "灰燼末影人生怪蛋",
-    "item.endermanoverhaul.mushroom_fields_enderman_spawn_egg": "蘑菇末影人生怪蛋",
-    "item.endermanoverhaul.swamp_enderman_spawn_egg": "覆苔末影人生怪蛋",
-    "item.endermanoverhaul.scarab_spawn_egg": "甲蟲生怪蛋",
-    "item.endermanoverhaul.soulsand_valley_enderman_spawn_egg": "光花侵染末影人生怪蛋",
-    "item.endermanoverhaul.windswept_hills_enderman_spawn_egg": "月海末影人生怪蛋",
-    "item.endermanoverhaul.end_enderman_spawn_egg": "男中音合唱末影人生怪蛋",
-    "item.endermanoverhaul.end_islands_enderman_spawn_egg": "女高音合唱末影人生怪蛋",
-    "item.endermanoverhaul.spirit_spawn_egg": "彗星生怪蛋"
+  "item.endermanoverhaul.nether_wastes_enderman_spawn_egg": "熾熱終界使者生成蛋",
+  "item.endermanoverhaul.dark_oak_enderman_spawn_egg": "灰燼終界使者生成蛋",
+  "item.endermanoverhaul.mushroom_fields_enderman_spawn_egg": "蘑菇終界使者生成蛋",
+  "item.endermanoverhaul.swamp_enderman_spawn_egg": "苔蘚終界使者生成蛋",
+  "item.endermanoverhaul.scarab_spawn_egg": "甲蟲生成蛋",
+  "item.endermanoverhaul.soulsand_valley_enderman_spawn_egg": "光華觸碰終界使者生成蛋",
+  "item.endermanoverhaul.windswept_hills_enderman_spawn_egg": "月海終界使者生成蛋",
+  "item.endermanoverhaul.end_enderman_spawn_egg": "男低音頌歌終界使者生成蛋",
+  "item.endermanoverhaul.end_islands_enderman_spawn_egg": "女高音頌歌終界使者生成蛋",
+  "item.endermanoverhaul.spirit_spawn_egg": "彗星生成蛋",
+  "item.endermanoverhaul.desert_enderman_spawn_egg": "迷失終界使者生成蛋",
+  "item.endermanoverhaul.savanna_enderman_spawn_egg": "沙質終界使者生成蛋"
 }
