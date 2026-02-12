@@ -139,7 +139,7 @@
     "quests.gregtech_energy.tank.task": "任何超级缸",
     "quests.gregtech_energy.battery_buffer.title": "电池箱",
     "quests.gregtech_energy.battery_buffer.subtitle": "基础型电池箱用于容纳各类电池",
-    "quests.gregtech_energy.battery_buffer.desc.1": "电池箱使你存储和管理能源的基本机器——虽然从技术上讲，它们本身不存储能源。它们只是作为你的电池的容器。\n\n&c⚠如果你不想让它们爆炸&r：\n-&4切勿将更高等级的能源&r输入到较低等级的电池缓冲器中。\n-电池只有在&c等于或低于&r电池箱等级时才能充电。",
+    "quests.gregtech_energy.battery_buffer.desc.1": "电池箱使你存储和管理能源的基本机器——虽然从技术上讲，它们本身不存储能源。它们只是作为你的电池的容器。\n\n&c⚠如果你不想让它们爆炸&r：\n-&4切勿将更高等级的能源&r输入到较低等级的电池箱中。\n-电池只有在&c等于或低于&r电池箱等级时才能充电。",
     "quests.gregtech_energy.battery_buffer.desc.2": "电池箱可接收的输入电流最高为其输出电流的2倍。\n例如，一个4x电池箱可以输入&a8A&r，但最高仅输出&e4A&r（即每个电池槽位输出1A）。\n\n&e重要提示&r：\n-内部未安装电池时，无能量输出。\n-其实际输出电流等于内部安装的电池数量。（这意味着，一个&68x电池箱&r若仅安装&e3个电池&r，则只能输出&e3A&r）。\n\n请善加利用——它们是构建任何稳定能源网络的基础。",
     "quests.gregtech_energy.battery_buffer.task.1": "任何电池箱",
     "quests.gregtech_energy.battery_buffer.task.2": "再来一个",

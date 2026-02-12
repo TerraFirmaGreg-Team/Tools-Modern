@@ -121,7 +121,7 @@
     "quests.low_voltage.lv_canner.desc": "当你觉得是时候投资电池时，就制造这台机器。",
     "quests.low_voltage.lv_battery.title": "电池！",
     "quests.low_voltage.lv_battery.subtitle": "用于存储能量的电池！",
-    "quests.low_voltage.lv_battery.desc": "&a电池&r可放入机器界面底部中央的能量槽，或置于&3电池缓冲器&r中使用。\n\n当电池存放在物品栏时，通过潜行右键点击可使其为你的电力物品&d充电&r。\n\n&7LV&r、&bMV&r与&6HV&r电池均提供三种材料选择，你可根据现有材料选择最合适的类型。&d锂&r电池容量最高，其次是&d镉&r，最后是&d钠&r。\n\n我们的建议是：找到盐矿脉后，可通过&a电解盐&r获取&d钠&r，或通过&a浸洗粉碎锂云母&r获得&d锂&r。\n\n获取&e任意&r类型的&a电池&r即可完成本任务。",
+    "quests.low_voltage.lv_battery.desc": "&a电池&r可放入机器界面底部中央的能量槽，或置于&3电池箱&r中使用。\n\n当电池存放在物品栏时，通过潜行右键点击可使其为你的电力物品&d充电&r。\n\n&7LV&r、&bMV&r与&6HV&r电池均提供三种材料选择，你可根据现有材料选择最合适的类型。&d锂&r电池容量最高，其次是&d镉&r，最后是&d钠&r。\n\n我们的建议是：找到盐矿脉后，可通过&a电解盐&r获取&d钠&r，或通过&a浸洗粉碎锂云母&r获得&d锂&r。\n\n获取&e任意&r类型的&a电池&r即可完成本任务。",
     "quests.low_voltage.lv_battery.task": "任何LV电池",
     "quests.low_voltage.lv_battery_preparation.title": "电池准备！",
     "quests.low_voltage.lv_battery_preparation.subtitle": "电池很棒！",
