@@ -26,7 +26,7 @@
     "quests.medium_voltage.mv_chemical_reactor.title": "进阶化学反应釜",
     "quests.medium_voltage.mv_chemical_reactor.subtitle": "更强，更好，更快",
     "quests.medium_voltage.mv_chemical_reactor.desc": "你已经在&7LV章节&r了解了&d化学反应釜&r，不过这里再复习一下。\n\n在&bMV&r阶段，你不仅能解锁&a新配方&r，还能对&a原有LV配方进行超频&r。这意味着生产速度将提升&a2倍&r，但同时会消耗&e4倍电力&r。是否值得需要你自己权衡。\n\n但建造&bMV化学反应釜&r的理由不止于此。如果选择&d有机化学路线&r，你将需要它来生产&d乙烯&r——该配方需使用&d硫酸&r和&d乙醇&r，且要求&bMV电力&r驱动。\n\n总之这是台性能可靠的设备，造价也不算高昂。有空闲时不妨着手建造一台。",
-    "quests.medium_voltage.mv_mixer.title": "高级搅拌机",
+    "quests.medium_voltage.mv_mixer.title": "进阶搅拌机",
     "quests.medium_voltage.mv_mixer.subtitle": "混合更复杂的合金",
     "quests.medium_voltage.mv_mixer.desc": "若想深入&bMV&r阶段，请从这里开始。\n\n&3MV搅拌机&r产出的粉末具有重要用途。",
     "quests.medium_voltage.mv_energy.title": "在MV阶段发电",
