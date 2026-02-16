@@ -1,11 +1,11 @@
 {
 
     "block.create.netherite_backtank": "Blaustahl-Rückentank",
-    "block.create.shadow_casing": "Schwarzstahlgehäuse",
+    "block.create.shadow_steel_casing": "Schwarzstahlgehäuse",
     "block.create.refined_radiance_casing": "Leuchtendes Gehäuse",
 
     "__comment1": "Industrial iron",
-	
+
     "block.create.industrial_iron_block": "Industriestahlblock",
     "block.create.weathered_iron_block": "Verwitterter Stahlblock",
     "block.create.industrial_iron_window": "Industriestahlfenster",
@@ -14,7 +14,7 @@
     "block.create.weathered_iron_window_pane": "Verwittertes Stahlfensterscheibe",
 
     "__comment2": "Window panes",
-	
+
     "block.create.dark_oak_window": "Nussbaumfenster",
     "block.create.dark_oak_window_pane": "Nussbaumfensterscheibe",
     "block.create.cherry_window": "Feigenfenster",
@@ -29,7 +29,7 @@
     "block.create.acacia_window_pane": "Baobabfensterscheibe",
 
     "__comment3": "Andesite",
-	
+
     "block.create.andesite_bars": "Metallgitter",
     "block.create.andesite_belt_funnel": "Metall Förderbandtrichter",
     "block.create.andesite_casing": "Metallgehäuse",
@@ -44,7 +44,7 @@
     "block.create.andesite_table_cloth": "Metall Tischdecke",
 
     "__comment4": "Deepslate",
-	
+
     "block.create.cut_deepslate": "Geschnittener Migmatit",
     "block.create.cut_deepslate_stairs": "Geschnittene Migmatittreppe",
     "block.create.cut_deepslate_slab": "Geschnittene Migmatitstufe",
@@ -65,7 +65,7 @@
     "block.create.deepslate_pillar": "Migmatitsäule",
 
     "__comment5": "Dripstone",
-	
+
     "block.create.cut_dripstone": "Geschnittener Travertin",
     "block.create.cut_dripstone_stairs": "Geschnittene Travertintreppe",
     "block.create.cut_dripstone_slab": "Geschnittene Travertinstufe",
@@ -86,7 +86,7 @@
     "block.create.dripstone_pillar": "Travertinsäule",
 
     "__comment6": "Granite (looks more like chert)",
-	
+
     "block.create.cut_granite": "Geschnittener Hornstein",
     "block.create.cut_granite_stairs": "Geschnittene Hornsteintreppe",
     "block.create.cut_granite_slab": "Geschnittene Hornsteinstufe",

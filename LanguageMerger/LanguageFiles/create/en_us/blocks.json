@@ -1,7 +1,7 @@
 {
 
     "block.create.netherite_backtank": "Blue Steel Backtank",
-    "block.create.shadow_casing": "Black Steel Casing",
+    "block.create.shadow_steel_casing": "Black Steel Casing",
     "block.create.refined_radiance_casing": "Glowing Casing",
 
     "__comment1": "Industrial iron",
