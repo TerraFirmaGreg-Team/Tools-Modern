@@ -265,6 +265,7 @@
     "item.tfg.harvest_basket": "Harvest Basket",
     "item.tfg.aluminium_harvest_basket": "Aluminium Harvest Basket",
 
+    "item.tfg.wood.lumber.bamboo": "Bamboo Lumber"
     "item.tfg.wood.lumber.aeronos": "Aeronos Lumber",
     "item.tfg.wood.lumber.strophar": "Strophar Lumber",
     "item.tfg.wood.lumber.glacian": "Glacian Lumber",
@@ -443,6 +444,4 @@
     "item.tfg.tier_1_double_rocket": "R-Aluminosteel Two-Person Rocket",
     "item.tfg.tier_2_double_rocket": "ASM 4914 Titanium Two-Person Rocket",
     "item.tfg.tier_3_double_rocket": "45-Ti Tungstensteel Two-Person Rocket"
-
-    "item.tfg.wood.lumber.bamboo": "Bamboo Lumber"
 }
