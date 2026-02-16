@@ -242,7 +242,7 @@
 
 	"quests.steam_age.curving_press.title": "Curving Press",
 	"quests.steam_age.curving_press.subtitle": "Just as niche as the LV Extruder",
-	"quests.steam_age.curving_press.desc": "The &3Curving Press&r can do all the same recipes as an LV Extruder. Unfortunately, neither can do very much, as the extruder is only useful once you get to MV. Still, if you find yourself wanting to craft a lot of tool heads in bulk, this machine can do it for you.",
+	"quests.steam_age.curving_press.desc": "The &3Curving Press&r can do all the same recipes as an LV Extruder. Unfortunately, neither can do very much, as the extruder is only really useful once you get to MV. If you're making a lot of rubber or plastic-related crafts, this machine can help cut the cost of their recipes. Otherwise, if you find yourself wanting to craft a lot of tool heads in bulk, this machine can do it for you.",
 
 	"quests.steam_age.vibrating_table.title": "Vibrating Table",
 	"quests.steam_age.vibrating_table.subtitle": "Identical to the LV Sifter",
