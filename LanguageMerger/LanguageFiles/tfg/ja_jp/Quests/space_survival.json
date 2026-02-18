@@ -31,11 +31,11 @@
 	"quests.space_survival.solar_panels.title": "ソーラーパネル",
 	"quests.space_survival.solar_panels.subtitle": "お天道様は見ているぞ",
 	"quests.space_survival.solar_panels.desc": "月面で使える発電手段はあまり多くありません。そんな中で活躍するのが&eソーラーパネル&rです。\n\n昼間限定にはなりますが、月面のソーラーパネルはノーコストで&932EU/t&r相当の電力を生み出します。地球上での発電量は、月面の8分の1になります。大量に用意して、月に並べておきましょう。",
-    "quests.space_survival.solar_panels.task": "Any FE to EU converter",
+	"quests.space_survival.solar_panels.task": "Any FE to EU converter",
 
 	"quests.space_survival.stone_dust_centrifuging.title": "ヘリウム3",
 	"quests.space_survival.stone_dust_centrifuging.subtitle": "声が高くなるやつ",
-	"quests.space_survival.stone_dust_centrifuging.desc.1": "月面には大量の&eヘリウム3&rが存在します。月の石の成分として含まれるヘリウム3は、重要資源のひとつです。主な入手方法は2種類あります。\n\n1.石を粉砕し、遠心分離する。砕石機では生石を無限生産することができるので、これで得られる石を使いましょう。\n\n月面で生産できるのは、斜長岩・ノーライト・響岩の3種です。これらを加工することで、ヘリウム3は無限資源になります。",
+	"quests.space_survival.stone_dust_centrifuging.desc.1": "月面には大量の&eヘリウム3&rが存在します。月の石の成分として含まれるヘリウム3は、重要資源のひとつです。主な入手方法は2種類あります。\n\n1.石を粉砕し、遠心分離する。ヘリウム3は瑠璃岩の粉を遠心分離することで確保できます。月面であれば、破砕機で瑠璃岩を無限生産することができます。",
 	"quests.space_survival.stone_dust_centrifuging.desc.2": "2.&9液体採掘機&rで掘る。こちらは簡単ですが、副産物は特に得られません。\n\nヘリウム3の用途はいくつか挙げられますが、特に重要なのは呼吸するための空気の確保でしょう。また、ヘリウム3は電気温室の肥料としても使用でき、コーラスフルーツの成長を加速することができます。さらには、将来核融合炉が完成すれば、核融合発電の燃料にもなります。",
 	"quests.space_survival.stone_dust_centrifuging.task": "いずれかのアイテム",
 
@@ -181,13 +181,23 @@
 
 	"quests.space_survival.soarer.title": "ソアラー",
 	"quests.space_survival.soarer.subtitle": "高い所に行きたい人へ",
-	"quests.space_survival.soarer.desc": "飛行機は火星では飛びません。宇宙服にはジェットパックは搭載できません。では、空を飛ぶにはどうすれば良いのでしょうか。\n\n火星には&4ソアラー&rという生き物が生息しています。これらは生魚を与えることで飼いならすことができ、サドルを装備させることで、空を飛ぶ乗り物として使うことができます。\n\nただし、ソアラーは長時間飛行することが出来ません。画面左上の翼型のゲージが、飛行できる残り時間を表しています。ソアラーは長距離移動に適しており、またソアラーに乗っていればサンドワームにも襲われません。\n\n&9注意&r:ソアラーは&6金星&rのような極端な高温には耐えられません。",
+	"quests.space_survival.soarer.desc": "もちろん、飛行機は火星で飛びたってくれません。また、宇宙服にジェットパックを搭載することはできません。では、空を飛ぶにはどうすれば良いのでしょうか。\n\n火星には&4ソアラー&rという生き物が生息しています。これらは生魚を与えることで飼いならすことができ、サドルを装備させることで、空を飛ぶ乗り物として使うことができます。\n\nただし、ソアラーは長時間飛行することが出来ません。画面左上の翼型のゲージが、飛行できる残り時間を表しています。（生魚を与えることで再び飛ぶまでの時間を短縮できます。）\n\nソアラーは長距離移動に適しており、またソアラーに乗っていればサンドワームにも襲われません。\n\n&9注意&r:ソアラーは&6金星&rのような極端な高温には耐えられません。",
 	"quests.space_survival.soarer.task": "ソアラーを見つける",
 
 	"quests.space_survival.surfer.title": "サーファー",
 	"quests.space_survival.surfer.subtitle": "泳ぎたい人へ",
 	"quests.space_survival.surfer.desc": "&bサーファー&rは水場で見られる生物です。陸で休んでいるところに忍び寄り、生魚を与えることで、飼いならすことができます。サドルを装備させれば、水中を高速で移動する乗り物になります。\n\n火星でこの特性が活かせる場は殆どありませんが、AEの空間セルを使うことで、この生物を別ディメンションに移動することができます。いずれ、この特性が役立つ星に向かうことになるでしょう……\n\n&9注意&r:サーファーは&6金星&rのような極端な高温には耐えられません。",
 	"quests.space_survival.surfer.task": "サーファーを見つける",
+
+	"quests.space_survival.charger.title": "チャージャー",
+	"quests.space_survival.charger.subtitle": "チャージングGO！",
+	"quests.space_survival.charger.desc": "&bチャージャー&rは、各地を徘徊している大型の緑色の草食生物です。火星産の作物で手なずけられますが、&cビートルート&rだけは与えないよう注意してください。\n\n手なずけた後はサドルや防具を装着でき、防御力を高められます。スペースバーを長押しすると一直線に突進し、追加ダメージとノックバックを与えられます。また、&e特殊能力&rキー（初期設定&9C&r）で頭突き攻撃を繰り出せます。\n\n火星産の作物を与えることで体力を回復させることができます。\n\n&9注意&r：チャージャーは、&6金星&rのような極端な高温には耐えられません。",
+	"quests.space_survival.charger.task": "Find a Charger",
+
+	"quests.space_survival.snatcher.title": "スナッチャー",
+	"quests.space_survival.snatcher.subtitle": "サッ",
+	"quests.space_survival.snatcher.desc": "&bスナッチャー&rは、プレイヤーのアイテムをこっそり盗む友好的な生物です。攻撃すれば盗まれたアイテムを取り戻せますし、生魚を与えれば手なずけることも可能です。\n\n手なずけた後は背負って持ち運べるようになり、木のチェストを装備させることでインベントリ容量を少し増やせます。&e特殊能力&rキー（初期設定&9C&r）で投げると、近くのチェストから中身を盗んで持ち帰ってきます。\n\n生魚を追加で与えると体力が回復します。\n\n&9Note&r：スナッチャーは、&6金星&rのような極端な高温には耐えられません。",
+	"quests.space_survival.snatcher.task": "Find a Snatcher",
 
 	"quests.space_survival.sniffer_or_wraptor.title": "スニッファーとラプター",
 	"quests.space_survival.sniffer_or_wraptor.subtitle": "ウシとニワトリ",
@@ -202,11 +212,11 @@
 
 	"quests.space_survival.mineral_rich_wool.title": "資源豊富な毛皮",
 	"quests.space_survival.mineral_rich_wool.subtitle": "永遠の砂嵐の中で",
-	"quests.space_survival.mineral_rich_wool.desc": "スニッファー、ラプターの両動物は、飼いならすことで毛刈りが可能になります。いずれの動物からも、特殊な毛皮を入手することができます。\n\n電気高炉でこの毛皮を製錬すると、アルカリアースシリケートが入手できます。また、&6バイオAES強化Rポリウレタンフォーム&rの作成にも必要です。",
+	"quests.space_survival.mineral_rich_wool.desc": "スニッファー、ラプターの両動物は、飼いならすことで毛刈りが可能になります。いずれの動物からも、特殊な毛皮を入手することができます。(デプロイヤーにハサミを持たせることで自動回収もできます。)\n\nEBFでこの毛皮を製錬すると、アルカリアースシリケートが入手できます。また、&6バイオAES強化Rポリウレタンフォーム&rの作成にも必要です。",
 
 	"quests.space_survival.aes_insulation.title": "多層断熱保護剤",
 	"quests.space_survival.aes_insulation.subtitle": "アイスクリームサンドイッチじゃないよ",
-	"quests.space_survival.aes_insulation.desc": "現時点での用途は少ないですが、&1IV&rロケットの材料になります。",
+	"quests.space_survival.aes_insulation.desc": "&1IV&r時代にいくつかの部品の素材として使います。",
 
 	"quests.space_survival.mars_shields.title": "強力な盾",
 	"quests.space_survival.mars_shields.subtitle": "金属盾の時代は終わり",

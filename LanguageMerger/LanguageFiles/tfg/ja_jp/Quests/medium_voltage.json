@@ -22,7 +22,7 @@
 
     "quests.medium_voltage.electrolyzer.title": "MV電解槽",
     "quests.medium_voltage.electrolyzer.subtitle": "ここ進研〇ミでやったところだ！",
-    "quests.medium_voltage.electrolyzer.desc.1": "&bきっと見たことある機械&r\n&2何はなくとも、まずこの機械はなるべく早く作ってください。&r電解槽を作ることで、&7アルミニウム&rの入手手段が大幅に増加します。\n\nMV以前で使える方法は、&9サファイアの電化分解&rのみでした。\nしかし&bMV&r電解槽を使用することで、より幅広い手段でアルミニウムを入手できるようになります。",
+    "quests.medium_voltage.electrolyzer.desc.1": "&bきっと見たことある機械&r\n&2何はなくとも、まずこの機械はなるべく早く作ってください。&r電解槽を作ることで、&7アルミニウム&rの入手手段が大幅に増加します。\n\nMV以前でアルミニウムを入手する方法は、&9サファイアの電解&rか一部の鉱石の鉱石処理による副産物のみでした。\nしかし&bMV&r電解槽を使用することで、より幅広い手段でアルミニウムを入手できるようになります。",
     "quests.medium_voltage.electrolyzer.desc.2": "&6アルミニウムの主要な入手手段:&r\n&9ルビー&r:&7アルミニウム&r、&5クロム&rが手に入る\n&9苦礬柘榴石&r:サファイア鉱脈で見つかりやすい\n&9リチア雲母&r:副産物がとても多様\n&9方ソーダ石&r:&3塩素&rや&bシリコン&rも取り出せる\n&9トパーズ&r:&3フッ素&rと&7アルミニウム&rを多く含む\n\n他にもいろいろな手段があるので、&aEMI&rで確認してみましょう。\n\nちなみに、粘土の電気分解によるレシピは&6HV&rまで禁止です。ズルいので残当。",
 
     "quests.medium_voltage.mv_extruder.title": "発展型押出機",
@@ -75,7 +75,7 @@
     "quests.medium_voltage.mv_fluid_rig.desc.3": "&l&2地上世界&rで見つかる油田&l:&r\n\n&9原油:&r&a軽質燃料&rが多く得られる。汎用性が高い。\n&9軽油:&r&a精製ガス&rが多く得られる。発電手段として有用。\n&9重油:&r&a重質燃料&rが多く得られる。トルエンの材料。\n&9原料油:&r&aナフサ&rが多く得られる。石油化学工業のお供。\n&9天然ガス:&r&a精製ガス&rが簡単に得られる。\n&9塩水:&r&a水酸化ナトリウム&rと&a塩素&rが得られる。",
     "quests.medium_voltage.mv_fluid_rig.desc.4": "&l&c地下世界&r（Beneath）で見つかる油田&l:&r\n\n&9天然ガス:&r&a精製ガス&rが得られる。地上世界より産出量が多い。\n&9溶岩:&r説明不要。\n\n最初はとりあえず色々な場所を掘ってみるのが吉です。多くの場合、堀った液体はそのまま採掘機の稼働に使えます。",
     "quests.medium_voltage.mv_fluid_rig.desc.5": "An example of Fluid Regions on &9The Moon&r:",
-
+    
     "quests.medium_voltage.mv_oilsands.title": "アメリカごっこ",
     "quests.medium_voltage.mv_oilsands.subtitle": "本クエストは米軍の提供でお送りしています",
     "quests.medium_voltage.mv_oilsands.desc": "地下にはオイルサンドの鉱脈が存在します。オイルサンドの粉を&3遠心分離&rすると、&a原油&rが入手できます。\n\n&9&lまめちしき:&r&l&9&lエチレン&r&lの作成方法には、他にも植物から採れるエタノールを使った方法があります。&r&r\n\n現段階では石油は不要ですが、&5EV&r時代には必須となります。\n\nまた、石油からは&a軽質燃料&r&aディーゼル&r、&aガソリン&rなど有用な燃料が得られます。\n\nゆえに、プラスチックの作成に石油を使うのであれば、石油を使った発電も検討することをおすすめします。\n\nオイルサンドは、この先液体採掘機を作成するまで、長くお世話になるアイテムです。",
@@ -326,5 +326,9 @@
 
     "quests.medium_voltage.stainless_greate.title": "Greate-ステンレスバージョン",
     "quests.medium_voltage.stainless_greate.subtitle": "HS - 高応力時代",
-    "quests.medium_voltage.stainless_greate.desc": "このクエストは、今のタイミングでGreateに新たなアップグレードが追加されていることを知らせるためのものです。\n\n特に新しい破砕ホイールはかなり役立ってくれるでしょう。HV粉砕機と同じように副産物を回収できるうえ、複数のアイテムを同時処理できるので、作業効率が大幅に上がります！"
+    "quests.medium_voltage.stainless_greate.desc": "このクエストは、今のタイミングでGreateに新たなアップグレードが追加されていることを知らせるためのものです。\n\n特に新しい破砕ホイールはかなり役立ってくれるでしょう。HV粉砕機と同じように副産物を回収できるうえ、複数のアイテムを同時処理できるので、作業効率が大幅に上がります！",
+
+    "quests.medium_voltage.terminal_dismantler.title": "Dismantler Terminal",
+    "quests.medium_voltage.terminal_dismantler.subtitle": "解体　解体　一役買いたい",
+    "quests.medium_voltage.terminal_dismantler.desc": "&8Dismantler&rは、マルチブロックの本体（コントローラー）をShift＋右クリックするだけでマルチブロックを一瞬で解体できる便利なツールです。ただし、構造が完全に完成していない場合は正しく解体できませんのでご注意ください。"
 }

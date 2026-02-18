@@ -167,6 +167,7 @@
     "quests.high_voltage.rocket_t1.title": "月面探査用ロケット",
     "quests.high_voltage.rocket_t1.subtitle": "ロケットで突き抜けろ！",
     "quests.high_voltage.rocket_t1.desc": "さあ、ついに念願の&6ロケット&rの完成です！\n\n機体は全て&dロケット合金&rで構築し、断熱材として&b2304mb&rの&b液化ケイ素&r（&b16インゴット分&r）と16個の&fガラス化した粉末&rが必要です。\n\nガラス化した粉末は2種類あります：\n&e-&r&eホウ素ケイ酸ガラスの粉&r—&6ミキサー&rで&dホウ素&rと&fガラスの粉&rを混ぜる\n\n&e-&r&5ガラス化した石綿&r—&6熱分解炉&rで石綿を加熱。\n\nどちらを選んでも構いません。作りやすい方をどうぞ。",
+    "quests.high_voltage.rocket_t1.task": "Either rocket",
 
     "quests.high_voltage.vitrified_pearl.title": "ガラス化したエンダーパール",
     "quests.high_voltage.vitrified_pearl.subtitle": "死んだような目",
@@ -236,7 +237,7 @@
     "quests.high_voltage.space_survival.desc": "まだ見ていないなら、ぜひ「&3宇宙のあるきかた&r」の章を確認しておきましょう！月で本格的な拠点を築くために必要なすべてがそこに掲載されています。",
 
     "quests.high_voltage.hypertubes.title": "ハイパーチューブ",
-    "quests.high_voltage.hypertubes.subtitle": "マンマミーア",
+    "quests.high_voltage.hypertubes.subtitle": "きっと満足できる",
     "quests.high_voltage.hypertubes.desc": "拠点内のスマートな移動手段をお探しですか？でしたら&3Hypertubes&rをご紹介します！\n取り付けはとても簡単で、ご利用の際に特別な操作も必要ありません！\n\n動かすためには応力を供給する必要があります。&9&oCreate_Crafts＆Additions&rの電動モーターを使えば電力で動かすこともできますので、特別にCreateの面倒な機構を組む必要もありません！",
 
     "quests.high_voltage.wand.title": "建築家の夢",
@@ -271,5 +272,8 @@
     "quests.high_voltage.pisciculture.title": "養殖場",
     "quests.high_voltage.pisciculture.subtitle": "頭がよくなる",
     "quests.high_voltage.pisciculture.desc.1": "&b養殖場&rは無限に魚を入手できる施設であり、&3アクアポニックス・ループ&rに必要なマルチブロックでもあります。これは養殖場と&2電気温室&rの間でレシピが循環し、互いの生産量を強化し合う構造です。正しく構築すれば、外部からの投入物を一切必要としません。",
-    "quests.high_voltage.pisciculture.desc.2": "&5注記：&rこの構造物は、液体タグ&o&7#tfg:pisciculture_fishery_fluids&r&rを持つ任意の液体で満たすことができます。ただし、一部の液体は宇宙空間だと凍結すること、またマルチブロックコントローラーが&n酸素のある環境&rに設置されていない場合、実行できないレシピがある点に注意してください。"
+    "quests.high_voltage.pisciculture.desc.2": "&5注記：&rこの構造物は、液体タグ&o&7#tfg:pisciculture_fishery_fluids&r&rを持つ任意の液体で満たすことができます。ただし、一部の液体は宇宙空間だと凍結すること、またマルチブロックコントローラーが&n酸素のある環境&rに設置されていない場合、実行できないレシピがある点に注意してください。",
+
+    "quests.high_voltage.multi_structure_terminal.subtitle": "無印良品",
+    "quests.high_voltage.multi_structure_terminal.desc": "&4Multi-Structure Manager&rは、高機能なターミナルです。コントローラーを右クリックすることで&eマルチブロックの自動構築&rが可能で、さらに&dティア（サイズやコイル構成）の指定&rや、搬入・搬出口を配置するかどうかまで選択できます。\n\n加えて、近くにあるマルチブロックを解析してハッチやコイルをアップグレードでき、&bMEネットワーク&rと接続していれば、MEストレージ内の素材を直接使って構造のアップグレードを行うことも可能です。"
 }
