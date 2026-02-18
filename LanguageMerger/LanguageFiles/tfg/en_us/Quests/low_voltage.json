@@ -290,7 +290,7 @@
 
 	"quests.low_voltage.lv_extractor.title": "Basic Liquid Extraction",
 	"quests.low_voltage.lv_extractor.subtitle": "The Extractor extracts...",
-	"quests.low_voltage.lv_extractor.desc.1": "Hm... didn't we make this joke already?\n\nThe reason we don't present &7LV&r versions of &6Steam&r machines is because they are &4NOT&r required. You might not want to invest into an upgrade that does next to nothing. Except for &othis one&r specifically, because it's a big improvement over the &6Steam Age&r.\n\nThe &3Basic Extractor&r gains Fluid capabilities, which enables &aFluid Extraction&r. Use it to melt Rubber that you previously solidified, to &dmelt Soldering Alloy&r for your circuits, and to &dmelt Red Alloy&r for the &6best Vacuum Tube recipe&r in the &3Assembler&r!",
+	"quests.low_voltage.lv_extractor.desc.1": "Hm... didn't we make this joke already?\n\nThe &3Basic Extractor&r is your go-to machine for turning solids into liquids. Use it to melt Rubber that you previously solidified, to &dmelt Soldering Alloy&r for your circuits, and to &dmelt Red Alloy&r for the &6best Vacuum Tube recipe&r in the &3Assembler&r!",
 	"quests.low_voltage.lv_extractor.desc.2": "&l&3Lore:&r&o Did you notice this machine doubles as both an Extractor and a Fluid Extractor? The two of them were separate machines in previous versions of GregTech.",
 
 	"quests.low_voltage.lv_chemical_reactor.title": "Basic Chemical Reactor",

@@ -159,10 +159,6 @@
     "quests.steam_age.red_alloy.subtitle": "完全に架空の合金",
     "quests.steam_age.red_alloy.desc": "&4赤合金&rは、銅とレッドストーンの合金であり、その導電性によってGregTechの世界で高く評価されています。これは合金製錬炉またはるつぼで作成できます。\n\n&9電子管&rにはいくつか必要になります。\n\n&l&3余談：&r&oこれって元はRedPowerのものなんだよ。懐かしいな",
    
-    "quests.steam_age.extractor.title": "高圧蒸気式抽出機",
-    "quests.steam_age.extractor.subtitle": "高圧蒸気式抽出機は、抽出をします",
-    "quests.steam_age.extractor.desc": "&3高圧蒸気式抽出機&rは、液体を抽出する性能が弱いため、&6蒸気時代&rだとまだ作れないアイテムが多くあります。",
-   
     "quests.steam_age.glass_tube.title": "ガラス管",
     "quests.steam_age.glass_tube.subtitle": "たくさん用意しておきましょう",
     "quests.steam_age.glass_tube.desc": "ガラス管はガラス吹きによって手作業で作成することもできますが、代わりに適切な金型を使用して合金製錬炉で作成する方がはるかに楽で時短になります。\n\nガラスの粉が大量に必要になります。そのためには、16枚のガラス板を一度にガラス吹きして粉砕するのが効率的な方法です。\n\n真空管を作ってからは、破砕機と鍛造機を使って大量の砂を確保し、メカニカルミキサーで少しの火打石の粉を混ぜることでガラス粉を大量生産することができます。",
