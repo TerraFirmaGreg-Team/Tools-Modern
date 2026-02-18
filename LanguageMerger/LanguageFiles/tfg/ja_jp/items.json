@@ -32,6 +32,7 @@
     "item.tfg.phantom_thread": "ファントムの糸",
     "item.tfg.polycaprolactam_fabric": "ポリカプロラクタム製の布",
     "item.tfg.polycaprolactam_string": "ポリカプロラクタムの繊維",
+
     "item.tfg.space_suit_fabric": "宇宙服の生地",
     "item.tfg.vitrified_pearl": "ガラス化したエンダーパール",
     "item.tfg.fishing_net.wood": "木製の魚取り網",
@@ -264,6 +265,7 @@
     "item.tfg.harvest_basket": "収穫かご",
     "item.tfg.aluminium_harvest_basket": "アルミニウム製収穫かご",
 
+    "item.tfg.wood.lumber.bamboo": "竹の板",
     "item.tfg.wood.lumber.aeronos": "エアロノスの板",
     "item.tfg.wood.lumber.strophar": "ストロファの板",
     "item.tfg.wood.lumber.glacian": "グラシアンの板",
@@ -291,6 +293,8 @@
 
     "item.tfg.universal_compost_browns": "茶色の堆肥源",
     "item.tfg.universal_compost_greens": "緑の堆肥源",
+    "item.tfg.universal_compost_browns_bag": "茶色の堆肥源の袋",
+    "item.tfg.universal_compost_greens_bag": "緑の堆肥源の袋",
 
     "item.tfg.etching_diamond_tip": "エッチング用ダイアモンドの針",
 
@@ -347,11 +351,25 @@
     "item.tfg.stainless_steel_needle": "ステンレスの針",
 
     "item.tfg.empty_rod": "空の燃料棒",
+    "item.tfg.empty_rod_t2": "空のベリリウム製燃料棒",
+    "item.tfg.empty_rod_t3": "空のジルコニウム製燃料棒",
     "item.tfg.thorium_rod": "トリウム燃料棒",
+    "item.tfg.depleted_thorium_rod": "劣化トリウム燃料棒",
     "item.tfg.uranium_rod": "ウラン燃料棒",
+    "item.tfg.depleted_uranium_rod": "劣化ウラン燃料棒",
     "item.tfg.plutonium_rod": "プルトニウム燃料棒",
-    "item.tfg.tbu_232_rod": "TBU-232燃料棒",
+    "item.tfg.depleted_plutonium_rod": "劣化プルトニウム燃料棒",
+    "item.tfg.tbu_232_rod": "トリウム・ウラン増殖炉燃料棒",
+    "item.tfg.depleted_tbu_232_rod": "劣化トリウム・ウラン増殖炉燃料棒",
+    "item.tfg.americium_241_rod": "アメリシウム燃料棒",
+    "item.tfg.depleted_americium_241_rod": "劣化アメリシウム燃料棒",
+    "item.tfg.neptunium_237_rod": "ネプツニウム燃料棒",
+    "item.tfg.depleted_neptunium_237_rod": "劣化ネプツニウム燃料棒",
+    "item.tfg.californium_252_rod": "カリホルニウム燃料棒",
+    "item.tfg.depleted_californium_252_rod": "劣化カリホルニウム燃料棒",
+
     "item.tfg.refrigerant_pellet": "冷媒ペレット",
+    "item.tfg.terrafirmaguard_pa6": "TerraFirmaGuard PA6",
     "item.tfg.graphite_compound": "グラファイト混合物",
     "item.tfg.raw_graphite_briquette": "グラファイト成形炭",
     "item.tfg.faulty_graphite_briquette": "欠けたグラファイト成形炭",
@@ -364,14 +382,14 @@
     "item.tfg.impure_graphite_moderator": "不純なグラファイトモデレーター",
     "item.tfg.advanced_polymer_binder": "発展型ポリマーバインダー",
 
-    "item.tfg.beaker": "Beaker",
+    "item.tfg.beaker": "ビーカー",
     "item.tfg.beaker.filled": "Beaker of %s",
-    "item.tfg.flask": "Flask",
+    "item.tfg.flask": "フラスコ",
     "item.tfg.flask.filled": "Flask of %s",
-    "item.tfg.vial": "Pipette",
+    "item.tfg.vial": "ピペット",
     "item.tfg.vial.filled": "Pipette of %s",
-    "item.tfg.lab_equipment": "Lab Equipment",
-    "item.tfg.dirty_lab_equipment": "Dirty Lab Equipment",
+    "item.tfg.lab_equipment": "実験器具",
+    "item.tfg.dirty_lab_equipment": "汚染された実験器具",
 
     "item.tfg.wireless_card": "星間対応無線カード",
 
@@ -397,8 +415,8 @@
     "item.tfg.chain_casting_mold": "金型（鎖）",
     "item.tfg.bell_casting_mold": "金型（鐘）",
 
-    "item.tfg.rnr_plow": "Paving Cart",
-    "item.tfg.cobalt_brass_wheel": "Cobalt Brass Wheel",
+    "item.tfg.rnr_plow": "舗装車",
+    "item.tfg.cobalt_brass_wheel": "コバルトブラスの車輪",
 
     "item.tfg.cellulose_matrix": "セルロースマトリックス",
     "item.tfg.smooth_endoplasmic_reticula": "滑面小胞体",
@@ -419,5 +437,11 @@
 
     "item.tfg.fish_roe": "%sの魚卵",
     "item.tfg.rotten_voiding_cover": "腐敗物消去カバー",
-    "item.tfg.flora_pellets": "フローラペレット"
+    "item.tfg.flora_pellets": "フローラペレット",
+
+    "item.tfg.magnesia_refractory_brick_ingot": "樹脂結合マグネシア質耐火レンガ",
+
+    "item.tfg.tier_1_double_rocket": "R-AS製二人乗りロケット",
+    "item.tfg.tier_2_double_rocket": "ASM 4914 チタニウム製二人乗りロケット",
+    "item.tfg.tier_3_double_rocket": "45-Ti タングステンスチール製二人乗りロケット"
 }

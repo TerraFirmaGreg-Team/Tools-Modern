@@ -46,7 +46,7 @@
     "quests.create_logistics.fabricate_rose_quartz.subtitle": "本物に劣らない出来",
     "quests.create_logistics.fabricate_rose_quartz.desc": "高度な物流システムは進行に必須ではないので、今すぐ取り掛かる必要はありません。&bMV&rに到達すれば、自宅でもレンズを作れるようになります。&dローズクォーツ&rは、レッドストーン8個とネザークォーツ1個を混ぜた粉末から、MV以上の&bオートクレーブ&rを使うことで結晶化させることができます。その際は、通常の蒸留水ではなく&b液化氷&rを使用することで、本来の形成環境を再現する必要があります。 また、&bMV&rでは &dローズクォーツレンズ&rも&dローズクォーツプレート&rから作成可能になります。プレートを作るには、ローズクォーツブロックを作り、それを&3裁断機&rで切り出す必要があります。",
 
-    "quests.create_logistics.rose_quartz_lens.title": "薔薇色のグラス",
+    "quests.create_logistics.rose_quartz_lens.title": "薔薇色のレンズ",
     "quests.create_logistics.rose_quartz_lens.subtitle": "新しい世界への扉",
     "quests.create_logistics.rose_quartz_lens.desc": "レンズを作るためには&3旋盤&rが必要です。もし&d精巧なローズクォーツ&rから作るなら&7基本型旋盤&rで十分ですが、プレートから作りたい場合は&b発展型旋盤&rが必要になります。\n\n完成したレンズを&3レーザー刻印機&rにセットして&d2枚の赤合金のプレート&rを加工すると、&d送信機&rを作ることができます。レンズは消費されません。",
 

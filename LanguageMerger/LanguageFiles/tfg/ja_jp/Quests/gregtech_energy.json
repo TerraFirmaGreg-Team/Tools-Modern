@@ -17,6 +17,7 @@
     "quests.gregtech_energy.transformer.title": "大型変圧器",
     "quests.gregtech_energy.transformer.subtitle": "IMEの予測変換よりも優秀です",
     "quests.gregtech_energy.transformer.desc": "GregTechでは、どんな問題もマルチブロックが解決してくれます。&d大型変圧器&rもきっとあなたの抱えている問題を解決してくれるでしょう。\n\nこの装置は、まさに究極の変圧器です。&aLV&rから&cUHV&rまで、どんな電圧にも対応して安全に電力を送ることができます。しかも、それだけではありません。\n\nこの変圧器はレーザーパイプを使って電力を転送できます。レーザーパイプの特徴として：\n&7•&r驚くほど大量のアンペアを送信可能\n&7•&r電力損失がゼロ。ケーブルも不要。\n&7•&rただし、&cレーザーは完全に直線で配置する必要がある&r。\n\nケーブルに限界を感じたら&lレーザーを使いましょう。",
+    "quests.gregtech_energy.transformer.task": "Any Laser Hatch from EV to IV",
 
     "quests.gregtech_energy.moving_wire.title": "電線による送電",
     "quests.gregtech_energy.moving_wire.subtitle": "少々クセがあります",
@@ -100,7 +101,7 @@
     "quests.gregtech_energy.syngas.title": "合成ガス",
     "quests.gregtech_energy.syngas.subtitle": "LVでもガス発電がしたい！",
     "quests.gregtech_energy.syngas.desc": "&e合成ガス&rは、TFGにて新しく追加されたガス燃料です。&8ULV&rという非常に早い段階で解禁でき、&7LV&rでは&6基本型ガスタービン発電機&rに使用できます。特別に強力な燃料というわけではありませんが、&e潤滑剤&r、&eメタン&r、&e水素&rといった価値の高い副産物へと変換することが可能です。\n\n最強の発電方法！...というわけではなく、大規模な発電には向いていないですが、&6コークス炉&rを3基と、&6醸造機&rまたは&6Vacuum Chamber&rを1基だけ使用すれば安定して生産することができます。&bMV&rに到達し、さらに強力な&e改質ガス&rを解禁するまでのつなぎには十分でしょう。",
-    
+
     "quests.gregtech_energy.reformate_gas.title": "改質ガス",
     "quests.gregtech_energy.reformate_gas.subtitle": "ベンゼンを返して",
     "quests.gregtech_energy.reformate_gas.desc.1": "&9改質ガス&rは、&bMV&rにおける従来のベンゼンの役割を担う、強力で新しいガス燃料です。\n\nこれを生産するには、&6液化塔&rを建設し、乾燥して高温な気候にのみ生成される&6タキアン鉱&rの鉱脈から&5レニウム&rを入手する必要があります。&6熱分解炉&rを2基用意し、一方でクレオソート、もう一方で木質タールを生産することで、この燃料を生成するために必要な素材がすべて揃います。\n\n構成を簡略化したい場合は、&6液体加熱機&rを使って蒸気を生産できるという点も覚えておいてください。",
@@ -110,23 +111,27 @@
     "quests.gregtech_energy.btx.subtitle": "K-POPとは何も関係ありません",
     "quests.gregtech_energy.btx.desc": "&5EVエネルギーハッチ&rがあれば、ついに&eBTX燃料&r（ベンゼン・トルエン・キシレン）の生産を開始できます。この燃料は非常に長期間にわたって使用できます。GTの後半に入っても&6大型タービン&rであれば十分な競争力を保ち続けます。最初はあまりにも作るのが大変に思えるかもしれませんが、その労力に見合う価値があることは間違いありません。\n\nこの生産ラインでは、樹木由来の製品を大量に必要とします。&eノリ&rが必要になるため、樹液が再び重要になります。木から受動的に採取することもできますし、原木から直接抽出することも可能です。また、&6蒸留塔&rで&e木質タール&rを蒸留する必要もあります。それ以外にも、&eエタノール&r、&eネザークォーツ&r、&eナトリウム&r、&eアンモニア&r、&e灰汁&r、&e強化エポキシ樹脂シート&rを無限生産できる体制を整えておいてください。\n\nBTX燃料の生産ラインについてより詳しく知りたい場合は、&5EV&rチャプターを参照してください。",
 
-    "quests.gregtech_energy.fission_rod.title": "Fission Fuels",
-    "quests.gregtech_energy.fission_rod.subtitle": "Don't get me too hot",
-    "quests.gregtech_energy.fission_rod.desc.1": "The Earth Fission materials are NYI but may come sooner than later",
-    "quests.gregtech_energy.fission_rod.desc.2": "",
-    "quests.gregtech_energy.fission_rod.task": "",
+    "quests.gregtech_energy.fission_rod.title": "核分裂燃料",
+    "quests.gregtech_energy.fission_rod.subtitle": "そんなに熱くならないでください",
+    "quests.gregtech_energy.fission_rod.desc.1": "&2地球&rでの原子力発電を始めるには、&4火星&rにて&cトリウム・ウラン増殖燃料（TBU燃料）&rを生産・処理する大規模な設備を構築する必要があります。&c増殖燃料棒&rは作成のたびに&5OLA&rレシピを使うためコストは高めですが、使用後は完全に再利用できるという大きな利点があります。\n\n最初の&c増殖燃料棒&rを手に入れたら、次にどの同位体を主軸にするかを慎重に選択することが重要です。",
+    "quests.gregtech_energy.fission_rod.desc.2": "&aアメリシウム燃料棒&rは耐久性が非常に高い反面、発生する&c熱&rが極めて低く、&e小型核分裂炉&rで使える唯一の燃料棒です。その性能は圧倒的ですが、入手難度は非常に高く、アメリシウムの生成量を最大化するためには、&c核分裂炉&rを意図的に超低温で運転する必要があります。目標とすべき温度帯はEMIで確認してください。\n\n&bネプツニウム燃料棒&rは扱いやすい標準的な燃料棒で、発電性能と耐久性のバランスに優れています。&1IV&r環境では最大&1360k EU/t&rもの出力が可能ですが、その分大規模な設備構築が前提となります。とはいえ、&c核分裂炉&r、&6ヒートバッテリー&r、&9原子力冷却塔&rを各1基ずつ用意すれば、完全循環型のシステムで莫大な蒸気を安定して生み出せます。",
+    "quests.gregtech_energy.fission_rod.desc.3": "ただし、&c増殖燃料棒&rの温度管理には特に注意が必要です。高温で運転しすぎると&8TBU廃棄物&rの一部が失われ、燃料棒を完全に再利用できなくなってしまいます。増殖燃料棒は非常に貴重なため、運用中の事故による損失は必ず避けるべきです。\n\n同位体の収率を高める目的で温度を調整する際は、複数の燃料棒を組み合わせて使える点を覚えておきましょう。どの燃料棒がどの冷却液に対応しているかは、EMIで必ず確認してください。",
 
-    "quests.gregtech_energy.smr.title": "Small Modular Reactor",
-    "quests.gregtech_energy.smr.subtitle": "Finally Power for these far outposts",
-    "quests.gregtech_energy.smr.desc.1": "The Small Modular Reactor is NYI but may come sooner than later",
-    "quests.gregtech_energy.smr.desc.2": "",
-    "quests.gregtech_energy.smr.task": "",
+    "quests.gregtech_energy.smr.title": "小型モジュール式核分裂発電",
+    "quests.gregtech_energy.smr.subtitle": "電力をどこでも、どこまでも",
+    "quests.gregtech_energy.smr.desc.1": "&aアメリシウム燃料棒&rを2本確保できれば、&e小型核分裂炉&rと&a小型モジュール式タービン&rを組み合わせた発電システムの運用が可能になります。この構成は基本的に操作不要で安定した長期発電が可能なため、遠隔地の拠点や、拠点の非常用・補助電源として非常に適しています。",
+    "quests.gregtech_energy.smr.desc.2": "&e小型核分裂炉&rを稼働させるには、最低でも&b燃料棒格納部&rを2つ設置し、この炉で唯一使用できる冷却材である&3四塩化チタン添加超臨界二酸化炭素&rを十分に用意する必要があります。この構成は完全循環型となるため、安定した運用が可能です。\n\n&a小型モジュール式タービン&rの構築では、必ず専用の&aSMT搬入ハッチ&rを使用してください。ほかの搬入ハッチは使用できません。このタービンは&e潤滑剤&rを消費して稼働する点が特徴で、&bGregTech&r版か、&5OLA&r製の高効率版（効率2倍）を選択できます。加えて、&dブースター&rとして&bオゾン&rや&61,1-シクロヘキサンジイル・ジヒドロペルオキシド&rを組み込むことで、&eEU&rの生産量をさらに増やすことが可能です。",
+    "quests.gregtech_energy.smr.desc.3": "このセットアップは一見すると難しそうに感じられますが、場所を選ばず長期間安定して稼働する信頼性の高い電源を得ることができるため、孤立した収穫施設や採掘現場、さらには完全自立型の拠点にも最適です。",
+
+    "quests.gregtech_energy.cooling_tower.subtitle": "Finally Fission Power on Earth",
+    "quests.gregtech_energy.cooling_tower.desc.1": "&e原子力発電&rの基本形は、&6ヒートバッテリー&rと&9原子力冷却塔&rを組み合わせた方式です。&9蒸留水&rの消費量が非常に多いため、冷却塔なしでの運用は現実的ではありません。まずは、&eホウ素冷却液&rを用いて&bネプツニウム燃料棒&r（場合によっては&aアメリシウム燃料棒&rも併用）によって稼働する&c核分裂炉&rを設置し、その熱を&6ヒートバッテリー&rで処理する構成が一般的です。",
+    "quests.gregtech_energy.cooling_tower.desc.2": "この工程で得られた&cHU（ヒートユニット）&rは、&9蒸留水&rを&b高圧蒸気&rへ変換するために使います。生成された蒸気は&e原子力蒸気タービン&rに送られ、発電後に&a温水&rとして排出され、それを&9冷却塔&rで再び&9蒸留水&rへ戻します。この一連の設備は大規模になるため、十分な設置スペースを確保しておく必要があります。\n\n補足として、&9冷却塔&rは回路を設定しなければ動作せず、回路ランクが高いほど対応できる流量も増加する点を覚えておくとよいでしょう。",
 
     "quests.gregtech_energy.gasoline.title": "ガソリン",
     "quests.gregtech_energy.gasoline.subtitle": "燃料界のスーパースター",
     "quests.gregtech_energy.gasoline.desc": "&aガソリン&rは&6HV&rで解禁される非常に強力な燃焼燃料ですが、&6蒸留塔&rを建設してから本格的な生産を始めるのが現実的です。&7トルエン&rは&7木質タール&rや&7重質燃料&rから簡単に作成でき、それ以外に必要なものは&d精製ガス&r、&eナフサ&r、そして&3酸素&r・&b水素&r・&1炭素&rの化合物たちです。\n\n高い性能を持ち、比較的簡単に製造できるうえ、さらに&c高オクタン価ガソリン&rへとアップグレードすることも可能です。",
 
-    "quests.gregtech_energy.high_gasoline.title": "高オクタン価ガソリン(ハイオク)",
+    "quests.gregtech_energy.high_gasoline.title": "高オクタン価ガソリン",
     "quests.gregtech_energy.high_gasoline.subtitle": "ハイオク満タンで",
     "quests.gregtech_energy.high_gasoline.desc": "&cガソリン&rの直接的なアップグレードで、&5性能が2倍に強化された燃料&rです。名前からは分かりにくいですが、&dオクタン&rだけでなく、&7石油化学&r由来の他の素材も追加する必要があります。\n\nこの段階まで来れたあなたなら、&bEMI&rを使ってレシピを把握し、この非常に強力な燃料を自力で製造できるようになっていることでしょう。",
 
@@ -200,7 +205,7 @@
     "quests.gregtech_energy.overclock.subtitle": "電圧と処理時間の関係",
     "quests.gregtech_energy.overclock.desc.1": "「オーバークロック」ってよく聞くけど、実際どういう意味なのか分からないですか？ それなら、ここでしっかり勉強しておきましょう。\n\n基礎知識:\n&dLV&rは最大で32EU/tです。状況によってはそれ以下になることもありますが、超えることはありません。\n&dMV&rは128EU/t、\n&dHV&rは512EU/tまで出力できます。\nつまり、電圧のティアが1段階上がるごとに必要な電力はおよそ4倍になる、という仕組みです。",
     "quests.gregtech_energy.overclock.desc.2": "下位電圧のレシピを上位電圧の機械で動かすとどうなるでしょう？\nそれが、いわゆる&eオーバークロック&rです!\n\n例えば、&dMV&rレシピ(33〜128EU/t)を&dHV&r機械で処理すると、消費電力は4倍、速度は2倍になります。\n\n同じMVレシピを&dEV&r機械で動かすと、消費電力は16倍にもなるのに、速度は4倍しか上がりません。\n\nつまり、電力効率の面では、1台をオーバークロックするよりも複数の機械を動かした方が得なのです。\nとはいえ、現実的には同じ機械を大量に並べるより、オーバークロックしてスピードアップする方が便利なことが多いと思います。\n\nエネルギーが貴重な序盤のうちは、この仕組みを理解しておいた方がよいでしょう。",
-    "quests.gregtech_energy.overclock.desc.3": " 特定の大型機械だけが持つ特別な機能、それが&eパーフェクトオーバークロック&r(通称：POC)です。\n通常のオーバークロックでは「4倍の電力で2倍の速度」ですが、POCでは「&a4倍の電力&rで&a4倍の速度&r」になります。つまり、複数台の機械を動かすのと同じ効率で動作するというわけです。\n\n現時点でTerraFirmaGreg内でPOCに対応している大型機械は以下の通りです：\n-工業用電気炉(EBF)...高温稼働時のみ\n-合金高炉(ABS)...高温稼働時のみ\n-回転式炉床炉(RHF)...高温稼働時のみ\n-大型化学反応炉(LCR)\n-電気温室\n-熱交換器",
+    "quests.gregtech_energy.overclock.desc.3": " 特定の大型機械だけが持つ特別な機能、それが&eパーフェクトオーバークロック&r(通称：POC)です。\n通常のオーバークロックでは「4倍の電力で2倍の速度」ですが、POCでは「&a4倍の電力&rで&a4倍の速度&r」になります。つまり、複数台の機械を動かすのと同じ効率で動作するというわけです。\n\n現時点でTerraFirmaGreg内でPOCに対応している大型機械は以下の通りです：\n-工業用電気炉(EBF)...高温稼働時のみ\n-合金高炉(ABS)...高温稼働時のみ\n-回転式炉床炉(RHF)...高温稼働時のみ\n-大型化学反応炉(LCR)\n-熱交換器",
     "quests.gregtech_energy.overclock.task": "So the red ones go faster, got it",
 
     "quests.gregtech_energy.blast_oc.title": "機械高炉の仕組みについて",
@@ -213,7 +218,7 @@
     "quests.gregtech_energy.subtick.title": "サブティック",
     "quests.gregtech_energy.subtick.subtitle": "並列処理？",
     "quests.gregtech_energy.subtick.desc.1": "大型機械にはもうひとつ隠れた仕組みがあります。それは&dサブティック(Subtick)&rです。\n\nサブティックは、レシピの処理速度が極端に速くなり、これ以上オーバークロックできなくなった時に発動します。通常、機械は1ティックに1レシピ以上処理できませんが、サブティックを使えば可能になります！\n\n本来、レシピの処理時間が1ティックに達すると、さらに上位のエネルギーハッチでオーバークロックしてもそれ以上早く処理することができません。その対策として、サブティックが発動しレシピを&a並列処理&rすることで、適切に処理速度を上昇させます。",
-    "quests.gregtech_energy.subtick.desc.2": "例えば、大型化学反応炉(LCR)がLuVのレシピを1ティックで処理する場合、ZPMエネルギーハッチを使うと&e1ティックあたり2レシピ&rを同時に処理します。さらに高電圧のハッチを使えば、内部での並列処理はさらに増えます。\n\n&d補足&r:現状ではすべての大型機械はサブティックに対応していますが、その中でも&aLCR&rと&e熱交換器&rだけはサブティックとPOCの両方の機能を持ちます。そのため、LCRは並列制御ユニットに対応していません。すでに内部で効率よく並列処理を行っているからです。",
+    "quests.gregtech_energy.subtick.desc.2": "例えば、大型化学反応炉(LCR)がLuVのレシピを1ティックで処理する場合、ZPMエネルギーハッチを使うと&e1ティックあたり4レシピ&rを同時に処理します。さらに高電圧のハッチを使えば、内部での並列処理はさらに増えます。\n\n&d補足&r:現状ではすべての大型機械はサブティックに対応していますが、その中でも&aLCR&rと&e熱交換器&rだけはサブティックとPOCの両方の機能を持ちます。そのため、LCRは並列制御ユニットに対応していません。すでに内部で効率よく並列処理を行っているからです。",
 
     "quests.gregtech_energy.parallel_hatch.title": "並列制御ユニット",
     "quests.gregtech_energy.parallel_hatch.subtitle": "また並列処理？",

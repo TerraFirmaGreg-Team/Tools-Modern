@@ -730,6 +730,10 @@
     "quests.tfg_tips.greenhouse_automation.subtitle": "力を合わせて...",
     "quests.tfg_tips.greenhouse_automation.desc": "Firmalifeの&2Picker&rと&2Sweeper&r、クリエイトのデプロイヤー、GregTechのアイテム収集機を組み合わせることで、温室を完全に自動化することができます！\n\nPickerは、レッドストーン信号を受信すると、水耕プランターと4種のプランターから成熟した作物を収穫し、Sweeperは、レッドストーン信号を受けている間、周囲3x3のエリアで他の種類の成熟した作物を収穫します。\n\nこれらのマシンだけでは回収はしてくれませんが、アイテム収集機があれば広いエリアから回収してくれます。\n\nそして、デプロイヤーを利用して、種をプランターに植え戻しましょう！",
 
+    "quests.tfg_tips.food_automation.title": "料理の自動化",
+    "quests.tfg_tips.food_automation.subtitle": "機械が料理をする時代なんです",
+    "quests.tfg_tips.food_automation.desc": "&7LV&r以降は、&3電気オーブン&rと&3自動調理機&rを使って食料生産を完全自動化できます。\n\nサンドイッチのような複数素材の料理を正しく加工するには、「保持モード」を有効にした&3ロボットアーム&rを使うか、Createの物流をうまく活用して必要数を正確に供給する必要があります。\n\nまた、腐敗した食品で倉庫が埋まってしまわないよう、&3腐敗物消去カバー&rの導入をおすすめいたします。\n\n将来的には、&bMV&rから利用できる冷蔵庫と組み合わせることで、さらに便利に運用できます。",
+
     "quests.tfg_tips.beekeeping.title": "養蜂",
     "quests.tfg_tips.beekeeping.subtitle": "こんなに小さかったっけ...？",
     "quests.tfg_tips.beekeeping.desc": "&b養蜂&rには多くの用途があります。\n巣箱から&aワックス&rや&aハチミツ&rなどの有用な資源を入手することができるほか、(蜂が適切な特性を持っている場合)近くの作物の成長を促進させることができます。\nより良い特性を持ったミツバチを生み出すためには、交配させる必要があります。\n&2フィールドガイド&rには、&b養蜂&rの仕組みについての広範な説明が載っています。",
@@ -880,6 +884,16 @@
     "quests.tfg_tips.cellar_blocks.desc": "&b食品棚&rは、あらゆる食品を保管できます。&b吊るし棚&rは、&a肉&rと&aニンニク&rを保管するために使用できます。\nここに保管された食品は、&d壺&rよりも強力な保存特性を受け取ります。",
     "quests.tfg_tips.cellar_blocks.task": "Any food shelf or hanger",
 
+    "quests.tfg_tips.composter.title": "コンポスター",
+    "quests.tfg_tips.composter.subtitle": "腐ったミカンでミカンを育てよう",
+    "quests.tfg_tips.composter.desc": "&bコンポスター&rは、特定の植物系アイテムを&d堆肥&rに変換できる装置です。堆肥は強力な肥料で、作物の&a収量&rを向上させます。\n\n堆肥化できる素材は&a緑&rのアイテムと&6茶&rのアイテムの2種類に分かれています。詳しくはフィールドガイドを確認してください。",
+
+    "quests.tfg_tips.universal_compost.title": "堆肥源",
+    "quests.tfg_tips.universal_compost.subtitle": "こうしちゃった方が便利でしょ？",
+    "quests.tfg_tips.universal_compost.desc": "&d堆肥&rにする予定のアイテムでチェストが溢れ、種類の判別に困っていませんか？ひと手間かければ、堆肥化可能なアイテムを&d&n堆肥源&rとしてまとめることができます。堆肥源は、対応する色の堆肥化処理において&n1&r個分としてカウントされます。\n\n連続作業に疲れた場合は、堆肥源を4つまとめて1つの&d&n袋&rに加工できます。この袋は最大16個までしかスタックできませんが、堆肥化時には&n4&r個分として扱われます。",
+    "quests.tfg_tips.universal_compost.task.1": "Any colored Universal Compost",
+    "quests.tfg_tips.universal_compost.task.2": "Any colored Bag of Universal Compost",
+
     "__comment16": "#endregion",
 
     "__comment17": "#region Beneath",
@@ -936,7 +950,7 @@
 
     "quests.tfg_tips.lunchbox.title": "ランチボックス",
     "quests.tfg_tips.lunchbox.subtitle": "ポケットの中の冷蔵庫！",
-    "quests.tfg_tips.lunchbox.desc": "ランチボックスには9つの食品スロットがあり、食品を保冷し、長持ちさせます。\n保冷ランチボックスは通常のものよりも保存効果が強いですが、氷または冷却用のセルを入れておく必要があります。",
+    "quests.tfg_tips.lunchbox.desc": "ランチボックスには9つの食品スロットがあり、食品を保冷し、長持ちさせます。\n保冷ランチボックスは通常のものよりも保存効果が強いですが、氷または冷却用のセルを入れておく必要があります。\n\n氷の削りくずから氷塊を作るのはなかなか手間がかかりますが、&n良い素材の&rのこぎりがあれば、通常の氷をそのまま切り出すことができるようになります。",
     "quests.tfg_tips.lunchbox.task.1": "任意のランチボックス",
     "quests.tfg_tips.lunchbox.task.2": "任意の氷のブロック",
     "quests.tfg_tips.lunchbox.task.3": "液体氷泥を含む任意のセル",
