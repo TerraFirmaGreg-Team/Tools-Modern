@@ -182,7 +182,7 @@
     "quests.steam_age.coiling_machine.desc": "&3卷簧机&r类似于LV线材轧机，但无法直接输出不同规格的线材。尽管如此，这台设备仍是非常值得投资的选项，能显著降低线材的制作成本。\n\n该机器同样能制作更经济的弹簧！",
     "quests.steam_age.curving_press.title": "冲压机",
     "quests.steam_age.curving_press.subtitle": "和LV压模器一样小众",
-    "quests.steam_age.curving_press.desc": "&3冲压机&r能够制作LV压模器的所有配方。遗憾的是，当前阶段这两台设备都难有大用，因为压模器需到MV阶段才能真正发挥作用。不过若你需要批量制作工具头，这台机器仍能派上用场。",
+    "quests.steam_age.curving_press.desc": "&3冲压机&r能够制作LV压模器的所有配方。遗憾的是，当前阶段这两台设备都难有大用，因为压模器需到MV阶段才能真正发挥作用。如果你需要大量生产橡胶或塑料相关物品，这台机器可以帮你降低配方成本。此外，当你需要批量制作工具头时，它也能派上用场。",
     "quests.steam_age.vibrating_table.title": "振动台",
     "quests.steam_age.vibrating_table.subtitle": "与LV筛选机完全相同",
     "quests.steam_age.vibrating_table.desc": "&3振动台&r能以独特方式处理宝石矿石（包括煤炭），其产出效率远超当前所有其他设备。更值得一提的是，它还能处理你积存已久的砂矿沉积物——从此告别淘洗盘！",
