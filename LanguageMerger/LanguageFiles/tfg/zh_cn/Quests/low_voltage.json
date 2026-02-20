@@ -228,7 +228,7 @@
     "quests.low_voltage.lv_arc_furnace.desc.2": "&l&3背景知识：&r&o旧版格雷科技曾同时存在电弧炉和&b等离子电弧炉&f。既然如此，何不将两者功能合并？事实上我们确实这样设想过——但最终移除了其中一个&b等离子&f配方，接着又移除了另一个&b等离子&f配方。\n\n&o简而言之，&b等离子电弧炉&f已&4正式退场&f。就此成为历史。",
     "quests.low_voltage.lv_extractor.title": "基础液体提取",
     "quests.low_voltage.lv_extractor.subtitle": "提取机用于提取……",
-    "quests.low_voltage.lv_extractor.desc.1": "等等…我们之前是不是开过这个玩笑了？\n\n我们未提供&6蒸汽&r机器的&7LV&r版本，是因为它们&4并非必需&r。你或许不愿投资于几乎毫无性能提升的升级——但&o眼前这台&r例外，因为它相较&6蒸汽时代&r的设备实现了质的飞跃。\n\n&3基础提取机&r新增流体处理能力，支持&a流体提取&r功能。可用它重新熔化橡胶、为电路&d熔融焊锡&r，还能制备&d熔融红色合金&r用于在&3组装机&r中制作&6最优真空管配方&r！",
+    "quests.low_voltage.lv_extractor.desc.1": "等等…我们之前是不是开过这个玩笑了？\n\n&3基础提取机&r是你将固体转化为液体的首选设备。用它来重新熔化之前固化好的橡胶，为你的电路&d熔融焊锡&r，还能制备&d熔融红色合金&r，以便在&3组装机&r中制作&6最优的真空管配方&r！",
     "quests.low_voltage.lv_extractor.desc.2": "&l&3背景知识：&r&o你注意到这台机器兼作提取机和流体提取机了吗？在以前的GregTech版本中，它们是分开的机器。",
     "quests.low_voltage.lv_chemical_reactor.title": "基础化学反应釜",
     "quests.low_voltage.lv_chemical_reactor.subtitle": "化学入门指南",

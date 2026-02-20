@@ -66,5 +66,7 @@
     "material.gtceu.regolith_vapor": "风化土蒸气",
     "material.gtceu.dense_ostrum_vapor": "致密紫金蒸气",
     "material.gtceu.lightweight_ostrum_vapor": "轻质紫金蒸气",
-    "material.gtceu.ostrum_vapor": "紫金蒸气"
+    "material.gtceu.ostrum_vapor": "紫金蒸气",
+    "material.gtceu.light_fuel": "轻油残渣",
+    "material.gtceu.heavy_fuel": "重油残渣"
 }
