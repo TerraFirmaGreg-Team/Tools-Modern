@@ -35,6 +35,8 @@
     "quests.ae2.ae_guide.title": "欢迎来到AE2",
     "quests.ae2.ae_guide.subtitle": "又一本免费书籍加入你的收藏！",
     "quests.ae2.ae_guide.desc": "至此，你已准备好开始构建&bAE2&r基础设施！\n\n本章节主要指导你当前可以制作和尚未能制作的物品。\n我们还会重点介绍你应该关注的最重要物品。\n\n但是，要完全理解应用能源2，我们强烈建议使用&bG&r键（类似于机械动力的思索系统）或打开我们在此任务中提供的&bME指南&r作为奖励。这是最好的AE2游戏内教程。\n或者，观看一些关于&61.20.1&r版本AE2的在线视频以获取更详细的解释——AE2是一个非常流行的模组，所以有大量教程可供参考！\n\n&d专业提示&r：许多&bAE2&r配方都有更便宜的月球替代配方。再次强调，投资月球基地将在整个游戏中给你带来丰厚回报。",
+    "quests.ae2.books_again.title": "又需要手册了？",
+    "quests.ae2.books_again.desc": "这是一个可重复任务，如果你想再次获得AE2手册的实体副本。",
     "__comment4": "顶部（HV）",
     "quests.ae2.hv.title": "HV级AE2",
     "quests.ae2.hv.desc": "整个分支在&6HV&r阶段即可完全解锁！",

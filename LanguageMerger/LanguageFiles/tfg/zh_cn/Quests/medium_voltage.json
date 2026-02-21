@@ -85,7 +85,7 @@
     "quests.medium_voltage.mv_distillery.task": "LV或MV蒸馏室均可",
     "quests.medium_voltage.mv_benzene.title": "苯教派",
     "quests.medium_voltage.mv_benzene.subtitle": "到最后，&l曾经&r总是苯",
-    "quests.medium_voltage.mv_benzene.desc.1": "&a苯&r是一种&9气体燃料&r。为了少一些挫折，这里介绍两种最佳获取方式：\n\n首选是&d木材加工路线&r。将原木放入&3热解炉&r生成&9木焦油&r，产出的木炭还可通过&3提取机&r加工获得更多&9木焦油&r，最后经&3蒸馏&r处理得到&a苯&r。\n\n次选是&d重油加工路线&r。将重油放入&3蒸馏室&r制成&9重燃料&r，随后进行&a重度蒸汽裂化&r并再次&3蒸馏&r即可获得&a苯&r。",
+    "quests.medium_voltage.mv_benzene.desc.1": "&a苯&r是一种&9气体燃料&r。为了少一些挫折，这里介绍两种最佳获取方式：\n\n首选是&d木材加工路线&r。将原木放入&3热解炉&r生成&9木焦油&r，然后&3蒸馏&r即可获得&a苯&r。过程中产生的木炭则另有用途：可以进一步分解为&9煤焦油&r，或者转化为&9合成气&r，也可以直接送往锅炉作为燃料。\n\n次选是&d重油加工路线&r。将重油放入&3蒸馏室&r制成&9重燃料&r，随后进行&a重度蒸汽裂化&r并再次&3蒸馏&r即可获得&a苯&r。",
     "quests.medium_voltage.mv_benzene.desc.2": "关于石油加工的具体方法，请查看轻燃料与石脑油任务。\n\n总体而言，优先部署更多机器（&d并行处理&r）比超频配方更有效率。这种方式能在处理资源时减少能量损耗。\n\n&a苯&r在&3燃气轮机&r中的燃烧效率相当低。该能源初始效能低于&e柴油&r，但可通过精炼成&6重整气&r来获得提升。说到底，选择何种能源取决于你。",
     "quests.medium_voltage.mv_benzene.desc.3": "&l&3背景知识：&r&o自GTCEu以来，苯一直是最强大的气体燃料之一——其性能之强甚至成了一个梗。如今，它的辉煌时代在任何地方都屈指可数了。",
     "quests.medium_voltage.reformate_gas.title": "重整气教派",
