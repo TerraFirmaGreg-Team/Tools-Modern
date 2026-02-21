@@ -48,7 +48,7 @@
 
     "quests.create_logistics.rose_quartz_lens.title": "Rose-tinted Glasses",
     "quests.create_logistics.rose_quartz_lens.subtitle": "YONO (You Only Need One)",
-    "quests.create_logistics.rose_quartz_lens.desc": "Whichever way you obtained the materials needed, you need a &3Lathe&r to actually create the Lens. A &7Basic &3Lathe&r will be enough to create the lens from an &dExquisite Rose Quartz&r gem, but if you want to make the lens from a mere plate you will need better equipment in the form of an &bAdvanced &3Lathe&r.\n\nOne you've crafted it, the lens can be used in a &7Basic &3Laser Engraver&r with a &dDouble Red Alloy Plate&r to create the &dTransmitter&r unit you need, and won't be consumed in the process.",
+    "quests.create_logistics.rose_quartz_lens.desc": "Whichever way you obtained the materials needed, you need a &3Lathe&r to actually create the Lens. A &7Basic &3Lathe&r will be enough to create the lens from an &dExquisite Rose Quartz&r gem, but if you want to make the lens from a mere plate you will need better equipment in the form of an &bAdvanced &3Lathe&r.\n\nOnce you've crafted it, the lens can be used in a &7Basic &3Laser Engraver&r with a &dDouble Red Alloy Plate&r to create the &dTransmitter&r unit you need, and won't be consumed in the process.",
 
     "quests.create_logistics.stock_link.title": "Stock Link",
     "quests.create_logistics.stock_link.subtitle": "We got storage buses at home",
