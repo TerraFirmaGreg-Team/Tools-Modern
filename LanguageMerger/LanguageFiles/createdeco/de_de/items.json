@@ -4,5 +4,18 @@
     "item.createdeco.industrial_iron_coin": "Stahlmünze",
     "item.createdeco.iron_coinstack": "Gusseisenmünzhaufen",
     "item.createdeco.netherite_coinstack": "Blaustahlmünzhaufen",
-    "item.createdeco.industrial_iron_coinstack": "Stahlmünzhaufen"
+    "item.createdeco.industrial_iron_coinstack": "Stahlmünzhaufen",
+
+    "item.createdeco.andesite_sheet": "Andesitlegierungsblech",
+    "item.createdeco.brass_coin": "Messingmünze",
+    "item.createdeco.brass_coinstack": "Messing münzhaufen",
+    "item.createdeco.copper_coin": "Kupfermünze",
+    "item.createdeco.copper_coinstack": "Kupfer münzhaufen",
+    "item.createdeco.gold_coin": "Goldmünze",
+    "item.createdeco.gold_coinstack": "Goldmünzhaufen",
+    "item.createdeco.netherite_nugget": "Netheriteklumpen",
+    "item.createdeco.netherite_sheet": "Netheriteblech",
+    "item.createdeco.zinc_coin": "Zinkmünze",
+    "item.createdeco.zinc_coinstack": "Zinkmünzhaufen",
+    "item.createdeco.zinc_sheet": "Zinkblech"
 }
