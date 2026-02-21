@@ -59,7 +59,7 @@
 
     "quests.tfg_tips.backpack_materials.title": "Materials for a Backpack",
     "quests.tfg_tips.backpack_materials.subtitle": "Sleeping bag not included",
-    "quests.tfg_tips.backpack_materials.desc": "There are two options for backpacks: the &5Frame Pack&r or the &3Sophisticated Backpack&r\n\nA &5Frame Pack&r is a dense backpack allowing you to store up to &c64&r items in each slot no &omatter their standard stack size&r.\n\nA &3Sophisticated Backpack&r is the primary way to expand your portable inventory size going forward. The first tier will more than double your normal inventory, and further tiers increase it even more! It also comes with a wide variety of &afunctional upgrades&r, and different parts of it can be dyed different colors!",
+    "quests.tfg_tips.backpack_materials.desc": "There are two options for backpacks: the &5Frame Pack&r or the &3Sophisticated Backpack&r\n\nA &5Frame Pack&r is a dense backpack allowing you to store up to &c64&r items in each slot no &omatter their standard stack size&r.\n\nA &3Sophisticated Backpack&r is the primary way to expand your portable inventory size going forward. The first tier will more than double your normal inventory, and further tiers increase it even more! It also comes with a wide variety of &afunctional upgrades&r, and different parts of it can be dyed in different colors!",
 
     "quests.tfg_tips.first_backpack.title": "Your First Backpack",
     "quests.tfg_tips.first_backpack.subtitle": "No, the map won't magically appear.",
@@ -332,7 +332,7 @@
 
     "quests.tfg_tips.digger_helmet.title": "Digger Helmet",
     "quests.tfg_tips.digger_helmet.subtitle": "For when you mine all day long",
-    "quests.tfg_tips.digger_helmet.desc.1": "The &dDigger Helmet&r is a helmet you can wear that will automatically light up your surroundings, hands-free! Useful if your main hand is occupied and your off-hand is equipped with a shield. It will require a bit of &6Glowstone&r to craft. Maybe you can reach to &4The Beneath&r for some early game access...",
+    "quests.tfg_tips.digger_helmet.desc.1": "The &dDigger Helmet&r is a helmet that will automatically light up your surroundings, hands-free! Useful if your main hand is occupied and your off-hand is equipped with a shield. It will require a bit of &6Glowstone&r to craft. Maybe you can reach to &4The Beneath&r for some early game access...",
     "quests.tfg_tips.digger_helmet.desc.2": "&l&3Important:&r&l The &dDigger Helmet&f itself works thanks to a specific setting of &cSodium Dynamic Lights&f, you'll have to toggle on &b\"Dynamic Entity Lighting\"&f for it to work properly",
 
     "quests.tfg_tips.grappling_hook.title": "Grappling Hook",
@@ -408,7 +408,7 @@
 
     "quests.tfg_tips.dye_discs.title": "The Classics",
     "quests.tfg_tips.dye_discs.subtitle": "These will never go old...",
-    "quests.tfg_tips.dye_discs.desc": "By dipping a &bBlank Disc&r in a &aBarrel&r filled with dye, you can create the vanilla in-game discs. Enjoy classics such as &dWait, 13&r and &dBlocks!&r",
+    "quests.tfg_tips.dye_discs.desc": "By dipping a &bBlank Disc&r in a &aBarrel&r filled with dye, you can create the vanilla in-game discs. Enjoy classics such as &dWait&r, &d13&r and &dBlocks!&r",
     "quests.tfg_tips.dye_discs.task": "Any Classic Disc",
 
     "quests.tfg_tips.special_discs.title": "The Uniques",
@@ -562,7 +562,7 @@
 
     "quests.tfg_tips.aircraft_upgrades.title": "Aircraft Upgrades",
     "quests.tfg_tips.aircraft_upgrades.subtitle": "Pimp up my ride",
-    "quests.tfg_tips.aircraft_upgrades.desc": "&2Immersive Aircraft&r comes with &aAircraft Upgrades&r, which you can install in your to improve your aircraft stats, such as velocity, takeoff speed, fuel consumption, etc. There are two types of upgrades: &bregular&r and &dtiered.&r\n\nThe ones in this quest are the &bregular&r upgrades, think you can get them all?",
+    "quests.tfg_tips.aircraft_upgrades.desc": "&2Immersive Aircraft&r comes with &aAircraft Upgrades&r, which you can install in yours to improve your aircraft stats, such as velocity, takeoff speed, fuel consumption, etc. There are two types of upgrades: &bregular&r and &dtiered.&r\n\nThe ones in this quest are the &bregular&r upgrades, think you can get them all?",
 
     "quests.tfg_tips.steam_upgrades.title": "Aircraft Upgrades: Steam",
     "quests.tfg_tips.steam_upgrades.subtitle": "Immersive Aircraft meets GregTech Tiering!",
@@ -576,7 +576,7 @@
 
     "quests.tfg_tips.mv_upgrades.title": "Aircraft Upgrades: MV",
     "quests.tfg_tips.mv_upgrades.subtitle": "Halfway there",
-    "quests.tfg_tips.mv_upgrades.desc": "&bMV&r upgrades are the mid-point of this progression, requiring &aAluminium&r as their main material.\n\n&aAluminium Rotors&r are used in most tier 2 aircrafts, such as the &dGyrodyne, Warship&r and the &dScarlet Biplane&r, while the &aMV Engine&r is only used in the &dScarlet Biplane.&r",
+    "quests.tfg_tips.mv_upgrades.desc": "&bMV&r upgrades are the mid-point of this progression, requiring &aAluminium&r as their main material.\n\n&aAluminium Rotors&r are used in most tier 2 aircrafts, such as the &dGyrodyne&r, &dWarship&r and the &dScarlet Biplane&r, while the &aMV Engine&r is only used in the &dScarlet Biplane.&r",
     "quests.tfg_tips.mv_upgrades.task": "Any Medium Voltage Tier Aircraft Upgrade",
 
     "quests.tfg_tips.hv_upgrades.title": "Aircraft Upgrades: HV",
@@ -599,7 +599,7 @@
 
     "quests.tfg_tips.cargo_airship.title": "Cargo Airship",
     "quests.tfg_tips.cargo_airship.subtitle": "When you need to carry your entire base into the distance",
-    "quests.tfg_tips.cargo_airship.desc": "Attach some extra &dEngines, Rotors&r and &d2 Wooden Crates&r, and you'll upgrade your &aAirship&r into a &3Cargo Airship.&r\n\nIt is &4more fuel hungry&r than its ordinary counterpart.\nThe Cargo Airship has a total of &b80 Inventory Slots&r, and &a4 Upgrade Slots.&r",
+    "quests.tfg_tips.cargo_airship.desc": "Attach some extra &dEngines&r, &dRotors&r and &d2 Wooden Crates&r, and you'll upgrade your &aAirship&r into a &3Cargo Airship.&r\n\nIt is &4more fuel hungry&r than its ordinary counterpart.\nThe Cargo Airship has a total of &b80 Inventory Slots&r, and &a4 Upgrade Slots.&r",
 
     "quests.tfg_tips.waghship.title": "Warship",
     "quests.tfg_tips.waghship.subtitle": "Otherwise known as a WAAAAGH-Ship",
@@ -619,7 +619,7 @@
 
     "quests.tfg_tips.biplane.title": "Biplane",
     "quests.tfg_tips.biplane.subtitle": "How come this is smaller than the Economy Plane?",
-    "quests.tfg_tips.biplane.desc": "The &3Biplane&r is a direct upgrade to the &bEconomy Plane&r, crafted using &aHulls, Steam-powered Aircraft Engines&r and an &aAluminium Plated Airplane Propeller.&r\n\nIt contains &b16 Inventory Slots&r, &a4 Upgrade Slots&r and &c1 Weapon Slot.&r Unlike the &dEconomy Plane&r, the &3Biplane&r can be &4boosted using rockets via a dedicated slot.&r",
+    "quests.tfg_tips.biplane.desc": "The &3Biplane&r is a direct upgrade to the &bEconomy Plane&r, crafted using &aHulls&r, &aSteam-powered Aircraft Engines&r and an &aAluminium Plated Airplane Propeller.&r\n\nIt contains &b16 Inventory Slots&r, &a4 Upgrade Slots&r and &c1 Weapon Slot.&r Unlike the &dEconomy Plane&r, the &3Biplane&r can be &4boosted using rockets via a dedicated slot.&r",
 
     "quests.tfg_tips.scarlet_biplane.title": "Scarlet Biplane",
     "quests.tfg_tips.scarlet_biplane.subtitle": "What a sight to behold",
@@ -635,11 +635,11 @@
 
     "quests.tfg_tips.firmaciv_info.title": "Voyage Gadgets",
     "quests.tfg_tips.firmaciv_info.subtitle": "In case you care for realism",
-    "quests.tfg_tips.firmaciv_info.desc": "&3Firma:Civ&r comes with 4 different navigational tools, each giving you important information about your position in the world.\nIncludes the &dSextant&r, &dNavigator's Timepiece&r, &dBarometer&r, and &dCompass&r; more information about the tools in the &2Field Guide.&r\n\n&3&lLore:&r&o: Firma:Civ by default removes coordinates to make you use its navigational tools. We can't do that here, so uh, use them if you want to LARP.",
+    "quests.tfg_tips.firmaciv_info.desc": "&3Firma:Civ&r comes with 4 different navigational tools, each giving you important information about your position in the world.\nIncludes the &dSextant&r, &dNavigator's Timepiece&r, &dBarometer&r, and &dCompass&r; more information about the tools in the &2Field Guide.&r\n\n&3&lLore:&r&o Firma:Civ by default removes coordinates to make you use its navigational tools. We can't do that here, so uh, use them if you want to LARP.",
 
     "quests.tfg_tips.warfare.title": "Sea Warfare",
     "quests.tfg_tips.warfare.subtitle": "FIRE ALL CANNONS!",
-    "quests.tfg_tips.warfare.desc": "You can outfit your &bSloop&r with firepower via the &dCannon&r and cannon balls, in case you want to blow something to smithereens.\nTo fire a cannon, you'll need to load it with some &aGunpowder, Unrefined Paper&r and your &aCannon Ball&r. Then light the wick with &cFlint and Steel.&r\n\nDon't have a &bSloop&r? Don't worry! Cannons can be placed and fired on the ground the same way you would fire one on a &bSloop&r.",
+    "quests.tfg_tips.warfare.desc": "You can outfit your &bSloop&r with firepower via the &dCannon&r and cannon balls, in case you want to blow something to smithereens.\nTo fire a cannon, you'll need to load it with some &aGunpowder&r, &aUnrefined Paper&r and your &aCannon Ball&r. Then light the wick with &cFlint and Steel.&r\n\nDon't have a &bSloop&r? Don't worry! Cannons can be placed and fired on the ground the same way you would fire one on a &bSloop&r.",
 
     "quests.tfg_tips.kayak_materials.title": "The Kayak",
     "quests.tfg_tips.kayak_materials.subtitle": "Get yourself that Kayak.",
@@ -690,7 +690,7 @@
 
     "quests.tfg_tips.equines.title": "Horse Riding",
     "quests.tfg_tips.equines.subtitle": "Stallion of the Cimarron",
-    "quests.tfg_tips.equines.desc": "Find yourself either a &bHorse, Donkey&r or &bMule&r and build up enough &afamiliarity&r to let them ride you with your trusty &aSaddle&r, knapped from leather.\nIn addition, they can pull &dCarts&r without speed penalties!\n\n&bHorses&r are great for exploring the interior of continents effortlessly in the early game, and can be bred for better stats.\n\n&bDonkeys and Mules&r can carry an extra chest or even a barrel without a &2Supply Cart.&r\n\nAs always, more information (such as spawning conditions) in the &2Field Guide.&r\n\n&3&lTip:&r&o Want to horse-ride on a different continent across the ocean? Don't worry, you can bring along your trusty ride on certain boats!",
+    "quests.tfg_tips.equines.desc": "Find yourself either a &bHorse&r, &bDonkey&r or &bMule&r and build up enough &afamiliarity&r to let them ride you with your trusty &aSaddle&r, knapped from leather.\nIn addition, they can pull &dCarts&r without speed penalties!\n\n&bHorses&r are great for exploring the interior of continents effortlessly in the early game, and can be bred for better stats.\n\n&bDonkeys&r and &bMules&r can carry an extra chest or even a barrel without a &2Supply Cart.&r\n\nAs always, more information (such as spawning conditions) is in the &2Field Guide.&r\n\n&3&lTip:&r&o Want to horse-ride on a different continent across the ocean? Don't worry, you can bring along your trusty ride on certain boats!",
 
     "quests.tfg_tips.supply_cart.title": "Supply Cart",
     "quests.tfg_tips.supply_cart.subtitle": "Carry All",
@@ -757,15 +757,15 @@
 
     "quests.tfg_tips.candles.title": "Candles",
     "quests.tfg_tips.candles.subtitle": "Cozy...",
-    "quests.tfg_tips.candles.desc": "Candles can be crafted using &aParaffix Wax, Beeswax&r or &aRosin.&r\nCandles are the better light source compared to torches, staying lit for 1 month and 2 days.",
+    "quests.tfg_tips.candles.desc": "Candles can be crafted using &aParaffin Wax, Beeswax&r or &aRosin.&r\nCandles are the better light source compared to torches, staying lit for 1 month and 2 days.",
 
     "quests.tfg_tips.oven.title": "Oven",
     "quests.tfg_tips.oven.subtitle": "Caution, it's hot",
-    "quests.tfg_tips.oven.desc": "The &3Oven&r is a multiblock structure that can be used to easily cook foods as well as perform exclusive recipes. The &aBottom Oven, Top Oven&r and the &aChimney&r are mandatory components. And don't forget to use &dTongs&r to pick up food from the &aTop Oven.&r\nMore information on how to build an &3Oven&r can be found in the &2Field Guide.&r\n\n&3&lTip:&r&o: The only food that can satisfy all 5 nutrient groups, &cPizza&f, must be cooked in an oven.",
+    "quests.tfg_tips.oven.desc": "The &3Oven&r is a multiblock structure that can be used to easily cook foods as well as perform exclusive recipes. The &aBottom Oven, Top Oven&r and the &aChimney&r are mandatory components. And don't forget to use &dTongs&r to pick up food from the &aTop Oven.&r\nMore information on how to build an &3Oven&r can be found in the &2Field Guide.&r\n\n&3&lTip:&r&o The only food that can satisfy all 5 nutrient groups, &cPizza&f, must be cooked in an oven.",
 
     "quests.tfg_tips.oven_appliances.title": "Oven Appliances",
     "quests.tfg_tips.oven_appliances.subtitle": "Get more out of your Ovens",
-    "quests.tfg_tips.oven_appliances.desc": "&3Oven Appliances&r are optional components that must be placed on top of &aBottom Ovens&r to receive heat. Remember you can have &cmultiple&r &aBottom Ovens&r in a single multiblock.\n\n&dWrought Iron Grill&r: Allows you to cook food at a much faster rate and provides a &cbonus&r to shelf life.\n&dVat&r: can process pot recipes in bulk! Extremely useful for making &eLatex&r and &aJam.&r\n&dJarring Station&r: must be place next to a &bVat&r, fills up jars with &aJam.&r\n&dPot&r: if you need to cook soups.",
+    "quests.tfg_tips.oven_appliances.desc": "&3Oven Appliances&r are optional components that must be placed on top of &aBottom Ovens&r to receive heat. Remember you can have &cmultiple&r &aBottom Ovens&r in a single multiblock.\n\n&dWrought Iron Grill&r: Allows you to cook food at a much faster rate and provides a &cbonus&r to shelf life.\n&dVat&r: can process pot recipes in bulk! Extremely useful for making &eLatex&r and &aJam.&r\n&dJarring Station&r: must be placed next to a &bVat&r, fills up jars with &aJam.&r\n&dPot&r: if you need to cook soups.",
 
     "quests.tfg_tips.oven_finish.title": "Oven Finishes",
     "quests.tfg_tips.oven_finish.subtitle": "Fancy",
@@ -778,7 +778,7 @@
 
     "quests.tfg_tips.jam.title": "Jam",
     "quests.tfg_tips.jam.subtitle": "Not Jelly",
-    "quests.tfg_tips.jam.desc": "&dJam&r is an excellent way to preserve fruit: a &bSealed Jar of Jam&r can last up to &ctwo years&r without being opened.\n\nTo properly bottle the jam you will need a &aJar with Lid&r, requiring &bGlassblowing&r for the jar itself and &bSmithing&r for the lids.\n\n&3&lTip:&r&l &aGT machines&f will provide easier recipes for both components down the line.",
+    "quests.tfg_tips.jam.desc": "&dJam&r is an excellent way to preserve fruit: a &bSealed Jar of Jam&r can last up to &ctwo years&r without being opened.\n\nTo properly bottle the jam you will need a &aJar with Lid&r, requiring &bGlassblowing&r for the jar itself and &bSmithing&r for the lids.\n\n&3&lTip:&r&o &aGT machines&f will provide easier recipes for both components down the line.",
 
     "quests.tfg_tips.preservation.title": "The Preservation Tree",
     "quests.tfg_tips.preservation.subtitle": "Making food last longer",
@@ -963,7 +963,7 @@
 
     "quests.tfg_tips.tools_tips.tools.title": "Tools",
     "quests.tfg_tips.tools_tips.tools.subtitle": "It's all a hammer anyways.",
-    "quests.tfg_tips.tools_tips.tools.desc": "The only thing seperating man from animal is our use of &l&bTools&r&r. &7&oExcept for apes, monkeys, dolphins, crows, otters, octo.......&r&r Use your skills and tools to make the most of this world, and &5save yourself&r some effort.",
+    "quests.tfg_tips.tools_tips.tools.desc": "The only thing separating man from animal is our use of &l&bTools&r&r. &7&oExcept for apes, monkeys, dolphins, crows, otters, octo.......&r&r Use your skills and tools to make the most of this world, and &5save yourself&r some effort.",
 
     "quests.tfg_tips.tools_tips.seed_oil.title": "Lamp Fuel: Seed Oil",
     "quests.tfg_tips.tools_tips.seed_oil.subtitle": "Smells good when it burns.",
@@ -997,7 +997,7 @@
     "quests.tfg_tips.tools_tips.mattocks.subtitle": "A shovel just wont do.",
     "quests.tfg_tips.tools_tips.mattocks.task0": "Any Mattock",
     "quests.tfg_tips.tools_tips.mattocks.task1": "Any Road Material",
-    "quests.tfg_tips.tools_tips.mattocks.desc": "&cMattocks&r are your key to developing roads in TFG. They can acquired through casting into a mold like any other TFC tool. To use a mattock change its mode (default-key: &3&lN&r&r) to \"full-block\". \nThen you can right-click on dirt or grass to tamp it down. You can then apply &6crushed base course&r and finally the material of your choice after.",
+    "quests.tfg_tips.tools_tips.mattocks.desc": "&cMattocks&r are your key to developing roads in TFG. They can be acquired through casting into a mold like any other TFC tool. To use a mattock change its mode (default-key: &3&lN&r&r) to \"full-block\". \nThen you can right-click on dirt or grass to tamp it down. You can then apply &6crushed base course&r and finally the material of your choice after.",
 
     "quests.tfg_tips.tools_tips.base_course.title": "Base Course",
     "quests.tfg_tips.tools_tips.base_course.subtitle": "The foundation of all good roads.",
