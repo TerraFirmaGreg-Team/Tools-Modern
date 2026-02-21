@@ -332,7 +332,7 @@
 
     "quests.tfg_tips.digger_helmet.title": "Digger Helmet",
     "quests.tfg_tips.digger_helmet.subtitle": "For when you mine all day long",
-    "quests.tfg_tips.digger_helmet.desc.1": "The &dDigger Helmet&r is a helmet you can wear, that will automatically light up your surroundings, hands-free! Useful if your main hand is occupied and your off-hand is equipped with a shield. It will require a bit of &6Glowstone&r to craft. Maybe you can reach to &4The Beneath&r for some early game access...",
+    "quests.tfg_tips.digger_helmet.desc.1": "The &dDigger Helmet&r is a helmet that will automatically light up your surroundings, hands-free! Useful if your main hand is occupied and your off-hand is equipped with a shield. It will require a bit of &6Glowstone&r to craft. Maybe you can reach to &4The Beneath&r for some early game access...",
     "quests.tfg_tips.digger_helmet.desc.2": "&l&3Important:&r&l The &dDigger Helmet&f itself works thanks to a specific setting of &cSodium Dynamic Lights&f, you'll have to toggle on &b\"Dynamic Entity Lighting\"&f for it to work properly",
 
     "quests.tfg_tips.grappling_hook.title": "Grappling Hook",
