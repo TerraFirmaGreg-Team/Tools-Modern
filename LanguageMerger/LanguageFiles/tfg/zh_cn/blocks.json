@@ -766,7 +766,7 @@
     "block.tfg.cooling_tower": "核能冷却塔",
     "block.tfg.smr_generator": "小型模块化涡轮机",
     "block.tfg.casings.machine_casing_desh_ptfe": "防辐射戴斯机械方块",
-    "block.tfg.uv_smr_fluid_import_hatch": "SMT输入仓",
+    "block.tfg.uv_smr_fluid_import_hatch": "小型模块化涡轮机输入仓",
     "block.tfg.growth_monitor": "生长监控器",
     "block.tfg.sample_rack": "样本架",
     "block.tfg.casings.machine_casing_sterilizing_pipes": "除菌管道",
