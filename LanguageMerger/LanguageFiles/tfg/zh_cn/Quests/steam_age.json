@@ -91,7 +91,8 @@
     "quests.steam_age.boilers.tasks": "任意高压蒸汽锅炉",
     "quests.steam_age.steam_bloomery.title": "蒸汽锻铁炉",
     "quests.steam_age.steam_bloomery.subtitle": "锻铁炉的叔叔",
-    "quests.steam_age.steam_bloomery.desc": "你总会需要大量锻铁，何不将你的锻铁炉自动化？下一个最接近的锻铁自动化方法要等到LV阶段。\n\n&3蒸汽锻铁炉&r是一个新的多方块结构，能让你原有的群峦传说锻铁炉实现自动化，且效率更高！\n\n与焦炉类似，你可以按下JEI中的\"用途\"键（默认为\"U\"键）来显示多方块结构预览界面。点击其中的各个方块可以查看每个位置允许使用的方块类型。",
+    "quests.steam_age.steam_bloomery.desc.1": "你总会需要大量锻铁，何不将你的锻铁炉自动化？下一个最接近的锻铁自动化方法要等到LV阶段。\n\n&3蒸汽锻铁炉&r是一个新的多方块结构，能让你原有的群峦传说锻铁炉实现自动化，且效率更高！\n\n与焦炉类似，你可以按下JEI中的\"用途\"键（默认为\"U\"键）来显示多方块结构预览界面。点击其中的各个方块可以查看每个位置允许使用的方块类型。",
+    "quests.steam_age.steam_bloomery.desc.2": "由于蒸汽多方块结构在格雷科技中的工作机制，实际配方耗时比JEI中显示的要多出50%%。",
     "quests.steam_age.steam_furnace.title": "蒸汽熔炉",
     "quests.steam_age.steam_furnace.subtitle": "蒸汽熔炉用于熔炼……",
     "quests.steam_age.steam_furnace.desc": "需要快速将物品熔炼成金属锭？&3蒸汽熔炉&r正是为此而生！它能将许多矿石和粉尘快速转化为金属锭，但代价是无法获得任何副产品。",
@@ -242,5 +243,9 @@
     "quests.steam_age.steam_fuser.desc": "&3大型蒸汽合金炉&r是蒸汽合金炉的升级版，体型更大，性能更强。需要大量、快速地生产合金吗？这台机器正合你意！",
     "quests.steam_age.steam_squasher.title": "大型蒸汽压缩机",
     "quests.steam_age.steam_squasher.subtitle": "蒸汽压缩机的青梅竹马",
-    "quests.steam_age.steam_squasher.desc": "需要同时压缩大量材料？&3大型蒸汽压缩机&r作为一款多方块并行压缩机，或许能帮上忙。"
+    "quests.steam_age.steam_squasher.desc": "需要同时压缩大量材料？&3大型蒸汽压缩机&r作为一款多方块并行压缩机，或许能帮上忙。",
+    "quests.steam_age.cobalt_brass.title": "钴黄铜",
+    "quests.steam_age.cobalt_brass.subtitle": "又一种虚构合金",
+    "quests.steam_age.cobalt_brass.desc.1": "钴黄铜用于蒸汽时代和&6LV&r阶段的少数物品。这也是你首次接触到&b铝&r！\n\n钴黄铜有几种不同的获取方式：\n\n1)找到能熔化成硅酸铝的材料（如蓝晶石），然后在坩埚中合金化\n\n2) 使用鼓风机清洗蓝宝石、绿宝石或漂白土等矿石以获得铝粉，然后在动力搅拌器中混合制成钴黄铜粉。",
+    "quests.steam_age.cobalt_brass.desc.2": "&l&3背景知识：&r&o 硅酸铝的设定是为了防止玩家通过群峦传说方法直接获得铝锭。通常，那是LV阶段的最终目标，虽然我们也可以简单地让铝无法使用锭模浇铸，但这会造成更多困惑。"
 }

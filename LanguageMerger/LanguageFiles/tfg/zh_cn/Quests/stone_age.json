@@ -160,7 +160,7 @@
     "quests.stone_age.medical_conditions.title": "健康状况",
     "quests.stone_age.medical_conditions.subtitle": "别吃石棉",
     "quests.stone_age.medical_conditions.desc.1": "小心你捡起的东西！并非所有矿石或粉尘都可以安全触碰，有些会导致&6健康状况&r的累积。\n\n所有&c危险&r信息都会写在物品提示上，所以如果你突然发现身上出现了负面效果，赶紧把那件物品移出你的物品栏！把它放进像小缸或背包这样的容器里是安全的。\n\n大多数这类效果会随着时间慢慢自行消退，但如果你让它们累积得足够久，就会开始引发一大堆其他讨厌的效果，甚至包括&c死亡&r。",
-    "quests.stone_age.medical_conditions.desc.2": "你终究需要处理其中一些材料，因此也有应对它们的方法。\n\n最好的方法是首先避免染上任何病症——口罩和橡胶手套能分别防止吸入危害和接触危害。\n\n次优的方法是进行治疗：查看一些你可以合成的&a药丸、药片和药膏&r——它们都有助于治愈特定的效果（并能提供有用的增益！），不过更强效的药物也会有更恼人的副作用。",
+    "quests.stone_age.medical_conditions.desc.2": "你终究需要处理其中一些材料，因此也有应对它们的方法。\n\n最好的方法是首先避免染上任何病症——口罩和橡胶手套能分别防止吸入危害和接触危害。\n\n次优的方法是进行治疗：查看一些你可以合成的&a药丸&r、&a药片&r和&a药膏&r——它们都有助于治愈特定的效果（并能提供有用的增益！），不过更强效的药物也会有更恼人的副作用。",
     "quests.stone_age.medical_conditions.desc.3": "请务必远离任何具有&c致癌性&r或&c放射性&r的物质——在你能够于&7LV&r阶段制作出对乙酰氨基酚之前，这些负面状态将是&e永久性&r的。",
     "quests.stone_age.medical_conditions.task": "做自己的医生",
     "quests.stone_age.copper_for_anvil.title": "为制作砧准备铜锭",
