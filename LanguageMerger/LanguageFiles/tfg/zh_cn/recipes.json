@@ -71,6 +71,7 @@
     "tfc.recipe.barrel.tfg.barrel.dark_concrete": "染色",
     "tfc.recipe.barrel.tfg.barrel.dark_concrete_support": "染色",
     "tfc.recipe.barrel.tfg.barrel.reinforced_dark_concrete_support": "染色",
+    "recipe.capability.Heat.name": "来自储热单元的热量不足",
     "gtceu.aqueous_accumulator": "蓄水器",
     "tfg.food_recipe.brining": "卤制",
     "tfg.food_recipe.smoking": "熏制",
