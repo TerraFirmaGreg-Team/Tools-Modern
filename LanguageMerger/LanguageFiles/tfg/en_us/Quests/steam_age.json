@@ -117,7 +117,8 @@
 
 	"quests.steam_age.steam_bloomery.title": "Steam Bloomery",
 	"quests.steam_age.steam_bloomery.subtitle": "The Bloomery's uncle",
-	"quests.steam_age.steam_bloomery.desc": "You're always going to need a lot of Wrought Iron, so why not automate your Bloomery? The next closest way to automate wrought iron is way off in LV.\n\nThe &3Steam Bloomery&r is a new multiblock that'll automate your old TFC bloomery, and do it faster too!\n\nLike with the Coke Oven, you can press the JEI 'Uses' key (defaults to \"U\") to show the multiblock preview tab. Click on individual blocks to see what's valid in each location.",
+	"quests.steam_age.steam_bloomery.desc.1": "You're always going to need a lot of Wrought Iron, so why not automate your Bloomery? The next closest way to automate wrought iron is way off in LV.\n\nThe &3Steam Bloomery&r is a new multiblock that'll automate your old TFC bloomery, and do it faster too!\n\nLike with the Coke Oven, you can press the JEI 'Uses' key (defaults to \"U\") to show the multiblock preview tab. Click on individual blocks to see what's valid in each location.",
+  	"quests.steam_age.steam_bloomery.desc.2": "The recipes actually take 50%% longer than what you'll find in JEI, due to how steam multiblocks work in gregtech.",
 
 	"quests.steam_age.steam_furnace.title": "Steam Furnace",
 	"quests.steam_age.steam_furnace.subtitle": "The Steam Furnace furnaces...",
