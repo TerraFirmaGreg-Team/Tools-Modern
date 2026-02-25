@@ -68,5 +68,8 @@
 	"item.gtceu.flawed_salt_gem": "Flawed Salt Crystal",
 	"item.gtceu.salt_gem": "Salt Crystal",
 	"item.gtceu.exquisite_salt_gem": "Exquisite Salt Crystal",
-	"item.gtceu.flawless_salt_gem": "Flawless Salt Crystal"
+	"item.gtceu.flawless_salt_gem": "Flawless Salt Crystal",
+
+	"item.gtceu.plastic_circuit_board": "Ceramic Circuit Board",
+	"item.gtceu.plastic_printed_circuit_board": "Ceramic Printed Circuit Board"
 }
