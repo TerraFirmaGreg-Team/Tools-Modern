@@ -25,5 +25,9 @@
 
     "tfg.tooltip.component.sandy_copper_frame": "Can be placed inside a Heat Battery to increase its storage ability",
     "tfg.tooltip.component.sandy_beryllium_frame": "Can be placed inside a Heat Battery to increase its storage ability",
-    "tfg.tooltip.tool_behaviour.silk_ice": "§dSculptor+:§r Silk harvests all Ice Blocks"
+    "tfg.tooltip.tool_behaviour.silk_ice": "§dSculptor+:§r Silk harvests all Ice Blocks",
+
+    "tfg.tooltip.food.raspberry_boba": "§7A refreshingly sweet treat!",
+    "tfg.tooltip.food.taro_boba": "§7A refreshingly sweet treat!",
+    "tfg.tooltip.food.flurbens_tasty_glizzy": "§7A delicious and satisfying treat!"
 }
