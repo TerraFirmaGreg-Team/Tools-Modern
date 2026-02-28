@@ -1,0 +1,5 @@
+{
+  "item.comforts.hammock.placement.tooltip": "Requires %s to place.",
+  "item.comforts.rope_and_nail.placement.tooltip": "Used for placing hammocks.",
+  "item.comforts.sleeping_bag.auto_use.tooltip": "Automatically attempts to sleep.\nTo place, use while crouching."
+}

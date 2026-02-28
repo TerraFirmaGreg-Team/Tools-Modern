@@ -1,0 +1,17 @@
+{
+  "config.jade.plugin_firmalife.barrel_press": "Barrel Press",
+  "config.jade.plugin_firmalife.cheese": "Cheese",
+  "config.jade.plugin_firmalife.drying_mat": "Drying Mat",
+  "config.jade.plugin_firmalife.fruit_tree_sapling": "Fruit Tree Sapling",
+  "config.jade.plugin_firmalife.hanger": "Hanger",
+  "config.jade.plugin_firmalife.jarbnet": "Jarbnet",
+  "config.jade.plugin_firmalife.oven_bottom": "Oven Bottom",
+  "config.jade.plugin_firmalife.oven_top": "Oven Top",
+  "config.jade.plugin_firmalife.pumping_station": "Pumping Station",
+  "config.jade.plugin_firmalife.shelf": "Shelf",
+  "config.jade.plugin_firmalife.solar_drier": "Solar Drier",
+  "config.jade.plugin_firmalife.stovetop_pot": "Stovetop Pot",
+  "config.jade.plugin_firmalife.string": "String",
+  "config.jade.plugin_firmalife.tumbler": "Tumbler",
+  "config.jade.plugin_firmalife.vat": "Vat"
+}

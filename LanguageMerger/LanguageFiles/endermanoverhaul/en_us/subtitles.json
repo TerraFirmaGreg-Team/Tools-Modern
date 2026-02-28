@@ -1,7 +1,19 @@
 {
-    "subtitles.endermanoverhaul.entity.cave_enderman.ambient": "Deep Cave Enderman vwoops",
-	"subtitles.endermanoverhaul.entity.cave_enderman.hurt": "Deep Cave Enderman hurts",
-	"subtitles.endermanoverhaul.entity.dark_oak_enderman.ambient": "Ashen Enderman vwoops",
-	"subtitles.endermanoverhaul.entity.dark_oak_enderman.darkness": "Ashen Enderman darkens",
-	"subtitles.endermanoverhaul.entity.dark_oak_enderman.stare": "Ashen Enderman cries out"
+  "subtitles.endermanoverhaul.entity.ancient_pearl.hit": "Ancient Pearl Hits",
+  "subtitles.endermanoverhaul.entity.bubble_pearl.hit": "Bubble Pearl Pops",
+  "subtitles.endermanoverhaul.entity.bubble_pearl.thrown": "Bubble Pearl Thrown",
+  "subtitles.endermanoverhaul.entity.cave_enderman.ambient": "Deep Cave Enderman vwoops",
+  "subtitles.endermanoverhaul.entity.cave_enderman.hurt": "Deep Cave Enderman hurts",
+  "subtitles.endermanoverhaul.entity.corrupted_pearl.hit": "Corrupted Pearl Hits",
+  "subtitles.endermanoverhaul.entity.dark_oak_enderman.ambient": "Ashen Enderman vwoops",
+  "subtitles.endermanoverhaul.entity.dark_oak_enderman.darkness": "Ashen Enderman darkens",
+  "subtitles.endermanoverhaul.entity.dark_oak_enderman.stare": "Ashen Enderman cries out",
+  "subtitles.endermanoverhaul.entity.icy_pearl.hit": "Icy Pearl Hits",
+  "subtitles.endermanoverhaul.entity.plant_enderman.ambient": "Plant Enderman vwoops",
+  "subtitles.endermanoverhaul.entity.plant_enderman.hurt": "Plant Enderman hurts",
+  "subtitles.endermanoverhaul.entity.soul_pearl.hit": "Soul Pearl Hits",
+  "subtitles.endermanoverhaul.entity.summoner_pearl.hit": "Summoner Pearl Hits",
+  "subtitles.endermanoverhaul.entity.tall_enderman.ambient": "Tall Enderman vwoops",
+  "subtitles.endermanoverhaul.entity.tall_enderman.death": "Tall Enderman dies",
+  "subtitles.endermanoverhaul.entity.tall_enderman.stare": "Tall Enderman cries out"
 }

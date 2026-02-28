@@ -1,5 +1,5 @@
 {
-	"entity.sandworm_mod.worm_chain": "Sandworm",
-	"entity.sandworm_mod.worm_head_segment": "Sandworm Head",
-	"entity.sandworm_mod.worm_segment": "Sandworm Body"
+  "entity.sandworm_mod.worm_chain": "Sandworm",
+  "entity.sandworm_mod.worm_head_segment": "Sandworm Head",
+  "entity.sandworm_mod.worm_segment": "Sandworm Body"
 }

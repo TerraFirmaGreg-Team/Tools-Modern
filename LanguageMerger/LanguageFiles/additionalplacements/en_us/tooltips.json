@@ -1,0 +1,7 @@
+{
+  "tooltip.additionalplacements.ceiling_placement": "Can be placed on ceilings",
+  "tooltip.additionalplacements.stair_connections.all_connections": "Allows mixed vertical-horizontal connections (relative to the placement)",
+  "tooltip.additionalplacements.stair_connections.no_mixed_connections": "Allows vertical connections (relative to the placement)",
+  "tooltip.additionalplacements.stair_connections.no_vertical_connections": "Does not allow vertical connections (relative to the placement)",
+  "tooltip.additionalplacements.vertical_placement": "Can be placed vertically"
+}

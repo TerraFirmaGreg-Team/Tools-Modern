@@ -1,0 +1,23 @@
+{
+  "buildinggadgets2.fade": "Fade",
+  "buildinggadgets2.grow": "Grow",
+  "buildinggadgets2.growup": "Grow Up",
+  "buildinggadgets2.keymapping.mode-switch": "Switch Modes",
+  "buildinggadgets2.modes.build_to_me": "Build to Me",
+  "buildinggadgets2.modes.copy": "Copy",
+  "buildinggadgets2.modes.cut": "Cut",
+  "buildinggadgets2.modes.grid": "Grid",
+  "buildinggadgets2.modes.horizontal_row": "Horizontal Row",
+  "buildinggadgets2.modes.horizontal_wall": "Horizontal Wall",
+  "buildinggadgets2.modes.paste": "Paste",
+  "buildinggadgets2.modes.stairs": "Stairs",
+  "buildinggadgets2.modes.surface": "Surface",
+  "buildinggadgets2.modes.vertical_column": "Vertical Column",
+  "buildinggadgets2.modes.vertical_wall": "Vertical Wall",
+  "buildinggadgets2.riseup": "Rise Up",
+  "buildinggadgets2.snap": "The SNAP!",
+  "buildinggadgets2.squish": "Squish",
+  "buildinggadgets2.templatename": "Name: %s",
+  "buildinggadgets2.voidwarning": "WARNING: Voids Drops of removed blocks!!",
+  "itemGroup.buildinggadgets2": "BuildingGadgets2"
+}

@@ -1,0 +1,6 @@
+{
+  "tooltip.deafission.fuelcell.avgheat": "Lifetime avg: %s heat",
+  "tooltip.deafission.fuelcell.avgheat_none": "Lifetime avg: §7--- §rheat",
+  "tooltip.deafission.fuelcell.heat": "Heat: %s%%",
+  "tooltip.deafission.fuelcell.rodcount": "Rods: %s"
+}

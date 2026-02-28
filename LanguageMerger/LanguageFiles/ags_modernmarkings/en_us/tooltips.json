@@ -1,0 +1,17 @@
+{
+  "tooltip.ags_modernmarkings.floormarkingbasic": "a floor marking",
+  "tooltip.ags_modernmarkings.floormarking_blackline": "Manufacturing-work in progress",
+  "tooltip.ags_modernmarkings.floormarking_blueline": "Manufacturing-raw materials",
+  "tooltip.ags_modernmarkings.floormarking_greenline": "Manufacturing-finished goods",
+  "tooltip.ags_modernmarkings.floormarking_orangeline": "Stuff held for inspection",
+  "tooltip.ags_modernmarkings.floormarking_redhazard": "keep clear for safety/compliance",
+  "tooltip.ags_modernmarkings.floormarking_redline": "Defects, Scraps, Red tag areas",
+  "tooltip.ags_modernmarkings.floormarking_whitehazard": "keep clear for operational purposes",
+  "tooltip.ags_modernmarkings.floormarking_whiteline": "Otherwise not color coded stuff",
+  "tooltip.ags_modernmarkings.floormarking_yellowhazard": "may be a physical/health hazard",
+  "tooltip.ags_modernmarkings.floormarking_yellowline": "Aisleways, Traffic lanes, work cells",
+  "tooltip.ags_modernmarkings.wallmarking_basic": "a wall marking",
+  "tooltip.ags_modernmarkings.wallmarking_diamond": "NFPA 704, used to notify the risk of hazardous materials.",
+  "tooltip.ags_modernmarkings.wallmarking_jeo": "product placement!",
+  "tooltip.ags_modernmarkings.wallmarking_power": "wall markings for power"
+}

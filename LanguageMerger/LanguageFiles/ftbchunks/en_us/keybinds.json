@@ -1,0 +1,10 @@
+{
+  "key.categories.ftbchunks": "FTB Chunks",
+  "key.ftbchunks.add_waypoint": "Quick Add Waypoint",
+  "key.ftbchunks.claim_manager": "Open Claim Manager",
+  "key.ftbchunks.map": "Open Map",
+  "key.ftbchunks.minimap.zoomIn": "Zoom In Minimap",
+  "key.ftbchunks.minimap.zoomOut": "Zoom Out Minimap",
+  "key.ftbchunks.toggle_minimap": "Toggle Minimap",
+  "key.ftbchunks.waypoint_manager": "Waypoint Manager"
+}

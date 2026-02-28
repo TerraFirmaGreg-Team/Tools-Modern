@@ -1,0 +1,4 @@
+{
+  "config.jade.plugin_deafission.battery": "Show Heat Battery info",
+  "config.jade.plugin_deafission.reactor": "Show Fission Reactor info"
+}

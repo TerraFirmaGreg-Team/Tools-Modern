@@ -1,0 +1,11 @@
+{
+  "create.command.debuginfo.saved_to_clipboard": "Debug information has been copied to your clipboard.",
+  "create.command.debuginfo.sending": "Collecting debug information...",
+  "create.command.killTPSCommand": "killtps",
+  "create.command.killTPSCommand.argument.tickTime": "tickTime",
+  "create.command.killTPSCommand.status.slowed_by.0": "[Create]: Server tick is currently slowed by %s ms :o",
+  "create.command.killTPSCommand.status.slowed_by.1": "[Create]: Server tick is slowed by %s ms now >:)",
+  "create.command.killTPSCommand.status.slowed_by.2": "[Create]: Server tick is back to regular speed :D",
+  "create.command.killTPSCommand.status.usage.0": "[Create]: use /killtps stop to bring back server tick to regular speed",
+  "create.command.killTPSCommand.status.usage.1": "[Create]: use /killtps start <tickTime> to artificially slow down the server tick"
+}

@@ -1,0 +1,15 @@
+{
+  "railways.tooltip.coupler.action.coupling": "Action: Coupling",
+  "railways.tooltip.coupler.action.decoupling": "Action: Decoupling",
+  "railways.tooltip.coupler.action.none": "Action: None available",
+  "railways.tooltip.coupler.error.carriage_alignment": "Carriage(s) not aligned properly. Hint: The center of the bogey should be aligned over the coupler track point.",
+  "railways.tooltip.coupler.error.carriage_orientation": "Carriages must be facing the same direction. Hint: Use a wrench to reorient the carriages.",
+  "railways.tooltip.coupler.error.missing_train": "Requires both track points to be occupied",
+  "railways.tooltip.coupler.error.mode_not_permitted": "Action not permitted in current mode",
+  "railways.tooltip.coupler.header": "Coupler Information",
+  "railways.tooltip.coupler.mode": "Coupler Mode:",
+  "railways.tooltip.coupler.train1": "§lTrain 1: §r%s",
+  "railways.tooltip.coupler.train2": "§lTrain 2: §r%s",
+  "railways.tooltip.switch.header": "Switch Information",
+  "railways.tooltip.switch.state": "Switch State:"
+}

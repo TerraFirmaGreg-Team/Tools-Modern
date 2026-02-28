@@ -1,0 +1,18 @@
+{
+  "tfcambiental.tooltip.thermal_insulation": "Thermal Insulation",
+  "tfcambiental.tooltip.thermoregulation": "Thermoregulation",
+  "tooltip.diggerhelmet.cooldown": "Automatically drinks water from inventory when installed in Digger Helmet",
+  "tooltip.diggerhelmet.digger_helmet.hold_shift": "Hold §eSHIFT§7 for detailed information",
+  "tooltip.diggerhelmet.digger_helmet.lining_needed": "§eInstall lining for temperature properties",
+  "tooltip.diggerhelmet.digger_helmet.shift_info": "Take the helmet in hand, press §eSHIFT§7+right click to open helmet interface",
+  "tooltip.diggerhelmet.digger_helmet.silk_lining_active": "§bSilk lining installed - provides cooling",
+  "tooltip.diggerhelmet.digger_helmet.tooltip3": "Ouch! Got burned, better not touch the candle",
+  "tooltip.diggerhelmet.digger_helmet.wool_lining_active": "§aWool lining installed - provides warmth",
+  "tooltip.diggerhelmet.eternal_candle.main": "Mysterious Source of Eternal Flame",
+  "tooltip.diggerhelmet.eternal_candle.more_info": "You may need to kill more zombies, the drop chance of eternal candle from hand is not 100%. Good luck!",
+  "tooltip.diggerhelmet.eternal_candle.shift_info": "Obtained from Candle Slime or Zombie (spawns with candle in hand)",
+  "tooltip.diggerhelmet.silk_lining.main": "Provides coolness and lightness",
+  "tooltip.diggerhelmet.silk_lining.usage": "Install in Digger Helmet for cooling properties",
+  "tooltip.diggerhelmet.wool_lining.main": "Provides warmth and comfort",
+  "tooltip.diggerhelmet.wool_lining.usage": "Install in Digger Helmet for temperature properties"
+}

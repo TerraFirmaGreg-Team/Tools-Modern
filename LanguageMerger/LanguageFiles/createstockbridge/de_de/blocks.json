@@ -1,8 +1,0 @@
-{
-    "block.createstockbridge.ae_bridge": "AE Börsenbrücke",
-
-    "gui.createstockbridge.address": "Paketadresse:",
-    "gui.stockbridge.remote_items": "Create Börsensystem Gegenstände",
-
-    "tooltip.stockbridge.remote_item": "Gegenstände im Fernsystem"
-}

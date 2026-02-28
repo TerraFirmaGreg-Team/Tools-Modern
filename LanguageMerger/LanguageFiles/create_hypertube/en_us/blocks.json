@@ -1,0 +1,10 @@
+{
+  "block.create_hypertube.hypertube": "Hypertube Block",
+  "block.create_hypertube.hypertube_accelerator": "Hypertube Accelerator Block",
+  "block.create_hypertube.hypertube_entrance": "Hypertube Entrance Block",
+  "block.hypertube.hyper_accelerator.accelerate_mode": "Accelerate Mode",
+  "block.hypertube.hyper_accelerator.brake_mode": "Brake Mode",
+  "block.hypertube.hyper_entrance.automatic_lock": "Automatic Lock Mode",
+  "block.hypertube.hyper_entrance.manual_lock": "Manual Lock Mode",
+  "block.hypertube.hyper_entrance.sneak_to_enter": "Sneak to Enter"
+}

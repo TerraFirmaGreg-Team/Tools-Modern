@@ -1,0 +1,6 @@
+{
+  "tfcambiental.message.is_inside": "You are inside",
+  "tfcambiental.message.is_inside_alt": "Your outsides are inside",
+  "tfcambiental.message.is_outside": "You are outside",
+  "tfcambiental.message.is_outside_alt": "Your insides are outside"
+}

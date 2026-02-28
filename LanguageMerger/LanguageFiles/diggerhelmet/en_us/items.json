@@ -1,0 +1,16 @@
+{
+  "item.diggerhelmet.auto_drink_modifier": "Auto Drink Modifier",
+  "item.diggerhelmet.broken_digger_helmet": "Broken Digger Helmet",
+  "item.diggerhelmet.broken_helmet.repair_info": "Use repair recipe to restore it",
+  "item.diggerhelmet.broken_helmet.tooltip": "This helmet is broken and doesn't work",
+  "item.diggerhelmet.candleslime_spawn_egg": "Candle Slime Spawn Egg",
+  "item.diggerhelmet.digger_helmet": "Digger Helmet",
+  "item.diggerhelmet.digger_helmet.main": "Don't touch the candle!",
+  "item.diggerhelmet.eternal_candle": "Eternal Candle",
+  "item.diggerhelmet.mining_speed_modifier": "Mining Speed Modifier",
+  "item.diggerhelmet.mining_speed_modifier.desc.base": "Increases mining speed when installed in Digger Helmet:",
+  "item.diggerhelmet.mining_speed_modifier.desc.pickaxe": "Pickaxes ×%.1f",
+  "item.diggerhelmet.mining_speed_modifier.desc.shovel": "Shovels ×%.1f",
+  "item.diggerhelmet.silk_lining": "Silk Lining",
+  "item.diggerhelmet.wool_lining": "Wool Lining"
+}

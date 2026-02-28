@@ -1,0 +1,5 @@
+{
+  "emi.fluid.amount.droplets": "%s d",
+  "emi.fluid.amount.liters": "%s L",
+  "emi.fluid.amount.millibuckets": "%smB"
+}

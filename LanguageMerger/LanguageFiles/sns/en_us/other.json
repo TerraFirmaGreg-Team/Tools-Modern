@@ -1,0 +1,13 @@
+{
+  "pack.sns.description": "Sacks 'N Such Resources",
+  "sns.disabled": "Disabled",
+  "sns.enabled": "Enabled",
+  "sns.extra_fall_distance": "Fall Distance",
+  "sns.stack_name.mob_net.with_mob": "%s (%s)",
+  "sns.status.item_container.no_pickup": "%s has item pickup disabled",
+  "sns.status.mob_net.cannot_capture_generic": "You cannot capture %ss",
+  "sns.status.mob_net.cannot_capture_players": "You cannot capture players",
+  "sns.status.mob_net.cannot_capture_size": "The %s is too large to capture",
+  "sns.status.mob_net.cannot_place": "There's not enough space to release captured %s",
+  "sns.status.sack.auto_pickup": "Item Pickup %s"
+}

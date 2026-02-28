@@ -1,0 +1,17 @@
+{
+  "tfg.gui.consumes": "Consumes: ",
+  "tfg.gui.cycle_duration": "Cycle duration: ",
+  "tfg.gui.max_energy_per_tick_amps.prefix": "Max EU/t:",
+  "tfg.gui.menu.field_guide_splash_text": "Tip: Read the field guide!!!",
+  "tfg.gui.menu.fps_count": "FPS:",
+  "tfg.gui.menu.ram_usage": "RAM:",
+  "tfg.gui.per_cycle": "per cycle",
+  "tfg.gui.refrigerator.unify_dates.disabled": "Expiration Date Unification is: §cOff",
+  "tfg.gui.refrigerator.unify_dates.enabled": "Expiration Date Unification is: §aOn",
+  "tfg.gui.rnr_plow.empty_crushed_base_course": "§cMissing Crushed Base Course!!",
+  "tfg.gui.rnr_plow.random_mode": "Randomize Materials",
+  "tfg.gui.rnr_plow.width": "Path Width: %d Blocks",
+  "tfg.gui.smr_generator.booster_used": "Booster: %s",
+  "tfg.gui.smr_generator.credit": "Credits to Frontiers Team",
+  "tfg.gui.smr_generator.lubricant_used": "Lubricant: %s"
+}

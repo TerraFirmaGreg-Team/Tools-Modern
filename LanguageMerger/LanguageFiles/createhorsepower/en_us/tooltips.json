@@ -1,0 +1,7 @@
+{
+  "tooltip.createhorsepower.horse_crank.alreadyHasWorker": "Crank already has a worker",
+  "tooltip.createhorsepower.horse_crank.attached": "Worker has been attached",
+  "tooltip.createhorsepower.horse_crank.detached": "Worker has been detached",
+  "tooltip.createhorsepower.horse_crank.maximumMobs": "Only 1 mob can be attached",
+  "tooltip.createhorsepower.horse_crank.notValidWorker": "Mob is not a valid worker"
+}

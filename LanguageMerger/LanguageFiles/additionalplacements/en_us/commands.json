@@ -1,0 +1,3 @@
+{
+  "commands.ap_stairs_state_debug.wrong_block": "%s is not a valid block, must be a stair block with additional states."
+}

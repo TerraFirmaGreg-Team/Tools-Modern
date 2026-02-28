@@ -1,0 +1,11 @@
+{
+  "entity.create.carriage_contraption": "Carriage Contraption",
+  "entity.create.contraption": "Contraption",
+  "entity.create.crafting_blueprint": "Crafting Blueprint",
+  "entity.create.gantry_contraption": "Gantry Contraption",
+  "entity.create.package": "Package",
+  "entity.create.potato_projectile": "Potato Projectile",
+  "entity.create.seat": "Seat",
+  "entity.create.stationary_contraption": "Stationary Contraption",
+  "entity.create.super_glue": "Super Glue"
+}

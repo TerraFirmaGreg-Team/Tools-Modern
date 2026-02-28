@@ -1,0 +1,7 @@
+{
+  "deafission.recipe.coolant_heat_per_tick": "Heat: -%s HU/t/°",
+  "deafission.recipe.hb_io_energy": "Heat: %s HU",
+  "deafission.recipe.heat": "Heat: %s HU",
+  "deafission.recipe.heat_per_tick": "Heat: -%s HU/t",
+  "deafission.recipe.temp": "Temp: %s°"
+}

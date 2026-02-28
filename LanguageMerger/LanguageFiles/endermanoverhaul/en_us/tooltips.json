@@ -1,0 +1,17 @@
+{
+  "tooltip.endermanoverhaul.ancient_pearl": "Summons a friendly enderman to fight for you",
+  "tooltip.endermanoverhaul.ancient_pet": "Pet health: %.1f",
+  "tooltip.endermanoverhaul.bound_to": "Bound to: %s",
+  "tooltip.endermanoverhaul.bubble_pearl": "Accurate Ender Pearl with no gravity",
+  "tooltip.endermanoverhaul.corrupted_blade": "Teleports targets randomly",
+  "tooltip.endermanoverhaul.corrupted_pearl": "Teleports targets to a random location",
+  "tooltip.endermanoverhaul.corrupted_shield": "Teleports attackers randomly",
+  "tooltip.endermanoverhaul.crimson_pearl": "Applies Strength II when teleporting",
+  "tooltip.endermanoverhaul.hood": "Allows you to look at endermen without angering them",
+  "tooltip.endermanoverhaul.icy_pearl": "Freezes nearby targets on hit",
+  "tooltip.endermanoverhaul.not_bound": "Not bound",
+  "tooltip.endermanoverhaul.soul_pearl_1": "Shift-right click to bind an entity",
+  "tooltip.endermanoverhaul.soul_pearl_2": "Teleports the bound entity to the target location",
+  "tooltip.endermanoverhaul.summoner_pearl": "Teleports nearby targets on hit",
+  "tooltip.endermanoverhaul.warped_pearl": "Applies Resistance II when teleporting"
+}

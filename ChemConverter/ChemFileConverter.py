@@ -12,6 +12,7 @@ BondLines = []
 
 BondCounter = {}
 
+ZMode = False
 
 def Confirmation(prompt):
     a="0"
@@ -52,11 +53,14 @@ def BuildMolChunk():
     for entry in MolList:
         x = float(entry[0])
         y = float(entry[1])
+        z = 0
+        if ZMode:
+            z = float(entry[2])
 
-        distXY = dist((x, y), (0, 0))
+        distXYZ = dist((x, y, z), (0, 0, 0))
 
-        cordList.append([distXY, x, y])
-        distList.append(distXY)
+        cordList.append([distXYZ, x, y, z])
+        distList.append(distXYZ)
 
         if entry[3] == "O":
             hasOxygen = True
@@ -64,7 +68,7 @@ def BuildMolChunk():
     distList.sort()
     for cords in cordList:
         if cords[0] == distList[0]:
-            transSet = (cords[1], cords[2])
+            transSet = (cords[1], cords[2], cords[3])
 
     if hasOxygen:
         AddHToOxygen = Confirmation("Would you like to add implicit Hydrogen to Oxygen?")
@@ -73,9 +77,14 @@ def BuildMolChunk():
     for entry in MolList:
         x = round(float(entry[0]) - transSet[0], 4)
         y = round(float(entry[1]) - transSet[1], 4)
+        z = round(float(entry[2]) - transSet[2], 4)
         element = entry[3]
 
         MolChunkLines = ['\t{', '"type": "atom",', '"index": ' + str(count) + ',', '"x": ' + str(x) + ',', '"y": ' + str(y)]
+        if ZMode:
+            MolChunkLines[-1] = '"y": ' + str(y) + ','
+            MolChunkLines.append('"z": ' + str(z))
+
         if element != "C":
             elementLine = '"element": "' + element + '",'
             MolChunkLines.insert(2, elementLine)
@@ -154,10 +163,16 @@ def BuildJson():
     header = '{\n\t"contents": [\n'
     footer = '\t]\n}'
 
+    if ZMode:
+        footer = '\t],\n \t"spin" : true\n}'
+
     LogFile.write(header)
     LogFile.writelines(MolLines)
     LogFile.writelines(BondLines)
     LogFile.write(footer)
+
+
+ZMode = Confirmation("Would you like to create a 3d molecule?")
 
 ReadMolFile()
 BuildBondChunk()

@@ -1,9 +1,9 @@
 {
-	"fluid.tfg.heavy_ammoniacal_water": "Heavy Ammoniacal Water",
-	"fluid.tfg.semiheavy_ammoniacal_water": "Semiheavy Ammoniacal Water",
-	"fluid.tfg.sulfur_fumes": "Dense Sulfuric Fumes",
-	"fluid.tfg.geyser_slurry": "Super Heated Slurry",
-	"fluid.tfg.cryogenized_fluix": "Cryogenized Fluix",
-	"fluid.tfg.bw_photographic_developer": "Black and White Photographic Developer",
-	"fluid.tfg.color_photographic_developer": "Color Photographic Developer"
+  "fluid.tfg.bw_photographic_developer": "Black and White Photographic Developer",
+  "fluid.tfg.color_photographic_developer": "Color Photographic Developer",
+  "fluid.tfg.cryogenized_fluix": "Cryogenized Fluix",
+  "fluid.tfg.geyser_slurry": "Super Heated Slurry",
+  "fluid.tfg.heavy_ammoniacal_water": "Heavy Ammoniacal Water",
+  "fluid.tfg.semiheavy_ammoniacal_water": "Semiheavy Ammoniacal Water",
+  "fluid.tfg.sulfur_fumes": "Dense Sulfuric Fumes"
 }

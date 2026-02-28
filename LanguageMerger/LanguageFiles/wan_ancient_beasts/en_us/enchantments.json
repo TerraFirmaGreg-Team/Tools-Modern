@@ -1,0 +1,8 @@
+{
+  "enchantment.wan_ancient_beasts.blood_thirst": "Blood Thirst",
+  "enchantment.wan_ancient_beasts.blood_thirst.desc": "Increases damage when you have at least one effect",
+  "enchantment.wan_ancient_beasts.hunter_mark": "Hunter Mark",
+  "enchantment.wan_ancient_beasts.hunter_mark.desc": "Increases damage against ancient mobs such as Sniffers and Eaters",
+  "enchantment.wan_ancient_beasts.life_steal": "Life Steal",
+  "enchantment.wan_ancient_beasts.life_steal.desc": "Heal you of half a heart when you attack a mob"
+}

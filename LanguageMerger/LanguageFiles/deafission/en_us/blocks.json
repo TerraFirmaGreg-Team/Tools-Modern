@@ -1,0 +1,11 @@
+{
+  "block.deafission.battery_heat_port_ev": "Heat Port",
+  "block.deafission.fission_reactor_mk1": "Fission Reactor MK I",
+  "block.deafission.fission_reactor_mk2": "Fission Reactor MK II",
+  "block.deafission.fission_reactor_smr1": "Small Fission Reactor MK I",
+  "block.deafission.fuel_holder": "Fuel Holder",
+  "block.deafission.heat_battery_mk1": "Heat Battery MK I",
+  "block.deafission.heat_input_hatch_ev": "Heat Input Hatch",
+  "block.deafission.material_holder": "Material Holder",
+  "block.deafission.redstone_port": "Redstone Port"
+}

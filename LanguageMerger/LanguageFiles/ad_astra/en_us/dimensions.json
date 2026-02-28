@@ -1,0 +1,13 @@
+{
+  "dimension.ad_astra.earth_orbit": "Earth Orbit",
+  "dimension.ad_astra.glacio": "Europa",
+  "dimension.ad_astra.glacio_orbit": "Europa Orbit",
+  "dimension.ad_astra.mars": "Mars",
+  "dimension.ad_astra.mars_orbit": "Mars Orbit",
+  "dimension.ad_astra.mercury": "Mercury",
+  "dimension.ad_astra.mercury_orbit": "Mercury Orbit",
+  "dimension.ad_astra.moon": "Moon",
+  "dimension.ad_astra.moon_orbit": "Moon Orbit",
+  "dimension.ad_astra.venus": "Venus",
+  "dimension.ad_astra.venus_orbit": "Venus Orbit"
+}

@@ -1,0 +1,14 @@
+{
+  "key.category.tacz": "Timeless & Classics Guns: Zero",
+  "key.tacz.aim.desc": "Aim",
+  "key.tacz.crawl.desc": "Crawl",
+  "key.tacz.fire_select.desc": "Fire Select",
+  "key.tacz.inspect.desc": "Inspect",
+  "key.tacz.interact.desc": "Interact With Gun",
+  "key.tacz.melee.desc": "Melee",
+  "key.tacz.open_config.desc": "Open TAC Config",
+  "key.tacz.refit.desc": "Refit",
+  "key.tacz.reload.desc": "Reload",
+  "key.tacz.shoot.desc": "Shoot",
+  "key.tacz.zoom.desc": "Zoom"
+}

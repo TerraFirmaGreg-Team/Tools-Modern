@@ -1,0 +1,7 @@
+{
+  "ftbquests.message.configurator_bound": "Configurator Bound: %s",
+  "ftbquests.message.missing_task_screen": "Task Screen is missing!",
+  "ftbquests.message.missing_xlate_1": "No translation for %s in current locale '%s'",
+  "ftbquests.message.missing_xlate_2": "Falling back to '%s'",
+  "ftbquests.message.task_screen_inaccessible": "Task Screen is not accessible from here!"
+}

@@ -1,6 +1,0 @@
-{
-    "block.createstockbridge.ae_bridge": "Місток запасів AE",
-    "gui.createstockbridge.address": "Адреса пакета:",
-    "gui.stockbridge.remote_items": "Створити предмети системи запасів",
-    "tooltip.stockbridge.remote_item": "Предмет у віддаленій системі"
-}
