@@ -344,6 +344,9 @@
     "item.tfg.uv_led": "§dUltraviolet §fLED",
     "item.tfg.smd_uv_led": "§fSMD §dUltraviolet §fLED",
     "item.tfg.silicon_seed_crystal": "Silicon Seed Crystal",
+    "item.tfg.blue_alloy_desh_foil": "Blue Alloy Plated Desh Foil",
+    "item.tfg.chorus_ceramic_insulation": "Unfired Chorus-Infused Ceramic Insulation",
+    "item.tfg.fired_chorus_ceramic_insulation": "Fired Chorus-Infused Ceramic Insulation",
 
     "item.tfg.empty_dna_syringe": "Empty Syringe",
     "item.tfg.filled_dna_syringe": "Filled Syringe",
