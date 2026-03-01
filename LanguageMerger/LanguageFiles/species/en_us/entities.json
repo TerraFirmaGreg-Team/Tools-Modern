@@ -1,25 +1,3 @@
 {
-  "entity.species.bewereager": "Bewereager",
-  "entity.species.birt": "Birt",
-  "entity.species.birt_egg": "Birt Egg",
-  "entity.species.cliff_hanger": "Cliff Hanger",
-  "entity.species.coil": "Coil",
-  "entity.species.cruncher": "Cruncher",
-  "entity.species.deepfish": "Deepfish",
-  "entity.species.deflector_dummy": "Deflector Dummy",
-  "entity.species.ghoul": "Ghoul",
-  "entity.species.goober": "Goober",
-  "entity.species.goober_goo": "Goober Goo",
-  "entity.species.harpoon": "Harpoon",
-  "entity.species.leaf_hanger": "Leaf Hanger",
-  "entity.species.limpet": "Limpet",
-  "entity.species.mammutilation": "Mammutilation",
-  "entity.species.quake": "Quake",
-  "entity.species.spectre": "Spectre",
-  "entity.species.springling": "Springling",
-  "entity.species.stackatick": "Stackatick",
-  "entity.species.treeper": "Treeper",
-  "entity.species.trooper": "Sulfie",
-  "entity.species.wicked": "Wicked",
-  "entity.species.wraptor": "Wraptor"
+  "entity.species.trooper": "Sulfie"
 }

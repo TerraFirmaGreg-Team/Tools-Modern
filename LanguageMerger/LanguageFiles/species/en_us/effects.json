@@ -1,21 +1,6 @@
 {
-  "effect.species.birtd": "Birt'd",
-  "effect.species.birtd.description": "Prevents all movement and spawns birt particles above the head of the affected entity.",
-  "effect.species.bloodlust": "Bloodlust",
-  "effect.species.bloodlust.description": "Prevents eating, but replenishes Hunger and Saturation through killing. Tougher mobs give more food.",
-  "effect.species.bloodlust.reason": "You're craving something else...",
-  "effect.species.combustion": "Combustion",
-  "effect.species.combustion.description": "Wicked effect. Makes affected entities explode on death. Explosion size and block destruction increases with levels.",
-  "effect.species.gut_feeling": "Gut Feeling",
-  "effect.species.gut_feeling.description": "Makes affected entities' stomachs rumble and wrench, making them feel almost as if a boss was planning to attack.",
   "effect.species.iron_will": "Knockback Resistance",
   "effect.species.iron_will.description": "Prevents all knockback.",
   "effect.species.snatched": "Super Speed",
-  "effect.species.snatched.description": "Grants faster Movement Speed scaling with levels. Makes affected entities taller and thinner.",
-  "effect.species.stuck": "Stuck",
-  "effect.species.stuck.description": "Prevents all movement.",
-  "effect.species.tanked": "Tanked",
-  "effect.species.tanked.description": "Wicked effect. Grants more Health, more Damage and slower Movement Speed scaling with levels. Makes affected entities wider and stouter.",
-  "effect.species.wither_resistance": "Wither Resistance",
-  "effect.species.wither_resistance.description": "Removes the Wither effect and prevents from being affected by it."
+  "effect.species.snatched.description": "Grants faster Movement Speed scaling with levels. Makes affected entities taller and thinner."
 }

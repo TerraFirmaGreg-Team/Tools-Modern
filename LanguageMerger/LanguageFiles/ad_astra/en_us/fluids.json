@@ -1,7 +1,3 @@
 {
-  "fluid_type.ad_astra.cryo_fuel": "Cryo Fuel",
-  "fluid_type.ad_astra.fuel": "Fuel",
-  "fluid_type.ad_astra.hydrogen": "Hydrogen",
-  "fluid_type.ad_astra.oil": "Oil",
   "fluid_type.ad_astra.oxygen": "Breathable Air"
 }

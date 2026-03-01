@@ -1,8 +1,0 @@
-{
-  "rnr.jade.will_crack": "Will crack when dry",
-  "rnr.jade.will_not_crack": "Will not crack",
-  "rnr.mattock.bad_fluid": "The mattocked version of this block cannot contain the fluid here",
-  "rnr.mattock.cannot_place": "The mattocked version of this block cannot exist here",
-  "rnr.mattock.no_recipe": "This block cannot be mattocked",
-  "roads_and_roofs": "Roads and Roofs"
-}

@@ -1,7 +1,0 @@
-{
-  "gui.diggerhelmet.slot_info.center_slot": "Center slot: Mining Speed Modifier",
-  "gui.diggerhelmet.slot_info.left_slot": "Left slot: Auto Drink Modifier",
-  "gui.diggerhelmet.slot_info.right_slot": "Right slot: Lining (Wool or Silk)",
-  "gui.diggerhelmet.slot_info.right_slot_disabled": "Right slot: Lining (requires TFC Ambiental)",
-  "gui.diggerhelmet.slot_info.title": "Slot Information"
-}

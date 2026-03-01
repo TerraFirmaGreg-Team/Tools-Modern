@@ -1,6 +1,5 @@
 {
   "block.minecraft.basalt": "Basalt Column",
-  "block.minecraft.bell": "Golden Bell",
   "block.minecraft.blackstone": "Raw Pyroxenite",
   "block.minecraft.blackstone_slab": "Pyroxenite Slab",
   "block.minecraft.blackstone_stairs": "Pyroxenite Stairs",
@@ -38,7 +37,6 @@
   "block.minecraft.gilded_blackstone": "Gilded Pyroxenite",
   "block.minecraft.infested_deepslate": "Infested Migmatite",
   "block.minecraft.iron_block": "Cast Iron Block",
-  "block.minecraft.loom": "Banner Loom",
   "block.minecraft.magma_block": "Pyroxenite Magma",
   "block.minecraft.mossy_cobblestone": "Mossy Reconstituted Stone Cobble",
   "block.minecraft.mossy_cobblestone_slab": "Mossy Reconstituted Stone Cobble Slab",
@@ -76,7 +74,6 @@
   "block.minecraft.red_sandstone_slab": "Raw Hematitic Sandstone Slab",
   "block.minecraft.red_sandstone_stairs": "Raw Hematitic Sandstone Stairs",
   "block.minecraft.red_sandstone_wall": "Raw Hematitic Sandstone Wall",
-  "block.minecraft.slime_block": "Glue Block",
   "block.minecraft.smooth_red_sandstone": "Smooth Hematitic Sandstone",
   "block.minecraft.smooth_red_sandstone_slab": "Smooth Hematitic Sandstone Slab",
   "block.minecraft.smooth_red_sandstone_stairs": "Smooth Hematitic Sandstone Stairs",

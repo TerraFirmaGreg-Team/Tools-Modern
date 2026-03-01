@@ -1,8 +1,0 @@
-{
-  "ftbfiltersystem.message.changes_saved": "Filter has been updated!",
-  "ftbfiltersystem.message.matched": "Filter matches: %s",
-  "ftbfiltersystem.message.not_a_filter": "You must hold a Smart Filter in your main hand",
-  "ftbfiltersystem.message.not_matched": "Filter does not match: %s",
-  "ftbfiltersystem.message.no_offhand_item": "Hold an item to be tested in your off hand",
-  "ftbfiltersystem.message.parse_failed": "Filter parse failure: %s"
-}

@@ -1,18 +1,3 @@
 {
-  "greate.recipe.assembly.cutting": "Cut with %s or higher Saw",
-  "greate.recipe.assembly.pressing": "Process in %s or higher Press",
-  "greate.recipe.automatic_brewing": "Automated Brewing",
-  "greate.recipe.automatic_packing": "Automated Shaped Crafting",
-  "greate.recipe.automatic_shapeless": "Automated Shapeless Crafting",
-  "greate.recipe.block_cutting": "Block Cutting",
-  "greate.recipe.crushing": "Crushing",
-  "greate.recipe.fan_haunting": "Bulk Haunting",
-  "greate.recipe.fan_washing": "Bulk Washing",
-  "greate.recipe.milling": "Milling",
-  "greate.recipe.mixing": "Mixing",
-  "greate.recipe.packing": "Welding & Packing",
-  "greate.recipe.pressing": "Pressing",
-  "greate.recipe.processing.extra_chance": "% extra chance per tier",
-  "greate.recipe.sawing": "Sawing",
-  "greate.recipe.wood_cutting": "Wood Cutting"
+  "greate.recipe.packing": "Welding & Packing"
 }

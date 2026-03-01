@@ -1,8 +1,0 @@
-{
-  "alekiships.config.server.windAffectsBoatsWithNoAnchor": "Wind Affects Boats With No Anchor",
-  "config.jade.plugin_alekiships.block": "Block Compartment",
-  "config.jade.plugin_alekiships.brewing_stand": "Brewing Stand Compartment",
-  "config.jade.plugin_alekiships.furnace": "Furnace Compartment",
-  "config.jade.plugin_alekiships.jukebox": "Jukebox Compartment",
-  "config.jade.plugin_alekiships.note_block": "Note Block Compartment"
-}

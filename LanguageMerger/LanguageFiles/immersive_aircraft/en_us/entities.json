@@ -1,9 +1,3 @@
 {
-  "entity.immersive_aircraft.airship": "Airship",
-  "entity.immersive_aircraft.bamboo_hopper": "Aluminium Hopper",
-  "entity.immersive_aircraft.biplane": "Biplane",
-  "entity.immersive_aircraft.cargo_airship": "Cargo Airship",
-  "entity.immersive_aircraft.gyrodyne": "Gyrodyne",
-  "entity.immersive_aircraft.quadrocopter": "Quadrocopter",
-  "entity.immersive_aircraft.warship": "Warship"
+  "entity.immersive_aircraft.bamboo_hopper": "Aluminium Hopper"
 }

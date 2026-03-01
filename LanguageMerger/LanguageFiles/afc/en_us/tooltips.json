@@ -1,9 +1,0 @@
-{
-  "tooltip.afc.tap.amount": "Amount: ",
-  "tooltip.afc.tap.current_temp": "Current Temperature: %s",
-  "tooltip.afc.tap.efficiency": "Efficiency: ",
-  "tooltip.afc.tap.fluid": "Fluid: ",
-  "tooltip.afc.tap.no_recipe": "No recipe found for this log",
-  "tooltip.afc.tap.spring": "Spring: ",
-  "tooltip.afc.tap.temp_range": "Temperature Range: "
-}
