@@ -1,15 +1,9 @@
 {
-  "item.tfc.blubber": "Animal Fat",
-  "item.tfc.bucket.salt_water": "Sea Water Bucket",
-  "item.tfc.dirty_jute_net": "Dirty Burlap Net",
-  "item.tfc.jute_net": "Burlap Net",
-  "item.tfc.powder.salt": "Table Salt",
-  "item.tfc.powder.saltpeter": "Saltpeter Powder",
-  "item.tfc.powder.sulfur": "Sulfur Powder",
-  "item.tfc.wood.boat.douglas_fir": "Fir Boat",
-  "item.tfc.wood.boat.white_cedar": "Cedar Boat",
-  "item.tfc.wood.chest_minecart.douglas_fir": "Fir Chest Minecart",
-  "item.tfc.wood.chest_minecart.white_cedar": "Cedar Chest Minecart",
-  "item.tfc.wood.lumber.douglas_fir": "Fir Lumber",
-  "item.tfc.wood.lumber.white_cedar": "Cedar Lumber"
+	"item.tfc.bucket.salt_water": "Sea Water Bucket",
+    "item.tfc.powder.saltpeter": "Saltpeter Powder",
+	"item.tfc.powder.sulfur": "Sulfur Powder",
+    "item.tfc.jute_net": "Burlap Net",
+    "item.tfc.dirty_jute_net": "Dirty Burlap Net",
+	"item.tfc.powder.salt": "Table Salt",
+	"item.tfc.blubber": "Animal Fat"
 }

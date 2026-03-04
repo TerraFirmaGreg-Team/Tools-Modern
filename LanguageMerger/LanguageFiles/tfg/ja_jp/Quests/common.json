@@ -1,0 +1,14 @@
+{
+    "quests.tasktype.checkmark": "Click here to complete this quest/task",
+    "quests.tasktype.item.any": "Any of this item:",
+    "quests.tasktype.lookat": "Look at a:",
+    "quests.tasktype.travelto": "Travel to:",
+
+    "quests.groups.primitive": "原始時代",
+    "quests.groups.voltaic_age": "先進時代",
+    "quests.groups.space_age": "宇宙時代",
+    "quests.groups.interstellar": "恒星間時代",
+    "quests.groups.technological_help": "攻略のための知識",
+    "quests.groups.tips": "Tips",
+    "quests.groups.space_survival": "宇宙のあるきかた～無事に生還するために"
+}

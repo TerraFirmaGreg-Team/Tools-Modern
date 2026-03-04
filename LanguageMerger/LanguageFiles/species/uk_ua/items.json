@@ -1,0 +1,13 @@
+{
+    "item.species.wicked_mask": "Набір для Маскування",
+    "item.species.wicked_swapper": "Перлина обміну",
+    "item.species.wicked_treat": "Ласощі для улюбленця",
+    "subtitles.item.species.wicked_mask.link": "Форми набору маскування",
+    "subtitles.item.species.wicked_mask.equip": "Палички набору маскування",
+    "subtitles.item.species.wicked_swapper.throw": "Перлина обміну летить",
+    "subtitles.item.species.wicked_swapper.fail": "Перлина обміну випадає",
+    "subtitles.item.species.wicked_swapper.teleport": "Перлина обміну обмінює",
+    "item.species.trooper_spawn_egg": "Яйце призову Сульфі",
+    "item.species.wicked_treat.desc.snatched": "Супер швидкість II (0:45)",
+    "item.species.wicked_treat.desc.iron_will": "Спротив відкиданню (0:45)"
+}

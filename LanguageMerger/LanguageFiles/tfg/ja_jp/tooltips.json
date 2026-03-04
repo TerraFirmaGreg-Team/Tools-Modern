@@ -1,0 +1,29 @@
+{
+    "tfg.tooltip.machine.fission_reactor_mk1_1": "§7原子の力§r",
+    "tfg.tooltip.machine.fission_reactor_mk1_2": "§7カスタマイズ可能な核分裂炉。コンポーネントを追加し、燃料棒や素材を投入して、温度管理に気をつけましょう。§r",
+
+    "tfg.tooltip.machine.smt_1": "§ePower Production:§r From 2048 to 32768 EU/t",
+    "tfg.tooltip.machine.smt_2": "§7作動には潤滑剤が必要で、ブースターを使用することで出力を向上させることができます。§r",
+    "tfg.tooltip.machine.smt_3": "§7液体の搬入には§rSMT搬入ハッチ§7のみを受け入れます§r",
+
+    "tfg.tooltip.machine.small_fission_reactor_mk1_1": "§7小さいけれど原子の力§r",
+    "tfg.tooltip.machine.small_fission_reactor_mk1_2": "アメリシウム燃料棒§7と§r四塩化チタン添加超臨界二酸化炭素§7のみ使用可能§r",
+
+    "tfg.tooltip.machine.heat_battery_1": "§7熱の貯蔵庫§r",
+    "tfg.tooltip.machine.heat_battery_2": "§7高温の液体を入力して温度を高め、その熱エネルギーを使って別の液体を加熱・沸騰させたり、OLAの各種レシピを稼働させます§r",
+    "tfg.tooltip.machine.heat_battery_3": "§7オストラムリニアアクセラレーターへ熱を伝達するには、§rヒートポート§7と§r熱搬入ハッチ§7を正面同士で接するように配置してください§r",
+
+    "tfg.tooltip.machine.smr_fluid_import_hatch": "§7小型モジュール式タービンでのみ使用可能§r",
+
+    "tfg.tooltip.component.blue_ice": "核分裂炉に導入することで耐熱許容量を§90.5§r増加させる",
+    "tfg.tooltip.component.aes_insulation_frame": "核分裂炉に導入することで耐熱許容量を§91§r増加させる",
+    "tfg.tooltip.component.glacian_fur": "核分裂炉に導入することで耐熱許容量を§92§r増加させる",
+    "tfg.tooltip.component.impure_moderate_core_frame": "核分裂炉に導入することで耐熱許容量を§95§r増加させる",
+    "tfg.tooltip.component.moderate_core_frame": "核分裂炉に導入することで耐熱許容量を§910§r増加させる",
+    "tfg.tooltip.component.dry_ice": "マテリアルホルダーが導入されている核分裂炉に搬入することで冷却することができる",
+    "tfg.tooltip.component.refrigerant_pellet": "マテリアルホルダーが導入されている核分裂炉に搬入することで冷却することができる",
+
+    "tfg.tooltip.component.sandy_copper_frame": "ヒートバッテリーの内部に組み込むことで、蓄熱容量を拡張できます。",
+    "tfg.tooltip.component.sandy_beryllium_frame": "ヒートバッテリーの内部に組み込むことで、蓄熱容量を拡張できます。",
+    "tfg.tooltip.tool_behaviour.silk_ice": "§d彫刻家+:§rすべての氷系ブロックを切り出すことができる"
+}

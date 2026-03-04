@@ -1,0 +1,14 @@
+{
+    "___comment1___": "Ключи про грибного эндермена были удалены, потому что они и так переведены",
+    
+    "entity.endermanoverhaul.nether_wastes_enderman": "Эндермен глубоких пещер",
+    "entity.endermanoverhaul.dark_oak_enderman": "Пепельный эндермен",
+    "entity.endermanoverhaul.swamp_enderman": "Замшелый эндермен",
+    "entity.endermanoverhaul.scarab": "Жук",
+
+    "entity.endermanoverhaul.soulsand_valley_enderman": "Светоцвето-подверженный эндермен",
+    "entity.endermanoverhaul.windswept_hills_enderman": "Эндермен лунного моря",
+    "entity.endermanoverhaul.end_enderman": "Баритоно-хоровой эндермен",
+    "entity.endermanoverhaul.end_islands_enderman": "Сопрано-хоровой эндермен",
+    "entity.endermanoverhaul.spirit": "Комета"
+}

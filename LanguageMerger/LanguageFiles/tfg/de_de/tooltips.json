@@ -1,0 +1,28 @@
+{
+    "tfg.tooltip.machine.fission_reactor_mk1_1": "§7Die Kraft des Atoms§r",
+    "tfg.tooltip.machine.fission_reactor_mk1_2": "§7Personalisierbarer Kernreaktor, füge bessere Teile hinzu, verarbeite Stäbe und Mineralien mit ihm und pass auf die Temperatur auf.§r",
+
+    "tfg.tooltip.machine.smt_1": "§eEnergieproduktion:§r Von 2048 bis 32768 EU/t",
+    "tfg.tooltip.machine.smt_2": "§7Benötigt Schmiermittel zum Laufen und kann mittels Booster mehr Energie erzeugen.§r",
+    "tfg.tooltip.machine.smt_3": "§7Kann nur mit der§r KMT Einfuhrluke §7Flüssigkeiten einspeisen.§r",
+
+    "tfg.tooltip.machine.small_fission_reactor_mk1_1": "§7Die Kraft des Atoms in Klein§r",
+    "tfg.tooltip.machine.small_fission_reactor_mk1_2": "§7Kann nur mit§r Americium 241 Brennstäbe§7 und§r TiCl₄-Doped Supercritical CO₂ arbeiten",
+
+    "tfg.tooltip.machine.heat_battery_1": "§7Sie speichert Hitze§r",
+    "tfg.tooltip.machine.heat_battery_2": "§7Erhöhe ihre Temperatur durch die Zufuhr von heißen Flüssigkeiten and benutze die Hitze um andere Flüssigkeiten zu kochen oder Rezepte im LOB durchzulaufen.§r",
+    "tfg.tooltip.machine.heat_battery_3": "§7Um Hitze in einen Linearen Ostrum Beschleuniger zu übertragen, müssen §r Hitzeanschluss§7 und§r Hitze Einfuhrluke§7 sich gegenüber stehen.§r",
+
+    "tfg.tooltip.machine.smr_fluid_import_hatch": "§7Kann nur in einer Kleinen Modularen Turbine verwendet werden§r",
+
+  "tfg.tooltip.component.blue_ice": "Kann in einem Kernreaktor platziert werden um die Höchsttemperatur um §90.5§r zu vergrößern",
+  "tfg.tooltip.component.aes_insulation_frame": "Kann in einem Kernreaktor platziert werden um die Höchsttemperatur um §91§r zu vergrößern",
+  "tfg.tooltip.component.glacian_fur": "Kann in einem Kernreaktor platziert werden um die Höchsttemperatur um §92§r zu vergrößern",
+  "tfg.tooltip.component.impure_moderate_core_frame": "Kann in einem Kernreaktor platziert werden um die Höchsttemperatur um §95§r zu vergrößern",
+  "tfg.tooltip.component.moderate_core_frame": "Kann in einem Kernreaktor platziert werden um die Höchsttemperatur um §910§r zu vergrößern",
+  "tfg.tooltip.component.dry_ice": "Kann einem Kernreaktor zugeführt werden um ihn abzukühlen. Benötigt einen Materialhalter",
+  "tfg.tooltip.component.refrigerant_pellet": "Kann einem Kernreaktor zugeführt werden um ihn abzukühlen. Benötigt einen Materialhalter",
+
+    "tfg.tooltip.component.sandy_copper_frame": "Kann in einer Thermalbatterie platziert werden um die Lagerfähigkeit zu verbessern.",
+    "tfg.tooltip.component.sandy_beryllium_frame": "Kann in einer Thermalbatterie platziert werden um die Lagerfähigkeit zu verbessern."
+}

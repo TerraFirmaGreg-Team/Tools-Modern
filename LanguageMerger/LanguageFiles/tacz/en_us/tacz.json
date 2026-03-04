@@ -1,0 +1,10 @@
+{
+  "tacz.ammo.30_06.name": ".30-06 SLAP Bullet",
+  "tacz.ammo.12g.name": "12 Gauge Shell",
+  
+  "tacz.gun.m700.name": "\"Clutch\" Sniper Rifle",
+
+  "item.tacz.ammo_box.iron": "Steel Ammo Box",
+  "item.tacz.ammo_box.gold": "§9Magnalium Ammo Box",
+  "item.tacz.ammo_box.diamond": "§6Desh Ammo Box"
+}

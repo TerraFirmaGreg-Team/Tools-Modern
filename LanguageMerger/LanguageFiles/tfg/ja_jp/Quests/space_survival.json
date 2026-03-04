@@ -1,0 +1,236 @@
+{
+	"quests.moon": "月",
+	"quests.moon.subtitle": "人の手がまだ及んでいない、人類最後の秘境……それは宇宙！",
+
+	"quests.space_survival.preparations.title": "出発に先立って",
+	"quests.space_survival.preparations.subtitle": "宇宙旅行は準備がすべて！",
+	"quests.space_survival.preparations.desc": "そんなことより早く出発したいですって？その熱意は大事ですが、熱意だけで宇宙を生き抜くことは出来ません。何事にも&9準備&rが必要です。さもなくば、石ひとつ持ち帰ることも出来ずに死んでしまいますよ？\n\n宇宙旅行に最低限必要なものは以下の通りです。\n・宇宙服と呼吸のための空気\n・ロケットとドラム1杯の燃料\n・宇宙から帰還するためのロケット発射台\n・大量の食料と水\n・自衛のための武器や防具",
+
+	"quests.space_survival.food.title": "宇宙食",
+	"quests.space_survival.food.subtitle": "腹が減っては宇宙旅行はできぬ",
+	"quests.space_survival.food.desc": "宇宙旅行のお供、それは&d宇宙食&r！宇宙食は製造が簡単で、かつとても日持ちするという特性があります。&9フリーズドライ果物&rは、おやつに最適です。&b食料袋&rは、地上で食べるような通常の食料を携行するための袋です。&aカロリーペースト&rはいわゆる完全栄養食ですが、味には期待しないように。作成に使う袋は、食べた後に返ってきます。",
+	"quests.space_survival.food.task": "いずれかの宇宙食",
+
+	"quests.space_survival.satellite.title": "宇宙ステーション",
+	"quests.space_survival.satellite.subtitle": "家出したいあなたに",
+	"quests.space_survival.satellite.desc": "インベントリにこれらアイテムを持った状態で宇宙に出発すると、軌道上に&9宇宙ステーション&rを建設することができます。建設は必須でなく、また宇宙ステーションで出来ることもそう多くありません。しかしながら、文字通り何もない(重力すら)ディメンションが欲しければ、建設する価値はあるでしょう。&oスカイダイビング&rで遊ぶこともできますよ！",
+
+	"quests.space_survival.flag.title": "制覇の証",
+	"quests.space_survival.flag.subtitle": "LunaFirmaCraft",
+	"quests.space_survival.flag.desc": "月に着いたのなら、旗を立てるのがお決まりですね。いろいろなデザインの旗があるので、確認しておきましょう。",
+	"quests.space_survival.flag.task": "いずれかの旗",
+
+	"quests.space_survival.chorus.title": "コーラスフルーツ",
+	"quests.space_survival.chorus.subtitle": "エンド？",
+	"quests.space_survival.chorus.desc": "月面において得られる中で、&5コーラスフルーツ&rはかなり重要なアイテムです。コーラスフルーツからは、窒素が入手できます。コーラスプラントを見つけたら、かならず頂上の花を破壊して回収しましょう。さもなくば、コーラスフラワーは手に入りません。コーラスフラワーを電気温室で育てることで、コーラスフルーツを手に入れることができます。これを醸造機に入れるとバイオマスが、発酵槽に入れれば窒素が得られます。バイオマスは、蒸留することで炭素になるため、ロケット燃料の材料にもなります。",
+
+	"quests.space_survival.rover.title": "スペースローバー",
+	"quests.space_survival.rover.subtitle": "脱出用ビークル",
+	"quests.space_survival.rover.desc": "宇宙にはジェットパックを持ち込めません。飛行機は大気圏外では飛びません。馬は生存できません。そんな中で、移動手段があるのでしょうか？\n\n実はあります。&b探査車&rは液体燃料で走る2人乗りのビークルです。内部にインベントリを備えており、加えてラジオも搭載。ラジオでは、現実世界のラジオをストリーミング再生することができます。",
+
+	"quests.space_survival.solar_panels.title": "ソーラーパネル",
+	"quests.space_survival.solar_panels.subtitle": "お天道様は見ているぞ",
+	"quests.space_survival.solar_panels.desc": "月面で使える発電手段はあまり多くありません。そんな中で活躍するのが&eソーラーパネル&rです。\n\n昼間限定にはなりますが、月面のソーラーパネルはノーコストで&932EU/t&r相当の電力を生み出します。地球上での発電量は、月面の8分の1になります。大量に用意して、月に並べておきましょう。",
+	"quests.space_survival.solar_panels.task": "Any FE to EU converter",
+
+	"quests.space_survival.stone_dust_centrifuging.title": "ヘリウム3",
+	"quests.space_survival.stone_dust_centrifuging.subtitle": "声が高くなるやつ",
+	"quests.space_survival.stone_dust_centrifuging.desc.1": "月面には大量の&eヘリウム3&rが存在します。月の石の成分として含まれるヘリウム3は、重要資源のひとつです。主な入手方法は2種類あります。\n\n1.石を粉砕し、遠心分離する。ヘリウム3は瑠璃岩の粉を遠心分離することで確保できます。月面であれば、破砕機で瑠璃岩を無限生産することができます。",
+	"quests.space_survival.stone_dust_centrifuging.desc.2": "2.&9液体採掘機&rで掘る。こちらは簡単ですが、副産物は特に得られません。\n\nヘリウム3の用途はいくつか挙げられますが、特に重要なのは呼吸するための空気の確保でしょう。また、ヘリウム3は電気温室の肥料としても使用でき、コーラスフルーツの成長を加速することができます。さらには、将来核融合炉が完成すれば、核融合発電の燃料にもなります。",
+	"quests.space_survival.stone_dust_centrifuging.task": "いずれかのアイテム",
+
+	"quests.space_survival.compressed_gases.title": "圧縮空気",
+	"quests.space_survival.compressed_gases.subtitle": "純粋酸素を吸うのはやめましょう",
+	"quests.space_survival.compressed_gases.desc": "息が出来ない？宇宙で息をするには、ここに挙げた気体のいずれかが必要です。これら気体は、現実世界ではダイビングにも使われています。\n\n宇宙服に気体を入れるのは、バケツと同じ要領で行えます。また、ガスタンクに空気を入れ、それを「飲む」ことでも、宇宙服への補充は行えます。\n\n地球上でもっとも製造しやすいのは、おそらく&2ナイトロックス&rです。月面で作るなら、&eヘリオックス3&rがおすすめです。\n\n宇宙服にこれらをフル充填すると、およそ&c45分間&r活動することができます。",
+	"quests.space_survival.compressed_gases.task": "いずれかの呼吸用ガス",
+
+	"quests.space_survival.zip_gun.title": "宇宙銃",
+	"quests.space_survival.zip_gun.subtitle": "手持ちのジェットパックといったところ",
+	"quests.space_survival.zip_gun.desc": "宇宙銃は圧縮ガスを撃ち出す銃です。低重力環境において、この銃は移動に必要な推進力を生みだします。宇宙で何か建設をするには、欠かせないアイテムです。",
+
+	"quests.space_survival.air_distributor.title": "活動拠点をつくろう",
+	"quests.space_survival.air_distributor.subtitle": "休日はのんびり別荘で",
+	"quests.space_survival.air_distributor.desc.1": "たまには贅沢がしたくありませんか？地球外で常時使える拠点を作りたいのならば、&6酸素分配機&rを作りましょう。これに空気を搬入すると、密閉空間をその気体で満たしてくれます。この中では、宇宙服がなくとも生存でき、植物も育ち、設置した水が凍ることもありません。\n\n固体ブロックであれば、いかなるブロックも拠点の材料として使用することができます。ただし、エアロックを作成しなければ、出入りの際に空気が逃げてしまいます。",
+	"quests.space_survival.air_distributor.desc.2": "効果範囲内の空間内部は、常時15℃に保たれるため、あらゆる植物が生育できます(電気温室があるなら無関係)。水源も凍結しないので、電気分解によりたやすく酸素を作成することができます。ダイオードのブロックを使えば、内外で電力をやり取りすることもできます。ちょうどクリーンルームと同じような挙動です。",
+
+	"quests.space_survival.oxygen_info.title": "月面拠点の設備",
+	"quests.space_survival.oxygen_info.subtitle": "快適な生活を求めて",
+	"quests.space_survival.oxygen_info.desc": "酸素センサーは、呼吸可能なエリア内ではレッドストーン信号を発生させる装置です。\n\n通気口は、酸素分配機から出た気体を安全に別の部屋にも流せる装置です。\n\n重力制御機は、密閉空間内における重力の大きさを変化させる機械です。ただし、重力制御機は現時点ではやや高コストです。",
+
+	"quests.space_survival.railgun.title": "星間物資輸送",
+	"quests.space_survival.railgun.subtitle": "エンダーチェスト？知らない子ですね……",
+	"quests.space_survival.railgun.desc.1": "&7&bTerraFirmaGreg&rでは、ディメンション間または超長距離の物資輸送に専用のマルチブロック機械が要求されます。\n\nこれらマルチブロック機械は汎用性に優れており、用途に応じて設定を切り替えることで、様々なニーズに応えることができます。\n\n必要とあらば、他の惑星に都度必要な資源を輸送できるうえ、それら機械の管理も一か所で一元管理することができます。",
+	"quests.space_survival.railgun.desc.2": "必要な設備は以下の3種類です。\n\n&6星間レールガン&r:アイテムの送信元となる設備。\n\n&6星間物資受取機&r:発射されたアイテムを受け取り、保管する設備。\n\n&6星間輸送モニタ&r:各設備の&9管理&rを行う設備。各種設定の変更もここから。\n\nこれら3種の設備を用いることで、大量の物資をとても効率的に輸送することができます。",
+	"quests.space_survival.railgun.task": "次の解説を読む",
+
+	"quests.space_survival.interplanetary_railgun.title": "星間レールガン",
+	"quests.space_survival.interplanetary_railgun.subtitle": "送信元の装置",
+	"quests.space_survival.raiinterplanetary_railgunlgun.desc.1": "&6星間レールガン&rからは、物資を&b送信&rすることができます。\n\n遠くの&3受取機&rにアイテムを射出します。受け取り機能は持ちません。",
+	"quests.space_survival.raiinterplanetary_railgunlgun.desc.2": "稼働には、以下の機械が必要です。:\n\n&9エネルギーハッチ&r:必要な電力を供給する装置。レールガンは電気が無いと稼働しません。\n&9弾丸装填機&r:稼働するには、ここに弾丸を入れる必要があります。1回の発射ごとに、1発消費します。\n&9搬入バス&r:射出したいアイテムはここに入れてください。何個でもマルチブロックに組み込むことができます。\n\n&c注意:&rレールガンだけでは、アイテムの射出しか行えません。また、必ずレールガンがあるチャンクをロードしておきましょう。",
+
+	"quests.space_survival.ammo_railgun.title": "レールガンの弾",
+	"quests.space_survival.ammo_railgun.subtitle": "残念ながらノーコストではない",
+	"quests.space_survival.ammo_railgun.desc.1": "レールガンの稼働には、弾丸が必要です。要するに、射出するアイテムを入れるための箱と思ってください。\n\n1回の発射ごとに、1発の弾丸を消費し、弾丸1発あたり&d3スタック&rのアイテムが輸送されます。\n\n&6弾丸装填機&rがなければ、レールガンに弾丸を装填することはできません。\n弾丸装填機への搬入は、手動でも行えますが、自動化することもできます。\n\n継続的にアイテムを輸送していきたいのであれば、弾丸の製造は出来る限り自動化しておきましょう。",
+	"quests.space_survival.ammo_railgun.desc.2": "弾丸のレシピは複数種存在します。\n\n低コストだが製造数が少ないもの、やや高コストだが大量生産が可能なもの、特定の惑星でしか使用できないもの。\n\nどのレシピを使うかは、輸送の規模に応じて決めましょう。",
+
+	"quests.space_survival.input_bus_railgun.title": "レールガン搬入バス",
+	"quests.space_survival.input_bus_railgun.subtitle": "送信元でのみ使うもの",
+	"quests.space_survival.input_bus_railgun.desc.1": "&c必ず先に&6星間輸送モニタ&rのクエストを確認しておいてください。以下は当該クエストの文章を読んでいる前提で書かれています。&r\n\n&d星間輸送モニタ&rの送信側画面のGUIには、Gregtechでおなじみの&9プログラム回路&rのボタンが存在します。\n輸送時の各種ルールは、このプログラム回路のボタンを使って設定します。\n\nモニタの画面でプログラム回路の番号を選ぶと、同じ番号に設定された搬入バスに対する設定を行うことができます。。\n\nすなわち、搬入バスごとにアイテムの行き先を変更できるのです。",
+	"quests.space_survival.input_bus_railgun.desc.2": "&2設定方法:&r\n→搬入バスのGUIを開く\n→プログラム回路を選択する(GT機械と同じ操作)\n\nこの機能を使うことで、例えば次のような設定が可能です。:\n&71番&r→月面拠点行き\n&72番&r→火星拠点行き\n&73番&r→宇宙ステーション行き\n\nというように、回路の設定をしっかり行えば、星間輸送を自由自在に行うことができます。\n\n&9注意&r:&7#tfg:cannot_launch_in_railgun&rのタグが設定されているアイテムは、レールガンで輸送することが出来ません。",
+	"quests.space_survival.input_bus_railgun.task": "いずれかのレールガン搬入バス",
+
+	"quests.space_survival.monitor_railgun.title": "星間輸送モニタ",
+	"quests.space_survival.monitor_railgun.subtitle": "スーパーコンピューター",
+	"quests.space_survival.monitor_railgun.desc.1": "&6星間輸送モニタ&rは、惑星間で物資輸送を行う上で最重要のマシンです。\n\n電力消費の無い1ブロックの機械で、レールガンと受取機があれば自動検知します。",
+	"quests.space_survival.monitor_railgun.desc.2": "一見すると大したことが無い機械に見えますが、その力は無限大。さっそく見ていきましょう。\n\nGUIを開くと、レールガンと受信機の一覧が表示されます。\n表示されている機械には、名前を設定する必要があります。\n\n輸送ルールを設定するには:\n右矢印をクリックし、レールガンを選択する。\n→&a+&rボタンを押してルールを追加する\n→一覧から輸送先の受取機を選択する\n\nレールガンにエネルギーと弾丸が供給されており、受取機のインベントリに空きがあれば、自動でアイテムが発射されます。\n\n次のクエストでは、より高度な機能についての解説を行います。",
+
+	"quests.space_survival.redstone_railgun.title": "レッドストーン制御",
+	"quests.space_survival.redstone_railgun.subtitle": "Minecraft流のルール制御",
+	"quests.space_survival.redstone_railgun.desc": "&6レッドストーン制御&rは、単純ながらとても便利な機能です。\n\n&6送信側&rルールの画面でレッドストーン制御をオンにすると、&9搬入バス&rにレッドストーン信号が送られているときのみ稼働するように設定することができます。\n\n&3受信側&rルールの画面では、&9搬出バス&rがレッドストーン信号を受け取っているときのみアイテムを受け取れるよう設定することができます。\n\nこの機能を使いこなすには、あなたのレッドストーン回路に関する知識の量が問われます。\nAE2のレベルエミッターや、CreateによるRS信号制御、あるいはバニラの回路に至るまであらゆるものと連携し、状況に応じたアイテム輸送を可能とします。",
+	"quests.space_survival.redstone_railgun.task": "理解した",
+
+	"quests.space_survival.robot_arm_railgun.title": "正確な輸送",
+	"quests.space_survival.robot_arm_railgun.subtitle": "実は……このModpackはGregtechがメインのパックなのです！",
+	"quests.space_survival.robot_arm_railgun.desc": "&6アイテムルール&rは、おおよそ&9GTのロボットアーム&rにおける設定と同じものです。\n&6送信側&rルールの画面でのみ設定することができます。\n\nこれをオンにしていると、レールガンは必ず設定した個数ずつアイテムを送るようになります。\n\n&2設定方法:&r\n→&dEMI&rの画面からアイテムを枠にドラッグする\n→&a左右クリック&rで個数を設定する\n→ブックマーク機能を使うことで、設定時にアイテムを探しやすくなります\n\n正確さが要求される場面で、この機能はとても有用です。たとえば、自動クラフトなど。",
+	"quests.space_survival.robot_arm_railgun.task": "理解した",
+
+	"quests.space_survival.delay_railgun.title": "時間差輸送",
+	"quests.space_survival.delay_railgun.subtitle": "ちょっと待ちたい時のために",
+	"quests.space_survival.delay_railgun.desc": "&6遅延ルール&rは、アイテム輸送のタイミングを制御したい時に使う機能です。\n\n&2送信側設定:&r\n&9搬入バス&rに新たなアイテムが入らなくなってから、一定時間後に輸送が行われるようにできる。\n次々アイテムが搬入される場合に、あまりにも高い頻度でアイテムが発射されないようにするための設定です。\n\n&2受信側設定:&r\n搬入バスに空きができてから、一定時間後にアイテムが送られてくるように設定できる。\n動作が遅いシステムに対する輸送を行う際に、アイテムが溢れないようにするための設定です。\n\n弾丸の消費を抑えたり、稼働が遅いシステムへのアイテム搬入を遅らせたりする際に、とても有用な機能です。",
+	"quests.space_survival.delay_railgun.task": "理解した",
+
+	"quests.space_survival.receiver_railgun.title": "星間物資受取機",
+	"quests.space_survival.receiver_railgun.subtitle": "受信機",
+	"quests.space_survival.receiver_railgun.desc.1": "&6星間物資受取機&rでは、レールガンから射出されたアイテムを受け取ることができます。\n\nこちらは小型のマルチブロックで、稼働にエネルギーを必要としません。",
+	"quests.space_survival.receiver_railgun.desc.2": "物資受取機には&9搬出バス&rを自由に取り付けることができ、その分大量のアイテムを同時に受け取り・搬出することができます。\n\n組み立ても簡単で、本体と必要な部品を設置し、搬出バスを取り付けるだけです。\n\n稼働コスト0で動きますが、必ず設置されているチャンクをロードしておきましょう。",
+
+	"quests.space_survival.output_bus_railgun.title": "レールガン搬出バス",
+	"quests.space_survival.output_bus_railgun.subtitle": "受信側でのみ使うもの",
+	"quests.space_survival.output_bus_railgun.desc.1": "&c必ず先に&6レールガン搬入バス&rのクエストを確認しておいてください。以下は当該クエストの文章を読んでいる前提で書かれています。&r\n\n&6レールガン搬入バス&rと同様に、&3搬出バス&rにも&9プログラム回路&rの番号を設定することができます。",
+	"quests.space_survival.output_bus_railgun.desc.2": "この機能の用途は主に2つあります。&r\n\n&9輸送先の設定:\nどの搬出バスにアイテムが送られるか設定できる。\n設定方法:\n搬出バスを開き、番号を設定する\n→&6星間輸送モニタ&rの送信側設定で、送信先を設定した番号に設定する\n\n&9状態ルール:&r\n条件を満たさないときに、アイテムの輸送を&c停止&rするよう設定できる。\nこの設定は、星間輸送モニタの受信側設定からのみ行うことができます。\n回路の番号ごとに、異なるルールを設定できます。",
+	"quests.space_survival.output_bus_railgun.desc.3": "3つ上のクエストでは、各種ルールの解説と、それらの用途がみられるので、確認しておきましょう。",
+	"quests.space_survival.output_bus_railgun.task": "いずれかのレールガン搬出バス",
+
+	"quests.space_survival.soulbound.title": "宇宙で死んでしまったら",
+	"quests.space_survival.soulbound.subtitle": "スポーン地点を求めて三千里",
+	"quests.space_survival.soulbound.desc.1": "TerraFirmaGregでは、あらゆるディメンションをリスポーン地点に設定することができます。しかし、月面にリスポーンしてしまった場合、近くに予備の宇宙服が無ければ、大変なことになります。\n\n月面をスポーン地点にする場合は、必ず酸素のある場所をリスポーン地点に設定しましょう。さもなければ、復活しても窒息でリスキルされ続けることになります。(一応、死ぬまでに多少時間があるため、ベッドを破壊して初期スポーン地点に戻ることは可能です)",
+	"quests.space_survival.soulbound.desc.2": "また、&bソウルパール&rで宇宙服を強化することで、死んでも宇宙服が手元に残るようにすることができます。\n\n月面にいる特殊なエンダーマンを倒すことで、ソウルパールを入手できます。\n\nTFGは工業パックなのに、魔術みたいな要素がありますね。",
+
+	"quests.mars": "火星",
+	"quests.mars.subtitle": "テラフォーマークラフト",
+
+	"quests.space_survival.mars_desert.title": "火星の砂漠",
+	"quests.space_survival.mars_desert.subtitle": "砂の世界",
+	"quests.space_survival.mars_desert.desc": "火星の大部分は砂漠に覆われており、小虫と&6サンドワーム&rを除けば生物はほとんどいません。どこか安全な場所があればあればいいのですが……",
+	"quests.space_survival.mars_desert.task": "火星砂漠バイオームに行く",
+
+	"quests.space_survival.sandworm.title": "サンドワーム",
+	"quests.space_survival.sandworm.subtitle": "SHAI-HULUD",
+	"quests.space_survival.sandworm.desc": "砂漠であまり大きい音を立てると、&6サンドワーム&rという強敵が現れることがあります。これはボスというよりも災害に近いものであるので、遭遇してしまったら逃げましょう。\n\n頭に一定回数&b爆発ダメージ&rを与えることができれば、しばらくの間サンドワームは大人しくなります。\n\nなお、サンドワームには地形破壊能力がなく、&6プレイヤーの足音&rにのみ反応するので、他の野生生物や、乗り物、列車などに対しては反応しません。",
+
+	"quests.space_survival.spice.title": "オストラムが混じった砂",
+	"quests.space_survival.spice.subtitle": "とても見つけにくいアイテム",
+	"quests.space_survival.spice.desc": "火星砂漠バイオームには、&dオストラムが混じった砂&rという回収不可ブロックが存在します。これらは小さな塊として砂漠に生成されます。破壊することは可能なので、坂などに生成されていても、オストラムハーベスターを設置するための場所は確保できます。望遠鏡があれば、探しやすくなります。\n\nまた、オストラムを利用するには、手に入れたオストラムを拠点に持ち帰るための手段も確保する必要があります。\n\nオストラムは&5EV&r時代に必要となる資源であるほか、核分裂炉の稼働にも必要です。",
+	"quests.space_survival.spice.task": "オストラムが混じった砂を見つける",
+
+	"quests.space_survival.mars_islands.title": "火星の森",
+	"quests.space_survival.mars_islands.subtitle": "きょ、恐竜！？",
+	"quests.space_survival.mars_islands.desc": "砂漠に覆われた火星には、時折小さなオアシスが存在しており、そこには生物や木々が見られます。拠点を作るのであれば、ここに作るとよいでしょう。砂漠よりもずっと生活しやすいです。",
+
+	"quests.space_survival.semiheavy_ammoniacal_water.title": "アンモニア交じりの半重水",
+	"quests.space_survival.semiheavy_ammoniacal_water.subtitle": "これ、飲んでいいの？",
+	"quests.space_survival.semiheavy_ammoniacal_water.desc": "火星の水は&b半重水&r、すなわち重水素を含みます。また、&aアンモニア&rを多く含んでいるため、火星の低温でも液体のまま存在しています。\n\n一応飲むこともできますが、出来れば蒸留して普通の水にした方がよいでしょう。また、水源ブロックはバケツで移動でき、通常の水と同様に無限化することもできます。\n\nさらに、この水を遠心分離することで塩化アンモニウムが得られ、それをさらに電解槽に入れれば窒素が得られます。すなわち、この水さえあればニトロックスが作成できるのです。",
+
+	"quests.space_survival.heavy_ammoniacal_water.title": "アンモニア交じりの重水",
+	"quests.space_survival.heavy_ammoniacal_water.subtitle": "アンモニア水のすごいやつ",
+	"quests.space_survival.heavy_ammoniacal_water.desc": "火星で液体採掘機を使うと、&2アンモニア交じりの重水&rが得られます。この水は砂漠では採掘できず、森林地帯でのみ入手できます。\n\nこの水からは重水が入手でき、重水は核分裂炉の稼働に使用できます。",
+
+	"quests.space_survival.mars_poles.title": "火星の極点にて",
+	"quests.space_survival.mars_poles.subtitle": "二酸化炭素も凍る最果て",
+	"quests.space_survival.mars_poles.desc": "実は、火星にはもっと寒い場所があります。\n\nZ座標が15000以上、または-5000以下の場所に行ってみましょう。こんな場所に生物がいたとしたら、興味深い特徴を持っているかも……",
+
+	"quests.space_survival.glacian_ram.title": "極点のヒツジ",
+	"quests.space_survival.glacian_ram.subtitle": "零下110度を生きる生物",
+	"quests.space_survival.glacian_ram.desc": "&d氷界雄ヒツジ&r、&d雌ヒツジ&rの2種類の動物は、火星の極地方にしか生息しません。拠点に1対持ち帰りたくはありませんか？\n\nとはいえ、超長距離移動になるため、持ち帰るのも一苦労。そんな時には、AE2の空間セルを使いましょう。",
+	"quests.space_survival.glacian_ram.task": "氷界ヒツジを見つける",
+
+	"quests.space_survival.glacian_wool.title": "氷塊羊毛",
+	"quests.space_survival.glacian_wool.subtitle": "すごい断熱材",
+	"quests.space_survival.glacian_wool.desc": "地球のヒツジと異なり、氷界ヒツジを倒しても普通の羊毛しか得られません。友好度を上げ、毛刈りをすることでのみ、&d氷塊羊毛&rを入手することができます。\n\nタングステンスチールの宇宙服を一式作るには、合計7個の氷塊羊毛が必要です。また、核分裂炉の部品として使うことで、最高温度を大幅に引き上げることができます。\n\n一応、紡錘を使えば普通の糸も取れますが、そんな使い方をする人は恐らくいないでしょう。",
+
+	"quests.space_survival.t2_space_suit.title": "タングステンスチールの宇宙服",
+	"quests.space_survival.t2_space_suit.subtitle": "最強の宇宙服",
+	"quests.space_survival.t2_space_suit.desc": "この宇宙服があれば、&b極低温&r、&c極高温&rのいずれにも対応できます。さもなくば、&6金星&rや&5水星&rでは、足を踏み入れた途端に死んでしまうでしょう。\n\nちなみに、防御力と酸素の容量も上昇しています。",
+
+	"quests.space_survival.mars_tapping.title": "赤い樹液と歪んだ樹液",
+	"quests.space_survival.mars_tapping.subtitle": "樹液集めはお好き？",
+	"quests.space_survival.mars_tapping.desc": "真紅のキノコ、歪んだキノコからは、それぞれ専用の樹液が得られます。\n\n&9ヨウ素&rを作るには、両方の樹液が必要です。ただし、両者は多くの場合別々の場所に生えているため、ある程度探索も必要になるでしょう。真紅のキノコは主に東側で、歪んだキノコは西側でみられます。それらに対応したエンダーマンを倒すことでも入手することができます。\n\nちなみに、樹液はGregtechのパイプでも集めることができます。\n\n&9おまけ:&r真紅のキノコからはカヌーを、歪んだキノコからはボートやスループを作成することができます。",
+
+	"quests.space_survival.iodine.title": "ヨウ素",
+	"quests.space_survival.iodine.subtitle": "キノコ化学のはじまり",
+	"quests.space_survival.iodine.desc": "歪んだキノコ、真紅のキノコの樹液を混ぜたものに、火星の大気を蒸留して得られるクリプトンを加え、それを核分裂炉の熱で熱することにより、ヨウ素を手に入れることができます。\n\nこの加工には時間がかかりますが、使用量は多くないので心配ご無用。Ad Astraをさらに進めれば、もっと簡単にヨウ素を作れるようになります。",
+
+	"quests.space_survival.mars_crops.title": "火星の植物",
+	"quests.space_survival.mars_crops.subtitle": "こんなもので栄養を！？",
+	"quests.space_survival.mars_crops.desc": "火星では6種の新たな作物が手に入ります。うち3種は果物、2種は野菜、1種は穀物です。地球上の作物と同様の栄養素が含まれており、同様の料理を作ることができます。\n\n一部の作物は生で食べると毒があるため、必ず調理してから食べましょう。\n\n詳しい育て方については、ガイドを参照してください。FirmalifeやGregtechの温室でも栽培することができます。",
+	"quests.space_survival.mars_crops.task": "いずれかの種",
+
+	"quests.space_survival.bulbkin_pie.title": "火星の食べ物",
+	"quests.space_survival.bulbkin_pie.subtitle": "ハンティングの時間",
+	"quests.space_survival.bulbkin_pie.desc": "ラプターの卵からは、砂糖の一種が得られます。スニッファーの卵からはクリームが得られます。\n\n&eヒカリカボチャのパイ&rは、火星系食料の中では最良のものです。4種の栄養素を多く含みますが、その分クラフトも大変です。\n\n&9おまけ:&rヒカリカボチャのぶつ切りとアルファキノコのブロックを混ぜることで、グロウストーンダストが得られます。グロウストーンは食べられません。",
+
+	"quests.space_survival.soarer.title": "ソアラー",
+	"quests.space_survival.soarer.subtitle": "高い所に行きたい人へ",
+	"quests.space_survival.soarer.desc": "もちろん、飛行機は火星で飛びたってくれません。また、宇宙服にジェットパックを搭載することはできません。では、空を飛ぶにはどうすれば良いのでしょうか。\n\n火星には&4ソアラー&rという生き物が生息しています。これらは生魚を与えることで飼いならすことができ、サドルを装備させることで、空を飛ぶ乗り物として使うことができます。\n\nただし、ソアラーは長時間飛行することが出来ません。画面左上の翼型のゲージが、飛行できる残り時間を表しています。（生魚を与えることで再び飛ぶまでの時間を短縮できます。）\n\nソアラーは長距離移動に適しており、またソアラーに乗っていればサンドワームにも襲われません。\n\n&9注意&r:ソアラーは&6金星&rのような極端な高温には耐えられません。",
+	"quests.space_survival.soarer.task": "ソアラーを見つける",
+
+	"quests.space_survival.surfer.title": "サーファー",
+	"quests.space_survival.surfer.subtitle": "泳ぎたい人へ",
+	"quests.space_survival.surfer.desc": "&bサーファー&rは水場で見られる生物です。陸で休んでいるところに忍び寄り、生魚を与えることで、飼いならすことができます。サドルを装備させれば、水中を高速で移動する乗り物になります。\n\n火星でこの特性が活かせる場は殆どありませんが、AEの空間セルを使うことで、この生物を別ディメンションに移動することができます。いずれ、この特性が役立つ星に向かうことになるでしょう……\n\n&9注意&r:サーファーは&6金星&rのような極端な高温には耐えられません。",
+	"quests.space_survival.surfer.task": "サーファーを見つける",
+
+	"quests.space_survival.charger.title": "チャージャー",
+	"quests.space_survival.charger.subtitle": "チャージングGO！",
+	"quests.space_survival.charger.desc": "&bチャージャー&rは、各地を徘徊している大型の緑色の草食生物です。火星産の作物で手なずけられますが、&cビートルート&rだけは与えないよう注意してください。\n\n手なずけた後はサドルや防具を装着でき、防御力を高められます。スペースバーを長押しすると一直線に突進し、追加ダメージとノックバックを与えられます。また、&e特殊能力&rキー（初期設定&9C&r）で頭突き攻撃を繰り出せます。\n\n火星産の作物を与えることで体力を回復させることができます。\n\n&9注意&r：チャージャーは、&6金星&rのような極端な高温には耐えられません。",
+	"quests.space_survival.charger.task": "Find a Charger",
+
+	"quests.space_survival.snatcher.title": "スナッチャー",
+	"quests.space_survival.snatcher.subtitle": "サッ",
+	"quests.space_survival.snatcher.desc": "&bスナッチャー&rは、プレイヤーのアイテムをこっそり盗む友好的な生物です。攻撃すれば盗まれたアイテムを取り戻せますし、生魚を与えれば手なずけることも可能です。\n\n手なずけた後は背負って持ち運べるようになり、木のチェストを装備させることでインベントリ容量を少し増やせます。&e特殊能力&rキー（初期設定&9C&r）で投げると、近くのチェストから中身を盗んで持ち帰ってきます。\n\n生魚を追加で与えると体力が回復します。\n\n&9Note&r：スナッチャーは、&6金星&rのような極端な高温には耐えられません。",
+	"quests.space_survival.snatcher.task": "Find a Snatcher",
+
+	"quests.space_survival.sniffer_or_wraptor.title": "スニッファーとラプター",
+	"quests.space_survival.sniffer_or_wraptor.subtitle": "ウシとニワトリ",
+	"quests.space_survival.sniffer_or_wraptor.desc": "&2スニッファー&rと&dラプター&rは火星の各地に生息しており、家畜化することで肉や卵が得られます。さらに、その毛皮や羽根は重要な資源となります。\n\n火星植物ならなんでもエサにすることができ、地球の生物と同様に機械で餌やりを自動化することもできます。",
+	"quests.space_survival.sniffer_or_wraptor.task_1": "スニッファーを見つける",
+	"quests.space_survival.sniffer_or_wraptor.task_2": "ラプターを見つける",
+
+	"quests.space_survival.mars_nest.title": "大きな藁の巣箱",
+	"quests.space_survival.mars_nest.subtitle": "巨大な卵には巨大な巣を",
+	"quests.space_survival.mars_nest.desc": "藁の集め方は、流石に覚えていますよね？\n\n地表の草を刈ることで、歪んだ藁・真紅の藁が手に入ります。\n\n地球上の鳥と同じように、スニッファーやラプターが卵を産むには巣箱が必要です。それも、とびきり大きな巣箱が。",
+	"quests.space_survival.mars_nest.task": "いずれかの巣箱",
+
+	"quests.space_survival.mineral_rich_wool.title": "資源豊富な毛皮",
+	"quests.space_survival.mineral_rich_wool.subtitle": "永遠の砂嵐の中で",
+	"quests.space_survival.mineral_rich_wool.desc": "スニッファー、ラプターの両動物は、飼いならすことで毛刈りが可能になります。いずれの動物からも、特殊な毛皮を入手することができます。(デプロイヤーにハサミを持たせることで自動回収もできます。)\n\nEBFでこの毛皮を製錬すると、アルカリアースシリケートが入手できます。また、&6バイオAES強化Rポリウレタンフォーム&rの作成にも必要です。",
+
+	"quests.space_survival.aes_insulation.title": "多層断熱保護剤",
+	"quests.space_survival.aes_insulation.subtitle": "アイスクリームサンドイッチじゃないよ",
+	"quests.space_survival.aes_insulation.desc": "&1IV&r時代にいくつかの部品の素材として使います。",
+
+	"quests.space_survival.mars_shields.title": "強力な盾",
+	"quests.space_survival.mars_shields.subtitle": "金属盾の時代は終わり",
+	"quests.space_survival.mars_shields.desc": "&3強化シールド&rは、攻撃のダメージを反射する効果を持ちます。バニラの棘の鎧エンチャントとおおよそ同じ効果です。クラッシャー、イーターの素材から作られます。\n\n&5穢れた盾&rは、攻撃者をランダムにテレポートさせる効果を持ちます。敵から距離を取れる点で有用ですが、移動先がランダムなので、たまに真後ろにテレポートする場合があります。地下にいるケイブエンダーマンから、エンダーマンの歯は入手できます。\n\n&4リコシールド&rは、攻撃のダメージを吸収し、ダメージ効果のある衝撃波として周囲に放出する盾です。材料の動力コアは、火星の地中にいるゴーレムから、低確率で入手できます。",
+	"quests.space_survival.mras_shields.task": "いずれかの盾",
+
+
+	"quests.space_survival.mercury.title": "ここが、&5水星&r……？",
+	"quests.space_survival.mercury.subtitle": "未完成の大地",
+	"quests.space_survival.mercury.desc": "&5水星&rの要素については、ver0.12の&1IV&rリワークをお待ちください。",
+	"quests.space_survival.mercury.task": "水星に到達する",
+
+	"quests.space_survival.venus.title": "ここが、&6金星&r……？",
+	"quests.space_survival.venus.subtitle": "酸降り注ぐ濃雲の世界",
+	"quests.space_survival.venus.desc": "&5金星&rの要素については、ver0.12の&1IV&rリワークをお待ちください。",
+	"quests.space_survival.venus.task": "金星に到達する"
+}

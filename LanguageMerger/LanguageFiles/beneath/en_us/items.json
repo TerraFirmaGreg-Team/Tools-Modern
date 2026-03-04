@@ -1,7 +1,7 @@
 {
-  "item.beneath.blackstone_brick": "Pyroxenite Brick",
-  "item.beneath.crackrack_rock": "Keratophyre Rock",
-  "item.beneath.cursecoal": "Anthracite",
-  "item.beneath.cursed_hide": "Lavaproof Hide",
-  "item.beneath.loose_blackstone": "Loose Pyroxenite"
+	"item.beneath.cursed_hide": "Lavaproof Hide",
+	"item.beneath.blackstone_brick": "Pyroxenite Brick",
+	"item.beneath.cursecoal": "Anthracite",
+	"item.beneath.crackrack_rock": "Keratophyre Rock",
+	"item.beneath.loose_blackstone": "Loose Pyroxenite"
 }

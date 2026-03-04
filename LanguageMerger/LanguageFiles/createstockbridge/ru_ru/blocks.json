@@ -1,0 +1,8 @@
+{
+    "block.createstockbridge.ae_bridge": "AE Мост-хранилище",
+
+    "gui.createstockbridge.address": "Адрес пакета:",
+    "gui.stockbridge.remote_items": "Предметы системы Create Stock",
+
+    "tooltip.stockbridge.remote_item": "Предмет в удалённой системе"
+}

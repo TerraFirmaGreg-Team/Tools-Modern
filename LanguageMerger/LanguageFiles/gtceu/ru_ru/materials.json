@@ -1,0 +1,87 @@
+{
+	"material.gtceu.ice": "Ледяная слякоть",
+	"material.gtceu.damascus_steel": "Свинячья сталь",
+	"material.gtceu.air": "Земной воздух",
+	"material.gtceu.liquid_air": "Сжиженный земной воздух",
+
+	"__comment1": "Sorry GT, big bang theory doesn't count as a scifi reference",
+
+	"material.gtceu.cooperite": "Куперит",
+	"material.gtceu.rock_salt": "Сильвин",
+	"material.gtceu.salt": "Галит",
+	"material.gtceu.quartzite": "Кварц",
+
+	"material.gtceu.armalcolite": "Армалколит",
+	"material.gtceu.desh": "Деш",
+	"material.gtceu.ostrum": "Острум",
+	"material.tfg.calorite": "Калорит",
+	"material.tfg.etrium": "Этриум",
+
+	"material.gtceu.tarkianite": "Таркианит",
+	"material.gtceu.thorium": "Торианит",
+	"material.gtceu.dimethylbenzene": "Ксилол",
+
+	"material.gtceu.aluminium_silicate": "Алюмосиликат",
+
+	"material.gtceu.rocket_alloy_t1": "Красный алюминиево-стальной ракетный сплав",
+	"material.gtceu.rocket_alloy_t2": "ASM 4914 титановый ракетный сплав",
+	"material.gtceu.rocket_alloy_t3": "45-Ti Вольфрамо-стальной ракетный сплав",
+	"material.gtceu.vitrified_asbestos": "Остеклованный асбест",
+	"material.gtceu.liquid_carbon_dioxide": "Сжиженный углекислый газ",
+
+	"__comment2": "Nuclear Material",
+
+	"material.gtceu.hot_debrominated_brine": "Hot Debrominated Brine",
+	"material.gtceu.hydrogen_iodide": "Йодоводород",
+	"material.gtceu.dense_steam": "ПВД",
+	"material.gtceu.radioactive_steam": "Радиоактивный пар",
+	"material.gtceu.radioactive_waste": "Радиоактивные продукты",
+	"material.gtceu.irradiated_steam": "Облученный пар",
+	"material.gtceu.heavy_water": "Тяжёлая вода",
+	"material.gtceu.uranium_waste": "Урановые отходы",
+	"material.gtceu.nuclear_waste": "Ядерные отходы",
+	"material.gtceu.dirty_hexafluorosilicic_acid": "Грязная гексафторокремниевая кислота",
+	"material.gtceu.martian_sludge": "Марсианская слякоть",
+	"material.gtceu.dioxygen_difluoride": "Диоксифторид",
+	"material.gtceu.tritiated_water": "Тритиевая вода",
+	"material.gtceu.raw_rich_brine": "Raw Rich Brine",
+	"material.gtceu.hot_iodine_brine": "Hot Iodine Brine",
+	"material.gtceu.brominated_iodine_vapor": "Brominated Iodine Vapor",
+	"material.gtceu.basic_bromine_exhaust": "Basic Bromine Exhaust",
+	"material.gtceu.dirty_flibe": "Dirty FLiBe",
+	"material.gtceu.flibe": "FLiBe",
+	"material.gtceu.hot_flibe": "Hot FLiBe",
+	"material.gtceu.raw_brine": "Raw Brine",
+	"material.gtceu.hot_brine": "Hot Brine",
+	"material.gtceu.hot_chlorinated_brominated_brine": "Hot Chlorinated Brominated Brine",
+	"material.gtceu.brominated_chlorine_vapor": "Brominated Chlorine Vapor",
+	"material.gtceu.acidic_bromine_solution": "Acidic Bromine Solution",
+	"material.gtceu.concentrated_bromine_solution": "Concentrated Bromine Solution",
+	"material.gtceu.debrominated_brine": "Debrominated Brine",
+	"material.gtceu.acidic_bromine_exhaust": "Acidic Bromine Exhaust",
+	"material.gtceu.hot_alkaline_debrominated_brine": "Hot Alkaline Debrominated Brine",
+
+	"material.gtceu.lithium_carbonate": "Lithium Carbonate",
+	"material.gtceu.lithium_fluoride": "Lithium Fluoride",
+	"material.gtceu.tetrafluoroberyllate": "Tetrafluoroberyllate",
+	"material.gtceu.thorium_230": "Торий 230",
+	"material.gtceu.thorium_232": "Торий 232",
+	"material.gtceu.tbu-232_pellet": "TBU 232 Pellet",
+	"material.gtceu.plutonium_pellet": "Plutonium Pellet",
+	"material.gtceu.uranium_pellet": "Uranium Pellet",
+	"material.gtceu.thorium_pellet": "Thorium Pellet",
+	"material.gtceu.ostrum_iodide": "Йодид острума",
+	"material.gtceu.americium": "Америций 243",
+	"material.gtceu.uranium": "Уран 238",
+	"material.gtceu.plutonium": "Плутоний 239",
+
+	"material.gtceu.residual_radioactive_concoction": "Остаточная радиоактивная смесь",
+	"material.gtceu.regolith_vapor": "Реголитовый пар",
+
+	"material.gtceu.dense_ostrum_vapor": "Плотные пары острума",
+	"material.gtceu.lightweight_ostrum_vapor": "Легкие пары острума",
+	"material.gtceu.ostrum_vapor": "Пары острома",
+
+
+	"material.gtceu.blue_steel": "Синяя сталь"
+}

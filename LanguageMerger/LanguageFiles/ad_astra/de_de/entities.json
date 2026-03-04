@@ -1,0 +1,9 @@
+{
+	"entity.ad_astra.corrupted_lunarian": "Mondzombie",
+	"entity.ad_astra.martian_raptor": "Skelettraptor",
+
+	"entity.ad_astra.tier_1_rocket": "R-Aluminostahlrakete",
+	"entity.ad_astra.tier_2_rocket": "ASM 4914 Titanrakete",
+	"entity.ad_astra.tier_3_rocket": "45-Ti Wolframstahlrakete",
+	"entity.ad_astra.tier_1_rover": "Rover"
+}

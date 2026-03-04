@@ -1,0 +1,15 @@
+{
+    "item.create.netherite_diving_helmet.tooltip.summary": "Разом з _Blue Steel Backtank_, це може захистити вас від _extreme heat_. Щоб бути ефективними, _Legs and Feet_ повинні бути вкриті _Blue Steel Diving Equipment_, також.",
+    "item.create.netherite_backtank": "Бактанк із Синьої Сталі",
+    "item.create.netherite_diving_helmet": "Шолом для Дайвінгу із Синьої Сталі",
+    "item.create.netherite_diving_boots": "Черевики для Дайвінгу із Синьої Сталі",
+    "item.create.copper_sheet": "Мідна пластина",
+    "item.create.brass_sheet": "Латунна пластина",
+    "item.create.golden_sheet": "Золотий лист",
+    "item.create.crushed_raw_gold": "Очищена Золота Руда",
+    "item.create.crushed_raw_copper": "Очищена Мідна Руда",
+    "item.create.crushed_raw_zinc": "Очищена Цинкова Руда",
+    "item.create.crushed_raw_silver": "Очищена Срібна Руда",
+    "item.create.crushed_raw_tin": "Очищена Олов'яна Руда",
+    "item.create.crushed_raw_lead": "Очищена Свинцева Руда"
+}

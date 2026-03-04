@@ -1,0 +1,17 @@
+{
+    "item.create.netherite_diving_helmet.tooltip.summary": "Together with a _Blue Steel Backtank_, this can protect you from _extreme heat_. To be effective, _Legs and Feet_ have to be covered in a _Blue Steel Diving Equipment_, too.",
+    "item.create.netherite_backtank": "青鋼のバックタンク",
+    "item.create.netherite_diving_helmet": "青鋼の潜水ヘルメット",
+    "item.create.netherite_diving_boots": "青鋼の潜水ブーツ",
+
+    "item.create.copper_sheet": "銅プレート",
+    "item.create.brass_sheet": "真鍮プレート",
+    "item.create.golden_sheet": "金プレート",
+
+    "item.create.crushed_raw_gold": "洗浄した金鉱石",
+    "item.create.crushed_raw_copper": "洗浄した銅鉱石",
+    "item.create.crushed_raw_zinc": "洗浄した亜鉛鉱石",
+    "item.create.crushed_raw_silver": "洗浄した銀鉱石",
+    "item.create.crushed_raw_tin": "洗浄した錫鉱石",
+    "item.create.crushed_raw_lead": "洗浄した鉛鉱石"
+}
