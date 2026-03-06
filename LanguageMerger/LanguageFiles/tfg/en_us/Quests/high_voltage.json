@@ -42,7 +42,7 @@
 
     "quests.high_voltage.rutile_loop.title": "Almost Titanium",
     "quests.high_voltage.rutile_loop.subtitle": "...means it WASN'T Titanium!",
-    "quests.high_voltage.rutile_loop.desc": "Titanium requires a slightly more &binvolved&r process than the previous materials to process. To get started, you'll need &aRutile&r, which can be obtained by processing &aBauxite&r, &aIlmenite&r, &aAluminium&r, &aArmalcolite&r and &aDesh&r, which can only be found on &dThe Moon&r.\n\nOnce you've gotten enough &5Rutile&r, your journey to &6Titanium&r continues in the next quest. There's no need to rush things.\n\n&9Tip:&r Ore processing for &aBauxite&r is ridiculously good! Including the &3Thermal Centrifuge&r step easily &6triples&r your &aRutile&r yield.",
+    "quests.high_voltage.rutile_loop.desc": "Titanium requires a slightly more &binvolved&r process than the previous materials to process. To get started, you'll need &aRutile&r, which can be obtained by processing &aIlmenite&r that you can get from &aBauxite&r, &aAluminium&r, &aArmalcolite&r and &aDesh&r, which can be found in massive quantities on &dThe Moon&r.\n\nOnce you've gotten enough &5Rutile&r, your journey to &6Titanium&r continues in the next quest. There's no need to rush things.\n\n&9Tip:&r Ore processing for &aBauxite&r is ridiculously good! Including the &3Thermal Centrifuge&r step easily &6triples&r your &aRutile&r yield.",
 
     "quests.high_voltage.rutile_loop_2.title": "Almost Titanium²",
     "quests.high_voltage.rutile_loop_2.subtitle": "Is it titanium yet?",
@@ -302,5 +302,9 @@
     "quest.high_voltage.ultimet.title": "Ultimet",
     "quest.high_voltage.ultimet.subtitle": "Ultimet is the ultimate",
     "quest.high_voltage.ultimet.desc": "The &dUltimet&r turbine rotor is a high-performance material, providing excellent &eSpeed&r for your &bDrill&r or &bWrench&r, and makes for a &eTurbine Rotor&r with very good &bEfficiency&r, especially if you are not producing large amounts of fuel or want to build additional &eSteam Turbines&r.\n\nThis alloy is also mandatory for progressing toward your new &aCircuits&r, so even if you do not intend to craft the tools, you will still need to produce it. Keep in mind that &dUltimet&r ingots can also be cooled using a &dChemical Bath&r.",
-    "quest.high_voltage.ultimet.task": "Any Ultimet Tool"
+    "quest.high_voltage.ultimet.task": "Any Ultimet Tool",
+
+    "quests.high_voltage.alumina_board.subtitle": "May be easier, or not",
+    "quests.high_voltage.alumina_board.desc": "The &bCopper Bonded Alumina Circuit Boards&r are a direct upgrade over the old &7Silicon Carbide&r ones. With them, you can craft twice as many &eCeramic Circuit Boards&r while skipping the more complex process of producing &7Silicon Carbide&r.\n\nThis option is entirely optional, and it is up to you to decide whether you want to invest the resources into this upgrade.\n\nTake note that the next tier, &aChromium Bonded BeO&r, is not yet available in the game."
+
 }

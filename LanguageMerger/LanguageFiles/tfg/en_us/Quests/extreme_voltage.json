@@ -368,5 +368,24 @@
     "quests.extreme_voltage.light_ostrum_vapor.desc": "With the help of &6Lightweight Ostrum Vapor&r, you can begin producing infinite ores, especially those required for the &cFission Line&r. There are three tiers of infinite ores:\n\n&eCircuit 1&r is not self-sufficient but can still be helpful if you are truly tired of mining.\n\n&eCircuit 2&r is &dThorium&r positive, meaning that simply by running your &cFission Line&r, you will produce more &dThorium&r than you consume.\n\n&eCircuit 3&r is the final and best tier, where you generate more resources than are required to produce the ores themselves; you become net positive in &dThorium&r and &aUraninite&r, allowing you to fully automate the &cFission Line&r on &4Mars&r for infinite resources, &bNano CPU&r, and everything needed to run &eFission Energy&r on &2Earth&r.",
 
     "quests.extreme_voltage.schematic_terminal.subtitle": "Whenever you need to spam multiblocks",
-    "quests.extreme_voltage.schematic_terminal.desc": "The &bSchematic Interface&r is a very useful &bTerminal&r that can be linked to your &dME Network&r, allowing you to save &eMultiblocks&r you have already built and reproduce them identically.\n\n&eSchematics&r are stored in an internal library within the terminal, letting you easily browse and deploy a specific multiblock whenever you need it."
+    "quests.extreme_voltage.schematic_terminal.desc": "The &bSchematic Interface&r is a very useful &bTerminal&r that can be linked to your &dME Network&r, allowing you to save &eMultiblocks&r you have already built and reproduce them identically.\n\n&eSchematics&r are stored in an internal library within the terminal, letting you easily browse and deploy a specific multiblock whenever you need it.",
+
+    "quests.extreme_voltage.ostrum_tools.title": "Ostrum Iodide Tools",
+    "quests.extreme_voltage.ostrum_tools.task": "All the Ostrum Iodide Tools",
+    "quests.extreme_voltage.ostrum_tools.subtitle": "The most magical TFG has to offer",
+    "quests.extreme_voltage.ostrum_tools.desc": "The &bOstrum Iodide&r tool set is what you would call a jack of all trades; while it is slower than &eTungsten Carbide&r, it offers very balanced stats, combining good &aDurability&r and good &eSpeed&r, making it a solid choice for your arsenal and suitable for most of your tools.\n\nIf producing &bIodide&r feels somewhat bothersome right now, keep in mind that once you reach &6Venus&r, you will be able to mass-produce it much more easily.",
+
+    "quests.extreme_voltage.tungsten_carbide_tools.title": "Tungsten Carbide Tools",
+    "quests.extreme_voltage.tungsten_carbide_tools.task": "All the Tungsten Carbide Tools",
+    "quests.extreme_voltage.tungsten_carbide_tools.subtitle": "As fast as you can expect",
+    "quests.extreme_voltage.tungsten_carbide_tools.desc": "&bTungsten Carbide Tools&r clearly belong to the extreme &eSpeed&r category, but they come with relatively low &aDurability&r and the fact that &6Tungsten&r may still be somewhat tedious to produce at this stage. They may even be too fast to comfortably use as a &bWrench&r, but they can feel excellent when crafted as a &bDrill&r or &bWire Cutter&r.",
+
+    "quests.extreme_voltage.tungsten_rotor.subtitle": "I'm not just a name",
+    "quests.extreme_voltage.tungsten_rotor.desc": "The &bTungsten-Bismuth Oxide Composite Rotor&r is not only known for its long name but also for being an incredibly powerful &eTurbine Rotor&r. It does come with several drawbacks: it is slow to craft, has very poor &aDurability&r, and even worse &bEfficiency&r. However, for a relatively straightforward crafting process, it may still be worth considering.\n\nWe recommend using it as your first &eTurbine Rotor&r on &4Mars&r inside your &eNuclear Turbines&r.",
+
+    "quests.extreme_voltage.mo_si_b.subtitle": "Is that harder than the NaqLine?",
+    "quests.extreme_voltage.mo_si_b.desc": "This is your third &eExotic Turbine Rotor&r and definitely the hardest one to obtain. As usual, we will not explain the process, and you will have to rely on EMI to navigate this complex production chain. Keep in mind that looping materials is particularly important for this one.\n\nIn terms of stats, you will not find anything better until much later in the &1IV&r chapter, making it a potentially valuable investment, although it remains entirely optional.",
+
+    "quests.extreme_voltage.rocket_t2_rotor.subtitle": "Natural upgrade",
+    "quests.extreme_voltage.rocket_t2_rotor.desc": "The &bASM 4914 Titanium Rocket Alloy Turbine Rotor&r is the natural upgrade if you did not craft the &bInconel&r one. It offers solid average stats and should perform well in your &eTurbines&r, making it a reliable option.\n\nDo not overlook it if you want to avoid the low &bEfficiency&r of the &bTungsten-Bismuth&r rotor."
 }

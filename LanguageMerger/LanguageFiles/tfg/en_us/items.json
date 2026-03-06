@@ -449,11 +449,10 @@
     "item.tfg.tier_2_double_rocket": "ASM 4914 Titanium Two-Person Rocket",
     "item.tfg.tier_3_double_rocket": "45-Ti Tungstensteel Two-Person Rocket",
 
-    "item.tfg.mo_activated_sic_substrate": "Mo-Activated Silicon Carbide Substrate",
+    "item.tfg.mo_activated_sic_substrate": "Molybdenum-Activated Silicon Carbide Substrate",
     "item.tfg.copper_bonded_al2o3_pcb": "Copper-Bonded Alumina Printed Circuit Board",
     "item.tfg.chromium_bonded_beo_pcb": "Chromium-Bonded Beryllia Printed Circuit Board",
 
     "item.tfg.optical_borosilicate_blank": "Optical Borosilicate Blank",
     "item.tfg.worked_optical_borosilicate_blank": "Worked Optical Borosilicate Blank"
-
 }
