@@ -5,5 +5,6 @@
   "fluid.tfg.geyser_slurry": "Super Heated Slurry",
   "fluid.tfg.heavy_ammoniacal_water": "Heavy Ammoniacal Water",
   "fluid.tfg.semiheavy_ammoniacal_water": "Semiheavy Ammoniacal Water",
-  "fluid.tfg.sulfur_fumes": "Dense Sulfuric Fumes"
+	"fluid.tfg.sulfur_fumes": "Dense Sulfuric Fumes",
+	"fluid.tfg.mafic_igneous": "Molten Mafic Igneous Rock"
 }
