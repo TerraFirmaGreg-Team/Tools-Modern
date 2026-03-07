@@ -52,10 +52,10 @@ namespace LanguageMerger
         private async Task DeserializeJSONFiles()
         {
             List<Task> tasks = [];
-            foreach (ModLocale modLocale in r_modLocales)
+            foreach (ModLocale locale in r_modLocales)
             {
-                ConsoleLogHelper.WriteLine($"Deserializing JSON files for {modLocale.r_modID}", LogLevel.Info);
-                tasks.Add(modLocale.DeserializeDictionaries());
+                ConsoleLogHelper.WriteLine($"Deserializing JSON files for {locale.r_modID}", LogLevel.Info);
+                tasks.Add(locale.DeserializeDictionaries());
             }
             await Task.WhenAll(tasks);
         }
@@ -68,6 +68,13 @@ namespace LanguageMerger
                 ConsoleLogHelper.WriteLine($"Merging JSON for {locale.r_modID}", LogLevel.Info);
                 tasks.Add(locale.MergeDeserializedDictionaries());
             }
+            await Task.WhenAll(tasks);
+        }
+
+        private async Task ReadModpackLanguageFiles()
+        {
+            List<Task> tasks = [];
+
             await Task.WhenAll(tasks);
         }
 

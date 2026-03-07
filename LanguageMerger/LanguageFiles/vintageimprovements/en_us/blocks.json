@@ -1,4 +1,4 @@
 {
-  "block.vintageimprovements.lathe": "&cDEPRECATED&r Lathe",
-  "block.vintageimprovements.vacuum_chamber": "Vacuum Chamber"
+	"block.vintageimprovements.vacuum_chamber": "Vacuum Chamber",
+	"block.vintageimprovements.lathe": "&cDEPRECATED&r Lathe"
 }

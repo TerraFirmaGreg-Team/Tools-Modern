@@ -1,3 +1,28 @@
 {
-  "gtceu.recipe.category.ingot_molding": "Material Molding"
+	"__comment1": "these are used for recipes",
+
+	"gtceu.greenhouse": "Electric Greenhouse",
+	"gtceu.steam_bloomery": "Steam Bloomery",
+	"gtceu.food_oven": "Food Oven",
+	"gtceu.food_processor": "Food Processor",
+	"gtceu.large_solar_panel": "Large Solar Array MK I",
+	"gtceu.large_solar_panel_tier2": "Large Solar Array MK II",
+	"gtceu.large_solar_panel_tier3": "Large Solar Array MK III",
+	"gtceu.gas_pressurizer": "Gas Pressurizer",
+	"gtceu.nuclear_fuel_factory": "Nuclear Fuel Factory",
+	"gtceu.nuclear_turbine": "Nuclear Steam Turbine",
+	"gtceu.cooling_tower": "Nuclear Cooling Tower",
+	"gtceu.heat_exchanger": "Heat Exchanger",
+	"gtceu.fission_reactor": "Fission Reactor",
+	"gtceu.evaporation_tower": "Evaporation Tower",
+	"gtceu.ostrum_harvester": "Ostrum Harvester",
+	"gtceu.moon_dust_harvester": "Moon Dust Harvester",
+	"gtceu.ostrum_linear_accelerator": "Ostrum Linear Accelerator",
+	"gtceu.bioreactor": "Bioreactor",
+	"gtceu.growth_chamber": "Growth Chamber",
+	"gtceu.coal_liquefaction_tower": "Liquefaction Tower",
+	"gtceu.smr_generator": "Small Modular Turbine",
+	"gtceu.hydroponics_facility": "Hydroponics Facility",
+	"gtceu.pisciculture_fishery": "Pisciculture Fishery",
+	"gtceu.high_temperature_precision_fabricator": "Hi-Temp Precision Fabricator"
 }
