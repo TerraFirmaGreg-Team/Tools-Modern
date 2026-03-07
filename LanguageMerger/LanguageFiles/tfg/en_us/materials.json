@@ -114,13 +114,13 @@
 
 	"material.tfg.thermally_conductive_fluid": "Thermally Conductive Fluid",
 
-	"__comment1": "Like Crimson and Warped nether trees, but made to sound more like chemicals",
+	"material.tfg.crimsene.comment": "Like Crimson and Warped nether trees, but made to sound more like chemicals",
 	"material.tfg.crimsene": "Crimsene",
 	"material.tfg.warpane": "Warpane",
-	"__comment2": "This is made up, it's like Mycelium + Benzene. The second one should just sound more fancy or processed",
+	"material.tfg.mycelienzene.comment": "This is made up, it's like Mycelium + Benzene. The second one should just sound more fancy or processed",
 	"material.tfg.mycelienzene": "Mycelienzene",
 	"material.tfg.cooked_mycelienzane": "1,3-Mycelienzane",
-	"__comment3": "These two are real",
+	"material.tfg.cooked_mycelienzane.comment": "These two are real",
 	"material.tfg.iodomethane": "Iodomethane",
 	"material.tfg.trideuteroiodomethane": "Trideuteroiodomethane",
 
@@ -150,6 +150,7 @@
 	"material.tfg.zirconium_oxide": "Zirconia",
 	"material.tfg.zirconium_bromide": "Zirconium(IV) Bromide",
 	"material.tfg.zirconium_diboride": "Zirconium Diboride",
+	"material.tfg.arsenic_bronze": "Arsenic Bronze",
 	"material.tfg.boron_carbide": "Boron Carbide",
 
 	"material.tfg.syngas": "Syngas",
