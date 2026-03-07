@@ -102,6 +102,8 @@
     "quests.stone_age.rock_knapping.title": "Knapping",
     "quests.stone_age.rock_knapping.subtitle": "Just like the olden days of the Paleolithic",
     "quests.stone_age.rock_knapping.desc": "Rocks can be \"Knapped\", which is the process of shaping a basic material into a usable form by smacking them together. Rock Knapping requires at least two rocks, and by holding them and right-clicking the air, you'll open the Knapping interface. You can then \"chip off\" one of your rocks to create a stone tool head. All the shapes for different tools can be found in EMI and the Field Guide.\n\nThe two most important tools for the beginning of your journey are a Stone Knife and a Stone Axe, so try knapping those tool heads.",
+    "quests.stone_age.rock_knapping.task.1": "A stone or flint axe head",
+    "quests.stone_age.rock_knapping.task.2": "A stone or flint knife head",
 
     "quests.stone_age.find_stick.title": "Find some Sticks",
     "quests.stone_age.find_stick.subtitle": "You gotta handle that tool somehow",
@@ -110,6 +112,8 @@
     "quests.stone_age.first_stone_tools.title": "Your first tools",
     "quests.stone_age.first_stone_tools.subtitle": "Now you're a smart monkey",
     "quests.stone_age.first_stone_tools.desc": "By Knapping your rocks into usable shapes, you can then combine them with a Stick to create your very first basic tools. You've officially entered the Stone Age!\n\nStone are enough for basic survival, but eventually you'll want to create metal tools for much better speed, durability, and tool options. The next two quests will help you collect the items you'll need.",
+    "quests.stone_age.first_stone_tools.task.1": "A stone or flint axe",
+    "quests.stone_age.first_stone_tools.task.2": "A stone or flint knife",
 
     "quests.stone_age.stone_tools.title": "Stone Tools",
     "quests.stone_age.stone_tools.subtitle": "Turns out hitting stones together is quite useful",
