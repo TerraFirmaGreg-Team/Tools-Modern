@@ -1,7 +1,4 @@
 {
-	"tfc.jei.flint_knapping": "Flint Knapping",
-	"tfc.jei.straw_knapping": "Straw Knapping",
-
 	"tfc.recipe.barrel.tfg.barrel.dyeing.decorative_vase.black": "Dyeing",
 	"tfc.recipe.barrel.tfg.barrel.dyeing.decorative_vase.gray": "Dyeing",
 	"tfc.recipe.barrel.tfg.barrel.dyeing.decorative_vase.light_gray": "Dyeing",
@@ -50,6 +47,23 @@
 	"tfc.recipe.barrel.simplylight.barrel.dyeing.illuminant_orange_block": "Dyeing",
 	"tfc.recipe.barrel.simplylight.barrel.dyeing.illuminant_red_block": "Dyeing",
 	"tfc.recipe.barrel.simplylight.barrel.dyeing.illuminant_brown_block": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_black": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_gray": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_light_gray": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_white": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_pink": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_magenta": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_purple": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_blue": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_light_blue": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_cyan": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_green": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_lime": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_yellow": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_orange": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_red": "Dyeing",
+	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_brown": "Dyeing",
+
 	"tfc.recipe.barrel.tfg.barrel.treated_chipboard_composite": "Treating Chipboard Composite",
 
 	"tfc.recipe.barrel.tfg.barrel.soak_hardwood_strip": "Soaking Hardwood Strips",
@@ -77,7 +91,6 @@
 
 	"recipe.capability.Heat.name": "Not enough Heat from the Heat Battery",
 
-	"gtceu.aqueous_accumulator": "Aqueous Accumulator",
 	"tfg.food_recipe.brining": "Brining",
 	"tfg.food_recipe.smoking": "Smoking",
 	"tfg.food_recipe.drying": "Drying",

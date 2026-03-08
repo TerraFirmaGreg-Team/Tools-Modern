@@ -1,3 +1,4 @@
 {
-  "entity.species.trooper": "Sulfie"
+	"entity.species.trooper.__comment__": "These are mini tameable sulfur creepers, so you can give them a cute name",
+	"entity.species.trooper": "Sulfie"
 }

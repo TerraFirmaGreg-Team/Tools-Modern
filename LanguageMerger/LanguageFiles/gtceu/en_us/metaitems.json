@@ -2,14 +2,6 @@
 	"metaitem.dust.tooltip.purify": "Drop in Water to get Clean Dust",
 	"metaitem.crushed.tooltip.purify": "Drop in Water to get Purified Ore",
 
-	"item.gtceu.tool.behavior.silk_ice": "§dSculptor:§r Silk harvests Packed Ice",
-	"item.gtceu.tool.butchery_knife.tooltip": "§cButcher:§r Butchers animals for more meat",
-	"item.gtceu.tool.tooltip.repair_info": "",
-	"item.gtceu.tool.tooltip.repair_material": "",
-
-	"gtceu.machine.lp_steam_extractor.tooltip": "§7Does not extract fluids",
-	"gtceu.machine.hp_steam_extractor.tooltip": "§7Does not extract fluids",
-
 	"gtceu.jei.bedrock_fluid.nether_natural_gas_deposit": "Beneath Natural Gas Deposit",
 
 	"gtceu.jei.bedrock_fluid.moon_helium": "Lunar Helium Deposit",
@@ -22,12 +14,6 @@
 	"gtceu.jei.bedrock_fluid.liquid_ice": "Martian Ice Deposit",
 
 	"gtceu.recipe.category.ingot_molding": "Material Molding",
-
-	"block.gtceu.wire_coil.tooltip_pyro": "§8Pyrolyse Oven, Liquefaction Tower and Nuclear Fuel Factory:§r",
-	"block.gtceu.wire_coil.tooltip_cracking": "§8Cracking Unit, Moon and Ostrum Harvesters:§r",
-
-	"tooltip.moldraw.shift_view_molecule": "§7§oHold (Shift) for Molecular Structure§r",
-	"tooltip.moldraw.shift_view_alloy": "§7§oHold (Shift) for Alloy Composition§r",
 
 	"gtceu.medical_condition.antidote.description.effect_removed": "Removes %s%% of the above conditions' effects",
 	"gtceu.medical_condition.antidote.description.effect_removed.all": "Removes all of the above conditions' effects"

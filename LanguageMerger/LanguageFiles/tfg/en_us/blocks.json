@@ -772,7 +772,6 @@
 	"block.tfg.sandstone.smooth.chiseled.fluorapatite.yellow": "Chiseled Yellow Fluorapatite Sandstone",
 
 	"block.tfg.large_nest_box": "Large Crimson Nest",
-	"tfg.block_entity.large_nest_box": "Large Nest Box",
 	"block.tfg.large_nest_box_warped": "Large Warped Nest",
 
 	"block.tfg.cultivation_monitor": "Cultivation Monitor",
@@ -834,7 +833,6 @@
 	"block.tfg.beryllium_sandy_frame": "Beryllium-Bound Silica Frame",
 
 	"block.tfg.heat_battery_mk1": "Heat Battery",
-	"tfg.block_entity.artisan_table": "Artisan Table",
 	"block.tfg.artisan_table": "Artisan Table",
 	"block.tfg.high_temp_precision_fabricator": "High Temperature Precision Fabricator",
 	"block.tfg.quartz_crucible": "Quartz Crucible"

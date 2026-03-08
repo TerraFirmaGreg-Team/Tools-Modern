@@ -16,5 +16,13 @@
 	"gtceu.tooltip.machine.steam_bloomery_3": "§7Fueling it with Coke or Anthracite will double the output.§r",
 	"gtceu.tooltip.machine.steam_parallel": "§7Can process up to 8 recipes at once, which changes how much Steam is required.§r",
 	"gtceu.tooltip.machine.coal_liquefaction_tower_1": "§7Smoothie Maker§r",
-	"gtceu.tooltip.machine.coal_liquefaction_tower_2": "§7Extracts gas and liquids from carbonic solids§r"
+	"gtceu.tooltip.machine.coal_liquefaction_tower_2": "§7Extracts gas and liquids from carbonic solids§r",
+
+	"block.gtceu.wire_coil.tooltip_pyro": "§8Pyrolyse Oven, Liquefaction Tower and Nuclear Fuel Factory:§r",
+	"block.gtceu.wire_coil.tooltip_cracking": "§8Cracking Unit, Moon and Ostrum Harvesters:§r",
+
+	"item.gtceu.tool.behavior.silk_ice": "§dSculptor:§r Silk harvests Packed Ice",
+	"item.gtceu.tool.butchery_knife.tooltip": "§cButcher:§r Butchers animals for more meat",
+	"item.gtceu.tool.tooltip.repair_info": "",
+	"item.gtceu.tool.tooltip.repair_material": ""
 }
