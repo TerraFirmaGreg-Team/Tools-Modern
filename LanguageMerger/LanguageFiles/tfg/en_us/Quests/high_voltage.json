@@ -105,7 +105,7 @@
     "quests.high_voltage.tnt.task": "Any explosive",
     "quests.high_voltage.tnt.desc.1": "Get ready to make some explosives, as they will be required for the &cImplosion Compressor&r. You have four options, from easy to hardest, but we advise you to work towards the &dIndustrial TNT&r whenever you can.",
     "quests.high_voltage.tnt.desc.2": "&cTNT&r (Trinitrotoluene) can't be prepared with the usual Gunpowder and Sand anymore. Instead, you'll have to produce &aGelled Toluene&r and react it with Sulfuric Acid to make TNT.\n\nUsing the &3HV Chemical Reactor&r recipe will double the yield of &aGelled Toluene&r at the cost of requiring additional inputs.",
-    "quests.high_voltage.tnt.desc.3": "We don't have any easy tips to give you for &aToluene&r. It's going to be tricky no matter which route you take.\n\nThat being said, don't miss out on the direct &aHeavy Fuel&r to &aToluene&r recipe in the single block &3Distillery&r.\n\n&aToluene&r can also optionally be used in &5EV&r to make &dGasoline&r.\n\n&cTNT&r is used in the &3Implosion Compressor&r to make Gems. It also blows stuff up.",
+    "quests.high_voltage.tnt.desc.3": "We don't have any easy tips to give you for &aToluene&r. It's going to be tricky no matter which route you take.\n\nThat being said, don't miss out on the direct &aHeavy Oil Residue&r to &aToluene&r recipe in the single block &3Distillery&r.\n\n&aToluene&r can also optionally be used in &5EV&r to make &dGasoline&r.\n\n&cTNT&r is used in the &3Implosion Compressor&r to make Gems. It also blows stuff up.",
 
     "quests.high_voltage.ender_pearls.title": "Ender Pearls",
     "quests.high_voltage.ender_pearls.subtitle": "Sci-fi gemstones, or something",

@@ -108,7 +108,7 @@
     "quests.tfg_tips.gt_power_tools.title": "Power Tools",
     "quests.tfg_tips.gt_power_tools.subtitle": "Men only want one thing and it's f&kuck&ring disgusting",
     "quests.tfg_tips.gt_power_tools.desc.1": "As with any good tech mod, &5GregTech&r comes with a wide variety of &6tools&r you can use. To operate them, you'll need to &acharge them with energy&r — and there are several ways to do that: place the tool in a &6Battery Buffer&r, in an &denergy slot&r of a machine, or even better, use a &eTurbo Charger&r.\n\nJust remember: you can only charge an item using a power source of &7equal&r or &ahigher tier&r. &cLower-tier sources&r won’t work on higher-tier tools — but don’t worry, &cnothing should explode&r. Probably.",
-    "quests.tfg_tips.gt_power_tools.desc.2": "Most &5GregTech&r tools are crafted from a &6Tool Head&r. Try using &aEMI&r to explore what you can do with them — just remember two important things:\n\n- The &ehigher the Tool Head tier&r, the more &cpowerful&r the tool will be, and the &6larger the battery&r it will use.\n- Not every tool supports every Tool Head tier. For example, the &6Chainsaw&r can only be crafted with a &7LV Tool Head&r.",
+    "quests.tfg_tips.gt_power_tools.desc.2": "Most &5GregTech&r tools are crafted from a &6Tool Head&r. Try using &aEMI&r to explore what you can do with them — just remember two important things:\n\n- The &ehigher the Tool Head tier&r, the more &cpowerful&r the tool will be, and the &6larger the battery&r it will use.\n- Not every tool supports every Tool Head tier. For example, a Blue Steel Drill can only be crafted with a &7LV Tool Head&r.",
 
     "quests.tfg_tips.nano_saber.title": "Nano Saber",
     "quests.tfg_tips.nano_saber.subtitle": "26 Attack Damage when active!",

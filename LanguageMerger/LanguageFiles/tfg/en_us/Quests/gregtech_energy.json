@@ -48,7 +48,7 @@
 
     "quests.gregtech_energy.mv_generator.title": "The MV Generators",
     "quests.gregtech_energy.mv_generator.subtitle": "Basically the same as the LV ones",
-    "quests.gregtech_energy.mv_generator.desc": "To run your &bMV&r machines, you will need to upgrade your power production.\n\nIf an &7LV&r Generator produces &e32 EU/t&r, the &bMV&r Generator runs at &e128 EU/t&r.\nIt consumes four times more fuel to produce four times more energy.\n\nTo better understand power generation at &bMV&r, we strongly recommend checking the dedicated quest in the &bMV&r chapter, located right at the beginning.\n\nAt &bMV&r, you also gain access to more options:\n\n- Oil-based fuels like Diesel or Light Fuel\n- Gas-based fuels like Benzene, LPG, or Methane\n- You can continue using Biodiesel or Steam, though you may need larger pipes (Aluminium, Steel, or Potin can handle it)\n\nExplore your options carefully to optimize your energy setup.",
+    "quests.gregtech_energy.mv_generator.desc": "To run your &bMV&r machines, you will need to upgrade your power production.\n\nIf an &7LV&r Generator produces &e32 EU/t&r, the &bMV&r Generator runs at &e128 EU/t&r.\nIt consumes four times more fuel to produce four times more energy.\n\nTo better understand power generation at &bMV&r, we strongly recommend checking the dedicated quest in the &bMV&r chapter, located right at the beginning.\n\nAt &bMV&r, you also gain access to more options:\n\n- Oil-based fuels like Diesel or Light Oil Residue\n- Gas-based fuels like Benzene, LPG, or Methane\n- You can continue using Biodiesel or Steam, though you may need larger pipes (Aluminium, Steel, or Potin can handle it)\n\nExplore your options carefully to optimize your energy setup.",
     "quests.gregtech_energy.mv_generator.task": "Any MV Generator",
 
     "quests.gregtech_energy.hv_single_generator.title": "The last single block generators",
@@ -129,7 +129,7 @@
 
     "quests.gregtech_energy.gasoline.title": "Gasoline",
     "quests.gregtech_energy.gasoline.subtitle": "The middle child",
-    "quests.gregtech_energy.gasoline.desc": "&aGasoline&r is a really strong combustion fuel that you unlock at &6HV&r, but realistically only begin to make when you build your first &6Distillation Towers&r. &7Toluene&r is easily made from &7Wood Tar&r or &7Heavy Fuel&r, while everything else you need is &dRefinery Gas&r, &eNaphtha&r, and a mix of &3Oxygen&r, &bHydrogen&r, and &1Carbon&r.\n\nIt's strong, quite easy to make, and even better, it can be upgraded into &cHigh Octane Gasoline&r.",
+    "quests.gregtech_energy.gasoline.desc": "&aGasoline&r is a really strong combustion fuel that you unlock at &6HV&r, but realistically only begin to make when you build your first &6Distillation Towers&r. &7Toluene&r is easily made from &7Wood Tar&r or &7Heavy Oil Residue&r, while everything else you need is &dRefinery Gas&r, &eNaphtha&r, and a mix of &3Oxygen&r, &bHydrogen&r, and &1Carbon&r.\n\nIt's strong, quite easy to make, and even better, it can be upgraded into &cHigh Octane Gasoline&r.",
 
     "quests.gregtech_energy.high_gasoline.title": "High Octane Gasoline (HOG)",
     "quests.gregtech_energy.high_gasoline.subtitle": "Highly Powerful",

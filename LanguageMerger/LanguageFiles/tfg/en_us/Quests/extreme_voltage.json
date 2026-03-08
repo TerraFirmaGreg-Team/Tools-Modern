@@ -293,7 +293,7 @@
     "quests.extreme_voltage.ev_dynamo_hatch.task": "Any EV Dynamo Hatch",
 
     "quests.extreme_voltage.oil_distillation.title": "True Oil Distillation",
-    "quests.extreme_voltage.oil_distillation.desc": "Here are the four most relevant &dHydrocarbons&r you will be obtaining from distilling Steam-Cracked Fuels.\n\nYou will want to set this up &lbefore&r moving to &1IV&r.\n\n&aSteam-Cracked Light Fuel&r as input is probably the most favorable, but you are free to experiment.\n\nIf you don't want the Carbon output, feel free to slap a Voiding Cover on it.",
+    "quests.extreme_voltage.oil_distillation.desc": "Here are the four most relevant &dHydrocarbons&r you will be obtaining from distilling Steam-Cracked Fuels.\n\nYou will want to set this up &lbefore&r moving to &1IV&r.\n\n&aSteam-Cracked Light Oil Residue&r as input is probably the most favorable, but you are free to experiment.\n\nIf you don't want the Carbon output, feel free to slap a Voiding Cover on it.",
     "quests.extreme_voltage.oil_distillation.task": "Any oil",
 
     "quests.extreme_voltage.wood_distillation.title": "True Organic Distillation",

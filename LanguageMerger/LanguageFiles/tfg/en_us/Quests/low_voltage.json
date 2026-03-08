@@ -71,9 +71,9 @@
 	"quests.low_voltage.lv_gas_syngas.subtitle": "Not Wood Gas",
 	"quests.low_voltage.lv_gas_syngas.desc": "Making &7Syngas&r is really easy. You simply need &b3 Coke Ovens&r for each &6Brewery&r or &6Vacuum Chamber&r. Then you collect &7wood&r with the help of a &bCreate Tree Farm&r to minimize the energy costs, and you can enjoy this weak but easy-to-make &7gas fuel&r.",
 
-	"quests.low_voltage.lv_naphtha_light.title": "Naphtha and Light Fuel",
+	"quests.low_voltage.lv_naphtha_light.title": "Naphtha and Light Oil Residue",
 	"quests.low_voltage.lv_naphtha_light.subtitle": "You can make plastic with them",
-	"quests.low_voltage.lv_naphtha_light.desc": "If you really hate farming and prefer adventuring in the &6desert&r or mining massive amounts of &7Oilsands&r, then maybe &7Naphtha&r (better from &7Raw Oil&r) or &7Light Fuel&r (better from &7Oil&r) should be fuels you could look at.\n\nBeing quite good for how easy they are to produce, they need to be manually harvested at that point though.",
+	"quests.low_voltage.lv_naphtha_light.desc": "If you really hate farming and prefer adventuring in the &6desert&r or mining massive amounts of &7Oilsands&r, then maybe &7Naphtha&r (better from &7Raw Oil&r) or &7Light Oil Residue&r (better from &7Oil&r) should be fuels you could look at.\n\nBeing quite good for how easy they are to produce, they need to be manually harvested at that point though.",
 
 	"quests.low_voltage.lv_turbo_charge.title": "Turbo Charger",
 	"quests.low_voltage.lv_turbo_charge.subtitle": "Useful to charge your electric tools faster",
@@ -258,7 +258,7 @@
 	"quests.low_voltage.lv_distillery.desc": "The Distillery is kind of like a centrifuge, but mostly for organic/petrochemical fluids.\n\nIn &7LV&r, you can only extract one output from one input, but this will change after you get to the Distillation Tower in &6HV&r.\n\nYou won't use this machine for all that much in LV (unless you're using Combustion fuel), but it's essential for obtaining &ePhenol&r.",
 
 	"quests.low_voltage.phenolic_resin.subtitle": "Artificial Resin",
-	"quests.low_voltage.phenolic_resin.desc.1": "Phenolic Resin is made from a chemical reaction of &6Phenol&r and &aFormaldehyde&r.\n\nWhile you only really have two options for obtaining the Phenol in &7LV&r (distilling either Creosote or Heavy Fuel), the Formaldehyde will require &dMethane&r, which has more options.",
+	"quests.low_voltage.phenolic_resin.desc.1": "Phenolic Resin is made from a chemical reaction of &6Phenol&r and &aFormaldehyde&r.\n\nWhile you only really have two options for obtaining the Phenol in &7LV&r (distilling either Creosote or Heavy Oil Residue), the Formaldehyde will require &dMethane&r, which has more options.",
 	"quests.low_voltage.phenolic_resin.desc.2": "The simplest (and slowest) is with hydrogen and carbon in a chemical reactor, which will also require very slow water electrolysis.\n\nThe distillery also has many options, including via Creosote.\n\nIf you're using Syngas as a fuel, you can also oxidize that into Methane.\n\nLastly, if you're feeling silly, you can also centrifuge a ton of mushrooms from the Beneath.",
 
 	"quests.low_voltage.magnesia.subtitle": "Also the name of a place in Greece!",
@@ -317,7 +317,7 @@
 
 	"quests.low_voltage.cupronickel_coil.title": "Cupronickel Coils",
 	"quests.low_voltage.cupronickel_coil.subtitle": "Baby's first heating coil",
-	"quests.low_voltage.cupronickel_coil.desc": "Prepare &a128 Cupronickel&r, &a32 Blue Steel&r and &a16 Tin Alloy&r ingots, as well as &a128 Refractory Bricks&r to craft the Heating Coils required for your first Electric Blast Furnace.\n\nThis is still less than half (!) of the cost of the whole EBF in raw materials. You will also need about a stack each of Invar and Steel, so get mining.\n\nThe Cupronickel Coils will allow the EBF to perform recipes up to &d1,800K&r (ignoring Voltage bonuses). That's pretty hot if you ask us.\n\n&6Tutorial on Coils in the &lGregTech Energy&r&6 tab - check it out to learn more!&r",
+	"quests.low_voltage.cupronickel_coil.desc": "Prepare &a128 Cupronickel&r, &a32 Blue Steel&r and &a16 Tin Alloy&r ingots, as well as &a64 Refractory Bricks&r to craft the Heating Coils required for your first Electric Blast Furnace.\n\nThis is still less than half (!) of the cost of the whole EBF in raw materials. You will also need about a stack each of Invar and Steel, so get mining.\n\nThe Cupronickel Coils will allow the EBF to perform recipes up to &d1,800K&r (ignoring Voltage bonuses). That's pretty hot if you ask us.\n\n&6Tutorial on Coils in the &lGregTech Energy&r&6 tab - check it out to learn more!&r",
 
 	"quests.low_voltage.lv_ebf.title": "The Electric Blast Furnace",
 	"quests.low_voltage.lv_ebf.subtitle": "One of the core machines of GregTech. We like it big.",
@@ -356,7 +356,7 @@
 
 	"quests.low_voltage.oil.title": "Found Oil early?",
 	"quests.low_voltage.oil.subtitle": "For LV overachievers",
-	"quests.low_voltage.oil.desc": "If you've found any Oilsands ores or Oil spouts (in deserts) in your travels, you can actually start using a little bit of it in LV.\n\nYou can either convert it into Heavy Fuel and put it in your boilers, or convert it into Diesel to power your Combustion Generators.",
+	"quests.low_voltage.oil.desc": "If you've found any Oilsands ores or Oil spouts (in deserts) in your travels, you can actually start using a little bit of it in LV.\n\nYou can either convert it into Heavy Oil Residue and put it in your boilers, or convert it into Diesel to power your Combustion Generators.",
 
 	"quests.low_voltage.glowstone.title": "Permanent Lighting",
 	"quests.low_voltage.glowstone.subtitle": "A roundabout way of inventing light bulbs",
