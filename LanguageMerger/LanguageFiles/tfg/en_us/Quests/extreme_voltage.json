@@ -281,7 +281,7 @@
     "quests.extreme_voltage.advanced_fluid_rig.title": "Extreme Fluid Drilling",
     "quests.extreme_voltage.advanced_fluid_rig.subtitle": "Extreme is an apt descriptor",
     "quests.extreme_voltage.advanced_fluid_rig.desc.1": "At the cost of 4x the drilling Power, the &3Advanced Fluid Drilling Rig&r gains &616x the output&r in Fluid.\n\nThe depletion of veins is also halved. This means you will get a total of &632x&r as much Oil (or whatever fluid) from a bedrock fluid vein until depletion!\n\nEven when depleted, you can still use this and be firmly power positive.\n\nOne single &3Advanced Fluid Drilling Rig&r should be enough to supply Power for a base up to &dLuV&r... and possibly beyond!",
-    "quests.extreme_voltage.advanced_fluid_rig.desc.2": "As a &9reminder&r, since this last appeared in &bMV&r:\n\n&9-&r &aLight Oil&r can be used for &dLPG&r and &dMethane&r to run in &3Large Gas Turbines&r.\n\n&9-&r &aOil&r can be used for &dDiesel&r and &dCetane-Boosted Diesel&r to run in &3Large Combustion Engines&r.\n\n&9-&r &aHeavy Oil&r can be used for &dNitrobenzene&r to run in &3Large Gas Turbines&r.",
+    "quests.extreme_voltage.advanced_fluid_rig.desc.2": "As a &9reminder&r, since this last appeared in &bMV&r:\n\n&9-&r &aLight Oil&r can be used for &dLPG&r and &dMethane&r to run in &3Large Gas Turbines&r.\n\n&9-&r &aOil&r can be used for &dDiesel&r and &dCetane-Boosted Diesel&r to run in &3Large Combustion Engines&r.",
 
     "quests.extreme_voltage.mpic_chip.title": "Power Integrated Circuit",
     "quests.extreme_voltage.mpic_chip.desc": "New Cutting Machine? &a✓&r\n\nNew Lens? &a✓&r\n\nNew Power Circuit? &a✓&r\n\nNew EBF Metal required? &a✓&r\n\nNew Coil for Energy Hatch? &a✓&r",
@@ -297,7 +297,7 @@
     "quests.extreme_voltage.oil_distillation.task": "Any oil",
 
     "quests.extreme_voltage.wood_distillation.title": "True Organic Distillation",
-    "quests.extreme_voltage.wood_distillation.desc.1": "This Quest requires the &3Pyrolyse Oven&r and is &doptional&r, yet convenient.\n\nThese four fluids are the important products of &aWood Tar&r Distillation:\n\n&9-&r Phenol: useful for Epoxy and PBI\n&9-&r Benzene: an important hydrocarbon\n&9-&r Toluene: useful for TNT\n&9-&r Dimethylbenzene: useful for PBI\n\nUnlike Oil, putting &aWood Tar&r in the &3Distillation Tower&r for the byproducts, and using &dNitrobenzene&r for power is arguably worth it.",
+    "quests.extreme_voltage.wood_distillation.desc.1": "This Quest requires the &3Pyrolyse Oven&r and is &doptional&r, yet convenient.\n\nThese four fluids are the important products of &aWood Tar&r Distillation:\n\n&9-&r Phenol: useful for Epoxy and PBI\n&9-&r Benzene: an important hydrocarbon\n&9-&r Toluene: useful for TNT\n&9-&r Dimethylbenzene: useful for PBI",
     "quests.extreme_voltage.wood_distillation.desc.2": "These three are the important products from &aWood Vinegar&r Distillation:\n\n&9-&r Acetic Acid: useful to make more Acetone\n\n&9-&r Methanol: a moderately important hydrocarbon\n\n&9-&r Acetone: useful for Epoxy and Gasoline",
     "quests.extreme_voltage.wood_distillation.desc.3": "It's also possible to use a \"full combo\" of 4 &3DTs&r - input &aCharcoal Byproducts&r into a first tower, splitting into &aWood Tar&r, &aWood Gas&r and &aWood Vinegar&r.\n\nThis isn't the most efficient cost-to-production ratio, but the option is there if you get bored.",
     "quests.extreme_voltage.wood_distillation.task": "Any of these",

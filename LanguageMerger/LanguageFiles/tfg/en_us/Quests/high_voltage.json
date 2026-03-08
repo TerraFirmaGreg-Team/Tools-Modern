@@ -92,10 +92,6 @@
     "quests.high_voltage.ptfe.subtitle": "A.K.A - Teflon",
     "quests.high_voltage.ptfe.desc": "&aPolytetrafluoroethylene (PTFE)&r is a &7Carbon&r-&bFluorine&r polymer. Similarly to PVC, PTFE can be used to increase the yield of Plastic Circuit Boards and other crafts. Presently, it is used to make the walls of &3Large Chemical Reactors&r.\n\n&3Chlorine&r is required in the process, which is fully recycled if you electrolyze the &aHydrochloric Acid&r waste.\n\n&bFluorine&r will also be used in the &aUranium&r and &7Naquadah&r refinement processes.\n\n&9Tip:&r From this point onwards, you should be solidifying Polymers as &dBar&r (Ingot) form, as they can easily be shaped to whichever form you will need using the &3Extruder&r.",
 
-    "quests.high_voltage.nitrobenzene.title": "Benzene Nitro",
-    "quests.high_voltage.nitrobenzene.subtitle": "A shadow of its former self",
-    "quests.high_voltage.nitrobenzene.desc": "In TerraFirmaGreg, &aNitrobenzene&r and &aBenzene&r have been heavily nerfed. They can still be used as fuel, but now most of their use is as ingredients.\n\nNote that crafting Nitrobenzene consumes a bit of &dSulfur&r with every step.",
-
     "quests.high_voltage.lcr.title": "Large Chemical Reactor",
     "quests.high_voltage.lcr.desc.1": "The &3Large Chemical Reactor (LCR)&r is a multiblock &3Chemical Reactor&r with more input/output slots. Its Teflon casings allow it to process extra recipes.\n\nThe &3LCR&r can perform some exclusive reactions which allow you to combine multiple normal &3Chemical Reactor&r steps into a &6single step&r. Examples below:\n\n&9-&r &aNitrogen Dioxide&r (for Nitric Acid and Dinitrogen Tetroxide)\n&9-&r &aSulfuric Acid&r\n&9-&r &aPhenol&r\n&9-&r &aEpichlorohydrin&r (you need it for Epoxy!)\n&9-&r &aEpoxy&r",
     "quests.high_voltage.lcr.desc.2": "There are also &3LCR&r exclusive recipes. For example, &dRadon&r can only be made in the LCR right now.\n\nAll &dOverclocks&r in the &3LCR&r are &6100%% efficient&r (known as Perfect overclocks); each overclock will &5quadruple the speed&r, as opposed to doubling it.\n\nThe &3LCR&r has yet another &6advantage&r. You can use &32 Energy Hatches&r to allow it to run recipes of the &5next tier&r, similar to the &3Electric Blast Furnace&r.",
@@ -120,7 +116,7 @@
 
     "quests.high_voltage.nitric_acid.title": "Nitric Acid",
     "quests.high_voltage.nitric_acid.subtitle": "This won't eat your skin",
-    "quests.high_voltage.nitric_acid.desc.1": "Nitric Acid's fumes are extremely toxic! It's also a very potent oxidizer.\n\n&aNitric Acid&r is used in:\n\n&9-&r Cetane-Boosted Diesel, a better Diesel fuel that you'll get to soon.\n&9-&r Nitrobenzene, a better Gas fuel that we're not far off making.\n&9-&r The optional gem slurry chains.\n&9-&r The Platinum Group Sludge chain in &1IV&r.\n&9-&r Polybenzimidazole (try saying that ten times fast!) in &1IV&r.",
+    "quests.high_voltage.nitric_acid.desc.1": "Nitric Acid's fumes are extremely toxic! It's also a very potent oxidizer.\n\n&aNitric Acid&r is used in:\n\n&9-&r Cetane-Boosted Diesel, a better Diesel fuel that you'll get to soon.\n&9-&r The optional gem slurry chains.\n&9-&r The Platinum Group Sludge chain in &1IV&r.\n&9-&r Polybenzimidazole (try saying that ten times fast!) in &1IV&r.",
     "quests.high_voltage.nitric_acid.desc.2": "There are two main ways to make &aNitric Acid&r - &othe &agood&f way and the &4bad&f ways!&r\n\nTherefore, we'll point you towards the best method:\n\nGet a &3Large Chemical Reactor&r and use it to make &aNitrogen Dioxide&r. From there, react it in a regular &3Chemical Reactor&r with more &dOxygen&r and &dWater&r and you got yourself some &aNitric Acid&r!\n\nThis requires a lot of &dOxygen&r. Refer to its own Quest in &7LV&r for the most efficient ways to obtain in large amount. Notice that this is Hydrogen free!",
 
     "quests.high_voltage.cetane_diesel.title": "Cetane-boosted Diesel",
