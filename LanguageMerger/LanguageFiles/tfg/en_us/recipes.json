@@ -80,7 +80,9 @@
 	"tfc.recipe.barrel.tfg.barrel.maple_syrup_to_sugar": "Making sugar",
 	"tfc.recipe.barrel.tfg.barrel.birch_syrup_to_sugar": "Making sugar",
 	"tfc.recipe.barrel.tfg.barrel.develop_black_and_white_film": "Developing film",
+	"tfc.recipe.barrel.tfg.barrel.develop_high_sensitivity_black_and_white_film": "Developing film",
 	"tfc.recipe.barrel.tfg.barrel.develop_color_film": "Developing film",
+	"tfc.recipe.barrel.tfg.barrel.develop_high_sensitivity_color_film": "Developing film",
 	"tfc.recipe.barrel.tfg.barrel.clay_ball": "Hydrating Clay",
 
 	"tfc.recipe.barrel.tfg.barrel.light_concrete": "Solidifying Concrete",
