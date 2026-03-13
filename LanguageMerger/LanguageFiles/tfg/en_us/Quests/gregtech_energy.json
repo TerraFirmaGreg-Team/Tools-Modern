@@ -183,7 +183,7 @@
 
     "quests.gregtech_energy.pss.title": "The Power Substation",
     "quests.gregtech_energy.pss.subtitle": "All your eggs in one basket",
-    "quests.gregtech_energy.pss.desc.1": "The &dPower Substation&r — also known as the &dPSS&r — is the &6ultimate custom battery multiblock&r. Once you're able to craft it in &1IV&r, it should easily serve as your base's central source of power, so it can be a good thing to focus towards.\n\nIt can store so much energy... you’d probably need multiple lifetimes to fill it.",
+    "quests.gregtech_energy.pss.desc.1": "The &dPower Substation&r — also known as the &dPSS&r — is the &6ultimate custom battery multiblock&r. Once you're able to craft it in &5EV&r, it should easily serve as your base's central source of power, so it can be a good thing to focus towards.\n\nIt can store so much energy... you’d probably need multiple lifetimes to fill it.",
     "quests.gregtech_energy.pss.desc.2": "&eHow it works&r:\n- Build the structure using &aPalladium Substation Casings&r.\n- Add at least &b1 Energy Hatch&r (input) and &b1 Dynamo Hatch&r (output).\n- It accepts &aany hatch&r — &cAmperage-based&r or &6Laser&r.\n- &cNo risk of explosion&r — transformers are &aintegrated&r.\n\n&eCapacitor Layers&r:\n- You can add up to &d17 layers&r of &9Capacitor Blocks&r on top of the structure.\n- Each layer must be &cfully filled&r — no gaps.\n- Mix &fempty&r and &6full&r capacitors however you like.\n\nSurround each layer with &bLaminated Glass&r.\n\nLet’s be honest: &cYou’ll never need 17 layers&r... but hey, it’s nice to dream big.\nIf you ever do build a full 17-layer PSS, &lplease send help&r — you’ve gone too far.",
 
     "quests.gregtech_energy.batteries.title": "Super Batteries",

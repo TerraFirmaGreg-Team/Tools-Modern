@@ -42,7 +42,7 @@
 
     "quests.high_voltage.rutile_loop.title": "Almost Titanium",
     "quests.high_voltage.rutile_loop.subtitle": "...means it WASN'T Titanium!",
-    "quests.high_voltage.rutile_loop.desc": "Titanium requires a slightly more &binvolved&r process than the previous materials to process. To get started, you'll need &aRutile&r, which can be obtained by processing &aIlmenite&r that you can get from &aBauxite&r, &aAluminium&r, &aArmalcolite&r and &aDesh&r, which can be found in massive quantities on &dThe Moon&r.\n\nOnce you've gotten enough &5Rutile&r, your journey to &6Titanium&r continues in the next quest. There's no need to rush things.\n\n&9Tip:&r Ore processing for &aBauxite&r is ridiculously good! Including the &3Thermal Centrifuge&r step easily &6triples&r your &aRutile&r yield.",
+    "quests.high_voltage.rutile_loop.desc": "Titanium requires a slightly more &binvolved&r process than the previous materials to process. To get started, you'll need &aRutile&r, which can be obtained by processing &aIlmenite&r that you can get from &aBauxite&r, &aAluminium&r, &aArmalcolite&r and &aDesh&r, which can be found in massive quantities on &dThe Moon&r.\n\nOnce you've gotten enough &5Rutile&r, your journey to &6Titanium&r continues in the next quest. There's no need to rush things.\n\n&9Tip:&r Ore processing for &aBauxite&r is ridiculously good! It can easily &6triples&r your &aRutile&r yield.",
 
     "quests.high_voltage.rutile_loop_2.title": "Almost Titanium²",
     "quests.high_voltage.rutile_loop_2.subtitle": "Is it titanium yet?",
