@@ -23,6 +23,6 @@
 
 	"item.gtceu.tool.behavior.silk_ice": "§dSculptor:§r Silk harvests Packed Ice",
 	"item.gtceu.tool.butchery_knife.tooltip": "§cButcher:§r Butchers animals for more meat",
-	"item.gtceu.tool.tooltip.repair_info": "",
-	"item.gtceu.tool.tooltip.repair_material": ""
+	"item.gtceu.tool.tooltip.repair_info": "§8Craft with a Repair Kit to repair 25% durability",
+	"item.gtceu.tool.tooltip.repair_material": "§8Craft with a Repair Kit to repair 25% durability"
 }
