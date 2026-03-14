@@ -240,7 +240,7 @@
 
     "quests.medium_voltage.mv_more_mv.title": "More MV Circuits",
     "quests.medium_voltage.mv_more_mv.subtitle": "More... I demand more!",
-    "quests.medium_voltage.mv_more_mv.desc": "The &bMV&r Circuit for the Integrated Tier, this is one is kinda bad. Use it only to make your first HV Circuit",
+    "quests.medium_voltage.mv_more_mv.desc": "The &bMV&r Circuit for the Integrated Tier. Don't make a ton of these, and only use them to make your first HV Circuits, because you'll soon gain access to an even better MV circuit.",
 
     "quests.medium_voltage.mv_first_hv.title": "First HV Circuits!",
     "quests.medium_voltage.mv_first_hv.subtitle": "...but hold on before getting too giddy",
