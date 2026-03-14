@@ -912,5 +912,9 @@
 	"block.tfg.silty_loam_duff": "Silty Loam Duff",
 	"block.tfg.sandy_loam_duff": "Sandy Loam Duff",
 	"block.tfg.silt_duff": "Silt Duff",
-	"block.tfg.loam_duff": "Loam Duff"
+	"block.tfg.loam_duff": "Loam Duff",
+
+	"block.tfg.large_bronze_boiler": "Large Bronze Boiler",
+	"block.tfg.large_steel_boiler": "Large Steel Boiler",
+	"block.tfg.large_steam_turbine": "Large Steam Turbine"
 }
