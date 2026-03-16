@@ -74,6 +74,11 @@
     "item.tfg.brick.scorchia": "Scorchia Brick",
     "item.tfg.brick.tuff": "Tuff Brick",
 
+    "item.tfg.mud_brick.alfisol": "Alkaline Mud Brick",
+    "item.tfg.mud_brick.mollisol": "Volcanic Mud Brick",
+    "item.tfg.mud_brick.oxisol": "Tropical Mud Brick",
+    "item.tfg.mud_brick.podzol": "Layered Mud Brick",
+
     "item.tfg.terra_firma_greg": "TerraFirmaGreg",
 
     "item.tfg.scaffolding_frame": "Scaffolding Frame",
