@@ -462,5 +462,23 @@
     "item.tfg.chromium_bonded_beo_pcb": "Chromium-Bonded Beryllia Printed Circuit Board",
 
     "item.tfg.optical_borosilicate_blank": "Optical Borosilicate Blank",
-    "item.tfg.worked_optical_borosilicate_blank": "Worked Optical Borosilicate Blank"
+    "item.tfg.worked_optical_borosilicate_blank": "Worked Optical Borosilicate Blank",
+
+    "item.tfg.cassava_seeds": "Cassava Seeds",
+    "item.tfg.cassava_product": "Cassava Root",
+    "item.tfg.peanut_seeds": "Peanut Seeds",
+    "item.tfg.peanut_product": "Peanuts",
+    "item.tfg.lentil_seeds": "Lentil Seeds",
+    "item.tfg.lentil_product": "Lentils",
+    "item.tfg.food.cooked_lentil": "Cooked Lentils",
+    "item.tfg.food.cooked_cassava": "Cooked Cassava",
+    "item.tfg.food.cooked_beans": "Cooked Beans",
+    "item.tfg.cucumber_seeds": "Cucumber Seeds",
+    "item.tfg.cucumber_product": "Cucumber",
+    "item.tfg.radish_seeds": "Radish Seeds",
+    "item.tfg.radish_product": "Radish",
+    "item.tfg.beans_seeds": "Bean Seeds",
+    "item.tfg.beans_product": "Beans",
+    "item.tfg.ghost_pepper_seeds": "Ghost Pepper Seeds",
+    "item.tfg.ghost_pepper_product": "Ghost Pepper"
 }

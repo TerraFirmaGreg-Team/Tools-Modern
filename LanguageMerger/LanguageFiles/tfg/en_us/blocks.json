@@ -984,5 +984,27 @@
 
 	"block.tfg.large_bronze_boiler": "Large Bronze Boiler",
 	"block.tfg.large_steel_boiler": "Large Steel Boiler",
-	"block.tfg.large_steam_turbine": "Large Steam Turbine"
+	"block.tfg.large_steam_turbine": "Large Steam Turbine",
+
+	"block.tfg.cassava": "Cassava",
+	"block.tfg.cassava_wild": "Wild Cassava",
+	"block.tfg.cassava_dead": "Dead Cassava",
+	"block.tfg.peanut": "Peanut",
+	"block.tfg.peanut_wild": "Wild Peanut",
+	"block.tfg.peanut_dead": "Dead Peanut",
+	"block.tfg.lentil": "Lentil",
+	"block.tfg.lentil_wild": "Wild Lentil",
+	"block.tfg.lentil_dead": "Dead Lentil",
+	"block.tfg.cucumber": "Cucumber",
+	"block.tfg.cucumber_wild": "Wild Cucumber",
+	"block.tfg.cucumber_dead": "Dead Cucumber",
+	"block.tfg.beans": "Beans",
+	"block.tfg.beans_wild": "Wild Beans",
+	"block.tfg.beans_dead": "Dead Beans",
+	"block.tfg.radish": "Radish",
+	"block.tfg.radish_wild": "Wild Radish",
+	"block.tfg.radish_dead": "Dead Radish",
+	"block.tfg.ghost_pepper": "Ghost Pepper",
+	"block.tfg.ghost_pepper_wild": "Wild Ghost Pepper",
+	"block.tfg.ghost_pepper_dead": "Dead Ghost Pepper"
 }

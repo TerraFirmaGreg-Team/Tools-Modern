@@ -174,5 +174,17 @@
     "tfg.tooltip.firmalife_greenhouse.oxygen_required.block": "§7An oxygenated environment is required to function as a greenhouse in space.",
 
     "tfg.tooltip.grow_light_disapointment": "§7No. This will not increase your crop growth speed...",
-    "tfg.tooltip.rotten_voiding_cover": "§7The Rotten Voiding Cover works just like an Item Voiding Cover but only targets and destroys §cRotten Items."
+    "tfg.tooltip.rotten_voiding_cover": "§7The Rotten Voiding Cover works just like an Item Voiding Cover but only targets and destroys §cRotten Items.",
+
+    "tfg.tooltip.fertilizer.nitrogen": "§b(N) Nitrogen",
+    "tfg.tooltip.fertilizer.phosphorus": "§6(P) Phosphorus",
+    "tfg.tooltip.fertilizer.potassium": "§d(K) Potassium",
+    "tfg.tooltip.crop.hydration": " 🌊 Hydration: ",
+    "tfg.tooltip.crop.temperature": " 🔥 Temperature: ",
+    "tfg.tooltip.crop.fertilizer": " 🧪 Fertilizer: ",
+    "tfg.tooltip.crop.dimension": " ⚐ Source: ",
+    "tfg.tooltip.crop.fruiting_months": " ❀ Fruiting: ",
+    "tfg.tooltip.crop.flooded": " §c�§r This crop needs to be §nflooded§r to grow!",
+    "tfg.tooltip.crop.stick": " §c�§r This crop needs a §nstick§r to grow!",
+    "tfg.tooltip.crop.grape_trellis": " §c�§r This crop needs a §ngrape trellis§r to grow!"
 }
