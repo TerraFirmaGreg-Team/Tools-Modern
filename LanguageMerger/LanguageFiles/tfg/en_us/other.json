@@ -123,5 +123,12 @@
 
     "tfg.multiblock.turbine.obstructed": "Your turbine is obstructed, check under and inside the chimney that there is nothing blocking it",
 
-    "tfg.clientmessage.spatialioblocked.claimedchunks": "Spatial IO blocked: Region contains chunks claimed by another team"
+    "tfg.clientmessage.spatialioblocked.claimedchunks": "Spatial IO blocked: Region contains chunks claimed by another team",
+
+    "tfg.machine.gas_well.active": "Active",
+    "tfg.machine.gas_well.waiting_explosive": "Waiting for Explosive",
+    "tfg.machine.gas_well.waiting_explosive.tooltip": "Insert an explosive to start the machine",
+    "tfg.machine.gas_well.fluid_consumption": "Fluid: %s Water or %s Steam",
+    "tfg.machine.gas_well.next_explosive": "Next explosive in: %s",
+    "tfg.machine.gas_well.vein_remaining": "Vein remaining: %s"
 }
