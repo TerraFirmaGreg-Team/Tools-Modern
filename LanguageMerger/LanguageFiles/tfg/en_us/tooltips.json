@@ -76,7 +76,7 @@
     "tfg.tooltip.machine.two_energy_hatches": "Accepts up to §6Two§r Energy Hatches.",
     "tfg.tooltip.machine.subtick": "This machine supports §2Subticking§r!",
     "tfg.tooltip.machine.coil_energy_discount": "Every coil after §6Cupronickel§r reduces energy usage by 10%.",
-    "tfg.tooltip.machine.coil_speed_discount": "§6Cupronickel§r coils process 75% slower. Every coil after §3Kanthal§r increases processing speed by 50%.",
+    "tfg.tooltip.machine.coil_speed_discount": "§6Cupronickel§r coils process 25% slower. Every coil after §3Kanthal§r increases processing speed by 50%.",
     "tfg.tooltip.machine.bioreactor_1": "§7Chemistry meets Biology§r",
     "tfg.tooltip.machine.bioreactor_2": "§7Combines organic and inorganic ingredients to produce synthetic biological products.§r",
     "tfg.tooltip.machine.growth_chamber_1": "§7Growing new life§r",
