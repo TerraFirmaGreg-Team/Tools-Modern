@@ -188,4 +188,7 @@
     "tfg.tooltip.crop.flooded": " §c�§r This crop needs to be §nflooded§r to grow!",
     "tfg.tooltip.crop.stick": " §c�§r This crop needs a §nstick§r to grow!",
     "tfg.tooltip.crop.grape_trellis": " §c�§r This crop needs a §ngrape trellis§r to grow!"
+	
+	"tfg.tooltip.tier_locked_block": "Requires Steel+ Tools to Break",
+	"tfg.tooltip.tier_locked_block_explosives": "Weak to Explosives",
 }
