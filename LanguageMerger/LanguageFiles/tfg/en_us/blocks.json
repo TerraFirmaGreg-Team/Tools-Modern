@@ -933,6 +933,8 @@
 	"block.tfg.mud_bricks.alfisol_stairs": "Alkaline Mud Brick Stairs",
 	"block.tfg.mud_bricks.alfisol_slab": "Alkaline Mud Brick Slab",
 	"block.tfg.mud_bricks.alfisol_wall": "Alkaline Mud Brick Wall",
+	"block.tfg.tamped.dirt.alfisol": "Tamped Alkaline Dirt",
+	"block.tfg.tamped.mud.alfisol": "Tamped Alkaline Mud",
 
 	"block.tfg.dirt.mollisol": "Volcanic Dirt",
 	"block.tfg.grass_path.mollisol": "Volcanic Dirt Path",
@@ -950,6 +952,8 @@
 	"block.tfg.mud_bricks.mollisol_stairs": "Volcanic Mud Brick Stairs",
 	"block.tfg.mud_bricks.mollisol_slab": "Volcanic Mud Brick Slab",
 	"block.tfg.mud_bricks.mollisol_wall": "Volcanic Mud Brick Wall",
+	"block.tfg.tamped.dirt.mollisol": "Tamped Volcanic Dirt",
+	"block.tfg.tamped.mud.mollisol": "Tamped Volcanic Mud",
 
 	"block.tfg.dirt.oxisol": "Tropical Dirt",
 	"block.tfg.grass_path.oxisol": "Tropical Dirt Path",
@@ -967,6 +971,8 @@
 	"block.tfg.mud_bricks.oxisol_stairs": "Tropical Mud Brick Stairs",
 	"block.tfg.mud_bricks.oxisol_slab": "Tropical Mud Brick Slab",
 	"block.tfg.mud_bricks.oxisol_wall": "Tropical Mud Brick Wall",
+	"block.tfg.tamped.dirt.oxisol": "Tamped Tropical Dirt",
+	"block.tfg.tamped.mud.oxisol": "Tamped Trapical Mud",
 
 	"block.tfg.dirt.podzol": "Layered Dirt",
 	"block.tfg.grass_path.podzol": "Layered Dirt Path",
@@ -984,6 +990,8 @@
 	"block.tfg.mud_bricks.podzol_stairs": "Layered Mud Brick Stairs",
 	"block.tfg.mud_bricks.podzol_slab": "Layered Mud Brick Slab",
 	"block.tfg.mud_bricks.podzol_wall": "Layered Mud Brick Wall",
+	"block.tfg.tamped.dirt.podzol": "Tamped Layered Dirt",
+	"block.tfg.tamped.mud.podzol": "Tamped Layered Mud",
 
 	"block.tfg.large_bronze_boiler": "Large Bronze Boiler",
 	"block.tfg.large_steel_boiler": "Large Steel Boiler",
