@@ -1,0 +1,15 @@
+{
+	"id": "tuff",
+	"pattern": "gtceu:tuff_{0}_ore",
+	"translations": {
+		"en_us": "Shale",
+		"pt_br": "Folhelho",
+		"ru_ru": "Сланец",
+		"uk_ua": "Глинистий сланець",
+		"zh_cn": "页岩",
+        "de_de": "Schieferstein"
+	},
+	"replaceable_blocks": [
+		"minecraft:tuff"
+	]
+}
