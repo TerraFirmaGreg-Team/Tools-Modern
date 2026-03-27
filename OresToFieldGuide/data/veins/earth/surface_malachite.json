@@ -1,9 +1,9 @@
 {
-    "id": "surface_tetrahedrite",
+    "id": "surface_malachite",
     "dimension": "earth",
     "type": "tfc:cluster_vein",
     "config": {
-        "rarity": 7,
+        "rarity": 32,
         "density": 0.25,
         "min_y": 60,
         "max_y": 90,
@@ -11,7 +11,7 @@
     },
     "ores": [
         {
-            "ore": "tetrahedrite",
+            "ore": "malachite",
             "weight": 100,
             "block_weight": 1
         }
@@ -22,16 +22,20 @@
         "phyllite",
         "schist",
         "gneiss",
+        "marble",
+        "limestone",
+        "chalk",
+        "dolomite",
         "marble"
     ],
     "indicator": {
-        "rarity": 8,
+        "rarity": 14,
         "depth": 35
     },
     "translations": [
         {
             "lang": "en_us",
-            "text": "Tetrahedrite (Copper)"
+            "text": "Malachite (Copper)"
         }
     ]
 }

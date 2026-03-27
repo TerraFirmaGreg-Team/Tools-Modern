@@ -1,17 +1,17 @@
 {
-    "id": "surface_tetrahedrite",
+    "id": "surface_mica",
     "dimension": "earth",
     "type": "tfc:cluster_vein",
     "config": {
-        "rarity": 7,
-        "density": 0.25,
+        "rarity": 90,
+        "density": 0.15,
         "min_y": 60,
         "max_y": 90,
-        "size": 20
+        "size": 5
     },
     "ores": [
         {
-            "ore": "tetrahedrite",
+            "ore": "mica",
             "weight": 100,
             "block_weight": 1
         }
@@ -25,13 +25,13 @@
         "marble"
     ],
     "indicator": {
-        "rarity": 8,
+        "rarity": 14,
         "depth": 35
     },
     "translations": [
         {
             "lang": "en_us",
-            "text": "Tetrahedrite (Copper)"
+            "text": "Mica"
         }
     ]
 }
