@@ -1,17 +1,17 @@
 {
-    "id": "surface_native_silver",
+    "id": "high_sulfur",
     "dimension": "earth",
     "type": "tfc:cluster_vein",
     "config": {
-        "rarity": 15,
-        "density": 0.2,
-        "min_y": 60,
-        "max_y": 80,
+        "rarity": 120,
+        "density": 0.9,
+        "min_y": 100,
+        "max_y": 170,
         "size": 10
     },
     "ores": [
         {
-            "ore": "silver",
+            "ore": "sulfur",
             "weight": 100,
             "block_weight": 1
         }
@@ -21,14 +21,13 @@
         "diorite",
         "gabbro"
     ],
-    "indicator": {
-        "rarity": 12,
-        "depth": 35
-    },
+    "visual_only": true,
     "translations": [
         {
             "lang": "en_us",
-            "text": "Native Silver"
+            "text": "Sulfur (Volcanic)",
+            "info": "Only appears in volcanic biomes.",
+            "emi": "Only in volcanic biomes."
         }
     ]
 }

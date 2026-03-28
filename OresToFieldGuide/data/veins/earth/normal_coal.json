@@ -26,6 +26,10 @@
         "chalk",
         "tuff"
     ],
+    "indicator": {
+        "rarity": 18,
+        "depth": 60
+    },
     "translations": [
         {
             "lang": "en_us",

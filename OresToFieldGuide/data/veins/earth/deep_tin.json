@@ -28,6 +28,10 @@
         "gneiss",
         "marble"
     ],
+    "indicator": {
+        "rarity": 10,
+        "depth": 1
+    },
     "translations": [
         {
             "lang": "en_us",

@@ -6,7 +6,7 @@
         "rarity": 35,
         "density": 0.3,
         "min_y": 60,
-        "max_y": 90,
+        "max_y": 80,
         "size": 15
     },
     "ores": [
@@ -20,10 +20,7 @@
         "rhyolite",
         "basalt",
         "andesite",
-        "dacite",
-        "granite",
-        "diorite",
-        "gabbro"
+        "dacite"
     ],
     "indicator": {
         "rarity": 14,

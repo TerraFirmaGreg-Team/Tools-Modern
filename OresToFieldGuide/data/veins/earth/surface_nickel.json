@@ -6,7 +6,7 @@
         "rarity": 120,
         "density": 0.2,
         "min_y": 60,
-        "max_y": 90,
+        "max_y": 80,
         "size": 20
     },
     "ores": [
@@ -17,9 +17,14 @@
         }
     ],
     "rocks": [
-        "granite",
-        "diorite",
-        "gabbro"
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk",
+        "tuff"
     ],
     "indicator": {
         "rarity": 14,

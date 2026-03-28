@@ -27,6 +27,10 @@
     "rocks": [
         "granite"
     ],
+    "indicator": {
+        "rarity": 10,
+        "depth": 90
+    },
     "translations": [
         {
             "lang": "en_us",
