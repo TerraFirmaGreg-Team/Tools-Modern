@@ -2,6 +2,7 @@
     "id": "deep_graphite",
     "dimension": "earth",
     "type": "tfc:pipe_vein",
+    "biome_tag": "#tfg:earth/is_volcanic",
     "config": {
         "rarity": 140,
         "density": 0.6,
@@ -31,7 +32,6 @@
         "diorite",
         "gabbro"
     ],
-    "visual_only": true,
     "indicator": {
         "rarity": 10,
         "depth": 1
