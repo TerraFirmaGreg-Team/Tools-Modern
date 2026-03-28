@@ -22,8 +22,49 @@ namespace OresToFieldGuide
 		[JsonPropertyName("type")]
 		public required string Type { get; set; }
 
+		/// <summary>
+		/// (Optional) Set this to true to skip writing out the placed feature and tag.
+		/// Useful for veins that you want to control precisely but still show up
+		/// in the field guide/EMI
+		/// </summary>
 		[JsonPropertyName("visual_only")]
 		public bool? VisualOnly { get; set; }
+
+		/// <summary>
+		/// (Optional) Biome tag to restrict placement of this vein.
+		/// </summary>
+		[JsonPropertyName("biome_tag")]
+		public string? BiomeTag { get; set; }
+
+		/// <summary>
+		/// (Optional) The vein will only spawn if there's lava blocks nearby
+		/// </summary>
+		[JsonPropertyName("near_lava")]
+		public bool NearLava { get; set; } = false;
+
+		/// <summary>
+		/// (Optional) This adds the height of the world surface to the position
+		/// the vein will spawn at. This means that min_y and max_y must then be 
+		/// specified relative to the world surface, rather than as an absolute y level.
+		/// </summary>
+		[JsonPropertyName("project")]
+		public bool Project { get; set; } = false;
+
+		/// <summary>
+		/// (Optional) This offsets the surface height used to make the surface projection
+		/// when `project` is enabled by a random amount laterally. 
+		/// For example, this might mean that a vein set to spawn a few blocks below the
+		/// surface may occasionally break the surface, since the projection it is using
+		/// is no longer completely accurate.
+		/// </summary>
+		[JsonPropertyName("project_offset")]
+		public bool ProjectOffset { get; set; } = false;
+
+		/// <summary>
+		/// (Optional) Climate placer
+		/// </summary>
+		[JsonPropertyName("climate")]
+		public ClimateConfig? Climate { get; set; }
 
 		/// <summary>
 		/// The Configuration for the Vein
@@ -131,6 +172,33 @@ namespace OresToFieldGuide
 
 		[JsonPropertyName("sign")]
 		public double Sign { get; set; }
+	}
+
+	/// <summary>
+	/// See https://terrafirmacraft.github.io/Documentation/1.20.x/worldgen/decorators/#climate
+	/// </summary>
+	public class ClimateConfig
+	{
+		[JsonPropertyName("min_temperature")]
+		public int? MinTemperature { get; set; }
+
+		[JsonPropertyName("max_temperature")]
+		public int? MaxTemperature { get; set; }
+
+		[JsonPropertyName("min_rainfall")]
+		public int? MinRainfall { get; set; }
+
+		[JsonPropertyName("max_rainfall")]
+		public int? MaxRainfall { get; set; }
+
+		[JsonPropertyName("min_forest")]
+		public string? MinForest { get; set; }
+
+		[JsonPropertyName("max_forest")]
+		public string? MaxForest { get; set; }
+
+		[JsonPropertyName("fuzzy")]
+		public bool? Fuzzy { get; set; }
 	}
 
 	public class WeightedBlock

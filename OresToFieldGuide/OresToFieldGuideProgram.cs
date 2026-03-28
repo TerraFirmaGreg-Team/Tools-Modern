@@ -15,13 +15,13 @@ namespace OresToFieldGuide
 		public static readonly string[] s_locales =
 		[
 			"en_us", // US English
-			"ru_ru", // Russian
-			"uk_ua", // Ukranian
-			"pt_br", // Brazilian Portuguese
-			"zh_cn", // Simplified Chinese
-			"fr_fr", // French
-			"ja_jp", // Japanese
-			"de_de", // German
+			//"ru_ru", // Russian
+			//"uk_ua", // Ukranian
+			//"pt_br", // Brazilian Portuguese
+			//"zh_cn", // Simplified Chinese
+			//"fr_fr", // French
+			//"ja_jp", // Japanese
+			//"de_de", // German
 		];
 
 		private readonly JsonSerializerOptions m_jsonOptions = new()
@@ -599,6 +599,11 @@ namespace OresToFieldGuide
 					{
 						Feature = $"tfg:{dimension.ID}/vein/{vein.ID}",
 					};
+
+					if (vein.Climate is not null)
+					{
+						feature.Placement.Add(new ClimatePlacer(vein.Climate));
+					}
 
 					string json = JsonSerializer.Serialize(feature, m_jsonOptions);
 					File.WriteAllText(Path.Combine(placedVeinDir, vein.ID + ".json"), json);

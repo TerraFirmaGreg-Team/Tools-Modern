@@ -14,6 +14,39 @@ namespace OresToFieldGuide
 		/// Always empty unless we need to make a climate-sensitive vein or something
 		/// </summary>
 		[JsonPropertyName("placement")]
-		public object[] Placement { get; } = [];
+		public List<IFeaturePlacer> Placement { get; } = [];
+	}
+
+	[JsonDerivedType(typeof(ClimatePlacer))]
+	public interface IFeaturePlacer
+	{
+		public string Type { get; }
+	}
+
+	public class ClimatePlacer(ClimateConfig config) : IFeaturePlacer
+	{
+		[JsonPropertyName("type")]
+		public string Type => "tfc:climate";
+
+		[JsonPropertyName("min_temperature")]
+		public int? MinTemperature { get; set; } = config.MinTemperature;
+
+		[JsonPropertyName("max_temperature")]
+		public int? MaxTemperature { get; set; } = config.MaxTemperature;
+
+		[JsonPropertyName("min_rainfall")]
+		public int? MinRainfall { get; set; } = config.MinRainfall;
+
+		[JsonPropertyName("max_rainfall")]
+		public int? MaxRainfall { get; set; } = config.MaxRainfall;
+
+		[JsonPropertyName("min_forest")]
+		public string? MinForest { get; set; } = config.MinForest;
+
+		[JsonPropertyName("max_forest")]
+		public string? MaxForest { get; set; } = config.MaxForest;
+
+		[JsonPropertyName("fuzzy")]
+		public bool? Fuzzy { get; set; } = config.Fuzzy;
 	}
 }
