@@ -21,16 +21,17 @@
         "diorite",
         "gabbro"
     ],
+    "visual_only": true,
     "indicator": {
         "rarity": 10,
         "depth": 1
     },
-    "visual_only": true,
     "translations": [
         {
             "lang": "en_us",
             "text": "Sulfur (Deep)",
-            "info": "Generates near lava."
+            "info": "Generates near lava.",
+            "emi": "Only near lava."
         }
     ]
 }

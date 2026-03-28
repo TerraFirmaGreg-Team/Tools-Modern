@@ -6,8 +6,8 @@
         "rarity": 35,
         "density": 0.3,
         "min_y": 60,
-        "max_y": 80,
-        "size": 15
+        "max_y": 70,
+        "size": 10
     },
     "ores": [
         {

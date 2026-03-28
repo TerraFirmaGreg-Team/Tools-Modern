@@ -19,7 +19,25 @@
     "rocks": [
         "granite",
         "diorite",
-        "gabbro"
+        "gabbro",
+        "rhyolite",
+        "basalt",
+        "andesite",
+        "dacite",
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk",
+        "tuff",
+        "quartzite",
+        "slate",
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble"
     ],
     "visual_only": true,
     "translations": [
