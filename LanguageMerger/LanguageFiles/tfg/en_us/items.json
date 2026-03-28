@@ -481,5 +481,9 @@
     "item.tfg.beans_seeds": "Bean Seeds",
     "item.tfg.beans_product": "Beans",
     "item.tfg.ghost_pepper_seeds": "Ghost Pepper Seeds",
-    "item.tfg.ghost_pepper_product": "Ghost Pepper"
+    "item.tfg.ghost_pepper_product": "Ghost Pepper",
+
+    "item.tfg.food.lavacado": "Lavacado",
+    "item.tfg.food.magmango": "Magmango",
+    "item.tfg.food.freeze_dried.magmango": "Freeze Dried Magmango"
 }
