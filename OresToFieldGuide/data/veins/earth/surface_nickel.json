@@ -1,0 +1,39 @@
+{
+    "id": "surface_nickel",
+    "dimension": "earth",
+    "type": "tfc:cluster_vein",
+    "config": {
+        "rarity": 120,
+        "density": 0.2,
+        "min_y": 60,
+        "max_y": 70,
+        "size": 15
+    },
+    "ores": [
+        {
+            "ore": "garnierite",
+            "weight": 100,
+            "block_weight": 1
+        }
+    ],
+    "rocks": [
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk",
+        "tuff"
+    ],
+    "indicator": {
+        "rarity": 14,
+        "depth": 35
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Garnierite (Nickel)"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "surface_hematite",
+    "dimension": "earth",
+    "type": "tfc:cluster_vein",
+    "config": {
+        "rarity": 45,
+        "density": 0.35,
+        "min_y": 60,
+        "max_y": 70,
+        "size": 15
+    },
+    "ores": [
+        {
+            "ore": "hematite",
+            "weight": 100,
+            "block_weight": 1
+        }
+    ],
+    "rocks": [
+        "rhyolite",
+        "basalt",
+        "andesite",
+        "dacite"
+    ],
+    "indicator": {
+        "rarity": 24,
+        "depth": 35
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Hematite"
+        }
+    ]
+}
