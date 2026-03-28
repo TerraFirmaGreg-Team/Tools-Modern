@@ -269,6 +269,7 @@
     "item.tfg.compressed_trimix_3_bucket": "50/30/20 Trimix-3 Bucket",
     "item.tfg.heavy_ammoniacal_water_bucket": "Heavy Ammoniacal Water Bucket",
     "item.tfg.semiheavy_ammoniacal_water_bucket": "Semiheavy Ammoniacal Water Bucket",
+    "item.tfg.muddy_water_bucket": "Muddy Water Bucket",
 
     "item.tfg.harvest_basket": "Harvest Basket",
     "item.tfg.aluminium_harvest_basket": "Aluminium Harvest Basket",
@@ -480,5 +481,9 @@
     "item.tfg.beans_seeds": "Bean Seeds",
     "item.tfg.beans_product": "Beans",
     "item.tfg.ghost_pepper_seeds": "Ghost Pepper Seeds",
-    "item.tfg.ghost_pepper_product": "Ghost Pepper"
+    "item.tfg.ghost_pepper_product": "Ghost Pepper",
+
+    "item.tfg.food.lavacado": "Lavacado",
+    "item.tfg.food.magmango": "Magmango",
+    "item.tfg.food.freeze_dried.magmango": "Freeze Dried Magmango"
 }

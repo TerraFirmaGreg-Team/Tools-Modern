@@ -179,7 +179,7 @@
 
 	"quests.low_voltage.lv_sprayer.title": "Spray Can",
 	"quests.low_voltage.lv_sprayer.subtitle": "Time for server tag wars",
-	"quests.low_voltage.lv_sprayer.desc": "Unfortunately, this is only an &lEmpty&r Spray Can, which you have to fill with Dye before using.\n\n&aSpray Cans&r do not provide any functionality involving machines, but can be quite &bvisually appealing and useful&r!\n\nAny (or almost any) GregTech tile entity (machine, pipe, cable...) can be &6painted&r to one of the 16 colors of your choosing. This is great for screenshots, or to separate different setups for convenience in a Multiplayer base. They also help with distinguishing between pipelines and cables.\n\nHolding the &aSpray Can&r in the offhand will automatically paint any block you place.",
+	"quests.low_voltage.lv_sprayer.desc": "Unfortunately, this is only an &lEmpty&r Spray Can, which you have to fill with Dye before using.\n\nAny (or almost any) GregTech tile entity (machine, pipe, cable...) can be &6painted&r to one of the 16 colors of your choosing. This is great for screenshots, or to separate different setups for convenience in a Multiplayer base. They also help with distinguishing between pipelines and cables.\n\nHolding the &aSpray Can&r in the offhand will automatically paint any block you place.\n\nWhile this may not be immediately useful in &6LV&r, you can also paint Input and Output Buses and Hatches in matching colors to effectively \"group\" them together, ensuring recipe ingredients are kept separated if you're trying to use a single multiblock to do multiple recipes.",
 
 	"quests.low_voltage.other_machines.title": "But wait, there's more!",
 	"quests.low_voltage.other_machines.subtitle": "You can't escape Greg...",
