@@ -1,0 +1,42 @@
+{
+    "id": "deep_kyanite",
+    "dimension": "earth",
+    "type": "tfc:cluster_vein",
+    "config": {
+        "rarity": 160,
+        "density": 0.19,
+        "min_y": -50,
+        "max_y": 20,
+        "size": 32
+    },
+    "ores": [
+        {
+            "ore": "kyanite",
+            "weight": 12,
+            "block_weight": 1
+        },
+        {
+            "ore": "mica",
+            "weight": 8
+        },
+        {
+            "ore": "pollucite",
+            "weight": 5
+        }
+    ],
+    "rocks": [
+        "quartzite",
+        "slate",
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble"
+    ],
+    "indicator": {},
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Kyanite, Mica & Pollucite"
+        }
+    ]
+}

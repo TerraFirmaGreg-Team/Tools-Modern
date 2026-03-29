@@ -1,0 +1,38 @@
+{
+    "id": "deep_sulfur",
+    "dimension": "earth",
+    "type": "tfc:disc_vein",
+    "near_lava": true,
+    "config": {
+        "rarity": 34,
+        "density": 0.84,
+        "min_y": -60,
+        "max_y": -45,
+        "size": 23,
+        "height": 5
+    },
+    "ores": [
+        {
+            "ore": "sulfur",
+            "weight": 10,
+            "block_weight": 1
+        }
+    ],
+    "rocks": [
+        "granite",
+        "diorite",
+        "gabbro"
+    ],
+    "indicator": {
+        "rarity": 100,
+        "depth": 5
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Sulfur (Deep)",
+            "info": "Only near Lava",
+            "emi": "Only near Lava"
+        }
+    ]
+}

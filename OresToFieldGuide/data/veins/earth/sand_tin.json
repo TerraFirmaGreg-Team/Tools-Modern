@@ -1,0 +1,37 @@
+{
+    "id": "sand_tin",
+    "dimension": "earth",
+    "type": "tfc:cluster_vein",
+    "project": true,
+    "config": {
+        "rarity": 190,
+        "density": 0.2,
+        "min_y": -5,
+        "max_y": 1,
+        "size": 15
+    },
+    "ores": [
+        {
+            "ore": "cassiterite_sand",
+            "weight": 1
+        }
+    ],
+    "rocks": [
+        "black_sand",
+        "brown_sand",
+        "green_sand",
+        "pink_sand",
+        "red_sand",
+        "white_sand",
+        "yellow_sand"
+    ],
+    "indicator": {},
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Cassiterite Sand",
+            "info": "Surface Vein\\nThe Y-Level shows its range from surface.",
+            "emi": "Surface Vein\\nThe Y-Level shows its range from surface."
+        }
+    ]
+}

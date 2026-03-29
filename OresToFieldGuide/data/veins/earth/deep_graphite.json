@@ -1,0 +1,47 @@
+{
+    "id": "deep_graphite",
+    "dimension": "earth",
+    "type": "tfc:pipe_vein",
+    "biome_tag": "#tfg:earth/is_volcanic",
+    "config": {
+        "rarity": 140,
+        "density": 0.14,
+        "min_y": -50,
+        "max_y": 0,
+        "height": 150,
+        "radius": 18,
+        "min_skew": 7,
+        "max_skew": 20,
+        "min_slant": 2,
+        "max_slant": 5,
+        "sign": 0
+    },
+    "ores": [
+        {
+            "ore": "graphite",
+            "weight": 6,
+            "block_weight": 1
+        },
+        {
+            "ore": "diamond",
+            "weight": 4
+        }
+    ],
+    "rocks": [
+        "granite",
+        "diorite",
+        "gabbro"
+    ],
+    "indicator": {
+        "rarity": 100,
+        "depth": 1
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Graphite & Diamond",
+            "info": "Only in Volcanic Biomes",
+            "emi": "Only in Volcanic Biomes"
+        }
+    ]
+}

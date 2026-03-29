@@ -1,0 +1,38 @@
+{
+    "id": "deep_apatite",
+    "dimension": "earth",
+    "type": "tfc:cluster_vein",
+    "config": {
+        "rarity": 190,
+        "density": 0.27,
+        "min_y": -50,
+        "max_y": 20,
+        "size": 34
+    },
+    "ores": [
+        {
+            "ore": "apatite",
+            "weight": 8
+        },
+        {
+            "ore": "tricalcium_phosphate",
+            "weight": 6
+        },
+        {
+            "ore": "pyrochlore",
+            "weight": 2
+        }
+    ],
+    "rocks": [
+        "granite",
+        "diorite",
+        "gabbro"
+    ],
+    "indicator": {},
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Apatite, Tricalcium Phosphate & Pyrochlore"
+        }
+    ]
+}

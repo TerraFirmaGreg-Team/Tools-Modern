@@ -411,3 +411,4 @@ AdvancedMultiblockConverter/advanced-multiblock-converter/win-unpacked/
 AdvancedMultiblockConverter/advanced-multiblock-converter/builder-debug.yml
 AdvancedMultiblockConverter/advanced-multiblock-converter/builder-effective-config.yaml
 /OresToFieldGuide/Properties/launchSettings.json
+.vscode/tasks.json

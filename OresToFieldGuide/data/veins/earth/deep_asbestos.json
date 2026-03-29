@@ -1,0 +1,43 @@
+{
+    "id": "deep_asbestos",
+    "dimension": "earth",
+    "type": "tfc:disc_vein",
+    "config": {
+        "rarity": 190,
+        "density": 0.24,
+        "min_y": -50,
+        "max_y": 20,
+        "size": 32,
+        "height": 5
+    },
+    "ores": [
+        {
+            "ore": "cassiterite_sand",
+            "weight": 5,
+            "block_weight": 1
+        },
+        {
+            "ore": "asbestos",
+            "weight": 3
+        },
+        {
+            "ore": "diatomite",
+            "weight": 1
+        }
+    ],
+    "rocks": [
+        "quartzite",
+        "slate",
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble"
+    ],
+    "indicator": {},
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Cassiterite Sand, Asbestos & Diatomite"
+        }
+    ]
+}

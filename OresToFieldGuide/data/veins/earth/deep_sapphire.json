@@ -1,66 +1,52 @@
 {
-	"id": "deep_sapphire",
-	"dimension": "earth",
-	"type": "tfc:disc_vein",
-	"config": {
-		"rarity": 180,
-		"density": 0.35,
-		"min_y": -64,
-		"max_y": 32,
-		"size": 28,
-		"height": 8
-	},
-	"ores": [
-		{
-			"ore": "almandine",
-			"weight": 35,
-			"block_weight": 1
-		},
-		{
-			"ore": "pyrope",
-			"weight": 25,
-			"block_weight": 1
-		},
-		{
-			"ore": "sapphire",
-			"weight": 15
-		},
-		{
-			"ore": "green_sapphire",
-			"weight": 15
-		}
-	],
-	"rocks": [
-		"rhyolite",
-		"basalt",
-		"andesite",
-		"dacite",
-		"diorite"
-	],
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Sapphire & Almandine"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Safira e Almandina"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Сапфир и Альмандин"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Сапфір і Альмадін"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "蓝宝石, 铁铝榴石"
-		},
+    "id": "deep_sapphire",
+    "dimension": "earth",
+    "type": "tfc:pipe_vein",
+    "config": {
+        "rarity": 180,
+        "density": 0.19,
+        "min_y": -50,
+        "max_y": 20,
+        "height": 60,
+        "radius": 10,
+        "min_skew": 7,
+        "max_skew": 20,
+        "min_slant": 2,
+        "max_slant": 5,
+        "sign": 0
+    },
+    "ores": [
         {
-            "lang": "de_de",
-            "text": "Saphir & Almandin"
+            "ore": "almandine",
+            "weight": 8,
+            "block_weight": 1
+        },
+        {
+            "ore": "pyrope",
+            "weight": 12
+        },
+        {
+            "ore": "sapphire",
+            "weight": 16
+        },
+        {
+            "ore": "green_sapphire",
+            "weight": 13
         }
-	]
+    ],
+    "rocks": [
+        "quartzite",
+        "slate",
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble"
+    ],
+    "indicator": {},
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Almandine, Pyrope & Sapphire"
+        }
+    ]
 }

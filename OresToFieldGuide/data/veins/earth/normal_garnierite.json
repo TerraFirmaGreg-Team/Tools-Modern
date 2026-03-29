@@ -1,97 +1,47 @@
 {
-	"id": "normal_garnierite",
-	"dimension": "earth",
-	"type": "tfc:cluster_vein",
-	"config": {
-		"rarity": 160,
-		"density": 0.4,
-		"min_y": -32,
-		"max_y": 60,
-		"size": 40
-	},
-	"ores": [
-		{
-			"ore": "garnierite",
-			"weight": 30,
-			"block_weight": 1
-		},
-		{
-			"ore": "nickel",
-			"weight": 10
-		},
-		{
-			"ore": "cobaltite",
-			"weight": 20
-		},
-		{
-			"ore": "pentlandite",
-			"weight": 25
-		},
-		{
-			"ore": "cobalt",
-			"weight": 15
-		}
-	],
-	"rocks": [
-		"gabbro",
-		"diorite"
-	],
-	"indicator": {
-		"rarity": 12,
-		"depth": 70,
-		"blocks": [
-			{
-				"block": "tfc:ore/small_garnierite",
-				"weight": 55
-			},
-			{
-				"block": "gtceu:cobaltite_indicator",
-				"weight": 20
-			},
-			{
-				"block": "gtceu:pentlandite_indicator",
-				"weight": 10
-			},
-			{
-				"block": "gtceu:cobalt_indicator",
-				"weight": 15
-			}
-		]
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Garnierite & Cobaltite",
-			"info": "Can't find it? Gabbro always spawns below $(thing)Basalt$(), and Gabbro dikes in oceans can be useful too!",
-			"emi": "Tip: Gabbro is always\\nunderneath Basalt."
-		},
-		{
-			"lang": "pt_br",
-			"text": "Garnierita e Cobaltita",
-			"info": "Não consegue encontrar? O Gabro sempre gera abaixo do $(thing)Basalto$(), e diques de Gabro nos oceanos também podem ser úteis!"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Гарниерит и Кобальтит",
-			"info": "Не получается найти это? Габбро всегда генерируется под $(thing)Базальтом$(), а на дне океана легко обнаружить столбы, ведущие к нижнему слою!",
-			"emi": "Подсказка: Габбро всегда находится\\nпод Базальтом."
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Гарнієрит і Кобальтит",
-			"info": "Не можеш знайти? Габро завжди залягає нижче $(thing)Базальту$(), і дамби з Габро в океанах теж можуть бути корисними!"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "硅镁镍矿, 辉钴矿",
-			"info": "找不到吗？辉长岩总是生成在$(thing)玄武岩$()的下方，而且在海洋中的辉长岩岩脉也可能有用！",
-			"emi": "提示：辉长岩总是\\n生成在玄武岩下方。"
-		},
+    "id": "normal_garnierite",
+    "dimension": "earth",
+    "type": "tfc:cluster_vein",
+    "config": {
+        "rarity": 190,
+        "density": 0.2,
+        "min_y": 0,
+        "max_y": 60,
+        "size": 15
+    },
+    "ores": [
         {
-            "lang": "de_de",
-            "text": "Garnierit & Kobaltit",
-            "info": "Kannst es nicht finden? Gabbro erscheint immer unter $(thing)Basalt$(), und Gabbrodeiche im Ozean können auch nützlich sein!",
-            "emi": "Tipp: Gabbro ist immer\\nunter Basalt."
+            "ore": "garnierite",
+            "weight": 12
+        },
+        {
+            "ore": "nickel",
+            "weight": 4,
+            "block_weight": 1
+        },
+        {
+            "ore": "cobaltite",
+            "weight": 7
         }
-	]
+    ],
+    "rocks": [
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk",
+        "tuff"
+    ],
+    "indicator": {
+        "rarity": 18,
+        "depth": 60
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Garnierite, Nickel & Cobaltite"
+        }
+    ]
 }

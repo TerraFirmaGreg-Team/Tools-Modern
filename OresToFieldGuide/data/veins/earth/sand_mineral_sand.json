@@ -1,0 +1,49 @@
+{
+    "id": "sand_mineral_sand",
+    "dimension": "earth",
+    "type": "tfc:cluster_vein",
+    "project": true,
+    "config": {
+        "rarity": 190,
+        "density": 0.24,
+        "min_y": -5,
+        "max_y": 1,
+        "size": 34
+    },
+    "ores": [
+        {
+            "ore": "basaltic_mineral_sand",
+            "weight": 8
+        },
+        {
+            "ore": "granitic_mineral_sand",
+            "weight": 4
+        },
+        {
+            "ore": "fullers_earth",
+            "weight": 4
+        },
+        {
+            "ore": "glauconite_sand",
+            "weight": 5
+        }
+    ],
+    "rocks": [
+        "black_sand",
+        "brown_sand",
+        "green_sand",
+        "pink_sand",
+        "red_sand",
+        "white_sand",
+        "yellow_sand"
+    ],
+    "indicator": {},
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Mineral Sand",
+            "info": "Surface Vein\\nThe Y-Level shows its range from surface.",
+            "emi": "Surface Vein\\nThe Y-Level shows its range from surface."
+        }
+    ]
+}

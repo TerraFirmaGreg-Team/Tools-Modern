@@ -1,0 +1,43 @@
+{
+    "id": "deep_bauxite",
+    "dimension": "earth",
+    "type": "tfc:cluster_vein",
+    "config": {
+        "rarity": 310,
+        "density": 0.16,
+        "min_y": -50,
+        "max_y": 20,
+        "size": 24
+    },
+    "ores": [
+        {
+            "ore": "bauxite",
+            "weight": 3
+        },
+        {
+            "ore": "ilmenite",
+            "weight": 7,
+            "block_weight": 1
+        }
+    ],
+    "rocks": [
+        "granite",
+        "diorite",
+        "gabbro",
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk",
+        "tuff"
+    ],
+    "indicator": {},
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Bauxite & Ilmenite"
+        }
+    ]
+}

@@ -1,67 +1,51 @@
 {
-	"id": "normal_salt",
-	"dimension": "earth",
-	"type": "tfc:disc_vein",
-	"config": {
-		"rarity": 175,
-		"density": 0.4,
-		"min_y": 30,
-		"max_y": 70,
-		"size": 40,
-		"height": 4
-	},
-	"ores": [
-		{
-			"ore": "rock_salt",
-			"weight": 40,
-			"block_weight": 1
-		},
-		{
-			"ore": "salt",
-			"weight": 30,
-			"block_weight": 1
-		},
-		{
-			"ore": "lepidolite",
-			"weight": 15
-		},
-		{
-			"ore": "borax",
-			"weight": 15
-		}
-	],
-	"rocks": [
-		"shale",
-		"claystone",
-		"limestone"
-	],
-	"indicator": {
-		"depth": 40
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Salts & Borax"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Sais e Bórax"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Соли и Бура"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Солі та Бура"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "盐, 硼砂"
-		},
+    "id": "normal_salt",
+    "dimension": "earth",
+    "type": "tfc:disc_vein",
+    "biome_tag": "#tfg:earth/is_shore_island",
+    "project": true,
+    "config": {
+        "rarity": 160,
+        "density": 0.18,
+        "min_y": -20,
+        "max_y": 1,
+        "size": 20,
+        "height": 10
+    },
+    "ores": [
         {
-            "lang": "de_de",
-            "text": "Salze & Borax"
+            "ore": "salt",
+            "weight": 6
+        },
+        {
+            "ore": "rock_salt",
+            "weight": 3
+        },
+        {
+            "ore": "borax",
+            "weight": 1
         }
-	]
+    ],
+    "rocks": [
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk",
+        "tuff"
+    ],
+    "indicator": {
+        "rarity": 18,
+        "depth": 60
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Salt, Rock Salt & Borax",
+            "info": "Only in Shore Biomes",
+            "emi": "Only in Shore Biomes"
+        }
+    ]
 }

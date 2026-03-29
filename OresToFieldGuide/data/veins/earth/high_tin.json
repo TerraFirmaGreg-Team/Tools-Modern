@@ -1,0 +1,59 @@
+{
+    "id": "high_tin",
+    "dimension": "earth",
+    "type": "tfc:cluster_vein",
+    "biome_tag": "#tfg:earth/is_mountain",
+    "project": true,
+    "config": {
+        "rarity": 80,
+        "density": 0.3,
+        "min_y": -50,
+        "max_y": 0,
+        "size": 15
+    },
+    "ores": [
+        {
+            "ore": "tin",
+            "weight": 4
+        },
+        {
+            "ore": "cassiterite",
+            "weight": 6
+        }
+    ],
+    "rocks": [
+        "granite",
+        "diorite",
+        "gabbro",
+        "rhyolite",
+        "basalt",
+        "andesite",
+        "dacite",
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk",
+        "tuff",
+        "quartzite",
+        "slate",
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble"
+    ],
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Tin (High Elevation)",
+            "info": "Surface Vein\\nOnly in Mountain Biomes",
+            "emi": "Surface Vein\\nOnly in Mountain Biomes"
+        }
+    ],
+    "indicator": {
+        "rarity": 12,
+        "depth": 60
+    }
+}

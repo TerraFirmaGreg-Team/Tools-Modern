@@ -1,71 +1,46 @@
 {
-	"id": "deep_magnetite",
-	"dimension": "earth",
-	"type": "tfc:cluster_vein",
-	"config": {
-		"rarity": 225,
-		"density": 0.3,
-		"min_y": -64,
-		"max_y": 30,
-		"size": 20
-	},
-	"ores": [
-		{
-			"ore": "magnetite",
-			"weight": 5
-		},
-		{
-			"ore": "vanadium_magnetite",
-			"weight": 15
-		},
-		{
-			"ore": "chromite",
-			"weight": 20,
-			"block_weight": 1
-		},
-		{
-			"ore": "gold",
-			"weight": 15
-		},
-		{
-			"ore": "sapphire",
-			"weight": 5
-		}
-	],
-	"rocks": [
-		"shale",
-		"claystone",
-		"limestone",
-		"conglomerate",
-		"dolomite",
-		"chert",
-		"chalk",
-		"marble"
-	],
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Chromite & Magnetite"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Cromita e Magnetita"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Хромит и Магнетит"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Хроміт і Магнетит"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "铬铁矿, 磁铁矿"
-		},
+    "id": "deep_magnetite",
+    "dimension": "earth",
+    "type": "tfc:cluster_vein",
+    "config": {
+        "rarity": 160,
+        "density": 0.29,
+        "min_y": -50,
+        "max_y": 20,
+        "size": 38
+    },
+    "ores": [
         {
-            "lang": "de_de",
-            "text": "Chromit & Magnetit"
+            "ore": "magnetite",
+            "weight": 12,
+            "block_weight": 1
+        },
+        {
+            "ore": "vanadium_magnetite",
+            "weight": 7
+        },
+        {
+            "ore": "gold",
+            "weight": 5
         }
-	]
+    ],
+    "rocks": [
+        "rhyolite",
+        "basalt",
+        "andesite",
+        "dacite",
+        "quartzite",
+        "slate",
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble"
+    ],
+    "indicator": {},
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Magnetite, Vanadium Magnetite & Gold"
+        }
+    ]
 }

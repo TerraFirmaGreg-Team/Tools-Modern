@@ -1,0 +1,52 @@
+{
+    "id": "deep_lazurite_calcite",
+    "dimension": "earth",
+    "type": "tfc:pipe_vein",
+    "config": {
+        "rarity": 130,
+        "density": 0.24,
+        "min_y": -50,
+        "max_y": 20,
+        "height": 60,
+        "radius": 10,
+        "min_skew": 7,
+        "max_skew": 20,
+        "min_slant": 2,
+        "max_slant": 5,
+        "sign": 0
+    },
+    "ores": [
+        {
+            "ore": "lazurite",
+            "weight": 5,
+            "block_weight": 1
+        },
+        {
+            "ore": "sodalite",
+            "weight": 4
+        },
+        {
+            "ore": "lapis",
+            "weight": 3
+        },
+        {
+            "ore": "calcite",
+            "weight": 3
+        }
+    ],
+    "rocks": [
+        "quartzite",
+        "slate",
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble"
+    ],
+    "indicator": {},
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Lazurite, Sodalite, Lapis & Calcite"
+        }
+    ]
+}

@@ -1,71 +1,40 @@
 {
-	"id": "normal_mica",
-	"dimension": "earth",
-	"type": "tfc:cluster_vein",
-	"config": {
-		"rarity": 230,
-		"density": 0.25,
-		"min_y": -32,
-		"max_y": 140,
-		"size": 36
-	},
-	"ores": [
-		{
-			"ore": "kyanite",
-			"weight": 35
-		},
-		{
-			"ore": "mica",
-			"weight": 25
-		},
-		{
-			"ore": "bauxite",
-			"weight": 25
-		},
-		{
-			"ore": "pollucite",
-			"weight": 15
-		}
-	],
-	"rocks": [
-		"granite",
-		"diorite",
-		"gabbro",
-		"quartzite",
-		"slate",
-		"phyllite",
-		"schist",
-		"gneiss",
-		"marble"
-	],
-	"indicator": {
-		"rarity": 12,
-		"depth": 60
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Kyanite, Mica, & Bauxite"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Cianita, Mica e Bauxita"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Ционит, Слюда и Боксит"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Кіаніт, Слюда та Боксити"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "蓝晶石, 云母, 铝土矿"
-		},
+    "id": "normal_mica",
+    "dimension": "earth",
+    "type": "tfc:cluster_vein",
+    "config": {
+        "rarity": 180,
+        "density": 0.2,
+        "min_y": 0,
+        "max_y": 60,
+        "size": 10
+    },
+    "ores": [
         {
-            "lang": "de_de",
-            "text": "Kyanit, Glimmer, & Bauxit"
+            "ore": "mica",
+            "weight": 7
+        },
+        {
+            "ore": "kyanite",
+            "weight": 5
         }
-	]
+    ],
+    "rocks": [
+        "quartzite",
+        "slate",
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble"
+    ],
+    "indicator": {
+        "rarity": 18,
+        "depth": 60
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Mica & Kyanite"
+        }
+    ]
 }

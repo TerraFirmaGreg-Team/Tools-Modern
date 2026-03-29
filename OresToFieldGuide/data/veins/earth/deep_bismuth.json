@@ -1,0 +1,52 @@
+{
+    "id": "deep_bismuth",
+    "dimension": "earth",
+    "type": "tfc:pipe_vein",
+    "biome_tag": "#tfg:earth/is_mountain",
+    "config": {
+        "rarity": 140,
+        "density": 0.24,
+        "min_y": -50,
+        "max_y": 20,
+        "height": 60,
+        "radius": 10,
+        "min_skew": 7,
+        "max_skew": 20,
+        "min_slant": 2,
+        "max_slant": 5,
+        "sign": 0
+    },
+    "ores": [
+        {
+            "ore": "bismuth",
+            "weight": 9
+        },
+        {
+            "ore": "silver",
+            "weight": 8
+        },
+        {
+            "ore": "gold",
+            "weight": 8
+        },
+        {
+            "ore": "electrotine",
+            "weight": 4,
+            "block_weight": 1
+        }
+    ],
+    "rocks": [
+        "granite",
+        "diorite",
+        "gabbro"
+    ],
+    "indicator": {},
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Bismuth, Silver, Gold & Electrotine",
+            "info": "Only in Mountain Biomes",
+            "emi": "Only in Mountain Biomes"
+        }
+    ]
+}

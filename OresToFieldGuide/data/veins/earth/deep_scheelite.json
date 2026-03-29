@@ -1,58 +1,41 @@
 {
-	"id": "deep_scheelite",
-	"dimension": "earth",
-	"type": "tfc:cluster_vein",
-	"config": {
-		"rarity": 240,
-		"density": 0.35,
-		"min_y": -64,
-		"size": 20
-	},
-	"ores": [
-		{
-			"ore": "scheelite",
-			"weight": 45,
-			"block_weight": 1
-		},
-		{
-			"ore": "tungstate",
-			"weight": 35,
-			"block_weight": 1
-		},
-		{
-			"ore": "lithium",
-			"weight": 20
-		}
-	],
-	"rocks": [
-		"granite",
-		"diorite",
-		"gabbro"
-	],
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Scheelite & Tungstate"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Sheelita e Tungstato"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Шеелит и Вольфрамат"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Шеєліт та Вольфрам"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "白钨矿, 钨酸锂"
-		},
+    "id": "deep_scheelite",
+    "dimension": "earth",
+    "type": "tfc:cluster_vein",
+    "config": {
+        "rarity": 340,
+        "density": 0.24,
+        "min_y": -50,
+        "max_y": 20,
+        "size": 22
+    },
+    "ores": [
         {
-            "lang": "de_de",
-            "text": "Scheelit & Wolframate"
+            "ore": "scheelite",
+            "weight": 6
+        },
+        {
+            "ore": "tungstate",
+            "weight": 6
+        },
+        {
+            "ore": "lithium",
+            "weight": 2
         }
-	]
+    ],
+    "rocks": [
+        "quartzite",
+        "slate",
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble"
+    ],
+    "indicator": {},
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Scheelite, Tungstate & Lithium"
+        }
+    ]
 }

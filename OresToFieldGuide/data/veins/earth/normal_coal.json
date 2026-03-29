@@ -1,62 +1,39 @@
 {
-	"id": "normal_coal",
-	"dimension": "earth",
-	"type": "tfc:cluster_vein",
-	"config": {
-		"rarity": 215,
-		"density": 0.55,
-		"max_y": 210,
-		"size": 60
-	},
-	"ores": [
-		{
-			"ore": "coal",
-			"weight": 100,
-			"block_weight": 1
-		}
-	],
-	"rocks": [
-		"shale",
-		"claystone",
-		"limestone",
-		"conglomerate",
-		"dolomite",
-		"chert",
-		"chalk"
-	],
-	"indicator": {
-		"depth": 50,
-		"blocks": [
-			{
-				"block": "gtceu:coal_indicator",
-				"weight": 100
-			}
-		]
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Coal"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Carvão"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Уголь"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Вугілля"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "煤炭"
-		},
+    "id": "normal_coal",
+    "dimension": "earth",
+    "type": "tfc:cluster_vein",
+    "config": {
+        "rarity": 340,
+        "density": 0.2,
+        "min_y": 0,
+        "max_y": 60,
+        "size": 36
+    },
+    "ores": [
         {
-            "lang": "de_de",
-            "text": "Kohle"
+            "ore": "coal",
+            "weight": 10,
+            "block_weight": 1
         }
-	]
+    ],
+    "rocks": [
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk",
+        "tuff"
+    ],
+    "indicator": {
+        "rarity": 18,
+        "depth": 60
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Coal"
+        }
+    ]
 }

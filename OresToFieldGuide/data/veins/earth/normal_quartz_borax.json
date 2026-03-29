@@ -1,0 +1,48 @@
+{
+    "id": "normal_quartz_borax",
+    "dimension": "earth",
+    "type": "tfc:pipe_vein",
+    "config": {
+        "rarity": 190,
+        "density": 0.2,
+        "min_y": 0,
+        "max_y": 60,
+        "height": 30,
+        "radius": 5,
+        "min_skew": 7,
+        "max_skew": 20,
+        "min_slant": 2,
+        "max_slant": 5,
+        "sign": 0
+    },
+    "ores": [
+        {
+            "ore": "quartzite",
+            "weight": 6
+        },
+        {
+            "ore": "borax",
+            "weight": 1
+        }
+    ],
+    "rocks": [
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk",
+        "tuff"
+    ],
+    "indicator": {
+        "rarity": 18,
+        "depth": 60
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Quartzite & Borax"
+        }
+    ]
+}

@@ -1,68 +1,43 @@
 {
-	"id": "deep_topaz",
-	"dimension": "earth",
-	"type": "tfc:disc_vein",
-	"config": {
-		"rarity": 260,
-		"density": 0.3,
-		"min_y": -64,
-		"max_y": 26,
-		"size": 28,
-		"height": 7
-	},
-	"ores": [
-		{
-			"ore": "blue_topaz",
-			"weight": 35,
-			"block_weight": 1
-		},
-		{
-			"ore": "topaz",
-			"weight": 25,
-			"block_weight": 1
-		},
-		{
-			"ore": "chalcocite",
-			"weight": 25,
-			"block_weight": 1
-		},
-		{
-			"ore": "bornite",
-			"weight": 15
-		}
-	],
-	"rocks": [
-		"quartzite",
-		"slate",
-		"phyllite",
-		"schist",
-		"gneiss",
-		"marble"
-	],
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Topaz & Chalcocite"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Topázio e Calcocita"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Топаз и Халькозин"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Топаз і Халькоцит"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "黄玉, 辉铜矿"
-		},
+    "id": "deep_topaz",
+    "dimension": "earth",
+    "type": "tfc:cluster_vein",
+    "config": {
+        "rarity": 230,
+        "density": 0.14,
+        "min_y": -50,
+        "max_y": 20,
+        "size": 24
+    },
+    "ores": [
         {
-            "lang": "de_de",
-            "text": "Topas & Chalkosin"
+            "ore": "blue_topaz",
+            "weight": 7,
+            "block_weight": 1
+        },
+        {
+            "ore": "topaz",
+            "weight": 5
+        },
+        {
+            "ore": "chalcocite",
+            "weight": 3
+        },
+        {
+            "ore": "bornite",
+            "weight": 1
         }
-	]
+    ],
+    "rocks": [
+        "granite",
+        "diorite",
+        "gabbro"
+    ],
+    "indicator": {},
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Blue Topaz, Topaz, Chalcocite & Bornite"
+        }
+    ]
 }

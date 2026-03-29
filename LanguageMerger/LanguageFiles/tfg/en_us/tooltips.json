@@ -93,6 +93,8 @@
     "tfg.tooltip.machine.pisciculture_fishery_2": "§7Pisciculture Fisheries are not only a source of fresh fish but also vital in boosting greenhouse production through §3Aquaponics.§7 The structure can be filled with any fluid tagged as §o#tfg:pisciculture_fishery_fluids§r",
     "tfg.tooltip.machine.high_temp_precision_fabricator_1": "§7Extreme Candy Floss Machine§r",
     "tfg.tooltip.machine.high_temp_precision_fabricator_2": "§7Grows Monocrystalline Silicon Boules and more, in a clean way that won't upset your Cleanroom!§r",
+    "tfg.tooltip.machine.gas_well_1": "Extract Gas from the ground through Steam or Water and Explosives. Only works for Gas veins.",
+    "tfg.tooltip.machine.gas_well_2": "Insert an explosive every %s seconds",
 
     "tfg.tooltip.ore_prospector_stats": "Scan Range: %s, Cross Section: %s x %s.",
     "tfg.tooltip.ore_prospector_count": "This prospector will display ore counts.",

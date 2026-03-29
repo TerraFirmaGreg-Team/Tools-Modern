@@ -1,0 +1,43 @@
+{
+    "id": "normal_asbestos",
+    "dimension": "earth",
+    "type": "tfc:cluster_vein",
+    "biome_tag": "#tfg:earth/is_dry",
+    "config": {
+        "rarity": 190,
+        "density": 0.2,
+        "min_y": 0,
+        "max_y": 60,
+        "size": 15
+    },
+    "ores": [
+        {
+            "ore": "cassiterite_sand",
+            "weight": 6
+        },
+        {
+            "ore": "asbestos",
+            "weight": 1
+        }
+    ],
+    "rocks": [
+        "quartzite",
+        "slate",
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble"
+    ],
+    "indicator": {
+        "rarity": 18,
+        "depth": 60
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Cassiterite Sand & Asbestos",
+            "info": "Only in Dry Biomes",
+            "emi": "Only in Dry Biomes"
+        }
+    ]
+}
