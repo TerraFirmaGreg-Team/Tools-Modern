@@ -15,13 +15,13 @@ namespace OresToFieldGuide
 		public static readonly string[] s_locales =
 		[
 			"en_us", // US English
-			//"ru_ru", // Russian
-			//"uk_ua", // Ukranian
-			//"pt_br", // Brazilian Portuguese
-			//"zh_cn", // Simplified Chinese
-			//"fr_fr", // French
-			//"ja_jp", // Japanese
-			//"de_de", // German
+			"ru_ru", // Russian
+			"uk_ua", // Ukranian
+			"pt_br", // Brazilian Portuguese
+			"zh_cn", // Simplified Chinese
+			"fr_fr", // French
+			"ja_jp", // Japanese
+			"de_de", // German
 		];
 
 		private readonly JsonSerializerOptions m_jsonOptions = new()
@@ -722,8 +722,12 @@ namespace OresToFieldGuide
 				}
 				sb.AppendLine("}");
 
-				File.WriteAllText(Path.Combine(m_arguments.ToolsFolder, "LanguageMerger", "LanguageFiles", "tfg", locale, "ore_veins.json"), sb.ToString());
-				ConsoleLogHelper.WriteLine($"Exported EMI ore vein lang keys for {locale}!", LogLevel.Info);
+				var directory = Path.Combine(m_arguments.ToolsFolder, "LanguageMerger", "LanguageFiles", "tfg", locale);
+				if (Directory.Exists(directory))
+				{
+					File.WriteAllText(Path.Combine(directory, "ore_veins.json"), sb.ToString());
+					ConsoleLogHelper.WriteLine($"Exported EMI ore vein lang keys for {locale}!", LogLevel.Info);
+				}
 			}
 		}
 
