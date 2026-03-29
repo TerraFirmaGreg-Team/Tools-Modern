@@ -130,5 +130,7 @@
     "tfg.machine.gas_well.waiting_explosive.tooltip": "Insert an explosive to start the machine",
     "tfg.machine.gas_well.fluid_consumption": "Fluid: %s Water or %s Steam",
     "tfg.machine.gas_well.next_explosive": "Next explosive in: %s",
-    "tfg.machine.gas_well.vein_remaining": "Vein remaining: %s"
+    "tfg.machine.gas_well.vein_remaining": "Vein remaining: %s",
+
+    "emi.category.tfg.item_repair": "Equipment Repair"
 }
