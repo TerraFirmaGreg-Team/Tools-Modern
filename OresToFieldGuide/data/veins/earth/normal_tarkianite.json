@@ -38,7 +38,11 @@
     "rocks": [
         "granite",
         "diorite",
-        "gabbro"
+        "gabbro",
+        "rhyolite",
+        "basalt",
+        "andesite",
+        "dacite"
     ],
     "indicator": {
         "rarity": 18,

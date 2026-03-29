@@ -17,6 +17,9 @@
         }
     ],
     "rocks": [
+        "granite",
+        "diorite",
+        "gabbro",
         "quartzite",
         "slate",
         "phyllite",

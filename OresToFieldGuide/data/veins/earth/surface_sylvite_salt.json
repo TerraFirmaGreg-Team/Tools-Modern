@@ -21,6 +21,14 @@
         }
     ],
     "rocks": [
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk",
+        "tuff",
         "quartzite",
         "slate",
         "phyllite",

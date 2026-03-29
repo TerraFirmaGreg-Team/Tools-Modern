@@ -18,6 +18,10 @@
         }
     ],
     "rocks": [
+        "rhyolite",
+        "basalt",
+        "andesite",
+        "dacite",
         "quartzite",
         "slate",
         "phyllite",

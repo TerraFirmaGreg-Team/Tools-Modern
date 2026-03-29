@@ -3,7 +3,7 @@
     "dimension": "earth",
     "type": "tfc:pipe_vein",
     "config": {
-        "rarity": 180,
+        "rarity": 130,
         "density": 0.2,
         "min_y": -50,
         "max_y": 20,

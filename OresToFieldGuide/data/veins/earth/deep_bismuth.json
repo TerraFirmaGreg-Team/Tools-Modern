@@ -4,7 +4,7 @@
     "type": "tfc:pipe_vein",
     "biome_tag": "#tfg:earth/is_mountain",
     "config": {
-        "rarity": 310,
+        "rarity": 140,
         "density": 0.2,
         "min_y": -50,
         "max_y": 20,
