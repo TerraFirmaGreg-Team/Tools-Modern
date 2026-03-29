@@ -83,7 +83,7 @@
 
     "quests.gregtech_energy.lce.title": "The Large Combustion Generator",
     "quests.gregtech_energy.lce.subtitle": "Don't belive its GUI",
-    "quests.gregtech_energy.lce.desc.1": "The &6Large Combustion Engine&r (&dLCE&r) and the &5Extreme Combustion Engine&r (&dECE&r) are your champions if you’re into transforming Oils into fuels. These two &6bad boys&r share the same fuel types and even look alike — but they require different materials to build.\n\nTo craft the LCE, you’ll need to reach &5EV&r and unlock Titanium, along with at least one IV Circuit. For the ECE, it’ll be Tungstensteel and a LuV Circuit — something you should be able to build comfortably during &1IV&r.",
+    "quests.gregtech_energy.lce.desc.1": "The &6Large Combustion Engine&r (&dLCE&r) and the &5Extreme Combustion Engine&r (&dECE&r) are your champions if you’re into transforming Oils into fuels. These two &6bad boys&r share the same fuel types and even look alike — but they require different materials to build.\n\nTo craft the LCE, you’ll need to reach &5EV&r and unlock Titanium, along with at least one EV Circuit. For the ECE, it’ll be Tungstensteel and a LuV Circuit — something you should be able to build comfortably during &1IV&r.",
     "quests.gregtech_energy.lce.desc.2": "Both machines require an Input Hatch for fuel and also Lubricant. For the &dECE&r, adding Oxygen or Liquid Oxygen will grant you a &cmassive energy boost&r. Check the tooltip of your fuel to compare how much extra energy you get with oxidizers — it's well worth it.\n\nKeep in mind: both engines need a Muffler Hatch.",
 
     "quests.gregtech_energy.lpt_fuel.title": "Plasma Fuels",
