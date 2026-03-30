@@ -5,8 +5,8 @@
     "config": {
         "rarity": 60,
         "density": 0.25,
-        "min_y": 110,
-        "max_y": 160,
+        "min_y": -20,
+        "max_y": 1,
         "size": 25
     },
     "ores": [
@@ -36,11 +36,15 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Tetrahedrite, Copper & Stibnite"
+            "text": "Tetrahedrite, Copper & Stibnite",
+            "info": "Only in Mountain Biomes",
+            "emi": "Only in Mountain Biomes"
         }
     ],
     "indicator": {
         "rarity": 12,
         "depth": 60
-    }
+    },
+    "project": true,
+    "biome_tag": "#tfg:earth/is_mountain"
 }

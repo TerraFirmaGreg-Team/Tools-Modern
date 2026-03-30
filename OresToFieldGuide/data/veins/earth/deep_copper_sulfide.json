@@ -1,0 +1,46 @@
+{
+    "id": "deep_copper_sulfide",
+    "dimension": "earth",
+    "type": "tfc:disc_vein",
+    "near_lava": true,
+    "config": {
+        "rarity": 34,
+        "density": 0.24,
+        "min_y": -60,
+        "max_y": -45,
+        "size": 14,
+        "height": 6
+    },
+    "ores": [
+        {
+            "ore": "sulfur",
+            "weight": 8,
+            "block_weight": 1
+        },
+        {
+            "ore": "bornite",
+            "weight": 1
+        },
+        {
+            "ore": "chalcocite",
+            "weight": 1
+        }
+    ],
+    "rocks": [
+        "quartzite",
+        "slate",
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble"
+    ],
+    "indicator": {},
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Sulfur, Bornite & Chalcocite",
+            "info": "Only near Lava",
+            "emi": "Only near Lava"
+        }
+    ]
+}

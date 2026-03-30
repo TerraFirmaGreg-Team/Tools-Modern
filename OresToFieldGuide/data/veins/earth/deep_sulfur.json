@@ -5,25 +5,17 @@
     "near_lava": true,
     "config": {
         "rarity": 34,
-        "density": 0.4,
+        "density": 0.84,
         "min_y": -60,
         "max_y": -45,
-        "size": 23,
+        "size": 32,
         "height": 5
     },
     "ores": [
         {
             "ore": "sulfur",
-            "weight": 90,
+            "weight": 10,
             "block_weight": 1
-        },
-        {
-            "ore": "bornite",
-            "weight": 5
-        },
-        {
-            "ore": "chalcocite",
-            "weight": 5
         }
     ],
     "rocks": [

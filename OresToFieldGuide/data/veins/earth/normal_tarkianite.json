@@ -51,7 +51,9 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Tarkianite, Borax & Trona"
+            "text": "Tarkianite, Borax & Trona",
+            "info": "Only spawn in dry\\nand hot climates\\nMax Rain: 100mm\\nMin Temp: 12\u00b0C",
+            "emi": "Only spawn in dry\\nand hot climates\\nMax Rain: 100mm\\nMin Temp: 12\u00b0C"
         }
     ]
 }

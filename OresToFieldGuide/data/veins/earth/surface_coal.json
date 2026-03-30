@@ -1,20 +1,20 @@
 {
-    "id": "surface_salpeter",
+    "id": "surface_coal",
     "dimension": "earth",
     "type": "tfc:cluster_vein",
     "project": true,
+    "biome_tag": "#tfg:earth/is_normal",
     "config": {
-        "rarity": 130,
-        "density": 0.3,
+        "rarity": 110,
+        "density": 0.45,
         "min_y": -20,
-        "max_y": -5,
-        "size": 5
+        "max_y": 1,
+        "size": 10
     },
     "ores": [
         {
-            "ore": "saltpeter",
-            "weight": 20,
-            "block_weight": 1
+            "ore": "coal",
+            "weight": 1
         }
     ],
     "rocks": [
@@ -30,7 +30,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Saltpeter",
+            "text": "Coal (Surface)",
             "info": "Surface Vein\\nY is range\\nfrom surface.",
             "emi": "Surface Vein\\nY is range\\nfrom surface."
         }

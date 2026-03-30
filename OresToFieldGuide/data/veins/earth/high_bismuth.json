@@ -5,9 +5,9 @@
     "config": {
         "rarity": 150,
         "density": 0.25,
-        "min_y": 100,
-        "max_y": 170,
-        "size": 20
+        "min_y": -30,
+        "max_y": -10,
+        "size": 15
     },
     "ores": [
         {
@@ -41,11 +41,15 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Bismuth"
+            "text": "Bismuth",
+            "info": "Only in Mountain and Hill Biomes",
+            "emi": "Only in Mountain and Hill Biomes"
         }
     ],
     "indicator": {
         "rarity": 12,
         "depth": 60
-    }
+    },
+    "project": true,
+    "biome_tag": "#tfg:earth/is_mountain"
 }

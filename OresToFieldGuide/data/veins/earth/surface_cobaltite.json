@@ -30,15 +30,15 @@
         "marble"
     ],
     "indicator": {
-        "rarity": 5,
+        "rarity": 6,
         "depth": 35
     },
     "translations": [
         {
             "lang": "en_us",
             "text": "Cobaltite",
-            "info": "Surface Vein\\nThe Y-Level shows its range from surface.",
-            "emi": "Surface Vein\\nThe Y-Level shows its range from surface."
+            "info": "Surface Vein\\nY is range\\nfrom surface.",
+            "emi": "Surface Vein\\nY is range\\nfrom surface."
         }
     ]
 }
