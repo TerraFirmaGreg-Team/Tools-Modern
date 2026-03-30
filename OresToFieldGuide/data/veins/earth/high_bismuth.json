@@ -16,9 +16,6 @@
         }
     ],
     "rocks": [
-        "granite",
-        "diorite",
-        "gabbro",
         "rhyolite",
         "basalt",
         "andesite",
@@ -30,26 +27,20 @@
         "dolomite",
         "chert",
         "chalk",
-        "tuff",
-        "quartzite",
-        "slate",
-        "phyllite",
-        "schist",
-        "gneiss",
-        "marble"
+        "tuff"
     ],
     "translations": [
         {
             "lang": "en_us",
             "text": "Bismuth",
-            "info": "Only in Mountain and Hill Biomes",
-            "emi": "Only in Mountain and Hill Biomes"
+            "info": "Only in plains, plateau and hills\\nSurface Vein\\nY is range\\nfrom surface.",
+            "emi": "Only in plains, plateau and hills\\nSurface Vein\\nY is range\\nfrom surface."
         }
     ],
     "indicator": {
-        "rarity": 12,
-        "depth": 60
+        "rarity": 6,
+        "depth": 35
     },
     "project": true,
-    "biome_tag": "#tfg:earth/is_mountain"
+    "biome_tag": "#tfg:earth/is_normal"
 }
