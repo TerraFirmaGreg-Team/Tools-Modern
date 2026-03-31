@@ -5,11 +5,11 @@
     "project": true,
     "biome_tag": "#tfg:earth/is_normal",
     "config": {
-        "rarity": 110,
+        "rarity": 90,
         "density": 0.45,
         "min_y": -20,
         "max_y": 1,
-        "size": 10
+        "size": 15
     },
     "ores": [
         {
@@ -24,7 +24,7 @@
         "dacite"
     ],
     "indicator": {
-        "rarity": 6,
+        "rarity": 12,
         "depth": 35
     },
     "translations": [

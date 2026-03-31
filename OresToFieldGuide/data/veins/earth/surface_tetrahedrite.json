@@ -4,11 +4,11 @@
     "type": "tfc:cluster_vein",
     "project": true,
     "config": {
-        "rarity": 7,
+        "rarity": 37,
         "density": 0.2,
         "min_y": -20,
         "max_y": -5,
-        "size": 10
+        "size": 15
     },
     "ores": [
         {
@@ -28,7 +28,7 @@
         "marble"
     ],
     "indicator": {
-        "rarity": 6,
+        "rarity": 12,
         "depth": 35
     },
     "translations": [

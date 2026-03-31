@@ -1,13 +1,14 @@
 {
     "id": "normal_copper",
     "dimension": "earth",
-    "type": "tfc:cluster_vein",
+    "type": "tfc:disc_vein",
     "config": {
-        "rarity": 180,
-        "density": 0.25,
-        "min_y": 0,
-        "max_y": 60,
-        "size": 20
+        "rarity": 100,
+        "density": 0.33,
+        "min_y": 10,
+        "max_y": 70,
+        "size": 32,
+        "height": 10
     },
     "ores": [
         {
@@ -28,14 +29,18 @@
         "granite",
         "diorite",
         "gabbro",
-        "rhyolite",
-        "basalt",
-        "andesite",
-        "dacite"
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk",
+        "tuff"
     ],
     "indicator": {
-        "rarity": 12,
-        "depth": 60
+        "rarity": 18,
+        "depth": 70
     },
     "translations": [
         {

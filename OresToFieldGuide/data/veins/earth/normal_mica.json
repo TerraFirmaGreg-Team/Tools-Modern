@@ -1,13 +1,14 @@
 {
     "id": "normal_mica",
     "dimension": "earth",
-    "type": "tfc:cluster_vein",
+    "type": "tfc:disc_vein",
     "config": {
-        "rarity": 180,
-        "density": 0.2,
-        "min_y": 0,
-        "max_y": 60,
-        "size": 10
+        "rarity": 120,
+        "density": 0.28,
+        "min_y": 10,
+        "max_y": 70,
+        "size": 23,
+        "height": 10
     },
     "ores": [
         {
@@ -20,6 +21,10 @@
         }
     ],
     "rocks": [
+        "rhyolite",
+        "basalt",
+        "andesite",
+        "dacite",
         "quartzite",
         "slate",
         "phyllite",
@@ -28,8 +33,8 @@
         "marble"
     ],
     "indicator": {
-        "rarity": 12,
-        "depth": 60
+        "rarity": 18,
+        "depth": 70
     },
     "translations": [
         {

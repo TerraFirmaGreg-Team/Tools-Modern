@@ -4,11 +4,11 @@
     "type": "tfc:cluster_vein",
     "project": true,
     "config": {
-        "rarity": 60,
+        "rarity": 90,
         "density": 0.3,
         "min_y": -20,
         "max_y": -5,
-        "size": 10
+        "size": 15
     },
     "ores": [
         {
@@ -27,7 +27,7 @@
         "tuff"
     ],
     "indicator": {
-        "rarity": 6,
+        "rarity": 12,
         "depth": 35
     },
     "translations": [

@@ -4,11 +4,11 @@
     "type": "tfc:cluster_vein",
     "project": true,
     "config": {
-        "rarity": 130,
+        "rarity": 50,
         "density": 0.3,
         "min_y": -20,
         "max_y": -5,
-        "size": 10
+        "size": 20
     },
     "ores": [
         {
@@ -24,7 +24,7 @@
         "dacite"
     ],
     "indicator": {
-        "rarity": 6,
+        "rarity": 12,
         "depth": 35
     },
     "translations": [
