@@ -75,7 +75,7 @@
     "quests.chemical_elements.americium.desc": "Americium 241 is used in &5EV&r+ in fission.\n\nIt can be obtained in &5EV&r as a tiny dust from the Thorium-Uranium Breeder Rod.\n\nAmericium 243 is used in &3UV&r to make Neutronium and is made by fusing Lutetium and Chromium or Plutonium 241 and Hydrogen.",
     "quests.chemical_elements.californium.desc": "Californium is a currently unused element that will later be used for fission.\n\nIt can be obtained in &5EV&r as a tiny dust from the Thorium-Uranium Breeder Rod.",
     "quests.chemical_elements.darmstadtium.desc": "Darmstadtium is the base material of &3UV&r. \n\nIt is obtained in &dLuV&r by fusing Arsenic and Ruthenium.",
-    "quests.chemical_elements.naquadah.desc": "Naquadah is an important &dLuV&r material that can be refined into more Stargate metals.\n\nIt is obtained from the Beneath.\n\nNaquadah is a fictional element from the Sci-Fi franchise Stargate.",
+    "quests.chemical_elements.naquadah.desc": "Naquadah is fictional element from the Sci-Fi franchise Stargate that becomes important in &dLuV&r. \nWhen processing naquadah, 12Nq decays into 2Nq⁺ + 2*Nq* + 2Ti + Ke + In + Ba + Ga + 2P\n\nIt is obtained from the Beneath.",
     "quests.chemical_elements.trinium.desc": "Trinium is used in &dLuV&r to make &cZPM&r components and in &cZPM&r to make Trinium coils.\n\nIt is obtained by refining naquadah.",
     "quests.chemical_elements.duranium.desc": "Duranium is used in &dLuV&r to make Tritanium.\n\nIt is obtained by fusing Gallium and Radon.",
     "quests.chemical_elements.tritanium.desc": "Tritanium is used in &3UV&r to make &3UV&r components and Tritanium coils.\n\nIt is obtained in &dLuV&r by fusing Titanium and Duranium.",
