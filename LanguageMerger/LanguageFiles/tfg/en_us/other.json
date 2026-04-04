@@ -63,7 +63,12 @@
     "trim_material.tfc.redx_tfc": "RedX",
 
     "tfg.emi.ore_veins.rock_types": "Found in rock types:",
-    "tfg.emi.ore_veins.rarity": "Rarity: 1/%d chunks",
+    "tfg.emi.ore_veins.rarity": "Rarity: %d",
+	"tfg.emi.ore_veins.rarity.common": "Common",
+	"tfg.emi.ore_veins.rarity.uncommon": "Uncommon",
+	"tfg.emi.ore_veins.rarity.rare": "Rare",
+	"tfg.emi.ore_veins.rarity.very_rare": "Very Rare",
+	"tfg.emi.ore_veins.rarity.tooltip": "Vein spawns once every %d chunks on average",
     "tfg.emi.ore_veins.density": "Density: %d",
     "tfg.emi.ore_veins.y_ranges": "Y Level: %d to %d",
     "tfg.emi.ore_veins.size": "Size: %d",
