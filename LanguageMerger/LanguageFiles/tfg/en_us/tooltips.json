@@ -66,9 +66,9 @@
     "tfg.tooltip.warming_foods": "§6Warms you by: 4°C",
 
     "tfg.tooltip.hotornot_container": "§aSafely contains §6hot§a, §bcold§a, and §elighter-than-air§a items and fluids.§r",
-    "tfg.tooltip.hotornot_hot_equipment": "§7Provides protection from all §6hot§7 items, fluids, and pipes.§r",
-    "tfg.tooltip.hotornot_cold_equipment": "§7Provides protection from all §bcold§7 items, fluids, and pipes.§r",
-    "tfg.tooltip.hotornot_floating_equipment": "§7Provides protection from all §elighter-than-air§7 gases.§r",
+    "tfg.tooltip.hotornot_hot_equipment": "§7Provides protection from all §6hot§7 held items and fluids (chest) and pipes (boots).§r",
+    "tfg.tooltip.hotornot_cold_equipment": "§7Provides protection from all §bcold§7 held items and fluids (chest) and pipes (boots).§r",
+    "tfg.tooltip.hotornot_floating_equipment": "§7Prevents all §elighter-than-air§7 gases from lifting you up.§r",
     "tfg.tooltip.polycaprolactam": "Also known as Nylon",
     "tfg.tooltip.vessel_warning": "§cHeating an overfilled vessel will void any overflow and may ruin your alloying!§r",
 
