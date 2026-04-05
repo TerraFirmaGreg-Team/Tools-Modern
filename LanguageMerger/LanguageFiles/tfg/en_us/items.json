@@ -32,6 +32,8 @@
     "item.tfg.phantom_thread": "Phantom Thread",
     "item.tfg.polycaprolactam_fabric": "Polycaprolactam Fabric",
     "item.tfg.polycaprolactam_string": "Polycaprolactam String",
+    "item.tfg.copper_spindle": "Copper Spindle",
+    "item.tfg.copper_spindle_head": "Copper Spindle Head",
 
     "item.tfg.space_suit_fabric": "Space Suit Fabric",
     "item.tfg.vitrified_pearl": "Vitrified Ender Pearl",
@@ -441,9 +443,13 @@
     "item.tfg.rod_mold": "Fire Rod Mold",
     "item.tfg.small_gear_mold": "Fire Small Gear Mold",
     "item.tfg.nugget_mold": "Nugget Mold",
+    "item.tfg.spindle_head_mold": "Spindle Head Mold",
+    "item.tfg.lamp_mold": "Lamp Mold",
     "item.tfg.unfired_rod_mold": "Unfired Fire Rod Mold",
     "item.tfg.unfired_small_gear_mold": "Unfired Fire Small Gear Mold",
     "item.tfg.unfired_nugget_mold": "Unfired Nugget Mold",
+    "item.tfg.unfired_spindle_head_mold": "Unfired Spindle Head Mold",
+    "item.tfg.unfired_lamp_mold": "Unfired Lamp Mold",
 
     "item.tfg.fish_roe": "%s Roe",
     "item.tfg.rotten_voiding_cover": "Rotten Voiding Cover",

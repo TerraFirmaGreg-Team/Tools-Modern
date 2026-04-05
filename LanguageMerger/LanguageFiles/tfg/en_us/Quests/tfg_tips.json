@@ -664,7 +664,7 @@
 
     "quests.tfg_tips.rowboat_materials.title": "The Rowboat",
     "quests.tfg_tips.rowboat_materials.subtitle": "Get ready for some work now.",
-    "quests.tfg_tips.rowboat_materials.desc": "Requiring more complex materials, locking it to the iron age, the &dRowboat&r has capacity for &b2 passengers and 2 storage&r, or &c4 storage with no passengers.&r\nYou'll need to find some sort of &aHardwood&r, detailed in the &2Field Guide&r, which also includes the construction process.\n\nKeep in mind the boat must be constructed with the same wood! Do not mix different kinds of hardwoods.",
+    "quests.tfg_tips.rowboat_materials.desc": "Requiring more complex materials, locking it to the bronze age, the &dRowboat&r has capacity for &b2 passengers and 2 storage&r, or &c4 storage with no passengers.&r\nYou'll need to find some sort of &aHardwood&r, detailed in the &2Field Guide&r, which also includes the construction process.\n\nKeep in mind the boat must be constructed with the same wood! Do not mix different kinds of hardwoods.",
 
     "quests.tfg_tips.create_rowboat.title": "Complete the Rowboat",
     "quests.tfg_tips.create_rowboat.subtitle": "Happy Rowboat-ing!",
@@ -672,7 +672,7 @@
 
     "quests.tfg_tips.sloop_under_construction_materials.title": "The Sloop",
     "quests.tfg_tips.sloop_under_construction_materials.subtitle": "The Great Pirate Era has begun",
-    "quests.tfg_tips.sloop_under_construction_materials.desc": "The &dSloop&r is the most advanced seaworthy vessel, requiring &aSteel.&r It has ample space for storage, anvils and workbenches! It is incredibly expensive and requires practice to sail. The &2Field Guide&r has all the details for construction and on how to sail.\n\nAgain, do not attempt to mix up different kinds of hardwoods in the same vessel.",
+    "quests.tfg_tips.sloop_under_construction_materials.desc": "The &dSloop&r is the most advanced seaworthy vessel, requiring &aWrought Iron.&r It has ample space for storage, anvils and workbenches! It is incredibly expensive and requires practice to sail. The &2Field Guide&r has all the details for construction and on how to sail.\n\nAgain, do not attempt to mix up different kinds of hardwoods in the same vessel.",
     "quests.tfg_tips.sloop_under_construction_materials.task": "16x of any Hardwood Lumber",
 
     "quests.tfg_tips.create_sloop.title": "Complete the Sloop",
