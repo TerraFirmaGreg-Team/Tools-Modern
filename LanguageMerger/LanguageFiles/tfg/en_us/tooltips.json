@@ -175,7 +175,7 @@
 
     "tfg.tooltip.recipe_condition.animal_present.any": "Requires any TFC animal ready to produce",
     "tfg.tooltip.recipe_condition.animal_present.dairy": "Requires a dairy animal ready to be milked",
-    "tfg.tooltip.recipe_condition.animal_present.producing": "Requires animal ready to be harvested",
+    "tfg.tooltip.recipe_condition.animal_present.producing": "Wool animal harvestable",
     "tfg.tooltip.recipe_condition.animal_present.entity": "Requires: %s",
 
     "tfg.tooltip.firmalife_greenhouse.oxygen_required": "§cAn oxygenated environment is required!",
