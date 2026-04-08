@@ -7,7 +7,7 @@
         "density": 0.24,
         "min_y": -50,
         "max_y": 20,
-        "size": 28
+        "size": 24
     },
     "ores": [
         {
@@ -30,13 +30,15 @@
         "gabbro"
     ],
     "indicator": {
-        "rarity": 16,
+        "rarity": 22,
         "depth": 15
     },
     "translations": [
         {
             "lang": "en_us",
-            "text": "Lead & Silver"
+            "text": "Galena, Silver & Lead",
+            "info": "Deep vein.",
+            "emi": "Deep vein."
         }
     ]
 }

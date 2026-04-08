@@ -1,24 +1,23 @@
 {
-    "id": "normal_cassiterite",
+    "id": "normal_sphalerite",
     "dimension": "earth",
     "type": "tfc:disc_vein",
     "config": {
-        "rarity": 140,
-        "density": 0.33,
+        "rarity": 150,
+        "density": 0.35,
         "min_y": 10,
         "max_y": 70,
-        "size": 23,
+        "size": 18,
         "height": 10
     },
     "ores": [
         {
-            "ore": "cassiterite",
-            "weight": 8,
-            "block_weight": 1
+            "ore": "sphalerite",
+            "weight": 10
         },
         {
-            "ore": "tin",
-            "weight": 2
+            "ore": "galena",
+            "weight": 3
         }
     ],
     "rocks": [
@@ -32,13 +31,15 @@
         "tuff"
     ],
     "indicator": {
-        "rarity": 18,
+        "rarity": 19,
         "depth": 70
     },
     "translations": [
         {
             "lang": "en_us",
-            "text": "Cassiterite & Tin"
+            "text": "Sphalerite & Galena",
+            "info": "Normal depth vein.",
+            "emi": "Normal depth vein."
         }
     ]
 }

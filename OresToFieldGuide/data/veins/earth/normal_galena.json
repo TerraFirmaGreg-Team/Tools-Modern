@@ -3,11 +3,11 @@
     "dimension": "earth",
     "type": "tfc:disc_vein",
     "config": {
-        "rarity": 110,
+        "rarity": 150,
         "density": 0.18,
         "min_y": 10,
         "max_y": 70,
-        "size": 25,
+        "size": 23,
         "height": 10
     },
     "ores": [
@@ -31,7 +31,7 @@
         "dacite"
     ],
     "indicator": {
-        "rarity": 18,
+        "rarity": 19,
         "depth": 70
     },
     "translations": [

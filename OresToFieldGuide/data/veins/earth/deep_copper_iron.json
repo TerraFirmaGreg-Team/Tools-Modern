@@ -7,7 +7,7 @@
         "density": 0.25,
         "min_y": -50,
         "max_y": 20,
-        "size": 49
+        "size": 45
     },
     "ores": [
         {
@@ -38,7 +38,7 @@
         "dacite"
     ],
     "indicator": {
-        "rarity": 16,
+        "rarity": 22,
         "depth": 15
     },
     "translations": [

@@ -7,7 +7,7 @@
         "density": 0.22,
         "min_y": -50,
         "max_y": 20,
-        "size": 33
+        "size": 29
     },
     "ores": [
         {
@@ -32,7 +32,7 @@
         "marble"
     ],
     "indicator": {
-        "rarity": 16,
+        "rarity": 22,
         "depth": 15
     },
     "translations": [
