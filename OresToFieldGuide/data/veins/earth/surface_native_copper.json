@@ -4,7 +4,7 @@
     "type": "tfc:cluster_vein",
     "project": true,
     "config": {
-        "rarity": 54,
+        "rarity": 70,
         "density": 0.2,
         "min_y": -20,
         "max_y": -5,
@@ -13,7 +13,7 @@
     "ores": [
         {
             "ore": "copper",
-            "weight": 10,
+            "weight": 30,
             "block_weight": 1
         }
     ],
@@ -24,7 +24,7 @@
         "dacite"
     ],
     "indicator": {
-        "rarity": 12,
+        "rarity": 15,
         "depth": 35
     },
     "translations": [

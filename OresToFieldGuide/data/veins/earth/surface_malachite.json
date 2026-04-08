@@ -4,7 +4,7 @@
     "type": "tfc:cluster_vein",
     "project": true,
     "config": {
-        "rarity": 62,
+        "rarity": 70,
         "density": 0.2,
         "min_y": -20,
         "max_y": -5,
@@ -33,7 +33,7 @@
         "marble"
     ],
     "indicator": {
-        "rarity": 12,
+        "rarity": 15,
         "depth": 35
     },
     "translations": [
