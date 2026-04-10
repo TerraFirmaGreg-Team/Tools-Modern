@@ -37,13 +37,5 @@
     "indicator": {
         "rarity": 16,
         "depth": 15
-    },
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Sulfur, Bornite & Chalcocite",
-            "info": "Only near Lava",
-            "emi": "Only near Lava"
-        }
-    ]
+    }
 }

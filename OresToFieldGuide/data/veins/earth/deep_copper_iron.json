@@ -38,13 +38,7 @@
         "dacite"
     ],
     "indicator": {
-        "rarity": 22,
+        "rarity": 16,
         "depth": 15
-    },
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Chalcopyrite, Goethite & Pyrite"
-        }
-    ]
+    }
 }

@@ -1,46 +1,40 @@
 {
-    "id": "deep_asbestos",
-    "dimension": "earth",
-    "type": "tfc:disc_vein",
-    "config": {
-        "rarity": 190,
-        "density": 0.27,
-        "min_y": -50,
-        "max_y": 20,
-        "size": 35,
-        "height": 5
-    },
-    "ores": [
-        {
-            "ore": "cassiterite_sand",
-            "weight": 5,
-            "block_weight": 1
-        },
-        {
-            "ore": "asbestos",
-            "weight": 3
-        },
-        {
-            "ore": "diatomite",
-            "weight": 1
-        }
-    ],
-    "rocks": [
-        "quartzite",
-        "slate",
-        "phyllite",
-        "schist",
-        "gneiss",
-        "marble"
-    ],
-    "indicator": {
-        "rarity": 22,
-        "depth": 15
-    },
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Cassiterite Sand, Asbestos & Diatomite"
-        }
-    ]
+	"id": "deep_asbestos",
+	"dimension": "earth",
+	"type": "tfc:disc_vein",
+	"config": {
+		"rarity": 190,
+		"density": 0.27,
+		"min_y": -50,
+		"max_y": 20,
+		"size": 35,
+		"height": 5
+	},
+	"ores": [
+		{
+			"ore": "cassiterite",
+			"weight": 5,
+			"block_weight": 1
+		},
+		{
+			"ore": "asbestos",
+			"weight": 3
+		},
+		{
+			"ore": "diatomite",
+			"weight": 1
+		}
+	],
+	"rocks": [
+		"quartzite",
+		"slate",
+		"phyllite",
+		"schist",
+		"gneiss",
+		"marble"
+	],
+	"indicator": {
+		"rarity": 16,
+		"depth": 15
+	}
 }
