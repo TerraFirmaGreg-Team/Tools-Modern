@@ -72,4 +72,42 @@
 
 	"item.gtceu.plastic_circuit_board": "Ceramic Circuit Board",
 	"item.gtceu.plastic_printed_circuit_board": "Ceramic Printed Circuit Board"
+
+	"item.gtceu.tool.buzzsaw": "%s Buzzsaw (LV)",
+	"item.gtceu.tool.mv_buzzsaw": "%s Buzzsaw (MV)",
+	"item.gtceu.tool.hv_buzzsaw": "%s Buzzsaw (HV)",
+	"item.gtceu.tool.ev_buzzsaw": "%s Buzzsaw (EV)",
+	"item.gtceu.tool.iv_buzzsaw": "%s Buzzsaw (IV)",
+	"item.gtceu.tool.zpm_buzzsaw": "%s Buzzsaw (ZPM)",
+
+	"item.gtceu.tool.screwdriver": "%s Screwdriver (LV)",
+	"item.gtceu.tool.mv_screwdriver": "%s Screwdriver (MV)",
+	"item.gtceu.tool.hv_screwdriver": "%s Screwdriver (HV)",
+	"item.gtceu.tool.ev_screwdriver": "%s Screwdriver (EV)",
+	"item.gtceu.tool.iv_screwdriver": "%s Screwdriver (IV)",
+	"item.gtceu.tool.zpm_screwdriver": "%s Screwdriver (ZPM)",
+
+	"item.gtceu.tool.chainsaw": "%s Chainsaw (LV)",
+	"item.gtceu.tool.mv_chainsaw": "%s Chainsaw (MV)",
+	"item.gtceu.tool.hv_chainsaw": "%s Chainsaw (HV)",
+	"item.gtceu.tool.ev_chainsaw": "%s Chainsaw (EV)",
+	"item.gtceu.tool.iv_chainsaw": "%s Chainsaw (IV)",
+	"item.gtceu.tool.zpm_chainsaw": "%s Chainsaw (ZPM)",
+
+	"item.gtceu.tool.wirecutter": "%s Wire Cutter (LV)",
+	"item.gtceu.tool.mv_wirecutter": "%s Wire Cutter (MV)",
+	"item.gtceu.tool.hv_wirecutter": "%s Wire Cutter (HV)",
+	"item.gtceu.tool.ev_wirecutter": "%s Wire Cutter (EV)",
+	"item.gtceu.tool.iv_wirecutter": "%s Wire Cutter (IV)",
+	"item.gtceu.tool.zpm_wirecutter": "%s Wire Cutter (ZPM)",
+
+	"item.gtceu.tool.wrench": "%s Wrench (LV)",
+	"item.gtceu.tool.mv_wrench": "%s Wrench (MV)",
+	"item.gtceu.tool.hv_wrench": "%s Wrench (HV)",
+	"item.gtceu.tool.ev_wrench": "%s Wrench (EV)",
+	"item.gtceu.tool.iv_wrench": "%s Wrench (IV)",
+	"item.gtceu.tool.zpm_wrench": "%s Wrench (ZPM)",
+
+	"item.gtceu.tool.zpm_drill": "%s Drill (ZPM)",
+	
 }
