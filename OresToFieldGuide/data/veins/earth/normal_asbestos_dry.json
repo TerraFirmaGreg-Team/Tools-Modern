@@ -13,7 +13,7 @@
     },
     "ores": [
         {
-            "ore": "cassiterite_sand",
+            "ore": "cassiterite",
             "weight": 6
         },
         {
@@ -44,7 +44,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Cassiterite Sand & Asbestos",
+            "text": "Cassiterite & Asbestos",
             "info": "Only in Dry Biomes",
             "emi": "Only in Dry Biomes"
         }
