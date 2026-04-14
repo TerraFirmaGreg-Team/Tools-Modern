@@ -12,16 +12,16 @@
     "ores": [
         {
             "ore": "tetrahedrite",
-            "weight": 5,
+            "weight": 50,
             "block_weight": 1
         },
         {
             "ore": "copper",
-            "weight": 3
+            "weight": 30
         },
         {
             "ore": "stibnite",
-            "weight": 2
+            "weight": 20
         }
     ],
     "rocks": [

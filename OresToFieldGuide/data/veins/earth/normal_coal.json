@@ -13,18 +13,17 @@
     "ores": [
         {
             "ore": "coal",
-            "weight": 10,
+            "weight": 100,
             "block_weight": 1
         }
     ],
     "rocks": [
-        "shale",
-        "claystone",
-        "limestone",
-        "conglomerate",
-        "dolomite",
-        "chert",
-        "chalk",
+        "quartzite",
+        "slate",
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble",
         "tuff"
     ],
     "indicator": {

@@ -1,12 +1,4 @@
 {
-	"ore_vein_info.tfg.earth.is_mountain": "Only in Mountain Biomes",
-	"ore_vein_info.tfg.earth.is_volcanic": "Only in Volcanic Biomes",
-	"ore_vein_info.tfg.earth.is_hill": "Only in Hill Biomes",
-	"ore_vein_info.tfg.earth.is_dry": "Only in Dry Biomes",
-	"ore_vein_info.tfg.earth.is_karst": "Only in Karst Biomes",
-	"ore_vein_info.tfg.earth.is_shore": "Only in Shore Biomes",
-	"ore_vein_info.tfg.earth.is_normal": "Only in Plains, Plateau and Hills",
-
 	"ore_vein.tfg.deep_apatite": "Apatite & Pyrochlore",
 	"ore_vein.tfg.deep_asbestos": "Cassiterite & Asbestos (Deep)",
 	"ore_vein.tfg.deep_banded_iron": "Banded Iron (Deep)",

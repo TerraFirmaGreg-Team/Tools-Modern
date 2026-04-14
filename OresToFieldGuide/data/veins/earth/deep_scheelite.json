@@ -12,15 +12,15 @@
     "ores": [
         {
             "ore": "scheelite",
-            "weight": 6
+            "weight": 60
         },
         {
             "ore": "tungstate",
-            "weight": 6
+            "weight": 60
         },
         {
             "ore": "lithium",
-            "weight": 2,
+            "weight": 20,
             "block_weight": 1
         }
     ],
@@ -33,7 +33,7 @@
         "marble"
     ],
     "indicator": {
-        "rarity": 22,
+        "rarity": 16,
         "depth": 15
     },
     "translations": [

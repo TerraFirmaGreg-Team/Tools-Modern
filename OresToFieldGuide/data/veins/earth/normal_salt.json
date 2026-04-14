@@ -14,15 +14,16 @@
     "ores": [
         {
             "ore": "salt",
-            "weight": 6
+            "weight": 60,
+            "block_weight": 1
         },
         {
             "ore": "rock_salt",
-            "weight": 3
+            "weight": 30
         },
         {
             "ore": "borax",
-            "weight": 1
+            "weight": 10
         }
     ],
     "rocks": [

@@ -12,20 +12,20 @@
     "ores": [
         {
             "ore": "wulfenite",
-            "weight": 4
+            "weight": 40
         },
         {
             "ore": "molybdenite",
-            "weight": 8,
+            "weight": 80,
             "block_weight": 1
         },
         {
             "ore": "molybdenum",
-            "weight": 1
+            "weight": 10
         },
         {
             "ore": "powellite",
-            "weight": 1
+            "weight": 10
         }
     ],
     "rocks": [
@@ -34,7 +34,7 @@
         "gabbro"
     ],
     "indicator": {
-        "rarity": 22,
+        "rarity": 16,
         "depth": 15
     }
 }

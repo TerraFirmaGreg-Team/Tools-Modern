@@ -12,19 +12,19 @@
     "ores": [
         {
             "ore": "thorium",
-            "weight": 4
+            "weight": 40
         },
         {
             "ore": "uraninite",
-            "weight": 2
+            "weight": 20
         },
         {
             "ore": "emerald",
-            "weight": 1
+            "weight": 10
         },
         {
             "ore": "beryllium",
-            "weight": 2,
+            "weight": 20,
             "block_weight": 1
         }
     ],
@@ -34,7 +34,7 @@
         "gabbro"
     ],
     "indicator": {
-        "rarity": 22,
+        "rarity": 16,
         "depth": 15
     },
     "translations": [

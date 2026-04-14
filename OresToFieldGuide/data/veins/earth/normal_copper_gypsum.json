@@ -19,20 +19,20 @@
     "ores": [
         {
             "ore": "chalcocite",
-            "weight": 12,
+            "weight": 48,
             "block_weight": 1
         },
         {
             "ore": "gypsum",
-            "weight": 3
+            "weight": 12
         },
         {
             "ore": "cobalt",
-            "weight": 5
+            "weight": 20
         },
         {
             "ore": "sulfur",
-            "weight": 2
+            "weight": 8
         }
     ],
     "rocks": [

@@ -13,12 +13,12 @@
     "ores": [
         {
             "ore": "spodumene",
-            "weight": 15,
+            "weight": 75,
             "block_weight": 1
         },
         {
             "ore": "rock_salt",
-            "weight": 5
+            "weight": 25
         }
     ],
     "rocks": [

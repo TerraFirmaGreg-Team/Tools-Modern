@@ -13,12 +13,12 @@
     "ores": [
         {
             "ore": "quartzite",
-            "weight": 9,
+            "weight": 90,
             "block_weight": 1
         },
         {
             "ore": "barite",
-            "weight": 3
+            "weight": 30
         }
     ],
     "rocks": [

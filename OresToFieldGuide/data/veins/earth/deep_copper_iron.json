@@ -12,20 +12,20 @@
     "ores": [
         {
             "ore": "chalcopyrite",
-            "weight": 6,
+            "weight": 30,
             "block_weight": 1
         },
         {
             "ore": "goethite",
-            "weight": 5
+            "weight": 25
         },
         {
             "ore": "pyrite",
-            "weight": 3
+            "weight": 15
         },
         {
             "ore": "copper",
-            "weight": 2
+            "weight": 10
         }
     ],
     "rocks": [
@@ -38,7 +38,7 @@
         "dacite"
     ],
     "indicator": {
-        "rarity": 22,
+        "rarity": 16,
         "depth": 15
     },
     "translations": [

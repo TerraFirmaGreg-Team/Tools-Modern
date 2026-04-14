@@ -12,20 +12,20 @@
     "ores": [
         {
             "ore": "garnierite",
-            "weight": 7,
+            "weight": 70,
             "block_weight": 1
         },
         {
             "ore": "nickel",
-            "weight": 4
+            "weight": 40
         },
         {
             "ore": "cobaltite",
-            "weight": 5
+            "weight": 50
         },
         {
             "ore": "pentlandite",
-            "weight": 3
+            "weight": 30
         }
     ],
     "rocks": [
@@ -34,13 +34,7 @@
         "gabbro"
     ],
     "indicator": {
-        "rarity": 22,
+        "rarity": 16,
         "depth": 15
-    },
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Garnierite, Nickel, Cobaltite & Pentlandite"
-        }
-    ]
+    }
 }

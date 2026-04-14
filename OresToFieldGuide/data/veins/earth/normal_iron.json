@@ -13,11 +13,11 @@
     "ores": [
         {
             "ore": "hematite",
-            "weight": 4
+            "weight": 40
         },
         {
             "ore": "yellow_limonite",
-            "weight": 7,
+            "weight": 70,
             "block_weight": 1
         }
     ],

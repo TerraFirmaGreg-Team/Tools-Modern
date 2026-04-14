@@ -12,15 +12,16 @@
     "ores": [
         {
             "ore": "apatite",
-            "weight": 8
+            "weight": 80,
+            "block_weight": 1
         },
         {
             "ore": "tricalcium_phosphate",
-            "weight": 6
+            "weight": 60
         },
         {
             "ore": "pyrochlore",
-            "weight": 2
+            "weight": 20
         }
     ],
     "rocks": [
@@ -29,7 +30,7 @@
         "gabbro"
     ],
     "indicator": {
-        "rarity": 22,
+        "rarity": 16,
         "depth": 15
     },
     "translations": [

@@ -13,7 +13,7 @@
     "ores": [
         {
             "ore": "copper",
-            "weight": 30,
+            "weight": 100,
             "block_weight": 1
         }
     ],

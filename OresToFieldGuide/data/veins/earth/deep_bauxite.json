@@ -12,11 +12,11 @@
     "ores": [
         {
             "ore": "bauxite",
-            "weight": 3
+            "weight": 30
         },
         {
             "ore": "ilmenite",
-            "weight": 7,
+            "weight": 70,
             "block_weight": 1
         }
     ],
@@ -26,7 +26,7 @@
         "gabbro"
     ],
     "indicator": {
-        "rarity": 22,
+        "rarity": 16,
         "depth": 15
     },
     "translations": [

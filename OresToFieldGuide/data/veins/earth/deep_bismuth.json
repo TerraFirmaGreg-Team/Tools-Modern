@@ -19,19 +19,19 @@
     "ores": [
         {
             "ore": "bismuth",
-            "weight": 9
+            "weight": 45
         },
         {
             "ore": "silver",
-            "weight": 8
+            "weight": 40
         },
         {
             "ore": "gold",
-            "weight": 8
+            "weight": 40
         },
         {
             "ore": "electrotine",
-            "weight": 4,
+            "weight": 20,
             "block_weight": 1
         }
     ],
@@ -41,7 +41,7 @@
         "gabbro"
     ],
     "indicator": {
-        "rarity": 22,
+        "rarity": 16,
         "depth": 15
     },
     "translations": [

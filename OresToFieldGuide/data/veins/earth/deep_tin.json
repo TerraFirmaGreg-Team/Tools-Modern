@@ -12,12 +12,12 @@
     "ores": [
         {
             "ore": "cassiterite",
-            "weight": 7,
+            "weight": 70,
             "block_weight": 1
         },
         {
             "ore": "tin",
-            "weight": 1
+            "weight": 10
         }
     ],
     "rocks": [
@@ -29,7 +29,7 @@
         "marble"
     ],
     "indicator": {
-        "rarity": 22,
+        "rarity": 16,
         "depth": 15
     },
     "translations": [

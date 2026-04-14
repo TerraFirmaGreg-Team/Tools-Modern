@@ -12,16 +12,16 @@
     "ores": [
         {
             "ore": "bastnasite",
-            "weight": 6,
+            "weight": 60,
             "block_weight": 1
         },
         {
             "ore": "monazite",
-            "weight": 3
+            "weight": 30
         },
         {
             "ore": "neodymium",
-            "weight": 1
+            "weight": 10
         }
     ],
     "rocks": [
@@ -33,7 +33,7 @@
         "marble"
     ],
     "indicator": {
-        "rarity": 22,
+        "rarity": 16,
         "depth": 15
     }
 }

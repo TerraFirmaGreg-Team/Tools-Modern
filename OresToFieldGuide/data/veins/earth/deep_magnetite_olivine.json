@@ -12,20 +12,20 @@
     "ores": [
         {
             "ore": "bentonite",
-            "weight": 9,
+            "weight": 45,
             "block_weight": 1
         },
         {
             "ore": "magnesite",
-            "weight": 4
+            "weight": 20
         },
         {
             "ore": "olivine",
-            "weight": 2
+            "weight": 10
         },
         {
             "ore": "fullers_earth",
-            "weight": 12
+            "weight": 60
         }
     ],
     "rocks": [
@@ -41,7 +41,7 @@
         "marble"
     ],
     "indicator": {
-        "rarity": 22,
+        "rarity": 16,
         "depth": 15
     },
     "translations": [

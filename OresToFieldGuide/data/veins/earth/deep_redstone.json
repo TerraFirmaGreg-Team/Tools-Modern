@@ -12,16 +12,16 @@
     "ores": [
         {
             "ore": "redstone",
-            "weight": 4,
+            "weight": 40,
             "block_weight": 1
         },
         {
             "ore": "ruby",
-            "weight": 2
+            "weight": 20
         },
         {
             "ore": "cinnabar",
-            "weight": 1
+            "weight": 10
         }
     ],
     "rocks": [
@@ -30,7 +30,7 @@
         "gabbro"
     ],
     "indicator": {
-        "rarity": 22,
+        "rarity": 16,
         "depth": 180
     },
     "translations": [

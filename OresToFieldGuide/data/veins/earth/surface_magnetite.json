@@ -13,7 +13,7 @@
     "ores": [
         {
             "ore": "magnetite",
-            "weight": 20,
+            "weight": 100,
             "block_weight": 1
         }
     ],
