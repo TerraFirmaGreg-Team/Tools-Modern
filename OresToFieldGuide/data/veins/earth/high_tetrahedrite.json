@@ -47,6 +47,7 @@
         "gneiss",
         "marble"
     ],
+    "name_suffix": "tfg.ore_vein_suffix.high",
     "translations": [
         {
             "lang": "en_us",

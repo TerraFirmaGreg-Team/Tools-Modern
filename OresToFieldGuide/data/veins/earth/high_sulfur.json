@@ -39,6 +39,7 @@
         "gneiss",
         "marble"
     ],
+    "name_suffix": "tfg.ore_vein_suffix.volcanic",
     "translations": [
         {
             "lang": "en_us",

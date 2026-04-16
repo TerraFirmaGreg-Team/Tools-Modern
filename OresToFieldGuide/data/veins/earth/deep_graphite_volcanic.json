@@ -40,6 +40,7 @@
         "rarity": 100,
         "depth": 1
     },
+    "name_suffix": "tfg.ore_vein_suffix.volcanic",
     "translations": [
         {
             "lang": "en_us",
