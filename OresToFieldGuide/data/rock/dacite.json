@@ -1,13 +1,14 @@
 {
 	"id": "dacite",
 	"pattern": "gtceu:dacite_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.dacite",
 	"translations": {
 		"en_us": "Dacite",
 		"pt_br": "Dacito",
 		"ru_ru": "Дацит",
 		"uk_ua": "Дацит",
 		"zh_cn": "英安岩",
-        "de_de": "Dazit"
+		"de_de": "Dazit"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/dacite"

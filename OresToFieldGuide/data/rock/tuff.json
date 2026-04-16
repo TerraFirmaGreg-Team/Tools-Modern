@@ -1,6 +1,7 @@
 {
 	"id": "tuff",
 	"pattern": "gtceu:tuff_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.tuff",
 	"translations": {
 		"en_us": "Tuff",
 		"pt_br": "Tufo",

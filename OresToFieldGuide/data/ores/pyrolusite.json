@@ -1,38 +1,39 @@
 {
-  "id": "pyrolusite",
-  "formula": "MnO₂",
-  "ore_block": "gtceu:raw_pyrolusite_block",
-  "indicator": "gtceu:pyrolusite_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Pyrolusite",
-      "info": "$(thing)Source of$(): Manganese"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Pirolusita",
-      "info": "$(thing)Fonte de$(): Manganês"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Пиролюзит",
-      "info": "$(thing)Используется для$(): Марганец"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Піролюзит",
-      "info": "$(thing)Джерело$(): Магнезії"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "软锰矿",
-      "info": "$(thing)来源$(): 锰"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Pyrolusit",
-      "info": "$(thing)Quelle von$(): Mangan"
-    }
-  ]
+    "id": "pyrolusite",
+    "formula": "MnO₂",
+    "ore_block": "gtceu:raw_pyrolusite_block",
+    "indicator": "gtceu:pyrolusite_indicator",
+    "translation": "material.gtceu.pyrolusite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Pyrolusite",
+            "info": "$(thing)Source of$(): Manganese"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Pirolusita",
+            "info": "$(thing)Fonte de$(): Manganês"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Пиролюзит",
+            "info": "$(thing)Используется для$(): Марганец"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Піролюзит",
+            "info": "$(thing)Джерело$(): Магнезії"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "软锰矿",
+            "info": "$(thing)来源$(): 锰"
+        },
+        {
+            "lang": "de_de",
+            "text": "Pyrolusit",
+            "info": "$(thing)Quelle von$(): Mangan"
+        }
+    ]
 }

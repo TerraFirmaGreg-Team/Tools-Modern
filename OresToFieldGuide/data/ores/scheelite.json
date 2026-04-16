@@ -1,38 +1,39 @@
 {
-  "id": "scheelite",
-  "formula": "Ca(WO₃)O",
-  "ore_block": "gtceu:raw_scheelite_block",
-  "indicator": "gtceu:scheelite_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Scheelite",
-      "info": "$(thing)Source of$(): Tungsten"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Sheelita",
-      "info": "$(thing)Fonte de$(): Tungstênio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Шеелит",
-      "info": "$(thing)Используется для$(): Вольфрам"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Шеєліт",
-      "info": "$(thing)Джерело$(): Вольфраму"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "白钨矿",
-      "info": "$(thing)来源$(): 钨"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Scheelit",
-      "info": "$(thing)Quelle von$(): Wolfram"
-    }
-  ]
+    "id": "scheelite",
+    "formula": "Ca(WO₃)O",
+    "ore_block": "gtceu:raw_scheelite_block",
+    "indicator": "gtceu:scheelite_indicator",
+    "translation": "material.gtceu.scheelite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Scheelite",
+            "info": "$(thing)Source of$(): Tungsten"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Sheelita",
+            "info": "$(thing)Fonte de$(): Tungstênio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Шеелит",
+            "info": "$(thing)Используется для$(): Вольфрам"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Шеєліт",
+            "info": "$(thing)Джерело$(): Вольфраму"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "白钨矿",
+            "info": "$(thing)来源$(): 钨"
+        },
+        {
+            "lang": "de_de",
+            "text": "Scheelit",
+            "info": "$(thing)Quelle von$(): Wolfram"
+        }
+    ]
 }

@@ -1,39 +1,40 @@
 {
-  "id": "lead",
-  "formula": "Pb",
-  "hazard": "weak_poison",
-  "ore_block": "gtceu:raw_lead_block",
-  "indicator": "gtceu:lead_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Lead",
-      "info": "$(thing)Smelts into$(): Lead"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Chumbo",
-      "info": "$(thing)Derrete em$(): Chumbo"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Свинец",
-      "info": "$(thing)Плавится в$(): Свинец"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Свинець",
-      "info": "$(thing)Розплавляється в$(): Свинець"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "铅矿",
-      "info": "$(thing)熔化$(): 铅"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Blei",
-      "info": "$(thing)Schmelzt in$(): Blei"
-    }
-  ]
+    "id": "lead",
+    "formula": "Pb",
+    "hazard": "weak_poison",
+    "ore_block": "gtceu:raw_lead_block",
+    "indicator": "gtceu:lead_indicator",
+    "translation": "material.gtceu.lead",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Lead",
+            "info": "$(thing)Smelts into$(): Lead"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Chumbo",
+            "info": "$(thing)Derrete em$(): Chumbo"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Свинец",
+            "info": "$(thing)Плавится в$(): Свинец"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Свинець",
+            "info": "$(thing)Розплавляється в$(): Свинець"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "铅矿",
+            "info": "$(thing)熔化$(): 铅"
+        },
+        {
+            "lang": "de_de",
+            "text": "Blei",
+            "info": "$(thing)Schmelzt in$(): Blei"
+        }
+    ]
 }

@@ -1,13 +1,14 @@
 {
 	"id": "conglomerate",
 	"pattern": "gtceu:conglomerate_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.conglomerate",
 	"translations": {
 		"en_us": "Conglomerate",
 		"pt_br": "Conglomerado",
 		"ru_ru": "Конгломерат",
 		"uk_ua": "Конгломерат",
 		"zh_cn": "砾岩",
-        "de_de": "Konglomerat"
+		"de_de": "Konglomerat"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/conglomerate"

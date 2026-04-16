@@ -1,37 +1,38 @@
 {
-  "id": "yellow_garnet",
-  "ore_block": "gtceu:raw_yellow_garnet_block",
-  "indicator": "gtceu:yellow_garnet_bud_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Yellow Garnet",
-      "info": "$(thing)Source of$(): Andradite, Grossular, Uvarovite"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Granada Amarela",
-      "info": "$(thing)Fonte de$(): Andradita, Glossulária, Uvarovita"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Жёлтый гранат",
-      "info": "$(thing)Используется для$(): Андрадит, Гроссуляр, Уваровит"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Жовтий гранат",
-      "info": "$(thing)Джерело$(): Андрадиту, Гросулару, Уваровіту"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "黄色石榴石",
-      "info": "$(thing)来源$(): 钙铁榴石, 钙铝榴石, 钙铬榴石"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Gelber Granat",
-      "info": "$(thing)Quelle von$(): Andradit, Grossular, Uwarowit"
-    }
-  ]
+    "id": "yellow_garnet",
+    "ore_block": "gtceu:raw_yellow_garnet_block",
+    "indicator": "gtceu:yellow_garnet_bud_indicator",
+    "translation": "material.gtceu.yellow_garnet",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Yellow Garnet",
+            "info": "$(thing)Source of$(): Andradite, Grossular, Uvarovite"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Granada Amarela",
+            "info": "$(thing)Fonte de$(): Andradita, Glossulária, Uvarovita"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Жёлтый гранат",
+            "info": "$(thing)Используется для$(): Андрадит, Гроссуляр, Уваровит"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Жовтий гранат",
+            "info": "$(thing)Джерело$(): Андрадиту, Гросулару, Уваровіту"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "黄色石榴石",
+            "info": "$(thing)来源$(): 钙铁榴石, 钙铝榴石, 钙铬榴石"
+        },
+        {
+            "lang": "de_de",
+            "text": "Gelber Granat",
+            "info": "$(thing)Quelle von$(): Andradit, Grossular, Uwarowit"
+        }
+    ]
 }

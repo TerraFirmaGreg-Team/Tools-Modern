@@ -1,13 +1,14 @@
 {
 	"id": "moon_stone",
 	"pattern": "gtceu:moon_stone_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.moon_stone",
 	"translations": {
 		"en_us": "Anorthosite",
 		"pt_br": "Anortosito",
 		"ru_ru": "Анортозит",
 		"uk_ua": "Анортозит",
 		"zh_cn": "斜长岩",
-        "de_de": "Anorthosit"
+		"de_de": "Anorthosit"
 	},
 	"replaceable_blocks": [
 		"ad_astra:moon_stone"

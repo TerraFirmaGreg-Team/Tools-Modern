@@ -1,13 +1,14 @@
 {
 	"id": "claystone",
 	"pattern": "gtceu:claystone_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.claystone",
 	"translations": {
 		"en_us": "Claystone",
 		"pt_br": "Argilito",
 		"ru_ru": "Аргиллит",
 		"uk_ua": "Аргиліт",
 		"zh_cn": "粘土岩",
-        "de_de": "Tonstein"
+		"de_de": "Tonstein"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/claystone"

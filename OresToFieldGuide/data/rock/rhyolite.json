@@ -1,13 +1,14 @@
 {
 	"id": "rhyolite",
 	"pattern": "gtceu:rhyolite_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.rhyolite",
 	"translations": {
 		"en_us": "Rhyolite",
 		"pt_br": "Riolito",
 		"ru_ru": "Риолит",
 		"uk_ua": "Ріоліт",
 		"zh_cn": "流纹岩",
-        "de_de": "Rhyolith"
+		"de_de": "Rhyolith"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/rhyolite"

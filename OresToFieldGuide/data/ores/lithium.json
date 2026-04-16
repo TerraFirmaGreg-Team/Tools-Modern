@@ -1,38 +1,39 @@
 {
-  "id": "lithium",
-  "formula": "Li",
-  "ore_block": "gtceu:raw_lithium_block",
-  "indicator": "gtceu:lithium_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Lithium",
-      "info": "$(thing)Source of$(): Lithium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Lítio",
-      "info": "$(thing)Fonte de$(): Lítio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Литий",
-      "info": "$(thing)Используется для$(): Литий"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Літій",
-      "info": "$(thing)Джерело$(): Літію"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "锂矿",
-      "info": "$(thing)来源$(): 锂"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Lithium",
-      "info": "$(thing)Quelle von$(): Lithium"
-    }
-  ]
+    "id": "lithium",
+    "formula": "Li",
+    "ore_block": "gtceu:raw_lithium_block",
+    "indicator": "gtceu:lithium_indicator",
+    "translation": "material.gtceu.lithium",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Lithium",
+            "info": "$(thing)Source of$(): Lithium"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Lítio",
+            "info": "$(thing)Fonte de$(): Lítio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Литий",
+            "info": "$(thing)Используется для$(): Литий"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Літій",
+            "info": "$(thing)Джерело$(): Літію"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "锂矿",
+            "info": "$(thing)来源$(): 锂"
+        },
+        {
+            "lang": "de_de",
+            "text": "Lithium",
+            "info": "$(thing)Quelle von$(): Lithium"
+        }
+    ]
 }

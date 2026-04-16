@@ -1,13 +1,14 @@
 {
 	"id": "dripstone",
 	"pattern": "gtceu:dripstone_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.dripstone",
 	"translations": {
 		"en_us": "Travertine",
 		"pt_br": "Travertino",
 		"ru_ru": "Травертин",
 		"uk_ua": "Травертин",
 		"zh_cn": "石灰华",
-        "de_de": "Travertin"
+		"de_de": "Travertin"
 	},
 	"replaceable_blocks": [
 		"minecraft:dripstone_block"

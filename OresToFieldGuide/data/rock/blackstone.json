@@ -1,13 +1,14 @@
 {
 	"id": "blackstone",
 	"pattern": "gtceu:pyroxenite_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.blackstone",
 	"translations": {
 		"en_us": "Pyroxenite",
 		"pt_br": "Piroxenito",
 		"ru_ru": "Пироксенит",
 		"uk_ua": "Піроксеніти",
 		"zh_cn": "辉石岩",
-        "de_de": "Pyroxenit"
+		"de_de": "Pyroxenit"
 	},
 	"replaceable_blocks": [
 		"minecraft:blackstone",

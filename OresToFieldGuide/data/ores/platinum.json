@@ -1,38 +1,39 @@
 {
-  "id": "platinum",
-  "formula": "Pt",
-  "ore_block": "gtceu:raw_platinum_block",
-  "indicator": "gtceu:platinum_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Platinum",
-      "info": "$(thing)Smelts into$(): Platinum"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Platina",
-      "info": "$(thing)Derrete em$(): Platina"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Платина",
-      "info": "$(thing)Плавится в$(): Платина"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Платина",
-      "info": "$(thing)Розплавляється в$(): Платину"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "铂矿",
-      "info": "$(thing)熔化$(): 铂"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Platin",
-      "info": "$(thing)Schmelzt in$(): Platin"
-    }
-  ]
+    "id": "platinum",
+    "formula": "Pt",
+    "ore_block": "gtceu:raw_platinum_block",
+    "indicator": "gtceu:platinum_indicator",
+    "translation": "material.gtceu.platinum",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Platinum",
+            "info": "$(thing)Smelts into$(): Platinum"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Platina",
+            "info": "$(thing)Derrete em$(): Platina"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Платина",
+            "info": "$(thing)Плавится в$(): Платина"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Платина",
+            "info": "$(thing)Розплавляється в$(): Платину"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "铂矿",
+            "info": "$(thing)熔化$(): 铂"
+        },
+        {
+            "lang": "de_de",
+            "text": "Platin",
+            "info": "$(thing)Schmelzt in$(): Platin"
+        }
+    ]
 }

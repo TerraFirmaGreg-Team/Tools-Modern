@@ -1,13 +1,14 @@
 {
 	"id": "gneiss",
 	"pattern": "gtceu:gneiss_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.gneiss",
 	"translations": {
 		"en_us": "Gneiss",
 		"pt_br": "Gnaisse",
 		"ru_ru": "Гнейс",
 		"uk_ua": "Гнейс",
 		"zh_cn": "片麻岩",
-        "de_de": "Gneis"
+		"de_de": "Gneis"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/gneiss"

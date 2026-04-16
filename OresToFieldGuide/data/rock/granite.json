@@ -1,13 +1,14 @@
 {
 	"id": "granite",
 	"pattern": "gtceu:granite_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.granite",
 	"translations": {
 		"en_us": "Granite",
 		"pt_br": "Granito",
 		"ru_ru": "Гранит",
 		"uk_ua": "Граніт",
 		"zh_cn": "花岗岩",
-        "de_de": "Granit"
+		"de_de": "Granit"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/granite"

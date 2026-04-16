@@ -1,38 +1,39 @@
 {
-  "id": "nether_quartz",
-  "formula": "SiO₂",
-  "ore_block": "gtceu:raw_nether_quartz_block",
-  "indicator": "gtceu:nether_quartz_bud_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Nether Quartz",
-      "info": "$(thing)Used for$(): Applied Energistics 2"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Quartzo do Nether",
-      "info": "$(thing)Usado para$(): Applied Energistics 2"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Незер-кварц",
-      "info": "$(thing)Используется для$(): Applied Energistics 2"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Кварц Незеру",
-      "info": "$(thing)Використовується для$(): Applied Energistics 2"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "下界石英",
-      "info": "$(thing)用于$(): Applied Energistics 2"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Netherquarz",
-      "info": "$(thing)Verwendet für$(): Applied Energistics 2"
-    }
-  ]
+    "id": "nether_quartz",
+    "formula": "SiO₂",
+    "ore_block": "gtceu:raw_nether_quartz_block",
+    "indicator": "gtceu:nether_quartz_bud_indicator",
+    "translation": "material.gtceu.nether_quartz",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Nether Quartz",
+            "info": "$(thing)Used for$(): Applied Energistics 2"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Quartzo do Nether",
+            "info": "$(thing)Usado para$(): Applied Energistics 2"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Незер-кварц",
+            "info": "$(thing)Используется для$(): Applied Energistics 2"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Кварц Незеру",
+            "info": "$(thing)Використовується для$(): Applied Energistics 2"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "下界石英",
+            "info": "$(thing)用于$(): Applied Energistics 2"
+        },
+        {
+            "lang": "de_de",
+            "text": "Netherquarz",
+            "info": "$(thing)Verwendet für$(): Applied Energistics 2"
+        }
+    ]
 }

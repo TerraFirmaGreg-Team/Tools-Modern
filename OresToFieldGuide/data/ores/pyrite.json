@@ -1,38 +1,39 @@
 {
-  "id": "pyrite",
-  "formula": "FeS₂",
-  "ore_block": "gtceu:raw_pyrite_block",
-  "indicator": "gtceu:pyrite_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Pyrite",
-      "info": "$(thing)Melts into$(): Cast Iron"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Pirita",
-      "info": "$(thing)Derrete em$(): Ferro Fundido"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Пирит",
-      "info": "$(thing)Плавится в$(): Железо"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Пірит",
-      "info": "$(thing)Розплавляється в$(): Чавун"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "黄铁矿",
-      "info": "$(thing)熔化$(): 铸铁"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Pyrit",
-      "info": "$(thing)Schmelzt in$(): Gusseisen"
-    }
-  ]
+    "id": "pyrite",
+    "formula": "FeS₂",
+    "ore_block": "gtceu:raw_pyrite_block",
+    "indicator": "gtceu:pyrite_indicator",
+    "translation": "material.gtceu.pyrite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Pyrite",
+            "info": "$(thing)Melts into$(): Cast Iron"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Pirita",
+            "info": "$(thing)Derrete em$(): Ferro Fundido"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Пирит",
+            "info": "$(thing)Плавится в$(): Железо"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Пірит",
+            "info": "$(thing)Розплавляється в$(): Чавун"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "黄铁矿",
+            "info": "$(thing)熔化$(): 铸铁"
+        },
+        {
+            "lang": "de_de",
+            "text": "Pyrit",
+            "info": "$(thing)Schmelzt in$(): Gusseisen"
+        }
+    ]
 }

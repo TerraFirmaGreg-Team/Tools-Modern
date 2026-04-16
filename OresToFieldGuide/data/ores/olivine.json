@@ -1,38 +1,39 @@
 {
-  "id": "olivine",
-  "formula": "Mg₂Fe(SiO₂)₂",
-  "ore_block": "gtceu:raw_olivine_block",
-  "indicator": "gtceu:olivine_bud_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Olivine",
-      "info": "$(thing)Source of$(): Magnesium, Iron"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Olivina",
-      "info": "$(thing)Fonte de$(): Magnésio, Ferro"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Оливин",
-      "info": "$(thing)Используется для$(): Магний, Железо"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Оливін",
-      "info": "$(thing)Джерело$(): Магнію, Залізо"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "橄榄石",
-      "info": "$(thing)来源$(): 镁, 铁"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Olivin",
-      "info": "$(thing)Quelle von$(): Magnesium, Eisen"
-    }
-  ]
+    "id": "olivine",
+    "formula": "Mg₂Fe(SiO₂)₂",
+    "ore_block": "gtceu:raw_olivine_block",
+    "indicator": "gtceu:olivine_bud_indicator",
+    "translation": "material.gtceu.olivine",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Olivine",
+            "info": "$(thing)Source of$(): Magnesium, Iron"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Olivina",
+            "info": "$(thing)Fonte de$(): Magnésio, Ferro"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Оливин",
+            "info": "$(thing)Используется для$(): Магний, Железо"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Оливін",
+            "info": "$(thing)Джерело$(): Магнію, Залізо"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "橄榄石",
+            "info": "$(thing)来源$(): 镁, 铁"
+        },
+        {
+            "lang": "de_de",
+            "text": "Olivin",
+            "info": "$(thing)Quelle von$(): Magnesium, Eisen"
+        }
+    ]
 }

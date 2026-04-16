@@ -1,38 +1,39 @@
 {
-  "id": "trona",
-  "formula": "Na₃C₂H(H₂O)₂O₆",
-  "ore_block": "gtceu:raw_trona_block",
-  "indicator": "gtceu:trona_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Trona",
-      "info": "$(thing)Source of$(): Sodium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Trona",
-      "info": "$(thing)Fonte de$(): Sódio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Трона",
-      "info": "$(thing)Используется для$(): Натрий"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Трона",
-      "info": "$(thing)Джерело$(): Натрію"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "天然碱",
-      "info": "$(thing)来源$(): 钠"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Trona",
-      "info": "$(thing)Quelle von$(): Natrium"
-    }
-  ]
+    "id": "trona",
+    "formula": "Na₃C₂H(H₂O)₂O₆",
+    "ore_block": "gtceu:raw_trona_block",
+    "indicator": "gtceu:trona_indicator",
+    "translation": "material.gtceu.trona",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Trona",
+            "info": "$(thing)Source of$(): Sodium"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Trona",
+            "info": "$(thing)Fonte de$(): Sódio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Трона",
+            "info": "$(thing)Используется для$(): Натрий"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Трона",
+            "info": "$(thing)Джерело$(): Натрію"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "天然碱",
+            "info": "$(thing)来源$(): 钠"
+        },
+        {
+            "lang": "de_de",
+            "text": "Trona",
+            "info": "$(thing)Quelle von$(): Natrium"
+        }
+    ]
 }

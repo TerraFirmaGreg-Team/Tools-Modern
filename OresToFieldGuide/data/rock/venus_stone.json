@@ -1,13 +1,14 @@
 {
 	"id": "venus_stone",
 	"pattern": "gtceu:venus_stone_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.venus_stone",
 	"translations": {
 		"en_us": "Trachyte",
 		"pt_br": "Traquito",
 		"ru_ru": "Трахит",
 		"uk_ua": "Трахіт",
 		"zh_cn": "粗面岩",
-        "de_de": "Trachyt"
+		"de_de": "Trachyt"
 	},
 	"replaceable_blocks": [
 		"ad_astra:venus_stone"

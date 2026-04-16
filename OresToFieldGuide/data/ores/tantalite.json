@@ -1,38 +1,39 @@
 {
-  "id": "tantalite",
-  "formula": "MnTa₂O₆",
-  "ore_block": "gtceu:raw_tantalite_block",
-  "indicator": "gtceu:tantalite_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Tantalite",
-      "info": "$(thing)Source of$(): Manganese, Tantalum"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Tantalita",
-      "info": "$(thing)Fonte de$(): Manganês, Tântalo"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Танталит",
-      "info": "$(thing)Используется для$(): Марганец, Тантал"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Танталіт",
-      "info": "$(thing)Джерело$(): Магнезії, Танталу"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "钽铁矿",
-      "info": "$(thing)来源$(): 锰, 钽"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Tantalit",
-      "info": "$(thing)Quelle von$(): Mangan, Tantal"
-    }
-  ]
+    "id": "tantalite",
+    "formula": "MnTa₂O₆",
+    "ore_block": "gtceu:raw_tantalite_block",
+    "indicator": "gtceu:tantalite_indicator",
+    "translation": "material.gtceu.tantalite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Tantalite",
+            "info": "$(thing)Source of$(): Manganese, Tantalum"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Tantalita",
+            "info": "$(thing)Fonte de$(): Manganês, Tântalo"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Танталит",
+            "info": "$(thing)Используется для$(): Марганец, Тантал"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Танталіт",
+            "info": "$(thing)Джерело$(): Магнезії, Танталу"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "钽铁矿",
+            "info": "$(thing)来源$(): 锰, 钽"
+        },
+        {
+            "lang": "de_de",
+            "text": "Tantalit",
+            "info": "$(thing)Quelle von$(): Mangan, Tantal"
+        }
+    ]
 }

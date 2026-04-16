@@ -1,13 +1,14 @@
 {
 	"id": "chalk",
 	"pattern": "gtceu:chalk_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.chalk",
 	"translations": {
 		"en_us": "Chalk",
 		"pt_br": "Giz",
 		"ru_ru": "Мел",
 		"uk_ua": "Крейда",
 		"zh_cn": "白垩岩",
-        "de_de": "Kalk"
+		"de_de": "Kalk"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/chalk"

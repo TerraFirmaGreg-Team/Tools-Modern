@@ -1,38 +1,39 @@
 {
-  "id": "spodumene",
-  "formula": "LiAlSi₂O₆",
-  "ore_block": "gtceu:raw_spodumene_block",
-  "indicator": "gtceu:spodumene_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Spodumene",
-      "info": "$(thing)Source of$(): Lithium, Aluminium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Espodumena",
-      "info": "$(thing)Fonte de$(): Lítio, Alumínio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Сподумен",
-      "info": "$(thing)Используется для$(): Литий, Алюминий"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Сподумен",
-      "info": "$(thing)Джерело$(): Літію, Алюмінію"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "锂辉石",
-      "info": "$(thing)来源$(): 锂, 铝"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Spodumen",
-      "info": "$(thing)Quelle von$(): Lithium, Aluminium"
-    }
-  ]
+    "id": "spodumene",
+    "formula": "LiAlSi₂O₆",
+    "ore_block": "gtceu:raw_spodumene_block",
+    "indicator": "gtceu:spodumene_indicator",
+    "translation": "material.gtceu.spodumene",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Spodumene",
+            "info": "$(thing)Source of$(): Lithium, Aluminium"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Espodumena",
+            "info": "$(thing)Fonte de$(): Lítio, Alumínio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Сподумен",
+            "info": "$(thing)Используется для$(): Литий, Алюминий"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Сподумен",
+            "info": "$(thing)Джерело$(): Літію, Алюмінію"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "锂辉石",
+            "info": "$(thing)来源$(): 锂, 铝"
+        },
+        {
+            "lang": "de_de",
+            "text": "Spodumen",
+            "info": "$(thing)Quelle von$(): Lithium, Aluminium"
+        }
+    ]
 }

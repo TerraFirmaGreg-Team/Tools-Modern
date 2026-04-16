@@ -1,38 +1,39 @@
 {
-  "id": "mica",
-  "formula": "KAl₃Si₃F₂O₁₀",
-  "ore_block": "gtceu:raw_mica_block",
-  "indicator": "gtceu:mica_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Mica",
-      "info": "$(thing)Source of$(): Potassium, Aluminium, Fluorine"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Mica",
-      "info": "$(thing)Fonte de$(): Potássio, Alumínio, Flúor"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Слюда",
-      "info": "$(thing)Используется для$(): Калий, Алюминий, Фтор"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Слюда",
-      "info": "$(thing)Джерело$(): Калію, Алюмінію, Фтору"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "云母",
-      "info": "$(thing)来源$(): 钾, 铝, 氟"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Glimmer",
-      "info": "$(thing)Quelle von$(): Kalium, Aluminium, Fluor"
-    }
-  ]
+    "id": "mica",
+    "formula": "KAl₃Si₃F₂O₁₀",
+    "ore_block": "gtceu:raw_mica_block",
+    "indicator": "gtceu:mica_indicator",
+    "translation": "material.gtceu.mica",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Mica",
+            "info": "$(thing)Source of$(): Potassium, Aluminium, Fluorine"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Mica",
+            "info": "$(thing)Fonte de$(): Potássio, Alumínio, Flúor"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Слюда",
+            "info": "$(thing)Используется для$(): Калий, Алюминий, Фтор"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Слюда",
+            "info": "$(thing)Джерело$(): Калію, Алюмінію, Фтору"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "云母",
+            "info": "$(thing)来源$(): 钾, 铝, 氟"
+        },
+        {
+            "lang": "de_de",
+            "text": "Glimmer",
+            "info": "$(thing)Quelle von$(): Kalium, Aluminium, Fluor"
+        }
+    ]
 }

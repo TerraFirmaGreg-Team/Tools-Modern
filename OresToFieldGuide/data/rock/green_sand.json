@@ -1,6 +1,7 @@
 {
 	"id": "green_sand",
 	"pattern": "gtceu:green_sand_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.green_sand",
 	"translations": {
 		"en_us": "Green Sand"
 	},

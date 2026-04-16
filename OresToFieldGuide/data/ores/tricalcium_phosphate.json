@@ -1,38 +1,39 @@
 {
-  "id": "tricalcium_phosphate",
-  "formula": "Ca₃(PO₄)₂",
-  "ore_block": "gtceu:raw_tricalcium_phosphate_block",
-  "indicator": "gtceu:tricalcium_phosphate_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Tricalcium Phosphate",
-      "info": "$(thing)Source of$(): Calcium, Phosphorus"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Fosfato Tricálcico",
-      "info": "$(thing)Fonte de$(): Cálcio, Fósforo"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Трикальцийфосфат",
-      "info": "$(thing)Используется для$(): Кальций, Фосфор"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Трикальційфосфат",
-      "info": "$(thing)Джерело$(): Кальцію, Фосфору"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "磷酸三钙",
-      "info": "$(thing)来源$(): 钙, 磷"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Tricalciumphosphat",
-      "info": "$(thing)Quelle von$(): Calcium, Phosphor"
-    }
-  ]
+    "id": "tricalcium_phosphate",
+    "formula": "Ca₃(PO₄)₂",
+    "ore_block": "gtceu:raw_tricalcium_phosphate_block",
+    "indicator": "gtceu:tricalcium_phosphate_indicator",
+    "translation": "material.gtceu.tricalcium_phosphate",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Tricalcium Phosphate",
+            "info": "$(thing)Source of$(): Calcium, Phosphorus"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Fosfato Tricálcico",
+            "info": "$(thing)Fonte de$(): Cálcio, Fósforo"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Трикальцийфосфат",
+            "info": "$(thing)Используется для$(): Кальций, Фосфор"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Трикальційфосфат",
+            "info": "$(thing)Джерело$(): Кальцію, Фосфору"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "磷酸三钙",
+            "info": "$(thing)来源$(): 钙, 磷"
+        },
+        {
+            "lang": "de_de",
+            "text": "Tricalciumphosphat",
+            "info": "$(thing)Quelle von$(): Calcium, Phosphor"
+        }
+    ]
 }

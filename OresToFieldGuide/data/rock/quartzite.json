@@ -1,13 +1,14 @@
 {
 	"id": "quartzite",
 	"pattern": "gtceu:quartzite_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.quartzite",
 	"translations": {
 		"en_us": "Quartzite",
 		"pt_br": "Quartzito",
 		"ru_ru": "Кварцит",
 		"uk_ua": "Кварцит",
 		"zh_cn": "石英岩",
-        "de_de": "Quarzit"
+		"de_de": "Quarzit"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/quartzite"

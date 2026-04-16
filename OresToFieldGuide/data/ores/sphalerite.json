@@ -1,38 +1,39 @@
 {
-  "id": "sphalerite",
-  "formula": "ZnS",
-  "ore_block": "gtceu:raw_sphalerite_block",
-  "indicator": "tfc:ore/small_sphalerite",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Sphalerite",
-      "info": "$(thing)Melts into$(): Zinc"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Esfalerita",
-      "info": "$(thing)Derrete em$(): Zinco"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Сфалерит",
-      "info": "$(thing)Плавится в$(): Цинк"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Сфалерит",
-      "info": "$(thing)Розплавляється в$(): Цинк"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "闪锌矿",
-      "info": "$(thing)熔化$(): 锌"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Sphalerit",
-      "info": "$(thing)Schmelzt in$(): Zink"
-    }
-  ]
+    "id": "sphalerite",
+    "formula": "ZnS",
+    "ore_block": "gtceu:raw_sphalerite_block",
+    "indicator": "tfc:ore/small_sphalerite",
+    "translation": "material.gtceu.sphalerite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Sphalerite",
+            "info": "$(thing)Melts into$(): Zinc"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Esfalerita",
+            "info": "$(thing)Derrete em$(): Zinco"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Сфалерит",
+            "info": "$(thing)Плавится в$(): Цинк"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Сфалерит",
+            "info": "$(thing)Розплавляється в$(): Цинк"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "闪锌矿",
+            "info": "$(thing)熔化$(): 锌"
+        },
+        {
+            "lang": "de_de",
+            "text": "Sphalerit",
+            "info": "$(thing)Schmelzt in$(): Zink"
+        }
+    ]
 }

@@ -1,38 +1,39 @@
 {
-  "id": "sodalite",
-  "formula": "Al₃Si₃Na₄Cl",
-  "ore_block": "gtceu:raw_sodalite_block",
-  "indicator": "gtceu:sodalite_bud_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Sodalite",
-      "info": "$(thing)Source of$(): Aluminium, Sodium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Sodalita",
-      "info": "$(thing)Fonte de$(): Alumínio, Sódio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Содалит",
-      "info": "$(thing)Используется для$(): Алюминий, Натрий"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Содаліт",
-      "info": "$(thing)Джерело$(): Алюмінію, Натрію"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "方钠石",
-      "info": "$(thing)来源$(): 铝, 钠"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Sodalith",
-      "info": "$(thing)Quelle von$(): Aluminium, Natrium"
-    }
-  ]
+    "id": "sodalite",
+    "formula": "Al₃Si₃Na₄Cl",
+    "ore_block": "gtceu:raw_sodalite_block",
+    "indicator": "gtceu:sodalite_bud_indicator",
+    "translation": "material.gtceu.sodalite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Sodalite",
+            "info": "$(thing)Source of$(): Aluminium, Sodium"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Sodalita",
+            "info": "$(thing)Fonte de$(): Alumínio, Sódio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Содалит",
+            "info": "$(thing)Используется для$(): Алюминий, Натрий"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Содаліт",
+            "info": "$(thing)Джерело$(): Алюмінію, Натрію"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "方钠石",
+            "info": "$(thing)来源$(): 铝, 钠"
+        },
+        {
+            "lang": "de_de",
+            "text": "Sodalith",
+            "info": "$(thing)Quelle von$(): Aluminium, Natrium"
+        }
+    ]
 }

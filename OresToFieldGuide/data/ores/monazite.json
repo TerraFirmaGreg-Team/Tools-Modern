@@ -1,38 +1,39 @@
 {
-  "id": "monazite",
-  "formula": "?(PO₄)",
-  "ore_block": "gtceu:raw_monazite_block",
-  "indicator": "gtceu:monazite_bud_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Monazite",
-      "info": "$(thing)Source of$(): Phosphorous, Rare Earth"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Monazita",
-      "info": "$(thing)Fonte de$(): Fósforo, Terra Rara"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Монацит",
-      "info": "$(thing)Используется для$(): Фосфор, Редкая земля"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Монацит",
-      "info": "$(thing)Джерело$(): Фосфору, Рідкоземельні"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "独居石",
-      "info": "$(thing)来源$(): 磷, 稀土"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Monazit",
-      "info": "$(thing)Quelle von$(): Phosphor, Seltene Erden"
-    }
-  ]
+    "id": "monazite",
+    "formula": "?(PO₄)",
+    "ore_block": "gtceu:raw_monazite_block",
+    "indicator": "gtceu:monazite_bud_indicator",
+    "translation": "material.gtceu.monazite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Monazite",
+            "info": "$(thing)Source of$(): Phosphorous, Rare Earth"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Monazita",
+            "info": "$(thing)Fonte de$(): Fósforo, Terra Rara"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Монацит",
+            "info": "$(thing)Используется для$(): Фосфор, Редкая земля"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Монацит",
+            "info": "$(thing)Джерело$(): Фосфору, Рідкоземельні"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "独居石",
+            "info": "$(thing)来源$(): 磷, 稀土"
+        },
+        {
+            "lang": "de_de",
+            "text": "Monazit",
+            "info": "$(thing)Quelle von$(): Phosphor, Seltene Erden"
+        }
+    ]
 }

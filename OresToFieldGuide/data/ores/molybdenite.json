@@ -1,38 +1,39 @@
 {
-  "id": "molybdenite",
-  "formula": "MoS₂",
-  "ore_block": "gtceu:raw_molybdenite_block",
-  "indicator": "gtceu:molybdenite_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Molybdenite",
-      "info": "$(thing)Source of$(): Molybdenum"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Molibdenita",
-      "info": "$(thing)Fonte de$(): Molibdênio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Молибденит",
-      "info": "$(thing)Используется для$(): Молибден"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Молібденіт",
-      "info": "$(thing)Джерело$(): Молібденум"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "辉钼矿",
-      "info": "$(thing)来源$(): 钼"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Molybdänit",
-      "info": "$(thing)Quelle von$(): Molybdän"
-    }
-  ]
+    "id": "molybdenite",
+    "formula": "MoS₂",
+    "ore_block": "gtceu:raw_molybdenite_block",
+    "indicator": "gtceu:molybdenite_indicator",
+    "translation": "material.gtceu.molybdenite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Molybdenite",
+            "info": "$(thing)Source of$(): Molybdenum"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Molibdenita",
+            "info": "$(thing)Fonte de$(): Molibdênio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Молибденит",
+            "info": "$(thing)Используется для$(): Молибден"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Молібденіт",
+            "info": "$(thing)Джерело$(): Молібденум"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "辉钼矿",
+            "info": "$(thing)来源$(): 钼"
+        },
+        {
+            "lang": "de_de",
+            "text": "Molybdänit",
+            "info": "$(thing)Quelle von$(): Molybdän"
+        }
+    ]
 }

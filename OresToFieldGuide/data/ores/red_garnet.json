@@ -1,37 +1,38 @@
 {
-  "id": "red_garnet",
-  "ore_block": "gtceu:raw_red_garnet_block",
-  "indicator": "gtceu:red_garnet_bud_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Red Garnet",
-      "info": "$(thing)Source of$(): Pyrope, Almandine, Spessartine"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Granada Vermelha",
-      "info": "$(thing)Fonte de$(): Piropo, Almandina, Espessartita"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Красный гранат",
-      "info": "$(thing)Используется для$(): Пироп, Альмандин, Спасерит"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Червоний гранат",
-      "info": "$(thing)Джерело$(): Піроп, Алмадін, Спесартін"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "红色石榴石",
-      "info": "$(thing)来源$(): 镁铝榴石, 铁铝榴石, 锰铝榴石"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Roter Granat",
-      "info": "$(thing)Quelle von$(): Pyrop, Almandin, Spessartin"
-    }
-  ]
+    "id": "red_garnet",
+    "ore_block": "gtceu:raw_red_garnet_block",
+    "indicator": "gtceu:red_garnet_bud_indicator",
+    "translation": "material.gtceu.red_garnet",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Red Garnet",
+            "info": "$(thing)Source of$(): Pyrope, Almandine, Spessartine"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Granada Vermelha",
+            "info": "$(thing)Fonte de$(): Piropo, Almandina, Espessartita"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Красный гранат",
+            "info": "$(thing)Используется для$(): Пироп, Альмандин, Спасерит"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Червоний гранат",
+            "info": "$(thing)Джерело$(): Піроп, Алмадін, Спесартін"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "红色石榴石",
+            "info": "$(thing)来源$(): 镁铝榴石, 铁铝榴石, 锰铝榴石"
+        },
+        {
+            "lang": "de_de",
+            "text": "Roter Granat",
+            "info": "$(thing)Quelle von$(): Pyrop, Almandin, Spessartin"
+        }
+    ]
 }

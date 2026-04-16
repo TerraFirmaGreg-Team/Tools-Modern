@@ -1,38 +1,39 @@
 {
-  "id": "lepidolite",
-  "formula": "KLi₃Al₄F₂O₁₀",
-  "ore_block": "gtceu:raw_lepidolite_block",
-  "indicator": "gtceu:lepidolite_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Lepidolite",
-      "info": "$(thing)Source of$(): Potassium, Lithium, Aluminium, Fluorine"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Lepidorita",
-      "info": "$(thing)Fonte de$(): Potássio, Lítio, Alumínio, Flúor"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Лепидолит",
-      "info": "$(thing)Используется для$(): Калий, Литий, Алюминий, Фтор"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Лепідоліт",
-      "info": "$(thing)Джерело$(): Калію, Літію, Алюмінію, Фтору"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "锂云母",
-      "info": "$(thing)来源$(): 钾, 锂, 铝, 氟"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Lepidolith",
-      "info": "$(thing)Quelle von$(): Kalium, Lithium, Aluminium, Fluor"
-    }
-  ]
+    "id": "lepidolite",
+    "formula": "KLi₃Al₄F₂O₁₀",
+    "ore_block": "gtceu:raw_lepidolite_block",
+    "indicator": "gtceu:lepidolite_indicator",
+    "translation": "material.gtceu.lepidolite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Lepidolite",
+            "info": "$(thing)Source of$(): Potassium, Lithium, Aluminium, Fluorine"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Lepidorita",
+            "info": "$(thing)Fonte de$(): Potássio, Lítio, Alumínio, Flúor"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Лепидолит",
+            "info": "$(thing)Используется для$(): Калий, Литий, Алюминий, Фтор"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Лепідоліт",
+            "info": "$(thing)Джерело$(): Калію, Літію, Алюмінію, Фтору"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "锂云母",
+            "info": "$(thing)来源$(): 钾, 锂, 铝, 氟"
+        },
+        {
+            "lang": "de_de",
+            "text": "Lepidolith",
+            "info": "$(thing)Quelle von$(): Kalium, Lithium, Aluminium, Fluor"
+        }
+    ]
 }

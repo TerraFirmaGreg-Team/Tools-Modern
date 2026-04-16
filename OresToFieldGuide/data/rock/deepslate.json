@@ -1,13 +1,14 @@
 {
 	"id": "deepslate",
 	"pattern": "gtceu:deepslate_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.deepslate",
 	"translations": {
 		"en_us": "Migmatite",
 		"pt_br": "Migmatito",
 		"ru_ru": "Мигматит",
 		"uk_ua": "Мігматит",
 		"zh_cn": "混合岩",
-        "de_de": "Migmatit"
+		"de_de": "Migmatit"
 	},
 	"replaceable_blocks": [
 		"minecraft:deepslate",

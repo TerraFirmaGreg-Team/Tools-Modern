@@ -1,13 +1,14 @@
 {
 	"id": "basalt",
 	"pattern": "gtceu:basalt_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.basalt",
 	"translations": {
 		"en_us": "Basalt",
 		"pt_br": "Basalto",
 		"ru_ru": "Базальт",
 		"uk_ua": "Базальт",
 		"zh_cn": "玄武岩",
-        "de_de": "Basalt"
+		"de_de": "Basalt"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/basalt",

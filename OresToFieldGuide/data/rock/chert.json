@@ -1,13 +1,14 @@
 {
 	"id": "chert",
 	"pattern": "gtceu:chert_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.chert",
 	"translations": {
 		"en_us": "Chert",
 		"pt_br": "Cherte",
 		"ru_ru": "Кремнистый сланец",
 		"uk_ua": "Кременистий сланець",
 		"zh_cn": "燧石",
-        "de_de": "Hornstein"
+		"de_de": "Hornstein"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/chert"

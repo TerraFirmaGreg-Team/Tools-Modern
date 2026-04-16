@@ -1,38 +1,39 @@
 {
-  "id": "wulfenite",
-  "formula": "PbMoO₄",
-  "ore_block": "gtceu:raw_wulfenite_block",
-  "indicator": "gtceu:wulfenite_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Wulfenite",
-      "info": "$(thing)Source of$(): Lead, Molybdenum"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Wulfenita",
-      "info": "$(thing)Fonte de$(): Chumbo, Molibdênio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Вульфенит",
-      "info": "$(thing)Используется для$(): Свинец, Молибден"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Вульфеніт",
-      "info": "$(thing)Джерело$(): Свинцю, Молібденуму"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "钼铅矿",
-      "info": "$(thing)来源$(): 铅, 钼"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Wulfenit",
-      "info": "$(thing)Quelle von$(): Blei, Molybdän"
-    }
-  ]
+    "id": "wulfenite",
+    "formula": "PbMoO₄",
+    "ore_block": "gtceu:raw_wulfenite_block",
+    "indicator": "gtceu:wulfenite_indicator",
+    "translation": "material.gtceu.wulfenite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Wulfenite",
+            "info": "$(thing)Source of$(): Lead, Molybdenum"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Wulfenita",
+            "info": "$(thing)Fonte de$(): Chumbo, Molibdênio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Вульфенит",
+            "info": "$(thing)Используется для$(): Свинец, Молибден"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Вульфеніт",
+            "info": "$(thing)Джерело$(): Свинцю, Молібденуму"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "钼铅矿",
+            "info": "$(thing)来源$(): 铅, 钼"
+        },
+        {
+            "lang": "de_de",
+            "text": "Wulfenit",
+            "info": "$(thing)Quelle von$(): Blei, Molybdän"
+        }
+    ]
 }

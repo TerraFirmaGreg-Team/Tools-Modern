@@ -4,6 +4,7 @@
     "hazard": "radioactive",
     "ore_block": "gtceu:raw_thorium_block",
     "indicator": "gtceu:thorium_indicator",
+    "translation": "material.gtceu.thorium",
     "translations": [
         {
             "lang": "en_us",
@@ -29,11 +30,11 @@
             "lang": "zh_cn",
             "text": "方钍石",
             "info": "$(thing)来源$(): 钍"
-        },    
+        },
         {
             "lang": "de_de",
             "text": "Thorianit",
             "info": "$(thing)Quelle von$(): Thorium"
-         }
+        }
     ]
 }

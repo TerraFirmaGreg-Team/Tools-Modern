@@ -1,38 +1,39 @@
 {
-  "id": "molybdenum",
-  "formula": "Mo",
-  "ore_block": "gtceu:raw_molybdenum_block",
-  "indicator": "gtceu:molybdenum_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Molybdenum",
-      "info": "$(thing)Source of$(): Molybdenum"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Molibdênio",
-      "info": "$(thing)Fonte de$(): Molibdênio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Молибден",
-      "info": "$(thing)Используется для$(): Молибден"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Молібденум",
-      "info": "$(thing)Джерело$(): Молібденум"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "钼矿",
-      "info": "$(thing)来源$(): 钼"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Molybdän",
-      "info": "$(thing)Quelle von$(): Molybdän"
-    }
-  ]
+    "id": "molybdenum",
+    "formula": "Mo",
+    "ore_block": "gtceu:raw_molybdenum_block",
+    "indicator": "gtceu:molybdenum_indicator",
+    "translation": "material.gtceu.molybdenum",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Molybdenum",
+            "info": "$(thing)Source of$(): Molybdenum"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Molibdênio",
+            "info": "$(thing)Fonte de$(): Molibdênio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Молибден",
+            "info": "$(thing)Используется для$(): Молибден"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Молібденум",
+            "info": "$(thing)Джерело$(): Молібденум"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "钼矿",
+            "info": "$(thing)来源$(): 钼"
+        },
+        {
+            "lang": "de_de",
+            "text": "Molybdän",
+            "info": "$(thing)Quelle von$(): Molybdän"
+        }
+    ]
 }

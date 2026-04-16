@@ -1,38 +1,39 @@
 {
-  "id": "sulfur",
-  "formula": "S",
-  "ore_block": "gtceu:raw_sulfur_block",
-  "indicator": "gtceu:sulfur_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Sulfur",
-      "info": "$(thing)Source of$(): Sulfur"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Enxofre",
-      "info": "$(thing)Fonte de$(): Enxofre"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Сера",
-      "info": "$(thing)Используется для$(): Сера"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Сірка",
-      "info": "$(thing)Джерело$(): Сірки"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "硫",
-      "info": "$(thing)来源$(): 硫"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Schwefel",
-      "info": "$(thing)Quelle von$(): Schwefel"
-    }
-  ]
+    "id": "sulfur",
+    "formula": "S",
+    "ore_block": "gtceu:raw_sulfur_block",
+    "indicator": "gtceu:sulfur_indicator",
+    "translation": "material.gtceu.sulfur",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Sulfur",
+            "info": "$(thing)Source of$(): Sulfur"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Enxofre",
+            "info": "$(thing)Fonte de$(): Enxofre"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Сера",
+            "info": "$(thing)Используется для$(): Сера"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Сірка",
+            "info": "$(thing)Джерело$(): Сірки"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "硫",
+            "info": "$(thing)来源$(): 硫"
+        },
+        {
+            "lang": "de_de",
+            "text": "Schwefel",
+            "info": "$(thing)Quelle von$(): Schwefel"
+        }
+    ]
 }

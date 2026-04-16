@@ -1,38 +1,39 @@
 {
-  "id": "nickel",
-  "formula": "Ni",
-  "ore_block": "gtceu:raw_nickel_block",
-  "indicator": "tfc:ore/small_garnierite",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Nickel",
-      "info": "$(thing)Melts into$(): Nickel"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Níquel",
-      "info": "$(thing)Derrete em$(): Níquel"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Никель",
-      "info": "$(thing)Плавится в$(): Никель"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Нікель",
-      "info": "$(thing)Розплавляється в$(): Нікелю"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "镍矿",
-      "info": "$(thing)熔化$(): 镍"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Nickel",
-      "info": "$(thing)Schmelzt in$(): Nickel"
-    }
-  ]
+    "id": "nickel",
+    "formula": "Ni",
+    "ore_block": "gtceu:raw_nickel_block",
+    "indicator": "tfc:ore/small_garnierite",
+    "translation": "material.gtceu.nickel",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Nickel",
+            "info": "$(thing)Melts into$(): Nickel"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Níquel",
+            "info": "$(thing)Derrete em$(): Níquel"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Никель",
+            "info": "$(thing)Плавится в$(): Никель"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Нікель",
+            "info": "$(thing)Розплавляється в$(): Нікелю"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "镍矿",
+            "info": "$(thing)熔化$(): 镍"
+        },
+        {
+            "lang": "de_de",
+            "text": "Nickel",
+            "info": "$(thing)Schmelzt in$(): Nickel"
+        }
+    ]
 }

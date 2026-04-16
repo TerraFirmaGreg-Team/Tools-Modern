@@ -1,38 +1,39 @@
 {
-  "id": "powellite",
-  "formula": "CaMoO₄",
-  "ore_block": "gtceu:raw_powellite_block",
-  "indicator": "gtceu:powellite_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Powellite",
-      "info": "$(thing)Source of$(): Molybdenum"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Powellita",
-      "info": "$(thing)Fonte de$(): Molibdênio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Повеллит",
-      "info": "$(thing)Используется для$(): Молибден"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Повеліт",
-      "info": "$(thing)Джерело$(): Молібденум"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "钼钨钙矿",
-      "info": "$(thing)来源$(): 钼"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Powellit",
-      "info": "$(thing)Quelle von$(): Molybdän"
-    }
-  ]
+    "id": "powellite",
+    "formula": "CaMoO₄",
+    "ore_block": "gtceu:raw_powellite_block",
+    "indicator": "gtceu:powellite_indicator",
+    "translation": "material.gtceu.powellite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Powellite",
+            "info": "$(thing)Source of$(): Molybdenum"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Powellita",
+            "info": "$(thing)Fonte de$(): Molibdênio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Повеллит",
+            "info": "$(thing)Используется для$(): Молибден"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Повеліт",
+            "info": "$(thing)Джерело$(): Молібденум"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "钼钨钙矿",
+            "info": "$(thing)来源$(): 钼"
+        },
+        {
+            "lang": "de_de",
+            "text": "Powellit",
+            "info": "$(thing)Quelle von$(): Molybdän"
+        }
+    ]
 }

@@ -1,38 +1,39 @@
 {
-  "id": "magnetite",
-  "formula": "Fe₃O₄",
-  "ore_block": "gtceu:raw_magnetite_block",
-  "indicator": "tfc:ore/small_magnetite",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Magnetite",
-      "info": "$(thing)Melts into$(): Cast Iron"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Magnetita",
-      "info": "$(thing)Derrete em$(): Ferro Fundido"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Магнетит",
-      "info": "$(thing)Плавится в$(): Железо"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Магнетит",
-      "info": "$(thing)Розплавляється в$(): Чавун"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "磁铁矿",
-      "info": "$(thing)熔化$(): 铸铁"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Magnetit",
-      "info": "$(thing)Schmelzt in$(): Gusseisen"
-    }
-  ]
+    "id": "magnetite",
+    "formula": "Fe₃O₄",
+    "ore_block": "gtceu:raw_magnetite_block",
+    "indicator": "tfc:ore/small_magnetite",
+    "translation": "material.gtceu.magnetite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Magnetite",
+            "info": "$(thing)Melts into$(): Cast Iron"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Magnetita",
+            "info": "$(thing)Derrete em$(): Ferro Fundido"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Магнетит",
+            "info": "$(thing)Плавится в$(): Железо"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Магнетит",
+            "info": "$(thing)Розплавляється в$(): Чавун"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "磁铁矿",
+            "info": "$(thing)熔化$(): 铸铁"
+        },
+        {
+            "lang": "de_de",
+            "text": "Magnetit",
+            "info": "$(thing)Schmelzt in$(): Gusseisen"
+        }
+    ]
 }

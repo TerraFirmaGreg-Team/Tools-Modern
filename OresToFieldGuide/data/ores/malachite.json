@@ -1,38 +1,39 @@
 {
-  "id": "malachite",
-  "formula": "Cu₂CH₂O₅",
-  "ore_block": "gtceu:raw_malachite_block",
-  "indicator": "tfc:ore/small_malachite",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Malachite",
-      "info": "$(thing)Melts into$(): Copper"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Malaquita",
-      "info": "$(thing)Derrete em$(): Cobre"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Малахит",
-      "info": "$(thing)Плавится в$(): Медь"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Малахіт",
-      "info": "$(thing)Розплавляється в$(): Мідь"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "孔雀石",
-      "info": "$(thing)熔化$(): 铜"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Malachit",
-      "info": "$(thing)Schmelzt in$(): Kupfer"
-    }
-  ]
+    "id": "malachite",
+    "formula": "Cu₂CH₂O₅",
+    "ore_block": "gtceu:raw_malachite_block",
+    "indicator": "tfc:ore/small_malachite",
+    "translation": "material.gtceu.malachite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Malachite",
+            "info": "$(thing)Melts into$(): Copper"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Malaquita",
+            "info": "$(thing)Derrete em$(): Cobre"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Малахит",
+            "info": "$(thing)Плавится в$(): Медь"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Малахіт",
+            "info": "$(thing)Розплавляється в$(): Мідь"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "孔雀石",
+            "info": "$(thing)熔化$(): 铜"
+        },
+        {
+            "lang": "de_de",
+            "text": "Malachit",
+            "info": "$(thing)Schmelzt in$(): Kupfer"
+        }
+    ]
 }

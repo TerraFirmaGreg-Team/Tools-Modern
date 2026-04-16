@@ -1,6 +1,7 @@
 {
 	"id": "pink_sand",
 	"pattern": "gtceu:pink_sand_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.pink_sand",
 	"translations": {
 		"en_us": "Pink Sand"
 	},

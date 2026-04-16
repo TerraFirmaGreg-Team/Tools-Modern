@@ -1,38 +1,39 @@
 {
-  "id": "zeolite",
-  "formula": "NaCa₄Si₂₇Al₉(H₂O)₂₈O₇₂",
-  "ore_block": "gtceu:raw_zeolite_block",
-  "indicator": "gtceu:zeolite_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Zeolite",
-      "info": "$(thing)Source of$(): Aluminium, Oxygen"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Zeólita",
-      "info": "$(thing)Fonte de$(): Alumínio, Oxigênio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Цеолит",
-      "info": "$(thing)Используется для$(): Алюминий, Кислород"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Цеоліт",
-      "info": "$(thing)Джерело$(): Алюмінію, Кисню"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "沸石",
-      "info": "$(thing)来源$(): 铝, 氧"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Zeolith",
-      "info": "$(thing)Quelle von$(): Aluminium, Sauerstoff"
-    }
-  ]
+    "id": "zeolite",
+    "formula": "NaCa₄Si₂₇Al₉(H₂O)₂₈O₇₂",
+    "ore_block": "gtceu:raw_zeolite_block",
+    "indicator": "gtceu:zeolite_indicator",
+    "translation": "material.gtceu.zeolite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Zeolite",
+            "info": "$(thing)Source of$(): Aluminium, Oxygen"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Zeólita",
+            "info": "$(thing)Fonte de$(): Alumínio, Oxigênio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Цеолит",
+            "info": "$(thing)Используется для$(): Алюминий, Кислород"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Цеоліт",
+            "info": "$(thing)Джерело$(): Алюмінію, Кисню"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "沸石",
+            "info": "$(thing)来源$(): 铝, 氧"
+        },
+        {
+            "lang": "de_de",
+            "text": "Zeolith",
+            "info": "$(thing)Quelle von$(): Aluminium, Sauerstoff"
+        }
+    ]
 }

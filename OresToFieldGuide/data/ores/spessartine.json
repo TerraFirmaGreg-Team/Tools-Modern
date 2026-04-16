@@ -1,38 +1,39 @@
 {
-  "id": "spessartine",
-  "formula": "Al₂Mn₃Si₃O₁₂",
-  "ore_block": "gtceu:raw_spessartine_block",
-  "indicator": "gtceu:spessartine_bud_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Spessartine",
-      "info": "$(thing)Source of$(): Manganese, Aluminium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Espessartita",
-      "info": "$(thing)Fonte de$(): Manganês, Alumínio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Спасерит",
-      "info": "$(thing)Используется для$(): Марганец, Алюминий"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Спесартин",
-      "info": "$(thing)Джерело$(): Магнезії, Алюмінію"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "锰铝榴石",
-      "info": "$(thing)来源$(): 锰, 铝"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Spessartin",
-      "info": "$(thing)Quelle von$(): Mangan, Aluminium"
-    }
-  ]
+    "id": "spessartine",
+    "formula": "Al₂Mn₃Si₃O₁₂",
+    "ore_block": "gtceu:raw_spessartine_block",
+    "indicator": "gtceu:spessartine_bud_indicator",
+    "translation": "material.gtceu.spessartine",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Spessartine",
+            "info": "$(thing)Source of$(): Manganese, Aluminium"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Espessartita",
+            "info": "$(thing)Fonte de$(): Manganês, Alumínio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Спасерит",
+            "info": "$(thing)Используется для$(): Марганец, Алюминий"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Спесартин",
+            "info": "$(thing)Джерело$(): Магнезії, Алюмінію"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "锰铝榴石",
+            "info": "$(thing)来源$(): 锰, 铝"
+        },
+        {
+            "lang": "de_de",
+            "text": "Spessartin",
+            "info": "$(thing)Quelle von$(): Mangan, Aluminium"
+        }
+    ]
 }

@@ -1,13 +1,14 @@
 {
 	"id": "phyllite",
 	"pattern": "gtceu:phyllite_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.phyllite",
 	"translations": {
 		"en_us": "Phyllite",
 		"pt_br": "Filito",
 		"ru_ru": "Филлит",
 		"uk_ua": "Філіт",
 		"zh_cn": "千枚岩",
-        "de_de": "Phyllit"
+		"de_de": "Phyllit"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/phyllite"

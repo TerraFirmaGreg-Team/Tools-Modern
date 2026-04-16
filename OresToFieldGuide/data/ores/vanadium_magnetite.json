@@ -1,38 +1,39 @@
 {
-  "id": "vanadium_magnetite",
-  "formula": "(Fe₃O₄)V",
-  "ore_block": "gtceu:raw_vanadium_magnetite_block",
-  "indicator": "gtceu:vanadium_magnetite_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Vanadium Magnetite",
-      "info": "$(thing)Source of$(): Iron, Vanadium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Magnetita de Vanádio",
-      "info": "$(thing)Fonte de$(): Ferro, Vanádio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Ванадий магнетит",
-      "info": "$(thing)Используется для$(): Железо, Ванадий"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Ванадієвий магнетит",
-      "info": "$(thing)Джерело$(): Залізо, Ванадію"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "钒磁铁矿",
-      "info": "$(thing)来源$(): 铁, 钒"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Vanadium Magnetit",
-      "info": "$(thing)Quelle von$(): Eisen, Vanadium"
-    }
-  ]
+    "id": "vanadium_magnetite",
+    "formula": "(Fe₃O₄)V",
+    "ore_block": "gtceu:raw_vanadium_magnetite_block",
+    "indicator": "gtceu:vanadium_magnetite_indicator",
+    "translation": "material.gtceu.vanadium_magnetite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Vanadium Magnetite",
+            "info": "$(thing)Source of$(): Iron, Vanadium"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Magnetita de Vanádio",
+            "info": "$(thing)Fonte de$(): Ferro, Vanádio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Ванадий магнетит",
+            "info": "$(thing)Используется для$(): Железо, Ванадий"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Ванадієвий магнетит",
+            "info": "$(thing)Джерело$(): Залізо, Ванадію"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "钒磁铁矿",
+            "info": "$(thing)来源$(): 铁, 钒"
+        },
+        {
+            "lang": "de_de",
+            "text": "Vanadium Magnetit",
+            "info": "$(thing)Quelle von$(): Eisen, Vanadium"
+        }
+    ]
 }

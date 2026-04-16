@@ -1,13 +1,14 @@
 {
 	"id": "mars_stone",
 	"pattern": "gtceu:mars_stone_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.mars_stone",
 	"translations": {
 		"en_us": "Argillite",
 		"pt_br": "Argilita",
 		"ru_ru": "Аргиллит",
 		"uk_ua": "Аргіліт",
 		"zh_cn": "泥板岩",
-        "de_de": "Argillit"
+		"de_de": "Argillit"
 	},
 	"replaceable_blocks": [
 		"ad_astra:mars_stone"

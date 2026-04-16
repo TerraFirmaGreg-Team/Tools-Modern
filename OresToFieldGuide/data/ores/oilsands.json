@@ -1,37 +1,38 @@
 {
-  "id": "oilsands",
-  "ore_block": "gtceu:raw_oilsands_block",
-  "indicator": "gtceu:oilsands_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Oilsands",
-      "info": "$(thing)Source of$(): Freedom \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Areias Petrolíferas",
-      "info": "$(thing)Fonte de$(): Liberdade \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Нефтеносный песок",
-      "info": "$(thing)Используется для$(): Нефтепродукты"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Нафтові піски",
-      "info": "$(thing)Джерело$(): Свободи \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "油砂",
-      "info": "$(thing)来源$(): 自由 \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Ölsand",
-      "info": "$(thing)Quelle von$(): Demokratie & Freiheit \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
-    }
-  ]
+    "id": "oilsands",
+    "ore_block": "gtceu:raw_oilsands_block",
+    "indicator": "gtceu:oilsands_indicator",
+    "translation": "material.gtceu.oilsands",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Oilsands",
+            "info": "$(thing)Source of$(): Freedom \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Areias Petrolíferas",
+            "info": "$(thing)Fonte de$(): Liberdade \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Нефтеносный песок",
+            "info": "$(thing)Используется для$(): Нефтепродукты"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Нафтові піски",
+            "info": "$(thing)Джерело$(): Свободи \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "油砂",
+            "info": "$(thing)来源$(): 自由 \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
+        },
+        {
+            "lang": "de_de",
+            "text": "Ölsand",
+            "info": "$(thing)Quelle von$(): Demokratie & Freiheit \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
+        }
+    ]
 }

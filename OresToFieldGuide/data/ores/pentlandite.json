@@ -1,38 +1,39 @@
 {
-  "id": "pentlandite",
-  "formula": "Ni₉S₈",
-  "ore_block": "gtceu:raw_pentlandite_block",
-  "indicator": "gtceu:pentlandite_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Pentlandite",
-      "info": "$(thing)Melts into$(): Nickel"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Pentlandita",
-      "info": "$(thing)Derrete em$(): Níquel"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Пентландит",
-      "info": "$(thing)Плавится в$(): Никель"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Пентландит",
-      "info": "$(thing)Розплавляється в$(): Нікель"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "镍黄铁矿",
-      "info": "$(thing)熔化$(): 镍"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Pentlandit",
-      "info": "$(thing)Schmelzt in$(): Nickel"
-    }
-  ]
+    "id": "pentlandite",
+    "formula": "Ni₉S₈",
+    "ore_block": "gtceu:raw_pentlandite_block",
+    "indicator": "gtceu:pentlandite_indicator",
+    "translation": "material.gtceu.pentlandite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Pentlandite",
+            "info": "$(thing)Melts into$(): Nickel"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Pentlandita",
+            "info": "$(thing)Derrete em$(): Níquel"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Пентландит",
+            "info": "$(thing)Плавится в$(): Никель"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Пентландит",
+            "info": "$(thing)Розплавляється в$(): Нікель"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "镍黄铁矿",
+            "info": "$(thing)熔化$(): 镍"
+        },
+        {
+            "lang": "de_de",
+            "text": "Pentlandit",
+            "info": "$(thing)Schmelzt in$(): Nickel"
+        }
+    ]
 }

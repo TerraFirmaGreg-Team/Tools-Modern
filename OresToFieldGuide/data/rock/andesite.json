@@ -1,14 +1,15 @@
 {
 	"id": "andesite",
 	"pattern": "gtceu:andesite_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.andesite",
 	"translations": {
 		"en_us": "Andesite",
 		"pt_br": "Andesito",
 		"ru_ru": "Андезит",
 		"uk_ua": "Андезит",
 		"zh_cn": "安山岩",
-        "de_de": "Andesit"
-    },
+		"de_de": "Andesit"
+	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/andesite"
 	]

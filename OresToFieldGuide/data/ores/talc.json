@@ -1,38 +1,39 @@
 {
-  "id": "talc",
-  "formula": "Mg₃Si₄H₂O₁₂",
-  "ore_block": "gtceu:raw_talc_block",
-  "indicator": "gtceu:talc_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Talc",
-      "info": "$(thing)Source of$(): Magnesium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Talco",
-      "info": "$(thing)Fonte de$(): Magnésio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Тальк",
-      "info": "$(thing)Используется для$(): Магний"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Тальк",
-      "info": "$(thing)Джерело$(): Магнію"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "滑石",
-      "info": "$(thing)来源$(): 镁"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Talk",
-      "info": "$(thing)Quelle von$(): Magnesium"
-    }
-  ]
+    "id": "talc",
+    "formula": "Mg₃Si₄H₂O₁₂",
+    "ore_block": "gtceu:raw_talc_block",
+    "indicator": "gtceu:talc_indicator",
+    "translation": "material.gtceu.talc",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Talc",
+            "info": "$(thing)Source of$(): Magnesium"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Talco",
+            "info": "$(thing)Fonte de$(): Magnésio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Тальк",
+            "info": "$(thing)Используется для$(): Магний"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Тальк",
+            "info": "$(thing)Джерело$(): Магнію"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "滑石",
+            "info": "$(thing)来源$(): 镁"
+        },
+        {
+            "lang": "de_de",
+            "text": "Talk",
+            "info": "$(thing)Quelle von$(): Magnesium"
+        }
+    ]
 }

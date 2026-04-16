@@ -1,38 +1,39 @@
 {
-  "id": "opal",
-  "formula": "(SiO₂)",
-  "ore_block": "gtceu:raw_opal_block",
-  "indicator": "gtceu:opal_bud_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Opal",
-      "info": "$(thing)Source of$(): Silicon, Oxygen"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Opala",
-      "info": "$(thing)Fonte de$(): Silício, Oxigênio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Опал",
-      "info": "$(thing)Используется для$(): Кремний, Кислород"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Опал",
-      "info": "$(thing)Джерело$(): Кремнію, Кисню"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "蛋白石",
-      "info": "$(thing)来源$(): 硅, 氧"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Opal",
-      "info": "$(thing)Quelle von$(): Silicium, Sauerstoff"
-    }
-  ]
+    "id": "opal",
+    "formula": "(SiO₂)",
+    "ore_block": "gtceu:raw_opal_block",
+    "indicator": "gtceu:opal_bud_indicator",
+    "translation": "material.gtceu.opal",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Opal",
+            "info": "$(thing)Source of$(): Silicon, Oxygen"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Opala",
+            "info": "$(thing)Fonte de$(): Silício, Oxigênio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Опал",
+            "info": "$(thing)Используется для$(): Кремний, Кислород"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Опал",
+            "info": "$(thing)Джерело$(): Кремнію, Кисню"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "蛋白石",
+            "info": "$(thing)来源$(): 硅, 氧"
+        },
+        {
+            "lang": "de_de",
+            "text": "Opal",
+            "info": "$(thing)Quelle von$(): Silicium, Sauerstoff"
+        }
+    ]
 }

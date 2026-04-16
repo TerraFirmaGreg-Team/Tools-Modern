@@ -1,6 +1,7 @@
 {
 	"id": "flavolite",
 	"pattern": "gtceu:flavolite_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.flavolite",
 	"translations": {
 		"en_us": "Ignimbrite",
 		"es_es": "Ignimbrita",
@@ -9,7 +10,7 @@
 		"uk_ua": "Iгнімбрит",
 		"zh_cn": "天然熔灰岩",
 		"ja_jp": "イグニンブライト",
-        "de_de": "Ignimbrit"
+		"de_de": "Ignimbrit"
 	},
 	"replaceable_blocks": [
 		"betterend:flavolite"

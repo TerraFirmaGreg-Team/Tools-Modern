@@ -1,38 +1,39 @@
 {
-  "id": "sapphire",
-  "formula": "Al₂O₃",
-  "ore_block": "gtceu:raw_sapphire_block",
-  "indicator": "gtceu:sapphire_bud_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Sapphire",
-      "info": "$(thing)Source of$(): Aluminium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Safira",
-      "info": "$(thing)Fonte de$(): Alimínio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Сапфир",
-      "info": "$(thing)Используется для$(): Алюминий"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Сапфір",
-      "info": "$(thing)Джерело$(): Алюмінію"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "蓝宝石",
-      "info": "$(thing)来源$(): 铝"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Saphir",
-      "info": "$(thing)Quelle von$(): Aluminium"
-    }
-  ]
+	"id": "sapphire",
+	"formula": "Al₂O₃",
+	"ore_block": "gtceu:raw_sapphire_block",
+	"indicator": "gtceu:sapphire_bud_indicator",
+	"translation": "material.gtceu.sapphire",
+	"translations": [
+		{
+			"lang": "en_us",
+			"text": "Sapphire",
+			"info": "$(thing)Source of$(): Aluminium"
+		},
+		{
+			"lang": "pt_br",
+			"text": "Safira",
+			"info": "$(thing)Fonte de$(): Alimínio"
+		},
+		{
+			"lang": "ru_ru",
+			"text": "Сапфир",
+			"info": "$(thing)Используется для$(): Алюминий"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Сапфір",
+			"info": "$(thing)Джерело$(): Алюмінію"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "蓝宝石",
+			"info": "$(thing)来源$(): 铝"
+		},
+		{
+			"lang": "de_de",
+			"text": "Saphir",
+			"info": "$(thing)Quelle von$(): Aluminium"
+		}
+	]
 }

@@ -1,38 +1,39 @@
 {
-  "id": "stibnite",
-  "formula": "Sb₂S₃",
-  "ore_block": "gtceu:raw_stibnite_block",
-  "indicator": "gtceu:stibnite_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Stibnite",
-      "info": "$(thing)Smelts into$(): Antimony"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Estibnita",
-      "info": "$(thing)Derrete em$(): Antimônio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Стибнит",
-      "info": "$(thing)Плавится в$(): Сурьма"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Стибніт",
-      "info": "$(thing)Розплавляється в$(): Сурму"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "辉锑矿",
-      "info": "$(thing)熔化$(): 锑"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Stibnit",
-      "info": "$(thing)Schmelzt in$(): Antimonie"
-    }
-  ]
+    "id": "stibnite",
+    "formula": "Sb₂S₃",
+    "ore_block": "gtceu:raw_stibnite_block",
+    "indicator": "gtceu:stibnite_indicator",
+    "translation": "material.gtceu.stibnite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Stibnite",
+            "info": "$(thing)Smelts into$(): Antimony"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Estibnita",
+            "info": "$(thing)Derrete em$(): Antimônio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Стибнит",
+            "info": "$(thing)Плавится в$(): Сурьма"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Стибніт",
+            "info": "$(thing)Розплавляється в$(): Сурму"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "辉锑矿",
+            "info": "$(thing)熔化$(): 锑"
+        },
+        {
+            "lang": "de_de",
+            "text": "Stibnit",
+            "info": "$(thing)Schmelzt in$(): Antimonie"
+        }
+    ]
 }

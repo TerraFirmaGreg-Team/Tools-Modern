@@ -1,38 +1,39 @@
 {
-  "id": "lazurite",
-  "formula": "Al₆Si₆Ca₈Na₈",
-  "ore_block": "gtceu:raw_lazurite_block",
-  "indicator": "gtceu:lazurite_bud_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Lazurite",
-      "info": "$(thing)Source of$(): Aluminium, Calcium, Sodium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Lazurita",
-      "info": "$(thing)Fonte de$(): Alumínio, Cálcio, Sódio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Лазурит",
-      "info": "$(thing)Используется для$(): Алюминий, Кальций, Натрий"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Лазурит",
-      "info": "$(thing)Джерело$(): Алюмінію, Кальцію, Натрію"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "蓝金石",
-      "info": "$(thing)来源$(): 铝, 钙, 钠"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Lasurit",
-      "info": "$(thing)Quelle von$(): Aluminium, Calcium, Natrium"
-    }
-  ]
+    "id": "lazurite",
+    "formula": "Al₆Si₆Ca₈Na₈",
+    "ore_block": "gtceu:raw_lazurite_block",
+    "indicator": "gtceu:lazurite_bud_indicator",
+    "translation": "material.gtceu.lazurite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Lazurite",
+            "info": "$(thing)Source of$(): Aluminium, Calcium, Sodium"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Lazurita",
+            "info": "$(thing)Fonte de$(): Alumínio, Cálcio, Sódio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Лазурит",
+            "info": "$(thing)Используется для$(): Алюминий, Кальций, Натрий"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Лазурит",
+            "info": "$(thing)Джерело$(): Алюмінію, Кальцію, Натрію"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "蓝金石",
+            "info": "$(thing)来源$(): 铝, 钙, 钠"
+        },
+        {
+            "lang": "de_de",
+            "text": "Lasurit",
+            "info": "$(thing)Quelle von$(): Aluminium, Calcium, Natrium"
+        }
+    ]
 }

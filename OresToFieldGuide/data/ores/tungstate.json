@@ -1,38 +1,39 @@
 {
-  "id": "tungstate",
-  "formula": "Li₂(WO₃)O",
-  "ore_block": "gtceu:raw_tungstate_block",
-  "indicator": "gtceu:tungstate_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Tungstate",
-      "info": "$(thing)Source of$(): Tungsten, Lithium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Tungstato",
-      "info": "$(thing)Fonte de$(): Tungstênio, Lítio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Вольфрамат",
-      "info": "$(thing)Используется для$(): Вольфрам, Литий"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Вольфрам",
-      "info": "$(thing)Джерело$(): Вольфраму, Літію"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "钨酸锂",
-      "info": "$(thing)来源$(): 钨, 锂"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Wolframat",
-      "info": "$(thing)Quelle von$(): Wolfram, Lithium"
-    }
-  ]
+    "id": "tungstate",
+    "formula": "Li₂(WO₃)O",
+    "ore_block": "gtceu:raw_tungstate_block",
+    "indicator": "gtceu:tungstate_indicator",
+    "translation": "material.gtceu.tungstate",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Tungstate",
+            "info": "$(thing)Source of$(): Tungsten, Lithium"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Tungstato",
+            "info": "$(thing)Fonte de$(): Tungstênio, Lítio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Вольфрамат",
+            "info": "$(thing)Используется для$(): Вольфрам, Литий"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Вольфрам",
+            "info": "$(thing)Джерело$(): Вольфраму, Літію"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "钨酸锂",
+            "info": "$(thing)来源$(): 钨, 锂"
+        },
+        {
+            "lang": "de_de",
+            "text": "Wolframat",
+            "info": "$(thing)Quelle von$(): Wolfram, Lithium"
+        }
+    ]
 }

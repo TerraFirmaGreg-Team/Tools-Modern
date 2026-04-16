@@ -1,38 +1,39 @@
 {
-  "id": "soapstone",
-  "formula": "Mg₃Si₄H₂O₁₂",
-  "ore_block": "gtceu:raw_soapstone_block",
-  "indicator": "gtceu:soapstone_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Soapstone",
-      "info": "$(thing)Source of$(): Magnesium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Pedra-sabão",
-      "info": "$(thing)Fonte de$(): Magnésio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Мыльный камень",
-      "info": "$(thing)Используется для$(): Магний"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Стеатит",
-      "info": "$(thing)Джерело$(): Магнію"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "皂石",
-      "info": "$(thing)来源$(): 镁"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Speckstein",
-      "info": "$(thing)Quelle von$(): Magnesium"
-    }
-  ]
+    "id": "soapstone",
+    "formula": "Mg₃Si₄H₂O₁₂",
+    "ore_block": "gtceu:raw_soapstone_block",
+    "indicator": "gtceu:soapstone_indicator",
+    "translation": "material.gtceu.soapstone",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Soapstone",
+            "info": "$(thing)Source of$(): Magnesium"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Pedra-sabão",
+            "info": "$(thing)Fonte de$(): Magnésio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Мыльный камень",
+            "info": "$(thing)Используется для$(): Магний"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Стеатит",
+            "info": "$(thing)Джерело$(): Магнію"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "皂石",
+            "info": "$(thing)来源$(): 镁"
+        },
+        {
+            "lang": "de_de",
+            "text": "Speckstein",
+            "info": "$(thing)Quelle von$(): Magnesium"
+        }
+    ]
 }

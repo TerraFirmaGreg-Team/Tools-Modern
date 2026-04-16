@@ -1,6 +1,7 @@
 {
 	"id": "black_sand",
 	"pattern": "gtceu:black_sand_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.black_sand",
 	"translations": {
 		"en_us": "Black Sand"
 	},

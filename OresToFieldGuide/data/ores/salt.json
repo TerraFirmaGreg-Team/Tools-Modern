@@ -3,6 +3,7 @@
 	"formula": "NaCl",
 	"ore_block": "gtceu:raw_salt_block",
 	"indicator": "gtceu:salt_indicator",
+	"translation": "material.gtceu.salt",
 	"translations": [
 		{
 			"lang": "en_us",
@@ -28,11 +29,11 @@
 			"lang": "zh_cn",
 			"text": "岩盐",
 			"info": "$(thing)来源$(): 钠, 氯"
-		},    
-        {
-            "lang": "de_de",
-            "text": "Halit",
-            "info": "$(thing)Quelle von$(): Natrium, Chlor"
-        }
+		},
+		{
+			"lang": "de_de",
+			"text": "Halit",
+			"info": "$(thing)Quelle von$(): Natrium, Chlor"
+		}
 	]
 }

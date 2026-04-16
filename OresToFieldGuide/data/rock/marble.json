@@ -1,13 +1,14 @@
 {
 	"id": "marble",
 	"pattern": "gtceu:marble_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.marble",
 	"translations": {
 		"en_us": "Marble",
 		"pt_br": "Mármore",
 		"ru_ru": "Мрамор",
 		"uk_ua": "Мармур",
 		"zh_cn": "大理岩",
-        "de_de": "Marmor"
+		"de_de": "Marmor"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/marble"

@@ -1,38 +1,39 @@
 {
-  "id": "ruby",
-  "formula": "CrAl₂O₃",
-  "ore_block": "gtceu:raw_ruby_block",
-  "indicator": "gtceu:ruby_bud_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Ruby",
-      "info": "$(thing)Source of$(): Chromium, Aluminium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Rubi",
-      "info": "$(thing)Fonte de$(): Cromo, Alumínio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Рубин",
-      "info": "$(thing)Используется для$(): Хром, Алюминий"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Рубін",
-      "info": "$(thing)Джерело$(): Хрому, Алюмінію"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "红宝石",
-      "info": "$(thing)来源$(): 铬, 铝"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Rubin",
-      "info": "$(thing)Quelle von$(): Chrom, Aluminium"
-    }
-  ]
+    "id": "ruby",
+    "formula": "CrAl₂O₃",
+    "ore_block": "gtceu:raw_ruby_block",
+    "indicator": "gtceu:ruby_bud_indicator",
+    "translation": "material.gtceu.ruby",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Ruby",
+            "info": "$(thing)Source of$(): Chromium, Aluminium"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Rubi",
+            "info": "$(thing)Fonte de$(): Cromo, Alumínio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Рубин",
+            "info": "$(thing)Используется для$(): Хром, Алюминий"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Рубін",
+            "info": "$(thing)Джерело$(): Хрому, Алюмінію"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "红宝石",
+            "info": "$(thing)来源$(): 铬, 铝"
+        },
+        {
+            "lang": "de_de",
+            "text": "Rubin",
+            "info": "$(thing)Quelle von$(): Chrom, Aluminium"
+        }
+    ]
 }

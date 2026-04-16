@@ -3,6 +3,7 @@
 	"formula": "KCl",
 	"ore_block": "gtceu:raw_rock_salt_block",
 	"indicator": "gtceu:rock_salt_indicator",
+	"translation": "material.gtceu.rock_salt",
 	"translations": [
 		{
 			"lang": "en_us",
@@ -28,11 +29,11 @@
 			"lang": "zh_cn",
 			"text": "钾石盐",
 			"info": "$(thing)来源$(): 钾, 氯, 肥料"
-		},    
-        {
-            "lang": "de_de",
-            "text": "Sylvin",
-            "info": "$(thing)Quelle von$(): Kalium, Chlor, Dünger"
-        }
+		},
+		{
+			"lang": "de_de",
+			"text": "Sylvin",
+			"info": "$(thing)Quelle von$(): Kalium, Chlor, Dünger"
+		}
 	]
 }

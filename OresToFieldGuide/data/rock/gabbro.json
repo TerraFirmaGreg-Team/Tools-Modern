@@ -1,13 +1,14 @@
 {
 	"id": "gabbro",
 	"pattern": "gtceu:gabbro_{0}_ore",
+	"translation": "tfg.rock_patchouli_info.gabbro",
 	"translations": {
 		"en_us": "Gabbro",
 		"pt_br": "Gabro",
 		"ru_ru": "Габбро",
 		"uk_ua": "Габро",
 		"zh_cn": "辉长岩",
-        "de_de": "Gabbro"
+		"de_de": "Gabbro"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/gabbro"
