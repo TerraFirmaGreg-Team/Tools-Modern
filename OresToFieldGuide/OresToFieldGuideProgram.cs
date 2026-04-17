@@ -120,7 +120,7 @@ namespace OresToFieldGuide
 
 		private void GenerateDefaultIndicatorsAndVeinNames()
 		{
-			const int characterLimit = 30;
+			const int characterLimit = 27;
 
 			foreach (var vein in m_veinDict.Values.SelectMany(v => v))
 			{
@@ -621,7 +621,7 @@ namespace OresToFieldGuide
 				{
 					sb.AppendLine($"\t\t\tnew OreVeinInfoRecipe(\"{vein.ID}\", \"{m_dimensionDict[vein.Dimension].DimensionID}\", ")
 						.AppendLine($"\t\t\t\t{vein.Config.Rarity}, {vein.Config.Density}, {vein.Config.MinY}, {vein.Config.MaxY}, {vein.Config.Size}, {vein.Config.Height}, {vein.Config.Radius}, ")
-						.AppendLine($"\t\t\t\t{vein.NearLava.ToString().ToLowerInvariant()}, {vein.Project.ToString().ToLowerInvariant()}, {vein.ProjectOffset.ToString().ToLowerInvariant()},")
+						.AppendLine($"\t\t\t\t{vein.NearLava.ToString().ToLowerInvariant()}, {vein.Project.ToString().ToLowerInvariant()}, {vein.ProjectOffset.ToString().ToLowerInvariant()}, {vein.Indicator?.Depth ?? 0}, ")
 					
 					// Rocks
 						.Append($"\t\t\t\tnew String[] {{");
