@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_grossular_block",
     "indicator": "gtceu:grossular_bud_indicator",
     "translation": "material.gtceu.grossular",
+    "info": "tfg.ore_patchouli_info.grossular",
     "translations": [
         {
             "lang": "en_us",

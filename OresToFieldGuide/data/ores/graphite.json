@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_graphite_block",
     "indicator": "gtceu:graphite_indicator",
     "translation": "material.gtceu.graphite",
+    "info": "tfg.ore_patchouli_info.graphite",
     "translations": [
         {
             "lang": "en_us",

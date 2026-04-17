@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_diamond_block",
     "indicator": "gtceu:diamond_bud_indicator",
     "translation": "material.gtceu.diamond",
+    "info": "tfg.ore_patchouli_info.diamond",
     "translations": [
         {
             "lang": "en_us",

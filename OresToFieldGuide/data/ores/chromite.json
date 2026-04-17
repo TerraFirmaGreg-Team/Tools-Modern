@@ -5,6 +5,7 @@
     "ore_block": "gtceu:raw_chromite_block",
     "indicator": "firmalife:ore/small_chromite",
     "translation": "material.gtceu.chromite",
+    "info": "tfg.ore_patchouli_info.chromite",
     "translations": [
         {
             "lang": "en_us",

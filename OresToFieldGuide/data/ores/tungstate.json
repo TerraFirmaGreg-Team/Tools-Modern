@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_tungstate_block",
     "indicator": "gtceu:tungstate_indicator",
     "translation": "material.gtceu.tungstate",
+    "info": "tfg.ore_patchouli_info.tungstate",
     "translations": [
         {
             "lang": "en_us",

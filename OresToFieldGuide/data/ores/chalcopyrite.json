@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_chalcopyrite_block",
     "indicator": "gtceu:chalcopyrite_indicator",
     "translation": "material.gtceu.chalcopyrite",
+    "info": "tfg.ore_patchouli_info.chalcopyrite",
     "translations": [
         {
             "lang": "en_us",

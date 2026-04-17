@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_bentonite_block",
     "indicator": "gtceu:bentonite_indicator",
     "translation": "material.gtceu.bentonite",
+    "info": "tfg.ore_patchouli_info.bentonite",
     "translations": [
         {
             "lang": "en_us",

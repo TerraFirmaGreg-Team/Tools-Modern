@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_hematite_block",
     "indicator": "tfc:ore/small_hematite",
     "translation": "material.gtceu.hematite",
+    "info": "tfg.ore_patchouli_info.hematite",
     "translations": [
         {
             "lang": "en_us",

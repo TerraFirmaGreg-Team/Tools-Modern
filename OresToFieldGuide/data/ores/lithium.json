@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_lithium_block",
     "indicator": "gtceu:lithium_indicator",
     "translation": "material.gtceu.lithium",
+    "info": "tfg.ore_patchouli_info.lithium",
     "translations": [
         {
             "lang": "en_us",

@@ -5,6 +5,7 @@
     "ore_block": "gtceu:raw_thorium_block",
     "indicator": "gtceu:thorium_indicator",
     "translation": "material.gtceu.thorium",
+    "info": "tfg.ore_patchouli_info.thorium",
     "translations": [
         {
             "lang": "en_us",

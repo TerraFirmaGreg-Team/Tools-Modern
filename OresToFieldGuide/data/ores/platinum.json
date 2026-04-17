@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_platinum_block",
     "indicator": "gtceu:platinum_indicator",
     "translation": "material.gtceu.platinum",
+    "info": "tfg.ore_patchouli_info.platinum",
     "translations": [
         {
             "lang": "en_us",

@@ -3,6 +3,7 @@
     "ore_block": "gtceu:raw_yellow_garnet_block",
     "indicator": "gtceu:yellow_garnet_bud_indicator",
     "translation": "material.gtceu.yellow_garnet",
+    "info": "tfg.ore_patchouli_info.yellow_garnet",
     "translations": [
         {
             "lang": "en_us",

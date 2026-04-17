@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_kyanite_block",
     "indicator": "gtceu:kyanite_indicator",
     "translation": "material.gtceu.kyanite",
+    "info": "tfg.ore_patchouli_info.kyanite",
     "translations": [
         {
             "lang": "en_us",

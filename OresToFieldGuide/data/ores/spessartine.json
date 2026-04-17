@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_spessartine_block",
     "indicator": "gtceu:spessartine_bud_indicator",
     "translation": "material.gtceu.spessartine",
+    "info": "tfg.ore_patchouli_info.spessartine",
     "translations": [
         {
             "lang": "en_us",

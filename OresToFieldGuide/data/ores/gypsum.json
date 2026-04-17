@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_gypsum_block",
     "indicator": "gtceu:gypsum_indicator",
     "translation": "material.gtceu.gypsum",
+    "info": "tfg.ore_patchouli_info.gypsum",
     "translations": [
         {
             "lang": "en_us",

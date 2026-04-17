@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_nether_quartz_block",
     "indicator": "gtceu:nether_quartz_bud_indicator",
     "translation": "material.gtceu.nether_quartz",
+    "info": "tfg.ore_patchouli_info.nether_quartz",
     "translations": [
         {
             "lang": "en_us",

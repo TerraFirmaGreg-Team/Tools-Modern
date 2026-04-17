@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_bauxite_block",
     "indicator": "gtceu:bauxite_indicator",
     "translation": "material.gtceu.bauxite",
+    "info": "tfg.ore_patchouli_info.bauxite",
     "translations": [
         {
             "lang": "en_us",

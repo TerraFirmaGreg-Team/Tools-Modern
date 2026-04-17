@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_ilmenite_block",
     "indicator": "gtceu:ilmenite_indicator",
     "translation": "material.gtceu.ilmenite",
+    "info": "tfg.ore_patchouli_info.ilmenite",
     "translations": [
         {
             "lang": "en_us",

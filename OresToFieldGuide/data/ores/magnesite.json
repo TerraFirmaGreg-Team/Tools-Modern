@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_magnesite_block",
     "indicator": "gtceu:magnesite_indicator",
     "translation": "material.gtceu.magnesite",
+    "info": "tfg.ore_patchouli_info.magnesite",
     "translations": [
         {
             "lang": "en_us",

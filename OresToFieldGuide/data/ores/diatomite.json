@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_diatomite_block",
     "indicator": "gtceu:diatomite_indicator",
     "translation": "material.gtceu.diatomite",
+    "info": "tfg.ore_patchouli_info.diatomite",
     "translations": [
         {
             "lang": "en_us",

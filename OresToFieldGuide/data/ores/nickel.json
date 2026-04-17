@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_nickel_block",
     "indicator": "tfc:ore/small_garnierite",
     "translation": "material.gtceu.nickel",
+    "info": "tfg.ore_patchouli_info.nickel",
     "translations": [
         {
             "lang": "en_us",

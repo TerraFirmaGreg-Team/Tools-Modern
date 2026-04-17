@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_silver_block",
     "indicator": "tfc:ore/small_native_silver",
     "translation": "tfg.ore_patchouli_name.silver",
+    "info": "tfg.ore_patchouli_info.silver",
     "translations": [
         {
             "lang": "en_us",

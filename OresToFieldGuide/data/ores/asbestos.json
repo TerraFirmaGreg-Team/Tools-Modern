@@ -5,6 +5,7 @@
     "ore_block": "gtceu:raw_asbestos_block",
     "indicator": "gtceu:asbestos_indicator",
     "translation": "material.gtceu.asbestos",
+    "info": "tfg.ore_patchouli_info.asbestos",
     "translations": [
         {
             "lang": "en_us",

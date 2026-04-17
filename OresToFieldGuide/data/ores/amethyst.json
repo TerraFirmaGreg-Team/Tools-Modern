@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_amethyst_block",
     "indicator": "gtceu:amethyst_bud_indicator",
     "translation": "material.gtceu.amethyst",
+    "info": "tfg.ore_patchouli_info.amethyst",
     "translations": [
         {
             "lang": "en_us",

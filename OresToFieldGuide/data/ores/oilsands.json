@@ -3,6 +3,7 @@
     "ore_block": "gtceu:raw_oilsands_block",
     "indicator": "gtceu:oilsands_indicator",
     "translation": "material.gtceu.oilsands",
+    "info": "tfg.ore_patchouli_info.oilsands",
     "translations": [
         {
             "lang": "en_us",

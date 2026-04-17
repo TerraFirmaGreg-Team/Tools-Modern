@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_quartzite_block",
     "indicator": "gtceu:quartzite_bud_indicator",
     "translation": "material.gtceu.quartzite",
+    "info": "tfg.ore_patchouli_info.quartzite",
     "translations": [
         {
             "lang": "en_us",

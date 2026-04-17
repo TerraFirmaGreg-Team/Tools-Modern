@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_neodymium_block",
     "indicator": "gtceu:neodymium_indicator",
     "translation": "material.gtceu.neodymium",
+    "info": "tfg.ore_patchouli_info.neodymium",
     "translations": [
         {
             "lang": "en_us",

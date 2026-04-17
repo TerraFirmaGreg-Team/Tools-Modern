@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_basaltic_mineral_sand_block",
     "indicator": "gtceu:basaltic_mineral_sand_indicator",
     "translation": "material.gtceu.basaltic_mineral_sand",
+    "info": "tfg.ore_patchouli_info.basaltic_mineral_sand",
     "translations": [
         {
             "lang": "en_us",

@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_alunite_block",
     "indicator": "gtceu:alunite_indicator",
     "translation": "material.gtceu.alunite",
+    "info": "tfg.ore_patchouli_info.alunite",
     "translations": [
         {
             "lang": "en_us",

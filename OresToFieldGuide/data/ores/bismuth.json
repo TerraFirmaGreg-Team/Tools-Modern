@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_bismuth_block",
     "indicator": "tfc:ore/small_bismuthinite",
     "translation": "material.gtceu.bismuth",
+    "info": "tfg.ore_patchouli_info.bismuth",
     "translations": [
         {
             "lang": "en_us",

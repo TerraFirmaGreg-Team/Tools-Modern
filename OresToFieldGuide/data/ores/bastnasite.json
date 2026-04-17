@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_bastnasite_block",
     "indicator": "gtceu:bastnasite_indicator",
     "translation": "material.gtceu.bastnasite",
+    "info": "tfg.ore_patchouli_info.bastnasite",
     "translations": [
         {
             "lang": "en_us",

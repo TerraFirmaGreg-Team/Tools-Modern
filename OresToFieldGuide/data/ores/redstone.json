@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_redstone_block",
     "indicator": "gtceu:redstone_indicator",
     "translation": "material.gtceu.redstone",
+    "info": "tfg.ore_patchouli_info.redstone",
     "translations": [
         {
             "lang": "en_us",

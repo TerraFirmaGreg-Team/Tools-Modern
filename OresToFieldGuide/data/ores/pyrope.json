@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_pyrope_block",
     "indicator": "gtceu:pyrope_bud_indicator",
     "translation": "material.gtceu.pyrope",
+    "info": "tfg.ore_patchouli_info.pyrope",
     "translations": [
         {
             "lang": "en_us",

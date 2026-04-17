@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_armalcolite_block",
     "indicator": "gtceu:armalcolite_bud_indicator",
     "translation": "material.gtceu.armalcolite",
+    "info": "tfg.ore_patchouli_info.armalcolite",
     "translations": [
         {
             "lang": "en_us",

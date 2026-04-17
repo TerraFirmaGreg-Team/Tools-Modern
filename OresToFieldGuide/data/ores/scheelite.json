@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_scheelite_block",
     "indicator": "gtceu:scheelite_indicator",
     "translation": "material.gtceu.scheelite",
+    "info": "tfg.ore_patchouli_info.scheelite",
     "translations": [
         {
             "lang": "en_us",

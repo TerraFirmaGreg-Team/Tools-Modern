@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_pyrolusite_block",
     "indicator": "gtceu:pyrolusite_indicator",
     "translation": "material.gtceu.pyrolusite",
+    "info": "tfg.ore_patchouli_info.pyrolusite",
     "translations": [
         {
             "lang": "en_us",

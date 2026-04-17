@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_spodumene_block",
     "indicator": "gtceu:spodumene_indicator",
     "translation": "material.gtceu.spodumene",
+    "info": "tfg.ore_patchouli_info.spodumene",
     "translations": [
         {
             "lang": "en_us",

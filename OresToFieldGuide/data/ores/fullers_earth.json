@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_fullers_earth_block",
     "indicator": "gtceu:fullers_earth_indicator",
     "translation": "material.gtceu.fullers_earth",
+    "info": "tfg.ore_patchouli_info.fullers_earth",
     "translations": [
         {
             "lang": "en_us",

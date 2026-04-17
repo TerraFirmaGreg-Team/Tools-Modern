@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_apatite_block",
     "indicator": "gtceu:apatite_bud_indicator",
     "translation": "material.gtceu.apatite",
+    "info": "tfg.ore_patchouli_info.apatite",
     "translations": [
         {
             "lang": "en_us",

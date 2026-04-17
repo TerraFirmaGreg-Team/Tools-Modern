@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_tantalite_block",
     "indicator": "gtceu:tantalite_indicator",
     "translation": "material.gtceu.tantalite",
+    "info": "tfg.ore_patchouli_info.tantalite",
     "translations": [
         {
             "lang": "en_us",

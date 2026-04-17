@@ -1,0 +1,8 @@
+{
+    "id": "lignite",
+    "formula": "C",
+    "ore_block": "gtceu:raw_lignite_block",
+    "indicator": "gtceu:lignite_indicator",
+    "translation": "material.gtceu.lignite",
+    "info": "tfg.ore_patchouli_info.lignite"
+}

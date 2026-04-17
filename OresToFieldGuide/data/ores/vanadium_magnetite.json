@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_vanadium_magnetite_block",
     "indicator": "gtceu:vanadium_magnetite_indicator",
     "translation": "material.gtceu.vanadium_magnetite",
+    "info": "tfg.ore_patchouli_info.vanadium_magnetite",
     "translations": [
         {
             "lang": "en_us",

@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_molybdenum_block",
     "indicator": "gtceu:molybdenum_indicator",
     "translation": "material.gtceu.molybdenum",
+    "info": "tfg.ore_patchouli_info.molybdenum",
     "translations": [
         {
             "lang": "en_us",

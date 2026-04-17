@@ -5,6 +5,7 @@
     "ore_block": "gtceu:raw_cobaltite_block",
     "indicator": "gtceu:cobaltite_indicator",
     "translation": "material.gtceu.cobaltite",
+    "info": "tfg.ore_patchouli_info.cobaltite",
     "translations": [
         {
             "lang": "en_us",

@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_lazurite_block",
     "indicator": "gtceu:lazurite_bud_indicator",
     "translation": "material.gtceu.lazurite",
+    "info": "tfg.ore_patchouli_info.lazurite",
     "translations": [
         {
             "lang": "en_us",

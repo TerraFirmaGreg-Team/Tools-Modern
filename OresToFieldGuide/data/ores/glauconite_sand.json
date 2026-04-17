@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_glauconite_sand_block",
     "indicator": "gtceu:glauconite_sand_indicator",
     "translation": "material.gtceu.glauconite_sand",
+    "info": "tfg.ore_patchouli_info.glauconite_sand",
     "translations": [
         {
             "lang": "en_us",

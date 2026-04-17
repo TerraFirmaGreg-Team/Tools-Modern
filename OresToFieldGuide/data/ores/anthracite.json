@@ -4,6 +4,7 @@
     "ore_override": "beneath:ore/nether_cursecoal",
     "indicator": "gtceu:coal_bud_indicator",
     "translation": "item.beneath.cursecoal",
+    "info": "tfg.ore_patchouli_info.anthracite",
     "translations": [
         {
             "lang": "en_us",

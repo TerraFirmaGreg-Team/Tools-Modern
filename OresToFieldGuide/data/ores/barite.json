@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_barite_block",
     "indicator": "gtceu:barite_indicator",
     "translation": "material.gtceu.barite",
+    "info": "tfg.ore_patchouli_info.barite",
     "translations": [
         {
             "lang": "en_us",

@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_pyrite_block",
     "indicator": "gtceu:pyrite_indicator",
     "translation": "material.gtceu.pyrite",
+    "info": "tfg.ore_patchouli_info.pyrite",
     "translations": [
         {
             "lang": "en_us",

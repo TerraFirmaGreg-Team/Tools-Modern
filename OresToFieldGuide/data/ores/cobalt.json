@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_cobalt_block",
     "indicator": "gtceu:cobalt_indicator",
     "translation": "material.gtceu.cobalt",
+    "info": "tfg.ore_patchouli_info.cobalt",
     "translations": [
         {
             "lang": "en_us",

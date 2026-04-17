@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_borax_block",
     "indicator": "gtceu:borax_indicator",
     "translation": "material.gtceu.borax",
+    "info": "tfg.ore_patchouli_info.borax",
     "translations": [
         {
             "lang": "en_us",

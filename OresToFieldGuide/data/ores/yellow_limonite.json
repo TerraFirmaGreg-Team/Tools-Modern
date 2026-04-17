@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_yellow_limonite_block",
     "indicator": "tfc:ore/small_limonite",
     "translation": "material.gtceu.yellow_limonite",
+    "info": "tfg.ore_patchouli_info.yellow_limonite",
     "translations": [
         {
             "lang": "en_us",

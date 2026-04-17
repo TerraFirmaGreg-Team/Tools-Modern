@@ -5,6 +5,7 @@
     "ore_block": "gtceu:raw_beryllium_block",
     "indicator": "gtceu:beryllium_indicator",
     "translation": "material.gtceu.beryllium",
+    "info": "tfg.ore_patchouli_info.beryllium",
     "translations": [
         {
             "lang": "en_us",

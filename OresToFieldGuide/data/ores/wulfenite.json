@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_wulfenite_block",
     "indicator": "gtceu:wulfenite_indicator",
     "translation": "material.gtceu.wulfenite",
+    "info": "tfg.ore_patchouli_info.wulfenite",
     "translations": [
         {
             "lang": "en_us",

@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_zeolite_block",
     "indicator": "gtceu:zeolite_indicator",
     "translation": "material.gtceu.zeolite",
+    "info": "tfg.ore_patchouli_info.zeolite",
     "translations": [
         {
             "lang": "en_us",

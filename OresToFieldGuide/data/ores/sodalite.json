@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_sodalite_block",
     "indicator": "gtceu:sodalite_bud_indicator",
     "translation": "material.gtceu.sodalite",
+    "info": "tfg.ore_patchouli_info.sodalite",
     "translations": [
         {
             "lang": "en_us",

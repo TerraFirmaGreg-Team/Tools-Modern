@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_soapstone_block",
     "indicator": "gtceu:soapstone_indicator",
     "translation": "material.gtceu.soapstone",
+    "info": "tfg.ore_patchouli_info.soapstone",
     "translations": [
         {
             "lang": "en_us",

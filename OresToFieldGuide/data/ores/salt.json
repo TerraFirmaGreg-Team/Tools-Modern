@@ -4,6 +4,7 @@
 	"ore_block": "gtceu:raw_salt_block",
 	"indicator": "gtceu:salt_indicator",
 	"translation": "material.gtceu.salt",
+	"info": "tfg.ore_patchouli_info.salt",
 	"translations": [
 		{
 			"lang": "en_us",

@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_tarkianite_block",
     "indicator": "gtceu:tarkianite_indicator",
     "translation": "material.gtceu.tarkianite",
+    "info": "tfg.ore_patchouli_info.tarkianite",
     "translations": [
         {
             "lang": "en_us",

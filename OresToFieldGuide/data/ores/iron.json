@@ -4,6 +4,7 @@
     "ore_block": "minecraft:raw_iron_block",
     "indicator": "gtceu:iron_indicator",
     "translation": "tfg.ore_patchouli_name.iron",
+    "info": "tfg.ore_patchouli_info.iron",
     "translations": [
         {
             "lang": "en_us",

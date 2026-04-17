@@ -1,39 +1,40 @@
 {
-  "id": "almandine",
-  "formula": "Al₂Fe₃Si₃O₁₂",
-  "ore_block": "gtceu:raw_almandine_block",
-  "indicator": "gtceu:almandine_bud_indicator",
-  "translation": "material.gtceu.almandine",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Almandine",
-      "info": "$(thing)Source of$(): Aluminium, Iron"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Almandina",
-      "info": "$(thing)Fonte de$(): Alumínio, Ferro"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Альмандин",
-      "info": "$(thing)Используется для$(): Алюминий, Железо"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Алмандін",
-      "info": "$(thing)Джерело$(): Алюмінію, Залізо"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "铁铝榴石",
-      "info": "$(thing)来源$(): 铝, 铁"
-    },
-    {
-      "lang": "de_de",
-      "text": "Almandin",
-      "info": "$(thing)Quelle von$(): Aluminium, Eisen"
-    }
-  ]
+    "id": "almandine",
+    "formula": "Al₂Fe₃Si₃O₁₂",
+    "ore_block": "gtceu:raw_almandine_block",
+    "indicator": "gtceu:almandine_bud_indicator",
+    "translation": "material.gtceu.almandine",
+    "info": "tfg.ore_patchouli_info.almandine",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Almandine",
+            "info": "$(thing)Source of$(): Aluminium, Iron"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Almandina",
+            "info": "$(thing)Fonte de$(): Alumínio, Ferro"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Альмандин",
+            "info": "$(thing)Используется для$(): Алюминий, Железо"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Алмандін",
+            "info": "$(thing)Джерело$(): Алюмінію, Залізо"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "铁铝榴石",
+            "info": "$(thing)来源$(): 铝, 铁"
+        },
+        {
+            "lang": "de_de",
+            "text": "Almandin",
+            "info": "$(thing)Quelle von$(): Aluminium, Eisen"
+        }
+    ]
 }

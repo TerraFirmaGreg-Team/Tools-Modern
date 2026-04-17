@@ -5,6 +5,7 @@
     "ore_block": "gtceu:raw_uraninite_block",
     "indicator": "gtceu:uraninite_indicator",
     "translation": "material.gtceu.uraninite",
+    "info": "tfg.ore_patchouli_info.uraninite",
     "translations": [
         {
             "lang": "en_us",

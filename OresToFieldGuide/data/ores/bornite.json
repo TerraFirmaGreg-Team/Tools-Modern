@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_bornite_block",
     "indicator": "gtceu:bornite_indicator",
     "translation": "material.gtceu.bornite",
+    "info": "tfg.ore_patchouli_info.bornite",
     "translations": [
         {
             "lang": "en_us",

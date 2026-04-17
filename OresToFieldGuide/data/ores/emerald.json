@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_emerald_block",
     "indicator": "gtceu:emerald_bud_indicator",
     "translation": "material.gtceu.emerald",
+    "info": "tfg.ore_patchouli_info.emerald",
     "translations": [
         {
             "lang": "en_us",

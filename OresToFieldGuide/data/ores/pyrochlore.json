@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_pyrochlore_block",
     "indicator": "gtceu:pyrochlore_indicator",
     "translation": "material.gtceu.pyrochlore",
+    "info": "tfg.ore_patchouli_info.pyrochlore",
     "translations": [
         {
             "lang": "en_us",

@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_trona_block",
     "indicator": "gtceu:trona_indicator",
     "translation": "material.gtceu.trona",
+    "info": "tfg.ore_patchouli_info.trona",
     "translations": [
         {
             "lang": "en_us",

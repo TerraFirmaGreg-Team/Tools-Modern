@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_pollucite_block",
     "indicator": "gtceu:pollucite_indicator",
     "translation": "material.gtceu.pollucite",
+    "info": "tfg.ore_patchouli_info.pollucite",
     "translations": [
         {
             "lang": "en_us",

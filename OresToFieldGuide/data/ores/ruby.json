@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_ruby_block",
     "indicator": "gtceu:ruby_bud_indicator",
     "translation": "material.gtceu.ruby",
+    "info": "tfg.ore_patchouli_info.ruby",
     "translations": [
         {
             "lang": "en_us",

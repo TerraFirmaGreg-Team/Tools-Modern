@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_tetrahedrite_block",
     "indicator": "tfc:ore/small_tetrahedrite",
     "translation": "material.gtceu.tetrahedrite",
+    "info": "tfg.ore_patchouli_info.tetrahedrite",
     "translations": [
         {
             "lang": "en_us",

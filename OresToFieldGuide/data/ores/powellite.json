@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_powellite_block",
     "indicator": "gtceu:powellite_indicator",
     "translation": "material.gtceu.powellite",
+    "info": "tfg.ore_patchouli_info.powellite",
     "translations": [
         {
             "lang": "en_us",

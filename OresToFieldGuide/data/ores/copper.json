@@ -4,6 +4,7 @@
     "ore_block": "minecraft:raw_copper_block",
     "indicator": "tfc:ore/small_native_copper",
     "translation": "tfg.ore_patchouli_info.copper",
+    "info": "tfg.ore_patchouli_info.copper",
     "translations": [
         {
             "lang": "en_us",

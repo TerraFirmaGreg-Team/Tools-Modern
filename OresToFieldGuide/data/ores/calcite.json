@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_calcite_block",
     "indicator": "gtceu:calcite_indicator",
     "translation": "material.gtceu.calcite",
+    "info": "tfg.ore_patchouli_info.calcite",
     "translations": [
         {
             "lang": "en_us",

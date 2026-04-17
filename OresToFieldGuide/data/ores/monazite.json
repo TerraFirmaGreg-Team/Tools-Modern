@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_monazite_block",
     "indicator": "gtceu:monazite_bud_indicator",
     "translation": "material.gtceu.monazite",
+    "info": "tfg.ore_patchouli_info.monazite",
     "translations": [
         {
             "lang": "en_us",

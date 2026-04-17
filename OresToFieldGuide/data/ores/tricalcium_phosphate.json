@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_tricalcium_phosphate_block",
     "indicator": "gtceu:tricalcium_phosphate_indicator",
     "translation": "material.gtceu.tricalcium_phosphate",
+    "info": "tfg.ore_patchouli_info.tricalcium_phosphate",
     "translations": [
         {
             "lang": "en_us",

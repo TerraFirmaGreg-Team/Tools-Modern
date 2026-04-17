@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_tin_block",
     "indicator": "tfc:ore/small_cassiterite",
     "translation": "material.gtceu.tin",
+    "info": "tfg.ore_patchouli_info.tin",
     "translations": [
         {
             "lang": "en_us",

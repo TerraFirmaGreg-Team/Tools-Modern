@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_talc_block",
     "indicator": "gtceu:talc_indicator",
     "translation": "material.gtceu.talc",
+    "info": "tfg.ore_patchouli_info.talc",
     "translations": [
         {
             "lang": "en_us",

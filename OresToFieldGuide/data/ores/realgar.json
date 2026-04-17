@@ -5,6 +5,7 @@
     "ore_block": "gtceu:raw_realgar_block",
     "indicator": "gtceu:realgar_bud_indicator",
     "translation": "material.gtceu.realgar",
+    "info": "tfg.ore_patchouli_info.realgar",
     "translations": [
         {
             "lang": "en_us",

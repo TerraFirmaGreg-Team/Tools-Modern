@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_certus_quartz_block",
     "indicator": "gtceu:certus_quartz_bud_indicator",
     "translation": "material.gtceu.certus_quartz",
+    "info": "tfg.ore_patchouli_info.certus_quartz",
     "translations": [
         {
             "lang": "en_us",

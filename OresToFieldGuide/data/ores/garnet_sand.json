@@ -3,6 +3,7 @@
     "ore_block": "gtceu:raw_garnet_sand_block",
     "indicator": "gtceu:garnet_sand_indicator",
     "translation": "material.gtceu.garnet_sand",
+    "info": "tfg.ore_patchouli_info.garnet_sand",
     "translations": [
         {
             "lang": "en_us",

@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_goethite_block",
     "indicator": "gtceu:goethite_indicator",
     "translation": "material.gtceu.goethite",
+    "info": "tfg.ore_patchouli_info.goethite",
     "translations": [
         {
             "lang": "en_us",

@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_topaz_block",
     "indicator": "gtceu:topaz_bud_indicator",
     "translation": "material.gtceu.topaz",
+    "info": "tfg.ore_patchouli_info.topaz",
     "translations": [
         {
             "lang": "en_us",

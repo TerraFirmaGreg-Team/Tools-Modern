@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_coal_block",
     "indicator": "gtceu:coal_indicator",
     "translation": "material.gtceu.coal",
+    "info": "tfg.ore_patchouli_info.coal",
     "translations": [
         {
             "lang": "en_us",

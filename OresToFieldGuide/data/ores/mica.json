@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_mica_block",
     "indicator": "gtceu:mica_indicator",
     "translation": "material.gtceu.mica",
+    "info": "tfg.ore_patchouli_info.mica",
     "translations": [
         {
             "lang": "en_us",

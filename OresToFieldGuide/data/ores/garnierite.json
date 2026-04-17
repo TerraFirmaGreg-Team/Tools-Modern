@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_garnierite_block",
     "indicator": "tfc:ore/small_garnierite",
     "translation": "material.gtceu.garnierite",
+    "info": "tfg.ore_patchouli_info.garnierite",
     "translations": [
         {
             "lang": "en_us",

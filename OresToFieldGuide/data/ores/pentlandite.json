@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_pentlandite_block",
     "indicator": "gtceu:pentlandite_indicator",
     "translation": "material.gtceu.pentlandite",
+    "info": "tfg.ore_patchouli_info.pentlandite",
     "translations": [
         {
             "lang": "en_us",

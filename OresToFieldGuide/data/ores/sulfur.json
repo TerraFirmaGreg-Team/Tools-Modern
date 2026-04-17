@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_sulfur_block",
     "indicator": "gtceu:sulfur_indicator",
     "translation": "material.gtceu.sulfur",
+    "info": "tfg.ore_patchouli_info.sulfur",
     "translations": [
         {
             "lang": "en_us",

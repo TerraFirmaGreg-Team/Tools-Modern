@@ -4,6 +4,7 @@
     "ore_block": "ad_astra:raw_desh_block",
     "indicator": "gtceu:desh_indicator",
     "translation": "material.gtceu.desh",
+    "info": "tfg.ore_patchouli_info.desh",
     "translations": [
         {
             "lang": "en_us",

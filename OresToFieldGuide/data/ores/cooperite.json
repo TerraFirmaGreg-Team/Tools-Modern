@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_cooperite_block",
     "indicator": "gtceu:cooperite_indicator",
     "translation": "material.gtceu.cooperite",
+    "info": "tfg.ore_patchouli_info.cooperite",
     "translations": [
         {
             "lang": "en_us",

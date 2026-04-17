@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_aluminium_block",
     "indicator": "gtceu:aluminium_indicator",
     "translation": "material.gtceu.aluminium",
+    "info": "tfg.ore_patchouli_info.aluminium",
     "translations": [
         {
             "lang": "en_us",

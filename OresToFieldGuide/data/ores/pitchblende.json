@@ -5,6 +5,7 @@
     "ore_block": "gtceu:raw_pitchblende_block",
     "indicator": "gtceu:pitchblende_indicator",
     "translation": "material.gtceu.pitchblende",
+    "info": "tfg.ore_patchouli_info.pitchblende",
     "translations": [
         {
             "lang": "en_us",

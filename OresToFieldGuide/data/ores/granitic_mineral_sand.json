@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_granitic_mineral_sand_block",
     "indicator": "gtceu:granitic_mineral_sand_indicator",
     "translation": "material.gtceu.granitic_mineral_sand",
+    "info": "tfg.ore_patchouli_info.granitic_mineral_sand",
     "translations": [
         {
             "lang": "en_us",

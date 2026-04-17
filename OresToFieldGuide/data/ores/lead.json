@@ -5,6 +5,7 @@
     "ore_block": "gtceu:raw_lead_block",
     "indicator": "gtceu:lead_indicator",
     "translation": "material.gtceu.lead",
+    "info": "tfg.ore_patchouli_info.lead",
     "translations": [
         {
             "lang": "en_us",

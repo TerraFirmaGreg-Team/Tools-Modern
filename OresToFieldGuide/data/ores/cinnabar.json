@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_cinnabar_block",
     "indicator": "gtceu:cinnabar_bud_indicator",
     "translation": "material.gtceu.cinnabar",
+    "info": "tfg.ore_patchouli_info.cinnabar",
     "translations": [
         {
             "lang": "en_us",

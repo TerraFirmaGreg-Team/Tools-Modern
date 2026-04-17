@@ -4,6 +4,7 @@
     "ore_block": "gtceu:raw_green_sapphire_block",
     "indicator": "gtceu:green_sapphire_bud_indicator",
     "translation": "material.gtceu.green_sapphire",
+    "info": "tfg.ore_patchouli_info.green_sapphire",
     "translations": [
         {
             "lang": "en_us",
