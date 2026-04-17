@@ -12,15 +12,15 @@
     "ores": [
         {
             "ore": "grossular",
-            "weight": 45
+            "weight": 18
         },
         {
             "ore": "pyrolusite",
-            "weight": 40
+            "weight": 16
         },
         {
             "ore": "tantalite",
-            "weight": 20,
+            "weight": 8,
             "block_weight": 1
         }
     ],

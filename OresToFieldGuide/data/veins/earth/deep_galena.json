@@ -12,16 +12,16 @@
     "ores": [
         {
             "ore": "galena",
-            "weight": 60,
+            "weight": 12,
             "block_weight": 1
         },
         {
             "ore": "silver",
-            "weight": 30
+            "weight": 6
         },
         {
             "ore": "lead",
-            "weight": 25
+            "weight": 5
         }
     ],
     "rocks": [

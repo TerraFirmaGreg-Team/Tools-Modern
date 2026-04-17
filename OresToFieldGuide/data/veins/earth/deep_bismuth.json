@@ -19,19 +19,19 @@
     "ores": [
         {
             "ore": "bismuth",
-            "weight": 45
+            "weight": 18
         },
         {
             "ore": "silver",
-            "weight": 40
+            "weight": 16
         },
         {
             "ore": "gold",
-            "weight": 40
+            "weight": 16
         },
         {
             "ore": "electrotine",
-            "weight": 20,
+            "weight": 8,
             "block_weight": 1
         }
     ],

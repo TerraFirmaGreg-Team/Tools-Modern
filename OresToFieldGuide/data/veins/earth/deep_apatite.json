@@ -12,16 +12,16 @@
     "ores": [
         {
             "ore": "apatite",
-            "weight": 80,
+            "weight": 16,
             "block_weight": 1
         },
         {
             "ore": "tricalcium_phosphate",
-            "weight": 60
+            "weight": 12
         },
         {
             "ore": "pyrochlore",
-            "weight": 20
+            "weight": 4
         }
     ],
     "rocks": [

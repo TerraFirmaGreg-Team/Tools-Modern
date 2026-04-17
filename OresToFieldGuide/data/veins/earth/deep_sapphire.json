@@ -18,20 +18,20 @@
     "ores": [
         {
             "ore": "almandine",
-            "weight": 24,
+            "weight": 8,
             "block_weight": 1
         },
         {
             "ore": "pyrope",
-            "weight": 36
+            "weight": 12
         },
         {
             "ore": "sapphire",
-            "weight": 48
+            "weight": 16
         },
         {
             "ore": "green_sapphire",
-            "weight": 39
+            "weight": 13
         }
     ],
     "rocks": [

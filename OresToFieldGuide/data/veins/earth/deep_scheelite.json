@@ -12,15 +12,15 @@
     "ores": [
         {
             "ore": "scheelite",
-            "weight": 60
+            "weight": 12
         },
         {
             "ore": "tungstate",
-            "weight": 60
+            "weight": 12
         },
         {
             "ore": "lithium",
-            "weight": 20,
+            "weight": 4,
             "block_weight": 1
         }
     ],

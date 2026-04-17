@@ -12,20 +12,20 @@
     "ores": [
         {
             "ore": "saltpeter",
-            "weight": 60,
+            "weight": 24,
             "block_weight": 1
         },
         {
             "ore": "diatomite",
-            "weight": 25
+            "weight": 10
         },
         {
             "ore": "electrotine",
-            "weight": 20
+            "weight": 8
         },
         {
             "ore": "alunite",
-            "weight": 20
+            "weight": 8
         }
     ],
     "rocks": [

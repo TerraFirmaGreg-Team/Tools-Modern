@@ -12,16 +12,16 @@
     "ores": [
         {
             "ore": "redstone",
-            "weight": 40,
+            "weight": 8,
             "block_weight": 1
         },
         {
             "ore": "ruby",
-            "weight": 20
+            "weight": 4
         },
         {
             "ore": "cinnabar",
-            "weight": 10
+            "weight": 2
         }
     ],
     "rocks": [

@@ -12,16 +12,16 @@
     "ores": [
         {
             "ore": "kyanite",
-            "weight": 60,
+            "weight": 24,
             "block_weight": 1
         },
         {
             "ore": "mica",
-            "weight": 40
+            "weight": 16
         },
         {
             "ore": "pollucite",
-            "weight": 25
+            "weight": 10
         }
     ],
     "rocks": [

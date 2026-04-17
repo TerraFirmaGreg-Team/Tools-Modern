@@ -12,20 +12,20 @@
     "ores": [
         {
             "ore": "grossular",
-            "weight": 60,
+            "weight": 24,
             "block_weight": 1
         },
         {
             "ore": "spessartine",
-            "weight": 50
+            "weight": 20
         },
         {
             "ore": "pyrolusite",
-            "weight": 40
+            "weight": 16
         },
         {
             "ore": "tantalite",
-            "weight": 30
+            "weight": 12
         }
     ],
     "rocks": [

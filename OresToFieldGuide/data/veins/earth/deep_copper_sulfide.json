@@ -14,16 +14,16 @@
     "ores": [
         {
             "ore": "sulfur",
-            "weight": 40,
+            "weight": 16,
             "block_weight": 1
         },
         {
             "ore": "bornite",
-            "weight": 5
+            "weight": 2
         },
         {
             "ore": "chalcocite",
-            "weight": 5
+            "weight": 2
         }
     ],
     "rocks": [

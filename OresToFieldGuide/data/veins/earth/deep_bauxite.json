@@ -12,11 +12,11 @@
     "ores": [
         {
             "ore": "bauxite",
-            "weight": 30
+            "weight": 6
         },
         {
             "ore": "ilmenite",
-            "weight": 70,
+            "weight": 14,
             "block_weight": 1
         }
     ],

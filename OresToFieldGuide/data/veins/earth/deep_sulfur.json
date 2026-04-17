@@ -14,7 +14,7 @@
     "ores": [
         {
             "ore": "sulfur",
-            "weight": 50,
+            "weight": 20,
             "block_weight": 1
         }
     ],

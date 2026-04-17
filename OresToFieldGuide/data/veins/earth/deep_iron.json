@@ -12,20 +12,20 @@
     "ores": [
         {
             "ore": "goethite",
-            "weight": 35,
+            "weight": 14,
             "block_weight": 1
         },
         {
             "ore": "yellow_limonite",
-            "weight": 25
+            "weight": 10
         },
         {
             "ore": "hematite",
-            "weight": 25
+            "weight": 10
         },
         {
             "ore": "malachite",
-            "weight": 25
+            "weight": 10
         }
     ],
     "rocks": [

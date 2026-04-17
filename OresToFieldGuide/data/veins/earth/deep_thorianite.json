@@ -12,19 +12,19 @@
     "ores": [
         {
             "ore": "thorium",
-            "weight": 40
+            "weight": 8
         },
         {
             "ore": "uraninite",
-            "weight": 20
+            "weight": 4
         },
         {
             "ore": "emerald",
-            "weight": 10
+            "weight": 2
         },
         {
             "ore": "beryllium",
-            "weight": 20,
+            "weight": 4,
             "block_weight": 1
         }
     ],

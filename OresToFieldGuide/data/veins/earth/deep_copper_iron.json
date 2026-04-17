@@ -12,20 +12,20 @@
     "ores": [
         {
             "ore": "chalcopyrite",
-            "weight": 30,
+            "weight": 12,
             "block_weight": 1
         },
         {
             "ore": "goethite",
-            "weight": 25
+            "weight": 10
         },
         {
             "ore": "pyrite",
-            "weight": 15
+            "weight": 6
         },
         {
             "ore": "copper",
-            "weight": 10
+            "weight": 4
         }
     ],
     "rocks": [

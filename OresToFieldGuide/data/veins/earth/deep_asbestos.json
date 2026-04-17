@@ -13,16 +13,16 @@
     "ores": [
         {
             "ore": "cassiterite",
-            "weight": 50,
+            "weight": 10,
             "block_weight": 1
         },
         {
             "ore": "asbestos",
-            "weight": 30
+            "weight": 6
         },
         {
             "ore": "diatomite",
-            "weight": 10
+            "weight": 2
         }
     ],
     "rocks": [

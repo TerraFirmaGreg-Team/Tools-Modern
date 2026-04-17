@@ -12,20 +12,20 @@
     "ores": [
         {
             "ore": "garnierite",
-            "weight": 70,
+            "weight": 14,
             "block_weight": 1
         },
         {
             "ore": "nickel",
-            "weight": 40
+            "weight": 8
         },
         {
             "ore": "cobaltite",
-            "weight": 50
+            "weight": 10
         },
         {
             "ore": "pentlandite",
-            "weight": 30
+            "weight": 6
         }
     ],
     "rocks": [

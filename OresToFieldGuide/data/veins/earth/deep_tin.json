@@ -12,12 +12,12 @@
     "ores": [
         {
             "ore": "cassiterite",
-            "weight": 70,
+            "weight": 14,
             "block_weight": 1
         },
         {
             "ore": "tin",
-            "weight": 10
+            "weight": 2
         }
     ],
     "rocks": [

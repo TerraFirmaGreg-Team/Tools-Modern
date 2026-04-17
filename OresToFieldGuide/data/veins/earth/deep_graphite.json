@@ -18,17 +18,16 @@
     "ores": [
         {
             "ore": "graphite",
-            "weight": 70,
+            "weight": 14,
             "block_weight": 1
         },
         {
             "ore": "coal",
-            "weight": 20,
-            "block_weight": 1
+            "weight": 4
         },
         {
             "ore": "diamond",
-            "weight": 10
+            "weight": 2
         }
     ],
     "rocks": [

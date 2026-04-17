@@ -12,16 +12,16 @@
     "ores": [
         {
             "ore": "bastnasite",
-            "weight": 60,
+            "weight": 12,
             "block_weight": 1
         },
         {
             "ore": "monazite",
-            "weight": 30
+            "weight": 6
         },
         {
             "ore": "neodymium",
-            "weight": 10
+            "weight": 2
         }
     ],
     "rocks": [

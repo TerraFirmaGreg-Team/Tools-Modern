@@ -12,8 +12,8 @@
     "ores": [
         {
             "ore": "coal",
-            "weight": 100,
-            "block_weight": 2
+            "weight": 50,
+            "block_weight": 1
         }
     ],
     "rocks": [

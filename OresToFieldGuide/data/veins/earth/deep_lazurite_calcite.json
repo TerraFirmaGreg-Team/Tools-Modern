@@ -18,20 +18,20 @@
     "ores": [
         {
             "ore": "lazurite",
-            "weight": 50,
+            "weight": 10,
             "block_weight": 1
         },
         {
             "ore": "sodalite",
-            "weight": 40
+            "weight": 8
         },
         {
             "ore": "lapis",
-            "weight": 30
+            "weight": 6
         },
         {
             "ore": "calcite",
-            "weight": 30
+            "weight": 6
         }
     ],
     "rocks": [
