@@ -327,7 +327,14 @@ namespace OresToFieldGuide
 				pageBuilder.Append($": {m_translations.Get(locale, $"tfg.ore_patchouli_info.{vein.Type[4..]}")}");
 				pageBuilder.LineBreak();
 
-				pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.y"));
+				if (vein.Project)
+				{
+					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.project"));
+				}
+				else
+				{
+					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.y"));
+				}
 				pageBuilder.Append($": {vein.Config.MinY} — {vein.Config.MaxY}");
 				pageBuilder.LineBreak();
 
@@ -362,11 +369,17 @@ namespace OresToFieldGuide
 					pageBuilder.Append($": {vein.Indicator!.Depth}");
 				}
 
+				if (vein.NearLava)
+				{
+					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.near_lava"));
+					pageBuilder.LineBreak();
+				}
+
 				pageBuilder.LineBreak2();
 				pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.stone_types"));
 				pageBuilder.Append($": {string.Join(", ", vein.Rocks.Select(r => m_translations.Get(locale, m_rockDict[r].TranslationKey)).Order())}");
 
-				// TODO: lava, biomes, climates
+				// TODO: biomes, climates
 
 				entry.Pages.Add(new TextPage
 				{
