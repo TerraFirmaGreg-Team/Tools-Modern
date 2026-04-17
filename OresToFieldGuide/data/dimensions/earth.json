@@ -5,6 +5,9 @@
 	"ore_index_icon": "tfc:ore/normal_native_copper",
 	"vein_index_icon": "tfc:ore/normal_native_copper/chalk",
 	"vein_tag": "tfc:in_biome/veins",
+	"name_translation": "tfg.ore_vein_dimension.earth",
+	"ore_index_translation": "tfg.ore_vein_dimension.earth.ore_index",
+	"vein_index_translation": "tfg.ore_vein_dimension.earth.vein_index",
 	"name_translations": {
 		"en_us": "Earth",
 		"pt_br": "Terra",
@@ -20,7 +23,7 @@
 		"zh_cn": "地球矿物索引",
 		"ru_ru": "Каталог руд Земли",
 		"de_de": "Erde Erzindex"
-		
+
 	},
 	"vein_index_translations": {
 		"en_us": "Earth Vein Index",

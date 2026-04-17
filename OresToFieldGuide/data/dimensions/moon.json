@@ -5,6 +5,9 @@
 	"ore_index_icon": "ae2:certus_quartz_crystal",
 	"vein_index_icon": "gtceu:moon_stone_certus_quartz_ore",
 	"vein_tag": "tfg:moon_veins",
+	"name_translation": "tfg.ore_vein_dimension.moon",
+	"ore_index_translation": "tfg.ore_vein_dimension.moon.ore_index",
+	"vein_index_translation": "tfg.ore_vein_dimension.moon.vein_index",
 	"name_translations": {
 		"en_us": "The Moon",
 		"pt_br": "A Lua",

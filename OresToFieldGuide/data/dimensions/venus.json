@@ -4,6 +4,9 @@
 	"dimension_id": "ad_astra:venus",
 	"ore_index_icon": "vintageimprovements:sulfur",
 	"vein_index_icon": "gtceu:venus_stone_sulfur_ore",
+	"name_translation": "tfg.ore_vein_dimension.venus",
+	"ore_index_translation": "tfg.ore_vein_dimension.venus.ore_index",
+	"vein_index_translation": "tfg.ore_vein_dimension.venus.vein_index",
 	"vein_tag": "tfg:venus_veins",
 	"name_translations": {
 		"en_us": "Venus",

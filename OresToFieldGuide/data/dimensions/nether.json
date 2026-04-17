@@ -5,6 +5,9 @@
 	"ore_index_icon": "minecraft:quartz",
 	"vein_index_icon": "gtceu:pyroxenite_nether_quartz_ore",
 	"vein_tag": "tfg:nether_veins",
+	"name_translation": "tfg.ore_vein_dimension.nether",
+	"ore_index_translation": "tfg.ore_vein_dimension.nether.ore_index",
+	"vein_index_translation": "tfg.ore_vein_dimension.nether.vein_index",
 	"name_translations": {
 		"en_us": "The Beneath",
 		"pt_br": "As Profundezas",

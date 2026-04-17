@@ -5,6 +5,9 @@
 	"ore_index_icon": "tfc:ore/normal_hematite",
 	"vein_index_icon": "gtceu:mars_stone_hematite_ore",
 	"vein_tag": "tfg:mars_veins",
+	"name_translation": "tfg.ore_vein_dimension.mars",
+	"ore_index_translation": "tfg.ore_vein_dimension.mars.ore_index",
+	"vein_index_translation": "tfg.ore_vein_dimension.mars.vein_index",
 	"name_translations": {
 		"en_us": "Mars",
 		"pt_br": "Mars",
