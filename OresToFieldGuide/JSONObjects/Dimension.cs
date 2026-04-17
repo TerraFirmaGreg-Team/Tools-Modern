@@ -22,13 +22,13 @@ namespace OresToFieldGuide
 		[JsonPropertyName("vein_tag")]
 		public required string VeinTag { get; set; }
 
-		[JsonPropertyName("name_translations")]
-		public required Dictionary<string, string> NameTranslations { get; set; }
+		[JsonPropertyName("name_translation")]
+		public required string NameTranslationKey { get; set; }
 
-		[JsonPropertyName("ore_index_translations")]
-		public required Dictionary<string, string> OreIndexTranslations { get; set; }
+		[JsonPropertyName("ore_index_translation")]
+		public required string OreIndexTranslationKey { get; set; }
 
-		[JsonPropertyName("vein_index_translations")]
-		public required Dictionary<string, string> VeinIndexTranslations { get; set; }
+		[JsonPropertyName("vein_index_translation")]
+		public required string VeinIndexTranslationKey { get; set; }
 	}
 }

@@ -5,7 +5,7 @@ namespace OresToFieldGuide
     /// <summary>
     /// Represents the arguments used by the program
     /// </summary>
-    internal struct ProgramArguments
+    public struct ProgramArguments
     {
         /// <summary>
         /// The path to the .minecraft folder

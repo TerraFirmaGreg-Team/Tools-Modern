@@ -38,16 +38,16 @@ namespace OresToFieldGuide
 		public string? DefaultIndicator { get; set; }
 
 		/// <summary>
-		/// Localized names and information for the ore.
+		/// Translation key for the ore.
 		/// </summary>
-		[JsonPropertyName("translations")]
-		public required Translation[] RawTranslations { get; set; }
+		[JsonPropertyName("translation")]
+		public required string TranslationKey { get; set; }
 
-		[JsonIgnore]
-		public Dictionary<string, string> TranslatedNames { get; } = [];
-
-		[JsonIgnore]
-		public Dictionary<string, string?> TranslatedInfo { get; } = [];
+		/// <summary>
+		/// Translation key for what you can do with this ore.
+		/// </summary>
+		[JsonPropertyName("info")]
+		public required string InfoKey { get; set; }
 
 		public Multiblock BuildMultiblockDisplay()
 		{

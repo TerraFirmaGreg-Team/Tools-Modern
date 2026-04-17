@@ -88,28 +88,22 @@ namespace OresToFieldGuide
 		public IndicatorConfig? Indicator { get; set; }
 
 		/// <summary>
-		/// Localized names and information for the ore.
+		/// Translation key for the vein.
 		/// </summary>
-		[JsonPropertyName("translations")]
-		public required Translation[] RawTranslations { get; set; }
+		[JsonPropertyName("translation")]
+		public string? TranslationKey { get; set; }
 
 		/// <summary>
-		/// Dictionary of <see cref="Translation.Language"/>, <see cref="Translation.Text"/>
+		/// Translation key for a suffix of the auto generated vein name.
+		/// </summary>
+		[JsonPropertyName("name_suffix")]
+		public string? NameSuffix { get; set; }
+
+		/// <summary>
+		/// Dictionary of &lt;locale, name&gt;
 		/// </summary>
 		[JsonIgnore]
 		public Dictionary<string, string> TranslatedNames { get; } = [];
-
-		/// <summary>
-		/// Dictionary of <see cref="Translation.Language"/>, <see cref="Translation.Info"/>
-		/// </summary>
-		[JsonIgnore]
-		public Dictionary<string, string?> TranslatedInfo { get; } = [];
-
-		/// <summary>
-		/// Dictionary of <see cref="Translation.Language"/>, <see cref="Translation.Emi"/>
-		/// </summary>
-		[JsonIgnore]
-		public Dictionary<string, string?> TranslatedEmi { get; } = [];
 	}
 
 	public class VeinConfig

@@ -13,7 +13,10 @@ namespace OresToFieldGuide
 		[JsonPropertyName("replaceable_blocks")]
 		public required string[] ReplaceableBlocks { get; set; }
 
-		[JsonPropertyName("translations")]
-		public required Dictionary<string, string> Translations { get; set; }
+		/// <summary>
+		/// Translation key for the rock.
+		/// </summary>
+		[JsonPropertyName("translation")]
+		public required string TranslationKey { get; set; }
 	}
 }

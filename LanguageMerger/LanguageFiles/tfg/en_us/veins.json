@@ -10,14 +10,19 @@
 	"tfg.emi.ore_veins.rarity.tooltip": "Vein spawns once every %d chunks on average",
 	"tfg.emi.ore_veins.density": "Density: %d",
 	"tfg.emi.ore_veins.y_ranges": "Y Level: %d to %d",
+	"tfg.emi.ore_veins.projected": "Surface Depth: %d to %d",
+	"tfg.emi.ore_veins.near_lava": "Requires nearby Lava at Y=-54",
 	"tfg.emi.ore_veins.size": "Size: %d",
 	"tfg.emi.ore_veins.height": "Height: %d",
 	"tfg.emi.ore_veins.radius": "Radius: %d",
 
-	"ore_vein.tfg.rose_quartz": "Rose Quartz",
-	"ore_vein.tfg.oilsands": "Oilsands",
-	"ore_vein.tfg.oilsands.emi.0": "Found around oil spouts",
-	"ore_vein.tfg.oilsands.emi.1": "in warm deserts.",
+	"tfg.emi.ore_veins.biomes": "Biomes:",
+	"tfg.emi.ore_veins.biome_any": "Any",
+
+	"tfg.ore_vein.rose_quartz": "Rose Quartz",
+	"tfg.ore_vein.oilsands": "Oilsands",
+	"tfg.ore_vein.oilsands.emi.0": "Found around oil spouts",
+	"tfg.ore_vein.oilsands.emi.1": "in warm deserts.",
 
 	"tfg.ore_vein_tag.earth.is_mountain": "Mountains",
 	"tfg.ore_vein_tag.earth.is_volcanic": "Volcanic",

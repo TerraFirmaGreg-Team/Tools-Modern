@@ -35,13 +35,12 @@ namespace OresToFieldGuide
 		};
 
 		private readonly ProgramArguments m_arguments = arguments;
+		private readonly Translations m_translations = new(s_locales, arguments);
 
 		private readonly Dictionary<string, Dimension> m_dimensionDict = [];
 		private readonly Dictionary<string, Ore> m_oreDict = [];
 		private readonly Dictionary<string, Rock> m_rockDict = [];
 		private readonly Dictionary<Dimension, List<Vein>> m_veinDict = [];
-
-		private readonly Dictionary<string, LocalizationTokens> m_localeToTokens = [];
 
 		public void Run()
 		{
@@ -50,11 +49,10 @@ namespace OresToFieldGuide
 			DeserializeData("ores", m_oreDict);
 			DeserializeData("rock", m_rockDict);
 			DeserializeVeins();
-			DeserializeLanguageTokens();
 
 			// 2) Reorganize data
 
-			ExtractTranslations();
+			GenerateDefaultIndicatorsAndVeinNames();
 			WeightsIntoPercents();
 
 			// 3) Write out veins
@@ -118,112 +116,52 @@ namespace OresToFieldGuide
 			}
 		}
 
-		private void DeserializeLanguageTokens()
+		private void GenerateDefaultIndicatorsAndVeinNames()
 		{
-			var en_usTokenPath = Path.Combine(m_arguments.DataFolder, "language_tokens", $"{s_fallbackLocale}.json");
-			LocalizationTokens en_usTokens = JsonSerializer.Deserialize<LocalizationTokens>(File.ReadAllText(en_usTokenPath))
-				?? throw new Exception($"Failed to parse {en_usTokenPath}");
-
-			m_localeToTokens.Add(s_fallbackLocale, en_usTokens);
-
-			foreach (var locale in s_locales)
-			{
-				if (m_localeToTokens.ContainsKey(locale))
-					continue;
-
-				var localeTokenPath = Path.Combine(m_arguments.DataFolder, "language_tokens", $"{locale}.json");
-				if (!File.Exists(localeTokenPath))
-				{
-					ConsoleLogHelper.WriteLine($"Could not file localization tokens for locale {locale}! Assigning {s_fallbackLocale}'s Localization Tokens.", LogLevel.Warning);
-					m_localeToTokens.Add(locale, en_usTokens);
-					continue;
-				}
-
-				LocalizationTokens? localeTokens = JsonSerializer.Deserialize<LocalizationTokens>(File.ReadAllText(localeTokenPath));
-				if (localeTokens == null)
-				{
-					ConsoleLogHelper.WriteLine($"Failed to parse ${localeTokenPath}! Assigning {s_fallbackLocale}'s tokens instead", LogLevel.Warning);
-					m_localeToTokens.Add(locale, en_usTokens);
-					continue;
-				}
-
-				m_localeToTokens.Add(locale, localeTokens);
-			}
-		}
-
-		private void ExtractTranslations()
-		{
-			foreach (var dimension in m_dimensionDict.Values)
-			{
-				foreach (var locale in s_locales)
-				{
-					if (!dimension.NameTranslations.ContainsKey(locale))
-					{
-						dimension.NameTranslations[locale] = dimension.NameTranslations[s_fallbackLocale];
-					}
-					if (!dimension.OreIndexTranslations.ContainsKey(locale))
-					{
-						dimension.OreIndexTranslations[locale] = dimension.OreIndexTranslations[s_fallbackLocale];
-					}
-					if (!dimension.VeinIndexTranslations.ContainsKey(locale))
-					{
-						dimension.VeinIndexTranslations[locale] = dimension.VeinIndexTranslations[s_fallbackLocale];
-					}
-				}
-			}
-
-			foreach (var ore in m_oreDict.Values)
-			{
-				var dict = ore.RawTranslations.ToDictionary(t => t.Language);
-
-				foreach (var locale in s_locales)
-				{
-					if (dict.TryGetValue(locale, out var translation))
-					{
-						ore.TranslatedNames[locale] = translation.Text;
-						ore.TranslatedInfo[locale] = translation.Info;
-					}
-					else
-					{
-						ore.TranslatedNames[locale] = ore.TranslatedNames[s_fallbackLocale];
-						ore.TranslatedInfo[locale] = ore.TranslatedInfo[s_fallbackLocale];
-					}
-				}
-			}
-
-			foreach (var rock in m_rockDict.Values)
-			{
-				foreach (var locale in s_locales)
-				{
-					if (!rock.Translations.ContainsKey(locale))
-					{
-						rock.Translations[locale] = rock.Translations[s_fallbackLocale];
-					}
-				}
-			}
+			const int characterLimit = 30;
 
 			foreach (var vein in m_veinDict.Values.SelectMany(v => v))
 			{
-				var dict = vein.RawTranslations.ToDictionary(t => t.Language);
+				vein.Indicator ??= IndicatorConfig.GenerateDefault(vein.Ores, m_oreDict);
+				vein.Indicator.Blocks ??= IndicatorConfig.GenerateDefaultIndicatorBlocks(vein.Ores, m_oreDict);
 
 				foreach (var locale in s_locales)
 				{
-					if (dict.TryGetValue(locale, out var translation))
+					if (vein.TranslationKey is null)
 					{
-						vein.TranslatedNames[locale] = translation.Text;
-						vein.TranslatedInfo[locale] = translation.Info;
-						vein.TranslatedEmi[locale] = translation.Emi;
+						// Generate a new name based off the ores in the vein
+						string generated = "";
+						foreach (var ore in vein.Ores)
+						{
+							var next = m_translations.Get(locale, m_oreDict[ore.OreID].TranslationKey);
+
+							if ((generated + next).Length > characterLimit)
+							{
+								generated += "...";
+								break;
+							}
+							else
+							{
+								if (generated.Length != 0)
+								{
+									generated += ", ";
+								}
+								generated += next;
+							}
+						}
+
+						if (vein.NameSuffix is not null)
+						{
+							generated += " " + m_translations.Get(locale, vein.NameSuffix);
+						}
+
+						vein.TranslatedNames[locale] = generated;
 					}
 					else
 					{
-						vein.TranslatedNames[locale] = vein.TranslatedNames[s_fallbackLocale];
-						vein.TranslatedInfo[locale] = vein.TranslatedInfo[s_fallbackLocale];
-						vein.TranslatedEmi[locale] = vein.TranslatedEmi[s_fallbackLocale];
+						vein.TranslatedNames[locale] = m_translations.Get(locale, vein.TranslationKey);
 					}
 				}
-
-				vein.Indicator ??= IndicatorConfig.GenerateDefault(vein.Ores, m_oreDict);
-				vein.Indicator.Blocks ??= IndicatorConfig.GenerateDefaultIndicatorBlocks(vein.Ores, m_oreDict);
 			}
 		}
 
@@ -245,13 +183,13 @@ namespace OresToFieldGuide
 			return Path.Combine(m_arguments.ModpackFolder, "kubejs/assets/tfc/patchouli_books/field_guide", locale, "entries/tfg_ores");
 		}
 
-		private PatchouliEntry GenerateOreIndexForDimension(string locale, Dimension dim, LocalizationTokens tokens)
+		private PatchouliEntry GenerateOreIndexForDimension(string locale, Dimension dim)
 		{
 			var entry = new PatchouliEntry()
 			{
 				FileNameWithoutExtension = $"{dim.ID}_ore_index",
 				Icon = dim.OreIndexIcon,
-				Name = dim.OreIndexTranslations[locale],
+				Name = m_translations.Get(locale, dim.OreIndexTranslationKey),
 				ReadByDefault = true,
 				SortNum = dim.SortOrder * 2,
 				Pages = []
@@ -262,11 +200,11 @@ namespace OresToFieldGuide
 			int numPages = 0;
 
 			var pageBuilder = new PatchouliStringBuilder(new StringBuilder());
-			pageBuilder.Append(string.Format(tokens["ore_index_format"], dim.NameTranslations[locale]));
+			pageBuilder.Append(string.Format(m_translations.Get(locale, "tfg.ore_patchouli_info.ore_index_format"), m_translations.Get(locale, dim.NameTranslationKey)));
 
 			entry.Pages.Add(new TextPage()
 			{
-				Title = dim.OreIndexTranslations[locale],
+				Title = m_translations.Get(locale, dim.OreIndexTranslationKey),
 				Text = pageBuilder.Dump(),
 			});
 			numPages++;
@@ -282,7 +220,7 @@ namespace OresToFieldGuide
 							.OrderByDescending(vein =>
 								vein.Ores.Single(wb => wb.OreID == ore.ID).Weight)))
 				.Where(tuple => tuple.Item2.Any())
-				.OrderBy(tuple => tuple.ore.TranslatedNames[locale]);
+				.OrderBy(tuple => m_translations.Get(locale, tuple.ore.TranslationKey));
 
 			// Build the pages
 
@@ -291,7 +229,7 @@ namespace OresToFieldGuide
 				foreach ((var ore, var veins) in chunk)
 				{
 					pageBuilder.Append("$(li)");
-					pageBuilder.Append($"{ore.TranslatedNames[locale]}: ");
+					pageBuilder.Append($"{m_translations.Get(locale, ore.TranslationKey)}: ");
 
 					foreach (var vein in veins)
 					{
@@ -317,13 +255,13 @@ namespace OresToFieldGuide
 			return entry;
 		}
 
-		private PatchouliEntry GenerateVeinIndexForDimension(string locale, Dimension dim, LocalizationTokens tokens)
+		private PatchouliEntry GenerateVeinIndexForDimension(string locale, Dimension dim)
 		{
 			var entry = new PatchouliEntry()
 			{
 				FileNameWithoutExtension = $"{dim.ID}_vein_index",
 				Icon = dim.VeinIndexIcon,
-				Name = dim.VeinIndexTranslations[locale],
+				Name = m_translations.Get(locale, dim.VeinIndexTranslationKey),
 				ReadByDefault = true,
 				SortNum = (dim.SortOrder * 2) + 1,
 				Pages = []
@@ -334,11 +272,11 @@ namespace OresToFieldGuide
 			int numPages = 0;
 
 			var pageBuilder = new PatchouliStringBuilder(new StringBuilder());
-			pageBuilder.Append(string.Format(tokens["vein_index_format"], dim.NameTranslations[locale]));
+			pageBuilder.Append(string.Format(m_translations.Get(locale, "tfg.ore_patchouli_info.vein_index_format"), m_translations.Get(locale, dim.NameTranslationKey)));
 
 			entry.Pages.Add(new TextPage()
 			{
-				Title = dim.VeinIndexTranslations[locale],
+				Title = m_translations.Get(locale, dim.VeinIndexTranslationKey),
 				Text = pageBuilder.Dump()
 			});
 			numPages++;
@@ -376,63 +314,59 @@ namespace OresToFieldGuide
 
 				// Vein info page
 
-				pageBuilder.ThingMacro(tokens["rarity"]);
+				pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.rarity"));
 				pageBuilder.Append($": 1/{vein.Config.Rarity} ");
-				pageBuilder.Append(tokens["chunks"]);
+				pageBuilder.Append(m_translations.Get(locale, "tfg.ore_patchouli_info.chunks"));
 				pageBuilder.LineBreak();
 
-				pageBuilder.ThingMacro(tokens["density"]);
+				pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.density"));
 				pageBuilder.Append($": {Math.Round(vein.Config.Density * 100)}%");
 				pageBuilder.LineBreak();
 
-				pageBuilder.ThingMacro(tokens["type"]);
-				pageBuilder.Append($": {tokens[vein.Type]}");
+				pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.type"));
+				pageBuilder.Append($": {m_translations.Get(locale, $"tfg.ore_patchouli_info.{vein.Type[4..]}")}");
 				pageBuilder.LineBreak();
 
-				pageBuilder.ThingMacro(tokens["y"]);
+				pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.y"));
 				pageBuilder.Append($": {vein.Config.MinY} — {vein.Config.MaxY}");
 				pageBuilder.LineBreak();
 
 				if (vein.Type == "tfc:disc_vein")
 				{
-					pageBuilder.ThingMacro(tokens["size"]);
+					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.size"));
 					pageBuilder.Append($": {vein.Config.Size}");
 					pageBuilder.LineBreak();
 
-					pageBuilder.ThingMacro(tokens["height"]);
+					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.height"));
 					pageBuilder.Append($": {vein.Config.Height}");
 				}
 				else if (vein.Type == "tfc:cluster_vein")
 				{
-					pageBuilder.ThingMacro(tokens["size"]);
+					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.size"));
 					pageBuilder.Append($": {vein.Config.Size}");
 				}
 				else // pipe vein
 				{
-					pageBuilder.ThingMacro(tokens["height"]);
+					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.height"));
 					pageBuilder.Append($": {vein.Config.Height}");
 					pageBuilder.LineBreak();
 
-					pageBuilder.ThingMacro(tokens["radius"]);
+					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.radius"));
 					pageBuilder.Append($": {vein.Config.Radius}");
 				}
 
 				if (vein.Indicator!.Depth > 1)
 				{
 					pageBuilder.LineBreak();
-					pageBuilder.ThingMacro(tokens["indicator_depth"]);
+					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.indicator_depth"));
 					pageBuilder.Append($": {vein.Indicator!.Depth}");
 				}
 
 				pageBuilder.LineBreak2();
-				pageBuilder.ThingMacro(tokens["stone_types"]);
-				pageBuilder.Append($": {string.Join(", ", vein.Rocks.Select(r => m_rockDict[r].Translations[locale]).Order())}");
+				pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.stone_types"));
+				pageBuilder.Append($": {string.Join(", ", vein.Rocks.Select(r => m_translations.Get(locale, m_rockDict[r].TranslationKey)).Order())}");
 
-				if (vein.TranslatedInfo[locale] != null)
-				{
-					pageBuilder.LineBreak2();
-					pageBuilder.Append(vein.TranslatedInfo[locale]!);
-				}
+				// TODO: lava, biomes, climates
 
 				entry.Pages.Add(new TextPage
 				{
@@ -448,33 +382,30 @@ namespace OresToFieldGuide
 				{
 					var ore = m_oreDict[block.OreID];
 
-					pageBuilder.ThingMacro(tokens["percentage"]);
+					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.percentage"));
 					pageBuilder.Append($": {(int) block.WeightPercent!}%");
 
-					if (ore.TranslatedInfo[locale] != null)
-					{
-						pageBuilder.LineBreak();
-						pageBuilder.Append($"{ore.TranslatedInfo[locale]}");
-					}
-
+					pageBuilder.LineBreak();
+					pageBuilder.Append(m_translations.Get(locale, ore.InfoKey));
+					
 					if (ore.Formula != null)
 					{
 						pageBuilder.LineBreak();
-						pageBuilder.ThingMacro(tokens["formula"]);
+						pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.formula"));
 						pageBuilder.Append($": {ore.Formula}");
 					}
 
 					if (ore.Hazard != null)
 					{
 						pageBuilder.LineBreak();
-						pageBuilder.ThingMacro(tokens["hazard"]);
+						pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.hazard"));
 						pageBuilder.Append(": ");
-						pageBuilder.Color(tokens[ore.Hazard], MinecraftColorCode.Red);
+						pageBuilder.Color(m_translations.Get(locale, $"tfg.ore_patchouli_info.{ore.Hazard}"), MinecraftColorCode.Red);
 					}
 
 					entry.Pages.Add(new MultiblockPage
 					{
-						Name = ore.TranslatedNames[locale],
+						Name = m_translations.Get(locale, ore.TranslationKey),
 						EnableVisualize = false,
 						Text = pageBuilder.Dump(),
 						Multiblock = ore.BuildMultiblockDisplay()
@@ -518,13 +449,13 @@ namespace OresToFieldGuide
 				// Then write new ones
 				foreach (var dimension in m_dimensionDict.Values)
 				{
-					var oreIndex = GenerateOreIndexForDimension(locale, dimension, m_localeToTokens[locale]);
+					var oreIndex = GenerateOreIndexForDimension(locale, dimension);
 
 					string oreJson = JsonSerializer.Serialize(oreIndex, m_jsonOptions);
 					File.WriteAllText(Path.Combine(outputDir, oreIndex.FileNameWithoutExtension + ".json"), oreJson);
 					ConsoleLogHelper.WriteLine($"Wrote out {locale} {oreIndex.FileNameWithoutExtension}", LogLevel.Info);
 
-					var veinIndex = GenerateVeinIndexForDimension(locale, dimension, m_localeToTokens[locale]);
+					var veinIndex = GenerateVeinIndexForDimension(locale, dimension);
 
 					string veinJson = JsonSerializer.Serialize(veinIndex, m_jsonOptions);
 					File.WriteAllText(Path.Combine(outputDir, veinIndex.FileNameWithoutExtension + ".json"), veinJson);
@@ -652,26 +583,26 @@ namespace OresToFieldGuide
 					}
 					sb.AppendLine("},");
 
-					if (vein.TranslatedEmi.Any() && !string.IsNullOrWhiteSpace(vein.TranslatedEmi["en_us"]))
-					{
-						sb.Append($"\t\t\t\tnew String[] {{");
-						
-						var split = vein.TranslatedEmi["en_us"]!.Split("\\n");
-						for (int i = 0; i < split.Length; i++)
-						{
-							sb.Append($"\"ore_vein.tfg.{vein.ID}.emi.{i}\"");
-							if (i + 1 < split.Length)
-							{
-								sb.Append(", ");
-							}
-						}
+					//if (vein.TranslatedEmi.Any() && !string.IsNullOrWhiteSpace(vein.TranslatedEmi["en_us"]))
+					//{
+					//	sb.Append($"\t\t\t\tnew String[] {{");
 
-						sb.Append("}");
-					}
-					else
-					{
+					//	var split = vein.TranslatedEmi["en_us"]!.Split("\\n");
+					//	for (int i = 0; i < split.Length; i++)
+					//	{
+					//		sb.Append($"\"tfg.ore_vein.{vein.ID}.emi.{i}\"");
+					//		if (i + 1 < split.Length)
+					//		{
+					//			sb.Append(", ");
+					//		}
+					//	}
+
+					//	sb.Append("}");
+					//}
+					//else
+					//{
 						sb.Append("\t\t\t\tnull");
-					}
+					//}
 
 					sb.AppendLine("),");
 				}
@@ -689,7 +620,7 @@ namespace OresToFieldGuide
 			{
 				var sb = new StringBuilder();
 				sb.AppendLine("{");
-				sb.AppendLine("\t\"ore_vein.tfg.__comment__\": \"DO NOT TRANSLATE THIS FILE. Translate the OresToFieldGuide/data/veins files instead.\",");
+				sb.AppendLine("\t\"tfg.ore_vein.__comment__\": \"DO NOT TRANSLATE THIS FILE. Translate the OresToFieldGuide/data/veins files instead.\",");
 
 				var lastVein = m_veinDict.Values.Last().Last();
 				foreach (var veins in m_veinDict.Values)
@@ -698,17 +629,17 @@ namespace OresToFieldGuide
 					{
 						if (vein.TranslatedNames.TryGetValue(locale, out string? value))
 						{
-							sb.Append($"\t\"ore_vein.tfg.{vein.ID}\": \"{value}\"");
+							sb.Append($"\t\"tfg.ore_vein.{vein.ID}\": \"{value}\"");
 
-							if (vein.TranslatedEmi.TryGetValue(locale, out string? info) && !string.IsNullOrWhiteSpace(info))
-							{
-								int i = 0;
-								foreach (var split in info.Split("\\n"))
-								{
-									sb.AppendLine(",");
-									sb.Append($"\t\"ore_vein.tfg.{vein.ID}.emi.{i++}\": \"{split}\"");
-								}
-							}
+							//if (vein.TranslatedEmi.TryGetValue(locale, out string? info) && !string.IsNullOrWhiteSpace(info))
+							//{
+							//	int i = 0;
+							//	foreach (var split in info.Split("\\n"))
+							//	{
+							//		sb.AppendLine(",");
+							//		sb.Append($"\t\"tfg.ore_vein.{vein.ID}.emi.{i++}\": \"{split}\"");
+							//	}
+							//}
 
 							if (vein == lastVein)
 							{
