@@ -215,10 +215,14 @@
     "quests.tfg_tips.lamps.subtitle": "These are pretty.",
     "quests.tfg_tips.lamps.desc": "Just like in regular Minecraft, &dLamps&r can be hung from the ceiling with the help of chains or placed on top of blocks. &dLamps&r consume different kinds of fuels to keep themselves lit. Some fuels can last &4indefinitely.&r\n\n &3&lTip:&r&o Filled lamps can be placed in the &6Back&f slot of the &cCurios Menu&f to provide hands free dynamic lighting. This may not work if you have shaders on.",
 
-    "quests.tfg_tips.creosote.title": "Lamp Fuel: Creosote",
+    "quests.tfg_tips.creosote.title": "Lamp Fuel: Weak Fuels",
     "quests.tfg_tips.creosote.subtitle": "If you have a bunch of it lying around...",
-    "quests.tfg_tips.creosote.desc": "&dCreosote&r can be used as a lamp fuel, but a full lamp of the stuff only lasts for &c10&r days.",
-    "quests.tfg_tips.creosote.task": "A Bucket of Creosote",
+    "quests.tfg_tips.creosote.desc": "&dCreosote&r and &dGregTech Oils&r can be used as a lamp fuel, but a full lamp of the stuff only lasts for &c10&r days.",
+    "quests.tfg_tips.creosote.task_croesote": "A Bucket of Creosote",
+    "quests.tfg_tips.creosote.task_oil": "A Bucket of Oil",
+    "quests.tfg_tips.creosote.task_light_oil": "A Bucket of Light Oil",
+    "quests.tfg_tips.creosote.task_raw_oil": "A Bucket of Raw Oil",
+    "quests.tfg_tips.creosote.task_heavy_oil": "A Bucket of Heavy Oil",
 
     "quests.tfg_tips.tallow.title": "Lamp Fuel: Tallow",
     "quests.tfg_tips.tallow.subtitle": "Animal Fat",
