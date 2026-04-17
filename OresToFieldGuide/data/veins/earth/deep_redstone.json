@@ -37,9 +37,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Redstone, Ruby & Cinnabar",
-            "info": "Deep vein with\\nindicators that can\\nspawn very high.",
-            "emi": "Deep vein with\\nindicators that can\\nspawn very high."
+            "text": "Redstone, Ruby & Cinnabar"
         }
     ]
 }

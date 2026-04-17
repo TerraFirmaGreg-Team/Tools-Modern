@@ -33,9 +33,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Mineral Sand",
-            "info": "Surface Vein\\nThe Y-Level shows its range from surface.",
-            "emi": "Surface Vein\\nThe Y-Level shows its range from surface."
+            "text": "Mineral Sand"
         }
     ]
 }
