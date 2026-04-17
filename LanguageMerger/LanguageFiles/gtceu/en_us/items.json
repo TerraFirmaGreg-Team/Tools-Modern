@@ -12,15 +12,9 @@
 	"item.gtceu.thermochemically_treated_hardwood_dust": "Thermochemically Treated Hardwood Pulp",
 	"item.gtceu.tool.behavior.canoe_creator": "§5Boater: §fCan Create Canoes",
 
-	"item.gtceu.deepslate_dust": "Migmatite Dust",
-	"item.gtceu.small_deepslate_dust": "Small Pile of Migmatite Dust",
-	"item.gtceu.tiny_deepslate_dust": "Tiny Pile of Migmatite Dust",
-	"item.gtceu.blackstone_dust": "Pyroxenite Dust",
-	"item.gtceu.small_blackstone_dust": "Small Pile of Pyroxenite Dust",
-	"item.gtceu.tiny_blackstone_dust": "Tiny Pile of Pyroxenite Dust",
-	"item.gtceu.netherrack_dust": "Keratophyre Dust",
-	"item.gtceu.small_netherrack_dust": "Small Pile of Keratophyre Dust",
-	"item.gtceu.tiny_netherrack_dust": "Tiny Pile of Keratophyre Dust",
+	"item.gtceu.coal_dust": "Coal Dust",
+	"item.gtceu.small_coal_dust": "Small Pile of Coal Dust",
+	"item.gtceu.tiny_coal_dust": "Tiny Pile of Coal Dust",
 
 	"item.gtceu.iron_ring": "Cast Iron Ring",
 	"item.gtceu.small_iron_gear": "Small Cast Iron Gear",
@@ -108,6 +102,6 @@
 	"item.gtceu.tool.iv_wrench": "%s Wrench (IV)",
 	"item.gtceu.tool.zpm_wrench": "%s Wrench (ZPM)",
 
-	"item.gtceu.tool.zpm_drill": "%s Drill (ZPM)",
-	
+	"item.gtceu.tool.zpm_drill": "%s Drill (ZPM)"
+
 }
