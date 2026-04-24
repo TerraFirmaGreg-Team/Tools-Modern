@@ -1,21 +1,28 @@
 {
     "item.railways.track_incomplete_create_andesite_wide": "Incomplete Wide Track",
     "item.railways.track_incomplete_create_andesite_narrow": "Incomplete Narrow Track",
-    "tfc.recipe.barrel.railways.barrel.dyeing.cap_decolor": "Decoloring",
-    "tfc.recipe.barrel.railways.barrel.dyeing.black_conductor_cap": "Dyeing",
-    "tfc.recipe.barrel.railways.barrel.dyeing.gray_conductor_cap": "Dyeing",
-    "tfc.recipe.barrel.railways.barrel.dyeing.light_conductor_gray_cap": "Dyeing",
-    "tfc.recipe.barrel.railways.barrel.dyeing.white_conductor_cap": "Dyeing",
-    "tfc.recipe.barrel.railways.barrel.dyeing.pink_conductor_cap": "Dyeing",
-    "tfc.recipe.barrel.railways.barrel.dyeing.magenta_conductor_cap": "Dyeing",
-    "tfc.recipe.barrel.railways.barrel.dyeing.purple_conductor_cap": "Dyeing",
-    "tfc.recipe.barrel.railways.barrel.dyeing.blue_conductor_cap": "Dyeing",
-    "tfc.recipe.barrel.railways.barrel.dyeing.light_conductor_blue_cap": "Dyeing",
-    "tfc.recipe.barrel.railways.barrel.dyeing.cyan_conductor_cap": "Dyeing",
-    "tfc.recipe.barrel.railways.barrel.dyeing.green_conductor_cap": "Dyeing",
-    "tfc.recipe.barrel.railways.barrel.dyeing.lime_conductor_cap": "Dyeing",
-    "tfc.recipe.barrel.railways.barrel.dyeing.yellow_conductor_cap": "Dyeing",
-    "tfc.recipe.barrel.railways.barrel.dyeing.orange_conductor_cap": "Dyeing",
-    "tfc.recipe.barrel.railways.barrel.dyeing.red_conductor_cap": "Dyeing",
-    "tfc.recipe.barrel.railways.barrel.dyeing.brown_conductor_cap": "Dyeing"
+
+    "item.railways.track_incomplete_blackstone_narrow": "Narrow Incomplete Pyroxenite Track",
+    "item.railways.track_incomplete_blackstone": "Incomplete Pyroxenite Track",
+    "item.railways.track_incomplete_blackstone_wide": "Wide Incomplete Pyroxenite Track",
+
+    "item.railways.track_incomplete_acacia_narrow": "Narrow Incomplete Baobab Track",
+    "item.railways.track_incomplete_acacia": "Incomplete Baobab Track",
+    "item.railways.track_incomplete_acacia_wide": "Wide Incomplete Baobab Track",
+
+    "item.railways.track_incomplete_birch_narrow": "Narrow Incomplete Eucalyptus Track",
+    "item.railways.track_incomplete_birch": "Incomplete Eucalyptus Track",
+    "item.railways.track_incomplete_birch_wide": "Wide Incomplete Eucalyptus Track",
+
+    "item.railways.track_incomplete_cherry_narrow": "Narrow Incomplete Fig Track",
+    "item.railways.track_incomplete_cherry": "Incomplete Fig Track",
+    "item.railways.track_incomplete_cherry_wide": "Wide Incomplete Fig Track",
+
+    "item.railways.track_incomplete_jungle_narrow": "Narrow Incomplete Teak Track",
+    "item.railways.track_incomplete_jungle": "Incomplete Teak Track",
+    "item.railways.track_incomplete_jungle_wide": "Wide Incomplete Teak Track",
+
+    "item.railways.track_incomplete_spruce_narrow": "Narrow Incomplete Cypress Track",
+    "item.railways.track_incomplete_spruce": "Incomplete Cypress Track",
+    "item.railways.track_incomplete_spruce_wide": "Wide Incomplete Cypress Track"
 }
