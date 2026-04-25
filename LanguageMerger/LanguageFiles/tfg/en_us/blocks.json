@@ -564,6 +564,8 @@
 	"block.tfg.mushroom_roots": "Mushroom Roots",
 	"block.tfg.mushroom_sprouts": "Mushroom Sprouts",
 	"block.tfg.charred_log": "Charred Log",
+	"block.tfg.pale_moss_block": "Pale Moss Block",
+	"block.tfg.pale_moss_carpet": "Pale Moss Carpet",
 
 	"block.tfg.ash_pile": "Wood Ash Pile",
 	"block.tfg.pile.white_sand": "White Sand",
@@ -760,6 +762,9 @@
 	"block.tfg.plant.flame_vine": "Flame Vine",
 	"block.tfg.plant.cycad_plant": "Cycad",
 	"block.tfg.plant.cycad": "Cycad",
+	"block.tfg.plant.eyeblossom": "White Baneberry",
+	"block.tfg.plant.pale_hanging_moss_plant": "Woolly Moss",
+	"block.tfg.plant.pale_hanging_moss": "Woolly Moss",
 
 	"block.tfg.casings.machine_casing_iron_desh": "Desh Machine Casing",
 	"block.tfg.casings.machine_casing_stainless_evaporation": "Stainless Evaporation Machine Casing",
