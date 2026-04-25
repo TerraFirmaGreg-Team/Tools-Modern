@@ -669,6 +669,12 @@
 	"block.tfg.saplings.aeronos": "Aeronos Mushroom",
 	"block.tfg.saplings.strophar": "Strophar Mushroom",
 	"block.tfg.saplings.glacian": "Glacian Mushroom",
+	"block.tfg.fake_sapling.crimson": "Crimson Fungus",
+	"block.tfg.fake_sapling.warped": "Warped Fungus",
+	"block.tfg.fake_sapling.alphacene": "Alphacene Mushroom",
+	"block.tfg.fake_sapling.aeronos": "Aeronos Mushroom",
+	"block.tfg.fake_sapling.strophar": "Strophar Mushroom",
+	"block.tfg.fake_sapling.glacian": "Glacian Mushroom",
 	"block.tfg.groundcover.glider_feather": "Glider Feather",
 	"block.tfg.groundcover.wraptor_feather": "Wraptor Feather",
 	"block.tfg.groundcover.aeronos_stick": "Aeronos Twig",
@@ -903,7 +909,7 @@
 	"block.tfg.glass.smooth_purple_stained_glass": "Smooth Purple Stained Glass",
 	"block.tfg.glass.smooth_magenta_stained_glass": "Smooth Magenta Stained Glass",
 	"block.tfg.glass.smooth_pink_stained_glass": "Smooth Pink Stained Glass",
-	
+
 	"block.tfg.titanium_concrete": "Titanium-Rebar Concrete",
 	"block.tfg.polished_titanium_concrete": "Polished Titanium-Rebar Concrete",
 	"block.tfg.titanium_concrete_tile": "Titanium-Rebar Concrete Tile",
