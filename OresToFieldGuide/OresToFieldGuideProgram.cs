@@ -1,12 +1,8 @@
-﻿using System.Drawing;
-using System.Reflection.PortableExecutable;
-using System.Text;
+﻿using System.Text;
 using System.Text.Encodings.Web;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using Common;
-using OfficeOpenXml;
-using OfficeOpenXml.Style;
 
 namespace OresToFieldGuide
 {
@@ -73,7 +69,8 @@ namespace OresToFieldGuide
 
 			// 6) Generate spreadsheet
 
-			ExportSpreadsheet();
+			var spreadsheet = new Spreadsheet(m_veinDict, m_rockDict, m_oreDict, m_translations);
+			spreadsheet.Export(m_arguments.DataFolder);
 		}
 
 		private void DeserializeData<T>(string subDir, Dictionary<string, T> dict) where T : IDataJsonObject
@@ -798,134 +795,5 @@ namespace OresToFieldGuide
 			ConsoleLogHelper.WriteLine("Exported tags!", LogLevel.Info);
 		}
 
-		private void ExportSpreadsheet()
-		{
-			var doc = new ExcelPackage();
-
-			var greenStyle = doc.Workbook.Styles.CreateNamedStyle("greenStyle");
-			greenStyle.Style.Fill.PatternType = ExcelFillStyle.Solid;
-			greenStyle.Style.Fill.BackgroundColor.SetColor(Color.FromKnownColor(KnownColor.LightGreen));
-
-			var redStyle = doc.Workbook.Styles.CreateNamedStyle("redStyle");
-			redStyle.Style.Fill.PatternType = ExcelFillStyle.Solid;
-			redStyle.Style.Fill.BackgroundColor.SetColor(Color.FromKnownColor(KnownColor.LightPink));
-
-			foreach ((var dimension, var veins) in m_veinDict)
-			{
-				var rocks = veins.SelectMany(v => v.Rocks).Distinct().Order().ToList();
-
-				var sheet = doc.Workbook.Worksheets.Add(dimension.ID);
-				(int oreColumnIndex, int rockColumnIndex) = SetUpSheet(sheet, rocks);
-
-				int row = 2;
-				foreach (var vein in veins)
-				{
-					sheet.Cells[row, 1].Value = vein.ID;
-					sheet.Cells[row, 2].Value = vein.Type;
-					sheet.Cells[row, 3].Value = vein.Config.Rarity;
-					sheet.Cells[row, 4].Value = vein.Config.Density;
-					sheet.Cells[row, 5].Value = vein.Config.MinY;
-					sheet.Cells[row, 6].Value = vein.Config.MaxY;
-
-					if (vein.Type is "tfc:cluster_vein" or "tfc:disc_vein")
-					{
-						sheet.Cells[row, 7].Value = vein.Config.Size;
-					}
-					if (vein.Type is "tfc:disc_vein" or "tfc:pipe_vein")
-					{
-						sheet.Cells[row, 8].Value = vein.Config.Height;
-					}
-					if (vein.Type is "tfc:pipe_vein")
-					{
-						sheet.Cells[row, 9].Value = vein.Config.Radius;
-					}
-
-					int column = oreColumnIndex;
-					foreach (var ore in vein.Ores)
-					{
-						string oreStr = $"{ore.OreID}: {ore.Weight}";
-						if (ore.FullBlockWeight != null)
-						{
-							oreStr += $" [{ore.FullBlockWeight}]";
-						}
-
-						sheet.Cells[row, column++].Value = oreStr;
-					}
-
-					column = rockColumnIndex;
-					foreach (var rock in rocks)
-					{
-						bool contains = vein.Rocks.Contains(rock);
-
-						if (contains)
-						{
-							sheet.Cells[row, column].StyleName = "greenStyle";
-							sheet.Cells[row, column].Value = "✔️";
-						}
-						else
-						{
-							sheet.Cells[row, column].StyleName = "redStyle";
-							sheet.Cells[row, column].Value = " ";
-						}
-
-						column++;
-					}
-
-					row++;
-				}
-
-				for (int i = 1; i < rockColumnIndex + m_rockDict.Count; i++)
-				{
-					sheet.Column(i).AutoFit();
-				}
-			}
-
-			using var outStream = new FileStream(Path.Combine(m_arguments.DataFolder, "sheet.xlsx"), FileMode.Create);
-			doc.SaveAs(outStream);
-			doc.Dispose();
-
-			ConsoleLogHelper.WriteLine("Exported spreadsheet!", LogLevel.Info);
-		}
-
-		private (int oreColumnIndex, int rockColumnIndex) SetUpSheet(ExcelWorksheet sheet, IEnumerable<string> rocks)
-		{
-			int oreColumnIndex, rockColumnIndex;
-
-			int column = 1;
-			sheet.Cells[1, column++].Value = "Vein ID";
-			sheet.Cells[1, column++].Value = "Type";
-			sheet.Cells[1, column++].Value = "Rarity";
-			sheet.Cells[1, column++].Value = "Density";
-			sheet.Cells[1, column++].Value = "Min Y";
-			sheet.Cells[1, column++].Value = "Max Y";
-			sheet.Cells[1, column++].Value = "Size";
-			sheet.Cells[1, column++].Value = "Height";
-			sheet.Cells[1, column++].Value = "Radius";
-
-			oreColumnIndex = column;
-			sheet.Cells[1, column].Value = "Ores";
-			column += m_veinDict.Values.SelectMany(x => x).Select(vein => vein.Ores.Length).Max();
-
-			rockColumnIndex = column;
-			foreach (var rock in rocks)
-			{
-				sheet.Cells[1, column++].Value = rock;
-			}
-
-			// Format as text
-			sheet.Cells.Style.Numberformat.Format = "@";
-
-			// Set alignment
-			sheet.Cells.Style.HorizontalAlignment = ExcelHorizontalAlignment.Left;
-			sheet.Cells.Style.VerticalAlignment = ExcelVerticalAlignment.Top;
-
-			// Make the first row bold
-			sheet.Row(1).Style.Font.Bold = true;
-
-			// And freeze it
-			sheet.View.FreezePanes(2, 1);
-
-			return (oreColumnIndex, rockColumnIndex);
-		}
 	}
 }
