@@ -260,5 +260,9 @@
 
     "quests.metal_age.copper_anvil.title": "T1 Anvil: Copper",
     "quests.metal_age.copper_anvil.subtitle": "It's all been building up to this!",
-    "quests.metal_age.copper_anvil.desc": "Congratulations! You've officially finished the Stone Age and entered the Metallurgy Age! With your Copper Anvil, the next step is to climb up the Anvil Tiers, and each time you unlock a new Tier, new tools and possibilities will be available to make your life progressively easier. Now go and become a master smith!"
+    "quests.metal_age.copper_anvil.desc": "Congratulations! You've officially finished the Stone Age and entered the Metallurgy Age! With your Copper Anvil, the next step is to climb up the Anvil Tiers, and each time you unlock a new Tier, new tools and possibilities will be available to make your life progressively easier. Now go and become a master smith!",
+
+    "quests.stone_age.snowshoes.title": "Snowshoes",
+    "quests.stone_age.snowshoes.subtitle": "Nothing's gonna slow you down",
+    "quests.stone_age.snowshoes.desc": "Tired of snow making your movement sluggish?\n\nEquip these &aSnowshoes&r and you'll completely ignore any movement penalties from walking in snow. They prevent you falling into powdered snow too!"
 }
