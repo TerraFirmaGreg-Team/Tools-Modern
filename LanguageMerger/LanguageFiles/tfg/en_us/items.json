@@ -510,5 +510,11 @@
 
     "item.tfg.food.lavacado": "Lavacado",
     "item.tfg.food.magmango": "Magmango",
-    "item.tfg.food.freeze_dried.magmango": "Freeze Dried Magmango"
+    "item.tfg.food.freeze_dried.magmango": "Freeze Dried Magmango",
+
+	"item.tfg.estrogen_pill": "Estrogen Pill",
+	"item.tfg.estrogen_tablet": "Estrogen Tablet",
+	"item.tfg.testosterone_pill": "Testosterone Pill",
+	"item.tfg.testosterone_tablet": "Testosterone Tablet",
+	"item.tfg.androgenic_tissue": "Androgenic Tissue"
 }

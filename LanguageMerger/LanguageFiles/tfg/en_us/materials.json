@@ -367,6 +367,12 @@
 	"material.tfg.chloropropylamine": "Chloropropylamine",
 	"material.tfg.silicon_carbide_silicon_carbide": "SiC-SiC",
 	"material.tfg.3_aminopropyltriethoxysilane": "3-Aminopropyltriethoxysilane",
-	"material.tfg.3_chloropropylamine": "3-Chloropropylamine"
+	"material.tfg.3_chloropropylamine": "3-Chloropropylamine",
 
+	"material.tfg.crystalline_equilin": "Crystalline Equilin",
+	"material.tfg.crystalline_testosterone": "Crystalline Testosterone",
+	"material.tfg.testosterone_lipid_concentrate": "Testosterone Lipid Concentrate",
+	"material.tfg.testosterone_suspension": "Testosterone Suspension",
+	"material.tfg.equilin_solution": "Equilin Solution",
+	"material.tfg.estrogen_sulfate_concentrate": "Estrogen Sulfate Concentrate"
 }
