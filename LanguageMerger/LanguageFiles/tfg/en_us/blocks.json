@@ -1400,5 +1400,11 @@
 	"block.tfg.wood.rope_ladder.tualang": "Tualang Rope Ladder",
 	"block.tfg.wood.rope_ladder.warped": "Warped Rope Ladder",
 	"block.tfg.wood.rope_ladder.white_cedar": "White Cedar Rope Ladder",
-	"block.tfg.wood.rope_ladder.willow": "Willow Rope Ladder"
+	"block.tfg.wood.rope_ladder.willow": "Willow Rope Ladder",
+
+	"block.tfg.asphalt_road": "Asphalt Road",
+	"block.tfg.asphalt_road_hot": "Hot Asphalt Road",
+	"block.tfg.asphalt_road_pouring": "Asphalt Mixture (Poured)",
+	"block.tfg.asphalt_road_stairs": "Asphalt Road Stairs",
+	"block.tfg.asphalt_road_slab": "Asphalt Road Slab"
 }
