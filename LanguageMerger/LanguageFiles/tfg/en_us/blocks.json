@@ -510,9 +510,10 @@
 
 	"block.tfg.rock.aragonite": "Aragonite",
 	"block.tfg.rock.bricks_aragonite": "Aragonite Bricks",
+	"block.tfg.rock.polished_aragonite": "Polished Aragonite",
 	"block.tfg.rock.chiseled_aragonite": "Chiseled Aragonite",
 	"block.tfg.rock.aragonite_stairs": "Aragonite Stairs",
-	"block.tfg.rock.aragonite_bricks_stairs": "Aragonite Brick Stairs",
+	"block.tfg.rock.bricks_aragonite_stairs": "Aragonite Brick Stairs",
 	"block.tfg.rock.polished_aragonite_stairs": "Polished Aragonite Stairs",
 	"block.tfg.rock.aragonite_slab": "Aragonite Slab",
 	"block.tfg.rock.bricks_aragonite_slab": "Aragonite Brick Slab",
@@ -523,9 +524,10 @@
 
 	"block.tfg.rock.glauberite": "Glauberite",
 	"block.tfg.rock.bricks_glauberite": "Glauberite Bricks",
+	"block.tfg.rock.polished_glauberite": "Polished Glauberite",
 	"block.tfg.rock.chiseled_glauberite": "Chiseled Glauberite",
 	"block.tfg.rock.glauberite_stairs": "Glauberite Stairs",
-	"block.tfg.rock.glauberite_bricks_stairs": "Glauberite Brick Stairs",
+	"block.tfg.rock.bricks_glauberite_stairs": "Glauberite Brick Stairs",
 	"block.tfg.rock.polished_glauberite_stairs": "Polished Glauberite Stairs",
 	"block.tfg.rock.glauberite_slab": "Glauberite Slab",
 	"block.tfg.rock.bricks_glauberite_slab": "Glauberite Brick Slab",
