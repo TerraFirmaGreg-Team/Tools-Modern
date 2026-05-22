@@ -508,6 +508,34 @@
 	"block.tfg.stromatolite_cluster_small": "Small Stromatolite Cluster",
 	"block.tfg.stromatolite_cluster_medium": "Large Stromatolite Cluster",
 
+	"block.tfg.rock.aragonite": "Aragonite",
+	"block.tfg.rock.bricks_aragonite": "Aragonite Bricks",
+	"block.tfg.rock.polished_aragonite": "Polished Aragonite",
+	"block.tfg.rock.chiseled_aragonite": "Chiseled Aragonite",
+	"block.tfg.rock.aragonite_stairs": "Aragonite Stairs",
+	"block.tfg.rock.bricks_aragonite_stairs": "Aragonite Brick Stairs",
+	"block.tfg.rock.polished_aragonite_stairs": "Polished Aragonite Stairs",
+	"block.tfg.rock.aragonite_slab": "Aragonite Slab",
+	"block.tfg.rock.bricks_aragonite_slab": "Aragonite Brick Slab",
+	"block.tfg.rock.polished_aragonite_slab": "Polished Aragonite Slab",
+	"block.tfg.rock.aragonite_wall": "Aragonite Wall",
+	"block.tfg.rock.bricks_aragonite_wall": "Aragonite Brick Wall",
+	"block.tfg.rock.polished_aragonite_wall": "Polished Aragonite Wall",
+
+	"block.tfg.rock.glauberite": "Glauberite",
+	"block.tfg.rock.bricks_glauberite": "Glauberite Bricks",
+	"block.tfg.rock.polished_glauberite": "Polished Glauberite",
+	"block.tfg.rock.chiseled_glauberite": "Chiseled Glauberite",
+	"block.tfg.rock.glauberite_stairs": "Glauberite Stairs",
+	"block.tfg.rock.bricks_glauberite_stairs": "Glauberite Brick Stairs",
+	"block.tfg.rock.polished_glauberite_stairs": "Polished Glauberite Stairs",
+	"block.tfg.rock.glauberite_slab": "Glauberite Slab",
+	"block.tfg.rock.bricks_glauberite_slab": "Glauberite Brick Slab",
+	"block.tfg.rock.polished_glauberite_slab": "Polished Glauberite Slab",
+	"block.tfg.rock.glauberite_wall": "Glauberite Wall",
+	"block.tfg.rock.bricks_glauberite_wall": "Glauberite Brick Wall",
+	"block.tfg.rock.polished_glauberite_wall": "Polished Glauberite Wall",
+
 	"block.tfg.rock.raw.geyserite": "Raw Geyserite",
 	"block.tfg.rock.spike.geyserite": "Geyserite Spike",
 	"block.tfg.geyser_source_small": "Small Steaming Geyser",
@@ -765,6 +793,7 @@
 	"block.tfg.plant.eyeblossom": "White Baneberry",
 	"block.tfg.plant.pale_hanging_moss_plant": "Woolly Moss",
 	"block.tfg.plant.pale_hanging_moss": "Woolly Moss",
+	"block.tfg.plant.wither_rose": "Black Datura",
 
 	"block.tfg.casings.machine_casing_iron_desh": "Desh Machine Casing",
 	"block.tfg.casings.machine_casing_stainless_evaporation": "Stainless Evaporation Machine Casing",
@@ -1071,6 +1100,7 @@
 	"block.tfg.fruit_trees.magmango_branch": "Magmango Branch",
 	"block.tfg.fruit_trees.magmango_growing_branch": "Magmango Branch",
 	"block.tfg.fruit_trees.magmango_leaves": "Magmango Leaves",
+	"block.tfg.fly_agaric": "Fly Agaric",
 
 	"block.tfg.wood.log_fence.aeronos": "Aeronos Log Fence",
 	"block.tfg.wood.tool_rack.aeronos": "Aeronos Tool Rack",
@@ -1400,5 +1430,11 @@
 	"block.tfg.wood.rope_ladder.tualang": "Tualang Rope Ladder",
 	"block.tfg.wood.rope_ladder.warped": "Warped Rope Ladder",
 	"block.tfg.wood.rope_ladder.white_cedar": "White Cedar Rope Ladder",
-	"block.tfg.wood.rope_ladder.willow": "Willow Rope Ladder"
+	"block.tfg.wood.rope_ladder.willow": "Willow Rope Ladder",
+
+	"block.tfg.asphalt_road": "Asphalt Road",
+	"block.tfg.asphalt_road_hot": "Hot Asphalt Road",
+	"block.tfg.asphalt_road_pouring": "Asphalt Mixture (Poured)",
+	"block.tfg.asphalt_road_stairs": "Asphalt Road Stairs",
+	"block.tfg.asphalt_road_slab": "Asphalt Road Slab"
 }

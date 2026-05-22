@@ -20,5 +20,8 @@
 	"entity.tfg.bison": "Bison",
 	"entity.tfg.mongoose": "Mongoose",
 	"entity.tfg.jerboa": "Jerboa",
-	"entity.tfg.lemming": "Lemming"
+	"entity.tfg.lemming": "Lemming",
+	"entity.tfg.fox": "Fox",
+	"entity.tfg.fox.female": "Fox",
+	"entity.tfg.fox.male": "Fox"
 }
