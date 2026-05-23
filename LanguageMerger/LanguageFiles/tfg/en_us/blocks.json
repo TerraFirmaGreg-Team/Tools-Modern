@@ -1436,5 +1436,30 @@
 	"block.tfg.asphalt_road_hot": "Hot Asphalt Road",
 	"block.tfg.asphalt_road_pouring": "Asphalt Mixture (Poured)",
 	"block.tfg.asphalt_road_stairs": "Asphalt Road Stairs",
-	"block.tfg.asphalt_road_slab": "Asphalt Road Slab"
+	"block.tfg.asphalt_road_slab": "Asphalt Road Slab",
+
+
+	"block.tfg.girder.beam.tin_alloy": "Tin Alloy Girder",
+	"block.tfg.girder.beam.brass": "Brass Girder",
+	"block.tfg.girder.beam.wrought_iron": "Wrought Iron Girder",
+	"block.tfg.girder.beam.copper": "Copper Girder",
+	"block.tfg.girder.beam.zinc": "Zinc Girder",
+	"block.tfg.girder.truss.tin_alloy": "Tin Alloy Truss",
+	"block.tfg.girder.truss.brass": "Brass Truss",
+	"block.tfg.girder.truss.wrought_iron": "Wrought Iron Truss",
+	"block.tfg.girder.truss.copper": "Copper Truss",
+	"block.tfg.girder.truss.steel": "Metal Truss",
+	"block.tfg.girder.truss.zinc": "Zinc Truss",
+	"block.tfg.strut.beam.tin_alloy": "Tin Alloy Girder Strut",
+	"block.tfg.strut.beam.brass": "Brass Girder Strut",
+	"block.tfg.strut.beam.wrought_iron": "Wrought Iron Girder Strut",
+	"block.tfg.strut.beam.copper": "Copper Girder Strut",
+	"block.tfg.strut.beam.steel": "Metal Girder Strut",
+	"block.tfg.strut.beam.zinc": "Zinc Girder Strut",
+	"block.tfg.strut.truss.tin_alloy": "Tin Alloy Truss Strut",
+	"block.tfg.strut.truss.brass": "Brass Truss Strut",
+	"block.tfg.strut.truss.wrought_iron": "Wrought Iron Truss Strut",
+	"block.tfg.strut.truss.copper": "Copper Truss Strut",
+	"block.tfg.strut.truss.steel": "Metal Truss Strut",
+	"block.tfg.strut.truss.zinc": "Zinc Truss Strut"
 }
