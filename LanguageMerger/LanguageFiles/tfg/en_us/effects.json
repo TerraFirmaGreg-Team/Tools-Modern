@@ -14,5 +14,12 @@
   "effect.tfg.radioactive_warning": "Irradiated",
   "effect.tfg.silicosis_warning": "Silicosis",
   "effect.tfg.warming": "§6Warming",
-  "effect.tfg.weak_poison_warning": "Weakly Poisonous Material"
+  "effect.tfg.weak_poison_warning": "Weakly Poisonous Material",
+  "effect.tfg.freezing": "§9Freezing",
+  "effect.tfg.blazing": "§cBlazing",
+  "effect.tfg.quenched": "Quenched",
+  "effect.tfg.final_moments": "§dFinal Moments",
+  "effect.tfg.cure_toxins": "Detoxify",
+  "effect.tfg.cure_parasites": "Cure Parasites",
+  "effect.tfg.cure_microplastics": "Filter Microplastics"
 }
