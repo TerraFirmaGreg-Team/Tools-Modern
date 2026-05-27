@@ -498,13 +498,13 @@
     "item.tfg.lentil_product": "Lentils",
     "item.tfg.food.cooked_lentil": "Cooked Lentils",
     "item.tfg.food.cooked_cassava": "Cooked Cassava",
-    "item.tfg.food.cooked_beans": "Cooked Beans",
+    "item.tfg.food.cooked_beans": "Cooked Blackstone Beans",
     "item.tfg.cucumber_seeds": "Cucumber Seeds",
     "item.tfg.cucumber_product": "Cucumber",
     "item.tfg.radish_seeds": "Radish Seeds",
     "item.tfg.radish_product": "Radish",
-    "item.tfg.beans_seeds": "Bean Seeds",
-    "item.tfg.beans_product": "Beans",
+    "item.tfg.beans_seeds": "Blackstone Bean Seeds",
+    "item.tfg.beans_product": "Blackstone Beans",
     "item.tfg.ghost_pepper_seeds": "Ghost Pepper Seeds",
     "item.tfg.ghost_pepper_product": "Ghost Pepper",
 
@@ -512,6 +512,7 @@
     "item.tfg.food.magmango": "Magmango",
     "item.tfg.food.freeze_dried.magmango": "Freeze Dried Magmango",
     "item.tfg.food.fly_agaric": "Fly Agaric",
+    "item.tfg.food.crude_gelatin": "Crude Gelatin",
 
 	"item.tfg.tar_chunk": "Tar Chunk",
 	"item.tfg.asphalt_binder": "Asphalt Binder",
@@ -555,5 +556,10 @@
     "item.tfg.jar.shadow_berry": "Nox Berry Jam",
     "item.tfg.jar.shadow_berry_unsealed": "Nox Berry Jam",
     "item.tfg.jar.magmango": "Magmango Jam",
-    "item.tfg.jar.magmango_unsealed": "Magmango Jam"
+    "item.tfg.jar.magmango_unsealed": "Magmango Jam",
+
+    "item.tfg.empty_capsule": "Empty Capsule",
+    "item.tfg.parasiticide_capsule": "Parasiticide Capsule",
+    "item.tfg.detox_capsule": "Detox Capsule",
+    "item.tfg.nanofiltration_capsule": "Nanofiltration Capsule"
 }

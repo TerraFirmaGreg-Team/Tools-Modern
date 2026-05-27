@@ -326,6 +326,11 @@
     "quests.tfg_tips.tablets.desc": "While more difficult to craft than regular pills, requiring either the &3Greate Mechanical Mixer&r or the &3GT Mixer&r, &dTablets&r last considerably longer.",
     "quests.tfg_tips.tablets.task": "Any Tablet",
 
+    "quests.tfg_tips.capsules.title": "Medicine: Capsules",
+    "quests.tfg_tips.capsules.subtitle": "Is... it a suppository?",
+    "quests.tfg_tips.capsules.desc": "Capsules are your direct access to treating &dContaminants&r built up from eating too many things you weren't supposed to. While &5Toxins&r and &3Microplastics&r decrease naturally overtime it may be more advantageous for you to take a quick cure. Its important to note that capsules are locked behind &7LV&r machines. If you have not reached that point you should look out for more homeopathic remedies like teas.\nThe following effects are used to cure contaminants:\n - &9Detoxify ⌚&r\n - &9Cure Parasites ⌚&r\n - &9Filter Microplastics ⌚&r\n\n You can read more about contaminants in the field guide.",
+    "quests.tfg_tips.capsules.task": "Any Capsule",
+
     "quests.tfg_tips.salvo.title": "Medicine: Salves",
     "quests.tfg_tips.salvo.subtitle": "Apply directly to the forehead",
     "quests.tfg_tips.salvo.desc": "A &dSalve&r is another type of medicine, usually applied on the skin. These provide a different set of effects compared to &aPills&r and &aTablets&r, such as &cFire Resistance&r and &4Instant Health&r, but require relatively complex chemistry.",
