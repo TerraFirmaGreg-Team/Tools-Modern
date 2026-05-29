@@ -318,6 +318,16 @@
 	"tfg.emi.fluid_veins.heavy_oil_common": "Poor Heavy Oil Deposit",
 	"tfg.emi.fluid_veins.natural_gas_common": "Poor Natural Gas Deposit",
 
+	"tfg.emi.fluid_veins.oil_normal": "Normal Oil Deposit",
+	"tfg.emi.fluid_veins.light_oil_normal": "Normal Light Oil Deposit",
+
+	"tfg.emi.fluid_veins.light_oil_shore": "Shoreline Light Oil Deposit",
+	"tfg.emi.fluid_veins.heavy_oil_spout_dry": "Desert Heavy Oil Deposit",
+	"tfg.emi.fluid_veins.raw_oil_spout_sandstone": "Badlands Raw Oil Deposit",
+	"tfg.emi.fluid_veins.natural_gas_swamp": "Swamp Natural Gas Deposit",
+	"tfg.emi.fluid_veins.natural_gas_permafrost": "Permafrost Natural Gas Deposit",
+	"tfg.emi.fluid_veins.natural_gas_volcanic": "Volcanic Natural Gas Deposit",
+
 	"tfg.emi.fluid_veins.oil_spout_hot": "Rich Oil Deposit",
 	"tfg.emi.fluid_veins.raw_oil_spout_hot": "Rich Raw Oil Deposit",
 	"tfg.emi.fluid_veins.light_oil_spout_hot": "Rich Light Oil Deposit",
@@ -327,9 +337,9 @@
 	"tfg.emi.fluid_veins.lava_mountain": "Mountain Magma Deposit",
 	"tfg.emi.fluid_veins.lava_volcanic": "Volcanic Magma Deposit",
 
-	"tfg.emi.fluid_veins.oil_spout_ocean": "Oceanic Oil Deposit",
-	"tfg.emi.fluid_veins.raw_oil_spout_ocean": "Oceanic Raw Oil Deposit",
-	"tfg.emi.fluid_veins.light_oil_spout_ocean": "Oceanic Light Oil Deposit",
+	"tfg.emi.fluid_veins.oil_spill_ocean": "Oceanic Oil Deposit",
+	"tfg.emi.fluid_veins.raw_oil_spill_ocean": "Oceanic Raw Oil Deposit",
+	"tfg.emi.fluid_veins.light_oil_spill_ocean": "Oceanic Light Oil Deposit",
 	"tfg.emi.fluid_veins.heavy_oil_spout_ocean": "Oceanic Heavy Oil Deposit",
 	"tfg.emi.fluid_veins.natural_gas_ocean": "Oceanic Natural Gas Deposit",
 
