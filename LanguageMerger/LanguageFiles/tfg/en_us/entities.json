@@ -23,5 +23,8 @@
 	"entity.tfg.lemming": "Lemming",
 	"entity.tfg.fox": "Fox",
 	"entity.tfg.fox.female": "Fox",
-	"entity.tfg.fox.male": "Fox"
+	"entity.tfg.fox.male": "Fox",
+	"entity.tfg.slime": "Slime",
+	"entity.tfg.slime.female": "Slime",
+	"entity.tfg.slime.male": "Slime"
 }

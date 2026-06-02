@@ -561,5 +561,9 @@
     "item.tfg.empty_capsule": "Empty Capsule",
     "item.tfg.parasiticide_capsule": "Parasiticide Capsule",
     "item.tfg.detox_capsule": "Detox Capsule",
-    "item.tfg.nanofiltration_capsule": "Nanofiltration Capsule"
+    "item.tfg.nanofiltration_capsule": "Nanofiltration Capsule",
+
+    "item.tfg.slime.slime_ball.plant": "Plant Slime Ball",
+    "item.tfg.slime.slime_ball.glowberry": "Glowberry Slime Ball",
+    "item.tfg.slime.slime_ball.latex": "Latex Slime Ball"
 }

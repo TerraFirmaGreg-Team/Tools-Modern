@@ -10,5 +10,13 @@
     "tfc.enum.tfcwolfvariant.woods": "Variant: Woods",
 
     "tfg.tooltip.tamed_fox.variant.red": "Variant: Red",
-    "tfg.tooltip.tamed_fox.variant.snow": "Variant: Snow"
+    "tfg.tooltip.tamed_fox.variant.snow": "Variant: Snow",
+
+    "tfg.jade.product.slime": "Slime Ready!",
+    "tfg.tooltip.slime.variant.plant": "Variant: Plant",
+    "tfg.tooltip.slime.variant.glowberry": "Variant: Glowberry",
+    "tfg.tooltip.slime.variant.spring": "Variant: Spring",
+    "tfg.tooltip.slime.variant.ice": "Variant: Ice",
+    "tfg.tooltip.slime.variant.lava": "Variant: Lava",
+    "tfg.tooltip.slime.variant.latex": "Variant: Ice"
 }
