@@ -45,11 +45,11 @@
 
     "tfg.gui.cover.rotten_void_days": "Minimum days before spoilage",
 
-	"gui.tfgc.chromatic_select.title": "Select Chromatic Effect",
-	"gui.tfgc.chromatic_select.header": "§b§lCHROMATIC_SPRAY_INTERFACE",
-	"gui.tfgc.chromatic_select.subtitle": "§7Select active flux code",
-	"gui.tfgc.chromatic_select.code_type": "CODE_TYPE",
-	"gui.tfgc.chromatic_select.format": "&%1$s %2$s: %1$s",
-	"gui.tfgc.color_select.title": "Select Color",
-	"gui.tfgc.color_select.chromatic_btn": "§bChromatic Effects"
+	"gui.tfg.chromatic_select.title": "Select Chromatic Effect",
+	"gui.tfg.chromatic_select.header": "§b§lCHROMATIC_SPRAY_INTERFACE",
+	"gui.tfg.chromatic_select.subtitle": "§7Select active flux code",
+	"gui.tfg.chromatic_select.code_type": "CODE_TYPE",
+	"gui.tfg.chromatic_select.format": "&%1$s %2$s: %1$s",
+	"gui.tfg.color_select.title": "Select Color",
+	"gui.tfg.color_select.chromatic_btn": "§bChromatic Effects"
 }

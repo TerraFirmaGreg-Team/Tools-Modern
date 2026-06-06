@@ -126,8 +126,8 @@
     "tfg.machine.pastoral_engine.next_harvest_days": "  %s: %sd %sh",
     "tfg.machine.pastoral_engine.next_harvest_hours": "  %s: %sh",
 
-    "key.tfgc.spray_can_menu": "Open Spray Can Menu",
-    "key.categories.tfgc": "TerraFirmaGregCore",
+    "key.tfg.spray_can_menu": "Open Spray Can Menu",
+    "key.categories.tfg": "TerraFirmaGreg",
 
     "behaviour.paintspray.chameleon.status.color": "§7Mode: §f%s",
     "behaviour.paintspray.chameleon.status.solvent": "§7Mode: §dSolvent",
