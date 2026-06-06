@@ -124,5 +124,17 @@
     "tfg.machine.pastoral_engine.next_use": "Increase of Wear & Tear: %s / %s",
     "tfg.machine.pastoral_engine.next_harvest_title": "Next harvest:",
     "tfg.machine.pastoral_engine.next_harvest_days": "  %s: %sd %sh",
-    "tfg.machine.pastoral_engine.next_harvest_hours": "  %s: %sh"
+    "tfg.machine.pastoral_engine.next_harvest_hours": "  %s: %sh",
+
+    "key.tfgc.spray_can_menu": "Open Spray Can Menu",
+    "key.categories.tfgc": "TerraFirmaGregCore",
+
+    "behaviour.paintspray.chameleon.status.color": "§7Mode: §f%s",
+    "behaviour.paintspray.chameleon.status.solvent": "§7Mode: §dSolvent",
+    "behaviour.paintspray.chameleon.tooltip.current_color": "Current Color: %s",
+    "behaviour.paintspray.chameleon.tooltip.solvent": "Current: Solvent",
+    "behaviour.paintspray.chameleon.tooltip.info": "Scroll or use the Keybind to change color.",
+    "behaviour.paintspray.chameleon.tooltip.fluid": "§7Paint: %s / %s mB",
+    "behaviour.paintspray.chameleon.message.out_of_paint": "§cOut of Prismatic Paint!",
+    "behaviour.paintspray.solvent.short": "Solvent"
 }

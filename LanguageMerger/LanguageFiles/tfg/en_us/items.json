@@ -539,5 +539,9 @@
 
     "item.tfg.slime.slime_ball.plant": "Plant Slime Ball",
     "item.tfg.slime.slime_ball.glowberry": "Glowberry Slime Ball",
-    "item.tfg.slime.slime_ball.latex": "Latex Slime Ball"
+    "item.tfg.slime.slime_ball.latex": "Latex Slime Ball",
+
+    "item.tfgc.chameleon_spray_can": "Chameleon Spray Can",
+    "item.tfgc.prismatic_paint_bucket": "Prismatic Paint Bucket",
+    "item.tfgc.chameleon_spray_can.with_color": "%s (%s"
 }

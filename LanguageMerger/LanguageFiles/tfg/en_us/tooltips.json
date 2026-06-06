@@ -273,5 +273,17 @@
 	"tfg.tooltip.asphalt_road_hot.hazard": "Hot asphalt. Touching it burns.",
 	"tfg.tooltip.asphalt_mix.pouring": "Use %s mB on base course to pour.",
 	"tfg.tooltip.asphalt_mix.patch": "Sneak-use %s mB on base course to patch.",
-	"tfg.tooltip.asphalt_road_stencil.usage": "Use with a spray can in either hand."
+	"tfg.tooltip.asphalt_road_stencil.usage": "Use with a spray can in either hand.",
+
+    "tooltip.tfgc.chameleon_spray_can.color_mode.chromatic": "§7Color Mode: §%1$sChromatic (%1$s)",
+    "tooltip.tfgc.chameleon_spray_can.color_mode.standard": "§7Color Mode: §b%1$s",
+    "tooltip.tfgc.chameleon_spray_can.color_mode.clear": "§7Color Mode: §fClear",
+    "tooltip.tfgc.chameleon_spray_can.controls.header": "§eControls:",
+    "tooltip.tfgc.chameleon_spray_can.controls.paint_block": " §7• §fRight-Click Block §7- Paint a single block",
+    "tooltip.tfgc.chameleon_spray_can.controls.cycle_colors": " §7• §fShift + Scroll §7- Quickly cycle standard colors",
+    "tooltip.tfgc.chameleon_spray_can.controls.open_radial": " §7• §fPress Keybind or Shift Right-Click §7- Open Color Radial Selection Menu",
+    "tooltip.tfgc.chameleon_spray_can.features.header": "§bFeatures:",
+    "tooltip.tfgc.chameleon_spray_can.features.mass_paint_line1": " §7• §fMass Painting §7- Hold §eShift§7 while painting blocks to",
+    "tooltip.tfgc.chameleon_spray_can.features.mass_paint_line2": "   §7chain-paint connected surfaces of the same type.",
+    "tooltip.tfgc.chameleon_spray_can.features.discount": "   §aEnjoys a %1$d%% fluid discount during bulk operations."
 }
