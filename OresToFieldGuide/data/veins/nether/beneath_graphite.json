@@ -1,0 +1,48 @@
+{
+    "id": "beneath_graphite",
+    "dimension": "nether",
+    "type": "tfc:pipe_vein",
+    "biome_tag": "#tfg:nether/is_lava_floes",
+    "config": {
+        "rarity": 5,
+        "density": 0.22,
+        "min_y": 0,
+        "max_y": 80,
+        "height": 60,
+        "radius": 4,
+        "min_skew": 5,
+        "max_skew": 15,
+        "min_slant": 2,
+        "max_slant": 5,
+        "sign": 0.5
+    },
+    "ores": [
+        {
+            "ore": "graphite",
+            "weight": 16,
+            "block_weight": 1
+        },
+        {
+            "ore": "coal",
+            "weight": 4
+        },
+        {
+            "ore": "diamond",
+            "weight": 2
+        }
+    ],
+    "rocks": [
+        "blackstone",
+        "deepslate"
+    ],
+    "indicator": {
+        "rarity": 25,
+        "depth": 1
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Graphite, Coal & Diamond"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "beneath_tin",
+    "dimension": "nether",
+    "type": "tfc:cluster_vein",
+    "biome_tag": "#tfg:nether/is_decaying_caverns",
+    "config": {
+        "rarity": 10,
+        "density": 0.25,
+        "min_y": 140,
+        "max_y": 190,
+        "size": 25
+    },
+    "ores": [
+        {
+            "ore": "cassiterite",
+            "weight": 14,
+            "block_weight": 1
+        },
+        {
+            "ore": "tin",
+            "weight": 4
+        }
+    ],
+    "rocks": [
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble",
+        "slate",
+        "deepslate",
+        "dripstone",
+        "tuff",
+        "diorite"
+    ],
+    "indicator": {
+        "rarity": 18,
+        "depth": 1
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Cassiterite & Tin"
+        }
+    ]
+}

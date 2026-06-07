@@ -1,0 +1,54 @@
+{
+    "id": "beneath_quartz",
+    "dimension": "nether",
+    "type": "tfc:pipe_vein",
+    "biome_tag": "#tfg:nether/is_thorny_brambles",
+    "config": {
+        "rarity": 20,
+        "density": 0.22,
+        "min_y": 80,
+        "max_y": 140,
+        "height": 60,
+        "radius": 15,
+        "min_skew": 5,
+        "max_skew": 15,
+        "min_slant": 2,
+        "max_slant": 5,
+        "sign": 0.5
+    },
+    "ores": [
+        {
+            "ore": "quartzite",
+            "weight": 32,
+            "block_weight": 1
+        },
+        {
+            "ore": "barite",
+            "weight": 12
+        },
+        {
+            "ore": "zeolite",
+            "weight": 4
+        }
+    ],
+    "rocks": [
+        "schist",
+        "gneiss",
+        "tuff",
+        "deepslate",
+        "dripstone",
+        "diorite",
+        "gabbro",
+        "granite"
+    ],
+    "indicator": {
+        "rarity": 20,
+        "depth": 1
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Quartzite, Barite & Zeolite"
+        }
+    ]
+}

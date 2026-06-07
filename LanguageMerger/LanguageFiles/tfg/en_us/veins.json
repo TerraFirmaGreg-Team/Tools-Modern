@@ -43,6 +43,18 @@
 	"tfg.ore_vein_tag.venus.is_salt_flats": "Salt Flats Only",
 	"tfg.ore_vein_tag.venus.is_sulfuric": "Sulfuric Ravine Only",
 
+	"tfg.ore_vein_tag.nether.is_webbed_lair": "Webbed Lair",
+	"tfg.ore_vein_tag.nether.is_salt_caves": "Salt Caves",
+	"tfg.ore_vein_tag.nether.is_muggy_bog": "Muggy Bog",
+	"tfg.ore_vein_tag.nether.is_decaying_caverns": "Decaying Caverns",
+	"tfg.ore_vein_tag.nether.is_lush_hollow": "Lush Hollow",
+	"tfg.ore_vein_tag.nether.is_geothermal_springs": "Geothermal Springs",
+	"tfg.ore_vein_tag.nether.is_tar_pools": "Tar Pools",
+	"tfg.ore_vein_tag.nether.is_thorny_brambles": "Thorny Brambles",
+	"tfg.ore_vein_tag.nether.is_lava_floes": "Lava Floes",
+	"tfg.ore_vein_tag.nether.is_ash_forest": "Ash Forest",
+	"tfg.ore_vein_tag.nether.is_basalt_deltas": "Basalt Deltas",
+
 	"tfg.ore_vein_suffix.deep": "(Deep)",
 	"tfg.ore_vein_suffix.large": "(Large)",
 	"tfg.ore_vein_suffix.volcanic": "(Volcanic)",

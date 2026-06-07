@@ -1,0 +1,49 @@
+{
+    "id": "beneath_lead_silver",
+    "dimension": "nether",
+    "type": "tfc:cluster_vein",
+    "biome_tag": "#tfg:nether/is_salt_caves",
+    "config": {
+        "rarity": 15,
+        "density": 0.22,
+        "min_y": 140,
+        "max_y": 190,
+        "size": 27
+    },
+    "ores": [
+        {
+            "ore": "galena",
+            "weight": 24,
+            "block_weight": 1
+        },
+        {
+            "ore": "silver",
+            "weight": 12
+        },
+        {
+            "ore": "lead",
+            "weight": 6
+        }
+    ],
+    "rocks": [
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble",
+        "slate",
+        "deepslate",
+        "dripstone",
+        "tuff",
+        "diorite"
+    ],
+    "indicator": {
+        "rarity": 18,
+        "depth": 1
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Galena, Silver & Lead"
+        }
+    ]
+}

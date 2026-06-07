@@ -1,0 +1,45 @@
+{
+    "id": "beneath_coal_anthracite",
+    "dimension": "nether",
+    "type": "tfc:cluster_vein",
+    "biome_tag": "#tfg:nether/is_decaying_caverns",
+    "config": {
+        "rarity": 5,
+        "density": 0.25,
+        "min_y": 140,
+        "max_y": 190,
+        "size": 27
+    },
+    "ores": [
+        {
+            "ore": "anthracite",
+            "weight": 60,
+            "block_weight": 1
+        },
+        {
+            "ore": "graphite",
+            "weight": 20
+        }
+    ],
+    "rocks": [
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble",
+        "slate",
+        "deepslate",
+        "dripstone",
+        "tuff",
+        "diorite"
+    ],
+    "indicator": {
+        "rarity": 18,
+        "depth": 1
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Anthracite & Graphite"
+        }
+    ]
+}

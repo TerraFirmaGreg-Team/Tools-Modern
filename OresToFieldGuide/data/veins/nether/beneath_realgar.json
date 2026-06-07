@@ -1,0 +1,48 @@
+{
+    "id": "beneath_realgar",
+    "dimension": "nether",
+    "type": "tfc:cluster_vein",
+    "biome_tag": "#tfg:nether/is_geothermal_springs",
+    "config": {
+        "rarity": 20,
+        "density": 0.25,
+        "min_y": 80,
+        "max_y": 140,
+        "size": 23
+    },
+    "ores": [
+        {
+            "ore": "realgar",
+            "weight": 24,
+            "block_weight": 1
+        },
+        {
+            "ore": "stibnite",
+            "weight": 12
+        },
+        {
+            "ore": "cinnabar",
+            "weight": 4
+        }
+    ],
+    "rocks": [
+        "schist",
+        "gneiss",
+        "tuff",
+        "deepslate",
+        "dripstone",
+        "diorite",
+        "gabbro",
+        "granite"
+    ],
+    "indicator": {
+        "rarity": 22,
+        "depth": 1
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Realgar, Stibnite & Cinnabar"
+        }
+    ]
+}

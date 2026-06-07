@@ -1,0 +1,48 @@
+{
+    "id": "beneath_redstone",
+    "dimension": "nether",
+    "type": "tfc:pipe_vein",
+    "biome_tag": "#tfg:nether/is_basalt_deltas",
+    "config": {
+        "rarity": 10,
+        "density": 0.2,
+        "min_y": 0,
+        "max_y": 80,
+        "height": 60,
+        "radius": 12,
+        "min_skew": 5,
+        "max_skew": 15,
+        "min_slant": 2,
+        "max_slant": 5,
+        "sign": 0.5
+    },
+    "ores": [
+        {
+            "ore": "redstone",
+            "weight": 80,
+            "block_weight": 1
+        },
+        {
+            "ore": "cinnabar",
+            "weight": 30
+        },
+        {
+            "ore": "ruby",
+            "weight": 10
+        }
+    ],
+    "rocks": [
+        "blackstone",
+        "deepslate"
+    ],
+    "indicator": {
+        "rarity": 25,
+        "depth": 1
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Redstone, Cinnabar & Ruby"
+        }
+    ]
+}

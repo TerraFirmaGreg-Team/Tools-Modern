@@ -1,0 +1,55 @@
+{
+    "id": "beneath_salt",
+    "dimension": "nether",
+    "type": "tfc:pipe_vein",
+    "biome_tag": "#tfg:nether/is_salt_caves",
+    "config": {
+        "rarity": 10,
+        "density": 0.28,
+        "min_y": 140,
+        "max_y": 190,
+        "height": 60,
+        "radius": 10,
+        "min_skew": 5,
+        "max_skew": 15,
+        "min_slant": 2,
+        "max_slant": 5,
+        "sign": 0.5
+    },
+    "ores": [
+        {
+            "ore": "salt",
+            "weight": 70,
+            "block_weight": 1
+        },
+        {
+            "ore": "rock_salt",
+            "weight": 50
+        },
+        {
+            "ore": "trona",
+            "weight": 20
+        }
+    ],
+    "rocks": [
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble",
+        "slate",
+        "deepslate",
+        "dripstone",
+        "tuff",
+        "diorite"
+    ],
+    "indicator": {
+        "rarity": 18,
+        "depth": 1
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Salt, Rock Salt & Trona"
+        }
+    ]
+}
