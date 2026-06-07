@@ -8,7 +8,7 @@
 
 	"quests.steam_age.create_tools.title": "Tools of the Trade",
 	"quests.steam_age.create_tools.subtitle": "These may be useful",
-	"quests.steam_age.create_tools.desc": "A wrench will let you quickly pick up Create blocks by Sneak + Right-Clicking on them, though an axe or pickaxe will still work too. The goggles will let you see much more detailed information about your machines, such as how much stress they're producing or consuming.\n\nBoth of these are optional for now, but will prove to be very useful, and you'll definitely want them later.\n\nCheck the TFG Tips chapter for help on glassblowing. Did you know that breaking cobblestone with a hammer will turn it into gravel, and breaking that again will turn it into sand...?",
+	"quests.steam_age.create_tools.desc": "A wrench will let you quickly pick up Create blocks by Sneak + Right-Clicking on them, though an axe or pickaxe will still work too. The goggles will let you see much more detailed information about your machines, such as how much stress they're producing or consuming.\n\nThe goggles are optional for now, but will prove to be very useful, and you'll definitely want them later.\n\nCheck the TFG Tips chapter for help on glassblowing. Did you know that breaking cobblestone with a hammer will turn it into gravel, and breaking that again will turn it into sand...?",
 	"quests.steam_age.create_tools.task": "Any Wrench",
 
 	"quests.steam_age.basic_millstone.title": "Automatic Ore Processing",

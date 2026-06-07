@@ -165,7 +165,7 @@
 
     "quests.medium_voltage.mv_aciditic.title": "It will Melt Your Flesh",
     "quests.medium_voltage.mv_aciditic.subtitle": "...if you don't read this quest.",
-    "quests.medium_voltage.mv_aciditic.desc.1": "You may notice that some fluids say they are &aAcidic&r, with &9Sulfuric Acid&r being one of them.\n\nThis means that many fluid pipes will not be able to transport them safely!\n\nAt &bMV&r, the cheapest pipes for acid transportation are probably &aGold&r, with the more expensive &aVanadium Steel&r or &aChrome&r pipes taking second and third place.\n\n&aStainless Steel&r or &aPolytetrafluoroethylene&r (try saying that fast) will be valid options once you are in &6HV&r.",
+    "quests.medium_voltage.mv_aciditic.desc.1": "You may notice that some fluids say they are &aAcidic&r, with &9Sulfuric Acid&r being one of them.\n\nThis means that many fluid pipes will not be able to transport them safely!\n\nAt &bMV&r, the cheapest pipes for acid transportation are probably &aGold&r, with the more expensive &aStainless Steel&r pipes taking second place.\n\n&aStainless Steel&r or &aPolytetrafluoroethylene&r (try saying that fast) will be valid options once you are in &6HV&r.",
     "quests.medium_voltage.mv_aciditic.desc.2": "You have three practical options for acid storage at around this point: &dGlass Vials&r, &dGold Drums&r, or &dSuper Tanks&r. Glass Vials are like &9Fluid Cells&r, and are made to store acids. Gold Drums are self-explanatory. Super Tanks can store any fluid without restriction, but are the most expensive.\n\n&cWARNING:&r Acids in the wrong pipes will cause &cvoiding&r, &cpipe burning&r, and high chance of &cdeath&r! Be careful!\n\n&l&3Lore:&r&o The acid transportation and storage mechanics originate from GregTech 6.",
     "quests.medium_voltage.mv_aciditic.task": "I'm an acid professional, don't worry",
 
@@ -231,7 +231,7 @@
 
     "quests.medium_voltage.mv_circuit_assembler.title": "Your Second Circuit Assembler",
     "quests.medium_voltage.mv_circuit_assembler.subtitle": "Yippee, yahoo",
-    "quests.medium_voltage.mv_circuit_assembler.desc": "As is common for every tier, the &3Circuit Assembler&r is an essential part of progression, always opening up a new Tier of circuits.\n\nAt this point you should be placing an &3Extractor&r next to your Circuit Assembler. Send off dozens of stacks of &aSoldering Alloy&r Ingots, and you won't have to worry about refilling again.",
+    "quests.medium_voltage.mv_circuit_assembler.desc": "As is common for every tier, the &3Circuit Assembler&r is an essential part of progression, always opening up a new Tier of circuits.\n\nAt this point you should be placing a &3Drum&r next to your Circuit Assembler. Fill it absolutely full of solder fluid, and you won't have to worry about refilling for a long time.",
 
     "quests.medium_voltage.mv_more_lv.title": "More LV Circuits",
     "quests.medium_voltage.mv_more_lv.subtitle": "You have unlocked a new tier of Circuits!",

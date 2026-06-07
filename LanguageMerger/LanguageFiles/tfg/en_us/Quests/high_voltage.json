@@ -301,7 +301,7 @@
 
     "quest.high_voltage.ultimet.title": "Ultimet",
     "quest.high_voltage.ultimet.subtitle": "Ultimet is the ultimate",
-    "quest.high_voltage.ultimet.desc": "The &dUltimet&r turbine rotor is a high-performance material, providing excellent &eSpeed&r for your &bDrill&r or &bWrench&r, and makes for a &eTurbine Rotor&r with very good &bEfficiency&r, especially if you are not producing large amounts of fuel or want to build additional &eSteam Turbines&r.\n\nThis alloy is also mandatory for progressing toward your new &aCircuits&r, so even if you do not intend to craft the tools, you will still need to produce it. Keep in mind that &dUltimet&r ingots can also be cooled using a &dChemical Bath&r.",
+    "quest.high_voltage.ultimet.desc": "&dUltimet&r is a high-performance material, providing excellent &eSpeed&r for your &bDrill&r or &bWrench&r, and makes for a &eTurbine Rotor&r with very good &bEfficiency&r, especially if you are not producing large amounts of fuel or want to build additional &eSteam Turbines&r.\n\nThis alloy is also mandatory for progressing toward your new &aCircuits&r, so even if you do not intend to craft the tools, you will still need to produce it. Keep in mind that &dUltimet&r ingots can also be cooled using a &dChemical Bath&r.",
     "quest.high_voltage.ultimet.task": "Any Ultimet Tool",
 
     "quests.high_voltage.alumina_board.subtitle": "Higher education for rocks",
