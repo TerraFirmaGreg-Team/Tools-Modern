@@ -70,6 +70,7 @@
     "tfg.tooltip.wearable.snowshoes.snow": "Reduces movement slowdown on snow and similar blocks",
     "tfg.tooltip.piglin_disguise": "Disguise makes piglins neutral, allowing for easier trade. But be careful! Their patience is not unlimited...",
     "tfg.tooltip.rope_ladders": "Sneak + right-click to pick up the whole ladder at once.",
+    "tfg.tooltip.player_head": "Can be renamed on a Scribing Table.",
 
     "tfg.tooltip.cooling_foods": "§bCools you by: 2°C",
     "tfg.tooltip.cooling_foods_strong": "§bCools you by: 10°C",
