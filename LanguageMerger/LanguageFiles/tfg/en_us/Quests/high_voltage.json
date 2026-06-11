@@ -309,5 +309,11 @@
 
     "quests.high_voltage.large_steam_turbine.subtitle": "Expensive but so good",
     "quests.high_voltage.large_steam_turbine.task": "Any Dynamo Hatch though we recommend at least 4A",
-    "quests.high_voltage.large_steam_turbine.desc": "The &eLarge Steam Turbine&r is a very powerful &bMultiblock&r for generating power at &6HV&r. Since there is no single-block generator alternative for &bSteam&r at this tier, you will need to invest in this multiblock if you plan to keep using steam power.\n\nTo understand how it works, refer to the &bGregTech Energy&r chapter and read the entry related to turbines there."
+    "quests.high_voltage.large_steam_turbine.desc": "The &eLarge Steam Turbine&r is a very powerful &bMultiblock&r for generating power at &6HV&r. Since there is no single-block generator alternative for &bSteam&r at this tier, you will need to invest in this multiblock if you plan to keep using steam power.\n\nTo understand how it works, refer to the &bGregTech Energy&r chapter and read the entry related to turbines there.",
+
+    "quests.high_voltage.wireless_charger.title": "Wireless Charger",
+    "quests.high_voltage.wireless_charger.subtitle": "Now you can charge while you make patterns",
+    "quests.high_voltage.wireless_charger.task": "Higher tier for better range and better tools",
+    "quests.high_voltage.wireless_charger.desc.1": "The &6Wireless Charger&r is a useful machine that can wirelessly charge any item with an energy capacity present in your inventory or Curios slots. In multiplayer, it will only charge players within your team.\n\nIt cannot charge a GT tool above its own voltage tier, but can effectively charge lower tiers.\n\nTwo modes are available, toggled by shift right-clicking with a &6Screwdriver&r: a short-range faster charge or a long-range slower charge.",
+    "quests.high_voltage.wireless_charger.desc.2": "&l&3Lore:&r&o This machine's code was borrowed from &6Cosmic Frontiers&r, a GregTech modpack that intertwines magic within the GT progression."
 }
