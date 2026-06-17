@@ -984,6 +984,8 @@
 	"block.tfg.casings.machine_casing_desh_ptfe": "Radiation-Safe Desh Casing",
 	"block.tfg.uv_smr_fluid_import_hatch": "SMT Input Hatch",
 
+	"block.tfg.ore_processing_beneath": "Geologic Vulcanizer",
+
 	"block.tfg.growth_monitor": "Growth Monitor",
 	"block.tfg.sample_rack": "Sample Rack",
 	"block.tfg.casings.machine_casing_sterilizing_pipes": "Sterilizing Pipes",

@@ -12,7 +12,7 @@
     },
     "ores": [
         {
-            "ore": "chalcopyrite",
+            "ore": "chalcocite",
             "weight": 12,
             "block_weight": 1
         },
@@ -42,7 +42,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Chalcopyrite, Pyrite & Bornite"
+            "text": "Chalcocite, Pyrite & Bornite"
         }
     ]
 }

@@ -1,0 +1,15 @@
+{
+    "id": "ruarsite",
+    "formula": "RuAsS",
+    "ore_block": "gtceu:raw_ruarsite_block",
+    "indicator": "gtceu:ruarsite_indicator",
+    "translation": "material.gtceu.ruarsite",
+    "info": "tfg.ore_patchouli_info.ruarsite",
+    "translations": [
+            {
+            "lang": "en_us",
+            "text": "Ruarsite",
+            "info": "$(thing)Source of$(): Ruthenium, Arsenic, Sulfur"
+        }
+    ]
+}

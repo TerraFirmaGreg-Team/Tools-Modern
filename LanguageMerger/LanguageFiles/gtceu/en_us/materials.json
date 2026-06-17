@@ -20,6 +20,10 @@
 	"material.gtceu.thorium": "Thorianite",
 	"material.gtceu.lignite": "Lignite",
 	"material.gtceu.anthracite": "Anthracite",
+	"material.gtceu.phlogopite": "Phlogopite",
+	"material.gtceu.irarsite": "Irarsite",
+	"material.gtceu.ferhodsite": "Ferhodsite",
+	"material.gtceu.ruarsite": "Ruarsite",
 
 	"material.gtceu.thermochemically_treated_hardwood": "Thermochemically Treated Hardwood",
 	"material.gtceu.hardwood": "Hardwood",

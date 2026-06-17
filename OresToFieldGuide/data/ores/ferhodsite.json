@@ -1,0 +1,15 @@
+{
+    "id": "ferhodsite",
+    "formula": "Fe₂Rh₂Ir₁Ni₃Cu₁S₉",
+    "ore_block": "gtceu:raw_ferhodsite_block",
+    "indicator": "gtceu:ferhodsite_indicator",
+    "translation": "material.gtceu.ferhodsite",
+    "info": "tfg.ore_patchouli_info.ferhodsite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Ferhodsite",
+            "info": "$(thing)Source of$(): Rhodium, Iron, Nickel"
+        }
+    ]
+}

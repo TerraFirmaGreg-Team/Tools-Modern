@@ -1,0 +1,43 @@
+{
+    "id": "beneath_phlogopite",
+    "dimension": "nether",
+    "type": "tfc:cluster_vein",
+    "biome_tag": "#tfg:nether/is_basalt_deltas",
+    "config": {
+        "rarity": 10,
+        "density": 0.26,
+        "min_y": 0,
+        "max_y": 80,
+        "size": 26
+    },
+    "ores": [
+        {
+            "ore": "phlogopite",
+            "weight": 15,
+            "block_weight": 1
+        },
+        {
+            "ore": "sulfur",
+            "weight": 7
+        },
+        {
+            "ore": "apatite",
+            "weight": 3
+        }
+    ],
+    "rocks": [
+        "blackstone",
+        "deepslate",
+        "basalt"
+    ],
+    "indicator": {
+        "rarity": 20,
+        "depth": 1
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Phlogopite, Sulfur & Apatite"
+        }
+    ]
+}

@@ -239,6 +239,10 @@
 	"tfg.ore_patchouli_info.yellow_garnet": "$(thing)Source of$(): Andradite, Grossular, Uvarovite",
 	"tfg.ore_patchouli_info.yellow_limonite": "$(thing)Melts into$(): Cast Iron",
 	"tfg.ore_patchouli_info.zeolite": "$(thing)Source of$(): Aluminium, Oxygen",
+	"tfg.ore_patchouli_info.irarsite": "$(thing)Source of$(): Iridium, Arsenic, Sulfur",
+	"tfg.ore_patchouli_info.ferhodsite": "$(thing)Source of$(): Rhodium, Iron, Nickel",
+	"tfg.ore_patchouli_info.ruarsite": "$(thing)Source of$(): Ruthenium, Arsenic, Sulfur",
+	"tfg.ore_patchouli_info.phlogopite": "$(thing)Source of$(): Aluminium, Fluorine",
 
 	"tfg.rock_patchouli_info.andesite": "Andesite",
 	"tfg.rock_patchouli_info.basalt": "Basalt",

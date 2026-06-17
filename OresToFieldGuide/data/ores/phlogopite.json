@@ -1,0 +1,15 @@
+{
+    "id": "phlogopite",
+    "formula": "KMg₃AlSi₃O₁₀F₂",
+    "ore_block": "gtceu:raw_phlogopite_block",
+    "indicator": "gtceu:phlogopite_indicator",
+    "translation": "material.gtceu.phlogopite",
+    "info": "tfg.ore_patchouli_info.phlogopite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Phlogopite",
+            "info": "$(thing)Source of$(): Aluminium, Fluorine"
+        }
+    ]
+}

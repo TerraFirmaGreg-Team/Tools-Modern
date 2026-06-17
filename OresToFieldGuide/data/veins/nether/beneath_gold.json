@@ -21,7 +21,7 @@
             "weight": 40
         },
         {
-            "ore": "chalcopyrite",
+            "ore": "chalcocite",
             "weight": 20
         }
     ],
@@ -42,7 +42,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Gold, Pyrite & Chalcopyrite"
+            "text": "Gold, Pyrite & Chalcocite"
         }
     ]
 }

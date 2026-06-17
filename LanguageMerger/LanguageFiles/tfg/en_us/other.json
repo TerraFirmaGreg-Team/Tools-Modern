@@ -131,6 +131,11 @@
     "tfg.machine.pastoral_engine.next_harvest_days": "  %s: %sd %sh",
     "tfg.machine.pastoral_engine.next_harvest_hours": "  %s: %sh",
 
+    "tfg.machine.ore_processing_beneath.no_gas": "No Natural Gas detected",
+	"tfg.machine.ore_processing_beneath.gas_critical": "Natural Gas level critical: %s%%",
+	"tfg.machine.ore_processing_beneath.gas_level": "Natural Gas: %s%%",
+	"tfg.machine.ore_processing_beneath.output_modifier": "Output efficiency: %s%%",
+
     "key.tfg.spray_can_menu": "Open Spray Can Menu",
     "key.categories.tfg": "TerraFirmaGreg",
 

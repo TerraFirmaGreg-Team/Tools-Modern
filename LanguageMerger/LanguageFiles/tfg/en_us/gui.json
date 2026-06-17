@@ -51,5 +51,8 @@
 	"gui.tfg.chromatic_select.code_type": "CODE_TYPE",
 	"gui.tfg.chromatic_select.format": "&%1$s %2$s: %1$s",
 	"gui.tfg.color_select.title": "Select Color",
-	"gui.tfg.color_select.chromatic_btn": "§bChromatic Effects"
+	"gui.tfg.color_select.chromatic_btn": "§bChromatic Effects",
+
+	"tfg.gui.ore_processing_gas.optimal_ratio.1": "Best yield when fluid hatch",
+	"tfg.gui.ore_processing_gas.optimal_ratio.2": "filled to half capacity with gas"
 }
