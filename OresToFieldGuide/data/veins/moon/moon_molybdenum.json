@@ -16,12 +16,12 @@
 			"block_weight": 1
 		},
 		{
-			"ore": "molybdenite",
+			"ore": "powellite",
 			"weight": 30,
 			"block_weight": 1
 		},
 		{
-			"ore": "powellite",
+			"ore": "molybdenite",
 			"weight": 15
 		},
 		{

@@ -12,20 +12,16 @@
     "ores": [
         {
             "ore": "wulfenite",
-            "weight": 8
-        },
-        {
-            "ore": "molybdenite",
-            "weight": 16,
+            "weight": 20,
             "block_weight": 1
         },
         {
-            "ore": "molybdenum",
-            "weight": 2
+            "ore": "molybdenite",
+            "weight": 12
         },
         {
             "ore": "powellite",
-            "weight": 2
+            "weight": 17
         }
     ],
     "rocks": [
