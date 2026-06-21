@@ -1510,10 +1510,15 @@
 	"block.tfg.strut.truss.steel": "Metal Truss Strut",
 	"block.tfg.strut.truss.zinc": "Zinc Truss Strut",
 
+	"block.tfg.groundcover.fallen_copper_lamp": "Fallen Copper Lamp",
 	"block.tfg.groundcover.fallen_bronze_lamp": "Fallen Bronze Lamp",
 	"block.tfg.groundcover.fallen_black_bronze_lamp": "Fallen Black Bronze Lamp",
 	"block.tfg.groundcover.fallen_bismuth_bronze_lamp": "Fallen Bismuth Bronze Lamp",
 	"block.tfg.groundcover.fallen_wrought_iron_lamp": "Fallen Wrought Iron Lamp",
+	"block.tfg.groundcover.fallen_steel_lamp": "Fallen Steel Lamp",
+	"block.tfg.groundcover.fallen_black_steel_lamp": "Fallen Black Steel Lamp",
+	"block.tfg.groundcover.fallen_red_steel_lamp": "Fallen Red Steel Lamp",
+	"block.tfg.groundcover.fallen_blue_steel_lamp": "Fallen Blue Steel Lamp",
 	"block.tfg.spider_web": "Frail Spider Web",
 	"block.tfg.spider_sac": "Spider Egg Sac"
 }
