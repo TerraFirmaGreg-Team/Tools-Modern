@@ -1,10 +1,11 @@
 {
-    "id": "sand_granitic",
+    "id": "sand_garnet",
     "dimension": "earth",
     "type": "tfc:cluster_vein",
+    "biome_tag": "#tfg:earth/is_dry",
     "project": true,
     "config": {
-        "rarity": 190,
+        "rarity": 270,
         "density": 0.24,
         "min_y": -5,
         "max_y": 1,
@@ -12,29 +13,26 @@
     },
     "ores": [
         {
-            "ore": "granitic_mineral_sand",
-            "weight": 8
+            "ore": "glauconite_sand",
+            "weight": 3
         },
         {
             "ore": "fullers_earth",
-            "weight": 4
+            "weight": 3
         },
         {
             "ore": "garnet_sand",
-            "weight": 3
+            "weight": 4
         }
     ],
     "rocks": [
         "brown_sand",
         "red_sand",
         "white_sand",
-        "yellow_sand"
+        "yellow_sand",
+        "black_sand",
+        "green_sand",
+        "pink_sand"
     ],
-    "indicator": {},
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Mineral Sand"
-        }
-    ]
+    "indicator": {}
 }
