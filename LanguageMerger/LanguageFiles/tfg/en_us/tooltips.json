@@ -138,7 +138,8 @@
 
     "tfg.tooltip.wireless_card_1": "Enables wireless connections from any range, even from different planets!",
     "tfg.tooltip.wireless_card_2": "Items can still be transferred through the terminal, but at a very high power cost.",
-    "tfg.tooltip.wireless_card_3": "Use a §dRailgun§r for your interplanetary logistical needs instead.",
+    "tfg.tooltip.wireless_card_3": "Transferring items is 8x more expensive than transferring blocks.",
+    "tfg.tooltip.wireless_card_4": "Use a §dRailgun§r for your interplanetary logistical needs instead.",
 
     "tfg.tooltip.component.nuclear_turbine_1": "§eBase Production:§r 8192 EU/t",
     "tfg.tooltip.component.nuclear_turbine_2": "Each Rotor Holder above §5EV§r §7adds§r 10% efficiency and multiplies EU/t by 2.",
