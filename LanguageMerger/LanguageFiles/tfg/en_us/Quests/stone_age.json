@@ -123,7 +123,8 @@
     "quests.stone_age.stone_tools.title": "Primitive Tools",
     "quests.stone_age.stone_tools.subtitle": "Turns out hitting stones together is quite useful",
     "quests.stone_age.stone_tools.desc": "While stone and flint are relatively simple and primitive materials, they're what you're stuck with until you learn how to work with metals. Some other useful tools include the Javelin, which can be thrown like a vanilla Trident, and the Hoe, which allows you to farm.",
-
+    "quests.stone_age.stone_tools.task": "A stone javelin",
+    
     "quests.stone_age.gather_straw.title": "Gather Straw",
     "quests.stone_age.gather_straw.subtitle": "You can also use a Hoe if you want",
     "quests.stone_age.gather_straw.desc": "Most grasses you find in the overworld can be harvested for Straw, when broken with a Knife or Hoe. Straw has a number of uses for crafting, but you'll want at least 8 to create a Pit Kiln.\n\nStraw can also be used to create a Straw Hat for some basic sun protection, or Thatch, which can be used as a relatively simple building block with no collision.",
