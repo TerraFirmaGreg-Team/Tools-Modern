@@ -280,7 +280,7 @@
 	"tfg.tooltip.asphalt_mix.patch": "Sneak-use %s mB on base course to patch.",
 	"tfg.tooltip.asphalt_road_stencil.usage": "Use with a spray can in either hand.",
 
-    "tooltip.tfg.chameleon_spray_can.color_mode.chromatic": "§7Color Mode: §%1$sChromatic (%1$s)",
+    "tooltip.tfg.chameleon_spray_can.color_mode.chromatic": "§7Color Mode: §r%1$sChromatic (%1$s)",
     "tooltip.tfg.chameleon_spray_can.color_mode.standard": "§7Color Mode: §b%1$s",
     "tooltip.tfg.chameleon_spray_can.color_mode.clear": "§7Color Mode: §fClear",
     "tooltip.tfg.chameleon_spray_can.controls.header": "§eControls:",
