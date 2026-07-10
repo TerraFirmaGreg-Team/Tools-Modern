@@ -1,0 +1,18 @@
+# This repository's text files are checked out with CRLF. Keep that established
+# convention explicit instead of overriding it with LF.
+* text=auto eol=crlf
+
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# The Gradle wrapper is invoked by Unix-like development environments.
+LanguageSync/gradlew text eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.jar binary
