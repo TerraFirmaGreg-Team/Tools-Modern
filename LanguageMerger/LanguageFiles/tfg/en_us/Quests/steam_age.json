@@ -114,7 +114,7 @@
 
 	"quests.steam_age.boilers.title": "Steam Boilers",
 	"quests.steam_age.boilers.subtitle": "Portable Steamroom",
-	"quests.steam_age.boilers.desc.1": "Steam machines need to be powered! You have three options to generate steam: the &3Solid&r boiler accepts solid fuels like coal and charcoal, the &3Liquid&r boiler accepts liquids like creosote and lava, and the &3Solar&r boiler requires no fuel but only works during the day. The choice is yours, but we recommend the liquid one if you're unsure.\n\nSteam machines all have a vent which needs to stay unblocked in order for them to work properly.",
+	"quests.steam_age.boilers.desc.1": "Steam machines need to be powered! You have three options to generate steam: the &3Solid&r boiler accepts solid fuels like coal and charcoal, the &3Liquid&r boiler accepts liquids like lava and creosote (not very efficient), and the &3Solar&r boiler requires no fuel but only works during the day. The choice is yours, but we recommend the solid or solar one if you're unsure. The Liquid Boiler will shine if use with Lava, which can be harness in massive quantities thanks to the Hose Pulley underground.\n\nSteam machines all have a vent which needs to stay unblocked in order for them to work properly.",
 	"quests.steam_age.boilers.desc.2": "&aWarning:&r Boilers will &bexplode&r if you attempt to put water into them while they are dry and hot. It's best to always have water being pumped into them, but you can always break and place the block to reset its temperature.",
 	"quests.steam_age.boilers.tasks": "Any High Pressure Steam Boiler",
 
