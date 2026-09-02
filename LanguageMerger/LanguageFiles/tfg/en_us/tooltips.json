@@ -108,7 +108,7 @@
     "tfg.tooltip.machine.budding_charge_3": "§7A §cME Redstone Port§7 outputs the current grade of Budding Certus",
     "tfg.tooltip.machine.me_assembler_1": "§7Certus-Powered Lunar AE2 Assembler§r",
     "tfg.tooltip.machine.me_assembler_2": "§7Requires a Certus Block or a Budding Certus (has a chance to degrade) to run recipes§r",
-    "tfg.tooltip.machine.me_assembler_3": "§7The Higher the grade of the Budding Certus, the faster the recipe - from §6800%§r §7to§r §651200%§r §7faster§r",
+    "tfg.tooltip.machine.me_assembler_3": "§7The Higher the grade of the Budding Certus, the faster the recipe - from §6x8§r §7to§r §6x512§r §7faster§r",
     "tfg.tooltip.machine.me_assembler_4": "§7A §cME Redstone Port§7 outputs the current grade of Budding Certus",
     "gtceu.tooltip.machine.moon_dust_harvester_1": "§7Extraterrestrial Vacuum Cleaner§r",
     "gtceu.tooltip.machine.moon_dust_harvester_2": "§7Harvests infinite Regolith Dust depending on the biome its placed in.§r",
