@@ -1,0 +1,21 @@
+{
+    "tag.item.railways.palettes.cycle_groups.dripstone.base": "Travertine Locometal",
+    "tag.item.railways.palettes.cycle_groups.dripstone.doors": "Travertine Locometal Doors",
+    "tag.item.railways.palettes.cycle_groups.dripstone.hazard_stripes_black": "Travertine Hazard Stripes (Black Base)",
+    "tag.item.railways.palettes.cycle_groups.dripstone.hazard_stripes_white": "Travertine Hazard Stripes (White Base)",
+    "tag.item.railways.palettes.cycle_groups.dripstone.ladders": "Travertine Locometal Ladders",
+    "tag.item.railways.palettes.cycle_groups.dripstone.windows": "Travertine Locometal Windows",
+    "tag.item.railways.palettes.cycle_groups.dripstone.wrapped_brass": "Travertine Brass Wrapped Locometal",
+    "tag.item.railways.palettes.cycle_groups.dripstone.wrapped_copper": "Travertine Copper Wrapped Locometal",
+    "tag.item.railways.palettes.cycle_groups.dripstone.wrapped_iron": "Travertine Iron Wrapped Locometal",
+
+    "tag.item.railways.palettes.cycle_groups.granite.base": "Chert Locometal",
+    "tag.item.railways.palettes.cycle_groups.granite.doors": "Chert Locometal Doors",
+    "tag.item.railways.palettes.cycle_groups.granite.hazard_stripes_black": "Chert Hazard Stripes (Black Base)",
+    "tag.item.railways.palettes.cycle_groups.granite.hazard_stripes_white": "Chert Hazard Stripes (White Base)",
+    "tag.item.railways.palettes.cycle_groups.granite.ladders": "Chert Locometal Ladders",
+    "tag.item.railways.palettes.cycle_groups.granite.windows": "Chert Locometal Windows",
+    "tag.item.railways.palettes.cycle_groups.granite.wrapped_brass": "Chert Brass Wrapped Locometal",
+    "tag.item.railways.palettes.cycle_groups.granite.wrapped_copper": "Chert Copper Wrapped Locometal",
+    "tag.item.railways.palettes.cycle_groups.granite.wrapped_iron": "Chert Iron Wrapped Locometal"
+}
