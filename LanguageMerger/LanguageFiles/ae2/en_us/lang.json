@@ -26,8 +26,8 @@
 	"block.ae2.chipped_budding_quartz": "Flawed Budding Certus Quartz",
 	"block.ae2.damaged_budding_quartz": "Chipped Budding Certus Quartz",
 
-	"block.ae2.flawless_budding_quartz.tooltip": "Reduce duration in the ME Fabricator by §651200%§r",
-	"block.ae2.flawed_budding_quartz.tooltip": "Reduce duration in the ME Fabricator by §612800%§r",
-	"block.ae2.chipped_budding_quartz.tooltip": "Reduce duration in the ME Fabricator by §632000%§r",
-	"block.ae2.damaged_budding_quartz.tooltip": "Reduce duration in the ME Fabricator by §6800%§r"
+	"block.ae2.flawless_budding_quartz.tooltip": "ME Fabricator speed: §6x512§r",
+	"block.ae2.flawed_budding_quartz.tooltip": "ME Fabricator speed: §6x128§r",
+	"block.ae2.chipped_budding_quartz.tooltip": "ME Fabricator speed: §6x32§r",
+	"block.ae2.damaged_budding_quartz.tooltip": "ME Fabricator speed: §6x8§r"
 }
