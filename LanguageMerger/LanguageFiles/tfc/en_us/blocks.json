@@ -1,4 +1,9 @@
 {
 	"block.tfc.fluid.salt_water": "Sea Water",
-	"block.tfc.cauldron.salt_water": "Sea Water Cauldron"
+	"block.tfc.cauldron.salt_water": "Sea Water Cauldron",
+
+	"block.tfc.anemometer": "Anemometer",
+	"block.tfc.vane": "Weather Vane",
+	"block.tfc.thermometer": "Thermometer",
+	"block.tfc.calendar_clock": "Precision Clock"
 }
