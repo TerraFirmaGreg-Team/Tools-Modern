@@ -57,6 +57,19 @@
 	"tfg.gui.spawn_condition.tooltip.default": "§lThis start is recommended for new players§r\n\nThe classic you know and love. You can spawn anywhere from subtropical to subpolar, and everything in between. Let the game decide exactly where you spawn, within generally livable conditions.",
 	"tfg.gui.spawn_condition.tooltip.tfcgenviewer": "You have selected your own spawn via the §aWorld Preview§r feature.\n\nTurn its §6Spawn Overlay§r toggle off to get back the normal spawn selection options.",
 
+
+	"tfg.gui.mountain_scaling.title": "Mountain Scaling",
+
+	"tfg.gui.mountain_scaling.none": "§aNo Scaling§r",
+	"tfg.gui.mountain_scaling.low": "§bLow§r",
+	"tfg.gui.mountain_scaling.medium": "§6Medium§r",
+	"tfg.gui.mountain_scaling.high": "§4High§r",
+
+	"tfg.gui.mountain_scaling.tooltip.none": "No additional scaling is applied to mountains, keeping roughly the same heights as base TerraFirmaCraft. Most tall mountains will reach heights of around Y=180, with some collisional mountains hitting Y=270.\nThe best option if your priority is performance.",
+	"tfg.gui.mountain_scaling.tooltip.low": "A little additional scaling is applied to mountains. If you think the default size of mountains is a little underwhelming, this setting can make up for that, while minimally impacting performance.",
+	"tfg.gui.mountain_scaling.tooltip.medium": "Some additional scaling is applied to mountains, making their peaks a real hike! A level-of-detail mod such as Distant Horizons is recommended to really appreciate the backdrop of the tall mountains in the distance. This setting may noticably cause chunk generation to be slower and for worlds to take up more disk space.",
+	"tfg.gui.mountain_scaling.tooltip.high": "The tallest of peaks! A level-of-detail mod such as Distant Horizons is essential when using this setting, as well as a pretty strong computer. It will cause chunks to be generated more slowly while taking up a lot more disk space. The views are worth it though, with most mountain ranges hitting Y=500-600 while collisional mountains can reach up to Y=750!",
+
 	"tfg.gui.cover.rotten_void_days": "Minimum days before spoilage",
 
 	"gui.tfg.chromatic_select.title": "Select Chromatic Effect",
