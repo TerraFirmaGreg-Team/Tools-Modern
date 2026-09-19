@@ -1653,5 +1653,11 @@
 	"block.tfg.polycaprolactam_block": "Polycaprolactam Block",
 	"block.tfg.linen_block": "Linen Block",
 	"block.tfg.cotton_block": "Cotton Block",
-	"block.tfg.silk_block": "Silk Block"
+	"block.tfg.silk_block": "Silk Block",
+
+	"block.tfg.vanadium_steel_anvil": "Vanadium Steel Anvil",
+	"block.tfg.stainless_steel_anvil": "Stainless Steel Anvil",
+	"block.tfg.tungsten_anvil": "Tungsten Anvil",
+	"block.tfg.blackstone_anvil": "Pyroxenite Anvil",
+	"block.tfg.crackrack_anvil": "Keratophyre Anvil"
 }
