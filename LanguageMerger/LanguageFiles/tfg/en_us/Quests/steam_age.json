@@ -1,6 +1,6 @@
 {
-	"quests.steam_age": "Early Automation",
-	"quests.steam_age.subtitle": "From Primitive Machines to Steam Power",
+	"quests.steam_age": "Steam Age",
+	"quests.steam_age.subtitle": "The Industrial Revolution and its consequences",
 
 	"quests.steam_age.basic_greate.title": "Basics of Greate",
 	"quests.steam_age.basic_greate.subtitle": "Tired of Create? This'll make it more interesting",
@@ -40,7 +40,7 @@
 
 	"quests.steam_age.multiblock_tank.title": "Multiblock Tanks",
 	"quests.steam_age.multiblock_tank.subtitle": "Huge amounts of fluid storage",
-	"quests.steam_age.multiblock_tank.desc": "Do you have a huge pile of wooden barrels as you try to store all that Creosote?\n\nLook no further than the Multiblock Tanks, where even the cheapest wooden one can hold a whopping 1,000 buckets. There's also Bronze and Steel versions if you need even more storage!\n\nTo automatically fill or drain the tanks, use a Valve.",
+	"quests.steam_age.multiblock_tank.desc": "Do you have a huge pile of wooden barrels as you try to store all that Creosote?\n\nLook no further than the Multiblock Tanks, where even the cheapest wooden one can hold a whopping 1,000 buckets. There's also Bronze and Steel versions if you need even more storage!\n\nTo automatically fill or drain the tanks, use a Valve. Valves will only automatically output if they are pointing downwards, otherwise you will need a pump.",
 
 	"quests.steam_age.water_wheel.title": "Water Wheels",
 	"quests.steam_age.water_wheel.subtitle": "Hope you set up your base near a river!",
@@ -68,7 +68,7 @@
 
 	"quests.steam_age.chute.title": "Early Logistics",
 	"quests.steam_age.chute.subtitle": "Public infrastructure for your items",
-	"quests.steam_age.chute.desc": "You now have access to ways to move your items around! Chutes are similar to hoppers and are cheaper, but can only move items downwards. Both of these can also push items from container into Item Pipes.\n\nFunnels are similar but are best paired with Belts instead of Item Pipes.",
+	"quests.steam_age.chute.desc": "You now have access to ways to move your items around! Chutes are similar to hoppers and are cheaper, but can only move items downwards. Both of these can also push items from containers into Item Pipes.\n\nFunnels are similar but are best paired with Belts instead of Item Pipes.\n\nTry using these to automate your Helve Hammer!",
 
 	"quests.steam_age.item_pipes.title": "Item Pipes",
 	"quests.steam_age.item_pipes.subtitle": "Not as cool as Item Conduits",
@@ -80,7 +80,10 @@
 
 	"quests.steam_age.steel_greate.title": "Steel-tier Greate",
 	"quests.steam_age.steel_greate.subtitle": "Greate so good they made Greate 2",
-	"quests.steam_age.steel_greate.desc": "Welcome to the next tier of Greate! Steel Shafts and Cogwheels can hold four times as much stress as your old ones. The total stress limit of a kinetic setup is determined by the weakest link, so unfortunately you'll have to replace your old setup if you want to reap the rewards. Some of the old parts can be recycled at least!",
+	"quests.steam_age.steel_greate.desc": "Welcome to the next tier of Greate! Steel Shafts and Cogwheels can hold four times as much stress as your old ones. The total stress limit of a kinetic setup is determined by the weakest link, so unfortunately you can't just link your old Basic components to your new network.\n\nOn the other hand, now you can replace your cog spaghetti with Rotation Speed Controllers, and get your Helve Hammers up to 256 RPM, letting them process your blooms and pig iron super fast!",
+
+	"quests.steam_age.kinetic_bridge.subtitle": "Bridging Networks",
+	"quests.steam_age.kinetic_bridge.desc": "The Kinetic Bridge allows you to connect different tier Greate networks without screeching the whole thing to a halt.\n\nSimply connect your Steel network on one end of the bridge, and your Basic network on the other, and your old setups will continue to work!\n\nNote that the Kinetic Bridge can only \"downgrade\" stress tiers, like from Steel to Basic - you can't use it to power Steel-tier machines with Basic-tier power sources, for example.",
 
 	"quests.steam_age.steel_encased_fan.title": "Encased Fan",
 	"quests.steam_age.steel_encased_fan.subtitle": "Great for hot days",
@@ -110,7 +113,7 @@
 	"quests.steam_age.fluid_drums.subtitle": "I don't think a wooden barrel can hold molten steel",
 	"quests.steam_age.fluid_drums.desc.1": "&6TFG&r can quickly get &4overwhelming&r with the plethora of fluids it introduces, so you may be looking for a way to store them.\n\nIntroducing... &aDrums&r! They have large internal buffers, and any &aDrum&r can be broken and picked up and will &dkeep the fluid&r inside. A right-click with a Soft Mallet or Screwdriver allows a Drum to drain its content into another container placed below it.",
 	"quests.steam_age.fluid_drums.desc.2": "&l&3Lore:&r&o These drums are actually ported from GregTech 6.",
-  "quests.steam_age.fluid_drums.task": "Any GregTech Drum",
+	"quests.steam_age.fluid_drums.task": "Any GregTech Drum",
 
 	"quests.steam_age.boilers.title": "Steam Boilers",
 	"quests.steam_age.boilers.subtitle": "Portable Steamroom",
@@ -202,7 +205,7 @@
 
 	"quests.steam_age.trains.title": "Trains",
 	"quests.steam_age.trains.subtitle": "Waypoints wishes it was as cool as these",
-	"quests.steam_age.trains.desc": "Trains are a fantastic option when it comes to any sort of long distance transportation, whether that's players, items, or fluids! They can also safely travel through unloaded chunks. There won't be any sort of player teleportation for a very long time, so if you'd like to set up a continent-spanning rail network, you don't have to worry about it getting outdated.",
+	"quests.steam_age.trains.desc": "Trains are a fantastic option when it comes to any sort of long distance transportation, whether that's players, items, or fluids! They can also safely travel through unloaded chunks. There won't be any sort of player teleportation for a very long time, so if you'd like to set up a continent-spanning rail network, you don't have to worry about it getting outdated.\n\nCheck out the Tips - Transportation chapter for more information on everything locomotive!",
 
 	"quests.steam_age.wood_plank.title": "Wood Planks",
 	"quests.steam_age.wood_plank.subtitle": "Untreated Plywood...?",
@@ -242,7 +245,7 @@
 
 	"quests.steam_age.vibrating_table.title": "Vibrating Table",
 	"quests.steam_age.vibrating_table.subtitle": "Identical to the LV Sifter",
-	"quests.steam_age.vibrating_table.desc": "The &3Vibrating Table&r can process gem ores (including coal) in a different way, yielding much more output than anything else you have access to right now. As a bonus, it can also process any gravel ore deposits you may still have. No more sluicing!",
+	"quests.steam_age.vibrating_table.desc": "The &3Vibrating Table&r can process gem ores in a different way, yielding much more output than anything else you have access to right now. As a bonus, it can also process any gravel ore deposits you may still have. No more sluicing!",
 
 	"quests.steam_age.lathe.title": "Belt Grinder",
 	"quests.steam_age.lathe.subtitle": "A joint LV Lathe and metal confetti machine",

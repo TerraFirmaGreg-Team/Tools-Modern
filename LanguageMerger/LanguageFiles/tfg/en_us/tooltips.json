@@ -330,5 +330,7 @@
 
     "tfg.tooltip.glassworking.complete": "☆ Complete! ☆",
 
-    "tfg.tooltip.growth_time": "Growth Time"
+    "tfg.tooltip.growth_time": "Growth Time",
+
+    "tfg.tooltip.digger_helmet_mining_upgrade": "§cDoes not affect larger tools such as Mining Hammers!§r"
 }

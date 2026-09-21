@@ -120,6 +120,7 @@
 	"quests.combat_tips.wireless_ammo.description": "The &dWireless Ammo Box&r taps into your wireless ME network to supply you with whatever bullets you need. Just make sure to remember to keep it charged and to stay within your wireless ME network's range.",
 
 	"quests.combat_tips.lv_main.title": "&7LV&r",
+	"quests.combat_tips.lv_main.desc": "Not much new equipment is available at &7LV&r, but there's a couple minor new things.",
 
 	"quests.combat_tips.revolver_gun.title": "\"Torque\" Revolver",
 	"quests.combat_tips.revolver_gun.subtitle": "Yeehaw!",
@@ -145,6 +146,7 @@
 	"quests.combat_tips.12g_ammo.desc": "Shotguns are great if you're more of a player who likes to get up and personal.",
 
 	"quests.combat_tips.hv_main.title": "&6HV&r",
+	"quests.combat_tips.hv_main.desc": "&6HV&r doesn't unlock any new weapons, but it does come with two important pieces of equipment - the Nano Armor and Space Suit.",
 
 	"quests.combat_tips.certus_main.subtitle": "Moon magic!",
 	"quests.combat_tips.certus_main.desc": "This is your third &2Gun Mechanism&r, craftable in &dEV&r.\n\nA lot of the ammo in this tier requires Certus Quartz. The moon has huge veins of it, or you can set up an infinite supply via Lunar Regolith.",

@@ -63,7 +63,7 @@
 
     "quests.tfg_tips.first_backpack.title": "Your First Backpack",
     "quests.tfg_tips.first_backpack.subtitle": "No, the map won't magically appear.",
-    "quests.tfg_tips.first_backpack.desc": "This is your first &3Sophisticated Backpack.&r It has a total of &c36&r inventory slots and can hold &aone upgrade.&r Check the two branches after this to learn about inventory and backpack upgrades.",
+    "quests.tfg_tips.first_backpack.desc": "This is your first &3Sophisticated Backpack.&r It has a total of &c36&r inventory slots and can hold &aone upgrade&r.",
 
     "quests.tfg_tips.red_steel_backpack.title": "Red Steel Backpack",
     "quests.tfg_tips.red_steel_backpack.subtitle": "Cooler than a Blue Steel Backpack",
@@ -221,7 +221,7 @@
 
     "quests.tfg_tips.glassblowing_tools.title": "Glassblowing Tools",
     "quests.tfg_tips.glassblowing_tools.subtitle": "Tools of the Trade",
-    "quests.tfg_tips.glassblowing_tools.desc": "To work &dGlass&r you'll need a variety of tools.\n\n&3Paddle&r: Performs flatten, mainly used for creating &dGlass Panes&r and &dLamp Glass.&r\n&3Gem Saw&r: Besides being mandatory for making glass products, it can be used to pick up &dGlass&r and &cGem Buds&r in-world as well, like a &bSilk Touch&r effect!\n&3Jacks&r: Used to pinch glass, mostly used for containers such as &dGlass Bottles.&r\n&3Wool Cloth&r: Used for rolling glass, needed for &dLenses&r and &dJars.&r",
+    "quests.tfg_tips.glassblowing_tools.desc": "To work &dGlass&r you'll need a variety of tools.\n\n&3Paddle&r: Performs flatten, mainly used for creating &dGlass Panes&r and &dLamp Glass.&r\n\n&3Gem Saw&r: Besides being mandatory for making glass products, it can be used to pick up &dGlass&r and &cGem Buds&r in-world as well, like a &bSilk Touch&r effect!\n\n&3Jacks&r: Used to pinch glass, mostly used for containers such as &dGlass Bottles.&r\n\n&3Wool Cloth&r: Used for rolling glass, needed for &dLenses&r and &dJars.&r",
 
     "quests.tfg_tips.glass_blocks.title": "Glass Blocks",
     "quests.tfg_tips.glass_blocks.subtitle": "Get yourself some windows.",
@@ -230,33 +230,6 @@
     "quests.tfg_tips.lamps.title": "Lamps",
     "quests.tfg_tips.lamps.subtitle": "These are pretty.",
     "quests.tfg_tips.lamps.desc": "Just like in regular Minecraft, &dLamps&r can be hung from the ceiling with the help of chains or placed on top of blocks. &dLamps&r consume different kinds of fuels to keep themselves lit. Some fuels can last &4indefinitely.&r\n\n &3&lTip:&r&o Filled lamps can be placed in the &6Back&f slot of the &cCurios Menu&f to provide hands free dynamic lighting. This may not work if you have shaders on.",
-
-    "quests.tfg_tips.creosote.title": "Lamp Fuel: Weak Fuels",
-    "quests.tfg_tips.creosote.subtitle": "If you have a bunch of it lying around...",
-    "quests.tfg_tips.creosote.desc": "&dCreosote&r and &dGregTech Oils&r can be used as a lamp fuel, but a full lamp of the stuff only lasts for &c10&r days.",
-    "quests.tfg_tips.creosote.task_creosote": "A Bucket of Creosote",
-    "quests.tfg_tips.creosote.task_oil": "A Bucket of Oil",
-    "quests.tfg_tips.creosote.task_light_oil": "A Bucket of Light Oil",
-    "quests.tfg_tips.creosote.task_raw_oil": "A Bucket of Raw Oil",
-    "quests.tfg_tips.creosote.task_heavy_oil": "A Bucket of Heavy Oil",
-
-    "quests.tfg_tips.tallow.title": "Lamp Fuel: Tallow",
-    "quests.tfg_tips.tallow.subtitle": "Animal Fat",
-    "quests.tfg_tips.tallow.desc": "&dTallow&r can be used as lamp fuel. A full lamp of it will last &c18&r days.",
-    "quests.tfg_tips.tallow.task": "A Bucket of Tallow",
-
-    "quests.tfg_tips.olive_oil.title": "Lamp Fuel: Olive Oil",
-    "quests.tfg_tips.olive_oil.subtitle": "Lilbito'liveoil",
-    "quests.tfg_tips.olive_oil.desc": "&dOlive Oil&r can be used as lamp fuel, and while it is more difficult to craft than other fuels, a full lamp of it lasts for a whopping &c83&r days!\n\n&3&lTip:&r&o Access to electric machines even at &7LV&f will make the processing less painful.",
-    "quests.tfg_tips.olive_oil.task": "A Bucket of Olive Oil",
-
-    "quests.tfg_tips.lava_lamp.title": "Lamp Fuel: Lava?",
-    "quests.tfg_tips.lava_lamp.subtitle": "Not as mesmerizing as the real deal",
-    "quests.tfg_tips.lava_lamp.desc": "With the very heat resistant metal &9Blue Steel&r, you can create a &dBlue Steel Lamp.&r It can be filled with &cLava&r, giving you an indefinite source of light at the cost of being limited to a single lamp metal.",
-
-    "quests.tfg_tips.glowstone_lamp.title": "Lamp Fuel: Glowstone",
-    "quests.tfg_tips.glowstone_lamp.subtitle": "The best lamp fuel",
-    "quests.tfg_tips.glowstone_lamp.desc": "You'll need access to at least &7LV&r electricity in order to liquefy &dGlowstone&r, but if you like the look of &lany&r lamp, you can use &6Liquid Glowstone&r to fuel them indefinitely. Unlike &cLava&r, this isn't hot!",
 
     "quests.tfg_tips.charcoal_pile.title": "Charcoal Pile",
     "quests.tfg_tips.charcoal_pile.subtitle": "You're going to need this",
@@ -885,7 +858,7 @@
 
     "quests.tfg_tips.candles.title": "Candles",
     "quests.tfg_tips.candles.subtitle": "Cozy...",
-    "quests.tfg_tips.candles.desc": "Candles can be crafted using &aParaffin Wax&r, &aBeeswax&r or &aRosin.&r\nCandles are the better light source compared to torches, staying lit for 10 days.",
+    "quests.tfg_tips.candles.desc": "Candles can be crafted using &aParaffin Wax&r, &aBeeswax&r or &aRosin.&r\nCandles are the better light source compared to torches, staying lit for about 30 days.",
 
     "quests.tfg_tips.oven.title": "Oven",
     "quests.tfg_tips.oven.subtitle": "Caution, it's hot",
@@ -901,7 +874,7 @@
     "quests.tfg_tips.oven_finish.task": "Any Oven Finish",
 
     "quests.tfg_tips.oven_utils.title": "Oven Utilities",
-    "quests.tfg_tips.oven_utils.subtitle": "You may want these",
+    "quests.tfg_tips.oven_utils.subtitle": "Why do they call it oven when you of in the cold food of out hot eat the food?",
     "quests.tfg_tips.oven_utils.desc": "The &dAsh Tray&r, placed below a &aBottom Oven&r, has a chance to collect &cWood Ash&r from burning logs. Right-click to get out the ash.\n\nThe &dOven Hopper&r inserts logs into a &bBottom Oven&r facing it, useful for automation.",
 
     "quests.tfg_tips.jam.title": "Jam",
@@ -1048,16 +1021,6 @@
     "quests.tfg_tips.tools_tips.tools.title": "Tools",
     "quests.tfg_tips.tools_tips.tools.subtitle": "It's all a hammer anyways.",
     "quests.tfg_tips.tools_tips.tools.desc": "The only thing separating man from animal is our use of &l&bTools&r&r. &7&oExcept for apes, monkeys, dolphins, crows, otters, octo.......&r&r Use your skills and tools to make the most of this world, and &5save yourself&r some effort.",
-
-    "quests.tfg_tips.tools_tips.seed_oil.title": "Lamp Fuel: Seed Oil",
-    "quests.tfg_tips.tools_tips.seed_oil.subtitle": "Smells good when it burns.",
-    "quests.tfg_tips.tools_tips.seed_oil.desc": "&dSeed Oil&r will last you an impressive &c72&r days.",
-    "quests.tfg_tips.tools_tips.seed_oil.task": "A Bucket of Seed Oil",
-
-    "quests.tfg_tips.tools_tips.soybean_oil.title": "Lamp Fuel: Soybean Oil",
-    "quests.tfg_tips.tools_tips.soybean_oil.subtitle": "Lamp on a high protein diet.",
-    "quests.tfg_tips.tools_tips.soybean_oil.desc": "&dSoybean Oil&r lasts just as long as seed oil--&c72&r days. ",
-    "quests.tfg_tips.tools_tips.soybean_oil.task": "A Bucket of Soybean Oil",
 
     "quests.tfg_tips.tools_tips.markings.title": "Markings",
     "quests.tfg_tips.tools_tips.markings.subtitle": "Comply with OSHA standard 1910.303",
