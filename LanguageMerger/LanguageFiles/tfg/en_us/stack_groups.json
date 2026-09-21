@@ -240,9 +240,9 @@
 	"stackgroup.remi.tfg_colored_network_cables": "Colored Network Cables",
 	"stackgroup.remi.tfg_shipping_containers": "Shipping Containers",
 
-	"stackgroup.remi.tfg_liquid": "Liquid Buckets",
-	"stackgroup.remi.tfg_gaseous": "Gaseous Buckets",
-	"stackgroup.remi.tfg_plasmatic": "Plasmatic Buckets",
+	"stackgroup.remi.tfg_liquid": "Liquids",
+	"stackgroup.remi.tfg_gaseous": "Gases",
+	"stackgroup.remi.tfg_plasmatic": "Plasmas",
 	"stackgroup.remi.tfg_alcohols": "Alcohols",
 
 	"stackgroup.remi.tfg_bell206": "Bell 206 Helicopters",
