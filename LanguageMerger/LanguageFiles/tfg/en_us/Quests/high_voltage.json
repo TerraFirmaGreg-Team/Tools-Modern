@@ -280,7 +280,7 @@
 
     "quests.high_voltage.boron_tools.title": "Boron Carbide Tools",
     "quests.high_voltage.boron_tools.subtitle": "Durability at its peak",
-    "quests.high_voltage.boron_tools.desc": "&2Boron Carbide Tools&r provide higher durability than &cever&r, at the cost of lackluster speed.\n\nIf raw speed is your main goal, you may want to consider &dUltimet Tools&r instead.\n\nBoron Carbide tools can be good for tools that you mostly craft with, such as a screwdriver.",
+    "quests.high_voltage.boron_tools.desc": "&2Boron Carbide Tools&r provide higher durability than &cever&r, at the cost of lackluster speed.\n\nIf raw speed is your main goal, you may want to consider &dUltimet Tools&r instead.\n\nBoron Carbide tools can be good for tools that you mostly craft with, such as a screwdriver.\n\nYou can also smith these tools on a &aStainless Steel Anvil&r if you want forging bonuses.",
     "quests.high_voltage.boron_tools.task": "Any Boron Carbide Tool",
 
     "quest.high_voltage.desh_blue_foils.subtitle": "It's not a sandwich",
@@ -301,7 +301,7 @@
 
     "quest.high_voltage.ultimet.title": "Ultimet",
     "quest.high_voltage.ultimet.subtitle": "Ultimet is the ultimate",
-    "quest.high_voltage.ultimet.desc": "&dUltimet&r is a high-performance material, providing excellent &eSpeed&r for your &bDrill&r or &bWrench&r, and makes for a &eTurbine Rotor&r with very good &bEfficiency&r, especially if you are not producing large amounts of fuel or want to build additional &eSteam Turbines&r.\n\nThis alloy is also mandatory for progressing toward your new &aCircuits&r, so even if you do not intend to craft the tools, you will still need to produce it. Keep in mind that &dUltimet&r ingots can also be cooled using a &dChemical Bath&r.",
+    "quest.high_voltage.ultimet.desc": "&dUltimet&r is a high-performance material, providing excellent &eSpeed&r for your &bDrill&r or &bWrench&r, and makes for a &eTurbine Rotor&r with very good &bEfficiency&r, especially if you are not producing large amounts of fuel or want to build additional &eSteam Turbines&r.\n\nThis alloy is also mandatory for progressing toward your new &aCircuits&r, so even if you do not intend to craft the tools, you will still need to produce it. Keep in mind that &dUltimet&r ingots can also be cooled using a &dChemical Bath&r.\n\nYou can also smith these tools on a &aStainless Steel Anvil&r if you want forging bonuses.",
     "quest.high_voltage.ultimet.task": "Any Ultimet Tool",
 
     "quests.high_voltage.alumina_board.subtitle": "Higher education for rocks",
