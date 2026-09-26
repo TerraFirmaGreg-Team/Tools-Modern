@@ -315,5 +315,14 @@
     "quests.high_voltage.wireless_charger.subtitle": "Now you can charge while you make patterns",
     "quests.high_voltage.wireless_charger.task": "Higher tier for better range and better tools",
     "quests.high_voltage.wireless_charger.desc.1": "The &6Wireless Charger&r is a useful machine that can wirelessly charge any item with an energy capacity present in your inventory or Curios slots. In multiplayer, it will only charge players within your team.\n\nIt cannot charge a GT tool above its own voltage tier, but can effectively charge lower tiers.\n\nTwo modes are available, toggled by shift right-clicking with a &6Screwdriver&r: a short-range faster charge or a long-range slower charge.",
-    "quests.high_voltage.wireless_charger.desc.2": "&l&3Lore:&r&o This machine's code was borrowed from &6Cosmic Frontiers&r, a GregTech modpack that intertwines magic within the GT progression."
+    "quests.high_voltage.wireless_charger.desc.2": "&l&3Lore:&r&o This machine's code was borrowed from &6Cosmic Frontiers&r, a GregTech modpack that intertwines magic within the GT progression.",
+
+    "quests.space_survival.compressed_gases.title": "Compressed Breathable Gases",
+    "quests.space_survival.compressed_gases.subtitle": "Because pure Oxygen is too dangerous",
+    "quests.space_survival.compressed_gases.desc": "Find yourself a little short of breath? You'll need something to breathe up in space, so you'll want to look at producing any of these compressed gases, based off real-world ones used for deep sea diving!\n\nYou can fill your space suit with them the same way you'd fill up a bucket, or if you bring along a &bGas Tank&r you'll be able to \"drink\" from it to replenish your suit without taking it off.\n\n&2Nitrox&r is probably the easiest to produce on Earth, while you can set up &eHeliox-3&r on the Moon.\n\nA full space suit (2500mB) will last about &c45 minutes&r.",
+    "quests.space_survival.compressed_gases.task": "Any compressed breathable gas",
+
+    "quests.space_survival.railgun.title": "Interplanetary Logistics",
+    "quests.space_survival.railgun.subtitle": "Ender chest? Never heard of her!",
+    "quests.space_survival.railgun.desc": "&7In &bTerraFirmaGreg&r, transporting items across dimensions or over long distances requires you to build special &6multiblock structures&r.\n\nThis system is &apowerful and flexible&r, offering multiple settings that let you customize logistics to perfectly suit your needs.\n\nThis is the perfect system to transport all of your &apassively-produced&r resources to exactly where they're needed on other planets! And it comes with a powerful &dconfiguration system&r to let you control everything from a single place."
 }
