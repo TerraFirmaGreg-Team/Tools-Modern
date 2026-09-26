@@ -203,5 +203,8 @@
     "tfg.wireless_charger.enter_range": "§aCharging range: §f%s§a blocks radius",
     "tfg.wireless_charger.left_range": "§cLeft wireless charging range",
     "tfg.wireless_charger.mode.0": "§eMode: Super Charged - Fast Charge §7(§f%s§7 block radius, 4A)",
-    "tfg.wireless_charger.mode.1": "§eMode: Long Range - Slow Charge§7(§f%s§7 block radius, 1A)"
+    "tfg.wireless_charger.mode.1": "§eMode: Long Range - Slow Charge§7(§f%s§7 block radius, 1A)",
+
+    "tfg.field_guide.name": "Field Guide",
+    "tfg.field_guide.read_me": "§8§oRead Me! ☺§r"
 }
