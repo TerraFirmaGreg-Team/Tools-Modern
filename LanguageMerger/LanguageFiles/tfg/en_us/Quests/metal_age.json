@@ -236,5 +236,34 @@
 
     "quests.metal_age.wax_products.title": "Wax products",
     "quests.metal_age.wax_products.subtitle": "Clean your ears!",
-    "quests.metal_age.wax_products.desc": "Wax can be sourced from several ways, but it has many uses, ranging from being able to make proper bread with a Mixing Bowl, to a better light source with Candles, to waterproofing hides.\n\nBe sure to check out EMI for everything you can do with wax!"
+    "quests.metal_age.wax_products.desc": "Wax can be sourced from several ways, but it has many uses, ranging from being able to make proper bread with a Mixing Bowl, to a better light source with Candles, to waterproofing hides.\n\nBe sure to check out EMI for everything you can do with wax!",
+
+    "quests.tfg_tips.lunchbox.subtitle": "A refrigerator in your pocket!",
+    "quests.tfg_tips.lunchbox.desc": "Lunch boxes have 9 slots for food, keeping it cold and longer lasting.\nThe Cooling Lunchbox has a stronger effect than the regular one, but needs to be provided with ice or cells that will thaw over time.\n\nWhile creating Packed Ice from Ice Shavings might be difficult, if you have a &nsophisticated enough&r saw, you'll be able to silk harvest regular ice directly!",
+    "quests.tfg_tips.lunchbox.task.2": "Any Ice Block",
+    "quests.tfg_tips.lunchbox.task.3": "Any Cell containing Liquid Ice Slush",
+
+    "quests.tfg_tips.candles.title": "Candles",
+    "quests.tfg_tips.candles.subtitle": "Cozy...",
+    "quests.tfg_tips.candles.desc": "Candles can be crafted using &aParaffin Wax&r, &aBeeswax&r or &aRosin.&r\nCandles are the better light source compared to torches, staying lit for about 30 days.",
+
+    "quests.tfg_tips.beeswax.title": "Beeswax",
+    "quests.tfg_tips.beeswax.subtitle": "A worthy sacrifice",
+    "quests.tfg_tips.beeswax.desc": "If you right-click a &aFrame&r that houses a &bQueen Bee&r with a &cKnife&r, you will clear out the frame, killing the queen, and obtaining &dWax.&r\n\n&3&lTip:&r&o You can sacrifice &bQueens&f with bad or lower traits to encourage breeding better traits over time, as the other frames will fill out the missing one using their own traits.",
+
+    "quests.tfg_tips.beehive.title": "Beehive",
+    "quests.tfg_tips.beehive.subtitle": "Time for some rng...",
+    "quests.tfg_tips.beehive.desc": "To begin your journey as a beekeeper, you'll need both a &bBeehive&r and a &aBeehive Frame.&r\nUnlike regular Minecraft, hives do not spawn naturally, instead bees only spawn in player-made &bBeehives&r with frames populated by &eQueens.&r The chance for a queen to populate your frame is tied to RNG, but you can increase your odds by placing &dflowers&r around the hive.\n\nOnce your frames is populated, it'll begin spawning bees which will produce honey.",
+
+    "quests.tfg_tips.beekeeping.title": "Beekeeping",
+    "quests.tfg_tips.beekeeping.subtitle": "They're so small now...",
+    "quests.tfg_tips.beekeeping.desc": "&bBeekeeping&r has a plethora of uses. Not only do bees fertilize nearby crops (assuming you have the correct trait), you will be able to obtain useful resources such as &aWax&r and &aHoney.&r Breed bees to achieve better stats.\nThe &2Field Guide&r offers an extensive explanation of all &bbeekeeping&r mechanics.",
+
+    "quests.tfg_tips.greenhouse_automation.title": "Greenhouse Automation",
+    "quests.tfg_tips.greenhouse_automation.subtitle": "By your powers combined...",
+    "quests.tfg_tips.greenhouse_automation.desc": "With the combination of Firmalife's &2Picker&r and &2Sweeper&r, Create's Deployers, and GregTech's Item Collectors, it's possible to completely automate your greenhouse!\n\nPickers will pull mature crops from Hydroponic Planters and Quad Planters when they receive a redstone pulse, while Sweepers will harvest mature crops from the other types in a 3x3 area around it while connected to a redstone signal.\n\nThese machines will produce loose items, but an Item Collector will suck those up in a large area around it.\n\nFrom there, pipe the seeds back into Deployers to plant them in the Planters!",
+
+    "quests.tfg_tips.oven_appliances.title": "Oven Appliances",
+    "quests.tfg_tips.oven_appliances.subtitle": "Get more out of your Ovens",
+    "quests.tfg_tips.oven_appliances.desc": "&3Oven Appliances&r are optional components that must be placed on top of &aBottom Ovens&r to receive heat. Remember you can have &cmultiple&r &aBottom Ovens&r in a single multiblock.\n\n&dWrought Iron Grill&r: Allows you to cook food at a much faster rate and provides a &cbonus&r to shelf life.\n&dVat&r: can process pot recipes in bulk! Extremely useful for making &eLatex&r and &aJam.&r\n&dJarring Station&r: must be placed next to a &bVat&r, fills up jars with &aJam.&r"
 }

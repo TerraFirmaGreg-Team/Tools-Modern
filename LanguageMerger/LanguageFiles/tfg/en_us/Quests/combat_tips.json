@@ -198,5 +198,16 @@
 
 	"quests.combat_tips.quiver.title": "The Quiver",
 	"quests.combat_tips.quiver.subtitle": "Oh merry men!",
-	"quests.combat_tips.quiver.desc": "A quiver can hold up to 256 arrows or 8 javelins.\n\nFiring a bow or loading a crossbow will automatically pull arrows from the quiver, and throwing a javelin will pull another out of the quiver. It will also automatically pick up any arrows or javelins.\n\nThe quiver can also be equipped on your curios slots."
+	"quests.combat_tips.quiver.desc": "A quiver can hold up to 256 arrows or 8 javelins.\n\nFiring a bow or loading a crossbow will automatically pull arrows from the quiver, and throwing a javelin will pull another out of the quiver. It will also automatically pick up any arrows or javelins.\n\nThe quiver can also be equipped on your curios slots.",
+
+	"quests.tfg_tips.piglin_disguise.subtitle": "They'll never know...",
+	"quests.tfg_tips.piglin_disguise.desc": "Do you feel like you don't belong?\nDo the &4Piglin&r attack you at your school because of your appearance?\nTry wearing a &aPiglin Disguise&r to ward off unwanted attention and blend right in.",
+
+	"quests.tfg_tips.blue_steel_diving.title": "Blue Steel Diving Gear",
+	"quests.tfg_tips.blue_steel_diving.subtitle": "Perfect for taking a warm lava bath",
+	"quests.tfg_tips.blue_steel_diving.desc": "The &9Blue Steel Diving Gear&r is a special set of armor that makes you completely impervious to &cLava&r while you're wearing it. However, it does not provide any protection from high ambient temperatures - you'll need protective clothing and cooling food or drink for that.",
+
+	"quests.space_survival.t2_space_suit.title": "Tungstensteel Space Suit",
+	"quests.space_survival.t2_space_suit.subtitle": "Extremophilia!",
+	"quests.space_survival.t2_space_suit.desc": "With this next space suit, you'll be able to survive both the &bcoldest&r and the &chottest&r environments that space can throw at you! It's required to stop you from immediately combusting as soon as you set foot on &6Venus&r and &5Mercury&r.\n\nAs a bonus, it also comes with some extra armor and air capacity!"
 }

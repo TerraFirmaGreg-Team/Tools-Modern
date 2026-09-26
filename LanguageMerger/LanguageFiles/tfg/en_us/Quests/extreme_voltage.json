@@ -32,9 +32,7 @@
 
     "quests.extreme_voltage.mars.title": "I'm on &4Mars&r!",
     "quests.extreme_voltage.mars.subtitle": "The Red Planet",
-    "quests.extreme_voltage.mars.desc.1": "Before landing on &4Mars&r, there are a few important things to keep in mind.\n\nFirst, like the Moon, &4Mars&r will have some hostile surface mobs as well. If you haven't already figured out how to make your Space Suit stay with you after dying or invested in new EV-tier weaponry, you'll have a rough time.\n\nThe planet is mostly a &edesert world&r, dotted with \"&aislands&r\" where you’ll find &bwater&r, lush fauna, and much safer places to build your first base. Meanwhile, the open desert is extremely dangerous if you don't watch your step, but contains some other crucial resources!",
-    "quests.extreme_voltage.mars.desc.2": "All &bfluid veins&r are spread across Mars, except for &eHeavy Ammoniacial Water&r which can only be found outside of the desert. That’s another good reason to set up your base there.\n\nEnergy-wise, &4Mars&r will not be kind to you at first.\n\nNearly every common &6energy generation method&r is disabled or worthless on the planet, which means you’ll have to rely almost entirely on &cFission&r to power your base.\n\nAt the very beginning, we recommend bringing along some &bfilled batteries&r such as &bLapotron Crystals&r to get started, and then look towards setting up Thorium Fuel Rods.\n\nAchieving energy stability on Mars will take time and effort, but once your systems are running smoothly, you’ll feel like &9unlimited power&r is right in the palm of your hand.",
-    "quests.extreme_voltage.mars.desc.3": "And one last tip: don’t kill everything you see. Some &aanimals&r can be &franched&r, and you’ll definitely need them later in your progression.\n\nBe sure to check out the &aSpace Survival&r chapter for more Mars-related tips too!\n\nStay alert, plan ahead, and Mars will reward your courage.",
+    "quests.extreme_voltage.mars.desc.1": "&5Mars&r has a whole section in the Field Guide dedicated to it. Be sure to read it before landing!",
     "quests.extreme_voltage.mars.task": "Land on Mars",
 
     "quests.extreme_voltage.nuclear_fuel_factory.title": "Nuclear Fuel Factory",
@@ -391,5 +389,9 @@
 
     "quests.extreme_voltage.mars_infinites.title": "More Infinite Dusts",
     "quests.extreme_voltage.mars_infinites.subtitle": "It's like I'm really playing a skyblock pack!",
-    "quests.extreme_voltage.mars_infinites.desc": "These are all the &cinfinite resources&r you can obtain on Mars, via the Ostrum Linear Accelerator.\n\nNote that different nuclear reactor outputs will return different amount of dusty ores - you'll only be able to fully passive plutonium rods with the &bTritiated Water&r recipe."
+    "quests.extreme_voltage.mars_infinites.desc": "These are all the &cinfinite resources&r you can obtain on Mars, via the Ostrum Linear Accelerator.\n\nNote that different nuclear reactor outputs will return different amount of dusty ores - you'll only be able to fully passive plutonium rods with the &bTritiated Water&r recipe.",
+
+    "quests.space_survival.mineral_rich_wool.title": "Mineral-Rich Wool",
+    "quests.space_survival.mineral_rich_wool.subtitle": "Built up from years of dust storms",
+    "quests.space_survival.mineral_rich_wool.desc": "Once your Sniffers or Wraptors are familiar enough, you can shear them for mineral-rich tufts of fur or feathers. (This can be automated with a Deployer holding Shears.)\n\nThese can be melted down in an EBF for an infinite and cheap source of Alkaline Earth Silicate, and are also a required component of &6Bio-AES Reinforced R-Polyurethane Foam."
 }

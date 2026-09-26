@@ -373,7 +373,8 @@
 
 	"quests.low_voltage.food_machines.title": "Food Machines",
 	"quests.low_voltage.food_machines.subtitle": "Fast Food on the Go",
-	"quests.low_voltage.food_machines.desc": "The Food Processor and Electric Oven are two custom machines designed specifically to work with TerraFirmaCraft's food system.\n\nThe processor can handle mixing bowl recipes, soups, sandwiches, smoking, brining, drying... You name it, this machine can do it. Except for cooking. That's what the oven is for.\n\nThe Rotten Voiding Cover can be placed on any machine or Input Bus to automatically void any food items that become rotten. Useful to stop your food automation from getting backed up!",
+	"quests.low_voltage.food_machines.desc.1": "The Food Processor and Electric Oven are two custom machines designed specifically to work with TerraFirmaCraft's food system.\n\nThe processor can handle mixing bowl recipes, soups, sandwiches, smoking, brining, drying... You name it, this machine can do it. Except for cooking. That's what the oven is for.\n\nThe Rotten Voiding Cover can be placed on any machine or Input Bus to automatically void any food items that become rotten. Useful to stop your food automation from getting backed up!",
+	"quests.low_voltage.food_machines.desc.2": "To properly make food out of multiple ingredients in a Food Processor, such as sandwiches, you will have to use the &3Robot Arm&r with the \"Keep Exact\" button enabled (or have your Create logstics deliver exact amounts to your machines).\n\nTo prevent spoiled food from filling up your storage you should use the &3Rotten Voiding Cover&r.\n\nThis will later pair nicely with a refrigerator in &bMV&r.",
 
 	"quests.low_voltage.bakelite.subtitle": "Also known as Poly­oxy­benzyl­methylen­glycol­anhydride... try saying that five times fast",
 	"quests.low_voltage.bakelite.desc.1": "Your first Polymer! Simply mix Phenolic Resin with either Asbestos or Treated Chipboard Composite to finish it.\n\nYou'll be using Bakelite for crafting both Phenolic Circuit Boards and MV Machine Hulls, so making a big batch of it is a good idea, though you'll replace it with Polyethylene in &bMV&r.\n\nYou now also have access to a cheaper recipe for ULV and LV Machine Hulls!",
@@ -390,4 +391,5 @@
 	"quests.low_voltage.geologic_vulcanizer.desc.2": "&l&3Lore:&r&o A good part of the code and inspiration was borrowed from &6Monifactory&r&o, another GTM modpack focusing on the automation of complex multiblocks during the late game, including automating the &bMicroverse&r&o, a unique method of obtaining resources. The mechanic in question, managing the quantity of fluid present in the multiblock, comes from their &bSculk Vat&r&o.\n\nMonifactory themselves got the concept from &6GTNH&r&o, a modpack that needs no introduction.&r",
 
 	"quests.low_voltage.electric_lunchbox.desc": "Lunch boxes have 9 slots for food, keeping it cold and longer lasting. The electric lunchbox has a separate slot for a battery, which it uses to keep your cold nice and refrigerated!"
+
 }

@@ -278,5 +278,9 @@
     "quests.stone_age.fuel_temperatures.title": "Fuel Temperatures",
     "quests.stone_age.fuel_temperatures.subtitle": "There's more than charcoal!",
     "quests.stone_age.fuel_temperatures.desc.1": "You may have noticed that different fuels burn at different temperatures - for example, charcoal burns at &eYellow White**&r. But some metals melt at much lower temperatures, such as Bronze at &6Orange&r, which means you have to be constantly watching the temperature of your ingots to make sure they don't totally melt.\n\nGood news, there's other options! Peat Briquettes can be used in the Charcoal Forge and only burn at &4Dark Red*&r, making them useful for metals with low melting points.",
-    "quests.stone_age.fuel_temperatures.desc.2": "You aren't limited to the forge either - it may look kind of silly, but you can heat ingots in a pot, on a grill, in an oven... any device that works with TFC's heating system.\n\n&9Note&r: putting a mold or vessel on the right side of the forge interface will catch any metals that melt."
+    "quests.stone_age.fuel_temperatures.desc.2": "You aren't limited to the forge either - it may look kind of silly, but you can heat ingots in a pot, on a grill, in an oven... any device that works with TFC's heating system.\n\n&9Note&r: putting a mold or vessel on the right side of the forge interface will catch any metals that melt.",
+
+    "quests.tfg_tips.juicer.title": "Juicer",
+    "quests.tfg_tips.juicer.subtitle": "Hydration in a Pinch",
+    "quests.tfg_tips.juicer.desc": "The &3Juicer&r is a special item that can extract the water contained in &aFruits&r, &aMushrooms&r, and &aCacti&r into drinkable &dWater&r."
 }
