@@ -61,7 +61,7 @@ namespace OresToFieldGuide
 
 			// 4) Write out patchouli
 
-			ExportPatchouliEntries();
+			//ExportPatchouliEntries();
 
 			// 5) Write out EMI vein pages & translation keys
 			ExportOreTranslationKeys();
@@ -117,8 +117,6 @@ namespace OresToFieldGuide
 
 		private void GenerateDefaultIndicatorsAndVeinNames()
 		{
-			const int characterLimit = 27;
-
 			foreach (var vein in m_veinDict.Values.SelectMany(v => v))
 			{
 				vein.Indicator ??= IndicatorConfig.GenerateDefault(vein.Ores, m_oreDict);
@@ -134,19 +132,11 @@ namespace OresToFieldGuide
 						{
 							var next = m_translations.Get(locale, m_oreDict[ore.OreID].TranslationKey);
 
-							if ((generated + next).Length > characterLimit)
+							if (generated.Length != 0)
 							{
-								generated += "...";
-								break;
+								generated += ", ";
 							}
-							else
-							{
-								if (generated.Length != 0)
-								{
-									generated += ", ";
-								}
-								generated += next;
-							}
+							generated += next;
 						}
 
 						if (vein.NameSuffix is not null)
