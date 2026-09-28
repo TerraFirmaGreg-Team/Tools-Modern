@@ -136,6 +136,7 @@
     "quests.ae2.universal_circuits.title": "Universal Circuits",
     "quests.ae2.universal_circuits.subtitle": "Oh so THAT's what these are for!",
     "quests.ae2.universal_circuits.desc": "Ever wondered what the point of the Universal Circuit items was? Besides nice quest icons, they're primarily used for AE2!\n\nAE2 doesn't handle item tags in patterns well, so the universal circuits are designed to be used in any patterns that require circuits. This way, whenever you unlock a new kind of circuit, you only need to add one pattern to convert the new circuit into the universal one, instead of updating &oall&r of your old patterns!",
+    "quests.ae2.universal_circuits.task": "Any Universal Circuit",
 
     "quests.ae2.stock_bridge.title": "AE Stock Bridge",
     "quests.ae2.stock_bridge.desc": "If you invested heavily into Create's logistics network, you might despair at the thought of having to tear it all down to replace it with AE2. The &bStock Bridge&r acts as a bridge between your ME network and your Create one. Check its Ponder to learn how to set it up.\n\nWe still recommend moving over any old setups to AE2 eventually, mostly because it's much lighter on your game's performance.",

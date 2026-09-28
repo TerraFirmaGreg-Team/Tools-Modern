@@ -197,7 +197,7 @@
 
 	"quests.steam_age.blaze_burner.subtitle": "No Blazes required!",
 	"quests.steam_age.blaze_burner.desc.1": "Blaze Burners can be crafted without leaving your house, and you can use a Mechanical Arm to automatically feed them solid fuel, or directly pipe liquid fuel into them. Coal Gems, Anthracite, and Coke can also be used to superheat them.\n\nBlaze Burners can be used for recipes that need a heated basin, but cannot be used to heat a crucible. You can also use them as a train driver or as a stock keeper.",
-	"quests.steam_age.blaze_burner.desc.2": "While Creosote or Lava are the easiest liquid fuels to set up at this point, you might also be interested in various plant-based oils like &eSeed Oil&r from Sunflowers or Canola.\n\nCreosote and Lava also don't scale very well once you get into further tiers, while Bio Diesel can be upgraded into Diesel and then Cetane-Boosted Diesel, so start setting up a big field for plant oils now if that sounds appealing to you!",
+	"quests.steam_age.blaze_burner.desc.2": "While Creosote or Lava are the easiest liquid fuels to set up at this point, you might also be interested in various plant-based oils like &eSeed Oil&r from Sunflowers or Canola.\n\nCreosote and Lava also don't scale very well once you get into further tiers, while Bio Diesel can be upgraded into Cetane-Boosted Diesel, so start setting up a big field for plant oils now if that sounds appealing to you!",
 
 	"quests.steam_age.deployers.title": "Deployers",
 	"quests.steam_age.deployers.subtitle": "Primitive Assembly Line",
