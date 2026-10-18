@@ -1,0 +1,10 @@
+How to make a skybox:
+
+1) If you're starting with a texture like the venus one, open the blend file and put your texture on it
+2) Press the render button
+3) Pixelate this texture, either resize back and forth via nearest neighbour, or use photoshops' mosaic filter, whatever
+4) Run the texture through this site, which converts it into a cube map https://labs.xo3d.co.uk/cube-map-converter/
+5) Rearrange the squares to be like the venus one
+6) Done!
+
+If you have a very long, panoramic texture, start from step 3 above

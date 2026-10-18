@@ -26,6 +26,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "AdvancedMultiblockConverter", "AdvancedMultiblockConverter\AdvancedMultiblockConverter.esproj", "{148881E3-972C-C85C-48DE-418CC336D6B9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "resources", "resources", "{0C9E45C8-DBBD-409B-BE2E-1E369557ECA9}"
+	ProjectSection(SolutionItems) = preProject
+		skyboxes.txt = skyboxes.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
