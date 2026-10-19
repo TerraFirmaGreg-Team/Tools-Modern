@@ -37,22 +37,20 @@ namespace OresToFieldGuide
 				{
 					int column = 1;
 
-					//sheet.Cells[row, column++].Value = string.Join('/', vein.Ores.Select(o => m_translations.Get("en_us", m_oreDict[o.OreID].TranslationKey)));
-
 					sheet.Cells[row, column++].Value = vein.ID;
 					sheet.Cells[row, column++].Value = vein.Type[4..];
 
-					string distribution = "";
+					string materials = "";
 					foreach (var ore in vein.Ores)
 					{
-						distribution += $"{ore.OreID} {ore.Weight}";
+						materials += $"{ore.OreID} {ore.Weight}";
 						if (ore.FullBlockWeight != null)
 						{
-							distribution += $" [{ore.FullBlockWeight}]";
+							materials += $" [{ore.FullBlockWeight}]";
 						}
-						distribution += " / ";
+						materials += " / ";
 					}
-					sheet.Cells[row, column++].Value = distribution[..^3];
+					sheet.Cells[row, column++].Value = materials[..^3];
 
 					sheet.Cells[row, column++].Value = vein.Config.MinY;
 					sheet.Cells[row, column++].Value = vein.Config.MaxY;
@@ -173,10 +171,9 @@ namespace OresToFieldGuide
 			int rockColumnIndex;
 
 			int column = 1;
-			sheet.Cells[1, column++].Value = "Materials";
 			sheet.Cells[1, column++].Value = "Vein ID";
 			sheet.Cells[1, column++].Value = "Type";
-			sheet.Cells[1, column++].Value = "Distribution";
+			sheet.Cells[1, column++].Value = "Materials";
 			sheet.Cells[1, column++].Value = "Min Y";
 			sheet.Cells[1, column++].Value = "Max Y";
 			sheet.Cells[1, column++].Value = "Projected?";
