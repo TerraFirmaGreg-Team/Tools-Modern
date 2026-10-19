@@ -589,7 +589,7 @@ namespace OresToFieldGuide
 
 		private void ExportEmiOreData()
 		{
-			if (!Directory.Exists(m_arguments.CoreFolder))
+			if (m_arguments.CoreFolder is null || !Directory.Exists(m_arguments.CoreFolder))
 			{
 				ConsoleLogHelper.WriteLine("Failed to find TFG-Core folder, skipping EMI Ore Data output!!", LogLevel.Warning);
 				ConsoleLogHelper.WriteLine("This can result in incorrect information in EMI, please sort your shit out", LogLevel.Warning);

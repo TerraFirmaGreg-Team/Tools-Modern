@@ -19,7 +19,8 @@ namespace OresToFieldGuide
 				r_translations[locale] = localeDict;
 
 				var assetsDir = Path.Combine(args.ModpackFolder, "kubejs/assets");
-				var allFiles = Directory.EnumerateFiles(assetsDir, $"{locale}.json", SearchOption.AllDirectories);
+				var allFiles = Directory.EnumerateFiles(assetsDir, $"{locale}.json", SearchOption.AllDirectories)
+					.Concat(Directory.EnumerateFiles(Path.Combine(assetsDir, "tfg", "lang", locale), $"*.json", SearchOption.AllDirectories));
 
 				foreach (var file in allFiles)
 				{

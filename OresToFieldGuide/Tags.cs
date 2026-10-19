@@ -17,13 +17,16 @@ namespace OresToFieldGuide
 			r_tags = [];
 			ConsoleLogHelper.WriteLine("Finding all biome tags...", LogLevel.Info);
 
-			var biomeTagDir = Path.Combine(args.CoreFolder, "src/main/resources/data/tfg/tags/worldgen/biome");
-			foreach (var file in Directory.EnumerateFiles(biomeTagDir, "*.json", SearchOption.AllDirectories))
+			if (args.CoreFolder is not null && Directory.Exists(args.CoreFolder))
 			{
-				var tagName = $"tfg:{Path.GetFileName(Path.GetDirectoryName(file))}/{Path.GetFileNameWithoutExtension(file)}";
+				var biomeTagDir = Path.Combine(args.CoreFolder, "src/main/resources/data/tfg/tags/worldgen/biome");
+				foreach (var file in Directory.EnumerateFiles(biomeTagDir, "*.json", SearchOption.AllDirectories))
+				{
+					var tagName = $"tfg:{Path.GetFileName(Path.GetDirectoryName(file))}/{Path.GetFileNameWithoutExtension(file)}";
 
-				var tag = JsonSerializer.Deserialize<Tag>(File.ReadAllText(file));
-				r_tags[tagName] = tag!.Values;
+					var tag = JsonSerializer.Deserialize<Tag>(File.ReadAllText(file));
+					r_tags[tagName] = tag!.Values;
+				}
 			}
 		}
 

@@ -55,10 +55,9 @@ namespace OresToFieldGuide
 				if (options.CoreDir is null || !Directory.Exists(options.CoreDir))
 				{
 					Console.Error.WriteLine("Path to Core-Modern not found or provided!");
-					return false;
 				}
 
-				programArguments.CoreFolder = options.CoreDir!;
+				programArguments.CoreFolder = options.CoreDir;
 			}
 			catch (Exception e)
 			{
