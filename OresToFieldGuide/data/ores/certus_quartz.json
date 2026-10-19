@@ -3,38 +3,5 @@
     "formula": "SiO₂",
     "ore_block": "gtceu:raw_certus_quartz_block",
     "indicator": "gtceu:certus_quartz_bud_indicator",
-    "translation": "material.gtceu.certus_quartz",
-    "info": "tfg.ore_patchouli_info.certus_quartz",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Certus Quartz",
-            "info": "$(thing)Used for$(): Applied Energistics 2"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Quartzo Certus",
-            "info": "$(thing)Usado para$(): Applied Energistics 2"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Истинный кварц",
-            "info": "$(thing)Используется для$(): Applied Energistics 2"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Поклади Істинного Кварцу",
-            "info": "$(thing)Використовується для$(): Applied Energistics 2"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "赛特斯石英矿",
-            "info": "$(thing)用于$(): Applied Energistics 2"
-        },
-        {
-            "lang": "de_de",
-            "text": "Certus Quarz",
-            "info": "$(thing)Verwendet für$(): Applied Energistics 2"
-        }
-    ]
+    "translation": "material.gtceu.certus_quartz"
 }

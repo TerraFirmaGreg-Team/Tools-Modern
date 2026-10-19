@@ -5,16 +5,6 @@
 	"rock_subtype": "extrusive",
 	"rock_grade": "ultramafic",
 	"translation": "tfg.rock_patchouli_info.sandy_jadestone",
-	"translations": {
-		"en_us": "Lamproite",
-		"es_es": "Lamproíta",
-		"pt_br": "Lamproíto",
-		"ru_ru": "Лампроит",
-		"uk_ua": "Лампроїт",
-		"zh_cn": "天然煌斑岩",
-		"ja_jp": "ランプロアイト",
-		"de_de": "Lamproit"
-	},
 	"replaceable_blocks": [
 		"betterend:sandy_jadestone"
 	]

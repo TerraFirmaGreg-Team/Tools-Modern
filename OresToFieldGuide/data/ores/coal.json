@@ -3,38 +3,5 @@
     "formula": "C",
     "ore_block": "gtceu:raw_coal_block",
     "indicator": "gtceu:coal_indicator",
-    "translation": "material.gtceu.coal",
-    "info": "tfg.ore_patchouli_info.coal",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Coal",
-            "info": "$(thing)Used for$(): Fuel, Distillation"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Carvão",
-            "info": "$(thing)Usado para$(): Combustível, Destilação"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Уголь",
-            "info": "$(thing)Используется для$(): Топливо, Ректификация"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Вугілля",
-            "info": "$(thing)Використовується для$(): Палива, Дистиляції"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "煤炭",
-            "info": "$(thing)用于$(): 燃料, 蒸馏"
-        },
-        {
-            "lang": "de_de",
-            "text": "Kohle",
-            "info": "$(thing)Verwendet für$(): Treibstoff, Destillation"
-        }
-    ]
+    "translation": "material.gtceu.coal"
 }

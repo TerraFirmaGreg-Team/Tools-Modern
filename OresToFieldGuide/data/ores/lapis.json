@@ -2,38 +2,5 @@
     "id": "lapis",
     "ore_block": "gtceu:raw_lapis_block",
     "indicator": "gtceu:lapis_bud_indicator",
-    "translation": "material.gtceu.lapis",
-    "info": "tfg.ore_patchouli_info.lapis",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Lapis",
-            "info": "$(thing)Source of$(): Lazurite, Sodalite, Pyrite, Calcite"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Lápis-lazúri",
-            "info": "$(thing)Fonte de$(): Lazurita, Sodalita, Pirita, Calcita"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Лазуритит",
-            "info": "$(thing)Используется для$(): Лазурит, Содалит, Пирит, Кальцит"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Лазур",
-            "info": "$(thing)Джерело$(): Лазуриту, Содаліту, Пириту, Кальциту"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "青金石",
-            "info": "$(thing)来源$(): 蓝金石, 方钠石, 黄铁矿, 方解石"
-        },
-        {
-            "lang": "de_de",
-            "text": "Lapis",
-            "info": "$(thing)Quelle von$(): Lasurit, Sodalith, Pyrit, Calcit"
-        }
-    ]
+    "translation": "material.gtceu.lapis"
 }

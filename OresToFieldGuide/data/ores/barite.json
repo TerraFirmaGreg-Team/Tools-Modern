@@ -3,38 +3,5 @@
     "formula": "BaSO₂",
     "ore_block": "gtceu:raw_barite_block",
     "indicator": "gtceu:barite_indicator",
-    "translation": "material.gtceu.barite",
-    "info": "tfg.ore_patchouli_info.barite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Barite",
-            "info": "$(thing)Source of$(): Barium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Barita",
-            "info": "$(thing)Fonte de$(): Bário"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Барит",
-            "info": "$(thing)Используется для$(): Барий"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Барит",
-            "info": "$(thing)Джерело$(): Барію"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "重晶石",
-            "info": "$(thing)来源$(): 钡"
-        },
-        {
-            "lang": "de_de",
-            "text": "Baryt",
-            "info": "$(thing)Quelle von$(): Barium"
-        }
-    ]
+    "translation": "material.gtceu.barite"
 }

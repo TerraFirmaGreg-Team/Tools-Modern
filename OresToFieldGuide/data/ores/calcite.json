@@ -3,38 +3,5 @@
     "formula": "CaCO₃",
     "ore_block": "gtceu:raw_calcite_block",
     "indicator": "gtceu:calcite_indicator",
-    "translation": "material.gtceu.calcite",
-    "info": "tfg.ore_patchouli_info.calcite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Calcite",
-            "info": "$(thing)Source of$(): Calcium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Calcita",
-            "info": "$(thing)Fonte de$(): Cálcio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Кальцит",
-            "info": "$(thing)Используется для$(): Кальций"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Кальцит",
-            "info": "$(thing)Джерело$(): Кальцію"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "方解石",
-            "info": "$(thing)来源$(): 钙"
-        },
-        {
-            "lang": "de_de",
-            "text": "Kalzit",
-            "info": "$(thing)Quelle von$(): Calcium"
-        }
-    ]
+    "translation": "material.gtceu.calcite"
 }

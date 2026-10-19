@@ -3,38 +3,5 @@
     "formula": "CuFeS₂",
     "ore_block": "gtceu:raw_chalcopyrite_block",
     "indicator": "gtceu:chalcopyrite_indicator",
-    "translation": "material.gtceu.chalcopyrite",
-    "info": "tfg.ore_patchouli_info.chalcopyrite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Chalcopyrite",
-            "info": "$(thing)Melts into$(): Copper"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Calcopirita",
-            "info": "$(thing)Derrete em$(): Cobre"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Халькопирит",
-            "info": "$(thing)Плавится в$(): Медь"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Халькопирит",
-            "info": "$(thing)Розплавляється в$(): Мідь"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "黄铜矿",
-            "info": "$(thing)熔化$(): 铜"
-        },
-        {
-            "lang": "de_de",
-            "text": "Chalkopyrit",
-            "info": "$(thing)Quelle von$(): Kupfer"
-        }
-    ]
+    "translation": "material.gtceu.chalcopyrite"
 }

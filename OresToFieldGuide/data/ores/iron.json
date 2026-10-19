@@ -3,38 +3,5 @@
     "formula": "Fe",
     "ore_block": "minecraft:raw_iron_block",
     "indicator": "gtceu:iron_indicator",
-    "translation": "tfg.ore_patchouli_name.iron",
-    "info": "tfg.ore_patchouli_info.iron",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Iron",
-            "info": "$(thing)Melts into$(): Cast Iron"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Ferro",
-            "info": "$(thing)Derrete em$(): Ferro Fundido"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Железо",
-            "info": "$(thing)Плавится в$(): Железо"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Залізо",
-            "info": "$(thing)Розплавляється в$(): Чавун"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "铁矿",
-            "info": "$(thing)熔化$(): 铸铁"
-        },
-        {
-            "lang": "de_de",
-            "text": "Eisen",
-            "info": "$(thing)Schmelzt in$(): Gusseisen"
-        }
-    ]
+    "translation": "tfg.ore_patchouli_name.iron"
 }

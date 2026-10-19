@@ -4,38 +4,5 @@
     "hazard": "arsenicosis",
     "ore_block": "gtceu:raw_realgar_block",
     "indicator": "gtceu:realgar_bud_indicator",
-    "translation": "material.gtceu.realgar",
-    "info": "tfg.ore_patchouli_info.realgar",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Realgar",
-            "info": "$(thing)Source of$(): Arsenic"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Realgar",
-            "info": "$(thing)Fonte de$(): Arsênico"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Реальгар",
-            "info": "$(thing)Используется для$(): Мышьяк"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Реальгар",
-            "info": "$(thing)Джерело$(): Миш'яку"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "雄黄",
-            "info": "$(thing)来源$(): 砷"
-        },
-        {
-            "lang": "de_de",
-            "text": "Realgar",
-            "info": "$(thing)Quelle von$(): Arsen"
-        }
-    ]
+    "translation": "material.gtceu.realgar"
 }

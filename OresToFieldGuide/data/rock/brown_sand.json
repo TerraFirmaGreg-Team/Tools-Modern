@@ -3,9 +3,6 @@
 	"pattern": "gtceu:brown_sand_{0}_ore",
 	"rock_type": "sand",
 	"translation": "tfg.rock_patchouli_info.brown_sand",
-	"translations": {
-		"en_us": "Brown Sand"
-	},
 	"replaceable_blocks": [
 		"tfc:sand/brown"
 	]

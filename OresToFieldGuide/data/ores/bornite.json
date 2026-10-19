@@ -3,38 +3,5 @@
     "formula": "Cu₅FeS₄",
     "ore_block": "gtceu:raw_bornite_block",
     "indicator": "gtceu:bornite_indicator",
-    "translation": "material.gtceu.bornite",
-    "info": "tfg.ore_patchouli_info.bornite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Bornite",
-            "info": "$(thing)Melts into$(): Copper"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Bornita",
-            "info": "$(thing)Derrete em$(): Cobre"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Борнит",
-            "info": "$(thing)Используется для$(): Медь"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Борніт",
-            "info": "$(thing)Джерело$(): Мідь"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "斑铜矿",
-            "info": "$(thing)熔化$(): 铜"
-        },
-        {
-            "lang": "de_de",
-            "text": "Bornit",
-            "info": "$(thing)Quelle von$(): Kupfer"
-        }
-    ]
+    "translation": "material.gtceu.bornite"
 }

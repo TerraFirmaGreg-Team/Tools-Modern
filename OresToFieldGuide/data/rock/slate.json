@@ -3,14 +3,6 @@
 	"pattern": "gtceu:slate_{0}_ore",
 	"rock_type": "metamorphic",
 	"translation": "tfg.rock_patchouli_info.slate",
-	"translations": {
-		"en_us": "Slate",
-		"pt_br": "Ardósia",
-		"ru_ru": "Шиферный сланец",
-		"uk_ua": "Шиферний сланець",
-		"zh_cn": "板岩",
-		"de_de": "Tonschiefer"
-	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/slate"
 	]

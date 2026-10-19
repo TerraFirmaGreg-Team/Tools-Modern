@@ -42,26 +42,5 @@ namespace OresToFieldGuide
 		/// </summary>
 		[JsonPropertyName("translation")]
 		public required string TranslationKey { get; set; }
-
-		/// <summary>
-		/// Translation key for what you can do with this ore.
-		/// </summary>
-		[JsonPropertyName("info")]
-		public required string InfoKey { get; set; }
-
-		public Multiblock BuildMultiblockDisplay()
-		{
-			return new Multiblock()
-			{
-				Mapping = new Dictionary<string, string>
-				{
-					["0"] = OreOverride ?? $"#forge:ores/{ID}"
-				},
-				Pattern = [
-					["0"],
-					[" "]
-				]
-			};
-		}
 	}
 }

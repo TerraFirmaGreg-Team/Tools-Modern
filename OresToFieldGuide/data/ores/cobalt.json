@@ -3,38 +3,5 @@
     "formula": "Co",
     "ore_block": "gtceu:raw_cobalt_block",
     "indicator": "gtceu:cobalt_indicator",
-    "translation": "material.gtceu.cobalt",
-    "info": "tfg.ore_patchouli_info.cobalt",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Cobalt",
-            "info": "$(thing)Smelts into$(): Cobalt"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Cobalto",
-            "info": "$(thing)Derrete em$(): Cobalto"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Кобальт",
-            "info": "$(thing)Плавится в$(): Кобальт"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Кобальт",
-            "info": "$(thing)Розплавляється в$(): Кобальту"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "钴矿",
-            "info": "$(thing)熔化$(): 钴"
-        },
-        {
-            "lang": "de_de",
-            "text": "Kobalt",
-            "info": "$(thing)Schmelzt in$(): Kobalt"
-        }
-    ]
+    "translation": "material.gtceu.cobalt"
 }

@@ -3,38 +3,5 @@
     "formula": "(SiO₂)₄Fe",
     "ore_block": "gtceu:raw_amethyst_block",
     "indicator": "gtceu:amethyst_bud_indicator",
-    "translation": "material.gtceu.amethyst",
-    "info": "tfg.ore_patchouli_info.amethyst",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Amethyst",
-            "info": "$(thing)Source of$(): Iron"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Ametista",
-            "info": "$(thing)Fonte de$(): Ferro"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Аметист",
-            "info": "$(thing)Используется для$(): Железо"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Аметист",
-            "info": "$(thing)Джерело$(): Залізо"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "紫水晶",
-            "info": "$(thing)来源$(): 铁"
-        },
-        {
-            "lang": "de_de",
-            "text": "Amethyst",
-            "info": "$(thing)Quelle von$(): Eisen"
-        }
-    ]
+    "translation": "material.gtceu.amethyst"
 }

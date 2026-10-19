@@ -3,38 +3,5 @@
     "formula": "CaS(H₂O)₂O₄",
     "ore_block": "gtceu:raw_gypsum_block",
     "indicator": "gtceu:gypsum_indicator",
-    "translation": "material.gtceu.gypsum",
-    "info": "tfg.ore_patchouli_info.gypsum",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Gypsum",
-            "info": "$(thing)Used for$(): Alabaster (dyeable) bricks"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Gipsita",
-            "info": "$(thing)Usado para$(): Tijolos de Alabastro (tingíveis)"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Гипс",
-            "info": "$(thing)Используется для$(): Алебастр (можно покрасить) и его кирпичи"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Гіпс",
-            "info": "$(thing)Використовується для$(): Алебастрової (фарбованої) цегли"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "石膏",
-            "info": "$(thing)用于$(): 雪花石膏砖块(可染色)"
-        },
-        {
-            "lang": "de_de",
-            "text": "Gips",
-            "info": "$(thing)Verwendet für$(): (färbbare) Alabasterziegel"
-        }
-    ]
+    "translation": "material.gtceu.gypsum"
 }

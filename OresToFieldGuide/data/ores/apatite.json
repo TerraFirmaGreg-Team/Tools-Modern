@@ -3,38 +3,5 @@
     "formula": "Ca₅(PO₄)₃Cl",
     "ore_block": "gtceu:raw_apatite_block",
     "indicator": "gtceu:apatite_bud_indicator",
-    "translation": "material.gtceu.apatite",
-    "info": "tfg.ore_patchouli_info.apatite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Apatite",
-            "info": "$(thing)Source of$(): Calcium, Phosphorus, Forestry PTSD"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Apatita",
-            "info": "$(thing)Fonte de$(): Cálcio, Fósforo, TEPT Florestal"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Апатит",
-            "info": "$(thing)Используется для$(): Кальций, Фосфор"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Апатит",
-            "info": "$(thing)Джерело$(): Кальцію, Фосфору, Лісовий ПТСР"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "磷灰石",
-            "info": "$(thing)来源$(): 钙, 磷, 林业PTSD"
-        },
-        {
-            "lang": "de_de",
-            "text": "Apatit",
-            "info": "$(thing)Quelle von$(): Calcium, Phosphor, Wald-PTSD"
-        }
-    ]
+    "translation": "material.gtceu.apatite"
 }

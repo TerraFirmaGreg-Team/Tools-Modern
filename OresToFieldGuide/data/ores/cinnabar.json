@@ -3,38 +3,5 @@
     "formula": "HgS",
     "ore_block": "gtceu:raw_cinnabar_block",
     "indicator": "gtceu:cinnabar_bud_indicator",
-    "translation": "material.gtceu.cinnabar",
-    "info": "tfg.ore_patchouli_info.cinnabar",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Cinnabar",
-            "info": "$(thing)Source of$(): Mercury"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Cinábrio",
-            "info": "$(thing)Fonte de$(): Mercúrio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Киноварь",
-            "info": "$(thing)Используется для$(): Ртуть"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Кіновар",
-            "info": "$(thing)Джерело$(): Ртуті"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "朱砂",
-            "info": "$(thing)来源$(): 水银"
-        },
-        {
-            "lang": "de_de",
-            "text": "Zinnober",
-            "info": "$(thing)Quelle von$(): Quecksilber"
-        }
-    ]
+    "translation": "material.gtceu.cinnabar"
 }

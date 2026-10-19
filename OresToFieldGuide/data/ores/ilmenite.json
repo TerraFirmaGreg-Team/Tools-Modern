@@ -3,38 +3,5 @@
     "formula": "FeTiO₃",
     "ore_block": "gtceu:raw_ilmenite_block",
     "indicator": "gtceu:ilmenite_indicator",
-    "translation": "material.gtceu.ilmenite",
-    "info": "tfg.ore_patchouli_info.ilmenite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Ilmenite",
-            "info": "$(thing)Source of$(): Iron, Titanium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Ilmenita",
-            "info": "$(thing)Fonte de$(): Ferro, Titânio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Ильменит",
-            "info": "$(thing)Используется для$(): Железо, Титан"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Ільменіт",
-            "info": "$(thing)Джерело$(): Залізо, Титану"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "钛铁矿",
-            "info": "$(thing)来源$(): 铁, 钛"
-        },
-        {
-            "lang": "de_de",
-            "text": "Ilmenit",
-            "info": "$(thing)Quelle von$(): Eisen, Titan"
-        }
-    ]
+    "translation": "material.gtceu.ilmenite"
 }

@@ -5,14 +5,6 @@
 	"rock_subtype": "extrusive",
 	"rock_grade": "mafic",
 	"translation": "tfg.rock_patchouli_info.basalt",
-	"translations": {
-		"en_us": "Basalt",
-		"pt_br": "Basalto",
-		"ru_ru": "Базальт",
-		"uk_ua": "Базальт",
-		"zh_cn": "玄武岩",
-		"de_de": "Basalt"
-	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/basalt",
 		"minecraft:basalt"

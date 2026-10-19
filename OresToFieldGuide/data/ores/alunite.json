@@ -3,38 +3,5 @@
     "formula": "KAl₃Si₂H₆O₁₄",
     "ore_block": "gtceu:raw_alunite_block",
     "indicator": "gtceu:alunite_indicator",
-    "translation": "material.gtceu.alunite",
-    "info": "tfg.ore_patchouli_info.alunite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Alunite",
-            "info": "$(thing)Source of$(): Potassium, Aluminium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Alunita",
-            "info": "$(thing)Fonte de$(): Potássio, Alumínio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Алунит",
-            "info": "$(thing)Используется для$(): Калий, Алюминий"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Алуніт",
-            "info": "$(thing)Джерело$(): Калію, Алюмінію"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "明矾石",
-            "info": "$(thing)来源$(): 钾, 铝"
-        },
-        {
-            "lang": "de_de",
-            "text": "Alunit",
-            "info": "$(thing)Quelle von$(): Kalium, Aluminium"
-        }
-    ]
+    "translation": "material.gtceu.alunite"
 }

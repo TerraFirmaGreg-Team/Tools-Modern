@@ -3,38 +3,5 @@
     "formula": "MgCO₃",
     "ore_block": "gtceu:raw_magnesite_block",
     "indicator": "gtceu:magnesite_indicator",
-    "translation": "material.gtceu.magnesite",
-    "info": "tfg.ore_patchouli_info.magnesite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Magnesite",
-            "info": "$(thing)Source of$(): Magnesium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Magnesita",
-            "info": "$(thing)Fonte de$(): Magnésio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Магнезит",
-            "info": "$(thing)Используется для$(): Магний"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Магнезит",
-            "info": "$(thing)Джерело$(): Магнію"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "菱镁矿",
-            "info": "$(thing)来源$(): 镁"
-        },
-        {
-            "lang": "de_de",
-            "text": "Magnesit",
-            "info": "$(thing)Quelle von$(): Magnesium"
-        }
-    ]
+    "translation": "material.gtceu.magnesite"
 }

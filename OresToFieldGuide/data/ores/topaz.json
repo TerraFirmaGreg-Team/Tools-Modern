@@ -3,38 +3,5 @@
     "formula": "Al₂SiFH₂",
     "ore_block": "gtceu:raw_topaz_block",
     "indicator": "gtceu:topaz_bud_indicator",
-    "translation": "material.gtceu.topaz",
-    "info": "tfg.ore_patchouli_info.topaz",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Topaz",
-            "info": "$(thing)Source of$(): Aluminium, Fluorine"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Topázio",
-            "info": "$(thing)Fonte de$(): Alumínio, Flúor"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Топаз",
-            "info": "$(thing)Используется для$(): Алюминий, Фтор"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Топаз",
-            "info": "$(thing)Джерело$(): Алюмінію, Фтору"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "黄玉",
-            "info": "$(thing)来源$(): 铝, 氟"
-        },
-        {
-            "lang": "de_de",
-            "text": "Topas",
-            "info": "$(thing)Quelle von$(): Aluminium, Fluor"
-        }
-    ]
+    "translation": "material.gtceu.topaz"
 }

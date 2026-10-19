@@ -3,38 +3,5 @@
     "formula": "(Si(FeS₂)₅(CrAl₂O₃)Hg₃)(AgAu)",
     "ore_block": "gtceu:raw_electrotine_block",
     "indicator": "gtceu:electrotine_indicator",
-    "translation": "material.gtceu.electrotine",
-    "info": "tfg.ore_patchouli_info.electrotine",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Electrotine",
-            "info": "$(thing)Source of$(): Gold, Silver, Redstone"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Eletrotina",
-            "info": "$(thing)Fonte de$(): Ouro, Prata, Redstone"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Электротин",
-            "info": "$(thing)Используется для$(): Золото, Серебро, Редстоун"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Електротин",
-            "info": "$(thing)Джерело$(): Золотa, Срібла, Редстоуна"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "蓝石",
-            "info": "$(thing)来源$(): 金, 银, 红石"
-        },
-        {
-            "lang": "de_de",
-            "text": "Elektrotin",
-            "info": "$(thing)Quelle von$(): Gold, Silber, Redstone"
-        }
-    ]
+    "translation": "material.gtceu.electrotine"
 }

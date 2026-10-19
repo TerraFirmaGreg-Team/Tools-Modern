@@ -3,38 +3,5 @@
     "formula": "Nq",
     "ore_block": "gtceu:raw_naquadah_block",
     "indicator": "gtceu:naquadah_indicator",
-    "translation": "material.gtceu.naquadah",
-    "info": "tfg.ore_patchouli_info.naquadah",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Naquadah",
-            "info": "$(thing)Source of$(): Naquadah, Tritanium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Naquadah",
-            "info": "$(thing)Fonte de$(): Naquadah, Tritânio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Наквада",
-            "info": "$(thing)Используется для$(): Наквада, Тританий"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Наквадак",
-            "info": "$(thing)Джерело$(): Наквадаку, Тританію"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "硅岩",
-            "info": "$(thing)来源$(): 硅岩, 三钛"
-        },
-        {
-            "lang": "de_de",
-            "text": "Naquadah",
-            "info": "$(thing)Quelle von$(): Naquadah, Tritanium"
-        }
-    ]
+    "translation": "material.gtceu.naquadah"
 }

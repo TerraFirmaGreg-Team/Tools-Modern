@@ -3,38 +3,5 @@
     "formula": "CeCFO₃",
     "ore_block": "gtceu:raw_bastnasite_block",
     "indicator": "gtceu:bastnasite_indicator",
-    "translation": "material.gtceu.bastnasite",
-    "info": "tfg.ore_patchouli_info.bastnasite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Bastnasite",
-            "info": "$(thing)Source of$(): Cerium, Fluorine"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Bastnasita",
-            "info": "$(thing)Fonte de$(): Cério, Flúor"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Бастнезит",
-            "info": "$(thing)Используется для$(): Церий, Фтор"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Бастнезит",
-            "info": "$(thing)Джерело$(): Церію, Фтору"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "氟碳镧铈矿",
-            "info": "$(thing)来源$(): 铈, 氟"
-        },
-        {
-            "lang": "de_de",
-            "text": "Bastnäsit",
-            "info": "$(thing)Quelle von$(): Cer, Fluor"
-        }
-    ]
+    "translation": "material.gtceu.bastnasite"
 }

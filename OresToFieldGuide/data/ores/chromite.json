@@ -4,38 +4,5 @@
     "hazard": "irritant",
     "ore_block": "gtceu:raw_chromite_block",
     "indicator": "firmalife:ore/small_chromite",
-    "translation": "material.gtceu.chromite",
-    "info": "tfg.ore_patchouli_info.chromite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Chromite",
-            "info": "$(thing)Source of$(): Chromium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Cromita",
-            "info": "$(thing)Fonte de$(): Cromo"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Хромит",
-            "info": "$(thing)Используется для$(): Хром"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Хроміт",
-            "info": "$(thing)Джерело$(): Хрому"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "铬铁矿",
-            "info": "$(thing)来源$(): 铬"
-        },
-        {
-            "lang": "de_de",
-            "text": "Chromit",
-            "info": "$(thing)Quelle von$(): Chrom"
-        }
-    ]
+    "translation": "material.gtceu.chromite"
 }

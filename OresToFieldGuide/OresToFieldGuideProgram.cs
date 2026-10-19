@@ -12,13 +12,21 @@ namespace OresToFieldGuide
 		public static readonly string[] s_locales =
 		[
 			"en_us", // US English
-			"ru_ru", // Russian
-			"uk_ua", // Ukranian
-			"pt_br", // Brazilian Portuguese
-			"zh_cn", // Simplified Chinese
-			"fr_fr", // French
-			"ja_jp", // Japanese
-			"de_de", // German
+			"de_de",
+			"es_es",
+			"et_ee",
+			"hu_hu",
+			"ja_jp",
+			"ko_kr",
+			"lt_lt",
+			"pl_pl",
+			"pt_br",
+			"ru_ru",
+			"sv_se",
+			"tr_tr",
+			"uk_ua",
+			"zh_cn",
+			"zh_tw"
 		];
 
 		private readonly JsonSerializerOptions m_jsonOptions = new()
@@ -59,15 +67,11 @@ namespace OresToFieldGuide
 			ExportPlacedVeins();
 			ExportTags();
 
-			// 4) Write out patchouli
-
-			//ExportPatchouliEntries();
-
-			// 5) Write out EMI vein pages & translation keys
+			// 4) Write out EMI vein pages & translation keys
 			ExportOreTranslationKeys();
 			ExportEmiOreData();
 
-			// 6) Generate spreadsheet
+			// 5) Generate spreadsheet
 
 			var spreadsheet = new Spreadsheet(m_veinDict, m_rockDict, m_oreDict, m_translations);
 			spreadsheet.Export(m_arguments.DataFolder);
@@ -163,347 +167,6 @@ namespace OresToFieldGuide
 				foreach (var wb in vein.Ores)
 				{
 					wb.WeightPercent = (wb.Weight / totalWeight) * 100.0;
-				}
-			}
-		}
-
-		private string GetFieldGuideOutputDirectory(string locale)
-		{
-			return Path.Combine(m_arguments.ModpackFolder, "kubejs/assets/tfc/patchouli_books/field_guide", locale, "entries/tfg_ores");
-		}
-
-		private PatchouliEntry GenerateOreIndexForDimension(string locale, Dimension dim)
-		{
-			var entry = new PatchouliEntry()
-			{
-				FileNameWithoutExtension = $"{dim.ID}_ore_index",
-				Icon = dim.OreIndexIcon,
-				Name = m_translations.Get(locale, dim.OreIndexTranslationKey),
-				ReadByDefault = true,
-				SortNum = dim.SortOrder * 2,
-				Pages = []
-			};
-
-			// First page
-
-			int numPages = 0;
-
-			var pageBuilder = new PatchouliStringBuilder(new StringBuilder());
-			pageBuilder.Append(string.Format(m_translations.Get(locale, "tfg.ore_patchouli_info.ore_index_format"), m_translations.Get(locale, dim.NameTranslationKey)));
-
-			entry.Pages.Add(new TextPage()
-			{
-				Title = m_translations.Get(locale, dim.OreIndexTranslationKey),
-				Text = pageBuilder.Dump(),
-			});
-			numPages++;
-
-			// Build the list of veins, sorted alphabetically, with each vein sorted by densest
-
-			var sortedVeins = m_oreDict.Values.Select(ore =>
-				(ore,
-				m_veinDict[dim]
-					.Where(vein =>
-						vein.Ores
-							.Any(wb => wb.OreID == ore.ID))
-							.OrderByDescending(vein =>
-								vein.Ores.Single(wb => wb.OreID == ore.ID).Weight)))
-				.Where(tuple => tuple.Item2.Any())
-				.OrderBy(tuple => m_translations.Get(locale, tuple.ore.TranslationKey));
-
-			// Build the pages
-
-			foreach (var chunk in sortedVeins.Chunk(14))
-			{
-				foreach ((var ore, var veins) in chunk)
-				{
-					pageBuilder.Append("$(li)");
-					pageBuilder.Append($"{m_translations.Get(locale, ore.TranslationKey)}: ");
-
-					foreach (var vein in veins)
-					{
-						var wb = vein.Ores.Single(wb => wb.OreID == ore.ID);
-						pageBuilder.InternalLink($"{(int) wb.WeightPercent!}%", $"tfg_ores/{dim.ID}_vein_index", vein.ID, true);
-
-						if (vein != veins.Last())
-						{
-							pageBuilder.Append(", ");
-						}
-					}
-
-					pageBuilder.Append(PatchouliStringBuilder.EMPTY);
-				}
-
-				entry.Pages.Add(new TextPage()
-				{
-					Text = pageBuilder.Dump()
-				});
-				numPages++;
-			}
-
-			return entry;
-		}
-
-		private PatchouliEntry GenerateVeinIndexForDimension(string locale, Dimension dim)
-		{
-			var entry = new PatchouliEntry()
-			{
-				FileNameWithoutExtension = $"{dim.ID}_vein_index",
-				Icon = dim.VeinIndexIcon,
-				Name = m_translations.Get(locale, dim.VeinIndexTranslationKey),
-				ReadByDefault = true,
-				SortNum = (dim.SortOrder * 2) + 1,
-				Pages = []
-			};
-
-			// First page
-
-			int numPages = 0;
-
-			var pageBuilder = new PatchouliStringBuilder(new StringBuilder());
-			pageBuilder.Append(string.Format(m_translations.Get(locale, "tfg.ore_patchouli_info.vein_index_format"), m_translations.Get(locale, dim.NameTranslationKey)));
-
-			entry.Pages.Add(new TextPage()
-			{
-				Title = m_translations.Get(locale, dim.VeinIndexTranslationKey),
-				Text = pageBuilder.Dump()
-			});
-			numPages++;
-
-			// Index pages
-
-			foreach (var chunk in m_veinDict[dim].OrderBy(v => v.TranslatedNames[locale]).Chunk(14))
-			{
-				foreach (var vein in chunk)
-				{
-					pageBuilder.Append("$(li)");
-					pageBuilder.InternalLink(vein.TranslatedNames[locale], $"tfg_ores/{dim.ID}_vein_index", vein.ID);
-					pageBuilder.Append(PatchouliStringBuilder.EMPTY);
-				}
-
-				entry.Pages.Add(new TextPage()
-				{
-					Text = pageBuilder.Dump()
-				});
-				numPages++;
-			}
-
-			// If there's an odd number of pages, add a blank one
-
-			if (numPages % 2 != 0)
-			{
-				entry.Pages.Add(new EmptyPage());
-			}
-
-			// Vein pages
-
-			foreach (var vein in m_veinDict[dim].OrderBy(v => v.TranslatedNames[locale]))
-			{
-				numPages = 0;
-
-				// Vein info page
-
-				pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.rarity"));
-				pageBuilder.Append($": 1/{vein.Config.Rarity} ");
-				pageBuilder.Append(m_translations.Get(locale, "tfg.ore_patchouli_info.chunks"));
-				pageBuilder.LineBreak();
-
-				pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.density"));
-				pageBuilder.Append($": {Math.Round(vein.Config.Density * 100)}%");
-				pageBuilder.LineBreak();
-
-				pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.type"));
-				pageBuilder.Append($": {m_translations.Get(locale, $"tfg.ore_patchouli_info.{vein.Type[4..]}")}");
-				pageBuilder.LineBreak();
-
-				if (vein.Project)
-				{
-					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.project"));
-				}
-				else
-				{
-					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.y"));
-				}
-				pageBuilder.Append($": {vein.Config.MinY} — {vein.Config.MaxY}");
-				pageBuilder.LineBreak();
-
-				if (vein.Type == "tfc:disc_vein")
-				{
-					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.size"));
-					pageBuilder.Append($": {vein.Config.Size}");
-					pageBuilder.LineBreak();
-
-					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.height"));
-					pageBuilder.Append($": {vein.Config.Height}");
-				}
-				else if (vein.Type == "tfc:cluster_vein")
-				{
-					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.size"));
-					pageBuilder.Append($": {vein.Config.Size}");
-				}
-				else // pipe vein
-				{
-					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.height"));
-					pageBuilder.Append($": {vein.Config.Height}");
-					pageBuilder.LineBreak();
-
-					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.radius"));
-					pageBuilder.Append($": {vein.Config.Radius}");
-				}
-
-				if (vein.Indicator!.Depth > 1)
-				{
-					pageBuilder.LineBreak();
-					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.indicator_depth"));
-					pageBuilder.Append($": {vein.Indicator!.Depth}");
-				}
-
-				if (vein.NearLava)
-				{
-					pageBuilder.LineBreak();
-					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.near_lava"));
-				}
-
-				pageBuilder.LineBreak();
-				pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.biomes"));
-				if (vein.BiomeTag is null)
-				{
-					pageBuilder.Append($": {m_translations.Get(locale, "tfg.ore_patchouli_info.biomes_any")}");
-				}
-				else
-				{
-					string translatedBiomeList = string.Join(", ", m_tags
-						.GetBiomeTranslationKeys(vein.BiomeTag)
-						.Select(biome => m_translations.Get(locale, biome)));
-
-					pageBuilder.Append($": $(t:{translatedBiomeList}){m_translations.Get(locale, m_tags.GetTagTranslationKey(vein.BiomeTag))}$(/t)");
-				}
-
-				if (vein.Climate is not null)
-				{
-					if (vein.Climate.MinRainfall is not null || vein.Climate.MaxRainfall is not null)
-					{
-						pageBuilder.LineBreak();
-						pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.rainfall"));
-						pageBuilder.Append($": {vein.Climate.MinRainfall ?? 0} - {vein.Climate.MaxRainfall ?? 500}mm");
-					}
-
-					if (vein.Climate.MinTemperature is not null && vein.Climate.MaxTemperature is null)
-					{
-						pageBuilder.LineBreak();
-						pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.temperature"));
-						pageBuilder.Append($": {string.Format(m_translations.Get(locale, "tfg.ore_patchouli_info.temperature_and_above"), vein.Climate.MinTemperature)}");
-					}
-					else if (vein.Climate.MinTemperature is null && vein.Climate.MaxTemperature is not null)
-					{
-						pageBuilder.LineBreak();
-						pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.temperature"));
-						pageBuilder.Append($": {string.Format(m_translations.Get(locale, "tfg.ore_patchouli_info.temperature_and_below"), vein.Climate.MaxTemperature)}");
-					}
-					else if (vein.Climate.MinTemperature is not null && vein.Climate.MaxTemperature is not null)
-					{
-						pageBuilder.LineBreak();
-						pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.temperature"));
-						pageBuilder.Append($": {vein.Climate.MinTemperature} - {vein.Climate.MaxTemperature}°C");
-					}
-				}
-
-				pageBuilder.LineBreak2();
-				pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.stone_types"));
-				pageBuilder.Append($": {string.Join(", ", vein.Rocks.Select(r => m_translations.Get(locale, m_rockDict[r].TranslationKey)).Order())}");
-
-				entry.Pages.Add(new TextPage
-				{
-					Title = vein.TranslatedNames[locale],
-					Text = pageBuilder.Dump(),
-					Anchor = vein.ID
-				});
-				numPages++;
-
-				// One page per ore in the vein
-
-				foreach (var block in vein.Ores.OrderByDescending(wb => wb.Weight))
-				{
-					var ore = m_oreDict[block.OreID];
-
-					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.percentage"));
-					pageBuilder.Append($": {(int) block.WeightPercent!}%");
-
-					pageBuilder.LineBreak();
-					pageBuilder.Append(m_translations.Get(locale, ore.InfoKey));
-					
-					if (ore.Formula != null)
-					{
-						pageBuilder.LineBreak();
-						pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.formula"));
-						pageBuilder.Append($": {ore.Formula}");
-					}
-
-					if (ore.Hazard != null)
-					{
-						pageBuilder.LineBreak();
-						pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.hazard"));
-						pageBuilder.Append(": ");
-						pageBuilder.Color(m_translations.Get(locale, $"tfg.ore_patchouli_info.{ore.Hazard}"), MinecraftColorCode.Red);
-					}
-
-					entry.Pages.Add(new MultiblockPage
-					{
-						Name = m_translations.Get(locale, ore.TranslationKey),
-						EnableVisualize = false,
-						Text = pageBuilder.Dump(),
-						Multiblock = ore.BuildMultiblockDisplay()
-					});
-					numPages++;
-				}
-
-				// If there's an odd number of pages, add a blank one
-
-				if (numPages % 2 != 0)
-				{
-					entry.Pages.Add(new EmptyPage());
-				}
-			}
-
-			return entry;
-		}
-
-		private void ExportPatchouliEntries()
-		{
-			foreach (string locale in s_locales)
-			{
-				// Clear out existing files
-				var outputDir = GetFieldGuideOutputDirectory(locale);
-
-				if (Directory.Exists(outputDir))
-				{
-					foreach (var existingPath in Directory.EnumerateFiles(outputDir, "*.json"))
-					{
-						if (!m_arguments.WhitelistedPatchouliEntryFilenames.Contains(Path.GetFileNameWithoutExtension(existingPath)))
-						{
-							File.Delete(existingPath);
-						}
-					}
-				}
-				else
-				{
-					Directory.CreateDirectory(outputDir);
-				}
-
-				// Then write new ones
-				foreach (var dimension in m_dimensionDict.Values)
-				{
-					var oreIndex = GenerateOreIndexForDimension(locale, dimension);
-
-					string oreJson = JsonSerializer.Serialize(oreIndex, m_jsonOptions);
-					File.WriteAllText(Path.Combine(outputDir, oreIndex.FileNameWithoutExtension + ".json"), oreJson);
-					ConsoleLogHelper.WriteLine($"Wrote out {locale} {oreIndex.FileNameWithoutExtension}", LogLevel.Info);
-
-					var veinIndex = GenerateVeinIndexForDimension(locale, dimension);
-
-					string veinJson = JsonSerializer.Serialize(veinIndex, m_jsonOptions);
-					File.WriteAllText(Path.Combine(outputDir, veinIndex.FileNameWithoutExtension + ".json"), veinJson);
-					ConsoleLogHelper.WriteLine($"Wrote out {locale} {veinIndex.FileNameWithoutExtension}", LogLevel.Info);
 				}
 			}
 		}

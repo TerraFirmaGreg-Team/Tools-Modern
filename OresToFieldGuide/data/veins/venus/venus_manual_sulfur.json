@@ -37,38 +37,5 @@
 	"indicator": {
 		"rarity": 20,
 		"depth": 30
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Sulfur & Pyrite",
-			"info": "Only appears in the $(thing)Sulfuric Ravines$() biome.",
-			"emi": "Only in Sulfuric Ravine."
-		},
-
-		{
-			"lang": "ru_ru",
-			"text": "Сера и Пирит",
-			"info": "Встречается только в $(thing)Сернистых ущельях$().",
-			"emi": "Только в Сернистом ущелье."
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Сірка та Пірит",
-			"info": "З’являється лише в біомі $(thing)Сірчані Розломи$().",
-			"emi": "Лише в біомі Сірчаний Розлом."
-		},
-		{
-			"lang": "zh_cn",
-			"text": "硫, 黄铁矿",
-			"info": "仅出现在$(thing)硫磺峡谷$()生物群系。",
-			"emi": "仅出现在硫磺峡谷生物群系。"
-		},
-        {
-            "lang": "de_de",
-            "text": "Schwefel & Pyrit",
-            "info": "Erscheint nur im $(thing)Schwefelschlucht$() Biom.",
-			"emi": "Nur in Schwefelschlucht."
-        }
-	]
+	}
 }

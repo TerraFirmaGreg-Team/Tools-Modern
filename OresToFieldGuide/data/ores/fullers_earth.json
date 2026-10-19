@@ -3,38 +3,5 @@
     "formula": "MgSi₄H(H₂O)₄O₁₁",
     "ore_block": "gtceu:raw_fullers_earth_block",
     "indicator": "gtceu:fullers_earth_indicator",
-    "translation": "material.gtceu.fullers_earth",
-    "info": "tfg.ore_patchouli_info.fullers_earth",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Fuller's Earth",
-            "info": "$(thing)Source of$(): Magnesium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Terra de Fuller",
-            "info": "$(thing)Fonte de$(): Magnésio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Смектическая глина",
-            "info": "$(thing)Используется для$(): Магний"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Земля Фуллера",
-            "info": "$(thing)Джерело$(): Магнезії"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "漂白土",
-            "info": "$(thing)来源$(): 镁"
-        },
-        {
-            "lang": "de_de",
-            "text": "Bleicherde",
-            "info": "$(thing)Quelle von$(): Magnesium"
-        }
-    ]
+    "translation": "material.gtceu.fullers_earth"
 }

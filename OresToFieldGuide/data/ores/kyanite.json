@@ -3,38 +3,5 @@
     "formula": "Al₂SiO₅",
     "ore_block": "gtceu:raw_kyanite_block",
     "indicator": "gtceu:kyanite_indicator",
-    "translation": "material.gtceu.kyanite",
-    "info": "tfg.ore_patchouli_info.kyanite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Kyanite",
-            "info": "$(thing)Source of$(): Aluminium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Cianita",
-            "info": "$(thing)Fonte de$(): Alumínio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Ционит",
-            "info": "$(thing)Используется для$(): Алюминий"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Кіаніт",
-            "info": "$(thing)Джерело$(): Алюмінію"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "蓝晶石",
-            "info": "$(thing)来源$(): 铝"
-        },
-        {
-            "lang": "de_de",
-            "text": "Kyanit",
-            "info": "$(thing)Quelle von$(): Aluminium"
-        }
-    ]
+    "translation": "material.gtceu.kyanite"
 }

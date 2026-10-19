@@ -4,38 +4,5 @@
     "hazard": "asbestosis",
     "ore_block": "gtceu:raw_asbestos_block",
     "indicator": "gtceu:asbestos_indicator",
-    "translation": "material.gtceu.asbestos",
-    "info": "tfg.ore_patchouli_info.asbestos",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Asbestos",
-            "info": "$(thing)Source of$(): Magnesium, Lung cancer"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Amianto",
-            "info": "$(thing)Fonte de$(): Magnésio, Câncer de pulmão"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Асбест",
-            "info": "$(thing)Используется для$(): Магний"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Азбест",
-            "info": "$(thing)Джерело$(): Магнію, Рак легенів"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "石棉",
-            "info": "$(thing)来源$(): 镁, 肺癌"
-        },
-        {
-            "lang": "de_de",
-            "text": "Asbest",
-            "info": "$(thing)Quelle von$(): Magnesium, Lungenkrebs"
-        }
-    ]
+    "translation": "material.gtceu.asbestos"
 }

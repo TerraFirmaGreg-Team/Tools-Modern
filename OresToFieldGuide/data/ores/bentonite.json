@@ -3,38 +3,5 @@
     "formula": "NaMg₆Si₁₂H₄(H₂O)₅O₃₆",
     "ore_block": "gtceu:raw_bentonite_block",
     "indicator": "gtceu:bentonite_indicator",
-    "translation": "material.gtceu.bentonite",
-    "info": "tfg.ore_patchouli_info.bentonite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Bentonite",
-            "info": "$(thing)Source of$(): Sodium, Magnesium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Bentonita",
-            "info": "$(thing)Fonte de$(): Sódio, Magnésio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Бентонит",
-            "info": "$(thing)Используется для$(): Натрий, Магний"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Бентоніт",
-            "info": "$(thing)Джерело$(): Натрію, Магнію"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "膨润土",
-            "info": "$(thing)来源$(): 钠, 镁"
-        },
-        {
-            "lang": "de_de",
-            "text": "Bentonit",
-            "info": "$(thing)Quelle von$(): Natrium, Magnesium"
-        }
-    ]
+    "translation": "material.gtceu.bentonite"
 }

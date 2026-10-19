@@ -3,38 +3,5 @@
     "formula": "Ca₂Nb₂O₇",
     "ore_block": "gtceu:raw_pyrochlore_block",
     "indicator": "gtceu:pyrochlore_indicator",
-    "translation": "material.gtceu.pyrochlore",
-    "info": "tfg.ore_patchouli_info.pyrochlore",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Pyrochlore",
-            "info": "$(thing)Source of$(): Niobium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Pirocloro",
-            "info": "$(thing)Fonte de$(): Nióbio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Пирохлор",
-            "info": "$(thing)Используется для$(): Ниобий"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Пірохлор",
-            "info": "$(thing)Джерело$(): Ніобій"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "烧绿石",
-            "info": "$(thing)来源$(): 铌"
-        },
-        {
-            "lang": "de_de",
-            "text": "Pyrochlor",
-            "info": "$(thing)Quelle von$(): Niob"
-        }
-    ]
+    "translation": "material.gtceu.pyrochlore"
 }

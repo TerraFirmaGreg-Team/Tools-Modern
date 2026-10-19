@@ -3,9 +3,6 @@
 	"pattern": "gtceu:yellow_sand_{0}_ore",
 	"rock_type": "sand",
 	"translation": "tfg.rock_patchouli_info.yellow_sand",
-	"translations": {
-		"en_us": "Yellow Sand"
-	},
 	"replaceable_blocks": [
 		"tfc:sand/yellow"
 	]

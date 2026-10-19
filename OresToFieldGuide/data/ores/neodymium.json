@@ -3,38 +3,5 @@
     "formula": "Nd",
     "ore_block": "gtceu:raw_neodymium_block",
     "indicator": "gtceu:neodymium_indicator",
-    "translation": "material.gtceu.neodymium",
-    "info": "tfg.ore_patchouli_info.neodymium",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Neodymium",
-            "info": "$(thing)Source of$(): Neodymium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Neodímio",
-            "info": "$(thing)Fonte de$(): Neodímio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Неодим",
-            "info": "$(thing)Используется для$(): Неодим"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Неодим",
-            "info": "$(thing)Джерело$(): Неодиму"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "钕矿",
-            "info": "$(thing)来源$(): 钕"
-        },
-        {
-            "lang": "de_de",
-            "text": "Neodym",
-            "info": "$(thing)Quelle von$(): Neodym"
-        }
-    ]
+    "translation": "material.gtceu.neodymium"
 }

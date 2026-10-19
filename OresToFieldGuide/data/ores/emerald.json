@@ -3,38 +3,5 @@
     "formula": "Be₃Al₂Si₆O₁₈",
     "ore_block": "gtceu:raw_emerald_block",
     "indicator": "gtceu:emerald_bud_indicator",
-    "translation": "material.gtceu.emerald",
-    "info": "tfg.ore_patchouli_info.emerald",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Emerald",
-            "info": "$(thing)Used for$(): MV components, Item tag filters"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Esmeralda",
-            "info": "$(thing)Usado para$(): Components MV, Filtros de Tag de Item"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Изумруд",
-            "info": "$(thing)Используется для$(): MV компоненты, Предметные фильтры (Тэг)"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Смарагд",
-            "info": "$(thing)Використовується для$(): MV компонентів, Фільтр тегів предметів"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "绿宝石",
-            "info": "$(thing)用于$(): MV组件, 标签过滤卡"
-        },
-        {
-            "lang": "de_de",
-            "text": "Smaragd",
-            "info": "$(thing)Verwendet für$(): MV Komponenten, Gegenstandsfilter"
-        }
-    ]
+    "translation": "material.gtceu.emerald"
 }

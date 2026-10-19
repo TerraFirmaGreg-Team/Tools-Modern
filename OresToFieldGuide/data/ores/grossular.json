@@ -3,38 +3,5 @@
     "formula": "Ca₃Al₂Si₃O₁₂",
     "ore_block": "gtceu:raw_grossular_block",
     "indicator": "gtceu:grossular_bud_indicator",
-    "translation": "material.gtceu.grossular",
-    "info": "tfg.ore_patchouli_info.grossular",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Grossular",
-            "info": "$(thing)Source of$(): Calcium, Aluminium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Glossulária",
-            "info": "$(thing)Fonte de$(): Cálcio, Alumínio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Гроссуляр",
-            "info": "$(thing)Используется для$(): Кальций, Алюминий"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Гроссуляр",
-            "info": "$(thing)Джерело$(): Кальцію, Алюмінію"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "钙铝榴石",
-            "info": "$(thing)来源$(): 钙, 铝"
-        },
-        {
-            "lang": "de_de",
-            "text": "Grossular",
-            "info": "$(thing)Quelle von$(): Calcium, Aluminium"
-        }
-    ]
+    "translation": "material.gtceu.grossular"
 }

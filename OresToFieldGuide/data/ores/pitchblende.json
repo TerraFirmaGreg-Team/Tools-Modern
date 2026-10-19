@@ -4,38 +4,5 @@
     "hazard": "radioactive",
     "ore_block": "gtceu:raw_pitchblende_block",
     "indicator": "gtceu:pitchblende_indicator",
-    "translation": "material.gtceu.pitchblende",
-    "info": "tfg.ore_patchouli_info.pitchblende",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Pitchblende",
-            "info": "$(thing)Source of$(): Uranium, Thorium, Lead"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Pechblenda",
-            "info": "$(thing)Fonte de$(): Urânio, Tório, Chumbo"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Уранит",
-            "info": "$(thing)Используется для$(): Уран, Торий, Свинец"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Настуран",
-            "info": "$(thing)Джерело$(): Урану, Торію, Свинцю"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "沥青铀矿",
-            "info": "$(thing)来源$(): 铀, 钍, 铅"
-        },
-        {
-            "lang": "de_de",
-            "text": "Pechblende",
-            "info": "$(thing)Quelle von$(): Uran, Thorium, Blei"
-        }
-    ]
+    "translation": "material.gtceu.pitchblende"
 }

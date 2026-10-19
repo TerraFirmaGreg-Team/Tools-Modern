@@ -4,38 +4,5 @@
     "hazard": "weak_poison",
     "ore_block": "gtceu:raw_galena_block",
     "indicator": "gtceu:galena_indicator",
-    "translation": "material.gtceu.galena",
-    "info": "tfg.ore_patchouli_info.galena",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Galena",
-            "info": "$(thing)Smelts into$(): Lead"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Galena",
-            "info": "$(thing)Derrete em$(): Chumbo"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Галена",
-            "info": "$(thing)Плавится в$(): Свинец"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Галена",
-            "info": "$(thing)Розплавляється в$(): Свинцю"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "方铅矿",
-            "info": "$(thing)熔化$(): 铅"
-        },
-        {
-            "lang": "de_de",
-            "text": "Galenit",
-            "info": "$(thing)Schmelzt in$(): Blei"
-        }
-    ]
+    "translation": "material.gtceu.galena"
 }

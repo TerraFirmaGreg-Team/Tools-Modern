@@ -68,37 +68,5 @@
 				"weight": 5
 			}
 		]
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Salts & Spodumene",
-			"info": "Only appears in the $(thing)Salt Flats$() biome.",
-			"emi": "Only in Salt Flats."
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Соли и Cподумен",
-			"info": "Встречается только в $(thing)Соляных равнинах$().",
-			"emi": "Только в Соляных равнинах."
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Солі і Сподумен",
-			"info": "З’являється лише в біомі $(thing)Соляні Рівнини$().",
-			"emi": "Лише в біомі Соляні Рівнини."
-		},
-		{
-			"lang": "zh_cn",
-			"text": "盐, 锂辉石",
-			"info": "仅出现在$(thing)盐滩$()生物群系。",
-			"emi": "仅出现在盐滩生物群系。"
-		},
-        {
-            "lang": "de_de",
-            "text": "Salze & Spodumen",
-            "info": "Erscheint nur im $(thing)Salzebenen$() Biom.",
-			"emi": "Nur in Salzebenen."
-        }
-	]
+	}
 }

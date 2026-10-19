@@ -3,38 +3,5 @@
     "formula": "(Fe₃O₄)((SiO₂)₄(KMg₃Al₃F₂Si₃O₁₀))",
     "ore_block": "gtceu:raw_granitic_mineral_sand_block",
     "indicator": "gtceu:granitic_mineral_sand_indicator",
-    "translation": "material.gtceu.granitic_mineral_sand",
-    "info": "tfg.ore_patchouli_info.granitic_mineral_sand",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Granitic Mineral Sand",
-            "info": "$(thing)Melts into$(): Cast Iron"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Areia Mineral Granítica",
-            "info": "$(thing)Derrete em$(): Ferro Fundido"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Гранитовый минеральный песок",
-            "info": "$(thing)Плавится в$(): Железо"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Гранітний мінеральний пісок",
-            "info": "$(thing)Розплавляється в$(): Чавун"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "花岗岩矿砂",
-            "info": "$(thing)熔化$(): 铸铁"
-        },
-        {
-            "lang": "de_de",
-            "text": "Granitischer Mineralsand",
-            "info": "$(thing)Schmelzt in$(): Gusseisen"
-        }
-    ]
+    "translation": "material.gtceu.granitic_mineral_sand"
 }

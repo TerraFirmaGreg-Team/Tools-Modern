@@ -3,38 +3,5 @@
     "formula": "(SiO₂)₈(Fe₂O₃)(Al₂O₃)",
     "ore_block": "gtceu:raw_diatomite_block",
     "indicator": "gtceu:diatomite_indicator",
-    "translation": "material.gtceu.diatomite",
-    "info": "tfg.ore_patchouli_info.diatomite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Diatomite",
-            "info": "$(thing)Source of$(): Iron, Aluminium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Diatomita",
-            "info": "$(thing)Fonte de$(): Ferro, Alumínio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Диатомовый пелит",
-            "info": "$(thing)Используется для$(): Железо, Алюминий"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Діатоміт",
-            "info": "$(thing)Джерело$(): Заліза, Алюмінію"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "硅藻土",
-            "info": "$(thing)来源$(): 铁, 铝"
-        },
-        {
-            "lang": "de_de",
-            "text": "Kieselgur",
-            "info": "$(thing)Quelle von$(): Eisen, Aluminium"
-        }
-    ]
+    "translation": "material.gtceu.diatomite"
 }

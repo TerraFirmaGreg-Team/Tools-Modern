@@ -3,38 +3,5 @@
     "formula": "Al₂SiF₂H₂O₆",
     "ore_block": "gtceu:raw_blue_topaz_block",
     "indicator": "gtceu:blue_topaz_bud_indicator",
-    "translation": "material.gtceu.blue_topaz",
-    "info": "tfg.ore_patchouli_info.blue_topaz",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Blue Topaz",
-            "info": "$(thing)Source of$(): Aluminium, Fluorine"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Topázio Azul",
-            "info": "$(thing)Fonte de$(): Alumínio, Flúor"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Синий топаз",
-            "info": "$(thing)Используется для$(): Алюминий, Фтор"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Блакитний топаз",
-            "info": "$(thing)Джерело$(): Алюмінію, Фтору"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "蓝黄玉",
-            "info": "$(thing)来源$(): 铝, 氟"
-        },
-        {
-            "lang": "de_de",
-            "text": "Blautopas",
-            "info": "$(thing)Quelle von$(): Aluminium, Fluor"
-        }
-    ]
+    "translation": "material.gtceu.blue_topaz"
 }

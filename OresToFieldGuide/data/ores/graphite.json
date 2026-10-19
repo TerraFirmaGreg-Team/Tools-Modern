@@ -3,38 +3,5 @@
     "formula": "C",
     "ore_block": "gtceu:raw_graphite_block",
     "indicator": "gtceu:graphite_indicator",
-    "translation": "material.gtceu.graphite",
-    "info": "tfg.ore_patchouli_info.graphite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Graphite",
-            "info": "$(thing)Used for$(): $(l:mechanics/fire_clay)Fire Clay$(), Graphene"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Grafite",
-            "info": "$(thing)Usado para$(): $(l:mechanics/fire_clay)Argila Refratária$(), Grafeno"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Графит",
-            "info": "$(thing)Используется для$(): $(l:mechanics/fire_clay)Огнеупорная глина$(), Графен"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Графіт",
-            "info": "$(thing)Використовується для$(): $(l:mechanics/fire_clay)Вогнетривкової глини$(), Графену"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "石墨",
-            "info": "$(thing)用于$(): $(l:mechanics/fire_clay)耐火粘土$(), 石墨烯"
-        },
-        {
-            "lang": "de_de",
-            "text": "Graphit",
-            "info": "$(thing)Verwendet für$(): $(l:mechanics/fire_clay)Schamotte$(), Graphen"
-        }
-    ]
+    "translation": "material.gtceu.graphite"
 }

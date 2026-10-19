@@ -3,13 +3,5 @@
     "formula": "Ir₄Ru₁Rh₁Pt₁As₇S₇",
     "ore_block": "gtceu:raw_irarsite_block",
     "indicator": "gtceu:irarsite_indicator",
-    "translation": "material.gtceu.irarsite",
-    "info": "tfg.ore_patchouli_info.irarsite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Irarsite",
-            "info": "$(thing)Source of$(): Iridium, Arsenic, Sulfur"
-        }
-    ]
+    "translation": "material.gtceu.irarsite"
 }

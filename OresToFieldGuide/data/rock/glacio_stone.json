@@ -5,14 +5,6 @@
 	"rock_subtype": "extrusive",
 	"rock_grade": "intermediate",
 	"translation": "tfg.rock_patchouli_info.glacio_stone",
-	"translations": {
-		"en_us": "Phonolite",
-		"pt_br": "Fonolito",
-		"ru_ru": "Фонолит",
-		"uk_ua": "Фоноліт",
-		"zh_cn": "响岩",
-		"de_de": "Phonolith"
-	},
 	"replaceable_blocks": [
 		"ad_astra:glacio_stone"
 	]

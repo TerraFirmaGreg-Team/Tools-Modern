@@ -3,38 +3,5 @@
     "formula": "Al₂Mg₃Si₃O₁₂",
     "ore_block": "gtceu:raw_pyrope_block",
     "indicator": "gtceu:pyrope_bud_indicator",
-    "translation": "material.gtceu.pyrope",
-    "info": "tfg.ore_patchouli_info.pyrope",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Pyrope",
-            "info": "$(thing)Source of$(): Aluminium, Magnesium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Piropo",
-            "info": "$(thing)Fonte de$(): Alumínio, Magnésio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Пироп",
-            "info": "$(thing)Используется для$(): Алюминий, Магний"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Піроп",
-            "info": "$(thing)Джерело$(): Алюмінію, Магнію"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "镁铝榴石",
-            "info": "$(thing)来源$(): 铝, 镁"
-        },
-        {
-            "lang": "de_de",
-            "text": "Pyrop",
-            "info": "$(thing)Quelle von$(): Aluminium, Magnesium"
-        }
-    ]
+    "translation": "material.gtceu.pyrope"
 }

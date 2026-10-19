@@ -3,38 +3,5 @@
     "formula": "Pt₃NiSPd",
     "ore_block": "gtceu:raw_cooperite_block",
     "indicator": "gtceu:cooperite_indicator",
-    "translation": "material.gtceu.cooperite",
-    "info": "tfg.ore_patchouli_info.cooperite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Cooperite",
-            "info": "$(thing)Source of$(): Platinum, Nickel, Palladium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Cooperita",
-            "info": "$(thing)Fonte de$(): Platina, Níquel, Paládio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Куперит",
-            "info": "$(thing)Используется для$(): Платина, Никель, Палладий"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Куперит",
-            "info": "$(thing)Джерело$(): Платини, Нікелю, Паладію"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "硫铂矿",
-            "info": "$(thing)来源$(): 铂, 镍, 钯"
-        },
-        {
-            "lang": "de_de",
-            "text": "Cooperit",
-            "info": "$(thing)Quelle von$(): Platin, Nickel, Palladium"
-        }
-    ]
+    "translation": "material.gtceu.cooperite"
 }

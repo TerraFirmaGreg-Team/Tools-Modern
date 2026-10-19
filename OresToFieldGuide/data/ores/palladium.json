@@ -3,38 +3,5 @@
     "formula": "Pd",
     "ore_block": "gtceu:raw_palladium_block",
     "indicator": "gtceu:palladium_indicator",
-    "translation": "material.gtceu.palladium",
-    "info": "tfg.ore_patchouli_info.palladium",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Palladium",
-            "info": "$(thing)Source of$(): Palladium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Paládio",
-            "info": "$(thing)Fonte de$(): Paládio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Палладий",
-            "info": "$(thing)Используется для$(): Палладий"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Паладій",
-            "info": "$(thing)Джерело$(): Паладію"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "钯矿",
-            "info": "$(thing)来源$(): 钯"
-        },
-        {
-            "lang": "de_de",
-            "text": "Palladium",
-            "info": "$(thing)Quelle von$(): Palladium"
-        }
-    ]
+    "translation": "material.gtceu.palladium"
 }

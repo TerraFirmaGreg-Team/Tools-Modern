@@ -3,14 +3,6 @@
 	"pattern": "gtceu:schist_{0}_ore",
 	"rock_type": "metamorphic",
 	"translation": "tfg.rock_patchouli_info.schist",
-	"translations": {
-		"en_us": "Schist",
-		"pt_br": "Xisto",
-		"ru_ru": "Аспидный сланец",
-		"uk_ua": "Аспідний сланець",
-		"zh_cn": "片岩",
-		"de_de": "Kristallschiefer"
-	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/schist"
 	]

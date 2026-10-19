@@ -3,38 +3,5 @@
     "formula": "Al₂O₃",
     "ore_block": "gtceu:raw_bauxite_block",
     "indicator": "gtceu:bauxite_indicator",
-    "translation": "material.gtceu.bauxite",
-    "info": "tfg.ore_patchouli_info.bauxite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Bauxite",
-            "info": "$(thing)Source of$(): Aluminium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Bauxita",
-            "info": "$(thing)Fonte de$(): Alumínio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Боксит",
-            "info": "$(thing)Используется для$(): Алюминий"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Боксит",
-            "info": "$(thing)Джерело$(): Алюмінію"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "铝土矿",
-            "info": "$(thing)来源$(): 铝"
-        },
-        {
-            "lang": "de_de",
-            "text": "Bauxit",
-            "info": "$(thing)Quelle von$(): Aluminium"
-        }
-    ]
+    "translation": "material.gtceu.bauxite"
 }

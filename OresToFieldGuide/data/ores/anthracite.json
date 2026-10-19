@@ -3,38 +3,5 @@
     "formula": "C",
     "ore_block": "gtceu:raw_anthracite_block",
     "indicator": "gtceu:anthracite_indicator",
-    "translation": "material.gtceu.anthracite",
-    "info": "tfg.ore_patchouli_info.anthracite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Anthracite",
-            "info": "$(thing)Used for$(): Fuel"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Antracito",
-            "info": "$(thing)Usado para$(): Combustível"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Антрацит",
-            "info": "$(thing)Используется для$(): топливо"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Антрацит",
-            "info": "$(thing)Використовується для$(): Паливо"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "无烟煤",
-            "info": "$(thing)用于$(): 燃料"
-        },
-        {
-            "lang": "de_de",
-            "text": "Anthrazit",
-            "info": "$(thing)Verwendet für$(): Treibstoff"
-        }
-    ]
+    "translation": "material.gtceu.anthracite"
 }

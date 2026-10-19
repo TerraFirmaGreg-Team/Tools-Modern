@@ -5,14 +5,6 @@
 	"rock_subtype": "intrusive",
 	"rock_grade": "intermediate",
 	"translation": "tfg.rock_patchouli_info.diorite",
-	"translations": {
-		"en_us": "Diorite",
-		"pt_br": "Diorito",
-		"ru_ru": "Диорит",
-		"uk_ua": "Діорит",
-		"zh_cn": "闪长岩",
-		"de_de": "Diorit"
-	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/diorite"
 	]

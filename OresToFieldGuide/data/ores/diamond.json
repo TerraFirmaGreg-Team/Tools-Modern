@@ -3,38 +3,5 @@
     "formula": "C",
     "ore_block": "gtceu:raw_diamond_block",
     "indicator": "gtceu:diamond_bud_indicator",
-    "translation": "material.gtceu.diamond",
-    "info": "tfg.ore_patchouli_info.diamond",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Diamond",
-            "info": "$(thing)Used for$(): Macerators, AE2"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Diamante",
-            "info": "$(thing)Usado para$(): Maceradores, AE2"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Алмаз",
-            "info": "$(thing)Используется для$(): Измельчители, AE2"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Діамант",
-            "info": "$(thing)Використовується для$(): Подрібнювачів, AE2"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "钻石",
-            "info": "$(thing)用于$(): 研磨机, AE2"
-        },
-        {
-            "lang": "de_de",
-            "text": "Diamant",
-            "info": "$(thing)Verwendet für$(): Mazeratoren, AE2"
-        }
-    ]
+    "translation": "material.gtceu.diamond"
 }

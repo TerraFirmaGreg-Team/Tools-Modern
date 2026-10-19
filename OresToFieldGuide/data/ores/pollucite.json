@@ -3,38 +3,5 @@
     "formula": "Cs₂Al₂Si₄(H₂O)₂O₁₂",
     "ore_block": "gtceu:raw_pollucite_block",
     "indicator": "gtceu:pollucite_indicator",
-    "translation": "material.gtceu.pollucite",
-    "info": "tfg.ore_patchouli_info.pollucite",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Pollucite",
-            "info": "$(thing)Source of$(): Caesium, Aluminium"
-        },
-        {
-            "lang": "pt_br",
-            "text": "Polucita",
-            "info": "$(thing)Fonte de$(): Césio, Alumínio"
-        },
-        {
-            "lang": "ru_ru",
-            "text": "Поллуцит",
-            "info": "$(thing)Используется для$(): Цезий, Алюминий"
-        },
-        {
-            "lang": "uk_ua",
-            "text": "Полюцит",
-            "info": "$(thing)Джерело$(): Цезій, Алюмінію"
-        },
-        {
-            "lang": "zh_cn",
-            "text": "铯榴石",
-            "info": "$(thing)来源$(): 铯, 铝"
-        },
-        {
-            "lang": "de_de",
-            "text": "Pollucit",
-            "info": "$(thing)Quelle von$(): Cäsium, Aluminium"
-        }
-    ]
+    "translation": "material.gtceu.pollucite"
 }

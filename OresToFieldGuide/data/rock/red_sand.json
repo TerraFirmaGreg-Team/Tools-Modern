@@ -3,9 +3,6 @@
 	"pattern": "gtceu:red_sand_{0}_ore",
 	"rock_type": "sand",
 	"translation": "tfg.rock_patchouli_info.red_sand",
-	"translations": {
-		"en_us": "Red Sand"
-	},
 	"replaceable_blocks": [
 		"tfc:sand/red"
 	]
