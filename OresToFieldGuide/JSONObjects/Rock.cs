@@ -14,9 +14,21 @@ namespace OresToFieldGuide
 		public required string[] ReplaceableBlocks { get; set; }
 
 		/// <summary>
-		/// Translation key for the rock.
+		/// igneous, sedimentary, metamorphic
 		/// </summary>
-		[JsonPropertyName("translation")]
-		public required string TranslationKey { get; set; }
+		[JsonPropertyName("rock_type")]
+		public required string RockType { get; set; }
+
+		/// <summary>
+		/// extrusive, intrusive, clastic, organic, carbonate
+		/// </summary>
+		[JsonPropertyName("rock_subtype")]
+		public string? RockSubtype { get; set; }
+
+		/// <summary>
+		/// felsic, intermediate, mafic, ultramafic
+		/// </summary>
+		[JsonPropertyName("rock_grade")]
+		public string? RockGrade { get; set; }
 	}
 }
