@@ -1,6 +1,7 @@
 {
 	"id": "marble",
 	"pattern": "gtceu:marble_{0}_ore",
+	"rock_type": "metamorphic",
 	"translation": "tfg.rock_patchouli_info.marble",
 	"translations": {
 		"en_us": "Marble",

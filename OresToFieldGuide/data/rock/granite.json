@@ -1,6 +1,9 @@
 {
 	"id": "granite",
 	"pattern": "gtceu:granite_{0}_ore",
+	"rock_type": "igneous",
+	"rock_subtype": "intrusive",
+	"rock_grade": "felsic",
 	"translation": "tfg.rock_patchouli_info.granite",
 	"translations": {
 		"en_us": "Granite",

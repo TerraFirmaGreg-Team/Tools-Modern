@@ -1,6 +1,9 @@
 {
 	"id": "basalt",
 	"pattern": "gtceu:basalt_{0}_ore",
+	"rock_type": "igneous",
+	"rock_subtype": "extrusive",
+	"rock_grade": "mafic",
 	"translation": "tfg.rock_patchouli_info.basalt",
 	"translations": {
 		"en_us": "Basalt",

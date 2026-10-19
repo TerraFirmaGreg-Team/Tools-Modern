@@ -1,6 +1,9 @@
 {
 	"id": "glacio_stone",
 	"pattern": "gtceu:glacio_stone_{0}_ore",
+	"rock_type": "igneous",
+	"rock_subtype": "extrusive",
+	"rock_grade": "intermediate",
 	"translation": "tfg.rock_patchouli_info.glacio_stone",
 	"translations": {
 		"en_us": "Phonolite",

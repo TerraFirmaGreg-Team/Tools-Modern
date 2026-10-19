@@ -1,6 +1,7 @@
 {
 	"id": "gneiss",
 	"pattern": "gtceu:gneiss_{0}_ore",
+	"rock_type": "metamorphic",
 	"translation": "tfg.rock_patchouli_info.gneiss",
 	"translations": {
 		"en_us": "Gneiss",

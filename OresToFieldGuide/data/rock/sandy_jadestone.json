@@ -1,6 +1,9 @@
 {
 	"id": "sandy_jadestone",
 	"pattern": "gtceu:sandy_jadestone_{0}_ore",
+	"rock_type": "igneous",
+	"rock_subtype": "extrusive",
+	"rock_grade": "ultramafic",
 	"translation": "tfg.rock_patchouli_info.sandy_jadestone",
 	"translations": {
 		"en_us": "Lamproite",

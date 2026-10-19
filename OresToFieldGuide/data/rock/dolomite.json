@@ -1,6 +1,8 @@
 {
 	"id": "dolomite",
 	"pattern": "gtceu:dolomite_{0}_ore",
+	"rock_type": "sedimentary",
+	"rock_subtype": "carbonate",
 	"translation": "tfg.rock_patchouli_info.dolomite",
 	"translations": {
 		"en_us": "Dolomite",

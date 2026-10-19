@@ -1,6 +1,9 @@
 {
 	"id": "moon_stone",
 	"pattern": "gtceu:moon_stone_{0}_ore",
+	"rock_type": "igneous",
+	"rock_subtype": "intrusive",
+	"rock_grade": "mafic",
 	"translation": "tfg.rock_patchouli_info.moon_stone",
 	"translations": {
 		"en_us": "Anorthosite",

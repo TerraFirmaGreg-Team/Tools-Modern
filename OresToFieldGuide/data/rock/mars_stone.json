@@ -1,6 +1,8 @@
 {
 	"id": "mars_stone",
 	"pattern": "gtceu:mars_stone_{0}_ore",
+	"rock_type": "sedimentary",
+	"rock_subtype": "clastic",
 	"translation": "tfg.rock_patchouli_info.mars_stone",
 	"translations": {
 		"en_us": "Argillite",

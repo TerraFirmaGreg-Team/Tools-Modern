@@ -1,6 +1,8 @@
 {
 	"id": "shale",
 	"pattern": "gtceu:shale_{0}_ore",
+	"rock_type": "sedimentary",
+	"rock_subtype": "clastic",
 	"translation": "tfg.rock_patchouli_info.shale",
 	"translations": {
 		"en_us": "Shale",

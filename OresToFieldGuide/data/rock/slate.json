@@ -1,6 +1,7 @@
 {
 	"id": "slate",
 	"pattern": "gtceu:slate_{0}_ore",
+	"rock_type": "metamorphic",
 	"translation": "tfg.rock_patchouli_info.slate",
 	"translations": {
 		"en_us": "Slate",

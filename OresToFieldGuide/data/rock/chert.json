@@ -1,6 +1,8 @@
 {
 	"id": "chert",
 	"pattern": "gtceu:chert_{0}_ore",
+	"rock_type": "sedimentary",
+	"rock_subtype": "organic",
 	"translation": "tfg.rock_patchouli_info.chert",
 	"translations": {
 		"en_us": "Chert",

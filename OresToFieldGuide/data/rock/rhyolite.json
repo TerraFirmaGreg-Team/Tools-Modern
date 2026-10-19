@@ -1,6 +1,9 @@
 {
 	"id": "rhyolite",
 	"pattern": "gtceu:rhyolite_{0}_ore",
+	"rock_type": "igneous",
+	"rock_subtype": "extrusive",
+	"rock_grade": "felsic",
 	"translation": "tfg.rock_patchouli_info.rhyolite",
 	"translations": {
 		"en_us": "Rhyolite",

@@ -1,6 +1,9 @@
 {
 	"id": "mercury_stone",
 	"pattern": "gtceu:mercury_stone_{0}_ore",
+	"rock_type": "igneous",
+	"rock_subtype": "intrusive",
+	"rock_grade": "ultramafic",
 	"translation": "tfg.rock_patchouli_info.mercury_stone",
 	"translations": {
 		"en_us": "Komatiite",
