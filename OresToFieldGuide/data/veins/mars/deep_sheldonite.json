@@ -16,7 +16,7 @@
 			"block_weight": 1
 		},
 		{
-			"ore": "cooperite",
+			"ore": "ruarsite",
 			"weight": 25
 		},
 		{
@@ -24,7 +24,7 @@
 			"weight": 25
 		},
 		{
-			"ore": "platinum",
+			"ore": "ferhodsite",
 			"weight": 15
 		}
 	],
