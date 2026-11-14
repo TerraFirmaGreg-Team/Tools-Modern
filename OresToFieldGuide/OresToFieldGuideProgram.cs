@@ -361,7 +361,7 @@ namespace OresToFieldGuide
 
 				sb.AppendLine($"\t\t.put(\"{rock.ReplaceableBlocks.First()}\", new OreVeinRockInfo(\"{rock.ID}\", ResourceLocation.fromNamespaceAndPath(\"{block[0]}\", \"{block[1]}\"), \"{rock.RockType}\", \"{rock.RockSubtype}\", \"{rock.RockGrade}\"))");
 			}
-			sb.AppendLine("\t.build();");
+			sb.AppendLine("\t\t.build();");
 
 			sb.AppendLine("}");
 

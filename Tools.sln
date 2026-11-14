@@ -28,7 +28,7 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "AdvancedMultiblockConverter
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "resources", "resources", "{0C9E45C8-DBBD-409B-BE2E-1E369557ECA9}"
 	ProjectSection(SolutionItems) = preProject
-		skyboxes.txt = skyboxes.txt
+		resources\skyboxes.txt = resources\skyboxes.txt
 	EndProjectSection
 EndProject
 Global
