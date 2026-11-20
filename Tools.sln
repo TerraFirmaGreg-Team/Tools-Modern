@@ -28,7 +28,7 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "AdvancedMultiblockConverter
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "resources", "resources", "{0C9E45C8-DBBD-409B-BE2E-1E369557ECA9}"
 	ProjectSection(SolutionItems) = preProject
-		skyboxes.txt = skyboxes.txt
+		resources\skyboxes.txt = resources\skyboxes.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatchouliToEmi", "PatchouliToEmi\PatchouliToEmi.csproj", "{44CB2169-6AC4-4605-8D1B-35D08BD2EA05}"
