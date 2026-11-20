@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace OresToFieldGuide
+namespace Common.Patchouli
 {
     /// <summary>
     /// A JSON Object used to define a MultiBlock structure in Patchouli

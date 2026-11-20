@@ -1,4 +1,6 @@
-﻿namespace OresToFieldGuide
+﻿using System.Text.Json.Serialization;
+
+namespace Common.Patchouli
 {
     /// <summary>
     /// A .NET Representation of a Patchouli Page for displaying Relations
@@ -9,8 +11,13 @@
     {
         public override string Type => "patchouli:relations";
 
+        [JsonPropertyName("entries")]
         public required string[] Entries { get; set; }
+
+        [JsonPropertyName("title")]
         public string? Title { get; set; }
+
+        [JsonPropertyName("text")]
         public string? Text { get; set; }
     }
 }

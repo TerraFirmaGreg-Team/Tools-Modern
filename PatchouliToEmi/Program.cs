@@ -1,4 +1,6 @@
-﻿using Common;
+﻿using System.Text.Json;
+using Common;
+using Common.Patchouli;
 
 namespace PatchouliToEmi
 {
@@ -22,6 +24,23 @@ namespace PatchouliToEmi
 			}
 
 
+			var jsonOpts = new JsonSerializerOptions
+			{
+				AllowOutOfOrderMetadataProperties = true,
+			};
+
+			List<PatchouliEntry> entryList = [];
+
+			foreach (var file in Directory.EnumerateFiles(patchouliFolder, "*.json", SearchOption.AllDirectories))
+			{
+				ConsoleLogHelper.WriteLine("Deserializing " + file, LogLevel.Info);
+
+				var entry = JsonSerializer.Deserialize<PatchouliEntry>(File.ReadAllText(file), jsonOpts);
+				if (entry is null)
+					continue;
+
+				entryList.Add(entry);
+			}
 		}
 
 
@@ -36,6 +55,8 @@ namespace PatchouliToEmi
 			try
 			{
 				programArguments.ModpackFolder = options.ModpackDir!;
+
+				// TODO
 			}
 			catch (Exception e)
 			{

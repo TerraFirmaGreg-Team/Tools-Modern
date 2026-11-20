@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace OresToFieldGuide
+namespace Common.Patchouli
 {
     /// <summary>
     /// A .NET Representation of a Patchouli Page for displaying Text
