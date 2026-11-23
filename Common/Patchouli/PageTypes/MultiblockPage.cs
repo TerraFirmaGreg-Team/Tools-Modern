@@ -14,10 +14,16 @@ namespace Common.Patchouli
         public override string Type => "patchouli:multiblock";
 
         [JsonPropertyName("name")]
-        public required string Name { get; set; }
+        public string? Name { get; set; }
 
+        /// <summary>
+        /// Required unless <see cref="MultiblockID"/> is non-null
+        /// </summary>
         [JsonPropertyName("multiblock")]
-        public required Multiblock Multiblock { get; set; }
+        public Multiblock? Multiblock { get; set; }
+
+        [JsonPropertyName("multiblock_id")]
+        public string? MultiblockID { get; set; }
 
         [JsonPropertyName("enable_visualize")]
         public bool EnableVisualize { get; set; } = true;

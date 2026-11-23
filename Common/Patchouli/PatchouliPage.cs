@@ -18,8 +18,21 @@ namespace Common.Patchouli
 	[JsonDerivedType(typeof(SpotlightPage), "patchouli:spotlight")]
 	[JsonDerivedType(typeof(TextPage), "patchouli:text")]
 	[JsonDerivedType(typeof(TablePage), "tfg:table")]
-	[JsonDerivedType(typeof(HeatRecipePage), "tfg:heat_recipe")]
+	[JsonDerivedType(typeof(TableSmallPage), "tfg:table_small")]
+	[JsonDerivedType(typeof(AnvilPage), "tfg:anvil_recipe")]
+	[JsonDerivedType(typeof(DryingPage), "tfg:drying_recipe")]
+	[JsonDerivedType(typeof(GlassworkingPage), "tfg:glassworking_recipe")]
+	[JsonDerivedType(typeof(HeatPage), "tfg:heat_recipe")]
+	[JsonDerivedType(typeof(InstantBarrelPage), "tfg:instant_barrel_recipe")]
+	[JsonDerivedType(typeof(KnappingPage), "tfg:knapping_recipe")]
+	[JsonDerivedType(typeof(LoomPage), "tfg:loom_recipe")]
+	[JsonDerivedType(typeof(QuernPage), "tfg:quern_recipe")]
+	[JsonDerivedType(typeof(RockKnappingPage), "tfg:rock_knapping_recipe")]
+	[JsonDerivedType(typeof(SealedBarrelPage), "tfg:sealed_barrel_recipe")]
+	[JsonDerivedType(typeof(SmokingPage), "tfg:smoking_recipe")]
+	[JsonDerivedType(typeof(WeldingPage), "tfg:welding_recipe")]
 	[JsonDerivedType(typeof(MultimultiblockPage), "tfg:multimultiblock")]
+	
 	public abstract class PatchouliPage
 	{
 		[JsonPropertyName("type")]
