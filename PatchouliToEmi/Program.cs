@@ -41,6 +41,48 @@ namespace PatchouliToEmi
 
 				entryList.Add(entry);
 			}
+
+			ConsoleLogHelper.WriteLine("===============================", LogLevel.Info);
+
+
+			foreach (var entry in entryList)
+			{
+				for (int i = 0; i < entry.Pages.Count; i++)
+				{
+					PatchouliPage? page = entry.Pages[i];
+					if (page is SpotlightPage spotlight)
+					{
+						var split = spotlight.Item.Split(',', StringSplitOptions.RemoveEmptyEntries);
+
+						foreach (var item in split)
+						{
+							if (item.StartsWith("tag:"))
+							{
+								ConsoleLogHelper.WriteLine($"Tag: #{item[4..]} - on {entry.Name}#{i}", LogLevel.Info);
+							}
+							else
+							{
+								ConsoleLogHelper.WriteLine($"Item: {item} - on {entry.Name}#{i}", LogLevel.Info);
+							}
+						}
+					}
+				}
+
+				if (entry.ExtraRecipeMappings is not null) 
+				{
+					foreach (var mapping in entry.ExtraRecipeMappings)
+					{
+						if (mapping.Key.StartsWith("tag:"))
+						{
+							ConsoleLogHelper.WriteLine($"Tag: #{mapping.Key[4..]} - on {entry.Name}#{mapping.Value}", LogLevel.Info);
+						}
+						else
+						{
+							ConsoleLogHelper.WriteLine($"Item: {mapping.Key} - on {entry.Name}#{mapping.Value}", LogLevel.Info);
+						}
+					}
+				}
+			}
 		}
 
 
